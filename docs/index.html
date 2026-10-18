@@ -134,11 +134,13 @@ body {
   height: 100vh;
   overflow: hidden;
   line-height: 1.65;
+  --sidebar-width: 360px;
 }
-/* Sidebar & Collapsible Reader Mode */
+/* Sidebar & Collapsible / Resizable Reader Mode */
 #sidebar, .sidebar {
-  width: 320px;
-  min-width: 320px;
+  width: var(--sidebar-width, 360px);
+  min-width: var(--sidebar-width, 360px);
+  max-width: 550px;
   background: var(--bg-sidebar);
   border-right: 1px solid var(--border);
   display: flex;
@@ -147,17 +149,61 @@ body {
   transition: width 0.25s ease, min-width 0.25s ease, margin-left 0.25s ease, opacity 0.2s ease;
   z-index: 20;
 }
+body.sidebar-resizing #sidebar,
+body.sidebar-resizing .sidebar,
+body.sidebar-resizing .main {
+  transition: none !important;
+}
+#sidebar-resizer {
+  width: 6px;
+  min-width: 6px;
+  height: 100vh;
+  cursor: col-resize;
+  background: transparent;
+  position: relative;
+  z-index: 25;
+  flex-shrink: 0;
+  touch-action: none;
+  -webkit-user-select: none;
+  user-select: none;
+  transition: background 0.15s ease;
+}
+#sidebar-resizer::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 2px;
+  width: 2px;
+  background: transparent;
+  transition: background 0.15s ease;
+}
+#sidebar-resizer:hover::after,
+#sidebar-resizer.dragging::after,
+#sidebar-resizer:focus-visible::after {
+  background: var(--accent-emerald);
+  box-shadow: 0 0 8px var(--accent-emerald);
+}
+#sidebar-resizer:focus-visible {
+  outline: none;
+}
 body.sidebar-collapsed #sidebar,
 body.sidebar-collapsed .sidebar {
   display: none !important;
   width: 0 !important;
   min-width: 0 !important;
   max-width: 0 !important;
-  margin-left: -320px !important;
+  margin-left: -360px !important;
   opacity: 0 !important;
   pointer-events: none !important;
   visibility: hidden !important;
   overflow: hidden !important;
+}
+body.sidebar-collapsed #sidebar-resizer {
+  display: none !important;
+  width: 0 !important;
+  min-width: 0 !important;
+  pointer-events: none !important;
 }
 [inert], [inert] * {
   opacity: 0.5;
@@ -269,11 +315,15 @@ body.sidebar-collapsed .main {
   padding-top: 5px;
   border-top: 1px dashed rgba(212, 175, 55, 0.25);
   font-family: 'JetBrains Mono', monospace;
-  font-size: 10px;
+  font-size: 10.5px;
   color: var(--accent-emerald);
   display: flex;
+  flex-wrap: nowrap;
   justify-content: space-between;
   align-items: center;
+  gap: 4px;
+  white-space: nowrap;
+  overflow: hidden;
 }
 .search-box {
   display: block;
@@ -926,9 +976,8 @@ a.fn-backref:hover {
       </div>
     </div>
     <p id="brandDesc">Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı</p>
-    <div class="brand-meta-bar">
-      <span id="brandMetaLeft">⚖️ İSNAD 2 (77 Nakil) • 46 DOI</span>
-      <span id="brandMetaRight">26 Adım • 15 Rapor</span>
+    <div class="brand-meta-bar" id="brandMetaBar">
+      <span style="white-space:nowrap">⚖️ 15 Rapor</span><span>•</span><span style="white-space:nowrap">26 Adım</span><span>•</span><span style="white-space:nowrap">77 Nakil</span><span>•</span><span style="white-space:nowrap">46 DOI</span>
     </div>
   </div>
   <search class="search-box">
@@ -936,6 +985,7 @@ a.fn-backref:hover {
   </search>
   <div class="report-list" id="reportList"></div>
 </aside>
+<div id="sidebar-resizer" class="no-print" tabindex="0" aria-label="Genişliği ayarlamak için sürükleyin veya Sağ ve Sol yön tuşlarını kullanın (Çift tıkla: Sıfırla)"></div>
 
 <main class="main">
   <header class="topbar">
@@ -1307,12 +1357,12 @@ function setLanguage(lang) {
   document.getElementById('brandDesc').textContent = isEn
     ? 'Evidence-Based Quranic Strategic Foresight & Maqasid Corpus'
     : 'Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı';
-  document.getElementById('brandMetaLeft').textContent = isEn
-    ? `⚖️ ISNAD 2 (${TOTAL_CLASSICAL} Texts) • ${TOTAL_MODERN} DOIs`
-    : `⚖️ İSNAD 2 (${TOTAL_CLASSICAL} Nakil) • ${TOTAL_MODERN} DOI`;
-  document.getElementById('brandMetaRight').textContent = isEn
-    ? `26 Steps • ${REPORTS.length} Reports`
-    : `26 Adım • ${REPORTS.length} Rapor`;
+  const metaBar = document.getElementById('brandMetaBar');
+  if (metaBar) {
+    metaBar.innerHTML = isEn
+      ? `<span style="white-space:nowrap">⚖️ ${REPORTS.length} Reports</span><span>•</span><span style="white-space:nowrap">26 Steps</span><span>•</span><span style="white-space:nowrap">${TOTAL_CLASSICAL} Texts</span><span>•</span><span style="white-space:nowrap">${TOTAL_MODERN} DOIs</span>`
+      : `<span style="white-space:nowrap">⚖️ ${REPORTS.length} Rapor</span><span>•</span><span style="white-space:nowrap">26 Adım</span><span>•</span><span style="white-space:nowrap">${TOTAL_CLASSICAL} Nakil</span><span>•</span><span style="white-space:nowrap">${TOTAL_MODERN} DOI</span>`;
+  }
 
   const searchInput = document.getElementById('searchInput');
   if (searchInput) {
@@ -2498,12 +2548,78 @@ function toggleSidebar() {
   updateSidebarToggleUI();
 }
 
-// Restore saved theme, sidebar & font scale state from localStorage
+function setSidebarWidth(px, persist = true) {
+  const clamped = Math.max(280, Math.min(550, Math.round(px)));
+  document.documentElement.style.setProperty('--sidebar-width', `${clamped}px`);
+  document.body.style.setProperty('--sidebar-width', `${clamped}px`);
+  if (persist) {
+    try { localStorage.setItem('qv_sidebar_width', String(clamped)); } catch (e) {}
+  }
+  return clamped;
+}
+
+(function initSidebarResizer() {
+  const resizer = document.getElementById('sidebar-resizer');
+  const sidebar = document.getElementById('sidebar');
+  if (!resizer || !sidebar) return;
+
+  let startX = 0;
+  let startWidth = 360;
+
+  resizer.addEventListener('pointerdown', (e) => {
+    if (e.button !== 0 || document.body.classList.contains('sidebar-collapsed')) return;
+    startX = e.clientX;
+    startWidth = sidebar.getBoundingClientRect().width || 360;
+    resizer.setPointerCapture(e.pointerId);
+    resizer.classList.add('dragging');
+    document.body.classList.add('sidebar-resizing');
+  });
+
+  resizer.addEventListener('pointermove', (e) => {
+    if (!resizer.hasPointerCapture(e.pointerId)) return;
+    const nextWidth = startWidth + (e.clientX - startX);
+    setSidebarWidth(nextWidth, false);
+  });
+
+  const finishResize = (e) => {
+    if (e && e.pointerId !== undefined && resizer.hasPointerCapture(e.pointerId)) {
+      try { resizer.releasePointerCapture(e.pointerId); } catch (err) {}
+    }
+    if (resizer.classList.contains('dragging')) {
+      resizer.classList.remove('dragging');
+      document.body.classList.remove('sidebar-resizing');
+      const finalWidth = sidebar.getBoundingClientRect().width || 360;
+      setSidebarWidth(finalWidth, true);
+    }
+  };
+
+  resizer.addEventListener('pointerup', finishResize);
+  resizer.addEventListener('lostpointercapture', finishResize);
+
+  resizer.addEventListener('dblclick', () => {
+    setSidebarWidth(360, true);
+  });
+
+  resizer.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
+      e.preventDefault();
+      const curWidth = sidebar.getBoundingClientRect().width || 360;
+      const step = e.key === 'ArrowRight' ? 15 : -15;
+      setSidebarWidth(curWidth + step, true);
+    }
+  });
+})();
+
+// Restore saved theme, sidebar, width & font scale state from localStorage
 (function restoreUserPreferences() {
   try {
     const savedTheme = localStorage.getItem('qv_theme_v621');
     if (savedTheme === 'dark' || savedTheme === 'light') {
       document.documentElement.setAttribute('data-theme', savedTheme);
+    }
+    const savedWidth = parseInt(localStorage.getItem('qv_sidebar_width') || '360', 10);
+    if (!isNaN(savedWidth) && savedWidth >= 280 && savedWidth <= 550) {
+      setSidebarWidth(savedWidth, false);
     }
     const savedSidebar = localStorage.getItem('qv_sidebar_collapsed');
     if (savedSidebar === '1') {

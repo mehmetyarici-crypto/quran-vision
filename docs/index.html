@@ -90,50 +90,71 @@
 <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root[data-theme="dark"] {
-  --bg-main: #11221c;
-  --bg-sidebar: #0d1a15;
-  --bg-card: #182e26;
-  --bg-card-hover: #1f3a30;
-  --bg-surface: #142720;
-  --border: #25473b;
+  --bg-main: #0f1f19;
+  --bg-sidebar: #0b1713;
+  --bg-card: #152922;
+  --bg-card-hover: #1c362d;
+  --bg-surface: #12231d;
+  --border: #284d3f;
   --text-heading: #FFFFFF;
   --text-main: #F2F7F4;
   --text-primary: #F2F7F4;
   --text-secondary: #D0E0D8;
   --text-muted: #D0E0D8;
   --accent-gold: #FFFFFF;
-  --accent-gold-soft: rgba(255, 255, 255, 0.12);
-  --accent-gold-border: rgba(255, 255, 255, 0.28);
-  --accent-contrast: #0d1a15;
+  --accent-gold-soft: #1d382e;
+  --accent-gold-border: #4d7c6a;
+  --accent-contrast: #0b1713;
   --accent-emerald: #529e82;
-  --accent-emerald-soft: rgba(82, 158, 130, 0.16);
+  --accent-emerald-soft: #173329;
+  --accent-emerald-border: #38755e;
   --danger: #ef4444;
-  --shadow: 0 10px 28px rgba(0,0,0,0.40);
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
 }
 :root[data-theme="light"] {
   --bg-main: #f6f8f7;
   --bg-sidebar: #ffffff;
   --bg-card: #ffffff;
-  --bg-card-hover: #f0f5f3;
+  --bg-card-hover: #eef4f1;
   --bg-surface: #eef3f1;
-  --border: #d5e2dc;
+  --border: #cbdcd4;
   --text-heading: #143328;
   --text-main: #10241d;
   --text-primary: #10241d;
   --text-secondary: #2b4c3f;
   --text-muted: #4b6b5e;
   --accent-gold: #143328;
-  --accent-gold-soft: rgba(20, 51, 40, 0.09);
-  --accent-gold-border: rgba(20, 51, 40, 0.28);
+  --accent-gold-soft: #e3ede8;
+  --accent-gold-border: #143328;
   --accent-contrast: #ffffff;
   --accent-emerald: #059669;
-  --accent-emerald-soft: rgba(5, 150, 105, 0.12);
+  --accent-emerald-soft: #e0f2ec;
+  --accent-emerald-border: #059669;
   --danger: #dc2626;
-  --shadow: 0 6px 20px rgba(16,36,29,0.07);
+  --shadow: 0 4px 16px rgba(16, 36, 29, 0.08);
 }
-* { box-sizing: border-box; margin: 0; padding: 0; }
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}
+html, body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  font-optical-sizing: auto;
+  font-synthesis: none;
+  -webkit-text-size-adjust: 100%;
+}
+svg, svg *, img {
+  shape-rendering: geometricPrecision;
+  text-rendering: geometricPrecision;
+}
 body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   background: var(--bg-main);
   color: var(--text-primary);
   display: flex;
@@ -188,7 +209,6 @@ body.sidebar-resizing .main {
 #sidebar-resizer.dragging::after,
 #sidebar-resizer:focus-visible::after {
   background: var(--accent-emerald);
-  box-shadow: 0 0 8px var(--accent-emerald);
 }
 #sidebar-resizer:focus-visible {
   outline: none;
@@ -234,11 +254,11 @@ body.sidebar-collapsed .main {
   height: 36px;
   padding: 0;
   border-radius: 8px;
-  border: 1.5px solid var(--accent-gold-border);
+  border: 1px solid var(--accent-gold-border);
   background: var(--accent-gold-soft);
   color: var(--accent-gold);
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
   flex-shrink: 0;
 }
 #sidebar-toggle:hover, .QuickControlBtn:hover {
@@ -257,7 +277,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
 .brand {
   padding: 12px 16px 10px;
   border-bottom: 1px solid var(--border);
-  background: linear-gradient(145deg, rgba(82,158,130,0.12) 0%, rgba(255,255,255,0.04) 55%, rgba(13,26,21,0.35) 100%);
+  background: var(--bg-surface);
   position: relative;
 }
 .brand-top-row {
@@ -273,7 +293,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
   gap: 5px;
   font-size: 10px;
   font-weight: 700;
-  letter-spacing: 0.7px;
+  letter-spacing: 0.6px;
   text-transform: uppercase;
   color: var(--accent-gold);
   background: var(--accent-gold-soft);
@@ -292,24 +312,23 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
   height: 38px;
   min-width: 38px;
   border-radius: 10px;
-  background: linear-gradient(135deg, var(--accent-gold-soft), rgba(16,185,129,0.20));
-  border: 1.5px solid var(--accent-gold-border);
+  background: var(--accent-gold-soft);
+  border: 1px solid var(--accent-gold-border);
   color: var(--accent-gold);
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
 }
 .brand-titles {
   display: flex;
   flex-direction: column;
 }
 .brand h1 {
-  font-size: 16.5px;
+  font-size: 16px;
   font-weight: 800;
   color: var(--text-heading);
   letter-spacing: 0.3px;
-  line-height: 1.15;
+  line-height: 1.2;
   text-transform: uppercase;
 }
 .brand-sub-en {
@@ -320,7 +339,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
   margin-top: 1px;
 }
 .brand p {
-  font-size: 11.5px;
+  font-size: 12px;
   font-weight: 500;
   color: var(--text-secondary);
   line-height: 1.35;
@@ -329,9 +348,9 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
 .brand-meta-bar {
   margin-top: 6px;
   padding-top: 5px;
-  border-top: 1px dashed var(--border);
+  border-top: 1px solid var(--border);
   font-family: 'JetBrains Mono', monospace;
-  font-size: 10.5px;
+  font-size: 11px;
   color: var(--text-secondary);
   display: flex;
   flex-wrap: nowrap;
@@ -353,9 +372,9 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
   border: 1px solid var(--border);
   background: var(--bg-surface);
   color: var(--text-primary);
-  font-size: 12.5px;
+  font-size: 13px;
   outline: none;
-  transition: border 0.2s;
+  transition: border-color 0.15s;
 }
 .search-input:focus {
   border-color: var(--accent-gold);
@@ -371,7 +390,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
   border: 1px solid transparent;
   margin-bottom: 4px;
   cursor: pointer;
-  transition: all 0.16s ease;
+  transition: background 0.15s ease, border-color 0.15s ease;
 }
 .report-item:hover {
   background: var(--bg-card-hover);
@@ -380,7 +399,6 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
 .report-item.active {
   background: var(--bg-card);
   border-color: var(--accent-gold);
-  box-shadow: var(--shadow);
 }
 .report-item-top {
   display: flex;
@@ -395,16 +413,17 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
 }
 .report-code {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 10.5px;
+  font-size: 11px;
   color: var(--text-muted);
 }
 .report-topic {
-  font-size: 11.5px;
+  font-size: 12px;
   color: var(--text-secondary);
   display: -webkit-box;
   -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  text-overflow: ellipsis;
   line-height: 1.4;
 }
 .report-item:hover .report-topic,
@@ -454,7 +473,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
 }
 .stat-pill strong {
   color: var(--text-heading);
-  font-size: 12.5px;
+  font-size: 12px;
 }
 .top-actions {
   display: flex;
@@ -475,7 +494,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
   font-weight: 600;
   cursor: pointer;
   text-decoration: none;
-  transition: all 0.15s;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
   white-space: nowrap;
 }
 .btn:hover {
@@ -484,7 +503,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
 }
 .btn-primary {
   background: var(--accent-emerald-soft);
-  border-color: rgba(16, 185, 129, 0.45);
+  border-color: var(--accent-emerald-border);
   color: var(--text-heading);
 }
 .btn-primary:hover {
@@ -512,7 +531,6 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
   border-radius: 12px;
   padding: 16px 22px;
   margin-bottom: 16px;
-  box-shadow: var(--shadow);
 }
 .hero-meta {
   display: flex;
@@ -528,7 +546,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {
   border-radius: 6px;
 }
 .badge-gold { background: var(--accent-gold-soft); color: var(--accent-gold); border: 1px solid var(--accent-gold-border); }
-.badge-emerald { background: var(--accent-emerald-soft); color: var(--text-secondary); border: 1px solid rgba(82,158,130,0.40); }
+.badge-emerald { background: var(--accent-emerald-soft); color: var(--text-secondary); border: 1px solid var(--accent-emerald-border); }
 .badge-mono { font-family: 'JetBrains Mono', monospace; background: var(--bg-surface); color: var(--text-secondary); border: 1px solid var(--border); }
 
 .hero-title {
@@ -571,7 +589,6 @@ summary.meta-summary::after {
   content: '▾';
   font-size: 13px;
   color: var(--accent-gold);
-  transition: transform 0.2s ease;
 }
 details.meta-disclosure[open] > summary.meta-summary::after {
   content: '▴';
@@ -581,7 +598,7 @@ summary.meta-summary:hover {
 }
 .meta-disclosure-body {
   padding: 8px 14px 10px;
-  border-top: 1px dashed var(--border);
+  border-top: 1px solid var(--border);
   display: flex;
   flex-direction: column;
   gap: 6px;
@@ -613,10 +630,10 @@ summary.meta-summary:hover {
   border: 1px solid var(--border);
   background: var(--bg-surface);
   color: var(--text-secondary);
-  font-size: 12.5px;
+  font-size: 13px;
   font-weight: 600;
   cursor: pointer;
-  transition: all 0.15s;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
   white-space: nowrap;
 }
 .tab-btn.active {
@@ -685,11 +702,11 @@ summary.meta-summary:hover {
   border: none;
   background: transparent;
   color: var(--text-primary);
-  font-size: 12.5px;
+  font-size: 12px;
   font-weight: 700;
   padding: 7px 10px;
   cursor: pointer;
-  transition: all 0.15s;
+  transition: background 0.15s, color 0.15s;
   line-height: 1;
 }
 .font-btn:hover {
@@ -698,7 +715,7 @@ summary.meta-summary:hover {
 }
 .font-scale-badge {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 11.5px;
+  font-size: 12px;
   color: var(--accent-gold);
   border-left: 1px solid var(--border);
   border-right: 1px solid var(--border);
@@ -732,7 +749,7 @@ summary.meta-summary:hover {
   font-weight: 600;
 }
 .source-meta {
-  font-size: calc(12.5px * var(--font-scale, 1));
+  font-size: calc(13px * var(--font-scale, 1));
   color: var(--text-secondary);
   margin-bottom: 10px;
 }
@@ -768,9 +785,9 @@ summary.meta-summary:hover {
 .md-body h2 { font-size: calc(17px * var(--font-scale, 1)); color: var(--text-heading); margin: 28px 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
 .md-body h3 { font-size: calc(15px * var(--font-scale, 1)); color: var(--text-heading); margin: 20px 0 8px; }
 .md-body h4 { font-size: calc(14px * var(--font-scale, 1)); color: var(--text-primary); margin: 16px 0 6px; }
-.md-body p { margin-bottom: 12px; font-size: calc(14.5px * var(--font-scale, 1)); line-height: 1.75; color: var(--text-primary); }
+.md-body p { margin-bottom: 12px; font-size: calc(15px * var(--font-scale, 1)); line-height: 1.75; color: var(--text-primary); }
 .md-body ul, .md-body ol { margin: 8px 0 16px 22px; }
-.md-body li { margin-bottom: 6px; font-size: calc(14.5px * var(--font-scale, 1)); line-height: 1.7; }
+.md-body li { margin-bottom: 6px; font-size: calc(15px * var(--font-scale, 1)); line-height: 1.7; }
 .md-body pre {
   background: var(--bg-surface);
   border: 1px solid var(--border);
@@ -780,7 +797,7 @@ summary.meta-summary:hover {
   white-space: pre-wrap;
   word-break: break-word;
   font-family: 'JetBrains Mono', monospace;
-  font-size: calc(12.5px * var(--font-scale, 1));
+  font-size: calc(13px * var(--font-scale, 1));
   margin: 14px 0;
   color: var(--text-primary);
 }
@@ -788,7 +805,7 @@ summary.meta-summary:hover {
   width: 100%;
   border-collapse: collapse;
   margin: 16px 0;
-  font-size: calc(13.5px * var(--font-scale, 1));
+  font-size: calc(14px * var(--font-scale, 1));
 }
 .md-body th, .md-body td {
   border: 1px solid var(--border);
@@ -813,7 +830,7 @@ summary.meta-summary:hover {
 .tag-yorum {
   background: var(--accent-emerald-soft);
   color: var(--text-secondary);
-  border: 1px solid rgba(82, 158, 130, 0.35);
+  border: 1px solid var(--accent-emerald-border);
   padding: 2px 7px;
   border-radius: 4px;
   font-family: 'JetBrains Mono', monospace;
@@ -889,7 +906,7 @@ a.fn-backref:hover {
 }
 .form-label {
   display: block;
-  font-size: 12.5px;
+  font-size: 13px;
   font-weight: 600;
   color: var(--text-heading);
   margin-bottom: 6px;
@@ -902,9 +919,9 @@ a.fn-backref:hover {
   background: var(--bg-surface);
   color: var(--text-primary);
   font-family: inherit;
-  font-size: 13.5px;
+  font-size: 14px;
   outline: none;
-  transition: border 0.2s;
+  transition: border-color 0.2s;
 }
 .form-input:focus, .form-select:focus, .form-textarea:focus {
   border-color: var(--accent-gold);
@@ -991,11 +1008,11 @@ a.fn-backref:hover {
     </div>
     <div class="brand-identity">
       <div class="brand-crest">
-        <svg width="26" height="26" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <path d="M18 3L21.5 9.5L29 10.5L23.5 15.5L25 23L18 19.5L11 23L12.5 15.5L7 10.5L14.5 9.5L18 3Z" stroke="currentColor" stroke-width="1.4" fill="currentColor" fill-opacity="0.12"/>
-          <path d="M8 26C11 24.5 15 24.5 18 26.5C21 24.5 25 24.5 28 26V32C25 30.5 21 30.5 18 32.5C15 30.5 11 30.5 8 32V26Z" stroke="currentColor" stroke-opacity="0.75" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-          <line x1="18" y1="6" x2="18" y2="32" stroke="currentColor" stroke-width="1.6"/>
-          <line x1="11" y1="14" x2="25" y2="14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        <svg width="26" height="26" viewBox="0 0 36 36" fill="none" shape-rendering="geometricPrecision" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path d="M18 3L21.5 9.5L29 10.5L23.5 15.5L25 23L18 19.5L11 23L12.5 15.5L7 10.5L14.5 9.5L18 3Z" stroke="currentColor" stroke-width="1.5" fill="currentColor" fill-opacity="0.12"/>
+          <path d="M8 26C11 24.5 15 24.5 18 26.5C21 24.5 25 24.5 28 26V32C25 30.5 21 30.5 18 32.5C15 30.5 11 30.5 8 32V26Z" stroke="currentColor" stroke-opacity="0.8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="18" y1="6" x2="18" y2="32" stroke="currentColor" stroke-width="1.5"/>
+          <line x1="11" y1="14" x2="25" y2="14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
         </svg>
       </div>
       <div class="brand-titles">
@@ -1019,7 +1036,7 @@ a.fn-backref:hover {
   <header class="topbar">
     <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
       <button id="sidebar-toggle" type="button" onclick="toggleSidebar()" title="Menüyü Gizle / Göster [Ctrl+B]" aria-label="Menüyü Gizle / Göster [Ctrl+B]">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" shape-rendering="geometricPrecision" aria-hidden="true">
           <rect x="3" y="3" width="18" height="18" rx="3"/>
           <rect class="sidebar-pane-fill" x="3" y="3" width="7" height="18" rx="2" stroke="none"/>
           <line x1="10" y1="3" x2="10" y2="21"/>
@@ -1623,7 +1640,7 @@ function selectReport(idx) {
   const pctNow = Math.round(currentFontScale * 100);
   const pctDisp = isEn ? `${pctNow}%` : `%${pctNow}`;
   const fulltextToolbar = `
-    <div style="position:sticky; top:-20px; z-index:15; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; padding:10px 16px; margin-bottom:16px; border-radius:10px; background:var(--bg-surface); border:1.5px solid var(--accent-gold); box-shadow:var(--shadow);">
+    <div style="position:sticky; top:-20px; z-index:15; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; padding:10px 16px; margin-bottom:16px; border-radius:10px; background:var(--bg-surface); border:1px solid var(--accent-gold-border);">
       <div style="font-size:13px; color:var(--text-secondary);">
         📖 <strong>${r.case_id} • ${getReportSurah(r)} ${r.verse}</strong> — ${isEn ? '26-Step Full Academic Text' : '26 Adımlı Tam Akademik Metin'}
       </div>
@@ -2345,7 +2362,7 @@ function formatZ5YamlJs(rawYaml) {
     : 'Rapor Quran Vision v6.2.1 İSNAD 2 akademik atıf standartlarına tam uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem incelemesine hazır durumdadır.');
   notu = formatInlineMd(notu.replace(/v6\.1\.1 ve v6\.2\.1/g, 'v6.2.1').replace(/v6\.1\.1/g, 'v6.2.1'));
   return `
-    <div id="z5-peer-review-card" style="border:1.5px solid var(--accent-gold); background:var(--bg-surface); border-radius:12px; padding:18px 20px; margin:18px 0;">
+    <div id="z5-peer-review-card" style="border:1px solid var(--accent-gold-border); background:var(--bg-surface); border-radius:12px; padding:18px 20px; margin:18px 0;">
       <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:14px;">
         <div>
           <span class="badge badge-gold">${isEn ? '🏛️ ACADEMIC INTEGRITY & OPEN PEER-REVIEW PROTOCOL (Z-5)' : '🏛️ AKADEMİK DÜRÜSTLÜK & AÇIK HAKEMLİK PROTOKOLÜ (Z-5)'}</span>

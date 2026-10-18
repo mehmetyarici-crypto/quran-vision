@@ -1157,14 +1157,17 @@ def build_html(reports):
   --bg-card-hover: #1f3a30;
   --bg-surface: #142720;
   --border: #25473b;
-  --text-main: #e2ece7;
-  --text-primary: #e2ece7;
-  --text-secondary: #92aba0;
-  --text-muted: #92aba0;
-  --accent-gold: #cfa93e;
-  --accent-gold-soft: rgba(207, 169, 62, 0.14);
+  --text-heading: #FFFFFF;
+  --text-main: #F2F7F4;
+  --text-primary: #F2F7F4;
+  --text-secondary: #D0E0D8;
+  --text-muted: #D0E0D8;
+  --accent-gold: #FFFFFF;
+  --accent-gold-soft: rgba(255, 255, 255, 0.12);
+  --accent-gold-border: rgba(255, 255, 255, 0.28);
+  --accent-contrast: #0d1a15;
   --accent-emerald: #529e82;
-  --accent-emerald-soft: rgba(82, 158, 130, 0.15);
+  --accent-emerald-soft: rgba(82, 158, 130, 0.16);
   --danger: #ef4444;
   --shadow: 0 10px 28px rgba(0,0,0,0.40);
 }}
@@ -1175,12 +1178,15 @@ def build_html(reports):
   --bg-card-hover: #f0f5f3;
   --bg-surface: #eef3f1;
   --border: #d5e2dc;
+  --text-heading: #143328;
   --text-main: #10241d;
   --text-primary: #10241d;
-  --text-secondary: #37574c;
-  --text-muted: #648277;
-  --accent-gold: #9a740a;
-  --accent-gold-soft: rgba(154, 116, 10, 0.10);
+  --text-secondary: #2b4c3f;
+  --text-muted: #4b6b5e;
+  --accent-gold: #143328;
+  --accent-gold-soft: rgba(20, 51, 40, 0.09);
+  --accent-gold-border: rgba(20, 51, 40, 0.28);
+  --accent-contrast: #ffffff;
   --accent-emerald: #059669;
   --accent-emerald-soft: rgba(5, 150, 105, 0.12);
   --danger: #dc2626;
@@ -1284,26 +1290,35 @@ body.sidebar-collapsed .main {{
 #sidebar-toggle, .QuickControlBtn {{
   display: inline-flex;
   align-items: center;
-  gap: 6px;
-  padding: 7px 13px;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
   border-radius: 8px;
-  border: 1.5px solid var(--accent-gold);
+  border: 1.5px solid var(--accent-gold-border);
   background: var(--accent-gold-soft);
   color: var(--accent-gold);
-  font-size: 12.5px;
-  font-weight: 700;
   cursor: pointer;
   transition: all 0.2s ease;
-  white-space: nowrap;
+  flex-shrink: 0;
 }}
 #sidebar-toggle:hover, .QuickControlBtn:hover {{
   background: var(--accent-gold);
-  color: #091310;
+  color: var(--accent-contrast);
+  border-color: var(--accent-gold);
+}}
+#sidebar-toggle .sidebar-pane-fill {{
+  fill: currentColor;
+  fill-opacity: 0.28;
+  transition: fill-opacity 0.2s ease;
+}}
+body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
+  fill-opacity: 0;
 }}
 .brand {{
   padding: 12px 16px 10px;
-  border-bottom: 1px solid rgba(207, 169, 62, 0.26);
-  background: linear-gradient(145deg, rgba(82,158,130,0.10) 0%, rgba(207,169,62,0.12) 55%, rgba(13,26,21,0.35) 100%);
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(145deg, rgba(82,158,130,0.12) 0%, rgba(255,255,255,0.04) 55%, rgba(13,26,21,0.35) 100%);
   position: relative;
 }}
 .brand-top-row {{
@@ -1323,7 +1338,7 @@ body.sidebar-collapsed .main {{
   text-transform: uppercase;
   color: var(--accent-gold);
   background: var(--accent-gold-soft);
-  border: 1px solid rgba(212, 175, 55, 0.38);
+  border: 1px solid var(--accent-gold-border);
   padding: 3px 9px;
   border-radius: 99px;
 }}
@@ -1338,8 +1353,9 @@ body.sidebar-collapsed .main {{
   height: 38px;
   min-width: 38px;
   border-radius: 10px;
-  background: linear-gradient(135deg, rgba(212,175,55,0.22), rgba(16,185,129,0.22));
-  border: 1.5px solid var(--accent-gold);
+  background: linear-gradient(135deg, var(--accent-gold-soft), rgba(16,185,129,0.20));
+  border: 1.5px solid var(--accent-gold-border);
+  color: var(--accent-gold);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1352,7 +1368,7 @@ body.sidebar-collapsed .main {{
 .brand h1 {{
   font-size: 16.5px;
   font-weight: 800;
-  color: var(--text-primary);
+  color: var(--text-heading);
   letter-spacing: 0.3px;
   line-height: 1.15;
   text-transform: uppercase;
@@ -1360,7 +1376,7 @@ body.sidebar-collapsed .main {{
 .brand-sub-en {{
   font-size: 10px;
   font-weight: 700;
-  color: var(--accent-gold);
+  color: var(--text-secondary);
   letter-spacing: 0.5px;
   margin-top: 1px;
 }}
@@ -1374,10 +1390,10 @@ body.sidebar-collapsed .main {{
 .brand-meta-bar {{
   margin-top: 6px;
   padding-top: 5px;
-  border-top: 1px dashed rgba(212, 175, 55, 0.25);
+  border-top: 1px dashed var(--border);
   font-family: 'JetBrains Mono', monospace;
   font-size: 10.5px;
-  color: var(--accent-emerald);
+  color: var(--text-secondary);
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-between;
@@ -1420,7 +1436,7 @@ body.sidebar-collapsed .main {{
 }}
 .report-item:hover {{
   background: var(--bg-card-hover);
-  border-color: var(--border);
+  border-color: var(--accent-gold-border);
 }}
 .report-item.active {{
   background: var(--bg-card);
@@ -1436,7 +1452,7 @@ body.sidebar-collapsed .main {{
 .report-surah {{
   font-weight: 700;
   font-size: 13px;
-  color: var(--accent-gold);
+  color: var(--text-heading);
 }}
 .report-code {{
   font-family: 'JetBrains Mono', monospace;
@@ -1450,6 +1466,15 @@ body.sidebar-collapsed .main {{
   -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  line-height: 1.4;
+}}
+.report-item:hover .report-topic,
+.nav-item:hover .report-topic {{
+  display: block;
+  -webkit-line-clamp: unset;
+  white-space: normal;
+  overflow: visible;
+  color: var(--text-heading);
 }}
 
 /* Main Content */
@@ -1489,7 +1514,7 @@ body.sidebar-collapsed .main {{
   white-space: nowrap;
 }}
 .stat-pill strong {{
-  color: var(--accent-emerald);
+  color: var(--text-heading);
   font-size: 12.5px;
 }}
 .top-actions {{
@@ -1521,20 +1546,20 @@ body.sidebar-collapsed .main {{
 .btn-primary {{
   background: var(--accent-emerald-soft);
   border-color: rgba(16, 185, 129, 0.45);
-  color: var(--accent-emerald);
+  color: var(--text-heading);
 }}
 .btn-primary:hover {{
   background: var(--accent-emerald);
-  color: #091310;
+  color: #ffffff;
 }}
 .btn-gold {{
   background: var(--accent-gold-soft);
-  border-color: rgba(212, 175, 55, 0.45);
+  border-color: var(--accent-gold-border);
   color: var(--accent-gold);
 }}
 .btn-gold:hover {{
   background: var(--accent-gold);
-  color: #091310;
+  color: var(--accent-contrast);
 }}
 
 .content-scroll {{
@@ -1563,8 +1588,8 @@ body.sidebar-collapsed .main {{
   padding: 3px 9px;
   border-radius: 6px;
 }}
-.badge-gold {{ background: var(--accent-gold-soft); color: var(--accent-gold); border: 1px solid rgba(212,175,55,0.3); }}
-.badge-emerald {{ background: var(--accent-emerald-soft); color: var(--accent-emerald); border: 1px solid rgba(16,185,129,0.3); }}
+.badge-gold {{ background: var(--accent-gold-soft); color: var(--accent-gold); border: 1px solid var(--accent-gold-border); }}
+.badge-emerald {{ background: var(--accent-emerald-soft); color: var(--text-secondary); border: 1px solid rgba(82,158,130,0.40); }}
 .badge-mono {{ font-family: 'JetBrains Mono', monospace; background: var(--bg-surface); color: var(--text-secondary); border: 1px solid var(--border); }}
 
 .hero-title {{
@@ -1572,6 +1597,7 @@ body.sidebar-collapsed .main {{
   font-weight: 700;
   line-height: 1.35;
   margin-bottom: 10px;
+  color: var(--text-heading);
 }}
 details.meta-disclosure {{
   background: var(--bg-surface);
@@ -1582,7 +1608,7 @@ details.meta-disclosure {{
   transition: border-color 0.2s ease;
 }}
 details.meta-disclosure[open] {{
-  border-color: rgba(212, 175, 55, 0.45);
+  border-color: var(--accent-gold-border);
 }}
 details.meta-disclosure::details-content {{
   padding: 0 14px 12px;
@@ -1656,7 +1682,7 @@ summary.meta-summary:hover {{
 }}
 .tab-btn.active {{
   background: var(--accent-gold);
-  color: #091310;
+  color: var(--accent-contrast);
   border-color: var(--accent-gold);
 }}
 
@@ -1759,11 +1785,11 @@ summary.meta-summary:hover {{
 .source-author {{
   font-weight: 700;
   font-size: calc(14px * var(--font-scale, 1));
-  color: var(--text-primary);
+  color: var(--text-heading);
 }}
 .source-death {{
   font-size: calc(12px * var(--font-scale, 1));
-  color: var(--accent-gold);
+  color: var(--text-secondary);
   font-weight: 600;
 }}
 .source-meta {{
@@ -1777,7 +1803,7 @@ summary.meta-summary:hover {{
   direction: rtl;
   text-align: right;
   line-height: 1.9;
-  color: var(--accent-gold);
+  color: var(--text-heading);
   background: var(--bg-card);
   padding: 12px 16px;
   border-radius: 8px;
@@ -1786,11 +1812,11 @@ summary.meta-summary:hover {{
 }}
 .source-link {{
   font-size: calc(12px * var(--font-scale, 1));
-  color: var(--accent-emerald);
+  color: var(--text-secondary);
   text-decoration: none;
   font-family: 'JetBrains Mono', monospace;
 }}
-.source-link:hover {{ text-decoration: underline; }}
+.source-link:hover {{ text-decoration: underline; color: var(--text-heading); }}
 
 /* Markdown Reader */
 .md-body {{
@@ -1799,9 +1825,9 @@ summary.meta-summary:hover {{
   border-radius: 14px;
   padding: 32px 38px;
 }}
-.md-body h1 {{ font-size: calc(22px * var(--font-scale, 1)); color: var(--accent-gold); margin-bottom: 18px; border-bottom: 1px solid var(--border); padding-bottom: 12px; }}
-.md-body h2 {{ font-size: calc(17px * var(--font-scale, 1)); color: var(--accent-emerald); margin: 28px 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }}
-.md-body h3 {{ font-size: calc(15px * var(--font-scale, 1)); color: var(--accent-gold); margin: 20px 0 8px; }}
+.md-body h1 {{ font-size: calc(22px * var(--font-scale, 1)); color: var(--text-heading); margin-bottom: 18px; border-bottom: 1px solid var(--border); padding-bottom: 12px; }}
+.md-body h2 {{ font-size: calc(17px * var(--font-scale, 1)); color: var(--text-heading); margin: 28px 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--border); }}
+.md-body h3 {{ font-size: calc(15px * var(--font-scale, 1)); color: var(--text-heading); margin: 20px 0 8px; }}
 .md-body h4 {{ font-size: calc(14px * var(--font-scale, 1)); color: var(--text-primary); margin: 16px 0 6px; }}
 .md-body p {{ margin-bottom: 12px; font-size: calc(14.5px * var(--font-scale, 1)); line-height: 1.75; color: var(--text-primary); }}
 .md-body ul, .md-body ol {{ margin: 8px 0 16px 22px; }}
@@ -1817,7 +1843,7 @@ summary.meta-summary:hover {{
   font-family: 'JetBrains Mono', monospace;
   font-size: calc(12.5px * var(--font-scale, 1));
   margin: 14px 0;
-  color: var(--accent-emerald);
+  color: var(--text-primary);
 }}
 .md-body table {{
   width: 100%;
@@ -1832,12 +1858,13 @@ summary.meta-summary:hover {{
 }}
 .md-body th {{
   background: var(--bg-surface);
-  color: var(--accent-gold);
+  color: var(--text-heading);
   font-weight: 600;
 }}
 .tag-nakil {{
-  background: rgba(212, 175, 55, 0.18);
+  background: var(--accent-gold-soft);
   color: var(--accent-gold);
+  border: 1px solid var(--accent-gold-border);
   padding: 2px 7px;
   border-radius: 4px;
   font-family: 'JetBrains Mono', monospace;
@@ -1845,8 +1872,9 @@ summary.meta-summary:hover {{
   font-weight: 600;
 }}
 .tag-yorum {{
-  background: rgba(16, 185, 129, 0.18);
-  color: var(--accent-emerald);
+  background: var(--accent-emerald-soft);
+  color: var(--text-secondary);
+  border: 1px solid rgba(82, 158, 130, 0.35);
   padding: 2px 7px;
   border-radius: 4px;
   font-family: 'JetBrains Mono', monospace;
@@ -1858,14 +1886,14 @@ html, .content-scroll, .report-list {{
 }}
 .md-body a.ext-link, .md-body a.doi-link, .md-body a.orcid-link,
 .source-card a.ext-link, .source-card a.doi-link, .source-card a.orcid-link {{
-  color: var(--accent-emerald);
+  color: var(--text-secondary);
   text-decoration: underline;
-  text-decoration-color: rgba(16, 185, 129, 0.45);
+  text-decoration-color: var(--accent-emerald);
   word-break: break-all;
   transition: color 0.15s;
 }}
 .md-body a.ext-link:hover, .md-body a.doi-link:hover, .md-body a.orcid-link:hover {{
-  color: var(--accent-gold);
+  color: var(--text-heading);
 }}
 .fn-ref {{
   color: var(--accent-gold);
@@ -1906,7 +1934,7 @@ a.fn-num-link {{
 a.fn-backref {{
   display: inline-block;
   margin-left: 6px;
-  color: var(--accent-emerald);
+  color: var(--text-secondary);
   text-decoration: none;
   font-weight: 700;
   padding: 0 4px;
@@ -1914,7 +1942,7 @@ a.fn-backref {{
 }}
 a.fn-backref:hover {{
   background: var(--accent-emerald-soft);
-  color: var(--accent-gold);
+  color: var(--text-heading);
 }}
 
 .form-group {{
@@ -1924,7 +1952,7 @@ a.fn-backref:hover {{
   display: block;
   font-size: 12.5px;
   font-weight: 600;
-  color: var(--accent-gold);
+  color: var(--text-heading);
   margin-bottom: 6px;
 }}
 .form-input, .form-select, .form-textarea {{
@@ -1960,7 +1988,7 @@ a.fn-backref:hover {{
   border-radius: 8px;
   background: var(--accent-emerald-soft);
   border: 1px solid var(--accent-emerald);
-  color: var(--accent-emerald);
+  color: var(--text-heading);
   font-size: 13px;
   font-weight: 600;
 }}
@@ -2025,10 +2053,10 @@ a.fn-backref:hover {{
     <div class="brand-identity">
       <div class="brand-crest">
         <svg width="26" height="26" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <path d="M18 3L21.5 9.5L29 10.5L23.5 15.5L25 23L18 19.5L11 23L12.5 15.5L7 10.5L14.5 9.5L18 3Z" stroke="#D4AF37" stroke-width="1.4" fill="rgba(212,175,55,0.12)"/>
-          <path d="M8 26C11 24.5 15 24.5 18 26.5C21 24.5 25 24.5 28 26V32C25 30.5 21 30.5 18 32.5C15 30.5 11 30.5 8 32V26Z" stroke="#264e41" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-          <line x1="18" y1="6" x2="18" y2="32" stroke="#D4AF37" stroke-width="1.6"/>
-          <line x1="11" y1="14" x2="25" y2="14" stroke="#D4AF37" stroke-width="1.6" stroke-linecap="round"/>
+          <path d="M18 3L21.5 9.5L29 10.5L23.5 15.5L25 23L18 19.5L11 23L12.5 15.5L7 10.5L14.5 9.5L18 3Z" stroke="currentColor" stroke-width="1.4" fill="currentColor" fill-opacity="0.12"/>
+          <path d="M8 26C11 24.5 15 24.5 18 26.5C21 24.5 25 24.5 28 26V32C25 30.5 21 30.5 18 32.5C15 30.5 11 30.5 8 32V26Z" stroke="currentColor" stroke-opacity="0.75" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+          <line x1="18" y1="6" x2="18" y2="32" stroke="currentColor" stroke-width="1.6"/>
+          <line x1="11" y1="14" x2="25" y2="14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
         </svg>
       </div>
       <div class="brand-titles">
@@ -2046,17 +2074,23 @@ a.fn-backref:hover {{
   </search>
   <div class="report-list" id="reportList"></div>
 </aside>
-<div id="sidebar-resizer" class="no-print" tabindex="0" aria-label="Genişliği ayarlamak için sürükleyin veya Sağ ve Sol yön tuşlarını kullanın (Çift tıkla: Sıfırla)"></div>
+<div id="sidebar-resizer" class="no-print" tabindex="0" title="Genişliği ayarlamak için sürükleyin (Çift tıkla: Sıfırla)" aria-label="Genişliği ayarlamak için sürükleyin veya Sağ ve Sol yön tuşlarını kullanın (Çift tıkla: Sıfırla)"></div>
 
 <main class="main">
   <header class="topbar">
     <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-      <button id="sidebar-toggle" type="button" onclick="toggleSidebar()" aria-label="Menüyü Gizle / Göster"><span id="sidebarToggleLabel">◀ Menüyü Gizle</span></button>
+      <button id="sidebar-toggle" type="button" onclick="toggleSidebar()" title="Menüyü Gizle / Göster [Ctrl+B]" aria-label="Menüyü Gizle / Göster [Ctrl+B]">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect x="3" y="3" width="18" height="18" rx="3"/>
+          <rect class="sidebar-pane-fill" x="3" y="3" width="7" height="18" rx="2" stroke="none"/>
+          <line x1="10" y1="3" x2="10" y2="21"/>
+        </svg>
+      </button>
       <div class="stats-bar" id="statsBar">
         <a id="liveStatsPill" class="stat-pill" href="https://zenodo.org/records/23410818" target="_blank" rel="noopener" style="text-decoration:none; border-color:var(--accent-emerald);">
           👁️ <strong id="liveViewsVal">117</strong> <span id="liveViewsLbl">Görüntülenme</span> &nbsp;•&nbsp; 📥 <strong id="liveDownloadsVal">14</strong> <span id="liveDownloadsLbl">İndirme</span>
         </a>
-        <a class="stat-pill" href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" style="text-decoration:none; border-color:var(--accent-gold);">
+        <a class="stat-pill" href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" style="text-decoration:none; border-color:var(--accent-gold-border);">
           🏛️ DOI: <strong>10.5281/zenodo.23410818</strong>
         </a>
       </div>
@@ -2467,13 +2501,16 @@ function renderSidebar(filter = '') {{
 
     const item = document.createElement('div');
     item.className = 'report-item' + (idx === currentIndex ? ' active' : '');
+    const fullSurah = getReportSurah(r);
+    const fullTopic = getReportTopic(r);
+    item.title = `${{idx + 1}}. ${{fullSurah}} ${{r.verse}} (${{r.case_id}}) — ${{fullTopic}}`;
     item.onclick = () => selectReport(idx);
     item.innerHTML = `
       <div class="report-item-top">
-        <span class="report-surah">${{idx + 1}}. ${{getReportSurah(r)}} ${{r.verse}}</span>
+        <span class="report-surah">${{idx + 1}}. ${{fullSurah}} ${{r.verse}}</span>
         <span class="report-code">${{r.case_id}}</span>
       </div>
-      <div class="report-topic">${{getReportTopic(r)}}</div>
+      <div class="report-topic">${{fullTopic}}</div>
     `;
     listEl.appendChild(item);
   }});
@@ -3584,22 +3621,16 @@ function toggleTheme() {{
 function updateSidebarToggleUI() {{
   const isCollapsed = document.body.classList.contains('sidebar-collapsed');
   const isEn = currentLang === 'en';
-  const lbl = document.getElementById('sidebarToggleLabel');
   const btn = document.getElementById('sidebar-toggle');
   const sidebarEl = document.getElementById('sidebar');
   if (sidebarEl) {{
     sidebarEl.inert = isCollapsed;
   }}
-  if (lbl) {{
-    lbl.textContent = isEn
-      ? (isCollapsed ? '▶ Show Menu' : '◀ Hide Menu')
-      : (isCollapsed ? '▶ Menüyü Göster' : '◀ Menüyü Gizle');
-  }}
   if (btn) {{
+    const tipText = isEn ? 'Hide / Show Menu [Ctrl+B]' : 'Menüyü Gizle / Göster [Ctrl+B]';
+    btn.title = tipText;
     btn.setAttribute('aria-expanded', String(!isCollapsed));
-    btn.setAttribute('aria-label', isEn
-      ? 'Hide or Show Sidebar Menu (Ctrl + B or [)'
-      : 'Menüyü Gizle veya Göster (Ctrl + B veya [)');
+    btn.setAttribute('aria-label', tipText);
   }}
 }}
 

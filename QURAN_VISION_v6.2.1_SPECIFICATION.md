@@ -177,3 +177,44 @@ peer_review:
 | **QV-2026-013** | Nahl 16:90 | Evrensel Medeniyet Anayasası: Adalet, İhsan ve Sosyal Dayanışma Mimarisi | [TR](docs/tr/18-rapor-nahl-1690-v6.1.1.md) | [EN](docs/en/18-rapor-nahl-1690-en-v6.1.1.md) |
 | **QV-2026-014** | Hucurât 49:13 | İnsani Eşitlik, Çoğulcu Tanışma (Teârüf) Etiği ve Ahlaki Sorumluluk (Takvâ) | [TR](docs/tr/19-rapor-hucurat-4913-v6.1.1.md) | [EN](docs/en/19-rapor-hucurat-4913-en-v6.1.1.md) |
 | **QV-2026-015** | Mâide 5:32 | Yaşam Hakkının Evrensel Dokunulmazlığı, İhyâ (Can Kurtarma) Etiği ve Fesadın Önlenmesi | [TR](docs/tr/20-rapor-maide-532-v6.1.1.md) | [EN](docs/en/20-rapor-maide-532-en-v6.1.1.md) |
+
+---
+
+## 7. Gelecek Medeniyet Mimarisi: Makâsıd 2.0, Umrân 2050, Tevhîdî Sistem Kenetlenmesi ve `Z-6` Medeniyet Tasarım Kartı (2030–2100)
+
+`v6.2.1` doğrulama kuralları (**İSNAD 2**, **APA 7/DOI**, **Hume Giyotini**, **Popperci Sınırlı Yanlışlanabilirlik**, **0 Kesici Hata** ve **SHA-256** kriptografik bütünlük) eksiksiz korunarak; külliyatın 21. ve 22. yüzyıl için kurucu bir **"Gelecek Medeniyet Tasarımı (*Civilizational Design & Normative Futures Engine*)"** işlevi görmesini sağlayan 5 fütüristik katman aşağıda tanımlanmıştır:
+
+### 7.1. Katman 1: Makâsıd 2.0 — Post-Dijital ve Gezegensel Zarûriyyât Matrisi (`ADIM 04` Evrimi)
+Şâtıbî (*el-Muvâfakât*) ve İbn Âşûr (*Makâsıdü'ş-Şerîati'l-İslâmiyye*) çerçevesindeki klasik *Zarûriyyât-ı Hamse* (Dîn, Nefis, Akıl, Nesil, Mal emniyeti), yapay genel zekâ (AGI), biyoteknoloji, otonom sistemler ve gezegensel ekolojik kriz çağında şu 5 ileri boyutu kapsar:
+1. **Hıfzü'l-Akl (Akıl Emniyeti) $\rightarrow$ Bilişsel Egemenlik ve Algoritmik Özgürlük:** Üretken yapay zekâ, nöro-teknoloji ve algoritmik yankı odaları çağında insanın irade, ihtiyar ve teklif ehliyetinin bilişsel manipülasyondan korunması (*İsrâ 17:36*).
+2. **Hıfzü'n-Nefs (Can Emniyeti) $\rightarrow$ Otonom Sistemlerde Ahlaki Mesuliyet ve Biyo-Etik Onur:** Otonom silah sistemlerinde (LAWS) yaşam-ölüm kararının algoritmalara devredilmemesi, insan hayatının istatistiksel *"ikincil hasar"* olarak kodlanmasının mutlak yasağı ve genetik mühendislikte fıtratın korunması (*Mâide 5:32*).
+3. **Hıfzü'n-Nesl ve'l-Bîe (Nesil ve Ekosistem Emniyeti) $\rightarrow$ Gezegensel Hilâfet ve Mîzânü'l-Arz:** İklim kırılması, biyo-çeşitlilik kaybı ve ekolojik tahribata (*fesâd fi'l-arz*) karşı gelecek kuşakların yaşam hakkını koruyan gezegensel emanet hukuku (*En'âm 6:151–152*, *Hadîd 57:25*).
+4. **Hıfzü'l-Mâl (Mal Emniyeti) $\rightarrow$ Otomasyon ve Post-Kıtlık Ekonomisinde "Dûlet" Yasağı:** Yapay zekâ, veri ve robotik üretim araçlarının birkaç küresel teknoloji oligarşisinde tekelleşmesini (*key lâ yekûne dûleten* — *Haşr 59:7*) önleyen açık kaynak bilgi ve dijital vakıf ekonomisi.
+5. **Hıfzü'd-Dîn ve'l-Vicdân (İnanç ve Vicdan Emniyeti) $\rightarrow$ Ontolojik Çoğulculuk ve Teârüf Ahlakı:** Zorlama ve asimilasyonun reddi (*Bakara 2:256*), dillerin ve kültürlerin ilahî âyet olarak korunması (*Rûm 30:22*) ve kimlik çatışması yerine aktif tanışma/işbirliği (*Teârüf* — *Hucurât 49:13*).
+
+### 7.2. Katman 2: 100 Yıllık Medeniyet Ufku (2026–2126) & Normatif Backcasting (`2075 -> 2026`)
+Mevcut 10 yıllık (2026–2036) Bayesyen politika simülasyonuna ek olarak, `ADIM 08` ve `ADIM 09`'da **"Tahmincilikten (*Forecasting*) Normatif İnşaya (*Backcasting*)"** geçiş protokolü uygulanır:
+- **`H4+` (2050–2100 Medeniyet Ufku):** Âyetin vaz' ettiği kurucu ilkenin tam olarak kurumsallaştığı **2075** yılındaki ideal medeniyet ekosistemi (hukuk, şehir, üniversite, pazar ve yapay zekâ yönetişimi) modellenir.
+- **Geriye Doğru Mühendislik (*Backcasting* Zinciri):** `[2075 Medeniyet Prototipi]` $\rightarrow$ `[2050 Kurumsal Olgunluk]` $\rightarrow$ `[2035 Hukuki & Teknolojik Altyapı]` $\rightarrow$ `[2026 Kurucu Tohum ve Politika Eşiği]`.
+
+### 7.3. Katman 3: Umrân ve Kurum İnşası — Somut Medeniyet Prototipleri (`ADIM 15` Evrimi)
+Her monografik raporun karar mimarisi (`ADIM 15`), soyut tavsiyelerle yetinmeyip üç somut medeniyet prototipi üretir:
+1. **Vakıf 2.0 (Yeni Nesil Sivil ve Otonom Kurum Modeli):** Devlet ve piyasa tekellerinin ötesinde, âyetin koruduğu maslahatı finanse ve koordine eden şeffaf, hesap verebilir vakıf/kurum mimarisi.
+2. **Mîzân-Tech (*Constitutional AI* & Algoritmik Etik Kısıt Protokolü):** Âyetin ahlaki ve hukuki sınırlarının (*hudûd / mîzân*), yapay zekâ karar destek sistemlerine ve dijital yönetişim protokollerine matematiksel/anayasal kısıt (*hard-constraint*) olarak kodlanması.
+3. **Medîne ve Umrân Tasarımı (Mekân, Şehir ve Kamusal Alan Yansıması):** İbn Haldûn'un *Umrân* ve Fârâbî'nin *el-Medînetü'l-Fâzıla* perspektifiyle, âyetin ilkelerinin şehir mimarisine, mahalle/komşuluk hukukuna ve kamusal mekân tasarımına yansıtılması.
+
+### 7.4. Katman 4: Külliyatlar Arası Tevhîdî Sistem Mühendisliği ve Kenetlenme Ağı (`ADIM 06` Evrimi)
+15 kurucu rapor, birbirini denetleyen **5 Medeniyet Sütunu** halinde kenetlenir:
+- **Sütun I — Ontolojik Temel ve İnsan Onuru:** `QV-2026-015` (Mâide 5:32) $\leftrightarrow$ `QV-2026-004` (Bakara 2:256) $\leftrightarrow$ `QV-2026-010` (Rûm 30:22) $\leftrightarrow$ `QV-2026-014` (Hucurât 49:13).
+- **Sütun II — Anayasal Mîzân ve Kamu Yönetişimi:** `QV-2026-012` (Hadîd 57:25) $\leftrightarrow$ `QV-2026-005` (Nisâ 4:58) $\leftrightarrow$ `QV-2026-006` (Âl-i İmrân 3:159) $\leftrightarrow$ `QV-2026-013` (Nahl 16:90).
+- **Sütun III — Epistemik Güvenlik ve Toplumsal Çekirdek:** `QV-2026-008` (İsrâ 17:36) $\leftrightarrow$ `QV-2026-002` (Nisâ 4:34) $\leftrightarrow$ `QV-2026-011` (En'âm 6:151–152).
+- **Sütun IV — İktisadi Adalet ve Mülkiyet Emniyeti:** `QV-2026-009` (Haşr 59:7) $\leftrightarrow$ `QV-2026-003` (Mâide 5:38).
+- **Sütun V — Küresel Barış ve Meşru Caydırıcılık:** `QV-2026-007` (Hucurât 49:9–10) $\leftrightarrow$ `QV-2026-001` (Tevbe 9:5).
+
+### 7.5. Katman 5: `Z-6` — Gelecek Medeniyet Tasarım Kartı (`2030–2100 Civilizational Blueprint Card`)
+Her monografik rapor için (ve interaktif web portalının **Sentez & Gelecek Medeniyet Mimarisi** sekmesinde) şu 4 standart bileşenden oluşan çift dilli (TR/EN) `Z-6: Gelecek Medeniyet Tasarım Kartı` tanımlanır:
+1. **Fıtrat ve İnsan Tasavvuru (*Ontological Human Model*)**
+2. **Kurucu Medeniyet İlkesi (*Constitutional Civilizational Axiom*)**
+3. **Mîzân-Tech Tekno-Etik Kırmızı Çizgi (*Techno-Ethical Red Line*)**
+4. **2050 Kurumsal & Umrân Prototipi (*2050 Institutional & Urban Prototype*)**
+

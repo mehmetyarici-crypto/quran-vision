@@ -57,3 +57,16 @@ The Quran Vision architecture organizes the 26 analysis steps under **5 Macro Ph
 - **Z-4 — Standard Epistemic Disclaimer:** Mandatory statement affirming the interpretative and non-fatwa nature of the report.
 - **Z-4.5 — Academic Bibliography (ISNAD 2 & APA / DOI Standard):** Dual-layer alphabetical bibliography listing classical Islamic sources under ISNAD 2nd Edition conventions (including death year `d. AH/CE`, editor, publisher) and modern empirical/institutional sources with DOIs/URLs, alongside in-text Markdown footnotes (`[^1]`, `[^2]`).
 - **Z-5 — Peer Review Record:** Independent external scholarly assessment log (`DRAFT`, `PRE-RELEASE`, `EXTERNALLY-REVIEWED`).
+- **Z-6 — Civilizational Blueprint Card (2030–2100):** Synthesizes each report's 1. Ontological Human Model (*Fiṭrah*), 2. Constitutional Civilizational Axiom, 3. Mīzān-Tech Techno-Ethical Red Line, and 4. 2050 Institutional & ʿUmrān Prototype.
+
+---
+
+## Future Civilization Architecture (Maqāṣid 2.0 & ʿUmrān 2050)
+
+Beyond 10-year crisis mitigation, the Quran Vision corpus operates as a **normative civilizational design engine for the 21st and 22nd centuries**:
+1. **Maqāṣid 2.0 (Post-Digital & Planetary Necessities):** Expanding classical *ḍarūriyyāt al-khamsah* to encompass cognitive sovereignty in the AGI/neuro-tech era, moral agency over autonomous lethal systems, planetary ecological stewardship (*Mīzān al-Arḍ*), anti-monopoly digital economics (*Dūlah* prohibition), and ontological pluralism (*Taʿāruf*).
+2. **100-Year Civilizational Horizon & Normative Backcasting (`2075 -> 2026`):** Reverse-engineering institutional and legal milestones from a 2075 civilizational prototype back to 2050, 2035, and 2026.
+3. **ʿUmrān & Institutional Prototyping:** *Waqf 2.0*, *Mīzān-Tech Constitutional AI constraints*, and *Madīnah/Urban Spatial Architecture*.
+4. **Tawḥīdī Systems Engineering:** Interlocking the 15 foundational monographs across 5 Civilizational Pillars in a closed-loop feedback architecture.
+5. **Z-6 Civilizational Blueprint Cards:** Bilingual (TR/EN) interactive civilizational design cards integrated into the digital portal.
+

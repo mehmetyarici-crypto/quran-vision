@@ -964,6 +964,76 @@ a.fn-backref:hover {
   justify-content: space-between;
   gap: 10px;
 }
+.z6-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+  gap: 16px;
+  margin-top: 14px;
+}
+.z6-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--accent-emerald);
+  border-radius: 10px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.z6-card:hover {
+  border-color: var(--accent-gold);
+  background: var(--bg-card-hover);
+}
+.z6-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--text-primary);
+}
+.z6-item-label {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: var(--text-heading);
+  margin-bottom: 4px;
+}
+.backcast-track {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+  margin-top: 10px;
+}
+.backcast-step {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent-emerald);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.pillar-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 14px;
+  margin-top: 12px;
+}
+.pillar-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent-gold);
+  border-radius: 10px;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
 
 @media print {
   @page {
@@ -1370,6 +1440,272 @@ const CANDIDATE_VERSES = [
   }
 ];
 
+const TEVHIDI_SYSTEM_PILLARS = [
+  {
+    id: "PILLAR-I",
+    title_tr: "Sütun I — Ontolojik Temel, Hayatın Dokunulmazlığı ve İnsan Onuru",
+    title_en: "Pillar I — Ontological Foundation, Sanctity of Life & Human Dignity",
+    makasid_tr: "Hıfzü'n-Nefs & Hıfzü'd-Dîn/Vicdân (İhyâ, İrade Özgürlüğü ve Teârüf)",
+    makasid_en: "Hifz al-Nafs & Conscience (Ihya', Freedom of Will & Ta'aruf)",
+    cases: ["QV-2026-015", "QV-2026-004", "QV-2026-010", "QV-2026-014"],
+    synergy_tr: "Mâide 5:32 (İhyâ) tek bir masum hayatı tüm insanlığa eşitler; Bakara 2:256 vicdan ve irade dokunulmazlığını kurar; Rûm 30:22 dillerin ve renklerin çeşitliliğini kozmik âyet sayar; Hucurât 49:13 ise ırkî üstünlüğü yıkıp 'Teârüf' (aktif karşılıklı tanışma) ve Takvâ eksenli evrensel insan onurunu tamamlar.",
+    synergy_en: "Al-Ma'idah 5:32 (Ihya') equates one innocent life with all humanity; Al-Baqarah 2:256 establishes inviolable freedom of conscience; Ar-Rum 30:22 elevates linguistic and ethnic diversity to cosmic signs; Al-Hujurat 49:13 dismantles racial hierarchy in favor of Ta'aruf (mutual recognition) and Taqwa."
+  },
+  {
+    id: "PILLAR-II",
+    title_tr: "Sütun II — Anayasal Mîzân, Liyakat (Emanet) ve Katılımcı Şûrâ Yönetişimi",
+    title_en: "Pillar II — Constitutional Mizan, Meritocracy (Amanah) & Consultative Governance",
+    makasid_tr: "Makâsıd 2.0: Kurumsal Adalet, Hukuk Devleti ve Kamu Emaneti",
+    makasid_en: "Maqasid 2.0: Institutional Justice, Rule of Law & Public Trust",
+    cases: ["QV-2026-012", "QV-2026-005", "QV-2026-006", "QV-2026-013"],
+    synergy_tr: "Hadîd 57:25 kamu gücünü ('Demir') hukuk ve ölçüye ('Kitap ve Mîzân') bağlar; Nisâ 4:58 liyakat (emanet) olmadan adaletin işlemeyeceğini vaz' eder; Âl-i İmrân 3:159 kriz anında bile otoriterleşmeyi reddedip Şûrâ ve merhameti emreder; Nahl 16:90 ise soğuk hukuki adaleti (Adl) İhsan ve sosyal dayanışmayla taçlandırır.",
+    synergy_en: "Al-Hadid 57:25 subordinates material power ('Iron') to constitutional law and objective justice ('Book & Mizan'); An-Nisa 4:58 mandates meritocracy (Amanah) and judicial impartiality; Ali 'Imran 3:159 institutionalizes Shura and compassion even in crisis; An-Nahl 16:90 crowns legal justice ('Adl) with proactive excellence (Ihsan)."
+  },
+  {
+    id: "PILLAR-III",
+    title_tr: "Sütun III — Epistemik Güvenlik (Bilişsel Egemenlik), Aile ve Ahlaki Çekirdek",
+    title_en: "Pillar III — Epistemic Security (Cognitive Sovereignty), Family & Moral Core",
+    makasid_tr: "Hıfzü'l-Akl & Hıfzü'n-Nesl (Algoritmik Özgürlük ve Kuşaklararası Emanet)",
+    makasid_en: "Hifz al-'Aql & Hifz al-Nasl (Algorithmic Freedom & Intergenerational Stewardship)",
+    cases: ["QV-2026-008", "QV-2026-002", "QV-2026-011"],
+    synergy_tr: "İsrâ 17:36 sentetik medya ve AGI çağında doğrulanmamış bilgiyi (zan/dezenformasyon) yasaklayarak bilişsel egemenliği korur; Nisâ 4:34 aile içi yönetişimi şiddetsiz hakemlik ve emanet sorumluluğuna bağlar; En'âm 6:151–152 ise akrabalık çıkarına rağmen adil şahitliği ve kuşaklararası hakları anayasal çekirdek yapar.",
+    synergy_en: "Al-Isra 17:36 protects cognitive sovereignty against synthetic media and unverified claims; An-Nisa 4:34 anchors family governance in fiduciary stewardship and non-violent arbitration; Al-An'am 6:151–152 codifies impartial testimony even against kin alongside intergenerational rights."
+  },
+  {
+    id: "PILLAR-IV",
+    title_tr: "Sütun IV — İktisadi Adalet, Servet Dolaşımı ('Dûlet' Yasağı) ve Sosyal Güvence",
+    title_en: "Pillar IV — Economic Justice, Wealth Circulation (Anti-Oligarchy) & Social Security",
+    makasid_tr: "Hıfzü'l-Mâl 2.0 (Tekelleşme Karşıtı Dijital Vakıf ve Paydaşlık Ekonomisi)",
+    makasid_en: "Hifz al-Mal 2.0 (Anti-Monopoly Digital Waqf & Stakeholder Economy)",
+    cases: ["QV-2026-009", "QV-2026-003"],
+    synergy_tr: "Haşr 59:7 servetin ve üretim araçlarının zenginler/tekeller arasında dönüp duran bir oligarşiye ('dûlet') dönüşmesini yasaklar; Mâide 5:38 ise mülkiyet emniyetinin ve cezai caydırıcılığın ancak sosyal adalet, açlık/zaruret istisnası (Hz. Ömer'in kıtlık yılı içtihadı) ve adil bölüşüm sağlandığında meşru olacağını kenetler.",
+    synergy_en: "Al-Hashr 59:7 prohibits wealth and productive technology from becoming a closed monopoly ('dulah') among elites; Al-Ma'idah 5:38 interlocks property protection with the prerequisite of social security and exemption under economic necessity."
+  },
+  {
+    id: "PILLAR-V",
+    title_tr: "Sütun V — Aktif Barış İnşası (Sulh), Ahit Vefası ve Meşru Kolektif Güvenlik",
+    title_en: "Pillar V — Active Peacebuilding (Sulh), Covenant Fidelity & Collective Security",
+    makasid_tr: "Küresel Sulh, Saldırganlığın (Bağy) Önlenmesi ve Hukuki Caydırıcılık",
+    makasid_en: "Global Peace, Anti-Aggression (Baghy) & Rule-Bound Deterrence",
+    cases: ["QV-2026-007", "QV-2026-001"],
+    synergy_tr: "Hucurât 49:9–10 uluslararası çatışmalarda önce tarafsız arabuluculuğu (ıslah), saldırganlığa (bağy) karşı kolektif caydırıcılığı ve adil barışı (ıslah bi'l-adl) şart koşar; Tevbe 9:5 ise ahde vefayı (9:4) ve sığınma hakkını (9:6) koruyarak savunmayı yalnızca sistematik ahit ihlali (neksü'l-ahd) ile sınırlar.",
+    synergy_en: "Al-Hujurat 49:9–10 mandates neutral mediation first, collective deterrence against aggression (baghy), and a just peace (islah bi'l-'adl); At-Tawbah 9:5 binds legitimate self-defense strictly to systemic treaty breach (nakth al-'ahd) while safeguarding treaty-abiding communities (9:4) and asylum (9:6)."
+  }
+];
+
+const Z6_CIVILIZATION_CARDS = {
+  "QV-2026-001": {
+    pillar_tr: "Sütun V • Küresel Barış & Meşru Savunma",
+    pillar_en: "Pillar V • Global Peace & Legitimate Defense",
+    makasid2_tr: "Makâsıd 2.0: Hıfzü'n-Nefs & Uluslararası Ahit Güvenliği",
+    makasid2_en: "Maqasid 2.0: Hifz al-Nafs & International Treaty Security",
+    fitrat_tr: "İnsan ve devlet, keyfî güç kullanan yırtıcı bir aktör değil; verdiği ahde (sözleşmeye) ontolojik olarak bağlı, barışı asıl ve savaşı yalnızca saldırıyı defetmekle sınırlı istisna bilen ahlaki öznedir.",
+    fitrat_en: "Humanity and states are moral agents bound by covenant fidelity ('ahd), treating peace as the foundational norm and force strictly as a rule-bound exception against aggression.",
+    axiom_tr: "Ahde vefa gösteren hiçbir topluluğa karşı önleyici veya yayılmacı güç kullanılamaz; meşru savunma yalnızca kanıtlanmış sistematik ahit ihlali (neksü'l-ahd) ile başlar ve sivil dokunulmazlığı (eman/9:6) mutlak korur.",
+    axiom_en: "No preemptive or expansionist force may be used against treaty-abiding communities; legitimate defense is triggered solely by verified systemic breach of covenant and must guarantee safe asylum (9:6).",
+    redline_tr: "Otonom ölümcül silah sistemlerine (LAWS) ve yapay zekâ hedefleme algoritmalarına insan denetimi ve uluslararası ahit doğrulama onayı olmaksızın otonom saldırı yetkisi devredilemez.",
+    redline_en: "Autonomous lethal weapon systems (LAWS) and AI targeting algorithms must never be granted strike authority without human-in-the-loop accountability and verified treaty-breach auditing.",
+    prototype_tr: "2050 Küresel Ahit Doğrulama ve İnsani Koridor (Eman) Protokolü (2075 Tam Barış Mimarisi ➔ 2050 Kriptografik Ateşkes İzleme ➔ 2026 Uluslararası Hukuk Reformu).",
+    prototype_en: "2050 Global Covenant Verification & Humanitarian Safe-Passage (Aman) Protocol (2075 Peace Architecture ➔ 2050 Cryptographic Ceasefire Monitoring ➔ 2026 Treaty Law Reform)."
+  },
+  "QV-2026-002": {
+    pillar_tr: "Sütun III • Aile Yönetişimi & Toplumsal Çekirdek",
+    pillar_en: "Pillar III • Family Governance & Social Core",
+    makasid2_tr: "Makâsıd 2.0: Hıfzü'n-Nesl & Şiddetsiz Onarıcı Hukuk",
+    makasid2_en: "Maqasid 2.0: Hifz al-Nasl & Non-Violent Restorative Law",
+    fitrat_tr: "Eşler birbirinin tahakküm nesnesi değil; karşılıklı sekînet, meveddet ve merhamet üzere kenetlenmiş, aile emanetini (kavamet) adalet ve maruf ile taşıyan eşit onurlu paydaşlardır.",
+    fitrat_en: "Spouses are not objects of domination but equal-dignity partners united in tranquility (sakinah) and compassion, carrying family stewardship (qawwamah) as a fiduciary trust.",
+    axiom_tr: "Aile içi sorumluluk (kavamet) otoriter bir imtiyaz değil hukuki ve iktisadi bir hizmet emanetidir; kriz anlarında fiziksel/psikolojik şiddet kesin olarak dışlanır ve üç aşamalı onarıcı hakemlik (4:34–35) işletilir.",
+    axiom_en: "Family stewardship (qawwamah) is a fiduciary duty of care, never a license for abuse; marital crises mandate a strictly non-violent, three-stage restorative arbitration protocol (4:34–35).",
+    redline_tr: "Dijital platformlar ve sosyal medya algoritmaları aile mahremiyetini ifşa eden, kuşaklararası yabancılaşmayı veya ev içi şiddeti kışkırtan içerikleri ödüllendiremez.",
+    redline_en: "Digital platforms and recommendation algorithms must not monetize or amplify content that violates family privacy or incites domestic abuse and generational alienation.",
+    prototype_tr: "2050 Onarıcı Aile Hakemliği ve Kuşaklararası Sekînet Merkezleri (Vakıf 2.0 destekli psikososyal arabuluculuk ve erken kriz önleme ağı).",
+    prototype_en: "2050 Restorative Family Arbitration & Intergenerational Wellbeing Centers (Waqf 2.0-supported psychosocial mediation and early crisis-prevention network)."
+  },
+  "QV-2026-003": {
+    pillar_tr: "Sütun IV • Mülkiyet Emniyeti & Sosyal Güvence",
+    pillar_en: "Pillar IV • Property Security & Social Safety Net",
+    makasid2_tr: "Makâsıd 2.0: Hıfzü'l-Mâl & Dağıtıcı Adalet Önkoşulu",
+    makasid2_en: "Maqasid 2.0: Hifz al-Mal & Distributive Justice Prerequisite",
+    fitrat_tr: "İnsan, emeği ve mülkiyeti korunan fakat açlık, yoksulluk ve sistemik yoksunluk karşısında toplumsal dayanışma şemsiyesiyle güvence altına alınması gereken onurlu bir varlıktır.",
+    fitrat_en: "The human being is a dignified agent whose labor and property are inviolable, yet whose basic subsistence must be unconditionally guaranteed by society before punitive law can operate.",
+    axiom_tr: "Temel geçim ve sosyal güvence (kifâyet) devlet tarafından eksiksiz sağlanmadan ağır cezai yaptırımlar uygulanamaz (Hz. Ömer'in Kıtlık Yılı içtihadı anayasal önkoşuldur).",
+    axiom_en: "Severe penal sanctions cannot be enforced unless the state first guarantees universal basic subsistence and social security ('Umar's Year of Famine precedent as a constitutional prerequisite).",
+    redline_tr: "Öngörücü polislik (predictive policing) ve yapay zekâ ceza algoritmaları, yoksulluğu ve sosyo-ekonomik dezavantajı otomatik suçluluk puanına dönüştüremez.",
+    redline_en: "Predictive policing and AI sentencing algorithms must never encode poverty or socio-economic deprivation as automated indicators of criminal guilt.",
+    prototype_tr: "2050 Evrensel Kifâyet Güvencesi ve Onarıcı Adalet Vakfı (Cezai yaptırım öncesi sosyal güvenlik açığını sıfırlayan otonom kamu-vakıf mekanizması).",
+    prototype_en: "2050 Universal Subsistence Guarantee & Restorative Justice Trust (Autonomous public-waqf mechanism eliminating subsistence poverty prior to penal adjudication)."
+  },
+  "QV-2026-004": {
+    pillar_tr: "Sütun I • İrade Özgürlüğü & Çoğulcu Hukuk",
+    pillar_en: "Pillar I • Freedom of Will & Pluralistic Law",
+    makasid2_tr: "Makâsıd 2.0: Hıfzü'd-Dîn/Vicdân & Bilişsel İrade Dokunulmazlığı",
+    makasid2_en: "Maqasid 2.0: Freedom of Conscience & Inviolable Moral Agency",
+    fitrat_tr: "İnsan, hakikati baskı ve dayatmayla değil özgür akıl, vicdan ve kalbî tasdik ile seçen; iradesi ilahî emirle dokunulmaz kılınmış muhtar (özgür) bir öznedir.",
+    fitrat_en: "The human being is an autonomous moral agent endowed with free will, whose authentic assent to truth requires absolute immunity from coercion.",
+    axiom_tr: "Dinde, inançta ve dünya görüşünde hiçbir siyasi, hukuki veya teknolojik zorlama yapılamaz ('Lâ ikrâhe fi'd-dîn'); çoğulcu kamusal düzen herkesin vicdan özgürlüğünü eşit korur.",
+    axiom_en: "There shall be no political, legal, or technological compulsion in religion or conscience ('La ikraha fi'd-din'); pluralistic constitutional order guarantees equal liberty of belief.",
+    redline_tr: "Nöro-teknoloji, subliminal yapay zekâ ikna motorları ve sosyal kredi sistemleri bireylerin inanç ve vicdan tercihlerini zorla değiştirmek veya cezalandırmak için kullanılamaz.",
+    redline_en: "Neuro-technology, subliminal AI persuasion engines, and social credit systems must never be deployed to manipulate, coerce, or penalize religious or philosophical conscience.",
+    prototype_tr: "2050 Çoğulcu Medîne Sözleşmesi ve Bilişsel Vicdan Dokunulmazlığı Beratı (Çok kimlikli toplumlar için anayasal özgürlük ve barış içinde bir arada yaşama modeli).",
+    prototype_en: "2050 Pluralistic Madinah Charter & Cognitive Conscience Immunity Act (Constitutional coexistence framework for multi-faith and post-secular societies)."
+  },
+  "QV-2026-005": {
+    pillar_tr: "Sütun II • Liyakat (Emanet) & Yargısal Adalet",
+    pillar_en: "Pillar II • Meritocracy (Amanah) & Judicial Impartiality",
+    makasid2_tr: "Makâsıd 2.0: Kamu Emaneti, Kurumsal Ehliyet ve Tarafsız Hukuk",
+    makasid2_en: "Maqasid 2.0: Public Trust, Institutional Competence & Blind Justice",
+    fitrat_tr: "Kamu yetkisi ve yöneticilik bir mülk veya ganimet değil; yalnızca ehliyet ve liyakat sahiplerine tevdi edilen ağır bir ahlaki/hukuki emanettir.",
+    fitrat_en: "Public office and governance authority are never private spoils, but a sacred fiduciary trust (Amanah) that must be entrusted strictly to the most competent.",
+    axiom_tr: "Tüm kamu görevleri ideolojik, kabilevi veya nepotik yakınlığa göre değil nesnel liyakate göre tevdi edilir; yargı ve hakemlik mekanizmaları mutlak tarafsızlıkla ('adl) hükmeder.",
+    axiom_en: "All public appointments must be determined by verifiable merit rather than nepotism or partisanship, and adjudication must operate with blind impartiality ('adl).",
+    redline_tr: "Kamu işe alım, ihale ve yargı destek yapay zekâları kapalı kutu (black-box) kayırmacılık içeremez; açık kaynaklı ve kriptografik olarak denetlenebilir olmak zorundadır.",
+    redline_en: "Public recruitment, procurement, and judicial AI systems must never operate as opaque black boxes; they require open-source, cryptographically auditable fairness.",
+    prototype_tr: "2050 Şeffaf Emanet Sicili ve Bağımsız Liyakat Denetim Divanı (Kamu atamalarını ve bütçe harcamalarını gerçek zamanlı denetleyen açık yönetişim protokolü).",
+    prototype_en: "2050 Transparent Public-Trust Registry & Independent Meritocracy Audit Court (Real-time open governance protocol auditing public appointments and fiscal integrity)."
+  },
+  "QV-2026-006": {
+    pillar_tr: "Sütun II • Şûrâ (İstişare) & Krizde Merhamet Liderliği",
+    pillar_en: "Pillar II • Shura (Consultation) & Compassionate Crisis Leadership",
+    makasid2_tr: "Makâsıd 2.0: Katılımcı Demokrasi, Kolektif Akıl ve Onarıcı Liderlik",
+    makasid2_en: "Maqasid 2.0: Participatory Governance, Collective Intelligence & Restorative Leadership",
+    fitrat_tr: "İnsan, hata yapabilen fakat istişare (şûrâ) ve şefkatle (lîn) kapsandığında krizleri kolektif akılla aşabilen katılımcı bir medeniyet kurucusudur.",
+    fitrat_en: "Human beings thrive not under harsh autocracy, but within inclusive deliberative communities where compassionate leadership (lin) unlocks collective intelligence (shura).",
+    axiom_tr: "Ağır güvenlik ve yönetim krizleri, tek adam otoriterleşmesinin bahanesi yapılamaz; kriz anlarında katılımcı istişare (şûrâ) ve toplumsal şefkat anayasal zorunluluktur.",
+    axiom_en: "Severe crises must never serve as a pretext for authoritarian centralization; emergency governance requires institutionalized consultation (shura) and restorative compassion.",
+    redline_tr: "Teknokratik yapay zekâ yönetişim modelleri, halkın müzakere ve katılımcı şûrâ iradesini devre dışı bırakan 'algoritmik otokrasi'ye dönüştürülemez.",
+    redline_en: "Technocratic AI governance models must never bypass democratic deliberation and public consultation (shura) to establish an algorithmic autocracy.",
+    prototype_tr: "2050 Dijital Şûrâ Meclisleri ve Kriz Müzakere Platformu (Uzman bilgisi ile halk katılımını birleştiren hibrit katılımcı karar alma mimarisi).",
+    prototype_en: "2050 Digital Shura Assemblies & Crisis Deliberation Platform (Hybrid participatory decision-making architecture uniting expert verification with civic deliberation)."
+  },
+  "QV-2026-007": {
+    pillar_tr: "Sütun V • Aktif Barış İnşası (Sulh) & Bağye Karşı Güvenlik",
+    pillar_en: "Pillar V • Active Peacebuilding (Sulh) & Anti-Aggression Security",
+    makasid2_tr: "Makâsıd 2.0: Küresel Sulh, Tarafsız Arabuluculuk ve Veto-Üstü Adalet",
+    makasid2_en: "Maqasid 2.0: Global Peace, Impartial Mediation & Post-Veto Justice",
+    fitrat_tr: "İnsanlık ailesi çatışmaya mahkûm değildir; adaletle (kıst) yapılan aktif arabuluculuk ve saldırganlığı (bağy) durduran ortak vicdanla kalıcı barışı kurabilir.",
+    fitrat_en: "Humanity is not doomed to perpetual war; impartial mediation (islah bi'l-'adl) combined with collective deterrence against aggression (baghy) can secure durable peace.",
+    axiom_tr: "Uluslararası güvenlik mimarisinde hiçbir süper gücün saldırganlığı (bağy) koruyan veto imtiyazı olamaz; önce tarafsız arabuluculuk, saldırgan durmazsa kolektif caydırıcılık ve sonunda adil barış uygulanır.",
+    axiom_en: "No great-power veto may shield aggression (baghy); international law must mandate impartial mediation first, collective enforcement against the aggressor, and a non-punitive just peace.",
+    redline_tr: "Erken uyarı ve çatışma simülasyon yapay zekâları, jeopolitik blokların çıkarına göre tarafgir veri üretemez; tüm taraflar için eşit 'bağy' (saldırganlık) ölçütü uygular.",
+    redline_en: "Early-warning conflict AI systems must remain strictly neutral, applying identical anti-aggression (baghy) thresholds regardless of a state's geopolitical power.",
+    prototype_tr: "2050 Veto-Üstü Küresel Sulh ve Bağy Önleme Konseyi (Hucurât 49:9–10 algoritmasıyla çalışan bağımsız uluslararası arabuluculuk ve barış gücü mekanizması).",
+    prototype_en: "2050 Post-Veto Global Peace & Anti-Aggression Council (Independent international mediation and peacekeeping mechanism operating on the Al-Hujurat 49:9–10 protocol)."
+  },
+  "QV-2026-008": {
+    pillar_tr: "Sütun III • Epistemik Sorumluluk & Bilişsel Güvenlik",
+    pillar_en: "Pillar III • Epistemic Responsibility & Cognitive Security",
+    makasid2_tr: "Makâsıd 2.0: Hıfzü'l-Akl (AGI ve Deepfake Çağında Bilişsel Egemenlik)",
+    makasid2_en: "Maqasid 2.0: Hifz al-'Aql (Cognitive Sovereignty in the AGI & Deepfake Era)",
+    fitrat_tr: "İnsanın kulağı, gözü ve kalbi (aklı/vicdanı) hakikate karşı doğrudan sorumludur; insan, doğrulanmamış zannın ve dezenformasyonun pasif taşıyıcısı olamaz.",
+    fitrat_en: "Human hearing, sight, and intellect (fu'ad) are directly accountable before truth; a moral agent must never act upon or propagate unverified conjecture.",
+    axiom_tr: "Doğrulanmamış bilgi (zan, iftira, sentetik dezenformasyon) üzerine hukuki, siyasi veya toplumsal hüküm bina edilemez ('Ve lâ takfü mâ leyse leke bihî ilm' — İsrâ 17:36).",
+    axiom_en: "No legal, political, or social judgment may be built upon unverified claims or synthetic disinformation ('Do not pursue that of which you have no verified knowledge' — 17:36).",
+    redline_tr: "Üretken yapay zekâ (LLM/AGI) modelleri kaynak uyduramaz (halüsinasyonla hüküm veremez) ve kriptografik köken mührü (provenance) olmayan sentetik medya gerçek gibi sunulamaz.",
+    redline_en: "Generative AI/AGI systems must not fabricate unverifiable citations in high-stakes domains, and synthetic media must carry immutable cryptographic provenance seals.",
+    prototype_tr: "2050 Küresel İsnad 3.0 & Kriptografik Hakikat Doğrulama Ağı (Haber, bilimsel veri ve yapay zekâ çıktılarını kaynağında doğrulayan açık epistemik altyapı).",
+    prototype_en: "2050 Global Isnad 3.0 & Cryptographic Truth-Verification Network (Open epistemic infrastructure authenticating news, scientific data, and AI outputs at the source)."
+  },
+  "QV-2026-009": {
+    pillar_tr: "Sütun IV • İktisadi Adalet & Servet Dolaşımı ('Dûlet' Yasağı)",
+    pillar_en: "Pillar IV • Economic Justice & Wealth Circulation (Anti-Monopoly)",
+    makasid2_tr: "Makâsıd 2.0: Hıfzü'l-Mâl (Otomasyon Çağında Tekelleşme Karşıtı Ekonomi)",
+    makasid2_en: "Maqasid 2.0: Hifz al-Mal (Anti-Oligarchy Economics in the Automation Era)",
+    fitrat_tr: "İnsan, serveti biriktirip dolaşımdan koparan bencil bir tekelci değil; mülkiyeti toplumsal refah ve adil dolaşım için işleten bir emanetçidir.",
+    fitrat_en: "The human being is not an extractive monopolist hoarding capital, but a steward entrusted with circulating wealth for broad societal flourishing.",
+    axiom_tr: "Servet, üretim araçları ve yapay zekâ/otomasyon rantı yalnızca zengin elitler arasında dönüp duran kapalı bir tekele ('key lâ yekûne dûleten') dönüşemez (Haşr 59:7).",
+    axiom_en: "Wealth, productive capital, and AI/automation dividends must never become a perpetual monopoly circulating solely among the rich ('kay la yakuna dulatan' — 59:7).",
+    redline_tr: "Finansal algoritmalar ve teknoloji platformları, üretici emeği ve küçük girişimcileri tasfiye eden yırtıcı tekelleşme ve spekülatif rant kilidi kuramaz.",
+    redline_en: "Financial algorithms and tech monopolies must not deploy predatory rent-extraction or market-cornering mechanisms that exclude productive labor and small enterprises.",
+    prototype_tr: "2050 Otomasyon Temettüsü ve Üretken Vakıf Paydaşlık Fonu (Yapay zekâ ve robotik verimlilik kazançlarını toplumun kırılgan kesimlerine ve genç girişimcilere aktaran model).",
+    prototype_en: "2050 Automation Dividend & Productive Waqf Equity Fund (Channeling AI and robotic productivity gains into universal civic equity and youth entrepreneurship)."
+  },
+  "QV-2026-010": {
+    pillar_tr: "Sütun I • Ontolojik Çoğulculuk & Dillerin/Renklerin Âyet Oluşu",
+    pillar_en: "Pillar I • Ontological Pluralism & Diversity as Divine Signs",
+    makasid2_tr: "Makâsıd 2.0: Kültürel Ekosistem ve Çok Dilli Medeniyet Hafızası",
+    makasid2_en: "Maqasid 2.0: Cultural Ecology & Multilingual Civilizational Memory",
+    fitrat_tr: "İnsanlığın dil, renk ve kültür çeşitliliği bir kusur veya çatışma sebebi değil; göklerin ve yerin yaratılışıyla eşdeğer kozmik birer ilahî âyettir (Rûm 30:22).",
+    fitrat_en: "The diversity of human languages and colors is not a defect or ground for conflict, but a cosmic divine sign (ayah) on par with the creation of the heavens and earth (30:22).",
+    axiom_tr: "Hiçbir devlet veya küresel sistem dilsel ve kültürel çeşitliliği zorla asimile edemez; her dil ve etnik kimlik insanlık mirasının dokunulmaz bir âyeti olarak korunur.",
+    axiom_en: "No state or global system may forcibly assimilate linguistic or ethnic diversity; every language and cultural heritage is protected as an inviolable sign of creation.",
+    redline_tr: "Büyük dil modelleri (LLM'ler) ve dijital eğitim altyapıları, yerel dilleri ve kültürleri silen tek tip bir kültürel hegemonya dayatamaz.",
+    redline_en: "Large Language Models (LLMs) and digital education systems must not impose linguistic homogenization that erases indigenous and minority languages.",
+    prototype_tr: "2050 Çok Dilli Küresel İrfan Kütüphanesi ve Kültür Koruma Vakfı (Tehlike altındaki dilleri ve yerel hikmet geleneklerini yaşatan açık yapay zekâ ve eğitim ağı).",
+    prototype_en: "2050 Multilingual Wisdom Archive & Cultural Preservation Waqf (Open AI and educational network preserving endangered languages and local wisdom traditions)."
+  },
+  "QV-2026-011": {
+    pillar_tr: "Sütun III • Evrensel Ahlak Dekalogu & Ölçü-Tartı Adaleti",
+    pillar_en: "Pillar III • Universal Moral Decalogue & Market/Judicial Integrity",
+    makasid2_tr: "Makâsıd 2.0: Kuşaklararası Haklar, Yetim Fonu ve Çıkar-Üstü Şahitlik",
+    makasid2_en: "Maqasid 2.0: Intergenerational Rights, Orphan Protection & Kin-Blind Testimony",
+    fitrat_tr: "İnsan, kendi yakınlarının veya grubunun çıkarı söz konusu olduğunda bile hakikatten sapmayan ('ve lev kâne zâ kurbâ'), ölçü ve tartıyı adaletle tutan ahlaki öznedir.",
+    fitrat_en: "The moral human agent upholds truthful testimony even against one's own kin ('wa law kana dha qurba') and maintains scrupulous fairness in all measures.",
+    axiom_tr: "Yaşamın dokunulmazlığı, ebeveyne ihsan, çocukların/gelecek kuşakların yoksulluk korkusuyla feda edilmemesi, yetim malının korunması, ölçü-tartı dürüstlüğü ve akrabaya rağmen adil şahitlik tüm insanlığın ortak anayasasıdır (En'âm 6:151–152).",
+    axiom_en: "Sanctity of life, intergenerational care, protection of vulnerable assets, fair measurement (qist), and impartial testimony even against kin constitute humanity's universal moral charter (6:151–152).",
+    redline_tr: "Ticari fiyatlama algoritmaları, veri borsaları ve karbon/ekoloji muhasebesi gizli manipülasyon ('tatfîf / ölçüde hile') yapamaz.",
+    redline_en: "Algorithmic pricing, data markets, and ecological carbon accounting must never engage in hidden manipulation or asymmetric weight-cheating (tatfif).",
+    prototype_tr: "2050 Adil Ölçü (Kıst) Standartları Enstitüsü ve Kuşaklararası Yetim/Gençlik Güvence Fonu (Piyasa algoritmalarını ve ekolojik ayak izini denetleyen küresel mîzân kurumu).",
+    prototype_en: "2050 Fair-Measure (Qist) Standards Institute & Intergenerational Youth Trust (Auditing algorithmic market fairness and ecological footprints)."
+  },
+  "QV-2026-012": {
+    pillar_tr: "Sütun II • Kitap, Mîzân (Adalet Ölçüsü) ve Hadîd (Caydırıcı Güç)",
+    pillar_en: "Pillar II • The Triad of Book (Law), Mizan (Justice) & Hadid (Deterrent Power)",
+    makasid2_tr: "Makâsıd 2.0: Yüksek Teknolojinin ('Demir') Anayasal Mîzân'a Tabi Kılınması",
+    makasid2_en: "Maqasid 2.0: Subordinating High Technology ('Iron') to Constitutional Mizan",
+    fitrat_tr: "İnsan, maddi ve teknolojik gücü ('Hadîd') amaçlaştıran bir teknokrat değil; gücü hukuk ('Kitap') ve nesnel adalet ölçüsü ('Mîzân') emrine veren hikmet sahibi kurucudur.",
+    fitrat_en: "Humanity is called to wield material and technological power ('Hadid') not as an end in itself, but strictly in service of constitutional law ('Kitab') and objective justice ('Mizan').",
+    axiom_tr: "Adaletsiz güç zorbalıktır, güçsüz (caydırıcılıksız) adalet ise savunmasızdır; sürdürülebilir medeniyet Kitap (hukuk), Mîzân (adalet) ve Hadîd (teknolojik/savunma gücü) üçlüsünün ayrılmaz dengesiyle kurulur (Hadîd 57:25).",
+    axiom_en: "Power without justice is tyranny, and justice without deterrence is defenseless; viable civilization requires the triadic balance of Law (Kitab), Justice (Mizan), and Deterrent Capability (Hadid) (57:25).",
+    redline_tr: "Kuantum, uzay, biyoteknoloji ve süper-yapay zekâ ('Modern Demir') kapasiteleri, bağımsız anayasal ve etik Mîzân denetimi dışında geliştirilemez ve konuşlandırılamaz.",
+    redline_en: "Quantum, aerospace, biotech, and superintelligent AI capabilities ('Modern Hadid') must never be deployed outside independent constitutional and ethical Mizan oversight.",
+    prototype_tr: "2050 Mîzân-Tech Anayasal Teknoloji ve Stratejik Caydırıcılık Konseyi (İleri savunma ve yapay zekâ teknolojilerini insan hakları ve Mîzân ölçütleriyle sertifikalandıran üst kurum).",
+    prototype_en: "2050 Mizan-Tech Constitutional Technology & Strategic Deterrence Council (Certifying advanced defense and AI technologies against strict Mizan justice metrics)."
+  },
+  "QV-2026-013": {
+    pillar_tr: "Sütun II • Evrensel Medeniyet Anayasası: Adalet, İhsan ve Dayanışma",
+    pillar_en: "Pillar II • Universal Civilizational Charter: Justice ('Adl), Excellence (Ihsan) & Solidarity",
+    makasid2_tr: "Makâsıd 2.0: Hukuki Adaletin Ötesinde Onarıcı İhsan ve Bağy Yasağı",
+    makasid2_en: "Maqasid 2.0: Beyond Formal Justice to Restorative Ihsan & Anti-Corruption",
+    fitrat_tr: "İnsan yalnızca kanuni alt sınırla ('Adl') yetinen mekanik bir varlık değil; iyilikte mükemmelliğe ('İhsan') ve yakınlardan başlayarak sosyal dayanışmaya yükselen ahlaki bir öznedir.",
+    fitrat_en: "The human being is designed not merely for cold legalistic reciprocity ('Adl), but for moral beauty, generosity, and restorative empathy (Ihsan).",
+    axiom_tr: "Medeniyet üç yapıcı sütun (Adalet, İhsan, Sosyal Dayanışma) üzerinde yükselir ve üç yıkıcı tehdidi (Fahşâ/ahlaki yozlaşma, Münker/vicdan dışı kötülük, Bağy/haddi aşan zorbalık) hukuki-sosyal bariyerle önler (Nahl 16:90).",
+    axiom_en: "Civilization stands on three constructive pillars ('Adl, Ihsan, Social Solidarity) and blocks three destructive forces (Indecency/Fahsha', Wrongdoing/Munkar, Tyranny/Baghy) (16:90).",
+    redline_tr: "Kamu hizmetleri ve şehir altyapıları ruhsuz bürokratik algoritmalara terk edilemez; yaşlı, engelli ve kırılgan bireyler için 'İhsan' (insani şefkat ve pozitif ayrımcılık) standardı zorunludur.",
+    redline_en: "Public services and smart-city infrastructures must never be reduced to soulless algorithmic bureaucracy; they must embed an Ihsan standard of care for vulnerable citizens.",
+    prototype_tr: "2050 Adalet ve İhsan Şehirleri (Medîne 2050) İndeksi (Şehirleri sadece GSYH ile değil; yargı adaleti, komşuluk dayanışması, ekolojik ihsan ve sıfır-bağy ölçütleriyle değerlendiren Umrân modeli).",
+    prototype_en: "2050 'Adl & Ihsan Smart-Madinah Urban Index (Evaluating cities not merely by GDP, but by judicial fairness, civic generosity, ecological stewardship, and zero-oppression metrics)."
+  },
+  "QV-2026-014": {
+    pillar_tr: "Sütun I • Ontolojik Eşitlik, Teârüf (Karşılıklı Tanışma) ve Takvâ",
+    pillar_en: "Pillar I • Ontological Equality, Ta'aruf (Mutual Recognition) & Taqwa",
+    makasid2_tr: "Makâsıd 2.0: Irkçılık Karşıtı Küresel Vatandaşlık ve Ahlaki Liyakat",
+    makasid2_en: "Maqasid 2.0: Anti-Racist Global Coexistence & Moral-Ethical Merit",
+    fitrat_tr: "Tüm insanlar tek bir anne-babadan gelen eşit kardeşlerdir; kabile, ulus ve kimlik farklılıkları üstünlük taslamak için değil birbirini tanıyıp yardımlaşmak ('li-teârefû') içindir.",
+    fitrat_en: "All human beings share a single origin as equal siblings; nations and tribes exist solely for mutual discovery and cooperation ('li-ta'arafu'), never for racial supremacy.",
+    axiom_tr: "Soy, ırk, renk, sınıf veya ulusal kimlik hiçbir hukuki/ontolojik üstünlük sağlamaz; üstünlük yalnızca ahlaki sorumluluk bilinci ve insanlığa fayda (Takvâ) iledir (Hucurât 49:13).",
+    axiom_en: "Lineage, race, wealth, or nationality confer zero ontological superiority; true distinction lies exclusively in moral consciousness and ethical accountability (Taqwa) (49:13).",
+    redline_tr: "Sınır kontrol, vize, kredi ve istihdam yapay zekâlarında ırk, etnik köken veya coğrafi kimlik temelli algoritmik ayrımcılık (algorithmic profiling) mutlak olarak yasaktır.",
+    redline_en: "Algorithmic profiling or discrimination based on race, ethnicity, or national origin in border control, credit, or employment AI is strictly prohibited.",
+    prototype_tr: "2050 Küresel Teârüf Akademileri ve Kültürlerarası Diplomasi Ağı (Medeniyetler çatışması tezini fiilen çürüten uluslararası ortak bilim, sanat ve barış kürsüleri).",
+    prototype_en: "2050 Global Ta'aruf Academies & Intercultural Diplomacy Network (International joint science, ethics, and peace fellowships dismantling the 'clash of civilizations' paradigm)."
+  },
+  "QV-2026-015": {
+    pillar_tr: "Sütun I • Yaşamın Dokunulmazlığı & İhyâ (Can Kurtarma) Medeniyeti",
+    pillar_en: "Pillar I • Inviolability of Life & the Civilization of Ihya' (Saving Life)",
+    makasid2_tr: "Makâsıd 2.0: Hıfzü'n-Nefs (1 Masum Hayat = Tüm İnsanlık Denklemi)",
+    makasid2_en: "Maqasid 2.0: Hifz al-Nafs (The Equation: 1 Innocent Life = All Humanity)",
+    fitrat_tr: "Her bir insan tek başına bütün bir insanlık âlemini temsil eden sonsuz kıymette bir cevherdir; hiçbir insan faydacı (utilitaryen) hesaplarla 'feda edilebilir istatistik' sayılamaz.",
+    fitrat_en: "Every single human person embodies the infinite moral value of all humankind; no innocent individual may ever be treated as an expendable statistic in utilitarian calculations.",
+    axiom_tr: "Bir tek masum insanı öldürmek bütün insanlığı öldürmek gibidir; bir tek canı yaşatmak (ihyâ) ise bütün insanlığı kurtarmak gibidir (Mâide 5:32 — Küresel Biyo-Etik ve İnsani Güvenlik Anayasası).",
+    axiom_en: "Taking one innocent life is equivalent to destroying all humanity, and saving one life (ihya') is equivalent to saving all humanity (5:32 — Universal Charter of Bioethics & Human Security).",
+    redline_tr: "Tıbbi triyaj yapay zekâları, otonom araçlar ve askeri strateji simülasyonları masum insan hayatını maliyet-fayda rasyosuyla 'kabul edilebilir zayiat' olarak kodlayamaz.",
+    redline_en: "Medical triage AI, autonomous vehicles, and military simulations must never price innocent human life as 'acceptable collateral loss' within cost-benefit algorithms.",
+    prototype_tr: "2050 Küresel İhyâ (Can Kurtarma) Teknolojileri ve Afet/Sağlık Seferberlik Vakfı (Temiz su, acil tıp, iş güvenliği ve insani arama-kurtarma teknolojilerini tüm insanlığa ücretsiz açan küresel vakıf).",
+    prototype_en: "2050 Global Ihya' (Life-Saving) Technologies & Humanitarian Rapid-Response Waqf (Open-source medical, disaster-rescue, and clean-water infrastructure accessible to all humanity)."
+  }
+};
+
 function getReportSurah(r) {
   if (currentLang === 'en' && EN_REPORTS_META[r.case_id]) return EN_REPORTS_META[r.case_id].surah_en;
   return r.surah;
@@ -1548,6 +1884,40 @@ function selectReport(idx) {
     </div>
   `).join('');
 
+  const z6 = Z6_CIVILIZATION_CARDS[r.case_id] || null;
+  const z6DashboardHtml = z6 ? `
+    <div class="panel" style="margin-bottom:22px; border-top:3px solid var(--accent-emerald);">
+      <h3>
+        <span>🏛️ ${isEn ? `Z-6: Future Civilizational Blueprint Card (2030–2100) — ${r.case_id}` : `Z-6: Gelecek Medeniyet Tasarım Kartı (2030–2100) — ${r.case_id}`}</span>
+        <span class="badge badge-emerald">${isEn ? z6.makasid2_en : z6.makasid2_tr}</span>
+      </h3>
+      <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px; margin-bottom:12px;">
+        <span class="badge badge-gold">${isEn ? z6.pillar_en : z6.pillar_tr}</span>
+        <button type="button" class="btn btn-gold" style="padding:5px 11px; font-size:12px;" onclick="setTab('synthesis', document.getElementById('tabBtn-synthesis'))">
+          🕸️ ${isEn ? 'Explore Full 15-Report Umran 2050 & Tevhidi System Matrix →' : '15 Raporluk Umrân 2050 & Tevhîdî Sistem Matrisini Aç →'}
+        </button>
+      </div>
+      <div class="grid-2" style="margin-bottom:0;">
+        <div class="z6-item">
+          <span class="z6-item-label">🧬 ${isEn ? '1. Fitrah & Ontological Human Model' : '1. Fıtrat & İnsan Tasavvuru (Ontolojik Özne)'}</span>
+          ${isEn ? z6.fitrat_en : z6.fitrat_tr}
+        </div>
+        <div class="z6-item">
+          <span class="z6-item-label">⚖️ ${isEn ? '2. Constitutional Civilizational Axiom' : '2. Kurucu Medeniyet İlkesi (Anayasal Aksiyom)'}</span>
+          ${isEn ? z6.axiom_en : z6.axiom_tr}
+        </div>
+        <div class="z6-item" style="border-left:3px solid var(--danger);">
+          <span class="z6-item-label">🛡️ ${isEn ? '3. Mizan-Tech Techno-Ethical Red Line' : '3. Mîzân-Tech Tekno-Etik Kırmızı Çizgi'}</span>
+          ${isEn ? z6.redline_en : z6.redline_tr}
+        </div>
+        <div class="z6-item" style="border-left:3px solid var(--accent-emerald);">
+          <span class="z6-item-label">🏙️ ${isEn ? '4. 2050 Institutional & Umran Prototype (Backcasting 2075 ➔ 2026)' : '4. 2050 Kurumsal & Umrân Prototipi (2075 ➔ 2026 Backcasting)'}</span>
+          ${isEn ? z6.prototype_en : z6.prototype_tr}
+        </div>
+      </div>
+    </div>
+  ` : '';
+
   document.getElementById('tab-dashboard').innerHTML = `
     <div class="grid-2">
       <div class="panel">
@@ -1583,6 +1953,7 @@ function selectReport(idx) {
         ${scenariosHtml}
       </div>
     </div>
+    ${z6DashboardHtml}
   `;
 
   // Tab: Classical & Modern Sources
@@ -1881,6 +2252,65 @@ function renderSynthesisTab() {
     `;
   }).join('');
 
+  const tevhidiPillarsHtml = TEVHIDI_SYSTEM_PILLARS.map((pl) => {
+    const casePills = pl.cases.map((cid) => {
+      const repIdx = REPORTS.findIndex(x => x.case_id === cid);
+      const repObj = REPORTS[repIdx];
+      const lbl = repObj ? `${cid} (${getReportSurah(repObj)} ${repObj.verse})` : cid;
+      return `<button type="button" class="btn btn-gold" style="padding:4px 9px; font-size:11px;" onclick="selectReport(${Math.max(0, repIdx)}); setTab('dashboard', document.getElementById('tabBtn-dashboard'));">🔗 ${lbl}</button>`;
+    }).join(' ');
+    return `
+      <div class="pillar-card">
+        <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap;">
+          <strong style="color:var(--text-heading); font-size:14px;">🏛️ ${isEn ? pl.title_en : pl.title_tr}</strong>
+          <span class="badge badge-emerald">${isEn ? pl.makasid_en : pl.makasid_tr}</span>
+        </div>
+        <div style="font-size:13px; color:var(--text-secondary); line-height:1.55;">
+          ${isEn ? pl.synergy_en : pl.synergy_tr}
+        </div>
+        <div style="display:flex; flex-wrap:wrap; gap:6px; margin-top:4px;">
+          ${casePills}
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  const z6AllCardsHtml = REPORTS.map((rep, idx) => {
+    const z6 = Z6_CIVILIZATION_CARDS[rep.case_id] || {};
+    return `
+      <div class="z6-card">
+        <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px; flex-wrap:wrap;">
+          <div>
+            <span class="badge badge-gold">${rep.case_id} • ${getReportSurah(rep)} ${rep.verse}</span>
+            <span class="badge badge-emerald" style="margin-left:4px;">${isEn ? (z6.pillar_en || '') : (z6.pillar_tr || '')}</span>
+          </div>
+          <button type="button" class="btn" style="padding:4px 10px; font-size:11px;" onclick="selectReport(${idx}); setTab('dashboard', document.getElementById('tabBtn-dashboard'));">
+            📖 ${isEn ? 'Open Monograph →' : 'Raporu Aç →'}
+          </button>
+        </div>
+        <div style="font-weight:700; font-size:14px; color:var(--text-heading); line-height:1.35;">
+          ${getReportTopic(rep)}
+        </div>
+        <div class="z6-item">
+          <span class="z6-item-label">🧬 ${isEn ? '1. Fitrah & Ontological Human Model' : '1. Fıtrat & İnsan Tasavvuru'}</span>
+          ${isEn ? (z6.fitrat_en || '') : (z6.fitrat_tr || '')}
+        </div>
+        <div class="z6-item">
+          <span class="z6-item-label">⚖️ ${isEn ? '2. Constitutional Civilizational Axiom' : '2. Anayasal Medeniyet İlkesi'}</span>
+          ${isEn ? (z6.axiom_en || '') : (z6.axiom_tr || '')}
+        </div>
+        <div class="z6-item" style="border-left:3px solid var(--danger);">
+          <span class="z6-item-label">🛡️ ${isEn ? '3. Mizan-Tech Techno-Ethical Red Line' : '3. Mîzân-Tech Tekno-Etik Kırmızı Çizgi'}</span>
+          ${isEn ? (z6.redline_en || '') : (z6.redline_tr || '')}
+        </div>
+        <div class="z6-item" style="border-left:3px solid var(--accent-emerald);">
+          <span class="z6-item-label">🏙️ ${isEn ? '4. 2050 Institutional & Umran Prototype' : '4. 2050 Kurumsal & Umrân Prototipi'}</span>
+          ${isEn ? (z6.prototype_en || '') : (z6.prototype_tr || '')}
+        </div>
+      </div>
+    `;
+  }).join('');
+
   document.getElementById('tab-synthesis').innerHTML = `
     <div class="grid-2">
       <div class="panel">
@@ -1911,19 +2341,57 @@ function renderSynthesisTab() {
       </div>
 
       <div class="panel">
-        <h3><span>🏛️ ${isEn ? 'Methodological Architecture Summary' : 'Metodolojik Mimari Özeti'}</span><span>v6.2.1</span></h3>
-        <div class="source-card">
-          <div class="source-author">${isEn ? `1. ISNAD 2 Classical Tafsir Verification (${TOTAL_CLASSICAL} Primary Citations)` : `1. İSNAD 2 Klasik Tefsir Tahkiki (${TOTAL_CLASSICAL} Arapça Nakil)`}</div>
-          <div class="source-meta">${isEn
-            ? 'Primary classical exegesis (riwayah, dirayah, ahkam, and maqasid) verified with Hijri/Gregorian death dates, critical edition editors, volumes, and page numbers.'
-            : 'Erken dönem rivayet, dirayet, fıkhî ahkâm ve makâsıd tefsirlerinden hicrî/milâdî vefat yılı, tahkik ve cilt/sayfa doğrulamalı birincil kaynak ağı.'}</div>
+        <h3><span>🧭 ${isEn ? 'Future Civilization Architecture (Maqasid 2.0 & Umran 2050)' : 'Gelecek Medeniyet Tasarım Modeli (Makâsıd 2.0 & Umrân 2050)'}</span><span>2026–2100</span></h3>
+        <div class="source-card" style="margin-bottom:10px;">
+          <div class="source-author">${isEn ? '1. Maqasid 2.0 — Post-Digital & Planetary Necessities' : '1. Makâsıd 2.0 — Post-Dijital ve Gezegensel Zarûriyyât'}</div>
+          <div class="source-meta" style="margin-bottom:0;">${isEn
+            ? 'Classical Daruriyyat expanded to Cognitive Sovereignty (AGI/Neuro-Ethics), Moral Agency over Autonomous Systems (LAWS), Planetary Ecology (Mizan al-Ard), Anti-Monopoly Automation Economics (Dulah Prohibition), and Ontological Pluralism (Ta’aruf).'
+            : 'Klasik Zarûriyyât-ı Hamse; Bilişsel Egemenlik (AGI/Nöro-Etik), Otonom Sistemlerde Ahlaki Mesuliyet, Gezegensel Ekoloji (Mîzânü’l-Arz), Tekelleşme Karşıtı Otomasyon Ekonomisi (Dûlet Yasağı) ve Ontolojik Çoğulculuk (Teârüf) boyutlarıyla genişletilmiştir.'}</div>
         </div>
-        <div class="source-card">
-          <div class="source-author">${isEn ? `2. Contemporary Empirical Data & DOI Network (${TOTAL_MODERN} Institutional Datasets)` : `2. Çağdaş Ampirik Veri & DOI Ağı (${TOTAL_MODERN} Kurumsal Veri Kaynağı)`}</div>
-          <div class="source-meta">${isEn
-            ? 'Falsifiable threshold indicators calibrated against World Bank, UNDP, WJP, SIPRI, OECD, and UNESCO empirical datasets.'
-            : 'Dünya Bankası, UNDP, WJP, SIPRI, OECD ve UNESCO göstergeleriyle kalibre edilmiş yanlışlanabilir eşik değerler (Thresholds).'}</div>
+        <div class="backcast-track">
+          <div class="backcast-step">
+            <strong style="color:var(--text-heading);">🌟 2075 ${isEn ? 'Horizon' : 'Ufku'}</strong><br>
+            ${isEn ? 'Full Mizan & Umran Civilizational Ecosystem' : 'Tam Kurumsallaşmış Mîzân & Umrân Medeniyet Ekosistemi'}
+          </div>
+          <div class="backcast-step">
+            <strong style="color:var(--text-heading);">🏙️ 2050 ${isEn ? 'Prototypes' : 'Prototipleri'}</strong><br>
+            ${isEn ? 'Waqf 2.0, Mizan-Tech Constitutional AI & Smart-Madinah' : 'Vakıf 2.0, Mîzân-Tech Constitutional AI & Medîne Şehirleri'}
+          </div>
+          <div class="backcast-step">
+            <strong style="color:var(--text-heading);">⚖️ 2026–2036 ${isEn ? 'Seed' : 'Tohum'}</strong><br>
+            ${isEn ? '15 Foundational Monographs & Falsifiable Policy Thresholds' : '15 Kurucu Rapor, İSNAD 2 Tahkiki & Yanlışlanabilir Eşikler'}
+          </div>
         </div>
+      </div>
+    </div>
+
+    <div class="panel" style="margin-bottom:22px; border-top:3px solid var(--accent-gold);">
+      <h3>
+        <span>🔗 ${isEn ? 'Tawhidi Systems Engineering: 5 Civilizational Pillars & 15-Verse Interlocking Matrix' : 'Tevhîdî Sistem Mühendisliği: 5 Medeniyet Sütunu ve 15 Âyet Kenetlenme Ağı'}</span>
+        <span>${isEn ? 'Closed-Loop Architecture' : 'Kapalı Devre Mimari'}</span>
+      </h3>
+      <p style="font-size:13px; color:var(--text-secondary); margin-bottom:12px;">
+        ${isEn
+          ? 'Civilization is built not by isolated rulings, but by the systemic interlocking of foundational Quranic norms where each verse safeguards and completes the others (Click any report badge below to jump to its monograph):'
+          : 'Medeniyet tekil hükümlerin parçacı okunmasıyla değil; adalet, emanet, şûrâ, bilgi doğrulama, servet dolaşımı ve insan onuru âyetlerinin birbirini denetleyen bütünlüklü kenetlenmesiyle inşa edilir (Rapora gitmek için ilgili rozete tıklayın):'}
+      </p>
+      <div class="pillar-grid">
+        ${tevhidiPillarsHtml}
+      </div>
+    </div>
+
+    <div class="panel" style="margin-bottom:22px; border-top:3px solid var(--accent-emerald);">
+      <h3>
+        <span>🏛️ ${isEn ? `Z-6: Future Civilizational Blueprint Cards for All ${REPORTS.length} Foundational Reports (2030–2100)` : `Z-6: 15 Kurucu Raporun Gelecek Medeniyet Tasarım Kartları (2030–2100 Külliyat Atlası)`}</span>
+        <span>Makâsıd 2.0 & Umrân 2050</span>
+      </h3>
+      <p style="font-size:13px; color:var(--text-secondary);">
+        ${isEn
+          ? 'Each card synthesizes (1) Fitrah & Ontological Human Model, (2) Constitutional Civilizational Axiom, (3) Mizan-Tech Techno-Ethical Red Line, and (4) 2050 Institutional & Umran Prototype:'
+          : 'Her bir kart; ilgili âyetin (1) Fıtrat & İnsan Tasavvurunu, (2) Anayasal Medeniyet İlkesini, (3) Mîzân-Tech Tekno-Etik Kırmızı Çizgisini ve (4) 2050 Kurumsal & Umrân Prototipini çift dilli olarak sentezler:'}
+      </p>
+      <div class="z6-grid">
+        ${z6AllCardsHtml}
       </div>
     </div>
 

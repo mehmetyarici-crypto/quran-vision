@@ -57,3 +57,12 @@ The Quran Vision architecture organizes the 26 analysis steps under **5 Macro Ph
 - **Z-4 — Standard Epistemic Disclaimer:** Mandatory statement affirming the interpretative and non-fatwa nature of the report.
 - **Z-4.5 — Academic Bibliography (ISNAD 2 & APA / DOI Standard):** Dual-layer alphabetical bibliography listing classical Islamic sources under ISNAD 2nd Edition conventions (including death year `d. AH/CE`, editor, publisher) and modern empirical/institutional sources with DOIs/URLs, alongside in-text Markdown footnotes (`[^1]`, `[^2]`).
 - **Z-5 — Peer Review Record:** Independent external scholarly assessment log (`DRAFT`, `PRE-RELEASE`, `EXTERNALLY-REVIEWED`).
+
+---
+
+## Academic Governance & Role Disclosure (COPE & Principle 4)
+
+- **Founder & Principal Author (Corpus Owner):** **Mehmet Yarıcı** — *Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School* (`ORCID: 0009-0003-0356-8582`).
+- **Academic Advisor & External Peer-Reviewer:** **Mehmet Emin Koç** — *Azerbaijan National Academy of Sciences (ANAS / AMEA), Institute of Philosophy and Sociology* (`ORCID: 0000-0002-1025-5643`).
+- **COPE & Principle 4 (Role Separation) Disclosure:** **Mehmet Emin Koç** (ANAS / AMEA) conducted the methodological external audit and academic advisory process as an independent scholar external to the principal author's institution. In accordance with COPE publication ethics and **Principle 4 (Role Separation)** transparency, this dual advisory/review role is explicitly disclosed; the entire corpus remains permanently open to third-party independent scholarly commentary and falsification audits under the **Z-5 Open Peer-Review** protocol.
+- **External Cryptographic Integrity (V4):** To prevent a *self-referential hash paradox*, SHA-256 digests are never embedded inside the report body; they are maintained in external `.sha256` manifests and the root [`SHA256SUMS.txt`](SHA256SUMS.txt) ledger (`sha256sum -c SHA256SUMS.txt`). Full catalog continuity across all 15 monographs is documented in [`LINTER_AUDIT_REPORT.md`](LINTER_AUDIT_REPORT.md).

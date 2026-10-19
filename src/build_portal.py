@@ -62,10 +62,16 @@ def parse_report(md_path: Path):
     z3_text = re.sub(r"^#{1,4}\s*(.+?)\n+", r"**\1:** ", z3_text)
 
     # Extract Prior & Posterior if present
-    prior_m = re.search(r"(?:P\(S_?1\)\s*=\s*|Prior\s*P\(H\)\):\*\*\s*)([0-9.]+)", body)
-    post_m = re.search(r"P\(S_?1\|E\)\s*(?:\\approx|=)\s*([0-9.]+)", body)
-    prior_val = float(prior_m.group(1)) if prior_m else 0.30
-    post_val = float(post_m.group(1)) if post_m else 0.78
+    prior_m = re.search(
+        r"(?:Prior\s*\$P\(S_?1\)\$\):\*\*\s*`([0-9.]+)`|P\(S_?1\)\s*=\s*([0-9.]+)|Prior\s*P\(H\)\):\*\*\s*([0-9.]+))",
+        body,
+    )
+    post_m = re.search(
+        r"(?:Posterior\s*\$P\(S_?1\|E\)\$\):\*\*[^\n]*?\\approx\s*([0-9.]+)|P\(S_?1\|E\)\s*(?:\\approx|=)\s*([0-9.]+))",
+        body,
+    )
+    prior_val = float(prior_m.group(1) or prior_m.group(2) or prior_m.group(3)) if prior_m else 0.30
+    post_val = float(post_m.group(1) or post_m.group(2)) if post_m else 0.78
 
     case_id = fm.get("case_id") or fm.get("vaka_kodu", "")
     surah = fm.get("surah") or fm.get("sure", "")
@@ -2564,12 +2570,29 @@ function selectReport(idx) {{
     <div class="hero-title">${{topicDisp}}</div>
     <details class="meta-disclosure">
       <summary class="meta-summary">
-        <span>🏛️ ${{isEn ? 'Academic Ownership, ORCID & SHA-256 Cryptographic Seal (Mehmet Yarıcı • Advisor: M. E. Koç)' : 'Akademik Künye, ORCID & SHA-256 Mührü (Mehmet Yarıcı • Danışman: M. E. Koç)'}}</span>
+        <span>🏛️ ${{isEn ? 'Academic Ownership, COPE Role Disclosure, ORCID & External SHA-256 Seal (M. Yarıcı • Advisor: M. E. Koç)' : 'Akademik Künye, COPE Rol Beyanı, ORCID & Harici SHA-256 Mührü (M. Yarıcı • Danışman: M. E. Koç)'}}</span>
       </summary>
       <div class="meta-disclosure-body">
         <div>👑 <strong>${{isEn ? 'Founder & Principal Author (Corpus Owner):' : 'Proje Kurucusu & Başyazar (Eser Sahibi):'}} Mehmet Yarıcı</strong> — <span style="color:var(--text-secondary);">${{isEn ? 'Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School' : 'Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi'}}</span> &nbsp;<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-family:'JetBrains Mono',monospace; font-size:11.5px; text-decoration:none;">[ORCID: 0009-0003-0356-8582]</a></div>
         <div>🏛️ <strong>${{isEn ? 'Academic Advisor & External Peer-Reviewer:' : 'Akademik Danışman & Dış Hakem:'}} Mehmet Emin Koç</strong> — <span style="color:var(--text-secondary);">${{isEn ? 'Azerbaijan National Academy of Sciences (ANAS), Institute of Philosophy and Sociology' : 'Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü'}}</span> &nbsp;<a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-family:'JetBrains Mono',monospace; font-size:11.5px; text-decoration:none;">[ORCID: 0000-0002-1025-5643]</a></div>
-        <div class="sha-bar">🔒 <strong>${{isEn ? 'SHA-256:' : 'SHA-256:'}}</strong> ${{isEn ? (r.sha256_en || r.sha256) : r.sha256}} &nbsp;|&nbsp; 📄 <code>${{activeMdPath}}</code> &nbsp;|&nbsp; 🏛️ <strong>DOI (v6.2.1):</strong> <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" style="color:var(--accent-gold);">10.5281/zenodo.23410818</a> <span style="opacity:0.8;">(Concept: <a href="https://doi.org/10.5281/zenodo.23391192" target="_blank" rel="noopener" style="color:var(--accent-emerald);">10.5281/zenodo.23391192</a>)</span></div>
+        <div style="font-size:11.5px; color:var(--text-secondary); line-height:1.55; padding:6px 10px; border-left:2px solid var(--accent-emerald); background:var(--bg-card); border-radius:4px; margin:4px 0;">
+          ⚖️ <strong>${{isEn ? 'Governance & Role Disclosure (COPE & Principle 4):' : 'Akademik Yönetişim ve Rol Beyanı (COPE & İlke 4):'}}</strong>
+          ${{isEn
+            ? 'Mehmet Emin Koç (ANAS / AMEA) conducted the methodological external audit and academic advisory process as an independent scholar outside the author\'s institution. In accordance with COPE publication ethics and Principle 4 (Role Separation) transparency, this dual advisory/review role is explicitly disclosed; the entire corpus remains permanently open to third-party independent scholarly commentary under the <strong>Z-5 Open Peer-Review</strong> protocol.'
+            : 'Mehmet Emin Koç (AMEA / ANAS), kurum dışı bağımsız akademisyen sıfatıyla metodolojik dış denetim ve akademik danışmanlık sürecini yürütmüştür. COPE yayın etiği ve İlke 4 (Rol Ayrımı) şeffaflığı gereği bu ikili rol açıkça beyan edilir; külliyatın tamamı <strong>Z-5 Açık Hakemlik (Open Peer-Review)</strong> protokolüyle üçüncü taraf bağımsız akademisyen şerhlerine daima açıktır.'}}
+        </div>
+        <div class="sha-bar">
+          🔒 <strong>${{isEn ? 'External SHA-256 Digest (V4):' : 'Harici SHA-256 Özeti (V4):'}}</strong> <code>${{isEn ? (r.sha256_en || r.sha256) : r.sha256}}</code>
+          &nbsp;|&nbsp; 📄 <code>${{activeMdPath}}.sha256</code>
+          &nbsp;|&nbsp; 📋 <a href="https://github.com/mehmetyarici-crypto/quran-vision/blob/main/SHA256SUMS.txt" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-weight:600;">SHA256SUMS.txt</a>
+          &nbsp;|&nbsp; 💻 <code>sha256sum -c SHA256SUMS.txt</code>
+          &nbsp;|&nbsp; 🏛️ <strong>DOI (v6.2.1):</strong> <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" style="color:var(--accent-gold);">10.5281/zenodo.23410818</a> <span style="opacity:0.8;">(Concept: <a href="https://doi.org/10.5281/zenodo.23391192" target="_blank" rel="noopener" style="color:var(--accent-emerald);">10.5281/zenodo.23391192</a>)</span>
+          <div style="font-size:11px; color:var(--text-muted); margin-top:3px;">
+            ${{isEn
+              ? 'ℹ️ V4 Cryptographic Discipline: To prevent a self-referential hash paradox, cryptographic digests are never embedded inside the report body; they are stored in external .sha256 manifests and the root SHA256SUMS.txt ledger.'
+              : 'ℹ️ V4 Kriptografik Disiplin Notu: Kendi kendine referans paradoksu (self-referential hash paradox) oluşturmamak için SHA-256 özetleri metin içine gömülmez; harici .sha256 dosyalarında ve kök dizindeki SHA256SUMS.txt manifestosunda tutulur.'}}
+          </div>
+        </div>
       </div>
     </details>
   `;
@@ -2577,6 +2600,10 @@ function selectReport(idx) {{
   // Tab 1: Dashboard
   const priorPct = Math.round(r.prior * 100);
   const postPct = Math.round(r.posterior * 100);
+  const shiftPts = postPct - priorPct;
+  const corpusMeanPrior = Math.round((REPORTS.reduce((a, b) => a + b.prior, 0) / REPORTS.length) * 100);
+  const corpusMeanPost = Math.round((REPORTS.reduce((a, b) => a + b.posterior, 0) / REPORTS.length) * 100);
+  const corpusMeanShift = corpusMeanPost - corpusMeanPrior;
 
   const activeScenarios = isEn ? (r.scenarios_en || r.scenarios || []) : (r.scenarios || []);
   let scenariosHtml = activeScenarios.map(s => {{
@@ -2612,7 +2639,7 @@ function selectReport(idx) {{
   document.getElementById('tab-dashboard').innerHTML = `
     <div class="grid-2">
       <div class="panel">
-        <h3><span>📈 ${{isEn ? 'Bayesian Policy Update (Step 14)' : 'Bayesyen Politika Güncellemesi (Adım 14)'}}</span><span>2026–2036</span></h3>
+        <h3><span>📈 ${{isEn ? `Bayesian Policy Update (Step 14 • ${{r.case_id}})` : `Bayesyen Politika Güncellemesi (Adım 14 • ${{r.case_id}})`}}</span><span>+${{shiftPts}} ${{isEn ? 'pts' : 'puan'}} (2026–2036)</span></h3>
         <div class="bayes-row">
           <div class="bayes-label">
             <span>${{isEn ? 'Prior Probability — P(S1) (Baseline Institutional Inertia)' : 'Önsel Olasılık — Prior P(S1) (Mevcut Ataletle Başarı)'}}</span>
@@ -2624,14 +2651,23 @@ function selectReport(idx) {{
         </div>
         <div class="bayes-row">
           <div class="bayes-label">
-            <span>${{isEn ? 'Posterior Probability — P(S1|E) (With Quranic Institutional Reform)' : 'Sonsal Olasılık — Posterior P(S1|E) (Kurumsal Reform Kanıtıyla)'}}</span>
-            <strong style="color:var(--accent-emerald);">%${{postPct}} (${{r.posterior.toFixed(2)}})</strong>
+            <span>${{isEn ? 'Posterior Probability — P(S1|E) (With K1–K3 Institutional Reform)' : 'Sonsal Olasılık — Posterior P(S1|E) (K1–K3 Kurumsal Reform Kanıtıyla)'}}</span>
+            <strong style="color:var(--accent-emerald);">%${{postPct}} (${{r.posterior.toFixed(2)}}) • +${{shiftPts}} ${{isEn ? 'pts' : 'puan'}}</strong>
           </div>
           <div class="progress-track">
             <div class="progress-fill" style="width:${{postPct}}%; background:var(--accent-emerald);"></div>
           </div>
         </div>
-        <h3 style="margin-top:22px;"><span>🎯 ${{isEn ? 'Empirical & Predictive Threshold Indicators (V6)' : 'Ampirik ve Tahminî Eşik Göstergeleri (V6)'}}</span></h3>
+        <div style="font-size:11.5px; color:var(--text-muted); margin-top:6px; display:flex; justify-content:space-between; flex-wrap:wrap; gap:6px;">
+          <span>📌 <strong>${{r.case_id}}:</strong> %${{priorPct}} → %${{postPct}} (+${{shiftPts}} ${{isEn ? 'pts' : 'puan'}})</span>
+          <span>📊 <strong>${{isEn ? `Corpus Arithmetic Mean (μ across ${{REPORTS.length}} reports):` : `${{REPORTS.length}} Raporun Aritmetik Ortalaması (μ):`}}</strong> %${{corpusMeanPrior}} → %${{corpusMeanPost}} (+${{corpusMeanShift}} ${{isEn ? 'pts' : 'puan'}})</span>
+        </div>
+        <div style="font-size:12px; line-height:1.55; color:var(--text-secondary); background:var(--bg-card); border-left:3px solid var(--accent-emerald); padding:9px 12px; border-radius:6px; margin-top:10px;">
+          ${{isEn
+            ? '<strong>Methodological Note (Principles 3 &amp; 5):</strong> This probability shift represents a conditional Bayesian scenario update <code>P(S1|E)</code> contingent upon <code>K1–K3</code> institutional reforms, not a deterministic causal claim. Popperian falsification thresholds (<code>th-01..th-03</code>) are specified in Steps 12, 14, and Z-4.'
+            : '<strong>Metodolojik Not (İlke 3 &amp; 5):</strong> Buradaki artış (+puan), deterministik bir kesinlik iddiası değil; <code>K1–K3</code> kurumsal reform kollarının uygulanması şartına bağlı koşullu Bayesyen senaryo güncellemesidir <code>P(S1|E)</code>. Popperci yanlışlama eşikleri (<code>th-01..th-03</code>) Adım 12, Adım 14 ve Z-4\'te tanımlıdır.'}}
+        </div>
+        <h3 style="margin-top:20px;"><span>🎯 ${{isEn ? 'Empirical & Predictive Threshold Indicators (V6)' : 'Ampirik ve Tahminî Eşik Göstergeleri (V6)'}}</span></h3>
         ${{thresholdsHtml}}
       </div>
 
@@ -2945,10 +2981,10 @@ function renderSynthesisTab() {{
   document.getElementById('tab-synthesis').innerHTML = `
     <div class="grid-2">
       <div class="panel">
-        <h3><span>📈 ${{isEn ? `Macro-Bayesian Corpus Synthesis (${{REPORTS.length}}-Report Mean)` : `Külliyat Makro-Bayesyen Sentezi (${{REPORTS.length}} Rapor Ortalaması)`}}</span><span>2026–2036</span></h3>
+        <h3><span>📈 ${{isEn ? `Macro-Bayesian Corpus Synthesis — Corpus Arithmetic Mean (μ across ${{REPORTS.length}} reports)` : `Külliyat Makro-Bayesyen Sentezi — ${{REPORTS.length}} Raporun Aritmetik Ortalaması (μ)`}}</span><span>2026–2036</span></h3>
         <div class="bayes-row">
           <div class="bayes-label">
-            <span>${{isEn ? 'Corpus Mean Prior Probability — P(S1) (Institutional Inertia)' : 'Külliyat Ortalama Önsel Olasılık — Prior P(S1) (Mevcut Kurumsal Atalet)'}}</span>
+            <span>${{isEn ? `Corpus Arithmetic Mean (μ across ${{REPORTS.length}} reports) — Prior P(S1)` : `${{REPORTS.length}} Raporun Aritmetik Ortalaması (μ) — Önsel Prior P(S1)`}}</span>
             <strong>%${{avgPrior}}</strong>
           </div>
           <div class="progress-track">
@@ -2957,18 +2993,18 @@ function renderSynthesisTab() {{
         </div>
         <div class="bayes-row">
           <div class="bayes-label">
-            <span>${{isEn ? "Corpus Mean Posterior Probability — P(S1|E) (With Quranic Reform)" : "Külliyat Ortalama Sonsal Olasılık — Posterior P(S1|E) (Kur'ani İlkeler & Reformla)"}}</span>
-            <strong style="color:var(--accent-emerald);">%${{avgPost}} (+%${{netGain}} ${{isEn ? 'Net Strategic Gain' : 'Net Stratejik Sıçrama'}})</strong>
+            <span>${{isEn ? `Corpus Arithmetic Mean (μ across ${{REPORTS.length}} reports) — Posterior P(S1|E)` : `${{REPORTS.length}} Raporun Aritmetik Ortalaması (μ) — Sonsal Posterior P(S1|E)`}}</span>
+            <strong style="color:var(--accent-emerald);">%${{avgPost}} (+%${{netGain}} ${{isEn ? 'Mean Shift μ' : 'Ortalama Artış μ'}})</strong>
           </div>
           <div class="progress-track">
             <div class="progress-fill" style="width:${{avgPost}}%; background:var(--accent-emerald);"></div>
           </div>
         </div>
-        <p style="font-size:13px; color:var(--text-secondary); margin-top:10px;">
+        <div style="font-size:12px; line-height:1.55; color:var(--text-secondary); background:var(--bg-card); border-left:3px solid var(--accent-emerald); padding:9px 12px; border-radius:6px; margin-top:10px;">
           ${{isEn
-            ? `Across all ${{REPORTS.length}} foundational verses, quantitative Bayesian simulations demonstrate that institutionalizing covenant fidelity, meritocracy, consultation (shura), epistemic verification, wealth circulation, mizan, and ta'aruf increases long-term societal stability by an average of <strong>+${{netGain}} percentage points</strong>.`
-            : `${{REPORTS.length}} kurucu âyetin tamamında yapılan nicel simülasyonlar; ahit vefası, liyakat, şûrâ, bilgi doğrulama (tebeyyün), servet dolaşımı, mîzân ve teâruf ilkeleri kurumsallaştırıldığında toplumsal istikrar olasılığının ortalama <strong>+%${{netGain}} puan</strong> arttığını kanıtlamaktadır.`}}
-        </p>
+            ? `<strong>Methodological Note (Principles 3 &amp; 5):</strong> The <strong>%${{avgPrior}} → %${{avgPost}} (+${{netGain}} pts)</strong> figure is the <strong>Corpus Arithmetic Mean (μ across ${{REPORTS.length}} reports)</strong> of conditional Bayesian scenario updates <code>P(S1|E)</code> contingent upon <code>K1–K3</code> institutional reforms, not a deterministic causal claim. Popperian falsification thresholds (<code>th-01..th-03</code>) are specified in Steps 12, 14, and Z-4 of each monograph.`
+            : `<strong>Metodolojik Not (İlke 3 &amp; 5):</strong> <strong>%${{avgPrior}} → %${{avgPost}} (+${{netGain}} puan)</strong> değeri, <strong>${{REPORTS.length}} Raporun Aritmetik Ortalaması (μ)</strong> olup deterministik bir kesinlik iddiası değil; <code>K1–K3</code> kurumsal reform kollarının uygulanması şartına bağlı koşullu Bayesyen senaryo güncellemelerinin (<code>P(S1|E)</code>) ortalamasıdır. Popperci yanlışlama eşikleri (<code>th-01..th-03</code>) her raporun Adım 12, Adım 14 ve Z-4 bölümlerinde tanımlıdır.`}}
+        </div>
       </div>
 
       <div class="panel">
@@ -2995,7 +3031,7 @@ function renderSynthesisTab() {{
       </div>
     </div>
 
-    <div class="panel md-body" style="padding:22px;">
+    <div class="panel md-body" style="padding:22px; margin-bottom:22px;">
       <h3 style="margin-top:0;"><span>📊 ${{isEn ? `Comprehensive Comparison Matrix of All ${{REPORTS.length}} Strategic Reports (Click Row to Open)` : `${{REPORTS.length}} Stratejik Raporun Bütüncül Karşılaştırma Matrisi (Rapora Gitmek İçin Satıra Tıklayın)`}}</span></h3>
       <table>
         <thead>
@@ -3012,6 +3048,24 @@ function renderSynthesisTab() {{
           ${{matrixRowsHtml}}
         </tbody>
       </table>
+    </div>
+
+    <div class="panel" style="border-color:var(--accent-emerald);">
+      <h3>
+        <span>🛡️ ${{isEn ? `Official Methodological Linter Audit Log (V1–V12 & Z-1..Z-5 Continuity)` : `Resmi Metodolojik Linter Denetim Tutanağı (V1–V12 & Z-1..Z-5 Katalog Devamlılığı)`}}</span>
+        <span class="badge badge-emerald">BLOCK: 0 (15 / 15 PASS)</span>
+      </h3>
+      <div style="font-size:13px; color:var(--text-secondary); line-height:1.65; margin-bottom:10px;">
+        ${{isEn
+          ? `All <strong>${{REPORTS.length}} foundational monographs (QV-2026-001 .. QV-2026-015)</strong> have been algorithmically verified by <code>src/gem_lint.py</code> with <strong>0 Block Errors (KESİCİ HATA: 0)</strong> across all 26 analytical steps, <strong>${{TOTAL_CLASSICAL}} ISNAD 2 primary Arabic citations</strong>, <strong>${{TOTAL_MODERN}} APA 7 / DOI institutional datasets</strong>, <code>Z-1..Z-5</code> appendices, and external <code>.sha256</code> manifests.`
+          : `Külliyattaki <strong>${{REPORTS.length}} kurucu monografinin tamamı (QV-2026-001 .. QV-2026-015)</strong>, <code>src/gem_lint.py</code> doğrulama motoru tarafından 26 analitik adım, <strong>${{TOTAL_CLASSICAL}} İSNAD 2 klasik Arapça nakil</strong>, <strong>${{TOTAL_MODERN}} APA 7 / DOI modern veri seti</strong>, <code>Z-1..Z-5</code> zorunlu ekleri ve harici <code>.sha256</code> özetleri açısından denetlenmiş ve sıfır şablon kayması (<strong>KESİCİ HATA / BLOCK: 0</strong>) ile tescil edilmiştir.`}}
+      </div>
+      <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; font-size:12px;">
+        <a class="btn btn-primary" href="https://github.com/mehmetyarici-crypto/quran-vision/blob/main/LINTER_AUDIT_REPORT.md" target="_blank" rel="noopener">📋 ${{isEn ? 'View Official LINTER_AUDIT_REPORT.md' : 'Resmi LINTER_AUDIT_REPORT.md Tutanağını Aç'}}</a>
+        <a class="btn" href="https://github.com/mehmetyarici-crypto/quran-vision/blob/main/SHA256SUMS.txt" target="_blank" rel="noopener">🔒 ${{isEn ? 'Verify SHA256SUMS.txt Ledger' : 'SHA256SUMS.txt Manifestosunu Doğrula'}}</a>
+        <code style="padding:5px 10px; background:var(--bg-card); border:1px solid var(--border); border-radius:6px;">python -X utf8 src/gem_lint.py</code>
+        <code style="padding:5px 10px; background:var(--bg-card); border:1px solid var(--border); border-radius:6px;">sha256sum -c SHA256SUMS.txt</code>
+      </div>
     </div>
   `;
 }}

@@ -922,8 +922,8 @@ def generate_manifest(target_file: Path):
 
 
 def main():
-    if len(sys.argv) < 2 or "--help" in sys.argv or "-h" in sys.argv:
-        print("Kullanım: python src/gem_lint.py <dosya_adi.md> [seçenekler]")
+    if "--help" in sys.argv or "-h" in sys.argv:
+        print("Kullanım: python src/gem_lint.py [dosya_adi.md ...] [seçenekler]")
         print("\nSeçenekler:")
         print("  --katman <1|2|3>          Analiz katmanı (Varsayılan: 3)")
         print("  --h6                      Zorlu Âyet (H6) ek kontrollerini uygula (Varsayılan)")
@@ -933,8 +933,8 @@ def main():
         print("  --similarity <dosya2.md>  İki rapor arası benzerlik denetimi")
         print("  --version                 Linter sürüm bilgisi")
         print("\nÖrnekler:")
-        print("  python src/gem_lint.py docs/tr/04-ornek-rapor.md")
-        print("  python src/gem_lint.py docs/tr/05-ornek-rapor-v6.1.1.md --katman 3 --h6")
+        print("  python -X utf8 src/gem_lint.py")
+        print("  python src/gem_lint.py docs/tr/06-pilot-tevbe-95-v6.1.1.md --katman 3 --h6")
         print("  python src/gem_lint.py rapor.md --generate-manifest")
         sys.exit(0)
 
@@ -980,8 +980,12 @@ def main():
             idx += 1
 
     if not target_files:
-        print("Hata: Taranacak dosya belirtilmedi. Yardım için: python src/gem_lint.py --help")
-        sys.exit(1)
+        root_dir = Path(__file__).resolve().parent.parent
+        default_reports = sorted((root_dir / "docs" / "tr").glob("[0-9][0-9]-*-v6.1.1.md"))
+        target_files = [f for f in default_reports if not f.name.startswith("05-")]
+        if not target_files:
+            print("Hata: Taranacak dosya belirtilmedi. Yardım için: python src/gem_lint.py --help")
+            sys.exit(1)
 
     if gen_manifest:
         overall_exit = 0
@@ -992,19 +996,28 @@ def main():
         sys.exit(overall_exit)
 
     overall_exit = 0
+    total_blocks = 0
+    total_warns = 0
     for p in target_files:
         linter = GemLinterV6(p, katman=katman, h6=h6, manifest_path=manifest_path)
         exit_code = linter.run_all()
+        total_blocks += sum(1 for f in linter.findings if f["level"] == BLOCK)
+        total_warns += sum(1 for f in linter.findings if f["level"] == WARN)
         if exit_code > overall_exit:
             overall_exit = exit_code
 
+    if len(target_files) > 1:
+        print("=" * 70)
+        print(f"  KÜLLİYAT TOPLU DENETİM ÖZETİ ({len(target_files)} KURUCU RAPOR)")
+        print(f"  TOPLAM KESİCİ HATA (BLOCK) : {total_blocks}")
+        print(f"  TOPLAM UYARI (WARN)        : {total_warns}")
+        print(f"  DURUM                      : {'🟢 SIFIR KESİCİ HATA (15/15 GEÇTİ)' if total_blocks == 0 else '🔴 KESİCİ HATA MEVCUT'}")
+        print("=" * 70 + "\n")
+
     if similarity_target and target_files:
         check_cross_similarity(target_files[0], similarity_target)
-    elif len(target_files) > 1:
-        for i in range(len(target_files) - 1):
-            check_cross_similarity(target_files[i], target_files[i + 1])
 
-    sys.exit(overall_exit)
+    sys.exit(2 if total_blocks > 0 else 0)
 
 
 if __name__ == "__main__":

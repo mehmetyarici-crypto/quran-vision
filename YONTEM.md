@@ -57,3 +57,12 @@ Quran Vision mimarisi, 26 analiz adımını bilişsel bütünlüğü korumak ama
 - **Z-4 — Standart Sınır Beyanı:** Raporun fetva veya ilahî muradın tek tefsiri olmadığını bildiren zorunlu şerh.
 - **Z-4.5 — Akademik Kaynakça (İSNAD 2 ve APA / DOI Bibliyografyası):** Klasik İslami kaynakların İSNAD 2. Edisyon kurallarıyla (vefat yılı `ö. H/M`, muhakkik, neşir yeri/yılı), çağdaş ampirik kaynakların ise APA 7 / DOI standardıyla alfabetik listelendiği ve metin içi dipnotların (`[^1]`, `[^2]`) çözümlendiği kaynakça bölümü.
 - **Z-5 — Hakem ve Akran Değerlendirme Kaydı:** Dış bağımsız akademik değerlendirme kütüğü (`DRAFT`, `PRE-RELEASE`, `EXTERNALLY-REVIEWED`).
+
+---
+
+## Akademik Yönetişim ve Rol Beyanı (Governance & Role Disclosure — COPE & İlke 4)
+
+- **Proje Kurucusu & Başyazar (Eser Sahibi):** **Mehmet Yarıcı** — *Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi* (`ORCID: 0009-0003-0356-8582`).
+- **Akademik Danışman & Dış Hakem:** **Mehmet Emin Koç** — *Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü* (`ORCID: 0000-0002-1025-5643`).
+- **COPE ve İlke 4 (Rol Ayrımı) Şeffaflık Beyanı:** **Mehmet Emin Koç** (AMEA / ANAS), başyazarın kurumundan bağımsız dış akademisyen sıfatıyla külliyatın metodolojik dış denetim ve akademik danışmanlık sürecini yürütmüştür. Uluslararası yayın etiği (COPE) ve **İlke 4 (Rol Ayrımı)** şeffaflığı gereği bu ikili danışmanlık/dış denetim rolü açıkça beyan edilir; külliyatın tamamı **Z-5 Açık Hakemlik (Open Peer-Review)** protokolüyle üçüncü taraf bağımsız akademisyen şerhlerine ve yanlışlama denetimlerine daima açıktır.
+- **Harici Kriptografik Bütünlük (V4):** Kendi kendine referans paradoksu (*self-referential hash paradox*) oluşturmamak için SHA-256 özetleri metin içine gömülmez; harici `.sha256` dosyalarında ve kök dizindeki [`SHA256SUMS.txt`](SHA256SUMS.txt) manifestosunda (`sha256sum -c SHA256SUMS.txt`) tutulur. Katalog devamlılığı [`LINTER_AUDIT_REPORT.md`](LINTER_AUDIT_REPORT.md) ile belgelenir.

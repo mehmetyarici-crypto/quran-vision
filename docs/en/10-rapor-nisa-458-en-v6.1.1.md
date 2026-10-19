@@ -234,7 +234,7 @@ peer_review:
   - *First Constitutional Pillar (`Inna'llaha ya'murukum an tu'addu al-amanati ila ahliha`):* Mandatory entrustment of all public offices, resources, and fiduciary duties to the most qualified and trustworthy (`ahliha`).
   - *Second Constitutional Pillar (`wa-idha hakamtum bayna'n-nasi an tahkumu bi'l-'adl`):* Mandatory impartial justice in every judicial and administrative decision among all people (`bayna'n-nas`).
   - *Causal Link:* Meritocracy (`amanah`) is placed *before* adjudication (`'adl`) because an unqualified, nepotistically appointed judge or official cannot deliver justice.
-- **Counter-Principle Test:** Appointing relatives, partisan loyalists, or unqualified candidates to public office (*nepotism / cronyism*) when more competent candidates exist is condemned by the Prophetic Hadith as **triple treason** (*'Whoever appoints a person over a group while knowing there is someone more qualified among them has betrayed Allah, His Messenger, and the believers'* — Al-Hakim; Ibn Taymiyyah, *al-Siyasah al-Shar'iyyah*, p. 6).
+- **Counter-Principle Test:** Appointing relatives, partisan loyalists, or unqualified candidates to public office (*nepotism / cronyism*) when more competent candidates exist is condemned by the Prophetic Hadith as **triple treason** (*'Whoever appoints a person over a group while knowing there is someone more qualified among them has betrayed Allah, His Messenger, and the believers'* — Al-Ḥākim, *al-Mustadrak*, 4/104, no. 7023; Al-Bayhaqī, *al-Sunan al-Kubrā*, 10/118, no. 20155; Ibn Taymiyyah, *al-Siyasah al-Shar'iyyah*, p. 6).
 
 [ANALYSIS] The five primary classical lexicographical and exegetical authorities consulted for **Surah An-Nisa 4:58** are documented below with full critical-edition loci, original Arabic text (`[CITATION / NAKİL]`), and analytical synthesis (`[ANALYSIS / YORUM]`):
 
@@ -309,7 +309,7 @@ peer_review:
 - **S2 (Subsequent Verse — An-Nisa 4:59):** *'O you who believe, obey Allah and obey the Messenger and those in authority among you (`uli'l-amri minkum`); and if you dispute over anything, refer it to Allah and the Messenger.'* As Fakhr al-Din al-Razi and Ibn Taymiyyah point out, placing `4:58` (the ruler's duty of meritocracy and justice) immediately **before** `4:59` (the citizen's duty of lawful obedience) proves that political legitimacy is conditional upon `amanah` and `'adl`.
 - **S3 (Structural Locus):** Forms the constitutional centerpiece of Surah An-Nisa (`4:58–59`), known in classical literature as *Ayat al-Umara'* (The Verse of Public Authorities).
 - **S4 (Intra-Surah Unity):** Connects domestic fiduciary justice (`4:2–10` orphans, `4:34–35` family) to macro-state fiduciary justice (`4:58–59`) and judicial integrity (`4:135`).
-- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed on the day of the Conquest of Mecca (8 AH) concerning the key of the Ka'bah held by 'Uthman ibn Talhah (Al-Tabari, *Jami' al-Bayan*, 8/490; Al-Zamakhshari, 1/523). Even the Prophet's uncle Al-'Abbas was denied the post because the specific custodian trust belonged to 'Uthman ibn Talhah.
+- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed on the day of the Conquest of Mecca (8 AH) concerning the key of the Ka'bah held by 'Uthman ibn Talhah (Ibn Hishām, *al-Sīrah al-Nabawiyyah*, 4/55; Al-Wāqidī, *al-Maghāzī*, 2/833; Al-Tabari, *Jami' al-Bayan*, 8/490; Al-Zamakhshari, 1/523). Even the Prophet's uncle Al-'Abbas was denied the post because the specific custodian trust belonged to 'Uthman ibn Talhah.
 - **S6 (Canonical Mushaf Sequence):** Prepares the legal ground for Surah Al-Ma'idah (`5:1` covenants, `5:8` impartial testimony even against enemies).
 - **S7 (Context-Stripping Risk Audit):** Quoting `4:59` (*obey those in authority*) while suppressing `4:58` (*render trusts to the qualified and judge with justice*) is the classic authoritarian `S7` distortion.
 
@@ -422,7 +422,7 @@ peer_review:
 
 ### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** As the Prophet warned Abu Dharr al-Ghifari (Sahih Muslim): *'O Abu Dharr, I see that you are weak, and I love for you what I love for myself: do not assume authority over even two people, and do not manage the property of an orphan.'* Personal piety alone does not entitle a person to an office for which they lack technical competence.
+- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** As the Prophet warned Abu Dharr al-Ghifari (Muslim, *Imārah*, 16–17, no. 1825–1826): *'O Abu Dharr, I see that you are weak, and I love for you what I love for myself: do not assume authority over even two people, and do not manage the property of an orphan.'* Personal piety alone does not entitle a person to an office for which they lack technical competence.
 - **Outer Institutional Order (*Âfâk*):** Transparent merit-based recruitment, independent judiciary (`hukm bi'l-'adl`), and anti-corruption auditing.
 - **Enfüs–Decision Bridge:** Decision-makers who fear the Divine Auditor (`Sami'an Basira`) refuse to sign nepotistic appointments or partisan judicial rulings; institutional safeguards (`STEP 15`) reinforce this inner conscience with legal accountability.
 
@@ -547,7 +547,7 @@ peer_review:
 
 ### Z-1 · CORE METHODOLOGICAL PROBLEMATIC (APORIA) [MANDATORY V9]
 
-**The Dual Pillars of State Survival (Amanah & 'Adl):** [ANALYSIS] Revealed during the Conquest of Mecca when the Prophet returned the key of the Ka'bah to 'Uthman ibn Talhah rather than handing it to his own Hashemite kin, An-Nisa 4:58 links civilizational survival to two non-negotiable mandates: entrusting public offices strictly to competent bearers (ahliha) regardless of lineage or faction, and adjudicating among all people with blind justice ('adl).
+**The Dual Pillars of State Survival (Amanah & 'Adl):** [ANALYSIS] Revealed during the Conquest of Mecca when the Prophet returned the key of the Ka'bah to 'Uthman ibn Talhah (Ibn Hishām, *al-Sīrah al-Nabawiyyah*, 4/55; Al-Wāqidī, *al-Maghāzī*, 2/833) rather than handing it to his own Hashemite kin, An-Nisa 4:58 links civilizational survival to two non-negotiable mandates: entrusting public offices strictly to competent bearers (ahliha) regardless of lineage or faction, and adjudicating among all people with blind justice ('adl).
 
 ---
 

@@ -242,7 +242,7 @@ peer_review:
   - `وَٱللَّهُ سَمِيعٌ عَلِيمٌ` (vallâhü semî‘un ‘alîm): Allah (dillerin ikrarını) hakkıyla işitendir, (kalplerdeki samimi niyeti) hakkıyla bilendir.
 
 - **Klasik Tefsir Lafzî Tahlili (Taberî & Fahreddîn er-Râzî):**[^5]
-  - `[NAKİL]`: Taberî, âyetin nüzul sebebinde Ensar'dan Husayn isimli zatın Hristiyan olan iki oğlunu zorla Müslüman yapmaya çalışması üzerine indiğini ve Hz. Peygamber'in zorlamayı kesin bir dille men ettiğini belgeler (*Câmi'u'l-Beyân*, C. 4, s. 550).
+  - `[NAKİL]`: Taberî, âyetin nüzul sebebinde Ensar'dan Husayn isimli zatın Hristiyan olan iki oğlunu zorla Müslüman yapmaya çalışması üzerine indiğini ve Hz. Peygamber'in zorlamayı kesin bir dille men ettiğini belgeler (*Câmi'u'l-Beyân*, C. 4, s. 550; ayrıca bkz. Ebû Dâvûd, *Cihâd*, 115, nr. 2682; İbn Hibbân, *es-Sahîh*, 1/355, nr. 140).
   - `[YORUM]`: Ebeveynin dahi öz evladı üzerinde din dayatma hakkı yoktur; iman bir kalp tasdiki ve irade imtihanı olduğundan vicdan sahası beşerî vesayete bütünüyle kapalıdır.
 
 - **Siyâk-Sibâk ve Tarihsel Bağlam:**
@@ -505,7 +505,7 @@ Bakara 2:256, Kur'ân'ın tevhid zirvesi olan **Âyetü'l-Kürsî (2:255)**'nin 
 - **Temel Varsayım:** İnsanların dinî tercihlerinde hür bırakıldıklarında ahlaki hakikate daha samimi yönelecekleri kabul edilmiştir.
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Bakara 2:256 — Din ve Vicdan Hürriyeti, İkrah Yasağı):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Özgürlük, Hakikat Saygısı, Samimiyet (İhlas), Hoşgörü ve İnsan Onuru.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** `"Lâ ikrâhe fi'd-dîn"` (Dinde hiçbir zorlama yoktur) ilkesinin nüzul sebebi (Medineli Ensâr ailelerinin Hıristiyan olan evlatlarını zorla İslam'a sokmak istemeleri üzerine inmesi — Taberî) paylaşılır.
+  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** `"Lâ ikrâhe fi'd-dîn"` (Dinde hiçbir zorlama yoktur) ilkesinin nüzul sebebi (Medineli Ensâr ailelerinin Hıristiyan olan evlatlarını zorla İslam'a sokmak istemeleri üzerine inmesi — Ebû Dâvûd, *Cihâd*, 115, nr. 2682; Taberî, *Câmi'u'l-Beyân*, C. 4, s. 550) paylaşılır.
   - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Cinsini nefyeden `Lâ` edatı, `rüşd` (akli ve ahlaki doğruluk), `ğayy` (sapıklık), `tâğût` ve `urvetü'l-vüskâ` (kopmayan sağlam kulp) kavramları Râzî ve İbn Âşûr'un yorumlarıyla çözümlenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** `R1` (baskı ve dayatmanın ikiyüzlülük/nifak ve nefret üretmesi) ile `B1` (vicdan hürriyeti ve rasyonel delilin samimi iman ve toplumsal barış üretmesi) döngüleri karşılaştırılır.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler Medine Vesikası'ndan bugüne inanç özgürlüğünün medeniyet inşasındaki yerini değerlendirir.
@@ -522,7 +522,7 @@ Bakara 2:256 âyetinin İslam düşünce tarihindeki en derin teolojik ve hukuki
 
 Bu durum şu açık gerilimleri doğurur:
 1. Eğer dine girerken zorlama yoksa, dinden çıkarken ölüm tehdidiyle zorlama yapmak "Dinde zorlama yoktur" ilkesiyle nasıl bağdaştırılabilir? Bir dine girişi serbest kılıp çıkışı idamla yasaklamak, vicdan hürriyetinin özünü zedelemez mi?
-2. Erken dönem hadis rivayetlerindeki *"Dinini değiştireni öldürün"* (*men beddele dînehû faktülûh*) lafzı; o dönemde Medine toplumundan ayrılıp düşman kabilelerin ordusuna katılan 'askeri firar ve vatana ihanet' vakalarına mı mahsustur, yoksa sırf ferdî vicdani kanaat değişikliğini mi kapsar?
+2. Erken dönem hadis rivayetlerindeki *"Dinini değiştireni öldürün"* (*men beddele dînehû faktülûh*; Buhârî, *Cihâd*, 149, nr. 3017, *İstitâbetü'l-Mürteddîn*, 2, nr. 6922; Ebû Dâvûd, *Hudûd*, 1, nr. 4351) lafzı; o dönemde Medine toplumundan ayrılıp düşman kabilelerin ordusuna katılan 'askeri firar ve vatana ihanet' vakalarına mı mahsustur, yoksa sırf ferdî vicdani kanaat değişikliğini mi kapsar?
 3. Klasik ulemadan Şâtıbî ve İbn Âşûr ile modern dönem müfessirleri, 2:256'nın muhkem olduğunu ve sırf düşünce/inanç değişikliğinin ölümle cezalandırılamayacağını savunmaktadır. Ancak geleneksel literatürdeki mürted ahkâmı ile 2:256 arasındaki bu gerilim, modern hukuk düzeninde hâlâ tam anlamıyla çözümlenmemiş bir tefsir ve fıkıh usûlü aporiası olarak varlığını sürdürmektedir.
 
 ---
@@ -533,7 +533,7 @@ Bu durum şu açık gerilimleri doğurur:
 | :--- | :--- | :--- | :--- |
 | **Görüş 1: Klasik Zâhirî / Haricî Literalist Ekol** | Âyet mensuhtur; Tevbe 9:5 ve 9:29 ile hükmü kaldırılmıştır. | Kâfirler ya İslam'a ya cizyeye zorlanır; kabul etmeyenle savaşılır. | Tevbe 9:5 kıtal emrinin umumiliği. |
 | **Görüş 2: Klasik Dört Mezhep (Cumhur Fıkıh Ekolü)** | Âyet muhkemdir fakat Ehl-i Kitap ile sınırlıdır (tahsistir); cizye veren kitap ehli zorlanmaz. | Arap müşrikleri İslam'a zorlanır; kitap ehli serbest bırakılır. Mürted cezalandırılır. | Nüzul sebebi rivayetleri ve cizye uygulaması. |
-| **Görüş 3: Erken Usûl Azınlığı (Taberî, Süfyân es-Sevrî, en-Nehaî)** | Âyet umumidir; hiçbir insan (müşrik dahil) zorlanamaz. Mürtede ebediyen mühlet verilir. | Dinî tercihte tam serbestlik; cebirle Müslüman yapma eylemi batıldır. | Âyetteki cins nefyeden `Lâ` edatı ve Hz. Peygamber'in uygulamaları. |
+| **Görüş 3: Erken Usûl Azınlığı (Taberî, Süfyân es-Sevrî, en-Nehaî)** | Âyet umumidir; hiçbir insan (müşrik dahil) zorlanamaz. Mürtede ebediyen mühlet verilir. | Dinî tercihte tam serbestlik; cebirle Müslüman yapma eylemi batıldır. | Âyetteki cins nefyeden `Lâ` edatı ve Hz. Peygamber'in uygulamaları (Ebû Dâvûd, *Cihâd*, 115, nr. 2682; Taberî, *Câmi'u'l-Beyân*, 4/550). |
 | **Görüş 4: Çağdaş Makasıdî Ekol (Şâtıbî, İbn Âşûr, Abduh, Mevdûdî)** | Âyet evrensel ve muhkem bir anayasa kuralıdır. Nesh gerçekleşmemiştir; âyet muhkemdir. | Bütün din, inanç ve felsefi tercihler tam vicdan hürriyetine sahiptir. İrtidat cezası sadece fiili siyasi isyan ve vatana ihanet durumunda uygulanır. | Bakara 2:256 lafzı, Yûnus 10:99 ve Kehf 18:29 muhkem âyetleri. |
 
 ---

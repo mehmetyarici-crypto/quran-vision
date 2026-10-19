@@ -233,7 +233,7 @@ peer_review:
   - `أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ` (en tü'eddü'l-emânâti): Emanetleri eksiksiz ve tam zamanında eda / iade etmenizi (`el-emânât` çoğul ve elif-lâm'lı gelerek kamu görevlerinden yargı yetkisine, hazine mallarından bilimsel/mesleki sorumluluklara kadar her türlü emaneti kuşatır).
   - `إِلَىٰٓ أَهْلِهَا` (ilâ ehlihâ): Gerçek ehillerine, o işi en iyi taşıyacak liyakat ve hak sahiplerine (`ehl` kelimesi akrabalık veya sadakati değil, işi hakkıyla yapabilme ehliyetini ve liyakati şart koşar).
   - `وَإِذَا حَكَمْتُم` (ve izâ hakemtüm): Ve insanlar arasında karar verdiğiniz, yargılama veya idari tasarruf yaptığınız zaman.
-  - `بَيْنَ ٱلنَّاسِ` (beyne'n-nâs): İnsanlar arasında (`el-mü'minîn` değil `en-nâs` buyrularak; din, mezhep, ırk, sınıf ve siyasi görüş ayrımı olmaksızın bütün insanlar arasında).
+  - `بَيْنَ ٱلنَّاسِ` (beyne'n-nâs): İnsanlar arasında (`el-mü'minîn` değil `en-nâs` [Nisâ 4:58] buyrularak; din, mezhep, ırk, sınıf ve siyasi görüş ayrımı olmaksızın bütün insanlar arasında).
   - `أَن تَحْكُمُوا۟ بِٱلْعَدْلِ` (en tahkümû bi'l-‘adl): Tam bir adalet ve hakkaniyetle hükmetmenizi.
   - `إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ` (innallâhe ni‘ımmâ ye‘ızuküm bih): Allah bununla (emaneti ehline verme ve adaletle hükmetme ilkesiyle) size ne güzel öğüt vermektedir.
   - `إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًۭا` (innallâhe kâne semî‘an basîrâ): Şüphesiz Allah (verilen kararları ve mazlumun sesini) hakkıyla işitendir, (kapalı kapılar ardındaki kayırmacılığı ve niyetleri) hakkıyla görendir.
@@ -243,7 +243,7 @@ peer_review:
   - `[YORUM]`: Liyakatsiz atama sıradan bir idari kusur değil; nass tarafından doğrudan emanete hıyanet ve kamu hukukuna tecavüz olarak tanımlanmıştır.
 
 - **Siyâk-Sibâk ve Tarihsel Bağlam:**
-Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in ileri gelenlerinin ve Hz. Abbas'ın talebine rağmen eski emanetçisi **Osman b. Talha**'ya iade etmesi üzerine inmiş; hemen peşinden gelen **4:59 âyetinde** ise (*"Ey iman edenler! Allah'a, Resûl'e ve sizden olan ulü'l-emre itaat edin"*) kamu otoritesine itaatin önşartı olarak 58. âyetteki **liyakat ve adalet** ilkesi konulmuştur.
+Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in ileri gelenlerinin ve Hz. Abbas'ın talebine rağmen eski emanetçisi **Osman b. Talha**'ya iade etmesi üzerine inmiş (İbn Hişâm, *es-Sîretü'n-Nebeviyye*, 4/55; Vâkıdî, *el-Meğâzî*, 2/833; Taberî, *Câmi'u'l-Beyân*, 7/165; krş. Müslim, *Hac*, 68, nr. 1329); hemen peşinden gelen **4:59 âyetinde** ise (*"Ey iman edenler! Allah'a, Resûl'e ve sizden olan ulü'l-emre itaat edin"*) kamu otoritesine itaatin önşartı olarak 58. âyetteki **liyakat ve adalet** ilkesi konulmuştur.
 ---
 
 ### ADIM 02 — MANTIKSAL SEMANTİK VE KARŞIT İLKE TESTİ
@@ -301,7 +301,7 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 - **S2 (Sonraki Âyet — Nisâ 4:59):** *"Ey iman edenler! Allah'a itaat edin, Peygamber'e itaat edin ve sizden olan emir sahiplerine de..."* Bu sibak hayati bir şart içerir: Yöneticilere itaat ancak 4:58'deki emanet ve adalet ilkesine riayet ettikleri sürece meşrudur. Adaleti çiğneyen lidere itaat meşruiyetini kaybeder.
 - **S3 (Pasajın Konumu):** Nisâ Sûresi'nin kamu yönetimi, mülkiyet ve anayasal sözleşmeyi düzenleyen kalbinde yer alır.
 - **S4 (Sûre İçi Bütünlük):** Nisâ 4:135'teki *"Kendiniz, ana-babanız ve yakınlarınız aleyhine de olsa adaleti titizlikle ayakta tutun"* emriyle simetriktir.
-- **S5 (Nüzûl Sebepleri ve Hitap):** Mekke'nin fethi günü Kâbe'nin anahtarlarının emanet edilmesi. Hz. Peygamber, anahtarı amcası Hz. Abbas istemesine rağmen, liyakati sebebiyle henüz Müslüman olmamış bulunan Osman b. Talha'ya iade etmiştir.
+- **S5 (Nüzûl Sebepleri ve Hitap):** Mekke'nin fethi günü Kâbe'nin anahtarlarının emanet edilmesi. Hz. Peygamber, anahtarı amcası Hz. Abbas istemesine rağmen, liyakati sebebiyle henüz Müslüman olmamış bulunan Osman b. Talha'ya iade etmiştir (İbn Hişâm, *es-Sîretü'n-Nebeviyye*, 4/55; Vâkıdî, *el-Meğâzî*, 2/833; Taberî, *Câmi'u'l-Beyân*, 7/165).
 - **S6 (Tarihsel Bağlam):** Liyakatin kabile asabiyetinden ve hatta ilk etapta inançtan önce geldiğinin en somut tarihsel şahididir.
 - **S7 (Kırpma Riski):** Âyeti sadece rehin bırakılan emanet eşyaların iadesine indirgeyip kamu yönetimi ve yargı bağımsızlığını dışarıda bırakan indirgemeci okuma riski mevcuttur.
 
@@ -380,7 +380,7 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 
 - **Red Team İtirazları:**
   - *İtiraz:* "Siyasal iktidarlar kendilerine sadık olmayan kadrolarla çalışamaz. Sadakat olmadan liyakat devlete ihanet doğurabilir; dolayısıyla liyakatten önce siyasi sadakat aranmalıdır."
-  - *Cevap:* Bu itiraz Kâbe'nin anahtarlarını henüz Müslüman dahi olmamış Osman b. Talha'ya teslim eden Nebevî uygulamayla çelişir. Sadakat devlete ve hukukun üstünlüğünedir; şahıslara veya partilere sadakat aramak devleti çeteleştirir. Hakiki liyakat zaten dürüstlük ve ehliyeti içerir.
+  - *Cevap:* Bu itiraz Kâbe'nin anahtarlarını henüz Müslüman dahi olmamış Osman b. Talha'ya teslim eden Nebevî uygulamayla (İbn Hişâm, *es-Sîre*, 4/55; Vâkıdî, *el-Meğâzî*, 2/833; Taberî, *Câmi'u'l-Beyân*, 7/165) çelişir. Sadakat devlete ve hukukun üstünlüğünedir; şahıslara veya partilere sadakat aramak devleti çeteleştirir. Hakiki liyakat zaten dürüstlük ve ehliyeti içerir.
 - **Falsifiabilite Protokolü (Yalnızca Ampirik ve Dünyevi Politika Hipotezlerine):**
   - **Uygulanan Alan:** Karar kollarındaki ampirik uygulama modeli.
   - **Zaman Aralığı:** 5 Yıllık İzleme Penceresi (2026–2031).
@@ -491,7 +491,7 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 
 ### ADIM 19 — İZLEME VE GERİYE DÖNÜK SINAMA (RETRODICTION)
 - **İzleme KPI:** Liyakat endeksi skoru, yargıya güven oranı, Sayıştay raporlarındaki uygunsuzluk adedi.
-- **Retrodiction:** Hz. Ömer'in tayin ettiği valilere yönelik mal varlığı beyanı ve liyakat denetimleri.
+- **Retrodiction:** Hz. Ömer'in tayin ettiği valilere yönelik mal varlığı beyanı ve liyakat denetimleri (Abdürrezzâk, *el-Musannef*, 11/318, nr. 20646; İbn Sa'd, *et-Tabakâtü'l-Kübrâ*, 3/305; Belâzürî, *Fütûhu'l-Büldân*, s. 219; İbn Teymiyye, *es-Siyâsetü'ş-Şer'iyye*, s. 25).
 
 ---
 
@@ -500,7 +500,7 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 - **Temel Varsayım:** Liyakat sisteminin uygulandığı toplumlarda ekonomik verimliliğin ve toplumsal refahın artacağı kabul edilmiştir.
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Nisâ 4:58 — Kamu Emaneti, Liyakat ve Adil Yargı):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Emanet, Liyakat (Ehliyet), Adalet, Tarafsızlık ve Hesap Verebilirlik.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Mekke'nin fethi günü Hz. Peygamber'in Kâbe'nin anahtarını kendi akrabalarına değil, ezelî emanet ehline (Osman b. Talha'ya) teslim etmesi kıssası üzerinden `"emânâtı ehline verme"` ilkesi tartışılır.
+  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Mekke'nin fethi günü Hz. Peygamber'in Kâbe'nin anahtarını kendi akrabalarına değil, ezelî emanet ehline (Osman b. Talha'ya; İbn Hişâm, *es-Sîre*, 4/55; Vâkıdî, *el-Meğâzî*, 2/833) teslim etmesi kıssası üzerinden `"emânâtı ehline verme"` ilkesi tartışılır.
   - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Çoğul `el-emânât` lafzı, `ehlihâ` (liyakat ve ehliyet sahipleri) ve `beyne'n-nâs` (inanç ve kimlik ayrımı gözetmeksizin tüm insanlar arasında adalet) kavramları Râzî ve İbn Teymiyye (*es-Siyâsetü'ş-Şer'iyye*) nakilleriyle incelenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Nepotizm/kayırmacılık sarmalı (`R1`) ile liyakat ve bağımsız yargı dengeleyicisi (`B1`) arasındaki nedensel ilişki WJP Hukukun Üstünlüğü verileriyle analiz edilir.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler kamu görevlerinde liyakat ve çıkar çatışması ilkelerini içeren bir *Kamu Etiği Şartnamesi* tasarlar.
@@ -527,7 +527,7 @@ Bu gerilim şu çetin soruları doğurur:
 | Görüş Sahibi / Ekol | Lafzî Yorumu | Hukuki / Stratejik Neticesi | Dayandığı Temel Delil |
 | :--- | :--- | :--- | :--- |
 | **Görüş 1: Klasik Fıkıh Ekolü (Cumhur / Mâverdî, Gazzâlî)** | Emanetler kamu görevleridir; yönetici adil, kifayetli ve güvenilir olanı atamakla mükelleftir. | Müslüman olmayanların harp ve yargı gibi kritik velayet makamlarına atanması caiz görülmez; istişare ve vergi gibi işlerde çalıştırılabilir. | Tevbe 9:16 ve Nisâ 4:141 âyetleri; maslahat-ı amme. |
-| **Görüş 2: İbn Teymiyye ve İbnü'l-Kayyim Ekolü** | Ehliyet göreve göre değişir. Askerlikte cesur günahkâr, zayıf muttakiye tercih edilir (*el-kaviyyü'l-fâcir evlâ mine'd-daîfi'l-berr*). | Liyakat işin doğasına göredir; sırf dindarlık tek başına liyakat sayılmaz. En ehil olan göreve getirilir. | Hz. Peygamber'in Hâlid b. Velîd ve Amr b. Âs'ı yeni Müslüman oldukları halde ordu komutanı yapması. |
+| **Görüş 2: İbn Teymiyye ve İbnü'l-Kayyim Ekolü** | Ehliyet göreve göre değişir. Askerlikte cesur günahkâr, zayıf muttakiye tercih edilir (*el-kaviyyü'l-fâcir evlâ mine'd-daîfi'l-berr*). | Liyakat işin doğasına göredir; sırf dindarlık tek başına liyakat sayılmaz. En ehil olan göreve getirilir. | Hz. Peygamber'in Hâlid b. Velîd ve Amr b. Âs'ı yeni Müslüman oldukları halde ordu komutanı yapması (Buhârî, *Meğâzî*, 44, nr. 4262; Müslim, *İmâre*, 132, nr. 1837; İbn Teymiyye, *es-Siyâsetü'ş-Şer'iyye*, s. 18–21). |
 | **Görüş 3: Otokratik / İtaatçi Saltanat Ekolü** | Âyet ahlaki bir tavsiyedir; yöneticinin atama takdiri sınırsızdır ve sorgulanamaz. | Padişah/halife dilediğini tayin eder; itaatsizlik fitnedir. Nepotizm şer'î bir azil sebebi sayılmaz. | Siyasi istikrar gerekçesi ve ulu'l-emre kayıtsız itaat tevili. |
 | **Görüş 4: Çağdaş Makasıdî ve Anayasal Ekol (İbn Âşûr, Muhammed Abduh)** | Âyetteki `beyne'n-nâs` lafzı evrensel eşit vatandaşlık bildirir. Liyakat objektif sınav ve denetime bağlanmalıdır. | Din, ırk ve mezhep ayrımı yapılmaksızın tüm vatandaşlar kamu görevlerine eşit hakla girer. Yargı yürütmeden tam bağımsızdır. | Nisâ 4:58 lafzı, Medine Sözleşmesi ve Nebevî emanet uygulamaları. |
 

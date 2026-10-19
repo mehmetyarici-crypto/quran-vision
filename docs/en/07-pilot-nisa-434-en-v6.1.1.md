@@ -247,7 +247,7 @@ peer_review:
   - *Trigger Condition (`wa'llati takhafuna nushuzahunna`):* Emergence of severe marital rupture and hostility (`nushuz`).
   - *Sequential 3-Stage De-Escalation:* (1) Verbal counsel (`fa-'izuhunna`) → (2) Emotional cooling-off by separating beds (`wa-hjuruhunna fi'l-madaji'`) → (3) Last-resort symbolic boundary/separation (`wa-dribuhunna`, strictly *ghayr mubarrih*) → immediately followed by bilateral family arbitration (`hakam` in `4:35`) if rupture persists.
   - *Categorical Prohibition:* Once reconciliation occurs, seeking any pretext to harm or oppress (`fa-la tabghu 'alayhinna sabilan`) is forbidden.
-- **Counter-Principle Test:** Interpreting An-Nisa 4:34 as a license for domestic violence violates the explicit **Counter-Principles** of `Ar-Rum 30:21` (*'He placed between you affection [mawaddah] and mercy [rahmah]'*), `An-Nisa 4:19` (*'Live with them in kindness [wa-'ashiruhunna bi'l-ma'ruf]'*), `Al-Baqarah 2:231` (*'Do not retain them to harm them [diraran] so as to transgress'*), and the Prophet's lifelong practice (*'The Prophet never struck a woman or a servant with his hand'* — Sahih Muslim).
+- **Counter-Principle Test:** Interpreting An-Nisa 4:34 as a license for domestic violence violates the explicit **Counter-Principles** of `Ar-Rum 30:21` (*'He placed between you affection [mawaddah] and mercy [rahmah]'*), `An-Nisa 4:19` (*'Live with them in kindness [wa-'ashiruhunna bi'l-ma'ruf]'*), `Al-Baqarah 2:231` (*'Do not retain them to harm them [diraran] so as to transgress'*), and the Prophet's lifelong practice (*'The Prophet never struck a woman or a servant with his hand'* — Muslim, *Faḍā'il*, 79, no. 2328).
 
 [ANALYSIS] The five primary classical lexicographical and exegetical authorities consulted for **Surah An-Nisa 4:34** are documented below with full critical-edition loci, original Arabic text (`[CITATION / NAKİL]`), and analytical synthesis (`[ANALYSIS / YORUM]`):
 
@@ -300,7 +300,7 @@ peer_review:
 ### STEP 04 — MAQASID AL-SHARIAH ANALYSIS (DARURIYYAT / HAJIYYAT / TAHSINIYYAT)
 
 - **Hifz al-Nasl & Hifz al-'Ird (Preservation of Family & Dignity):** Protects the marital covenant (`mithaqan ghalizan`, `4:21`) and shields children from domestic trauma.
-- **Hifz al-Nafs (Preservation of Life & Bodily Integrity):** Categorically prohibits physical injury, battery, and psychological terror under the Prophetic restriction *ghayr mubarrih* and the legal maxim *la darar wa-la dirar*.
+- **Hifz al-Nafs (Preservation of Life & Bodily Integrity):** Categorically prohibits physical injury, battery, and psychological terror under the Prophetic restriction *ghayr mubarrih* (Muslim, *Ḥajj*, 147, no. 1218) and the legal maxim *la darar wa-la dirar* (Ibn Mājah, *Aḥkām*, 17, no. 2340).
 - **Hifz al-Mal (Economic Security):** Binds *qiwamah* to the husband's legal duty to provide maintenance (`bima anfaqu min amwalihim`) while preserving the wife's independent property (`4:32`).
 - **Shatibi & Ibn Ashur Maqasid Hierarchy:** `[ANALYSIS]` As Ibn Ashur (*al-Tahrir wa'l-Tanwir*, 5/43) demonstrates, the *Daruriyyat* core of marriage is safeguarding human life and family continuity; the *Hajiyyat* layer provides structured mediation (`4:35`); and the *Tahsiniyyat* pinnacle is the Prophetic Sunnah of complete gentleness and never raising a hand.
 
@@ -322,7 +322,7 @@ peer_review:
 - **S2 (Subsequent Verses — An-Nisa 4:35–36):** Immediately commands bilateral family arbitration (`fab'athu hakaman min ahlihi wa-hakaman min ahliha in yurida islahan yuwaffiqi'llahu baynahuma`, `4:35`) whenever breach (`shiqaq`) is feared, proving that the husband is not an unchecked judge in his own dispute.
 - **S3 (Structural Locus):** Situated at the heart of Surah An-Nisa ('The Chapter of Women'), which systematically reforms pre-Islamic Arabian injustices against women and orphans.
 - **S4 (Intra-Surah Unity):** `4:19` (Kindness) + `4:32` (Economic Independence) + `4:34` (Fiduciary Maintenance & Crisis De-Escalation) + `4:35` (Bilateral Arbitration) + `4:128` (Remedy for a Husband's *Nushuz*) form a symmetric legal system.
-- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed in Medina when pre-Islamic patriarchal violence was being dismantled; the Prophet immediately restricted the verse by forbidding any injurious strike (*ghayr mubarrih*) and declaring that those who strike their wives 'are not the best among you' (Abu Dawud).
+- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed in Medina when pre-Islamic patriarchal violence was being dismantled; the Prophet immediately restricted the verse by forbidding any injurious strike (*ghayr mubarrih*) and declaring that those who strike their wives 'are not the best among you' (Abū Dāwūd, *Nikāḥ*, 42, no. 2146; Ibn Mājah, *Nikāḥ*, 51, no. 1985).
 - **S6 (Canonical Mushaf Sequence):** Follows Al-i Imran (`3:195` — *'Never will I allow to be lost the work of any worker among you, whether male or female; you are of one another'*).
 - **S7 (Context-Stripping Risk Audit):** Detaching `4:34` from `4:19`, `4:35`, `4:128`, and the Prophetic Sunnah is a severe `S7` distortion that turns a verse of gradual conflict limitation into an excuse for abuse.
 
@@ -437,7 +437,7 @@ peer_review:
 
 ### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** True strength in Islamic spirituality is not physical dominance over one's spouse, but mastery over one's own anger (*al-shadidu man yamliku nafsahu 'inda'l-ghadab* — Bukhari). A heart illuminated by *mawaddah* and *rahmah* (`30:21`) views the spouse as a sacred trust (*amanatullah*, Farewell Sermon).
+- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** True strength in Islamic spirituality is not physical dominance over one's spouse, but mastery over one's own anger (*al-shadidu man yamliku nafsahu 'inda'l-ghadab* — al-Bukhārī, *Adab*, 76, no. 6114; Muslim, *Birr*, 107, no. 2609). A heart illuminated by *mawaddah* and *rahmah* (`30:21`) views the spouse as a sacred trust (*amanatullah*, Farewell Sermon; Muslim, *Ḥajj*, 147, no. 1218).
 - **Outer Institutional Order (*Âfâk*):** Legal enforcement of financial maintenance (*nafaqah*), statutory prohibition of domestic violence, and accessible `4:35` family mediation centers.
 - **Enfüs–Decision Bridge:** Without inner emotional regulation and *taqwa*, legal rules alone cannot create a tranquil home (`sakan`); therefore, pre-marital education (`K1`) must cultivate Prophetic gentleness alongside legal literacy.
 
@@ -540,7 +540,7 @@ peer_review:
   - *Year 1:* Zero tolerance (`0%`) for domestic violence in all religious and legal counseling protocols (`th-01`).
   - *Year 3:* `>= 70%` participation of non-violent marital crisis cases in accredited `4:35` bilateral mediation (`th-03`).
   - *Year 5:* Achievement of the `70.8%` posterior non-violent crisis resolution target ($P(S_1|E)$) and a `>= 35%` reduction in domestic violence complaints.
-- **Historical Retrodiction:** The **Prophetic Household (*Bayt al-Nubuwwah*) and Early Medinan Judicial Practice** serve as the historical verification benchmark: the Prophet Muhammad (peace be upon him) never struck a wife or servant (`Sahih Muslim`), consulted his wives on major public affairs (such as Umm Salamah at Hudaybiyyah), and appointed bilateral arbiters (`Ali ibn Abi Talib and Mu'awiyah's reports on `4:35`) to resolve marital disputes without violence.
+- **Historical Retrodiction:** The **Prophetic Household (*Bayt al-Nubuwwah*) and Early Medinan Judicial Practice** serve as the historical verification benchmark: the Prophet Muhammad (peace be upon him) never struck a wife or servant (Muslim, *Faḍā'il*, 79, no. 2328), consulted his wives on major public affairs (such as Umm Salamah at Hudaybiyyah; al-Bukhārī, *Shurūṭ*, 15, no. 2731), and appointed bilateral arbiters (`Ali ibn Abi Talib and Mu'awiyah's reports on `4:35`) to resolve marital disputes without violence.
 
 ---
 
@@ -564,7 +564,7 @@ peer_review:
 
 ### Z-1 · CORE METHODOLOGICAL PROBLEMATIC (APORIA) [MANDATORY V9]
 
-**Fiduciary Stewardship vs. Patriarchal Domination:** [ANALYSIS] How does classical Maqasid jurisprudence distinguish fiduciary family stewardship (qawwamah bi'l-ma'ruf) from authoritarian domination? Following Ibn Ashur, 'Ata ibn Abi Rabah, and the prophetic sunnah ('The Prophet never struck a woman or a servant'), An-Nisa 4:34-35 establishes a strictly non-violent, three-stage restorative conflict-resolution protocol designed to prevent domestic abuse and hasty marital dissolution.
+**Fiduciary Stewardship vs. Patriarchal Domination:** [ANALYSIS] How does classical Maqasid jurisprudence distinguish fiduciary family stewardship (qawwamah bi'l-ma'ruf) from authoritarian domination? Following Ibn Ashur, 'Ata ibn Abi Rabah, and the prophetic sunnah ('The Prophet never struck a woman or a servant'; Muslim, *Faḍā'il*, 79, no. 2328), An-Nisa 4:34-35 establishes a strictly non-violent, three-stage restorative conflict-resolution protocol designed to prevent domestic abuse and hasty marital dissolution.
 
 ---
 
@@ -574,7 +574,7 @@ peer_review:
 
 | Exegetical / Legal School | Key Authorities & Sources | Position on *Qiwamah* & the Restriction of `Wa-dribuhunna` | Primary Evidentiary Basis |
 | :--- | :--- | :--- | :--- |
-| **Prophetic Sunnah Restriction & *Tark* Priority (*Classical Majority*)** | Ibn 'Abbas, Al-Shafi'i (*al-Umm*), Al-Tabari, Al-Jassas (*Ahkam*, 3/150), Al-Qurtubi | *Qiwamah* is conditional upon maintenance (`nafaqah`). The third stage is strictly limited by Prophetic *takhsis* to a symbolic, painless gesture (*ghayr mubarrih*, e.g., with a *siwak* or folded cloth) that leaves no mark, and abandoning it (*tark*) is explicitly preferred. | Farewell Sermon (*ghayr mubarrih*), Sahih Muslim (*'The Prophet never struck a woman'*), and Abu Dawud (*'Those who do so are not the best of you'*). |
+| **Prophetic Sunnah Restriction & *Tark* Priority (*Classical Majority*)** | Ibn 'Abbas, Al-Shafi'i (*al-Umm*), Al-Tabari, Al-Jassas (*Ahkam*, 3/150), Al-Qurtubi | *Qiwamah* is conditional upon maintenance (`nafaqah`). The third stage is strictly limited by Prophetic *takhsis* to a symbolic, painless gesture (*ghayr mubarrih*, e.g., with a *siwak* or folded cloth) that leaves no mark, and abandoning it (*tark*) is explicitly preferred. | Farewell Sermon (*ghayr mubarrih*; Muslim, *Ḥajj*, 147, no. 1218), Muslim (*Faḍā'il*, 79, no. 2328 — *'The Prophet never struck a woman'*), and Abū Dāwūd (*Nikāḥ*, 42, no. 2146 — *'Those who do so are not the best of you'*). |
 | **Categorical Prohibition of Harm & State Ban (*Athari / Maqasid School*)** | 'Ata' ibn Abi Rabah (d. 114 AH), Ibn al-'Arabi (*Ahkam al-Qur'an*), Ibn Ashur (*al-Tahrir*, 5/43) | 'Ata' ruled that a husband may not strike his wife even with a *siwak*, expressing frustration only through non-violent displeasure (`ghadab`). Ibn Ashur ruled that because people violate boundaries and cause harm (`darar / baghy`), the state has full authority to legally ban and punish any physical striking. | Closing warning of `4:34` (`fa-la tabghu 'alayhinna sabilan`), the maxim *la darar wa-la dirar*, and the Prophet's condemnation of domestic battery. |
 | **Lexical Separation Reading (*Contemporary Linguistic Approach*)** | Contemporary philological researchers (e.g., AbdulHamid AbuSulayman) | Interprets `wa-dribuhunna` from the idiom *daraba 'anhu* (to turn away from / separate physically from the household) prior to the `4:35` arbitration stage. | Polysemy of the root `d-r-b` in `Lisan al-Arab` and structural transition from `4:34` (separation) to `4:35` (arbitration). |
 

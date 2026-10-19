@@ -241,7 +241,7 @@ peer_review:
   - `وَٱلَّـٰتِى تَخَافُونَ نُشُوزَهُنَّ` (ve'llâtî tehâfûne nüşûzehünne): Aile akdini ve sadakatini yıkıcı başkaldırısından (`nüşûz`) ciddi endişe duyduğunuz kadınlara gelince (Nisâ 4:128'de erkeğin *nüşûz*u da aynı kavramla kınanmıştır).
   - `فَعِظُوهُنَّ` (fe-‘ızûhünne): İlk adım olarak onlara hikmet ve şefkatle öğüt verin (iletişim ve müzakere kapısını açın).
   - `وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ` (vehcurûhünne fi'l-medâci‘): İkinci adım olarak yataklarda yalnız bırakın (evden kovmadan ve sözlü hakaret etmeden krizin ciddiyetini hissettiren duygusal mesafe koyun).
-  - `وَٱضْرِبُوهُنَّ` (vadribûhünne): Üçüncü adım olarak (Sünnetin *ğayra müberrih* [iz bırakmayan, acıtmayan sembolik misvak dokunuşu] tahdidi ve Hz. Peygamber'in hayatı boyunca hiçbir kadına el kaldırmamış olması ışığında) son sembolik uyarıda bulunun veya geçici ayrılık yoluna gidin.
+  - `وَٱضْرِبُوهُنَّ` (vadribûhünne): Üçüncü adım olarak (Sünnetin *ğayra müberrih* [iz bırakmayan, acıtmayan sembolik misvak dokunuşu; Müslim, *Hac*, 147, nr. 1218; Tirmizî, *Radâ'*, 11, nr. 1163] tahdidi ve Hz. Peygamber'in hayatı boyunca hiçbir kadına el kaldırmamış olması [Müslim, *Fezâil*, 79, nr. 2328; İbn Mâce, *Nikâh*, 51, nr. 1984] ışığında) son sembolik uyarıda bulunun veya geçici ayrılık yoluna gidin.
   - `فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا` (fe-in eta‘neküm fe-lâ tebğû ‘aleyhinne sebîlâ): Eğer aile hukukuna ve uzlaşıya dönerlerse, sakın aleyhlerine bir baskı, kınama veya üstünlük yolu (`sebîl`) aramayın (`lâ tebğû`, erkeğin güç istismarını *bağy* [zulüm] sayarak kesin biçimde haram kılar).
   - `إِنَّ ٱللَّهَ كَانَ عَلِيًّۭا كَبِيرًۭا` (innallâhe kâne ‘aliyyen kebîrâ): Şüphesiz Allah çok yücedir, çok büyüktür (kadına karşı gücünü istismar etmeye kalkışan erkeğe, kendisinden çok daha üstün ve büyük olan Allah'ın hesap soracağı tehdididir).
 
@@ -270,7 +270,7 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 
 ### ADIM 03 — ÜÇLÜ ÇERÇEVE (ETHOS / LOGOS / PATHOS) VE İS-OUGHT KÖPRÜSÜ
 
-- **Ethos (Ahlaki Yük):** Emanet ve adalet ahlakı esastır. Güçlü olanın zayıfı ezmesi haram kılınmıştır. Hz. Peygamber'in *"Sizin en hayırlınız ailesine karşı en hayırlı olanınızdır"* ve *"Kadınları dövenler sizin hayırlılarınız değildir"* düsturları âyetin ahlaki çatısını oluşturur.
+- **Ethos (Ahlaki Yük):** Emanet ve adalet ahlakı esastır. Güçlü olanın zayıfı ezmesi haram kılınmıştır. Hz. Peygamber'in *"Sizin en hayırlınız ailesine karşı en hayırlı olanınızdır"* (Tirmizî, *Menâkıb*, 63, nr. 3895; İbn Mâce, *Nikâh*, 50, nr. 1977) ve *"Kadınları dövenler sizin hayırlılarınız değildir"* (Ebû Dâvûd, *Nikâh*, 42, nr. 2146; İbn Mâce, *Nikâh*, 51, nr. 1985; Dârimî, *Nikâh*, 34) düsturları âyetin ahlaki çatısını oluşturur.
 - **Logos (Mantıksal Tutarlılık):** Bir kurumda yetki sorumlulukla dengelenmelidir. Masrafı ve nafakayı üstlenen aktöre koordinasyon rolü verilirken, bu rolün tiranlığa dönüşmemesi için hakem mekanizması (Nisâ 4:35) ve yargı denetimi şart koşulmuştur.
 - **Pathos (Vicdani ve Duygusal Tesir):** Ataerkil kabile baskısı altında ezilen kadına hukuki güvence sunarken; erkeğe kibirlenmemesi gerektiğini, aksi halde Allah'ın azametine toslayacağını (`عَلِيًّۭا كَبِيرًۭا`) hissettirir.
 - **İs-Ought Köprüsü ve Hume Giyotini:**
@@ -284,7 +284,7 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 
 - **Küllî Makasıd:** Can, nesil, mal, akıl ve din emniyeti.
 - **Klasik Referanslar ve Ahkâm İncelemesi:**
-  - `[NAKİL]`: Şâtıbî (*el-Muvâfakât*, C. 2, s. 210-215)[^4], şeriatın gayesinin nefsin ve kerametin korunması olduğunu, zulme yol açan her tevilin batıl olduğunu belirtir. Cessâs (*Ahkâmü'l-Kur'ân*, C. 3, s. 148-152)[^5], fukahanın ittifakıyla darbın gayr-i müberrih (yaralamayan, iz bırakmayan, misvak gibi sembolik) olduğunu nakleder. Tabiîn fakihi Atâ b. Ebî Rebâh ise açıkça: *"Koca karısına vuramaz; Hz. Peygamber'in sünneti bunu bütünüyle reddetmiştir"* demiştir.
+  - `[NAKİL]`: Şâtıbî (*el-Muvâfakât*, C. 2, s. 210-215)[^4], şeriatın gayesinin nefsin ve kerametin korunması olduğunu, zulme yol açan her tevilin batıl olduğunu belirtir. Cessâs (*Ahkâmü'l-Kur'ân*, C. 3, s. 148-152)[^5], fukahanın ittifakıyla darbın gayr-i müberrih (yaralamayan, iz bırakmayan, misvak gibi sembolik) olduğunu nakleder. Tabiîn fakihi Atâ b. Ebî Rebâh ise açıkça: *"Koca karısına vuramaz; Hz. Peygamber'in sünneti bunu bütünüyle reddetmiştir"* (Müslim, *Fezâil*, 79, nr. 2328; Ebû Dâvûd, *Nikâh*, 42, nr. 2146; İbnü'l-Arabî, *Ahkâmü'l-Kur'ân*, 1/420) demiştir.
   - `[YORUM]`: İbn Âşûr (*et-Tahrîr ve’t-Tenvîr*), kamu otoritesinin (devlet/hâkim), toplumda kadınlara yönelik fiziksel şiddet istismarını engellemek amacıyla kocaların bu tür fiillerini kanunla yasaklama ve cezalandırma (ta'zîr) hakkına sahip olduğunu içtihat etmiştir.
 - **Zarûriyyât Dengelemesi:**
   1. *Nefsin ve Onurun Korunması (Hıfzu'n-Nefs ve'l-Irz):* Eşlerin fiziksel ve psikolojik şiddetten korunması esastır.
@@ -310,7 +310,7 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 - **S2 (Sonraki Âyet — Nisâ 4:35):** **En hayati tamamlayıcı âyettir:** *"Eğer karı-kocanın arasının açılmasından endişe ederseniz, erkeğin ailesinden bir hakem, kadının ailesinden bir hakem gönderin. Düzeltmek isterlerse Allah aralarını bulur."* Krizin çözümü erkeğin tek taraflı iradesine değil, iki ailenin eşit temsilli bağımsız hakem heyetine bağlanmıştır.
 - **S3 (Pasajın Konumu):** Nisâ 4:1'deki "tek bir nefisten yaratılma" ve rahim bağlarına saygı ilanı ile başlar.
 - **S4 (Sûre İçi Bütünlük):** Nisâ 4:176'daki adil miras ve zayıfların hukukunun korunmasıyla biter.
-- **S5 (Nüzûl Sebepleri):** Uhud Seferi sonrası kabile dengeleri ve Sa'd b. Rebî' hadisesi.
+- **S5 (Nüzûl Sebepleri):** Uhud Seferi sonrası kabile dengeleri ve Sa'd b. Rebî' / Habîbe bint Zeyd hadisesi (Taberî, *Câmi'u'l-Beyân*, 6/687; Vâhidî, *Esbâbü'n-Nüzûl*, s. 155; krş. Buhârî, *Nikâh*, 93, nr. 5204).
 - **S6 (Mushaf Sırası ve Tevkîfî Yapı):** Yetimlerin, kadınların ve kimsesizlerin kabile zorbalığına karşı anayasal olarak korunması.
 - **S7 (Kırpma Riski):** **EVET / ÇOK YÜKSEK.** Tarih boyunca ataerkil çevreler 4:34'teki "vadribûhünne" lafzını cımbızlayarak, öncesindeki iki basamağı (`va'z`, `hecr`), sonrasındaki hakem heyetini (4:35) ve "kadınlarla güzellikle geçinin" (4:19) emrini yok saymışlardır. Bu kırpma usûlen batıldır.
 
@@ -331,7 +331,7 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 ### ADIM 07 — SİSTEM HARİTASI (CAUSAL LOOP DİAGRAMI — CLD), GECİKME VE KIRILMA NOKTASI (N4)
 
 - **Temel Sistem Değişkenleri (Stok & Akış Değişkenleri):** `[YORUM]` **Stok Değişkenler:** Aile İçi Meveddet ve Rahmet Stoku (Rûm 30:21), Karşılıklı Güven ve Mahremiyet Emniyeti (*Hıfzu'l-Gayb*), Aile Birliği Dayanıklılığı. **Akış Değişkenler:** Nüşûz (Aile İçi Başkaldırı/Geçimsizlik) Artış Hızı, Kavamet ve Nafaka Sorumluluğu Akışı, Kademeli Islah İletişimi (Vaaz → Hicr → Sembolik Uyarı) ve Hakemeyn (Çift Taraflı Aile Tahkimi — Nisâ 4:35) Müdahale Hızı.
-- **Pekiştirici Döngü (R1 — Otoriter Tahakküm ve Aile İçi Şiddet Kısır Döngüsü / Vicious Cycle):** `[YORUM]` Aile İçi İletişim Kopukluğu ve Nüşûz (`+`) → Kavametin Despotik Tahakküm Olarak İstismarı ve Şiddet/Baskı (`+`) → Duygusal Yabancılaşma ve Travma (`+`) → Meveddet ve Güven Stokunun Çöküşü (`-`) → Karşılıklı Husumet ve Aile İçi Kriz (`+`) → Aile İçi İletişim Kopukluğu ve Nüşûz (`+`). *(Nebevi sünnetin şiddet yasağını çiğneyen otoriter tepki, krizi çözmek yerine boşanma ve nesil travmasını hızlandırır).*
+- **Pekiştirici Döngü (R1 — Otoriter Tahakküm ve Aile İçi Şiddet Kısır Döngüsü / Vicious Cycle):** `[YORUM]` Aile İçi İletişim Kopukluğu ve Nüşûz (`+`) → Kavametin Despotik Tahakküm Olarak İstismarı ve Şiddet/Baskı (`+`) → Duygusal Yabancılaşma ve Travma (`+`) → Meveddet ve Güven Stokunun Çöküşü (`-`) → Karşılıklı Husumet ve Aile İçi Kriz (`+`) → Aile İçi İletişim Kopukluğu ve Nüşûz (`+`). *(Nebevi sünnetin şiddet yasağını [Müslim, *Fezâil*, 79, nr. 2328; Ebû Dâvûd, *Nikâh*, 42, nr. 2146] çiğneyen otoriter tepki, krizi çözmek yerine boşanma ve nesil travmasını hızlandırır).*
 - **Dengeleyici Döngü (B1 — Nisâ 4:34–35 Kademeli Islah ve Hakemeyn Dengeleyicisi / Balancing Loop):** `[YORUM]` Nüşûz ve Aile İçi Kriz Sinyali (`+`) → 1. Kademe Hikmetli Nasihat ve Psikolojik Diyalog (`fa-‘iẓūhunna`) (`+`) → 2. Kademe Ev İçi Soğutma Süreci (`wa-hjurūhunna`) ve 3. Kademe Nisâ 4:35 Çift Taraflı Hakem Heyeti (`ḥakamayn`) Devreye Girişi (`+`) → Adil Uzlaşı ve Ma'rûf Ölçüsünde Hakların Tesisi (`+`) → Nüşûz ve Aile İçi Kriz Sinyali (`-`). *(Şiddetsiz kademeli soğutma ve kurumsal hakemlik aileyi yıkımdan korur).*
 - **Sistemik Gecikme (Delay) ve Kaldıraç Noktası (Leverage Point):** `[YORUM]` **Sistemik Gecikme (Delay):** Âyetteki üç aşamalı sıralama (`fa-‘iẓūhunna` → `wa-hjurūhunna` → `wa-ḍribūhunna` → `ḥakamayn`), öfke anında ani boşanmayı veya şiddeti engelleyen zorunlu bir **duygusal ve hukuki gecikme (de-escalation buffer)** mekanizmasıdır. **Kaldıraç Noktası (Leverage Point):** Krizin üçüncü haftasını aşması halinde (4:35) her iki aileden eğitimli uzlaştırıcı hakemlerin (`ḥakamayn`) sürece dahil edilmesi ve `fa-lā tabghū ‘alayhinna sabīlā` (zulüm/bahane arama yasağı) denetiminin işletilmesidir.
 - **Kırılma Noktası (Tipping Point) ve Erken Uyarı Sinyali (N4 / EU):** `[YORUM]` **Tipping Point (Kırılma Noktası):** Sözlü iletişimin tamamen kesilerek psikolojik veya fiziksel şiddete yönelinmesi ve ev içi güvenliğinin sıfır tolerans sınırını ihlal etmesi. **Erken Uyarı Sinyali (N4 / EU-01):** Üç haftayı (`> 3 hafta`) aşan küsme ve duygusal kopukluk, nafaka/bakım yükümlülüklerinin kasıtlı ihmali ve aile mahremiyetinin (`hıfzu'l-gayb`) üçüncü kişilere ifşa edilmesi.
@@ -390,7 +390,7 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 
 - **Red Team İtirazları:**
   - *İtiraz:* "Âyet erkeğe açıkça dövün emri vermiştir. Koca aile reisidir ve fiziksel güç kullanabilir."
-  - *Cevap:* Bu itiraz nassın makasıdını, Hz. Peygamber'in ömrü boyunca hiçbir kadına vurmadığı gerçeğini ve Atâ b. Ebî Rebâh ile İbn Âşûr'un "kamu otoritesi bunu bütünüyle yasaklar" içtihadını görmezden gelir. Kur'an'ın muhkem adalet ve keramet ilkeleriyle çelişen bir terbiye anlayışı usûlen batıldır.
+  - *Cevap:* Bu itiraz nassın makasıdını, Hz. Peygamber'in ömrü boyunca hiçbir kadına vurmadığı gerçeğini (Müslim, *Fezâil*, 79, nr. 2328; İbn Mâce, *Nikâh*, 51, nr. 1984) ve Atâ b. Ebî Rebâh ile İbn Âşûr'un "kamu otoritesi bunu bütünüyle yasaklar" içtihadını görmezden gelir. Kur'an'ın muhkem adalet ve keramet ilkeleriyle çelişen bir terbiye anlayışı usûlen batıldır.
 - **Falsifiabilite Protokolü (Yalnızca Ampirik ve Dünyevi Politika Hipotezlerine):**
   - **Uygulanan Alan:** Karar kollarındaki ampirik uygulama modeli.
   - **Zaman Aralığı:** 5 Yıllık İzleme Penceresi (2026–2031).
@@ -413,7 +413,7 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 - **Erken Uyarı Sinyalleri (N1–N4):** Sözlü hakaret ve iletişimsizlik süresi $> 3$ hafta olduğunda K2 devreye girer.
 - **Bayes Güncelleme Alanı (`Senaryo S1 — İstişarî Kıvâm ve Hakemli Sulh`):**
   - **Önsel Olasılık (Prior $P(S_1)$):** `0.36` (%36.0 — UN Women & Adalet Bakanlığı 2024 Aile Mahkemeleri Veritabanı başlangıç olasılığı).
-  - **Koşullu Olabilirlik $P(E|S_1) = 0.82$ & Yanlış Pozitif $P(E|\neg S_1) = 0.19$:** Sıfır fiziksel şiddet (`gayr-ı müberrih`), kademeli iletişim etiği ve Nisâ `4:35` çift taraflı hakem (`hakemân`) mekanizması devreye alındığında aile bütünlüğünün korunma olasılığı.
+  - **Koşullu Olabilirlik $P(E|S_1) = 0.82$ & Yanlış Pozitif $P(E|\neg S_1) = 0.19$:** Sıfır fiziksel şiddet (`gayr-ı müberrih`; Müslim, *Hac*, 147, nr. 1218), kademeli iletişim etiği ve Nisâ `4:35` çift taraflı hakem (`hakemân`) mekanizması devreye alındığında aile bütünlüğünün korunma olasılığı.
   - **Sonsal Olasılık (Posterior $P(S_1|E)$):** $P(S_1|E) = \frac{0.36 \times 0.82}{(0.36 \times 0.82) + (0.64 \times 0.19)} = 0.708 \approx 0.71$ (%70.8 — **+34.8 puanlık** uzlaşı artışı).
   - *Kapsam Notu:* Bayes güncellemesi YALNIZCA ölçülebilir ampirik göstergelerde çalışır; normatif inançlara sayısal olasılık verilemez (Bölüm 9 yasağı).
 
@@ -481,9 +481,9 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 ---
 
 ### ADIM 18 — BİLGİ TABANI VE ZAYIFLIK LİSTESİ
-- **Bilgi Tabanı:** İSNAD 2 standartlı klasik tefsir ve fıkıh kaynakları (Cessâs, Şâtıbî, Zemahşerî, İbn Âşûr), Hz. Peygamber'in fiilî sünneti ve UN Women / WHO / UNDP küresel aile içi şiddet ve insani gelişme veri setleri.
+- **Bilgi Tabanı:** İSNAD 2 standartlı klasik tefsir ve fıkıh kaynakları (Cessâs, Şâtıbî, Zemahşerî, İbn Âşûr), Hz. Peygamber'in fiilî sünneti (Müslim, *Fezâil*, 79, nr. 2328; Ebû Dâvûd, *Nikâh*, 42, nr. 2146) ve UN Women / WHO / UNDP küresel aile içi şiddet ve insani gelişme veri setleri.
 - **Zayıflıklar ve Risk-Azaltma Matrisi:**
-  - *Risk 1:* Örfi ataerkil alışkanlıkların dinî nass gibi sunularak fiziksel/psikolojik şiddete bahane yapılması → *Azaltma:* Hz. Peygamber'in sünneti ve İbn Âşûr/Atâ içtihadı doğrultusunda şiddetin kanunla (`ta'zîr`) açıkça yasaklanması.
+  - *Risk 1:* Örfi ataerkil alışkanlıkların dinî nass gibi sunularak fiziksel/psikolojik şiddete bahane yapılması → *Azaltma:* Hz. Peygamber'in sünneti (Müslim, *Fezâil*, 79, nr. 2328; Tirmizî, *Menâkıb*, 63, nr. 3895) ve İbn Âşûr/Atâ içtihadı doğrultusunda şiddetin kanunla (`ta'zîr`) açıkça yasaklanması.
   - *Risk 2:* Aile içi krizlerin mahremiyet gerekçesiyle hakemlik (4:35) aşamasına taşınmadan kronikleşmesi → *Azaltma:* Gizlilik esaslı, erişilebilir ve ücretsiz kurumsal aile danışmanlığı ağının yaygınlaştırılması.
 
 ---
@@ -509,7 +509,7 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 - **Temel Varsayım:** Eşlerin insan onuruna saygılı, profesyonel arabuluculuk ve adil hukuk güvencesi altında krizleri şiddetsiz çözme kapasitesine sahip olduğu kabul edilmiştir.
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Nisâ 4:34–35 — Ailede Emanet, Kavvâmlık ve Şiddetsiz Uzlaşı):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Merhamet, Aile Bütünlüğü, Saygı, Adalet ve Nezaket.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hz. Peygamber'in *"Sizin en hayırlınız ailesine en güzel davrananızdır"* hadisi ve hayatı boyunca hiçbir kadına veya çocuğa el kaldırmadığı sünneti tahtaya yazılarak derse giriş yapılır.
+  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hz. Peygamber'in *"Sizin en hayırlınız ailesine en güzel davrananızdır"* (Tirmizî, *Menâkıb*, 63, nr. 3895; İbn Mâce, *Nikâh*, 50, nr. 1977) hadisi ve hayatı boyunca hiçbir kadına veya çocuğa el kaldırmadığı sünneti (Müslim, *Fezâil*, 79, nr. 2328) tahtaya yazılarak derse giriş yapılır.
   - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Kavvâm` kavramının "tahakküm ve zorbalık" değil, `bimâ enfeqû` kaydıyla "koruma, gözetme ve mali/hukuki sorumluluk yüklenme" olduğu; Nisâ 4:34'ün mutlaka Nisâ 4:35'teki *iki taraflı aile hakemliği* ile birlikte okunması gerektiği Atâ b. Ebî Rebâh ve İbn Âşûr'un içtihatlarıyla tahlil edilir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Öğrenciler `R1` (iletişimsizlik ve öfke sarmalı) ile `B1` (maruf ile iletişim, kademeli soğutma ve Nisâ 4:35 hakemliği) döngülerini karşılaştırarak aile içi krizlerde şiddetsiz iletişim protokolü tasarlar.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Katılımcılar *İnsan Onuru ve Aile İçi Merhamet Sözleşmesi* maddelerini oluşturur.
@@ -525,7 +525,7 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 Nisâ 4:34 âyetinin tefsir tarihindeki en çetin ve yaralayıcı aporiası (çıkmazı); âyetteki `وَٱضْرِبُوهُنَّ` (vadribûhünne) lafzının tarihsel kabile ataerkilliği tarafından "erkeğin karısını dövme yetkisi" olarak yorumlanması ile Kur'an'ın muhkem ilkeleri olan insan onuru (*ve lekad kerremnâ benî âdem*), adalet (*adl*), sevgi (*meveddet*) ve rahmet arasındaki derin gerilimdir.
 
 Bu problematik şu çözülmesi güç düğümleri barındırır:
-1. **Hz. Peygamber'in Fiili Sünneti ve Nass Gerilimi:** Sahih rivayetlerle sabittir ki Hz. Peygamber ömrü boyunca hiçbir kadına el kaldırmamış (*"Mâ daraba Rasûlullâh bi-yedihi şey'en qattu ve lâ imraeten"*), kadınları dövenleri *"Onlar sizin hayırlılarınız değildir"* diyerek kınamıştır. Buna rağmen lafızcı fıkıh anlayışları bu fiili bir ruhsat olarak kodlamıştır.
+1. **Hz. Peygamber'in Fiili Sünneti ve Nass Gerilimi:** Sahih rivayetlerle sabittir ki Hz. Peygamber ömrü boyunca hiçbir kadına el kaldırmamış (*"Mâ daraba Rasûlullâh bi-yedihi şey'en qattu ve lâ imraeten"*; Müslim, *Fezâil*, 79, nr. 2328; İbn Mâce, *Nikâh*, 51, nr. 1984), kadınları dövenleri *"Onlar sizin hayırlılarınız değildir"* (Ebû Dâvûd, *Nikâh*, 42, nr. 2146; İbn Mâce, *Nikâh*, 51, nr. 1985; Dârimî, *Nikâh*, 34) diyerek kınamıştır. Buna rağmen lafızcı fıkıh anlayışları bu fiili bir ruhsat olarak kodlamıştır.
 2. **Lügat ve Delalet Çıkmazı:** Arap dilinde `darabe` fiilinin onlarca mecazi anlamı (yola çıkmak, uzaklaşmak, terk etmek, örnek vermek) bulunmasına rağmen; nüzul ortamındaki örfi baskı sebebiyle klasik tefsircilerin ezici çoğunluğu kelimeyi fiziksel darp olarak anlamış; ancak oluşan vicdani rahatsızlığı gidermek için *"misvakla vurmak"*, *"yüze vurmamak"*, *"kemik kırmamak ve iz bırakmamak"* gibi son derece zorlama sınırlamalar icat etmek zorunda kalmışlardır.
 3. **Nisâ 4:35'in İhmali ve Kurumsal Körlük:** Nisâ 4:34 tek başına ele alındığında erkeğe tek taraflı bir yargıçlık ve infaz yetkisi veriyormuş yanılsaması doğurur. Oysa hemen peşinden gelen Nisâ 4:35, çözümü iki ailenin eşit temsil edildiği bağımsız bir hakem heyetine havale eder. Quran Vision analiz motoru, Tabiîn fakihi Atâ b. Ebî Rebâh ve Tunuslu allâme İbn Âşûr'un çizgisini benimser: Aile içi şiddet bir hak değil, kamu otoritesinin kanunla yasaklaması gereken bir suçtur. Ancak bu tercih, klasik fıkıh mirasındaki yaygın ataerkil kabullerle hesaplaşmayı ve derin hermenötik bir yüzleşmeyi zorunlu kılar.
 
@@ -536,9 +536,9 @@ Bu problematik şu çözülmesi güç düğümleri barındırır:
 | Görüş Sahibi / Ekol | Lafzî Yorumu | Hukuki / Ailevi Neticesi | Dayandığı Temel Delil |
 | :--- | :--- | :--- | :--- |
 | **Görüş 1: Klasik Ataerkil Şekilci Ekol** | Âyetteki `vadribûhünne` emri gerçektir; erkeğin eşini terbiye ve tedip hakkıdır. | Koca belirli sınırlar içinde fiziksel güç kullanabilir; kadının itaat etmesi "mutlak" bir görev kabul edilmiştir. | Nisâ 4:34'ün zahiri lafzı ve dönemin ataerkil kabile örfü. |
-| **Görüş 2: Klasik Fıkıh Cumhuru (Hanefî, Şâfiî, Mâlikî)** | Darp ancak son çaredir ve gayr-i müberrihtir (yaralamayan, morartmayan, sembolik). | Şiddet yasaktır; misvak veya mendil gibi sembolik uyarıdır. Yüze vurmak haramdır; sınır aşılırsa diyet ve kısas gerekir. | Hz. Peygamber'in Veda Hutbesi'ndeki *"darben gayra müberrih"* ifadesi ve Cessâs nakli. |
+| **Görüş 2: Klasik Fıkıh Cumhuru (Hanefî, Şâfiî, Mâlikî)** | Darp ancak son çaredir ve gayr-i müberrihtir (yaralamayan, morartmayan, sembolik). | Şiddet yasaktır; misvak veya mendil gibi sembolik uyarıdır. Yüze vurmak haramdır; sınır aşılırsa diyet ve kısas gerekir. | Hz. Peygamber'in Veda Hutbesi'ndeki *"darben gayra müberrih"* ifadesi (Müslim, *Hac*, 147, nr. 1218; Tirmizî, *Radâ'*, 11, nr. 1163; Ebû Dâvûd, *Menâsik*, 56, nr. 1905) ve Cessâs nakli. |
 | **Görüş 3: Çağdaş Lügavî / Reformist Ekol** | `Darabe` fiili dövmek değil; "uzaklaşmak, evi terk etmek veya hukuki tedbir uygulamak"tır. | Ailede fiziksel temasa hiçbir şekilde cevaz yoktur; nüşûz durumunda erkek evi veya odayı terk eder. | Kur'an'da darabe fiilinin seyahat (*darb fi'l-ard*) ve örnek verme (*darb-ı mesel*) kullanımları. |
-| **Görüş 4: Makasıdî / Tahkîkî Ekol (Şâtıbî, İbn Âşûr, Atâ)** | Şiddetin her türlüsü haramdır; nass tedricî bir sınırlamadır ve nihai merci 4:35 hakem kurumudur. | Devlet/hâkim, kadına yönelik her türlü şiddeti kanunla yasaklar ve cezalandırır (*ta'zîr*); evlilik şûra ile yürütülür. | Hz. Peygamber'in fiili sünneti, Nisâ 4:19 (*ma'ruf emri*), Nisâ 4:35 (*hakemlik*) ve İbn Âşûr içtihadı. |
+| **Görüş 4: Makasıdî / Tahkîkî Ekol (Şâtıbî, İbn Âşûr, Atâ)** | Şiddetin her türlüsü haramdır; nass tedricî bir sınırlamadır ve nihai merci 4:35 hakem kurumudur. | Devlet/hâkim, kadına yönelik her türlü şiddeti kanunla yasaklar ve cezalandırır (*ta'zîr*); evlilik şûra ile yürütülür. | Hz. Peygamber'in fiili sünneti (Müslim, *Fezâil*, 79, nr. 2328; Ebû Dâvûd, *Nikâh*, 42, nr. 2146), Nisâ 4:19 (*ma'ruf emri*), Nisâ 4:35 (*hakemlik*) ve İbn Âşûr içtihadı. |
 
 ---
 

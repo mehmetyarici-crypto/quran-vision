@@ -252,7 +252,7 @@ peer_review:
   - `[YORUM]`: Lafzî dizilim 3 aşamalı bir barış inşası protokolü kurar: (1) Önleyici diplomasi ve sulh (`fe-aslihû`), (2) Sulhu reddeden mütecavizi hukuka döndürmeye matuf orantılı caydırıcılık (`hattâ tefîe`), (3) Çatışma sonrası rövanşizmden arınmış adil yeniden inşa (`bi'l-adl ve aksitû`).
 
 - **Siyâk-Sibâk ve Tarihsel Bağlam:**
-Hucurât Sûresi 9 ve 10. âyetleri, sûrenin 6. âyetinde geçen bilgi güvenliği ve yalan haber teyidi ("fâsık bir haber getirirse tahkik edin...") uyarısının hemen ardında yer alır. Sibâkında ise (11-13. âyetler) alay, gıybet, tecessüs ve ırkçılık/kabilecilik yasaklanır. Tarihsel nüzûl rivayetlerinde (Taberî, Cessâs[^5]) Evs ve Hazrec kabileleri arasındaki sürtüşmelerin sopalı ve ayakkabılı kavgaya dönüşmesi üzerine bu âyetin indiği nakledilir. Buradaki temel nassî nükte, toplum içi çatışmaların ilk kıvılcımında kamu otoritesinin tarafsız bir arabuluculukla devreye girmesidir.
+Hucurât Sûresi 49:9–10 âyetleri, sûrenin 6. âyetinde (Hucurât 49:6) geçen bilgi güvenliği ve yalan haber teyidi ("fâsık bir haber getirirse tahkik edin...") uyarısının hemen ardında yer alır. Sibâkında ise (Hucurât 49:11–13) alay, gıybet, tecessüs ve ırkçılık/kabilecilik yasaklanır. Tarihsel nüzûl rivayetlerinde (Buhârî, *Sulh*, 3, nr. 2691; Müslim, *Cihâd*, 116, nr. 1799; Taberî, *Câmi'u'l-Beyân*, 21/360; Cessâs[^5]) Evs ve Hazrec kabileleri arasındaki sürtüşmelerin sopalı ve ayakkabılı kavgaya dönüşmesi üzerine bu âyetin indiği nakledilir. Buradaki temel nassî nükte, toplum içi çatışmaların ilk kıvılcımında kamu otoritesinin tarafsız bir arabuluculukla devreye girmesidir.
 
 ---
 
@@ -305,7 +305,7 @@ Hucurât Sûresi 9 ve 10. âyetleri, sûrenin 6. âyetinde geçen bilgi güvenli
 - **S2 (Sonraki Âyetler — Hucurât 49:11–13):** Hemen sonrasında ise alay etme (`lâ yeshar`), lakap takma, suizan, tecessüs, gıybet ve kabilecilik yasaklanarak çatışmanın **psikososyal ve kültürel kökleri** temizlenmiştir.
 - **S3 (Pasajın Konumu):** Hucurât Sûresi'nin toplumsal ahlak ve kamu düzeni omurgasının tam merkezinde yer alır.
 - **S4 (Sûre İçi Bütünlük):** Bilgi güvenliği (49:6) → Sıcak çatışma çözümü (49:9–10) → Gündelik onur güvenliği (49:11–12) → Evrensel insan kardeşliği (49:13) dizilimi bütüncül bir barış sosyolojisi kurar.
-- **S5 (Nüzûl Sebepleri ve Hitap):** Medine'de Evs ve Hazrec kabilelerine mensup iki grup arasında başlayan kavganın büyümesi üzerine inmiştir (Taberî, Cessâs).
+- **S5 (Nüzûl Sebepleri ve Hitap):** Medine'de Evs ve Hazrec kabilelerine mensup iki grup arasında başlayan kavganın büyümesi üzerine inmiştir (Buhârî, *Sulh*, 3, nr. 2691; Müslim, *Cihâd*, 116, nr. 1799; Taberî, *Câmi'u'l-Beyân*, 21/360; Cessâs, *Ahkâmü'l-Kur'ân*, 5/280).
 - **S6 (Mushaf Sırası ve Tevkîfî Yapı):** Fetih Sûresi'ndeki dış barış (Hudeybiye) sonrasında Hucurât Sûresi ile iç toplumsal barış ve devlet adabı vaz'edilmiştir.
 - **Kırpma Riski (S7):** Âyetin yalnızca "müminler kardeştir" kısmını alıp "fe-kâtilû" (saldırganla savaşın) emrini görmezden gelen aşırı pasifizm veya tam tersine sulh aşamasını atlayıp derhal savaşı seçen radikalizm.
 
@@ -399,7 +399,7 @@ Hucurât Sûresi 9 ve 10. âyetleri, sûrenin 6. âyetinde geçen bilgi güvenli
 
 ### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
 
-- **Enfüs (İçsel Fıkıh):** Kalpteki kibir, tahakküm arzusu ve öfke bağyın tohumudur. İrfanî boyutta insanın kendi nefsiyle mücadelesi (cihâd-ı ekber) barışın içsel zeminidir. Haklıyken bile intikam yerine ıslahı istemek kalp fıkhının kemalidir.
+- **Enfüs (İçsel Fıkıh):** Kalpteki kibir, tahakküm arzusu ve öfke bağyın tohumudur. İrfanî boyutta insanın kendi nefsiyle mücadelesi (cihâd-ı ekber; Beyhakî, *ez-Zühdü'l-Kebîr*, nr. 373; krş. Buhârî, *Rikâk*, 34, nr. 6496) barışın içsel zeminidir. Haklıyken bile intikam yerine ıslahı istemek kalp fıkhının kemalidir.
 - **Âfâk (Dışsal Düzen):** Kurumsal adalet, mahkemeler ve barış gücü mekanizmaları afâkî sulhün teminatıdır.
 - **Enfüsî-Karar Köprüsü:** İç dünyasında (`enfüs`) nefsani kibir, tamah ve öfkeyi terbiye edemeyen karar vericiler, dış dünyada (`âfâk`) kurumsal adaleti ve merhameti yaşatamaz; bu sebeple `ADIM 15`'teki politika kolları ahlaki öz-denetim şartına bağlanmıştır.
 

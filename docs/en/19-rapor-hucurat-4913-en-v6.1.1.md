@@ -255,7 +255,7 @@ peer_review:
   - *Ontological Equality (`Inna khalaqnakum min dhakarin wa-untha`):* All human beings share an identical biological and spiritual origin from a single male and female (`Adam and Eve`)—demolishing every claim of racial or caste superiority.
   - *Sociological Teleology (`wa-ja'alnakum shu'uban wa-qaba'ila li-ta'arafu`):* Demographic, national, and cultural diversity exists solely for mutual recognition, complementarity, and cooperation (`ta'aruf`).
   - *Axiological Criterion (`Inna akramakum 'inda'llahi atqakum`):* The sole measure of nobility in the sight of God is moral responsibility and righteousness (`taqwa`).
-- **Counter-Principle Test:** Invoking ethnic lineage, skin color, caste, or tribal affiliation (`nasab`) to claim legal privilege or superiority over others directly violates the categorical **Counter-Principle** of `49:13` (`akramakum 'inda'llahi atqakum`) and the Prophet's declaration at the Conquest of Mecca (*'O people, Allah has removed from you the arrogance of Jahiliyyah and its boasting of ancestors'* — Tirmidhi).
+- **Counter-Principle Test:** Invoking ethnic lineage, skin color, caste, or tribal affiliation (`nasab`) to claim legal privilege or superiority over others directly violates the categorical **Counter-Principle** of `49:13` (`akramakum 'inda'llahi atqakum`) and the Prophet's declaration at the Conquest of Mecca (*'O people, Allah has removed from you the arrogance of Jahiliyyah and its boasting of ancestors'* — Abū Dāwūd, *Adab*, 110, no. 5116; al-Tirmidhī, *Tafsīr*, 49, no. 3270).
 
 [ANALYSIS] The five primary classical lexicographical and exegetical authorities consulted for **Surah Al-Hujurat 49:13** are documented below with full critical-edition loci, original Arabic text (`[CITATION / NAKİL]`), and analytical synthesis (`[ANALYSIS / YORUM]`):
 
@@ -337,7 +337,7 @@ peer_review:
 - **S2 (Subsequent Verses — Al-Hujurat 49:14–18):** Distinguishes outward Bedouin tribal submission (`aslamna`, `49:14`) from sincere inner faith (`iman`) demonstrated through moral action and sacrifice (`49:15`), concluding the Surah by reminding humanity that God knows the unseen of the heavens and earth (`49:18`).
 - **S3 (Structural Locus):** The universal humanitarian climax of Surah Al-Hujurat (`49:13`).
 - **S4 (Intra-Surah Unity):** Expands the circle of ethics from the Prophet's household (`49:1–5`) → the community of believers (`49:6–12`) → the entire human race (`Ya ayyuha'n-nas` in `49:13`).
-- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed on the day of the Conquest of Mecca (8 AH) regarding Bilal al-Habashi's *adhan* on the Ka'bah and/or the case of Abu Hind al-Bayadi (a skilled cupper from Banu Bayadah whom the Prophet urged the Ansar to marry into on equal terms, Abu Dawud & Al-Qurtubi, 16/340).
+- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed on the day of the Conquest of Mecca (8 AH) regarding Bilal al-Habashi's *adhan* on the Ka'bah and/or the case of Abu Hind al-Bayadi (a skilled cupper from Banu Bayadah whom the Prophet urged the Ansar to marry into on equal terms; Abū Dāwūd, *Nikāḥ*, 27, no. 2102; Al-Qurtubi, 16/340).
 - **S6 (Canonical Mushaf Sequence):** Crowns the Medinan social-ethics Surahs (`Al-Fath` & `Al-Hujurat`).
 - **S7 (Context-Stripping Risk Audit):** Quoting `wa-ja'alnakum shu'uban wa-qaba'ila` to justify tribal nepotism (*'asabiyyah*) while ignoring `li-ta'arafu` and `inna akramakum 'inda'llahi atqakum` inverts the verse's explicit purpose.
 

@@ -61,7 +61,7 @@ EN_CORPUS: Dict[str, Dict[str, Any]] = {
     "QV-2026-002": {
         "surah_en": "An-Nisa",
         "topic_en": "Intra-Family Governance, Fiduciary Responsibility (Qawwamah) & Graduated De-Escalation in Marital Crisis",
-        "aporia_en": "**Fiduciary Stewardship vs. Patriarchal Domination:** [ANALYSIS] How does classical Maqasid jurisprudence distinguish fiduciary family stewardship (qawwamah bi'l-ma'ruf) from authoritarian domination? Following Ibn Ashur, 'Ata ibn Abi Rabah, and the prophetic sunnah ('The Prophet never struck a woman or a servant'), An-Nisa 4:34-35 establishes a strictly non-violent, three-stage restorative conflict-resolution protocol designed to prevent domestic abuse and hasty marital dissolution.",
+        "aporia_en": "**Fiduciary Stewardship vs. Patriarchal Domination:** [ANALYSIS] How does classical Maqasid jurisprudence distinguish fiduciary family stewardship (qawwamah bi'l-ma'ruf) from authoritarian domination? Following Ibn Ashur, 'Ata ibn Abi Rabah, and the prophetic sunnah ('The Prophet never struck a woman or a servant'; Muslim, *Faḍā'il*, 79, no. 2328), An-Nisa 4:34-35 establishes a strictly non-violent, three-stage restorative conflict-resolution protocol designed to prevent domestic abuse and hasty marital dissolution.",
         "z3_en": "**Open Strategic Dilemma:** [ANALYSIS] How can contemporary family courts and counseling institutions operationalize the Quranic three-stage de-escalation and bilateral arbitration model (hakamayn in An-Nisa 4:35) while maintaining zero tolerance for domestic violence?",
         "thresholds_en": [
             {
@@ -109,7 +109,7 @@ EN_CORPUS: Dict[str, Dict[str, Any]] = {
     "QV-2026-003": {
         "surah_en": "Al-Ma'idah",
         "topic_en": "Property Protection, Stringent Evidentiary Conditions (Hirz & Nisab), State of Necessity & Social Security Architecture",
-        "aporia_en": "**Distributive Justice as a Precondition of Penal Law:** [ANALYSIS] Why did Caliph 'Umar ibn al-Khattab suspend the statutory penalty for theft during the Year of Famine ('Am al-Ramadah)? Classical usul authorities demonstrate that the severe deterrent of Al-Ma'idah 5:38 is legally contingent upon stringent evidentiary conditions (hirz, nisab, absence of famine or need) and the state's prior fulfillment of basic socioeconomic security. Under the prophetic maxim 'Avert penalties through doubts (idra'u al-hudud bi'l-shubuhat)', poverty and systemic deprivation constitute legal doubt (shubhah) that suspends corporal punishment.",
+        "aporia_en": "**Distributive Justice as a Precondition of Penal Law:** [ANALYSIS] Why did Caliph 'Umar ibn al-Khattab suspend the statutory penalty for theft during the Year of Famine ('Am al-Ramadah; Mālik, *al-Muwaṭṭa'*, *Aqḍiyah*, 26; Ibn Sa'd, *al-Ṭabaqāt*, 3/310)? Classical usul authorities demonstrate that the severe deterrent of Al-Ma'idah 5:38 is legally contingent upon stringent evidentiary conditions (hirz, nisab, absence of famine or need) and the state's prior fulfillment of basic socioeconomic security. Under the prophetic maxim 'Avert penalties through doubts (idra'u al-hudud bi'l-shubuhat)' (al-Tirmidhī, *Ḥudūd*, 2, no. 1424; Ibn Mājah, *Ḥudūd*, 5, no. 2545), poverty and systemic deprivation constitute legal doubt (shubhah) that suspends corporal punishment.",
         "z3_en": "**Open Strategic Dilemma:** [ANALYSIS] In economies experiencing high inflation or structural unemployment, how does Islamic legal philosophy prioritize distributive justice, social safety nets, and rehabilitative repentance (Al-Ma'idah 5:39) over punitive formalism?",
         "thresholds_en": [
             {
@@ -205,7 +205,7 @@ EN_CORPUS: Dict[str, Dict[str, Any]] = {
     "QV-2026-005": {
         "surah_en": "An-Nisa",
         "topic_en": "Public Trust (Amanah), Meritocracy, Judicial Independence & Universal Justice Architecture",
-        "aporia_en": "**The Dual Pillars of State Survival (Amanah & 'Adl):** [ANALYSIS] Revealed during the Conquest of Mecca when the Prophet returned the key of the Ka'bah to 'Uthman ibn Talhah rather than handing it to his own Hashemite kin, An-Nisa 4:58 links civilizational survival to two non-negotiable mandates: entrusting public offices strictly to competent bearers (ahliha) regardless of lineage or faction, and adjudicating among all people with blind justice ('adl).",
+        "aporia_en": "**The Dual Pillars of State Survival (Amanah & 'Adl):** [ANALYSIS] Revealed during the Conquest of Mecca when the Prophet returned the key of the Ka'bah to 'Uthman ibn Talhah (Ibn Hishām, *al-Sīrah al-Nabawiyyah*, 4/55; Al-Wāqidī, *al-Maghāzī*, 2/833) rather than handing it to his own Hashemite kin, An-Nisa 4:58 links civilizational survival to two non-negotiable mandates: entrusting public offices strictly to competent bearers (ahliha) regardless of lineage or faction, and adjudicating among all people with blind justice ('adl).",
         "z3_en": "**Open Strategic Dilemma:** [ANALYSIS] When political patronage, partisan loyalty, or familial nepotism clashes with objective technical competence in public administration, what institutional designs most effectively enforce the Quranic ethic of Amanah?",
         "thresholds_en": [
             {

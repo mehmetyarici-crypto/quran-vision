@@ -250,7 +250,7 @@ peer_review:
   - `[YORUM]`: Âyetin lafzî mimarisi mülkiyet hakkını ortadan kaldırmaz; fakat kamu kaynaklarının ve iktisadi büyümenin sadece en üst gelir dilimi arasında kapalı devre dönmesini (`dûle`) toplumsal çöküş sebebi sayarak kırılgan kesimler lehine yapısal yeniden bölüşümü emreder.
 
 - **Siyâk-Sibâk ve Tarihsel Bağlam:**
-Haşr Sûresi Hicretin 4. yılında Medine'de Benî Nadîr kabilesinin şehirden çıkarılması hadisesi (tarihsel bağlam) üzerine nâzil olmuştur. 6. âyette, savaşılmaksızın elde edilen 'fey'' mallarının gazilere ganimet olarak dağıtılmayacağı açıklanmıştır. 7. âyet ise bu devasa kamusal kaynağın beşte dörtlük kısmının savaşçılara verilmeyip; Muhacirlerin yoksullarına, yetimlere ve muhtaçlara tahsis edilmesinin gerekçesini (hikmet-i teşri') açıklar: "Servet aranızdaki zenginler arasında elden ele dolaşan bir güç olmasın." Sibâkında (8-9. âyetler) ise mallarını geride bırakan Muhacirler ile onları kendi nefislerine tercih eden Ensar'ın feragati ("îsâr") övülür.
+Haşr Sûresi Hicretin 4. yılında Medine'de Benî Nadîr kabilesinin şehirden çıkarılması hadisesi (Buhârî, *Meğâzî*, 14, nr. 4028, *Tefsîr*, 59/2, nr. 4884; Müslim, *Cihâd*, 60, nr. 1765) üzerine nâzil olmuştur. Haşr 59:6 âyetinde, savaşılmaksızın elde edilen 'fey'' mallarının gazilere ganimet olarak dağıtılmayacağı açıklanmıştır. Haşr 59:7 âyeti ise bu devasa kamusal kaynağın beşte dörtlük kısmının savaşçılara verilmeyip; Muhacirlerin yoksullarına, yetimlere ve muhtaçlara tahsis edilmesinin gerekçesini (hikmet-i teşri') açıklar: "Servet aranızdaki zenginler arasında elden ele dolaşan bir güç olmasın" (Haşr 59:7). Sibâkında (Haşr 59:8–9) ise mallarını geride bırakan Muhacirler ile onları kendi nefislerine tercih eden Ensar'ın feragati ("îsâr") övülür.
 
 ---
 

@@ -262,7 +262,7 @@ peer_review:
   - `[YORUM]`: Lafzî yapı üç aşamalı bir insanlık beyannamesidir: (1) Yaratılışta mutlak eşitlik (`min zekerin ve ünsâ`), (2) Sosyolojik çeşitlilikte çatışma değil tanışma etiği (`li-te‘ârafû`), (3) Üstünlükte ırk/soy değil yalnızca ahlaki sorumluluk ve adalet (`etkâküm`).
 
 - **Siyâk-Sibâk ve Tarihsel Bağlam:**
-Hucurât Sûresi Medine döneminde, hicretin 9. yılında ("Senetü'l-Vüfûd" — Heyetler Yılı) Arap yarımadasının dört bir yanından farklı kabilelerin Medine'ye gelerek İslam cemiyetine katıldığı bir tarihsel kesitte nazil olmuştur. Sûrenin ilk 12 âyetinde haber doğrulama (*tebeyyün*), çatışma çözümü (*ıslah*), müminlerin kardeşliği (*uhuvvet*), alay etmeme, lakap takmama, suizan ve gıybetten kaçınma gibi toplumsal ahlak normları vazedilmiş; 13. âyette ise hitap *"Yâ eyyühe'l-lezîne âmenû"* (Ey iman edenler) dairesinden *"Yâ eyyühe'n-nâs"* (Ey insanlar!) dairesine genişletilerek tüm insanlığı kapsayan evrensel eşitlik ilkesi ilan edilmiştir. Mekke'nin fethinde Hz. Bilâl-i Habeşî'nin Kâbe'nin üzerinde ezan okumasına kibirle itiraz eden Kureyş asabiyetine karşı bu âyet nazil olmuş ve Veda Hutbesi'nin temelini oluşturmuştur.
+Hucurât Sûresi Medine döneminde, hicretin 9. yılında ("Senetü'l-Vüfûd" — Heyetler Yılı) Arap yarımadasının dört bir yanından farklı kabilelerin Medine'ye gelerek İslam cemiyetine katıldığı bir tarihsel kesitte nazil olmuştur. Sûrenin ilk 12 âyetinde (Hucurât 49:1–12) haber doğrulama (*tebeyyün*), çatışma çözümü (*ıslah*), müminlerin kardeşliği (*uhuvvet*), alay etmeme, lakap takmama, suizan ve gıybetten kaçınma gibi toplumsal ahlak normları vazedilmiş; 13. âyette (Hucurât 49:13) ise hitap *"Yâ eyyühe'l-lezîne âmenû"* (Ey iman edenler) dairesinden *"Yâ eyyühe'n-nâs"* (Ey insanlar!) dairesine genişletilerek tüm insanlığı kapsayan evrensel eşitlik ilkesi ilan edilmiştir. Mekke'nin fethinde Hz. Bilâl-i Habeşî'nin Kâbe'nin üzerinde ezan okumasına kibirle itiraz eden Kureyş asabiyetine karşı bu âyet nazil olmuş (Ebû Dâvûd, *Edeb*, 110, nr. 5116; Tirmizî, *Tefsîr*, 49, nr. 3270; Vâhidî, *Esbâbü'n-Nüzûl*, s. 397) ve Veda Hutbesi'nin (Ahmed b. Hanbel, *el-Müsned*, 5/411, nr. 23489) temelini oluşturmuştur.
 
 ---
 
@@ -314,7 +314,7 @@ Hucurât Sûresi Medine döneminde, hicretin 9. yılında ("Senetü'l-Vüfûd" �
 - **S2 (Sonraki Âyetler — Hucurât 49:14–18):** Bedevîlerin *"İman ettik"* sözüne karşılık gerçek imanın kuru bir aidiyet iddiası değil, kalbe yerleşen samimiyet ve fedakârlık olduğu açıklanarak `takvâ` ölçütü somutlaştırılır.
 - **S3 (Pasajın Konumu):** Hucurât Sûresi'nin `Yâ eyyühe'llezîne âmenû` (Ey iman edenler!) hitaplarıyla ilerleyen 5 ahlaki çağrısını, bütün insanlığa seslenen `Yâ eyyühe'n-nâs` (Ey insanlar!) zirvesiyle taçlandırır.
 - **S4 (Sûre İçi Bütünlük):** Sûre iç halkada mümin kardeşliğini (`49:10`), dış halkada ise evrensel insanlık kardeşliğini ve `teârüf` hukukunu (`49:13`) inşa eder.
-- **S5 (Nüzûl Sebepleri ve Hitap):** Mekke'nin fethi günü Bilâl-i Habeşî'nin Kâbe'nin üzerinde ezan okuması üzerine bazı Kureyşlilerin soy kibriyle konuşmaları ve Sabit b. Kays vakası üzerine inmiştir (Taberî, Kurtubî).
+- **S5 (Nüzûl Sebepleri ve Hitap):** Mekke'nin fethi günü Bilâl-i Habeşî'nin Kâbe'nin üzerinde ezan okuması üzerine bazı Kureyşlilerin soy kibriyle konuşmaları ve Sabit b. Kays vakası üzerine inmiştir (Ebû Dâvûd, *Edeb*, 110, nr. 5116; Tirmizî, *Tefsîr*, 49, nr. 3270; Taberî, *Câmi'u'l-Beyân*, 21/385; Kurtubî, *el-Câmi'*, 16/340).
 - **S6 (Mushaf Sırası ve Tevkîfî Yapı):** Hucurât 49:9–10'daki iç barış hukukunu küresel barış ve kültürlerarası diplomasi (`teârüf`) ilkeleriyle tamamlar.
 - **Kırpma Riski (S7):**
   1. Âyetteki *"sizi milletlere ve kabilelere ayırdık"* ibaresini cımbızlayıp, devamındaki *"tanışasınız diye"* illetini ve *"en üstününüz takvâca en ileride olanınızdır"* hükmünü kırparak etnik milliyetçiliğe veya ırkçılığa meşruiyet aramak.
@@ -326,7 +326,7 @@ Hucurât Sûresi Medine döneminde, hicretin 9. yılında ("Senetü'l-Vüfûd" �
 
 - **Rûm 30:22:** Dillerin ve renklerin farklılığının Allah'ın kozmik âyetlerinden olması.
 - **Nisâ 4:1:** *"Ey insanlar! Sizi tek bir nefisten (`min nefsin vâhide`) yaratan, ondan eşini var eden ve ikisinden birçok erkekler ve kadınlar üreten Rabbinize karşı gelmekten sakının!"*
-- **İsrâ 17:70:** *"Andolsun biz Âdemoğullarını onurlu ve मुكرّم kıldık (`ve lekad kerremnâ benî Âdeme`)."*
+- **İsrâ 17:70:** *"Andolsun biz Âdemoğullarını onurlu ve mükerrem kıldık (`ve lekad kerremnâ benî Âdeme`)."*
 - **Mü'minûn 23:101:** Kıyamet günü sûra üflendiğinde aralarında artık soy-sop (`ensâb`) bağlarının geçerli olmayacağı uyarısı.
 - *Analitik Sonuç ve N4 Kapsamı:* Soy ve kimlik taassubu (`asabiyet`), `teârüf` kanallarını tıkayıp `takvâ` ve liyakati tasfiye ettiğinde toplumsal barış çöker (`N4`).
 
@@ -522,7 +522,7 @@ Katman 3 uyarınca toplumsal uyum, eşitlik ve anti-nepotizm simülasyonu:
 - **Temel Varsayım:** Kurumsal şeffaflık, hukuki caydırıcılık ve içsel ahlak (`takvâ / ihsân`) birleştiğinde toplumsal aktörlerin yapıcı işbirliğine yöneleceği kabul edilmiştir.
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Hucurât 49:13 — İnsani Eşitlik, Teârüf Ahlakı ve Takvâ Ölçütü):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *İnsan Onuru, Eşitlik, Kültürlerarası Tanışma (Teârüf), Tevazu ve Takvâ.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hz. Peygamber'in Veda Hutbesi'ndeki *"Ey insanlar! Rabbiniz birdir, babanız da birdir; Arap'ın Arap olmayana, beyazın siyaha takvâ dışında hiçbir üstünlüğü yoktur"* hitabıyla Hucurât 49:13 birlikte okunur.
+  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hz. Peygamber'in Veda Hutbesi'ndeki *"Ey insanlar! Rabbiniz birdir, babanız da birdir; Arap'ın Arap olmayana, beyazın siyaha takvâ dışında hiçbir üstünlüğü yoktur"* (Ahmed b. Hanbel, *el-Müsned*, 5/411, nr. 23489; Beyhakî, *Şu'abü'l-Îmân*, 7/132, nr. 4774) hitabıyla Hucurât 49:13 birlikte okunur.
   - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Min zekerin ve ünsâ` (ontolojik eşitlik), `şuûben ve kabâile` (sosyolojik çeşitlilik), `li-teârefû` (övünmek ve çatışmak için değil, karşılıklı tanışıp yardımlaşmak için) ve `etkâküm` (ahlaki sorumluluk ve liyakat) kavramları Zemahşerî ve Âlûsî nakilleriyle incelenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Irkçılık ve kabileciliğin (`asabiyet / tenâkür`) ürettiği kutuplaşma sarmalı (`R1`) ile `teârüf` ve `takvâ` merkezli birlikte yaşama modeli (`B1`) tartışılır.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler önyargıları kıran bir *"Okul İçi Teârüf ve Kardeşlik Etkinliği"* planlar.

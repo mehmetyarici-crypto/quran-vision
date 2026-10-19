@@ -295,7 +295,7 @@ peer_review:
 
 ### STEP 03 — TRIADIC FRAMEWORK (ETHOS / LOGOS / PATHOS) & IS-OUGHT BRIDGE
 
-- **Ethos (Moral Responsibility):** As 'Abdullah ibn Mas'ud (d. 32 AH) declared: *'The most comprehensive verse (`ajma' ayah`) in the Quran for all good to be practiced and all evil to be shunned is `Inna'llaha ya'muru bi'l-'adli wa'l-ihsan...` (`16:90`)'* (Al-Tabari, 14/346).
+- **Ethos (Moral Responsibility):** As 'Abdullah ibn Mas'ud (d. 32 AH) declared: *'The most comprehensive verse (`ajma' ayah`) in the Quran for all good to be practiced and all evil to be shunned is `Inna'llaha ya'muru bi'l-'adli wa'l-ihsan...` (`16:90`)'* (al-Bukhārī, *al-Adab al-Mufrad*, no. 596; Al-Bayhaqī, *Shu'ab al-Īmān*, no. 7658; Al-Tabari, 14/346).
 - **Logos (Rational Coherence):** Fakhr al-Din al-Razi (*Mafatih*, 20/98) and Al-Ghazali demonstrate that the three prohibitions correspond to the corruption of the three human faculties in philosophical ethics: `al-fahsha'` is the corruption of the appetitive faculty (*shahwah*); `al-baghy` is the corruption of the irascible/power faculty (*ghadab*); and `al-munkar` is their combined public manifestation opposed to intellect (*'aql*). Conversely, `'adl`, `ihsan`, and `ita'i dhi'l-qurba` establish their equilibrium.
 - **Pathos (Affective & Moral Resonance):** Instituted by Caliph 'Umar ibn 'Abd al-'Aziz (d. 101 AH) at the conclusion of every Friday *khutbah* across the Muslim world to replace political cursing with this eternal covenant of justice and mercy.
 - **Hume's Guillotine (`Is-Ought` Epistemic Bridge):** Empirical rule-of-law and social-cohesion metrics (*Is*) reveal that cold bureaucratic legalism without social compassion produces alienation, while warm charity without legal justice breeds corruption; `An-Nahl 16:90` unites both as a binding normative synthesis (*Ought*).
@@ -328,7 +328,7 @@ peer_review:
 - **S2 (Subsequent Verses — An-Nahl 16:91–97):** Commands fulfilling covenants (`wa-awfu bi-'ahdi'llahi idha 'ahadtum`, `16:91`), forbids breaking oaths (`16:92–95`), and promises a pure, flourishing life (`hayatan tayyibah`, `16:97`) to every male or female believer who works righteousness.
 - **S3 (Structural Locus):** The ethical heart of Surah An-Nahl (`16:89–97`).
 - **S4 (Intra-Surah Unity):** Surah An-Nahl is *Surat al-Ni'am* (The Chapter of Divine Blessings, `16:18`); `16:90` shows that gratitude for God's blessings is practiced through `'Adl`, `Ihsan`, and `Solidarity`.
-- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed in Mecca; when the companion 'Uthman ibn Maz'un heard the Prophet recite `16:90`, he declared: *'That was the moment faith settled firmly in my heart'* (Musnad Ahmad).
+- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed in Mecca; when the companion 'Uthman ibn Maz'un heard the Prophet recite `16:90`, he declared: *'That was the moment faith settled firmly in my heart'* (Aḥmad b. Ḥanbal, *al-Musnad*, 1/318, no. 2912; al-Bukhārī, *al-Adab al-Mufrad*, no. 599).
 - **S6 (Canonical Mushaf Sequence):** Prepares the ground for the detailed 18-verse ethical code in the next Surah, `Al-Isra' 17:22–39`.
 - **S7 (Context-Stripping Risk Audit):** Reciting `16:90` mechanically at the end of every Friday sermon while tolerating judicial injustice (`lack of 'adl`) or state tyranny (`baghy`) in public life is a profound `S7` contradiction.
 
@@ -443,7 +443,7 @@ peer_review:
 
 ### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** In the famous Hadith of Jibril (Sahih Muslim), the Prophet defined `al-Ihsan` as: *'To worship Allah as though you see Him; and if you cannot see Him, to know that He sees you.'* When the inner heart lives in this state of `ihsan` (divine presence), it naturally shuns secret and open `fahsha'`, `munkar`, and `baghy`.
+- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** In the famous Hadith of Jibril (al-Bukhārī, *Īmān*, 37, no. 50; Muslim, *Īmān*, 1, no. 8), the Prophet defined `al-Ihsan` as: *'To worship Allah as though you see Him; and if you cannot see Him, to know that He sees you.'* When the inner heart lives in this state of `ihsan` (divine presence), it naturally shuns secret and open `fahsha'`, `munkar`, and `baghy`.
 - **Outer Institutional Order (*Âfâk*):** Impartial courts (`'adl`), compassionate social/health care (`ihsan`), strong family support (`dhi'l-qurba`), and constitutional checks against tyranny (`anti-baghy`).
 - **Enfüs–Decision Bridge:** Inner spiritual `ihsan` prevents public officials from turning `'adl` into heartless bureaucratic cruelty and prevents citizens from turning freedom into `fahsha'` or `baghy`.
 

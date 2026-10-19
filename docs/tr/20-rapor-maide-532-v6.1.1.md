@@ -226,7 +226,7 @@ peer_review:
 
 2. **Kur'anî Semantik (Kavramlaşma):**
    - **Kaynak:** Râgıb el-İsfahânî (*el-Müfredât fî Garîbi'l-Kur'ân*, s. 268-271).[^2]
-   - `[NAKİL]`: *"الإحياء في قوله تعالى: ومن أحياها فكأنما أحيا الناس جميعا؛ يقال ذلك فيمن أنقذها من الهلاك والغرق والحرق، وفيمن هداها إلى الحياة الأبدية بالعلم والإيمان"* (Râgıb el-İsfahânî: 'Kim bir canı yaşatırsa bütün insanları yaşatmış gibi olur' âyetindeki ihyâ; hem bir insanı helakten, boğulmaktan, yangından veya ölümden kurtarmak [maddi/fiziksel ihyâ], hem de onu ilim ve hidayetle cehaletten kurtarmak [manevi ihyâ] anlamındadır).
+   - `[NAKİL]`: *"الإحياء في قوله تعالى: ومن أحياها فكأنما أحيا الناس جميعا؛ يقال ذلك فيمن أنقذها من الهلاك والغرق والحرق، وفيمن هداها إلى الحياة الأبدية بالعلم والإيمان"* (Râgıb el-İsfahânî, *el-Müfredât*, s. 270: 'Kim bir canı yaşatırsa bütün insanları yaşatmış gibi olur' [Mâide 5:32] âyetindeki ihyâ; hem bir insanı helakten, boğulmaktan, yangından veya ölümden kurtarmak [maddi/fiziksel ihyâ], hem de onu ilim ve hidayetle cehaletten kurtarmak [manevi ihyâ] anlamındadır).
    - `[YORUM]`: Râgıb'ın bu çift katmanlı *ihyâ* tanımı; tıp, arama-kurtarma ve insani yardımı fiziksel *ihyâ*, eğitimi ve ahlaki rehberliği ise manevi *ihyâ* olarak aynı evrensel fazilet şemsiyesinde birleştirir.
 
 3. **Geniş Leksikografik ve Rivayet Çerçevesi:**

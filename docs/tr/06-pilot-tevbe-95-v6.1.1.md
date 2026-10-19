@@ -405,7 +405,7 @@ Tevbe Sûresi 9:1–15 pasajı bir bütün olarak okunduğunda, 5. âyetin hemen
 - **Âfâk (Dışsal ve Kurumsal Boyut):** Bireysel intikam hırsının meşru devlet siyasetine sızmasını önlemek; adaleti güç kullanımının tek meşru gerekçesi kılmak.
 - **Karşılıklı Etki:** İçsel olarak ahde vefa ahlakı yerleşmemiş bir toplum, dış ilişkilerinde güvenilir paktlar kuramaz; dış güvensizlik de içerde paranoyayı besler.
 - **Karar Köprüsü:** İç dünyasında ahde vefayı başaramayan bir liderlik, dış siyasette meşru caydırıcılığı adaletle yönetemez; intikam hırsına yenik düşer. Bu sebeple Adım 15'teki K1 ve K3 kolları vicdani denetim şartına bağlanmıştır.
-- **İşârî / İrfanî Derinlik:** Güvenilir tasavvufi tefsirler çerçevesinde nefisle cihat (*cihâd-ı ekber*), dış dünyadaki güç kullanımının sınırlarını belirleyen en yüksek ahlaki frendir.
+- **İşârî / İrfanî Derinlik:** Güvenilir tasavvufi tefsirler çerçevesinde nefisle cihat (*cihâd-ı ekber*; Beyhakî, *ez-Zühdü'l-Kebîr*, nr. 373; krş. Buhârî, *Rikâk*, 34, nr. 6496), dış dünyadaki güç kullanımının sınırlarını belirleyen en yüksek ahlaki frendir.
 
 ---
 
@@ -540,7 +540,7 @@ Bu iddia şu derin teolojik ve metodolojik krizi doğurur:
 | :--- | :--- | :--- | :--- |
 | **Görüş 1: Radikal / Haricî Literalist Ekol** | Âyetteki emir mutlaktır; barış âyetlerinin tamamını nesh etmiştir. | Gayrimüslimlerle sürekli savaş esastır; barış geçici bir aldatmacadır. | *"Müşrikleri nerede bulursanız öldürün"* mutlak lafzı. |
 | **Görüş 2: Klasik Şâfiî Ekolü** | Savaşın sebebi küfürdür (*illetü'l-kıtâl el-küfr*); cizye veya İslam'a kadar savaş meşrudur. | Gayrimüslim devletlerle barış ancak zaruret halinde ve geçici (en fazla 10 yıl) yapılabilir. | Tevbe 9:5 ve 9:29'daki sarih kıtal ve cizye emirleri. |
-| **Görüş 3: Klasik Hanefî ve Mâlikî Ekolü (Cumhur)** | Savaşın sebebi küfür değil, fiili savaştır (*illetü'l-kıtâl el-harb / el-muhârebe*). | Kadınlar, çocuklar, din adamları ve savaşmayan siviller asla hedef alınamaz; saldırmayana savaş açılmaz. | Bakara 2:190 (*"Sizinle savaşanlarla savaşın, haddi aşmayın"*) ve Hz. Peygamber'in yasakları. |
+| **Görüş 3: Klasik Hanefî ve Mâlikî Ekolü (Cumhur)** | Savaşın sebebi küfür değil, fiili savaştır (*illetü'l-kıtâl el-harb / el-muhârebe*). | Kadınlar, çocuklar, din adamları ve savaşmayan siviller asla hedef alınamaz; saldırmayana savaş açılmaz. | Bakara 2:190 (*"Sizinle savaşanlarla savaşın, haddi aşmayın"*) ve Hz. Peygamber'in yasakları (Buhârî, *Cihâd*, 147–148, nr. 3014–3015; Müslim, *Cihâd*, 24–25, nr. 1744; Ebû Dâvûd, *Cihâd*, 82, nr. 2614). |
 | **Görüş 4: Çağdaş Makasıdî / Tarihselci Ekol (Şâtıbî, İbn Âşûr, Abduh)** | Elif-lâm ahd-i hâricîdir; Hudeybiye'yi bozan muayyen Mekke müşriklerine hastır; nesh değil tahsistir. | Evrensel kural barış, adalet ve diplomasidir. Güç kullanımı ancak meşru müdafaa ve ahit ihlali durumunda caizdir. | Tevbe 9:4 (sadık antlaşmalıları koruma) ve Tevbe 9:6 (eman ve sığınma hakkı) âyetleri. |
 
 ---

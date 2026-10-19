@@ -310,7 +310,7 @@ peer_review:
 - **S2 (Subsequent Verses — Al-Baqarah 2:257–258):** Contrasts divine guidance from darkness into light (`yukhrijuhum mina'z-zulumati ila'n-nur`, `2:257`) with the tyrannical hubris of Nimrod (`taghut`), who argued with Abraham through brute political power (`2:258`).
 - **S3 (Structural Locus):** Forms the theological and constitutional climax of the central section of Surah Al-Baqarah (`2:255–257`).
 - **S4 (Intra-Surah Unity):** Links the opening taxonomy of sincere believers vs. hypocrites (`2:1–20`) to the principle that only uncoerced faith avoids hypocrisy.
-- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed in Medina when an Ansar companion from Banu Salim ibn 'Awf (Husayn) wished to compel his two Christian sons to embrace Islam; the verse descended to forbid even a loving father from coercing his own children's conscience (Al-Tabari, *Jami' al-Bayan*, 5/407).
+- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed in Medina when an Ansar companion from Banu Salim ibn 'Awf (Husayn) wished to compel his two Christian sons to embrace Islam; the verse descended to forbid even a loving father from coercing his own children's conscience (Abū Dāwūd, *Jihād*, 115, no. 2682; Ibn Ḥibbān, *al-Ṣaḥīḥ*, 1/355, no. 140; Al-Tabari, *Jami' al-Bayan*, 5/407).
 - **S6 (Canonical Mushaf Sequence):** Situated in the first Medinan Surah (`Al-Baqarah`), laying the constitutional foundation for the pluralist Medinan state.
 - **S7 (Context-Stripping Risk Audit):** Detaching `2:256` from *Ayat al-Kursi* (`2:255`) or claiming it was abrogated strips Islamic public law of its primary safeguard for freedom of conscience.
 

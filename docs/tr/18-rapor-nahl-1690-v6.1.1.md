@@ -227,7 +227,7 @@ peer_review:
 
 3. **Geniş Leksikografik Çerçeve:**
    - **Kaynak:** İbn Manzûr (*Lisânü'l-Arab*, C. 11, s. 430-436)[^3] ve Taberî (*Câmi'u'l-Beyân*, C. 14, s. 338-346).[^4]
-   - `[NAKİL]`: *"العدل ما قام في النفوس أنه مستقيم وهو ضد الجور... وقال ابن مسعود: إن أجمع آية في القرآن لخير وشر قوله تعالى: إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي"* (İbn Manzûr ve Taberî: Adalet, selim fıtratların ve akılların dosdoğru kabul ettiği şey olup zulmün zıddıdır. Abdullah b. Mes'ûd demiştir ki: Kur'an'da hayır ve şerri, helal ve haramı en kapsamlı biçimde tek cümlede toplayan âyet Nahl 16:90 âyetidir).
+   - `[NAKİL]`: *"العدل ما قام في النفوس أنه مستقيم وهو ضد الجور... وقال ابن مسعود: إن أجمع آية في القرآن لخير وشر قوله تعالى: إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي"* (İbn Manzûr ve Taberî: Adalet, selim fıtratların ve akılların dosdoğru kabul ettiği şey olup zulmün zıddıdır. Abdullah b. Mes'ûd demiştir ki: Kur'an'da hayır ve şerri, helal ve haramı en kapsamlı biçimde tek cümlede toplayan âyet Nahl 16:90 âyetidir; Buhârî, *el-Edebü'l-Müfred*, nr. 599; Taberî, *Câmi'u'l-Beyân*, 14/348).
    - `[YORUM]`: Adaletin "selim vicdanlarda doğru bilinen şey" olarak tanımlanması ve 'Münker'in "ortak aklın ve vicdanın yadırgadığı kötülük" olması, İslam ahlakının evrensel tabii hukukla (ma'rûf) bağını gösterir.
 
 4. **Tefsir ve Belâğat Tahkiki:**
@@ -256,7 +256,7 @@ peer_review:
   - `يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ` (ye‘izuküm le‘alleküm tezekkerûn): Düşünüp fıtrî hakikati hatırlayasınız diye size öğüt verir.
 
 - **Klasik Tefsir Lafzî Tahlili (İbn Mes‘ûd, Taberî & İbn Âşûr):**
-  - `[NAKİL]`: Abdullah b. Mes‘ûd (r.a.) *"Kur’ân’da hayır ve şerri bu âyetten daha kapsamlı toplayan (câmi‘) başka bir âyet yoktur"* demiş; İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 14, s. 256–262) Ömer b. Abdülazîz’in bu âyeti cuma hutbelerinin sonuna yerleştirmesiyle İslam medeniyetinin her hafta bu **6 maddelik anayasal sözleşmeyi** (3 emir: *Adl, İhsan, Îtâi zi'l-kurbâ*; 3 yasak: *Fahşâ, Münker, Bağy*) yenilediğini kaydetmiştir.[^1]
+  - `[NAKİL]`: Abdullah b. Mes‘ûd (r.a.) *"Kur’ân’da hayır ve şerri bu âyetten daha kapsamlı toplayan (câmi‘) başka bir âyet yoktur"* (Buhârî, *el-Edebü'l-Müfred*, nr. 599; Taberî, *Câmi'u'l-Beyân*, 14/348) demiş; İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 14, s. 256–262) Ömer b. Abdülazîz’in bu âyeti cuma hutbelerinin sonuna yerleştirmesiyle İslam medeniyetinin her hafta bu **6 maddelik anayasal sözleşmeyi** (3 emir: *Adl, İhsan, Îtâi zi'l-kurbâ*; 3 yasak: *Fahşâ, Münker, Bağy*) yenilediğini kaydetmiştir.[^1]
   - `[YORUM]`: Salt hukuk (`Adl`) toplumu ayakta tutar ama soğuk bürokrasiye dönüşebilir; `İhsan` ve `Sosyal Dayanışma` hukuku merhametle ısıtır. Karşısındaki 3 yasak ise bireysel yozlaşmayı (`Fahşâ`), kamusal suçu (`Münker`) ve siyasal/kurumsal zorbalığı (`Bağy`) aynı anda engeller.
 
 - **Siyâk-Sibâk ve Tarihsel Bağlam:**
@@ -313,7 +313,7 @@ Nahl Sûresi Mekke döneminin sonlarında inmiş olup nimetlerin sayımı ("Sûr
 - **S2 (Sonraki Âyetler — Nahl 16:91–97):** *"Allah'a verdiğiniz ahdi yerine getirin, yeminlerinizi bozmayın"* (16:91) ve *"Erkek olsun kadın olsun kim mümin olarak salih amel işlerse ona tertemiz bir hayat (`hayâten tayyibe`) yaşatırız"* (16:97) buyrularak 90. âyetteki ilkelerin pratik sonucu gösterilir.
 - **S3 (Pasajın Konumu):** Nahl Sûresi'nin ikinci yarısındaki hukuki ve ahlaki ilkeler dizisinin kalbidir.
 - **S4 (Sûre İçi Bütünlük):** Nimetler sûresi (*Sûretü'n-Niam*) olan Nahl Sûresi, Allah'ın sayısız nimetlerine şükrün ancak `Adl, İhsan ve Dayanışma` ile gerçekleşeceğini ortaya koyar.
-- **S5 (Nüzûl Sebepleri ve Hitap):** Osman b. Maz'ûn gibi sahabilerin İslam'ın bütün ahlakını tek cümlede özetleyen bu âyeti duyduklarında imanlarının kalplerine yerleştiği rivayet edilir.
+- **S5 (Nüzûl Sebepleri ve Hitap):** Osman b. Maz'ûn gibi sahabilerin İslam'ın bütün ahlakını tek cümlede özetleyen bu âyeti duyduklarında imanlarının kalplerine yerleştiği rivayet edilir (Ahmed b. Hanbel, *el-Müsned*, 1/318, nr. 2912; Buhârî, *el-Edebü'l-Müfred*, nr. 599).
 - **S6 (Mushaf Sırası ve Tevkîfî Yapı):** Hicr Sûresi'ndeki tarihsel helak yasalarının ardından Nahl Sûresi toplumları yaşatan evrensel adalet ve ihsan yasasını sunar.
 - **Kırpma Riski (S7):**
   1. **"Îtâi zi'l-kurbâ" (yakınlara verme) emrini kamu makamlarında "nepotizm / akraba kayırmacılığı" olarak çarpıtmak!** Oysa klasik müfessirlerin icmaıyla "Adl" kamu emanetlerinde ve yargıda tam tarafsızlığı (En'âm 6:152 ve Nisâ 4:58), "Îtâi zi'l-kurbâ" ise kişinin kendi şahsi malından ve şefkatinden akrabasına destek olmasını emreder. Kamu malından akrabaya pay vermek "îta" değil, "bağy ve hıyanet"tir.
@@ -409,7 +409,7 @@ Nahl Sûresi Mekke döneminin sonlarında inmiş olup nimetlerin sayımı ("Sûr
 
 ### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
 
-- **Enfüs (Kalp Fıkhı ve Cibrîl Hadisi Bütünlüğü):** İrfan geleneğinde "Adl", insanın zahiriyle bâtınının eşit olması (sıdk ve istikamet); "İhsan" ise Hz. Peygamber'in Cibrîl hadisinde tanımladığı üzere *"Allah'ı görüyormuşçasına kulluk ve eylem bilinci"*dir. Kalbinde İhsan (ilahi murakabe) olmayanın adaleti ilk menfaat çatışmasında sarsılır; nefsindeki kibri ("bağy") yenemeyen kişi eline güç geçince zalimleşir.
+- **Enfüs (Kalp Fıkhı ve Cibrîl Hadisi Bütünlüğü):** İrfan geleneğinde "Adl", insanın zahiriyle bâtınının eşit olması (sıdk ve istikamet); "İhsan" ise Hz. Peygamber'in Cibrîl hadisinde (Buhârî, *Îmân*, 37, nr. 50; Müslim, *Îmân*, 1, nr. 8) tanımladığı üzere *"Allah'ı görüyormuşçasına kulluk ve eylem bilinci"*dir. Kalbinde İhsan (ilahi murakabe) olmayanın adaleti ilk menfaat çatışmasında sarsılır; nefsindeki kibri ("bağy") yenemeyen kişi eline güç geçince zalimleşir.
 - **Âfâk (Kurumsal Mimari):** Âfâkta Adl; mahkemeleri, kanunları ve insan haklarını; İhsan; hastaneleri, vakıfları, ücretsiz eğitimi, şehir estetiğini ve sosyal yardımlaşmayı; Nehy 'ani'l-Bağy ise anayasa mahkemesini, ombudsmanlığı ve uluslararası ceza hukukunu temsil eder.
 - **Enfüsî-Karar Köprüsü:** İç dünyasında (`enfüs`) nefsani kibir, tamah ve öfkeyi terbiye edemeyen karar vericiler, dış dünyada (`âfâk`) kurumsal adaleti ve merhameti yaşatamaz; bu sebeple `ADIM 15`'teki politika kolları ahlaki öz-denetim şartına bağlanmıştır.
 

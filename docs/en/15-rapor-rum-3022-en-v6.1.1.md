@@ -239,7 +239,7 @@ peer_review:
 - **Logical Condition-Consequence Structure:**
   - *Ontological Premise (`Wa-min ayatihi khalku's-samawati wa'l-ardi wa-khtilafu alsinatikum wa-alwanikum`):* The diversity of human languages and ethnic complexions is not an evolutionary defect or a curse of Babel, but a deliberate, miraculous cosmic sign (*ayah*) of God alongside the creation of the universe.
   - *Epistemic & Normative Consequence (`inna fi dhalika la-ayatin li'l-'alimin`):* Recognizing, studying, and protecting linguistic and ethnic diversity is the hallmark of true knowledge (`'ilm`), whereas racism and forced cultural erasure are signs of ignorance (`jahiliyyah`).
-- **Counter-Principle Test:** Any ethno-nationalist or supremacist ideology that treats linguistic or racial diversity as a threat to be forcibly assimilated or discriminated against violates both `Ar-Rum 30:22` and the Prophet's Farewell Sermon (*'No Arab has superiority over a non-Arab, nor a white person over a black person, except by piety [`taqwa`]'* — Musnad Ahmad).
+- **Counter-Principle Test:** Any ethno-nationalist or supremacist ideology that treats linguistic or racial diversity as a threat to be forcibly assimilated or discriminated against violates both `Ar-Rum 30:22` and the Prophet's Farewell Sermon (*'No Arab has superiority over a non-Arab, nor a white person over a black person, except by piety [`taqwa`]'* — Aḥmad b. Ḥanbal, *al-Musnad*, 5/411, no. 23489; Al-Bayhaqī, *Shu'ab al-Īmān*, 7/132, no. 4774).
 
 [ANALYSIS] The five primary classical lexicographical and exegetical authorities consulted for **Surah Ar-Rum 30:22** are documented below with full critical-edition loci, original Arabic text (`[CITATION / NAKİL]`), and analytical synthesis (`[ANALYSIS / YORUM]`):
 
@@ -529,7 +529,7 @@ peer_review:
   - *Year 1:* full (all-encompassing) integration of the `Ar-Rum 30:22` & `Farewell Sermon` anti-racism module into national secondary curricula.
   - *Year 3:* Achievement of `>= 0.85` on WJP Factor 4.1 (Absence of Discrimination, `th-02`).
   - *Year 5:* Achievement of `>= 0.80` on the UNESCO/World Bank Social Inclusion & Cohesion Index (`th-01 / th-03`, Posterior $P(S_1|E) = 72.0\%$). 
-- **Historical Retrodiction:** The **Prophet's Multi-Ethnic Inner Circle in Medina (Bilal al-Habashi of Abyssinia, Salman al-Farisi of Persia, Suhayb al-Rumi of Byzantium, and the Arab Muhajirun/Ansar) and the Maturidi/Hanafi Multilingual Civilization** provide historical verification: when Abu Dharr once disparaged Bilal by his dark-skinned mother, the Prophet rebuked him sternly: *'O Abu Dharr, you are a man in whom there is still a remnant of Jahiliyyah!'*—establishing that racial pride is incompatible with Islam.
+- **Historical Retrodiction:** The **Prophet's Multi-Ethnic Inner Circle in Medina (Bilal al-Habashi of Abyssinia, Salman al-Farisi of Persia, Suhayb al-Rumi of Byzantium, and the Arab Muhajirun/Ansar) and the Maturidi/Hanafi Multilingual Civilization** provide historical verification: when Abu Dharr once disparaged Bilal by his dark-skinned mother, the Prophet rebuked him sternly: *'O Abu Dharr, you are a man in whom there is still a remnant of Jahiliyyah!'* (al-Bukhārī, *Īmān*, 22, no. 30; Muslim, *Aymān*, 38, no. 1661)—establishing that racial pride is incompatible with Islam.
 
 ---
 

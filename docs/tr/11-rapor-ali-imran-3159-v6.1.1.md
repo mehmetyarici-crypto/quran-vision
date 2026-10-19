@@ -242,7 +242,7 @@ peer_review:
   - `إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ` (innallâhe yuhibbü'l-mütevekkilîn): Şüphesiz Allah, istişare ve tedbirden sonra kendisine güvenip dayananları sever.
 
 - **Klasik Tefsir Lafzî Tahlili (Fahreddîn er-Râzî & Zemahşerî):**
-  - `[NAKİL]`: Râzî, bu âyetin Uhud felaketinin peşinden inmesinde muazzam bir hikmet bulunduğunu belirtir: *"Müslümanlar Uhud'da emre itaatsizlik etmiş, hezimete uğramış ve Hz. Peygamber yaralanmıştı. Beşerî tabiat böyle bir krizden sonra onları azarlamayı ve bir daha asla fikirlerini sormamayı gerektirirdi. Fakat Allah Teâlâ bunun tam aksini emretti: 'Onları affet, dua et ve yine onlarla istişare et!' Çünkü istişarede hata etmek, istibdadın isabetinden bin kat hayırlıdır"* (*et-Tefsîrü'l-Kebîr*, C. 9, s. 66).
+  - `[NAKİL]`: Râzî, bu âyetin Uhud felaketinin peşinden inmesinde muazzam bir hikmet bulunduğunu belirtir: *"Müslümanlar Uhud'da emre itaatsizlik etmiş, hezimete uğramış ve Hz. Peygamber yaralanmıştı. Beşerî tabiat böyle bir krizden sonra onları azarlamayı ve bir daha asla fikirlerini sormamayı gerektirirdi. Fakat Allah Teâlâ bunun tam aksini emretti: 'Onları affet, dua et ve yine onlarla istişare et!' (Âl-i İmrân 3:159). Çünkü istişarede hata etmek, istibdadın isabetinden bin kat hayırlıdır"* (*et-Tefsîrü'l-Kebîr*, C. 9, s. 66; ayrıca bkz. Buhârî, *İ'tisâm*, 28, nr. 7366; Tirmizî, *Cihâd*, 35, nr. 1714).
   - `[YORUM]`: Kriz anında ortak aklı terk edip otoriterleşmek yıkıcı bir tuzaktır; meşru liderlik başarısızlıkta dahi istişareyi derinleştirmeyi emreder.
 
 - **Siyâk-Sibâk ve Tarihsel Bağlam:**
@@ -279,7 +279,7 @@ peer_review:
 
 - **Küllî Makasıd:** Aklın, adaletin ve toplumsal birliğin korunması (*Hıfzu'n-Nizâm ve'l-İttihâd*).
 - **Şâtıbî ve İbn Âşûr Çerçevesi:**
-  - `[NAKİL]`: İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 4, s. 145-150), şûrânın İslam anayasa hukukunun üçüncü rüknü olduğunu; Peygamber'in dahi istişareyle emrolunmasının, ümmetin hiçbir yöneticisinin istişareden müstağni olamayacağını kesin biçimde tescillediğini vurgular.
+  - `[NAKİL]`: İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 4, s. 145-150), şûrânın İslam anayasa hukukunun üçüncü rüknü olduğunu; Peygamber'in dahi istişareyle emrolunmasının (Buhârî, *İ'tisâm*, 28, nr. 7366; Tirmizî, *Cihâd*, 35, nr. 1714), ümmetin hiçbir yöneticisinin istişareden müstağni olamayacağını kesin biçimde tescillediğini vurgular.
   - `[YORUM]`: İstişareyi terk eden bir yönetim makasıdın özünü çiğner; çünkü tebaanın aklını hiçe saymak *Hıfzu'l-Akl* ilkesini felç eder.
 - **Zarûriyyât Hiyerarşisi:**
   1. *Toplumsal Birliğin Korunması (Hıfzu'l-İttihâd):* Dağılmanın engellenmesi (`lenfaddû min havlik`).
@@ -301,11 +301,11 @@ peer_review:
 
 ### ADIM 05 — SİYAK-SİBAK ANALİZİ (S1–S7)
 
-- **S1 (Önceki Âyetler — Âl-i İmrân 3:152–158):** Uhud Savaşı'ndaki emir dinlememe, hezimet, panik, Hz. Peygamber'in yaralanması ve müminlerin derin pişmanlığı anlatılır.
+- **S1 (Önceki Âyetler — Âl-i İmrân 3:152–158):** Uhud Savaşı'ndaki emir dinlememe, hezimet, panik, Hz. Peygamber'in yaralanması (Buhârî, *Meğâzî*, 24, nr. 4075; Müslim, *Cihâd*, 101, nr. 1790) ve müminlerin derin pişmanlığı anlatılır.
 - **S2 (Sonraki Âyetler — Âl-i İmrân 3:160–165):** *"Allah size yardım ederse sizi yenecek yoktur..."* ve ganimete hıyanet edilmeyeceği vurgulanır.
 - **S3 (Pasajın Konumu):** Uhud hezimetinin psikolojik ve idari yaralarının sarıldığı ilahi rehabilitasyon merkezidir.
 - **S4 (Sûre İçi Bütünlük):** Âl-i İmrân'ın başındaki tefrika yasağı (`3:103` Allah'ın ipine sımsıkı sarılın) ile 3:159'daki dağılmama (`lenfaddû`) uyarısı tam bir simetri oluşturur.
-- **S5 (Nüzûl Sebepleri ve Hitap):** Uhud Savaşı dönüşü. Ashabın büyük kısmı meydan savaşı istemiş, Peygamber onların reyine uymuş ve neticede ağır kayıplar verilmiştir.
+- **S5 (Nüzûl Sebepleri ve Hitap):** Uhud Savaşı dönüşü. Ashabın büyük kısmı meydan savaşı istemiş, Peygamber onların reyine uymuş ve neticede ağır kayıplar verilmiştir (Buhârî, *İ'tisâm*, 28, nr. 7366; Ahmed b. Hanbel, *el-Müsned*, 3/351, nr. 14829; İbn Hişâm, *es-Sîretü'n-Nebeviyye*, 3/67).
 - **S6 (Tarihsel Bağlam):** Tarihin en kritik liderlik sınavı: Başarısızlıkla sonuçlanan bir istişarenin ardından liderin tavrı ne olmalıdır? Âyet cevabı verir: İstişareye devam!
 - **S7 (Kırpma Riski):** Âyetteki `fa‘fu ‘anhüm` (affet) kısmını atlayıp sadece `fe-izâ ‘azemte` (karar verdiğinde uygula) kısmını öne çıkararak liderliği diktatoryaya dönüştüren okuma riski mevcuttur. Âyetin başı şefkat, ortası istişare, sonu ise azimdir.
 
@@ -384,7 +384,7 @@ peer_review:
 
 - **Red Team İtirazları:**
   - *İtiraz:* "Âyette 'fe-izâ ‘azemte' denilmektedir; 'fe-izâ ‘azemtum' denmemiştir. Demek ki karar yetkisi tek başına lidere aittir. İstişare sadece liderin gönül alma aracıdır; bağlayıcı değildir."
-  - *Cevap:* Bu itiraz istişarenin emredilme gerekçesini anlamsızlaştırır. Hz. Peygamber vahiy almadığı dünyevî meselelerde (Bedir'de ordu karargâhı, Uhud'da meydan savaşı, Hendek'te hendek kazılması) çoğunluğun reyine bizzat uymuştur. Âyetteki tekil hitap icra makamını temsil eder; icrada yetki birliği (liderin sorumluluk üstlenmesi) anarşiyi önlemek içindir, istibdada ruhsat değildir.
+  - *Cevap:* Bu itiraz istişarenin emredilme gerekçesini anlamsızlaştırır. Hz. Peygamber vahiy almadığı dünyevî meselelerde (Bedir'de ordu karargâhı, Uhud'da meydan savaşı, Hendek'te hendek kazılması; Buhârî, *İ'tisâm*, 28, nr. 7366; Ahmed b. Hanbel, *el-Müsned*, 3/351, nr. 14829; İbn Hişâm, *es-Sîre*, 2/272, 3/67) çoğunluğun reyine bizzat uymuştur. Âyetteki tekil hitap icra makamını temsil eder; icrada yetki birliği (liderin sorumluluk üstlenmesi) anarşiyi önlemek içindir, istibdada ruhsat değildir.
 - **Falsifiabilite Protokolü (Yalnızca Ampirik ve Dünyevi Politika Hipotezlerine):**
   - **Uygulanan Alan:** Karar kollarındaki ampirik uygulama modeli.
   - **Zaman Aralığı:** 5 Yıllık İzleme Penceresi (2026–2031).
@@ -463,7 +463,7 @@ peer_review:
 
 - Modernist veya partizan anakronizm kontrolleri yapılmıştır.
 - **Dil Güvenliği ve Öz-Denetim:** Yasaklı kelime kullanılmamıştır.
-- **Retrodiction (Geriye Dönük Sınama):** Hz. Ebu Bekir'in Ridde savaşları öncesi Hz. Ömer ve ashab ile yaptığı istişare; Hz. Ömer'in Irak arazilerinin gazilere dağıtılmayıp kamuda bırakılması için günlerce süren Şûrâ Meclisi toplantıları incelenmiş, istişarenin devleti ayakta tuttuğu doğrulanmıştır.
+- **Retrodiction (Geriye Dönük Sınama):** Hz. Ebu Bekir'in Ridde savaşları öncesi Hz. Ömer ve ashab ile yaptığı istişare (Buhârî, *Zekât*, 1, nr. 1399–1400; Müslim, *Îmân*, 32, nr. 20); Hz. Ömer'in Irak (Sevâd) arazilerinin gazilere dağıtılmayıp kamuda bırakılması için günlerce süren Şûrâ Meclisi toplantıları (Ebû Yûsuf, *Kitâbü'l-Harâc*, s. 24–26) incelenmiş, istişarenin devleti ayakta tuttuğu doğrulanmıştır.
 
 ---
 
@@ -504,7 +504,7 @@ peer_review:
 - **Temel Varsayım:** Çok sesli ve eleştirel istişarenin tek adam kararlarından her zaman daha sağlam sonuç ürettiği kabul edilmiştir.
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Âl-i İmrân 3:159 — Kriz Liderliği, Şefkat, Şûrâ ve Azim):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Şefkat (Rıfk), İstişare (Şûrâ), Affedicilik, Kararlılık (Azim) ve Tevekkül.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Uhud Savaşı'ndaki ağır taktik hatanın ve kayıpların hemen ardından inen bu âyette, Hz. Peygamber'in hata yapan genç sahabileri suçlamak yerine affedip onlarla yeniden istişare etmesi (`ve şâvirhüm fi'l-emr`) incelenir.
+  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Uhud Savaşı'ndaki ağır taktik hatanın ve kayıpların hemen ardından inen bu âyette, Hz. Peygamber'in hata yapan genç sahabileri suçlamak yerine affedip onlarla yeniden istişare etmesi (`ve şâvirhüm fi'l-emr`; Buhârî, *İ'tisâm*, 28, nr. 7366; Tirmizî, *Cihâd*, 35, nr. 1714) incelenir.
   - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Linte lehüm` (yumuşak davranma), `fazzan galîza'l-kalb` (kaba ve katı kalpli olma), `lenfaddû min havlike` (etrafından dağılıp gitme), `şûrâ` ve `azm` kavramları Zemahşerî ve İbn Âşûr üzerinden tahlil edilir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Otoriter/kırıcı liderliğin yetenek göçü ve dalkavukluk üretmesi (`R1`) ile şefkatli ve istişarî liderliğin ortak aklı harekete geçirmesi (`B1`) simüle edilir.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler okul ve kurum yönetiminde "Psikolojik Güvenlik ve İstişare Protokolü" hazırlar.
@@ -522,7 +522,7 @@ peer_review:
 Bu gerilim şu çetin açmazları içerir:
 1. Eğer istişare lidere bağlayıcı değilse; lider istediği zaman istişare edip istemediği kararı tek başına verebiliyorsa, bu durum istişareyi otokratik iktidarın halkı teskin etme tiyatrosuna dönüştürmez mi?
 2. Eğer istişare istisnasız bağlayıcı ise; âyetteki `فَإِذَا عَزَمْتَ` (Kararını verdiğin zaman) tekil hitabı nereye oturtulacaktır? Lider meclisin sadece bir sözcüsü müdür, yoksa kararı icra eden irade midir?
-3. Quran Vision analiz motoru bu aporiayı şöyle çözümler: **İstişare kararı meşruiyet üretir; azim ise o meşruiyeti icraya dönüştürür.** Hz. Peygamber'in kendi kişisel tercihine aykırı olmasına rağmen Uhud'da çoğunluğun fikrine uyması, istişarenin bağlayıcı bir ahlaki-hukuki karakter taşıdığını gösterir. Ancak bu gerilim, modern demokrasilerdeki kuvvetler ayrılığı ile İslam fıkıh geleneği arasında şablonun ötesinde daimi bir siyaset bilimi tartışmasıdır.
+3. Quran Vision analiz motoru bu aporiayı şöyle çözümler: **İstişare kararı meşruiyet üretir; azim ise o meşruiyeti icraya dönüştürür.** Hz. Peygamber'in kendi kişisel tercihine aykırı olmasına rağmen Uhud'da çoğunluğun fikrine uyması (Buhârî, *İ'tisâm*, 28, nr. 7366; Ahmed b. Hanbel, *el-Müsned*, 3/351, nr. 14829), istişarenin bağlayıcı bir ahlaki-hukuki karakter taşıdığını gösterir. Ancak bu gerilim, modern demokrasilerdeki kuvvetler ayrılığı ile İslam fıkıh geleneği arasında şablonun ötesinde daimi bir siyaset bilimi tartışmasıdır.
 
 ---
 
@@ -532,7 +532,7 @@ Bu gerilim şu çetin açmazları içerir:
 | :--- | :--- | :--- | :--- |
 | **Görüş 1: Klasik Saltanat ve Otokrasi Ekolü (Gazzâlî sonrası bazı fakihler)** | Şûrâ müstehaptır, gayr-i mülzimdir (bağlayıcı değildir). Lider dilediğiyle istişare eder, dilediğini uygular. | Lider tek başına karar alır; muhalefet fitnedir. Karar yetkisi bütünüyle reisin inisiyatifindedir. | Âyetteki `fa‘fu` ve `fe-izâ ‘azemte` tekil hitapları. |
 | **Görüş 2: Klasik Mâlikî ve Hanefî Usûlcüleri (Cessâs, İbn Atıyye)** | Şûrâ farzdır; istişare etmeyen veya uzmanların re'yini hiçe sayan lider azledilmeyi hak eder. | Lider kamuyu ilgilendiren işlerde ehil insanlarla istişare etmek mecburiyetindedir. | `Ve şâvirhüm fi'l-emr` sarih emir kipi ve Sahâbe uygulamaları. |
-| **Görüş 3: Çağdaş İslami Demokrasi Ekolü (İbn Âşûr, Elmalılı, Gannûşî)** | Şûrâ kurumsal ve bağlayıcıdır (*mülzime*). Çoğunluğun kararına uymak Nebevî sünnettir. | Meclis ve parlamento kararları yürütmeyi bağlar; kuvvetler ayrılığı şûrânın kurumsallaşmış halidir. | Hz. Peygamber'in Uhud'da çoğunluğun re'yine bizzat uyması uygulaması. |
+| **Görüş 3: Çağdaş İslami Demokrasi Ekolü (İbn Âşûr, Elmalılı, Gannûşî)** | Şûrâ kurumsal ve bağlayıcıdır (*mülzime*). Çoğunluğun kararına uymak Nebevî sünnettir. | Meclis ve parlamento kararları yürütmeyi bağlar; kuvvetler ayrılığı şûrânın kurumsallaşmış halidir. | Hz. Peygamber'in Uhud'da çoğunluğun re'yine bizzat uyması uygulaması (Buhârî, *İ'tisâm*, 28, nr. 7366; Ahmed b. Hanbel, *el-Müsned*, 3/351, nr. 14829). |
 | **Görüş 4: Teknofil / Meritokratik Şûrâ Ekolü** | İstişare halk oylaması değil, alanın uzmanlarının (ehlü'l-hall ve'l-akd) bilimsel müzakeresidir. | Kararlar niceliksel çoğunlukla değil, teknik liyakat ve delil üstünlüğüyle alınır. | İbn Fâris'in şûrâyı 'balı petekten süzmek' (uzmanlık) olarak tanımlaması. |
 
 ---

@@ -454,7 +454,7 @@ Katman 3 uyarınca simülasyon parametreleri:
 
 - **Önyargı ve Yanlılık Filtresi:** Metin belirli bir ideolojik veya siyasi grubun bilgi anlayışını tekelleştirmemiş; epistemik sorumluluğu tarafsız bir insanlık ve adalet ideali olarak kurgulamıştır.
 - **Dil Güvenliği ve Öz-Denetim:** Metin boyunca mezhepçi, ideolojik veya mutlakiyetçi ifadelerden kaçınılmış; `[NAKİL]` ve `[YORUM]` sınırları korunmuştur.
-- **Retrodiction (Geriye Dönük Sınama Özeti):** Tarihsel geriye dönük analizler (retrodiction), teyitsiz bilginin toplumsal felaketlere yol açtığını belgeler: İfk Hadisesi, cadı avları, sahte istihbaratlarla başlatılan işgaller ve modern dönemde aşı karşıtlığı veya borsa manipülasyonları gibi krizler epistemik ihmalin sonucudur.
+- **Retrodiction (Geriye Dönük Sınama Özeti):** Tarihsel geriye dönük analizler (retrodiction), teyitsiz bilginin toplumsal felaketlere yol açtığını belgeler: İfk Hadisesi (Buhârî, *Meğâzî*, 34, nr. 4141, *Tefsîr*, 24/6, nr. 4750; Müslim, *Tevbe*, 56, nr. 2770), cadı avları, sahte istihbaratlarla başlatılan işgaller ve modern dönemde aşı karşıtlığı veya borsa manipülasyonları gibi krizler epistemik ihmalin sonucudur.
 
 ---
 
@@ -502,7 +502,7 @@ Katman 3 uyarınca simülasyon parametreleri:
 - 1. Yıl: Ulusal Bilişsel Güvenlik ve Veri Etiği Çerçeve Kanunu.
 - 3. Yıl: Kamu kurumlarında sıfır güven (zero-trust) epistemik doğrulama altyapısı.
 - 5. Yıl: Bölgesel bağımsız teyit konsorsiyumu entegrasyonu.
-- **Geriye Dönük Sınama (Retrodiction):** Tarihsel geriye dönük analizler (retrodiction), teyitsiz bilginin toplumsal felaketlere yol açtığını belgeler: İfk Hadisesi, cadı avları, sahte istihbaratlarla başlatılan işgaller ve modern dönemde aşı karşıtlığı veya borsa manipülasyonları gibi krizler epistemik ihmalin sonucudur.
+- **Geriye Dönük Sınama (Retrodiction):** Tarihsel geriye dönük analizler (retrodiction), teyitsiz bilginin toplumsal felaketlere yol açtığını belgeler: İfk Hadisesi (Buhârî, *Meğâzî*, 34, nr. 4141, *Tefsîr*, 24/6, nr. 4750; Müslim, *Tevbe*, 56, nr. 2770), cadı avları, sahte istihbaratlarla başlatılan işgaller ve modern dönemde aşı karşıtlığı veya borsa manipülasyonları gibi krizler epistemik ihmalin sonucudur.
 
 ---
 

@@ -233,7 +233,7 @@ peer_review:
   - *Strict Definitional Condition (`Al-Sariqu wa'l-Sariqatu`):* Clandestine theft of property above the `nisab` threshold from secure custody (`hirz`) by a sane adult acting without famine, poverty-driven necessity, or ownership doubt.
   - *Maximum Deterrent Ruling (`fa-qta'u aydiyahuma ... nakalan`):* Maximum deterrent sanction, immediately suspended (*isqat*) if any legal or social doubt (`shubhah`) exists (Prophetic Hadith: *Idra'u al-hududa bi'l-shubuhat*).
   - *Rehabilitative Sequel (`5:39 — fa-man taba min ba'di zulmihi wa-aslaha`):* Repentance, restitution, and moral/social rehabilitation.
-- **Counter-Principle Test:** Enforcing harsh criminal penalties against the poor during economic crisis or famine violates the foundational **Counter-Principles** of Islamic law: the Prophetic maxim *'Avert fixed penalties in the presence of doubts (`shubuhat`)'*, Caliph 'Umar ibn al-Khattab's suspension of the theft *hadd* during the Year of Famine (*'Am al-Ramadah*, 18 AH), and the Quranic mandate of social security (`Al-Ma'arij 70:24–25` — *'In their wealth is a known right for the beggar and the deprived'*).
+- **Counter-Principle Test:** Enforcing harsh criminal penalties against the poor during economic crisis or famine violates the foundational **Counter-Principles** of Islamic law: the Prophetic maxim *'Avert fixed penalties in the presence of doubts (`shubuhat`)'* (al-Tirmidhī, *Ḥudūd*, 2, no. 1424; Ibn Mājah, *Ḥudūd*, 5, no. 2545), Caliph 'Umar ibn al-Khattab's suspension of the theft *hadd* during the Year of Famine (*'Am al-Ramadah*, 18 AH; Mālik, *al-Muwaṭṭa'*, *Aqḍiyah*, 26; 'Abd al-Razzāq, *al-Muṣannaf*, 10/242, no. 18990), and the Quranic mandate of social security (`Al-Ma'arij 70:24–25` — *'In their wealth is a known right for the beggar and the deprived'*).
 
 [ANALYSIS] The five primary classical lexicographical and exegetical authorities consulted for **Surah Al-Ma'idah 5:38** are documented below with full critical-edition loci, original Arabic text (`[CITATION / NAKİL]`), and analytical synthesis (`[ANALYSIS / YORUM]`):
 
@@ -287,7 +287,7 @@ peer_review:
 
 - **Hifz al-Mal (Preservation of Property & Honest Labor):** Safeguards private and public property from predatory theft, embezzlement, and systemic corruption.
 - **Hifz al-Nafs & Hifz al-'Ird (Preservation of Life & Human Dignity):** Protects both the needy (via the `shubhah` and famine exemption) and the repentant offender (via `5:39` rehabilitation) from unjust destruction.
-- **Hifz al-Din & Public Trust:** Prevents the grotesque distortion whereby petty survival theft is harshly punished while elite public embezzlement (*ghulul*) goes unpunished (Hadith of Usamah ibn Zayd in Sahih Bukhari).
+- **Hifz al-Din & Public Trust:** Prevents the grotesque distortion whereby petty survival theft is harshly punished while elite public embezzlement (*ghulul*) goes unpunished (Hadith of Usamah ibn Zayd in al-Bukhārī, *Ḥudūd*, 11–12, no. 6788; Muslim, *Ḥudūd*, 8–9, no. 1688).
 - **Shatibi & Ibn Ashur Maqasid Hierarchy:** `[ANALYSIS]` At the **Daruriyyat** level, `5:38–39` secures property rights and subsistence justice; at the **Hajiyyat** level, the doctrine of *dar' al-hudud bi'l-shubuhat* prevents judicial error; at the **Tahsiniyyat** level, `5:39` reintegrates the reformed individual into society without lifelong stigma.
 
 ---
@@ -308,7 +308,7 @@ peer_review:
 - **S2 (Subsequent Verses — Al-Ma'idah 5:39–40):** Immediately opens the door of repentance and reform (`fa-man taba min ba'di zulmihi wa-aslaha fa-inna'llaha yatubu 'alayh`, `5:39`) and reminds humanity that supreme sovereignty over the heavens and earth belongs to God (`5:40`).
 - **S3 (Structural Locus):** Forms the property-protection pillar of Surah Al-Ma'idah's constitutional criminal code (`5:32–40`).
 - **S4 (Intra-Surah Unity):** Surah Al-Ma'idah opens with `Awfu bi'l-'uqud` (*Fulfill covenants*, `5:1`) and `5:8` (*Be steadfast witnesses in justice*); `5:38–39` protects the material foundation of those covenants while subordinating punishment to justice and rehabilitation.
-- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed in Medina to establish impartial rule of law; when aristocratic Quraishi tribesmen sought to exempt a noblewoman (Fatimah bint al-Aswad) from accountability, the Prophet declared that the ruin of past nations lay in punishing the weak while excusing the powerful (Sahih Bukhari).
+- **S5 (Historical Context / *Asbab al-Nuzul*):** Revealed in Medina to establish impartial rule of law; when aristocratic Quraishi tribesmen sought to exempt a noblewoman (Fatimah bint al-Aswad) from accountability, the Prophet declared that the ruin of past nations lay in punishing the weak while excusing the powerful (al-Bukhārī, *Anbiyā'*, 54, no. 3475, *Ḥudūd*, 11–12, no. 6788; Muslim, *Ḥudūd*, 8–9, no. 1688).
 - **S6 (Canonical Mushaf Sequence):** Follows Surah An-Nisa (`4:29` — *'Do not consume one another's wealth unjustly'* and `4:58` — *'Render trusts to whom they are due'*).
 - **S7 (Context-Stripping Risk Audit):** Reading `5:38` without `5:39` (repentance/rehabilitation), without the Prophetic hadith *Idra'u al-hududa bi'l-shubuhat*, and without Caliph 'Umar's *'Am al-Ramadah* precedent is a severe `S7` methodological failure.
 
@@ -548,7 +548,7 @@ peer_review:
 
 ### Z-1 · CORE METHODOLOGICAL PROBLEMATIC (APORIA) [MANDATORY V9]
 
-**Distributive Justice as a Precondition of Penal Law:** [ANALYSIS] Why did Caliph 'Umar ibn al-Khattab suspend the statutory penalty for theft during the Year of Famine ('Am al-Ramadah)? Classical usul authorities demonstrate that the severe deterrent of Al-Ma'idah 5:38 is legally contingent upon stringent evidentiary conditions (hirz, nisab, absence of famine or need) and the state's prior fulfillment of basic socioeconomic security. Under the prophetic maxim 'Avert penalties through doubts (idra'u al-hudud bi'l-shubuhat)', poverty and systemic deprivation constitute legal doubt (shubhah) that suspends corporal punishment.
+**Distributive Justice as a Precondition of Penal Law:** [ANALYSIS] Why did Caliph 'Umar ibn al-Khattab suspend the statutory penalty for theft during the Year of Famine ('Am al-Ramadah; Mālik, *al-Muwaṭṭa'*, *Aqḍiyah*, 26; Ibn Sa'd, *al-Ṭabaqāt*, 3/310)? Classical usul authorities demonstrate that the severe deterrent of Al-Ma'idah 5:38 is legally contingent upon stringent evidentiary conditions (hirz, nisab, absence of famine or need) and the state's prior fulfillment of basic socioeconomic security. Under the prophetic maxim 'Avert penalties through doubts (idra'u al-hudud bi'l-shubuhat)' (al-Tirmidhī, *Ḥudūd*, 2, no. 1424; Ibn Mājah, *Ḥudūd*, 5, no. 2545), poverty and systemic deprivation constitute legal doubt (shubhah) that suspends corporal punishment.
 
 ---
 

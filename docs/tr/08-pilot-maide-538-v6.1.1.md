@@ -234,7 +234,7 @@ peer_review:
 
 - **Klasik Tefsir Lafzî Tahlili (Zemahşerî & Kurtubî):**
   - `[NAKİL]`: Zemahşerî, `جَزَآءًۢ بِمَا كَسَبَا` terkibinin failin hür iradesiyle işlediği suça denk bir karşılık olduğunu; `نَكَـٰلًۭا` lafzının ise toplumu koruyan önleyici ve yüksek caydırıcılık olduğunu belgeler (*el-Keşşâf*, C. 2, s. 230).
-  - `[YORUM]`: Bu lafzî yapı ve Hz. Ömer'in kıtlık yılında (`Âmü'r-Ramâde`) asgari sosyal güvenlik şartı sağlanmadığı için had cezasını durdurması, İslam ceza hukukunda sosyal adaletin cezalandırmadan önce gelen zorunlu önkoşul olduğunu kanıtlar.
+  - `[YORUM]`: Bu lafzî yapı ve Hz. Ömer'in kıtlık yılında (`Âmü'r-Ramâde`; Mâlik, *el-Muvatta'*, 'Akdıye', 26; Abdürrezzâk, *el-Musannef*, 10/242, nr. 18990; İbn Sa'd, *et-Tabakâtü'l-Kübrâ*, 3/310) asgari sosyal güvenlik şartı sağlanmadığı için had cezasını durdurması, İslam ceza hukukunda sosyal adaletin cezalandırmadan önce gelen zorunlu önkoşul olduğunu kanıtlar.
 
 - **Siyâk-Sibâk ve Tarihsel Bağlam:**
 Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünden sonra tevbe eder ve kendini ıslah ederse Allah onun tevbesini kabul eder"*) cezalandırmanın nihai gaye olmadığını, asıl hedefin mülkiyet emniyeti (`hıfzü'l-mâl`) ile failin topluma yeniden kazandırılması (`ıslâh`) olduğunu ortaya koyar.
@@ -248,7 +248,7 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
   - *İstisna ve Islah Kapısı:* Mâide 5:39 ile gelen tövbe ve rehabilitasyon imkânı.
 - **Karşıt İlke Testi:**
   - *Karşıt İlke / Gerilim:* **Mülkiyet Güvenliği ve Caydırıcılık (Hıfzu'l-Mâl) ↔ Yaşama Hakkı, Sosyal Adalet ve İnsan Onuru (Keramet).**
-  - *Gerilimin Çözümü:* Canın ve temel yaşamın korunması (def‘-i mefsede), malın korunmasından öncedir. Eğer bir hırsızlık açlıktan kaynaklanıyorsa, suç hırsızın değil, onu aç bırakan toplumun ve devletindir (Hz. Ömer'in Remâde yılı içtihadı). Bu durumda had düşer, sosyal yardım girer. Had ancak doymak bilmez organize açgözlülükle işlenen suçlara uygulanabilir.
+  - *Gerilimin Çözümü:* Canın ve temel yaşamın korunması (def‘-i mefsede), malın korunmasından öncedir. Eğer bir hırsızlık açlıktan kaynaklanıyorsa, suç hırsızın değil, onu aç bırakan toplumun ve devletindir (Hz. Ömer'in Remâde yılı içtihadı; Mâlik, *el-Muvatta'*, 'Akdıye', 26; İbnü'l-Kayyim, *İ'lâmü'l-Muvakkıîn*, 3/11). Bu durumda had düşer, sosyal yardım girer. Had ancak doymak bilmez organize açgözlülükle işlenen suçlara uygulanabilir.
   - *Feda Edilen Taraf (Trade-off):* Katı şekilci metin uygulaması feda edilir; bedeli, sosyal devletin kurumsal yükümlülük altına girmesidir.
 
 ---
@@ -269,7 +269,7 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 
 - **Küllî Makasıd:** Mal, can, akıl ve din emniyeti.
 - **Klasik Referanslar ve Ahkâm İncelemesi:**
-  - `[NAKİL]`: Şâtıbî (*el-Muvâfakât*, C. 2, s. 312-316)[^4], hadlerin maslahatı koruyan birer engelleyici kalkan (*zâcir*) olduğunu; zaruret halinde canın korunmasının maldan önce geleceğini belirtir. Cessâs (*Ahkâmü'l-Kur'ân*, C. 4, s. 85)[^5], hırz ve nisap şartının yanı sıra *"Hadleri şüphelerle düşürünüz"* nebevi kuralını temel şart koşar. İbnü'l-Kayyim ise Hz. Ömer'in Remâde kıtlık yılı içtihadını nassın ruhuna tam sadakat olarak temellendirir.
+  - `[NAKİL]`: Şâtıbî (*el-Muvâfakât*, C. 2, s. 312-316)[^4], hadlerin maslahatı koruyan birer engelleyici kalkan (*zâcir*) olduğunu; zaruret halinde canın korunmasının maldan önce geleceğini belirtir. Cessâs (*Ahkâmü'l-Kur'ân*, C. 4, s. 85)[^5], hırz ve nisap şartının yanı sıra *"Hadleri şüphelerle düşürünüz"* (Tirmizî, *Hudûd*, 2, nr. 1424; İbn Mâce, *Hudûd*, 5, nr. 2545; Dârimî, *Hudûd*, 4) nebevi kuralını temel şart koşar. İbnü'l-Kayyim (*İ'lâmü'l-Muvakkıîn*, 3/11) ise Hz. Ömer'in Remâde kıtlık yılı içtihadını (Mâlik, *el-Muvatta'*, 'Akdıye', 26) nassın ruhuna tam sadakat olarak temellendirir.
   - `[YORUM]`: İbn Âşûr (*et-Tahrîr ve’t-Tenvîr*), nekâl kavramının organize suç arzusunu felç eden maksimum caydırıcılık eşiği olduğunu; cezanın nihai gayesinin insan sakatlamak değil mülkiyet nizamını korumak olduğunu açıklar.
 - **Zarûriyyât Dengelemesi:**
   1. *Malın Korunması (Hıfzu'l-Mâl):* Emeğin ve meşru sermayenin dokunulmaz kılınması.
@@ -315,9 +315,9 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 ### ADIM 07 — SİSTEM HARİTASI (CAUSAL LOOP DİAGRAMI — CLD), GECİKME VE KIRILMA NOKTASI (N4)
 
 - **Temel Sistem Değişkenleri (Stok & Akış Değişkenleri):** `[YORUM]` **Stok Değişkenler:** Kamusal Mülkiyet ve Emniyet Stoku (*Hıfzu'l-Mâl*), Sosyal Adalet ve Asgari Geçim Güvencesi Stoku, Yargısal Caydırıcılık İtibarı. **Akış Değişkenler:** İhtiyaç/Açlık Kaynaklı Suç Eğilimi, Kasıtlı ve Organize Hırsızlık Hızı (*Sirkat*), Şüphelerle Cezayı Düşürme Filtresi (*İdrâü'l-Hudûd bi'ş-Şübühât*) ve Tevbe/Islah Rehabilitasyon Akışı (Mâide 5:39).
-- **Pekiştirici Döngü (R1 — Sosyal Adaletsizlik ve Cezasızlık Kısır Döngüsü / Vicious Cycle):** `[YORUM]` Gelir Dağılımı Bozukluğu ve Yoksulluk (`+`) → Mülkiyet Suçları ve Kurumsal Yolsuzluk (`+`) → Seçici/Sınıfsal Cezalandırma (Güçlülerin Korunup Yoksulların Ezilmesi) (`+`) → Hukuka Güvenin ve Meşruiyetin Çöküşü (`-`) → Kayıt Dışı Ekonomi ve Mülkiyet Güvensizliği (`+`) → Gelir Dağılımı Bozukluğu ve Yoksulluk (`+`). *(Hz. Peygamber'in uyardığı üzere, üst tabaka çaldığında cezasız bırakıp zayıflara ceza uygulamak medeniyeti helâke sürükler).*
-- **Dengeleyici Döngü (B1 — Hz. Ömer'in Sosyal Güvence Önkoşulu ve Mâide 5:38–39 Dengeleyicisi / Balancing Loop):** `[YORUM]` Mülkiyet İhlali ve Hırsızlık Riski (`+`) → 1. Öncelik: Sosyal Devletin Asgari Geçim ve İkrah/Zaruret Kalkanını Sağlaması (`+`) → 2. Öncelik: Tam İrade (`bimā kasabā`) ile İşlenen Organize Suçlara Bağımsız Yargısal Caydırıcılık (`nakālan`) ve Mâide 5:39 Tevbe/Islah Rehabilitasyonu (`+`) → Mülkiyet Emniyetinin ve Toplumsal Güvencenin Artması (`+`) → Mülkiyet İhlali ve Hırsızlık Riski (`-`).
-- **Sistemik Gecikme (Delay) ve Kaldıraç Noktası (Leverage Point):** `[YORUM]` **Sistemik Gecikme (Delay):** Sosyal transfer ve istihdam politikalarının suç oranlarını düşürmesi **12–24 aylık** bir sosyo-ekonomik gecikme içerirken; yargısal tahkikte nisap, hırz ve şüphe incelemesi hatalı infazı önleyen usûlî bir emniyet gecikmesidir. **Kaldıraç Noktası (Leverage Point):** Ceza hukukundan önce **asgari refah ve sosyal güvenlik ağının (Hz. Ömer'in Âmü'r-Ramâde içtihadı)** eksiksiz kurulması ve Mâide 5:39'daki onarıcı adalet/ıslah kapısının açık tutulmasıdır.
+- **Pekiştirici Döngü (R1 — Sosyal Adaletsizlik ve Cezasızlık Kısır Döngüsü / Vicious Cycle):** `[YORUM]` Gelir Dağılımı Bozukluğu ve Yoksulluk (`+`) → Mülkiyet Suçları ve Kurumsal Yolsuzluk (`+`) → Seçici/Sınıfsal Cezalandırma (Güçlülerin Korunup Yoksulların Ezilmesi) (`+`) → Hukuka Güvenin ve Meşruiyetin Çöküşü (`-`) → Kayıt Dışı Ekonomi ve Mülkiyet Güvensizliği (`+`) → Gelir Dağılımı Bozukluğu ve Yoksulluk (`+`). *(Hz. Peygamber'in Mahzûmî kadın / Üsâme b. Zeyd hadisinde uyardığı üzere [Buhârî, *Enbiyâ*, 54, nr. 3475, *Hudûd*, 11–12, nr. 6788; Müslim, *Hudûd*, 8–9, nr. 1688], üst tabaka çaldığında cezasız bırakıp zayıflara ceza uygulamak medeniyeti helâke sürükler).*
+- **Dengeleyici Döngü (B1 — Hz. Ömer'in Sosyal Güvence Önkoşulu [Muvatta, 'Akdıye', 26] ve Mâide 5:38–39 Dengeleyicisi / Balancing Loop):** `[YORUM]` Mülkiyet İhlali ve Hırsızlık Riski (`+`) → 1. Öncelik: Sosyal Devletin Asgari Geçim ve İkrah/Zaruret Kalkanını Sağlaması (`+`) → 2. Öncelik: Tam İrade (`bimā kasabā`) ile İşlenen Organize Suçlara Bağımsız Yargısal Caydırıcılık (`nakālan`) ve Mâide 5:39 Tevbe/Islah Rehabilitasyonu (`+`) → Mülkiyet Emniyetinin ve Toplumsal Güvencenin Artması (`+`) → Mülkiyet İhlali ve Hırsızlık Riski (`-`).
+- **Sistemik Gecikme (Delay) ve Kaldıraç Noktası (Leverage Point):** `[YORUM]` **Sistemik Gecikme (Delay):** Sosyal transfer ve istihdam politikalarının suç oranlarını düşürmesi **12–24 aylık** bir sosyo-ekonomik gecikme içerirken; yargısal tahkikte nisap, hırz ve şüphe incelemesi hatalı infazı önleyen usûlî bir emniyet gecikmesidir. **Kaldıraç Noktası (Leverage Point):** Ceza hukukundan önce **asgari refah ve sosyal güvenlik ağının (Hz. Ömer'in Âmü'r-Ramâde içtihadı; Muvatta, 'Akdıye', 26)** eksiksiz kurulması ve Mâide 5:39'daki onarıcı adalet/ıslah kapısının açık tutulmasıdır.
 - **Kırılma Noktası (Tipping Point) ve Erken Uyarı Sinyali (N4 / EU):** `[YORUM]` **Tipping Point (Kırılma Noktası):** Temel gıda ve barınma enflasyonunun hane halkı gelirini aşmasıyla zaruret kaynaklı suçların patlaması ve yargının beyaz yakalı kamu yolsuzluklarına karşı felç olması. **Erken Uyarı Sinyali (N4 / EU-01):** Yoksulluk sınırının altındaki nüfus oranının `%15` eşiğini aşması, genç işsizliğinde sıçrama ve mülkiyet davalarında ortalama yargılama süresinin uzaması.
 ---
 
@@ -373,8 +373,8 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 ### ADIM 12 — RED TEAM (KARŞIT OKUMA) VE FALSIFIABILITE PROTOKOLÜ
 
 - **Red Team İtirazları:**
-  - *İtiraz:* "Âyet mutlaktır: Şartlara bakılmaksızın el kesilir. Hz. Ömer'in tatbikatı nasse aykırıdır."
-  - *Cevap:* Bu itiraz "Hadleri şüphelerle düşürünüz" hadisini ve Şâtıbî'nin zarûriyyât hiyerarşisini inkâr eder. Hz. Ömer nassı iptal etmemiş; açlık şüphesinin bulunduğu yerde suç kastının ortadan kalktığını tespit etmiştir.
+  - *İtiraz:* "Âyet mutlaktır: Şartlara bakılmaksızın el kesilir. Hz. Ömer'in tatbikatı (Muvatta, 'Akdıye', 26) nasse aykırıdır."
+  - *Cevap:* Bu itiraz "Hadleri şüphelerle düşürünüz" hadisini (Tirmizî, *Hudûd*, 2, nr. 1424; İbn Mâce, *Hudûd*, 5, nr. 2545) ve Şâtıbî'nin zarûriyyât hiyerarşisini inkâr eder. Hz. Ömer nassı iptal etmemiş; açlık şüphesinin bulunduğu yerde suç kastının ortadan kalktığını tespit etmiştir.
 - **Falsifiabilite Protokolü (Yalnızca Ampirik ve Dünyevi Politika Hipotezlerine):**
   - **Uygulanan Alan:** Karar kollarındaki ampirik uygulama modeli.
   - **Zaman Aralığı:** 5 Yıllık İzleme Penceresi (2026–2031).
@@ -397,7 +397,7 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 - **Erken Uyarı Sinyalleri (N1–N4):** Organize hırsızlık ve rüşvet yıllık artışı $> \%20$ olduğunda K2 devreye girer.
 - **Bayes Güncelleme Alanı (`Senaryo S1 — Sosyal Adalet + Şüphede İndirim + Caydırıcı Mülkiyet Güvencesi`):**
   - **Önsel Olasılık (Prior $P(S_1)$):** `0.38` (%38.0 — Dünya Bankası & Adalet Bakanlığı 2024 Adli Sicil İstatistikleri başlangıç olasılığı).
-  - **Koşullu Olabilirlik $P(E|S_1) = 0.86$ & Yanlış Pozitif $P(E|\neg S_1) = 0.17$:** Zarûret/açlık istisnası (Hz. Ömer içtihadı), şüphe ilkesi (*der'ü'l-hudûd bi'ş-şübühât*) ve `5:39` tevbe/ıslah koridoru birlikte uygulandığında mülkiyet güvenliği ve düşük tekerrür olasılığı.
+  - **Koşullu Olabilirlik $P(E|S_1) = 0.86$ & Yanlış Pozitif $P(E|\neg S_1) = 0.17$:** Zarûret/açlık istisnası (Hz. Ömer içtihadı; Muvatta, 'Akdıye', 26), şüphe ilkesi (*der'ü'l-hudûd bi'ş-şübühât*; Tirmizî, *Hudûd*, 2, nr. 1424) ve `5:39` tevbe/ıslah koridoru birlikte uygulandığında mülkiyet güvenliği ve düşük tekerrür olasılığı.
   - **Sonsal Olasılık (Posterior $P(S_1|E)$):** $P(S_1|E) = \frac{0.38 \times 0.86}{(0.38 \times 0.86) + (0.62 \times 0.17)} = 0.754 \approx 0.75$ (%75.4 — **+37.4 puanlık** kurumsal güven artışı).
   - *Kapsam Notu:* Bayes güncellemesi YALNIZCA ölçülebilir iktisadi ve adli göstergelerde çalışır; normatif inançlara sayısal katsayı verilemez (Bölüm 9 yasağı).
 
@@ -424,7 +424,7 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
                               [EVET]                                                      [HAYIR]
                                  |                                           (Tam Hırz, Nisap ve Kasıt Sabit)
           [K1: Had Cezası Düşer — Sosyal Yardım Devrede]                                     |
-             (Hz. Ömer İçtihadı & Der'ü'l-Hudûd)                             [K2: Kademeli Yargılama ve Tazmin]
+             (Hz. Ömer İçtihadı [Muvatta, 'Akdıye', 26] & Der'ü'l-Hudûd [Tirmizî, Hudûd, 2]) [K2: Kademeli Yargılama ve Tazmin]
                                                                                              |
                                                                              [Tövbe, Islah ve Zararı Tazmin Var mı?]
                                                                                              |
@@ -441,14 +441,14 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 ### ADIM 16 — ÖNYARGI VE TARAFLILIK DENETİMİ
 
 - Modernist veya mezhepçi anakronizm kontrolleri yapılmıştır.
-- **Retrodiction (Geriye Dönük Sınama):** Hicri 18 "Remâde (Kıtlık) Yılı"nda Hz. Ömer'in hırsızlık haddini askıya alma içtihadı incelenmiş; sosyal adalet sağlanmadan uygulanan cezaların suçu önlemediği, zaruret halinde haddin düşürülmesinin nassın ruhunu koruduğu kısmen doğrulanmıştır.
+- **Retrodiction (Geriye Dönük Sınama):** Hicri 18 "Remâde (Kıtlık) Yılı"nda Hz. Ömer'in hırsızlık haddini askıya alma içtihadı (Mâlik, *el-Muvatta'*, 'Akdıye', 26; İbn Sa'd, *et-Tabakât*, 3/310) incelenmiş; sosyal adalet sağlanmadan uygulanan cezaların suçu önlemediği, zaruret halinde haddin düşürülmesinin nassın ruhunu koruduğu kısmen doğrulanmıştır.
 
 ---
 
 ## FAZ V — GÜVEN, SORUMLULUK VE İZLEME KAYDI
 
 ### ADIM 17 — GÜVEN DÜZEYİ
-- **Nitel Derece:** B (Orta-Yüksek Analitik Güven). Klasik fıkıh usûlü (İbn Fâris, Zemahşerî, İbn Manzûr, Şâtıbî, Cessâs ve Hz. Ömer'in *Âmü'r-Remâde* içtihadı) ile modern kriminoloji ve yolsuzluk endekslerinin (World Bank WGI, Transparency International CPI) sentezine dayanır; normatif alanda sayısal kesinlik iddiası taşımaz.
+- **Nitel Derece:** B (Orta-Yüksek Analitik Güven). Klasik fıkıh usûlü (İbn Fâris, Zemahşerî, İbn Manzûr, Şâtıbî, Cessâs ve Hz. Ömer'in *Âmü'r-Remâde* içtihadı [Muvatta, 'Akdıye', 26]) ile modern kriminoloji ve yolsuzluk endekslerinin (World Bank WGI, Transparency International CPI) sentezine dayanır; normatif alanda sayısal kesinlik iddiası taşımaz.
 - **Kurumsal Rol Dağılımı:**
   - **Sosyal Güvenlik ve Yardımlaşma Kurumları:** Temel geçim güvencesi sağlayarak zaruret ve açlık kaynaklı suç zeminini ortadan kaldırma (Remâde ön-şartı).
   - **Yargı Organları ve Mali Suçları Araştırma Kurulları (MASAK / Sayıştay):** Şüphe ilkesini (*"Hadleri şüphelerle düşürünüz"*) gözeterek yoksulun çaresizliği ile organize ve beyaz yakalı kamu malı hırsızlığını birbirinden ayıran adil ve caydırıcı yargılama.
@@ -465,9 +465,9 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 ---
 
 ### ADIM 18 — BİLGİ TABANI VE ZAYIFLIK LİSTESİ
-- **Bilgi Tabanı:** İSNAD 2 standartlı klasik fıkıh ve tefsir külliyatı (Cessâs, Şâtıbî, Zemahşerî), Hz. Ömer'in Remâde yılı tatbikatı ve Dünya Bankası / Transparency International hukuk ve yolsuzluk veri setleri.
+- **Bilgi Tabanı:** İSNAD 2 standartlı klasik fıkıh ve tefsir külliyatı (Cessâs, Şâtıbî, Zemahşerî), Hz. Ömer'in Remâde yılı tatbikatı (Mâlik, *el-Muvatta'*, 'Akdıye', 26; Abdürrezzâk, *el-Musannef*, 10/242, nr. 18990) ve Dünya Bankası / Transparency International hukuk ve yolsuzluk veri setleri.
 - **Zayıflıklar ve Risk-Azaltma Matrisi:**
-  - *Risk 1:* Sosyal devlet ve asgari geçim güvencesi sağlanmadan salt cezai sertlikle suçu önlemeye çalışmanın adaletsizlik üretmesi → *Azaltma:* Hz. Ömer'in Remâde içtihadı uyarınca sosyal güvenlik şemsiyesinin ceza hukukunun bağlayıcı ön-şartı kılınması.
+  - *Risk 1:* Sosyal devlet ve asgari geçim güvencesi sağlanmadan salt cezai sertlikle suçu önlemeye çalışmanın adaletsizlik üretmesi → *Azaltma:* Hz. Ömer'in Remâde içtihadı (Muvatta, 'Akdıye', 26) uyarınca sosyal güvenlik şemsiyesinin ceza hukukunun bağlayıcı ön-şartı kılınması.
   - *Risk 2:* Küçük adi hırsızlıklar ağır cezalandırılırken büyük ölçekli dijital hortumlama ve kamu yolsuzluklarının cezasız kalması → *Azaltma:* Beyaz yakalı mali suçların nitelikli `sirkat` ve `ğulûl` kapsamında tam malvarlığı müsaderesi ve ağır `ta'zîr` yaptırımlarına bağlanması.
 
 ---
@@ -482,7 +482,7 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
   - *1. Yıl:* Zaruret ve yoksulluk kaynaklı ilk kez işlenen mala karşı suçlarda adli sosyal inceleme ve sosyal yardım yönlendirme oranının $\ge \%95$ seviyesine çıkarılması.
   - *3. Yıl:* Mâide 5:39 rehabilitasyon ve meslek edindirme programlarına katılanlarda yeniden suç işleme (*residivizm*) oranının $\le \%15$ seviyesine çekilmesi.
   - *5. Yıl:* Dünya Bankası Yolsuzluk Kontrolü ve Hukukun Üstünlüğü endekslerinde $\ge 0.75$ eşiğinin yakalanması.
-- **Retrodiction (Geriye Dönük Sınama):** Hicrî 18 *Âmü'r-Remâde* (Kıtlık Yılı) döneminde Hz. Ömer'in hırsızlık haddini askıya alması ve Hâtıb b. Ebî Beltea'nın aç bırakılan köleleri vakasında cezayı kölelere değil, onları aç bırakan işverene tazminat olarak yüklemesi tarihsel doğrulama modeli olarak sınanmıştır.
+- **Retrodiction (Geriye Dönük Sınama):** Hicrî 18 *Âmü'r-Remâde* (Kıtlık Yılı) döneminde Hz. Ömer'in hırsızlık haddini askıya alması ve Hâtıb b. Ebî Beltea'nın aç bırakılan köleleri vakasında cezayı kölelere değil, onları aç bırakan işverene tazminat olarak yüklemesi (Mâlik, *el-Muvatta'*, 'Akdıye', 26; Abdürrezzâk, *el-Musannef*, 10/242, nr. 18990; İbn Sa'd, *et-Tabakâtü'l-Kübrâ*, 3/310) tarihsel doğrulama modeli olarak sınanmıştır.
 
 ---
 
@@ -493,7 +493,7 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 - **Temel Varsayım:** Mülkiyet emniyetinin ancak adil gelir dağılımı, şeffaf kamu denetimi ve onarıcı ceza adaleti (`5:38–39`) birlikte işlediğinde kalıcı olacağı kabul edilmiştir.
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Mâide 5:38–39 — Mülkiyet Emniyeti, Sosyal Adalet Ön-Şartı ve Islah):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Dürüstlük, Emek, Sosyal Adalet, Mülkiyet Saygısı ve Merhamet.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hz. Ömer'in Hicrî 18 *Remâde (Kıtlık) Yılı*'nda hırsızlık cezasını askıya alma kararı örnek olay olarak sunulur ve *"Ceza hukuku sosyal adaletten bağımsız işleyebilir mi?"* sorusu tartışılır.
+  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hz. Ömer'in Hicrî 18 *Remâde (Kıtlık) Yılı*'nda hırsızlık cezasını askıya alma kararı (Mâlik, *el-Muvatta'*, 'Akdıye', 26; İbnü'l-Kayyim, *İ'lâmü'l-Muvakkıîn*, 3/11) örnek olay olarak sunulur ve *"Ceza hukuku sosyal adaletten bağımsız işleyebilir mi?"* sorusu tartışılır.
   - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Bimâ kesebâ` (ihtiyaç dışı kasıtlı haksız kazanç), `hırz`, `şüphe kaidesi` ve Mâide 5:39'daki `tevbe ve ıslah` kavramları Cessâs ve Şâtıbî nakilleriyle incelenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Geleneksel fiziki hırsızlık ile modern çağdaki siber suçlar ve kamu fonu hortumlamaları (beyaz yakalı suçlar) arasındaki adalet dengesi `R1` ve `B1` sistem döngüleri üzerinden müzakere edilir.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler suçun önlenmesinde sosyal güvence, caydırıcı hukuk ve onarıcı rehabilitasyonun (`5:39`) rolünü özetleyen bir politika matrisi hazırlar.
@@ -509,7 +509,7 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 Mâide 5:38 âyetinin modern ceza hukuku ve İslam iktisadı açısından en çetin aporiası (çıkmazı); klasik fıkhın geliştirdiği "hırz" (koruma altındaki mekân) ve "nisap" kavramlarının fiziksel mallara odaklanmış olması sebebiyle ortaya çıkan devasa ahlaki ve hukuki asimetridir.
 
 Bu problematik şu derin adalet krizlerini doğurur:
-1. **Hz. Ömer'in Remâde İçtihadı ve Yapısal Açlık:** Hz. Ömer kıtlık yılında hırsızlık haddini askıya alarak; açlık, yoksulluk ve ekonomik çaresizlik ortamında ceza verilemeyeceğini, bilakis sorumluluğun toplumu aç bırakan kamu idaresinde olduğunu ilan etmiştir. Ancak bu içtihat modern çağda şu soruyu doğurur: Sosyal güvencesi olmayan bir kapitalist düzende bir asgari ücretlinin veya işsizin marketten bebek maması çalması durumunda had tatbik edilebilir mi? Fıkıh bu soruya "hayır" cevabını verse de, pozitif ceza yasaları bu yoksulları hapse tıkmaktadır.
+1. **Hz. Ömer'in Remâde İçtihadı ve Yapısal Açlık:** Hz. Ömer kıtlık yılında (Mâlik, *el-Muvatta'*, 'Akdıye', 26; İbn Sa'd, *et-Tabakât*, 3/310) hırsızlık haddini askıya alarak; açlık, yoksulluk ve ekonomik çaresizlik ortamında ceza verilemeyeceğini, bilakis sorumluluğun toplumu aç bırakan kamu idaresinde olduğunu ilan etmiştir. Ancak bu içtihat modern çağda şu soruyu doğurur: Sosyal güvencesi olmayan bir kapitalist düzende bir asgari ücretlinin veya işsizin marketten bebek maması çalması durumunda had tatbik edilebilir mi? Fıkıh bu soruya "hayır" cevabını verse de, pozitif ceza yasaları bu yoksulları hapse tıkmaktadır.
 2. **Beyaz Yakalı ve Dijital Hırsızlık Asimetrisi:** Geleneksel fıkıh fiziki bir kasayı kırmayı (*hırzın delinmesi*) sirkat sayıp el kesme cezası öngörürken; bugün bir banka genel müdürünün, fon yöneticisinin veya siber korsanın tek bir tıkla milyonlarca insanın mevduatını ve emeklilik fonunu hortumlaması klasik "hırz" tarifine tam uymadığı için "güveni kötüye kullanma" (*hıyanet*) veya "dolandırıcılık" (*ihtiyâl*) sayılarak had kapsamı dışında tutulabilmektedir.
 3. **Ceza Asimetrisi Açmazı:** Bir yanda fiziki hırzdan birkaç bin lira çalan yoksul fail en ağır bedensel müeyyide tehdidiyle karşılaşırken; diğer yanda yüz milyonlarca kamu kaynağını batıran beyaz yakalı suçluların birkaç yıl lüks cezaevlerinde yatıp çıkması Kur'an'ın vazettiği ilahi izzet ve hikmet (*Azîz ve Hakîm*) terazisini kökten sarsar. Quran Vision analiz motoru, kat' kavramını suç kanallarının ve finansal hortumlama imkânlarının kesilmesi, müsadere ve en ağır ta'zîr cezası olarak genişletir; ancak bu yaklaşım klasik fıkhın lafızcı sınırlarını aşmayı zorunlu kılan özgün bir metodolojik meydan okumadır.
 
@@ -520,8 +520,8 @@ Bu problematik şu derin adalet krizlerini doğurur:
 | Görüş Sahibi / Ekol | Lafzî Yorumu | Hukuki / İktisadi Neticesi | Dayandığı Temel Delil |
 | :--- | :--- | :--- | :--- |
 | **Görüş 1: Zâhirî Ekolü (İbn Hazm)** | Âyetteki emir umumidir; hırz, nisap veya açlık ayrımı yapılmaz. | Bir yumurta veya ip dahi çalanın eli kesilir; hiçbir şüphe haddi düşüremez. | Mâide 5:38'in zahiri lafzı ve lafızcı hadis okuması. |
-| **Görüş 2: Fıkıh Cumhuru (Hanefî, Mâlikî, Şâfiî, Hanbelî)** | Sirkat ancak kilitli bir mekândan (*hırz*) ve nisap miktarı (10 dirhem / çeyrek dinar) çalınırsa gerçekleşir. | Şüphe olan yerde had düşer; açlık, emanet malı çalma veya kamu malında ortaklık şüphesi haddi düşürür; ta'zîr uygulanır. | Hz. Peygamber'in *"Hadleri şüphelerle düşürünüz"* emri ve Cessâs nakli. |
-| **Görüş 3: Hz. Ömer ve Makasıdî Ekol (Şâtıbî, İbnü'l-Kayyim)** | Açlık ve genel kriz anında had tatbik edilemez; yaşama hakkı maldan önce gelir. | Suç hırsızda değil, onu aç bırakan düzendedir; beytülmâl ambarları açılır, sosyal yardım bağlanır, had askıya alınır. | Hz. Ömer'in Hicri 18 Remâde Kıtlık Yılı icraatı ve Müzeyne devesi vakası. |
+| **Görüş 2: Fıkıh Cumhuru (Hanefî, Mâlikî, Şâfiî, Hanbelî)** | Sirkat ancak kilitli bir mekândan (*hırz*) ve nisap miktarı (10 dirhem / çeyrek dinar) çalınırsa gerçekleşir. | Şüphe olan yerde had düşer; açlık, emanet malı çalma veya kamu malında ortaklık şüphesi haddi düşürür; ta'zîr uygulanır. | Hz. Peygamber'in *"Hadleri şüphelerle düşürünüz"* emri (Tirmizî, *Hudûd*, 2, nr. 1424; İbn Mâce, *Hudûd*, 5, nr. 2545; Dârimî, *Hudûd*, 4) ve Cessâs nakli. |
+| **Görüş 3: Hz. Ömer ve Makasıdî Ekol (Şâtıbî, İbnü'l-Kayyim)** | Açlık ve genel kriz anında had tatbik edilemez; yaşama hakkı maldan önce gelir. | Suç hırsızda değil, onu aç bırakan düzendedir; beytülmâl ambarları açılır, sosyal yardım bağlanır, had askıya alınır. | Hz. Ömer'in Hicri 18 Remâde Kıtlık Yılı icraatı ve Müzeyne/Hâtıb b. Ebî Beltea devesi vakası (Mâlik, *el-Muvatta'*, 'Akdıye', 26; Abdürrezzâk, *el-Musannef*, 10/242, nr. 18990). |
 | **Görüş 4: Çağdaş Ceza Hukuku ve Islah Ekolü (İbn Âşûr, Abduh)** | `Kat'` yalnızca uzuv kesimi değil; suç imkânlarını kesmek, tecrit ve Mâide 5:39 gereği rehabilitasyondur. | Beyaz yakalı ve dijital finansal suçlara en ağır ta'zîr ve müsadere uygulanır; yoksula sosyal güvenlik, ıslah olana iş temin edilir. | Mâide 5:39 (*tövbe ve ıslah*), *nekâl* (caydırıcılık) gayesi ve kamu maslahatı. |
 
 ---

@@ -307,7 +307,7 @@ peer_review:
 - **S2 (Subsequent Verses — Al-i 'Imran 3:160–164):** Declares that if God helps you, none can overcome you (`3:160`), forbids public embezzlement (`ghulul`, `3:161`), and celebrates the sending of the Messenger to purify and teach (`3:164`).
 - **S3 (Structural Locus):** Forms the leadership and constitutional pinnacle of the Uhud narrative (`3:121–179`).
 - **S4 (Intra-Surah Unity):** Directly answers the crisis of `3:152`: even after a major failure of collective discipline, the remedy is not autocracy, but forgiveness + renewed `shura` (`3:159`).
-- **S5 (Historical Context / *Asbab al-Nuzul*):** Prior to Uhud (3 AH), the Prophet favored defending Medina from within the city, but yielded to the majority opinion of the younger companions to march out. After the setback at Uhud, `3:159` was revealed so the Prophet would continue consulting them.
+- **S5 (Historical Context / *Asbab al-Nuzul*):** Prior to Uhud (3 AH), the Prophet favored defending Medina from within the city, but yielded to the majority opinion of the younger companions to march out (Aḥmad b. Ḥanbal, *al-Musnad*, 3/351, no. 14829; Ibn Hishām, *al-Sīrah*, 3/67). After the setback at Uhud, `3:159` was revealed so the Prophet would continue consulting them.
 - **S6 (Canonical Mushaf Sequence):** Complements the Meccan foundation of `Ash-Shura 42:38` (*'and their affair is consultation [`shura`] among themselves'*) with Medinan state administration.
 - **S7 (Context-Stripping Risk Audit):** Quoting `fa-idha 'azamta fa-tawakkal 'ala'llah` (*once you have resolved, rely on Allah*) to justify unilateral autocratic decisions that bypass `wa-shawirhum fi'l-amr` is a severe `S7` distortion.
 

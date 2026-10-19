@@ -1661,25 +1661,18 @@ function selectReport(idx) {
     </div>
   `;
 
-  // Tab 2 (Fulltext): Full 26-Step Markdown with clean sticky header (Title + Font Controls + Print only)
+  // Tab 2 (Fulltext): Full 26-Step Markdown with clean sticky header (Title + Print only)
   const activeBodyMd = isEn ? (r.body_en || r.body) : r.body;
   let renderedFullMd = renderMarkdown(activeBodyMd);
   if (!renderedFullMd.includes('id="z5-peer-review-card"')) {
     renderedFullMd += formatZ5YamlJs(`rapor_id: "${r.case_id}"\nsure_ayet: "${getReportSurah(r)} ${r.verse}"\ntarih: "2026-10-15"`);
   }
-  const pctNow = Math.round(currentFontScale * 100);
-  const pctDisp = isEn ? `${pctNow}%` : `%${pctNow}`;
   const fulltextToolbar = `
     <div style="position:sticky; top:-20px; z-index:15; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; padding:10px 16px; margin-bottom:16px; border-radius:10px; background:var(--bg-surface); border:1px solid var(--accent-gold-border);">
       <div style="font-size:13px; color:var(--text-secondary);">
         📖 <strong>${r.case_id} • ${getReportSurah(r)} ${r.verse}</strong> — ${isEn ? '26-Step Full Academic Text' : '26 Adımlı Tam Akademik Metin'}
       </div>
       <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
-        <div class="font-size-controls" style="border-color:var(--accent-gold);">
-          <button type="button" class="font-btn" onclick="changeFontSize(-0.1)" aria-label="${isEn ? 'Decrease Font Size' : 'Yazıyı Küçült'}">🔍 A−</button>
-          <button type="button" class="font-btn font-scale-badge font-scale-sync" onclick="resetFontSize()" aria-label="${isEn ? 'Reset to 100%' : 'Varsayılan Boyuta Sıfırla'}">${pctDisp}</button>
-          <button type="button" class="font-btn" onclick="changeFontSize(0.1)" aria-label="${isEn ? 'Increase Font Size' : 'Yazıyı Büyüt'}">A+ ➕</button>
-        </div>
         <button type="button" class="btn" style="padding:6px 12px; font-size:12px;" onclick="printCurrentReport()">
           🖨️ ${isEn ? 'Print' : 'Yazdır'}
         </button>

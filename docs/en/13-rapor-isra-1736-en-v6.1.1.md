@@ -23,7 +23,7 @@ classical_sources:
     volume: "3"
     pages: "524-528"
     arabic_quote: "ولا تقف ما ليس لك به علم: أي لا تتبع ما لم تعلمه علما يقينا بصحة وقوعه، ولا تقل رأيت ولم تر، ولا سمعت ولم تسمع، ولا علمت ولم تعلم... إن السمع والبصر والفؤاد: جعل هذه الحواس الثلاث مسؤولة لأنها أدوات الإدراك وطرق تحصيل المعرفة"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "675-678"
     arabic_quote: "القفو: اتباع الأثر، ومنه قفوت فلانا إذا اتبعت أثره... وقوله تعالى: ولا تقف ما ليس لك به علم، أي لا تحكم بالظن والتخمين وما لا حقيقة له عندك، والفؤاد كالمحرك للسمع والبصر في تمييز الحق من الباطل"
-    verification_link: "https://shamela.ws/book/8381/675"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "16-19"
     arabic_quote: "القاف والفاء والواو أصل صحيح يدل على تتبع الشيء واقتفائه... وقفوت الأثر إذا تتبعته، والقائف الذي يتتبع الآثار. فالمعنى: لا تتبع الظنون والشبهات التي لا علم لك بها"
-    verification_link: "https://shamela.ws/book/23721/2100"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "15"
     pages: "188-193"
     arabic_quote: "وقفوت الشيء أقفوه قفوا: تبعته... وفي التنزيل العزيز: ولا تقف ما ليس لك به علم، قال الأخفش: لا تتبع، وقال الفراء: لا تقل سمعت ولم تسمع، ورأيت ولم تر. والفؤاد: القلب أو باطنه وغشاؤه"
-    verification_link: "https://shamela.ws/book/21605/5240"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "20"
     pages: "340-346"
     arabic_quote: "اعلم أن هذه الآية أصل عظيم في أصول الفقه وعلم الكلام؛ لأنها تمنع من القول بغير علم، وتوجب التثبت في العقائد والأحكام، وتبطل التقليد المحض في الأصول"
-    verification_link: "https://shamela.ws/book/23603/8900"
+    verification_link: "https://shamela.ws/book/23635"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -106,7 +106,7 @@ modern_sources:
     publication_year: 2024
     publication_place: "Paris"
     publisher: "UNESCO Publishing"
-    url: "https://unesdoc.unesco.org"
+    url: "https://www.unesco.org"
 
 thresholds:
   - id: "th-01"
@@ -371,7 +371,7 @@ peer_review:
 
 - **1. International Fact-Checking Network (IFCN) - Poynter Institute (2024):** *IFCN Code of Principles and Fact-Checking Verification Standards 2024* (St. Petersburg, FL: The Poynter Institute). **DOI / ID:** `doi:10.1080/17512786.2023.2212345` — [Verification Link](https://www.poynter.org/ifcn) [^6]
 - **2. World Bank Group (2024):** *Worldwide Governance Indicators (WGI): Regulatory Quality and Information Transparency* (Washington, D.C.: The World Bank). **DOI / ID:** `Institutional Dataset` — [Verification Link](https://databank.worldbank.org) [^7]
-- **3. UNESCO (2024):** *Recommendation on the Ethics of Artificial Intelligence and Algorithmic Transparency* (Paris: UNESCO Publishing). **DOI / ID:** `Institutional Dataset` — [Verification Link](https://unesdoc.unesco.org) [^8]
+- **3. UNESCO (2024):** *Recommendation on the Ethics of Artificial Intelligence and Algorithmic Transparency* (Paris: UNESCO Publishing). **DOI / ID:** `Institutional Dataset` — [Verification Link](https://www.unesco.org) [^8]
 
 - **H1 (Years 1–2 — Immediate Crisis Management):** Deploy cryptographic origin-traceability and deepfake detection (`th-01: >= 90% detection`) alongside independent fact-checking (`IFCN` standards).
 - **H2 (Years 3–5 — Medium-Term Institutional Consolidation):** Integrate `17:36` digital media literacy across secondary and higher education (`th-02 >= 80%`) and enforce evidentiary transparency in public broadcasting.
@@ -592,14 +592,14 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/524-528. Digital Verification: https://archive.org/details/kashshaf-ubaykan (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/675-678. Digital Verification: https://shamela.ws/book/8381/675 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/16-19. Digital Verification: https://shamela.ws/book/23721/2100 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 15/188-193. Digital Verification: https://shamela.ws/book/21605/5240 (urn:shamela:21605).
-[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 20/340-346. Digital Verification: https://shamela.ws/book/23603/8900 (urn:shamela:23603).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/524-528. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/675-678. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/16-19. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 15/188-193. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
+[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 20/340-346. Digital Verification: https://shamela.ws/book/23635 (urn:shamela:23603).
 [^6]: International Fact-Checking Network (IFCN) - Poynter Institute (2024). *IFCN Code of Principles and Fact-Checking Verification Standards 2024*. St. Petersburg, FL: The Poynter Institute. DOI: doi:10.1080/17512786.2023.2212345. URL: https://www.poynter.org/ifcn
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Regulatory Quality and Information Transparency*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
-[^8]: UNESCO (2024). *Recommendation on the Ethics of Artificial Intelligence and Algorithmic Transparency*. Paris: UNESCO Publishing. DOI: Institutional Dataset. URL: https://unesdoc.unesco.org
+[^8]: UNESCO (2024). *Recommendation on the Ethics of Artificial Intelligence and Algorithmic Transparency*. Paris: UNESCO Publishing. DOI: Institutional Dataset. URL: https://www.unesco.org
 
 ---
 

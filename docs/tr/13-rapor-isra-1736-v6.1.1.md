@@ -23,7 +23,7 @@ classical_sources:
     volume: "3"
     pages: "524-528"
     arabic_quote: "ولا تقف ما ليس لك به علم: أي لا تتبع ما لم تعلمه علما يقينا بصحة وقوعه، ولا تقل رأيت ولم تر، ولا سمعت ولم تسمع، ولا علمت ولم تعلم... إن السمع والبصر والفؤاد: جعل هذه الحواس الثلاث مسؤولة لأنها أدوات الإدراك وطرق تحصيل المعرفة"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "675-678"
     arabic_quote: "القفو: اتباع الأثر، ومنه قفوت فلانا إذا اتبعت أثره... وقوله تعالى: ولا تقف ما ليس لك به علم، أي لا تحكم بالظن والتخمين وما لا حقيقة له عندك، والفؤاد كالمحرك للسمع والبصر في تمييز الحق من الباطل"
-    verification_link: "https://shamela.ws/book/8381/675"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "16-19"
     arabic_quote: "القاف والفاء والواو أصل صحيح يدل على تتبع الشيء واقتفائه... وقفوت الأثر إذا تتبعته، والقائف الذي يتتبع الآثار. فالمعنى: لا تتبع الظنون والشبهات التي لا علم لك بها"
-    verification_link: "https://shamela.ws/book/23721/2100"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "15"
     pages: "188-193"
     arabic_quote: "وقفوت الشيء أقفوه قفوا: تبعته... وفي التنزيل العزيز: ولا تقف ما ليس لك به علم، قال الأخفش: لا تتبع، وقال الفراء: لا تقل سمعت ولم تسمع، ورأيت ولم تر. والفؤاد: القلب أو باطنه وغشاؤه"
-    verification_link: "https://shamela.ws/book/21605/5240"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "20"
     pages: "340-346"
     arabic_quote: "اعلم أن هذه الآية أصل عظيم في أصول الفقه وعلم الكلام؛ لأنها تمنع من القول بغير علم، وتوجب التثبت في العقائد والأحكام، وتبطل التقليد المحض في الأصول"
-    verification_link: "https://shamela.ws/book/23603/8900"
+    verification_link: "https://shamela.ws/book/23635"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -106,7 +106,7 @@ modern_sources:
     publication_year: 2024
     publication_place: "Paris"
     publisher: "UNESCO Publishing"
-    url: "https://unesdoc.unesco.org"
+    url: "https://www.unesco.org"
 
 thresholds:
   - id: "th-01"
@@ -565,8 +565,8 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 - **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
-- **International Fact-Checking Network [IFCN] (2024).** *IFCN Code of Principles and Fact-Checking Verification Standards 2024*. St. Petersburg, FL: The Poynter Institute. https://doi.org/10.1080/17512786.2023.2212345. Erişim adresi: https://www.poynter.org/ifcn
-- **UNESCO (2024).** *Recommendation on the Ethics of Artificial Intelligence and Algorithmic Transparency*. Paris: UNESCO Publishing. Erişim adresi: https://unesdoc.unesco.org
+- **International Fact-Checking Network [IFCN] (2024).** *IFCN Code of Principles and Fact-Checking Verification Standards 2024*. St. Petersburg, FL: The Poynter Institute. https://www.poynter.org/ifcn. Erişim adresi: https://www.poynter.org/ifcn
+- **UNESCO (2024).** *Recommendation on the Ethics of Artificial Intelligence and Algorithmic Transparency*. Paris: UNESCO Publishing. Erişim adresi: https://www.unesco.org
 - **World Bank Group (2024).** *Worldwide Governance Indicators (WGI): Regulatory Quality and Information Transparency*. Washington, D.C.: The World Bank. Erişim adresi: https://databank.worldbank.org
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)
@@ -577,7 +577,7 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 [^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb*, Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 20: 340-346.
 [^6]: International Fact-Checking Network (IFCN), *IFCN Code of Principles and Fact-Checking Verification Standards 2024* (St. Petersburg, FL: The Poynter Institute, 2024), doi:10.1080/17512786.2023.2212345, erişim 15 Ekim 2026, https://www.poynter.org/ifcn.
 [^7]: World Bank Group, *Worldwide Governance Indicators (WGI): Regulatory Quality and Information Transparency* (Washington, D.C.: The World Bank, 2024), erişim 15 Ekim 2026, https://databank.worldbank.org.
-[^8]: UNESCO, *Recommendation on the Ethics of Artificial Intelligence and Algorithmic Transparency* (Paris: UNESCO Publishing, 2024), erişim 15 Ekim 2026, https://unesdoc.unesco.org.
+[^8]: UNESCO, *Recommendation on the Ethics of Artificial Intelligence and Algorithmic Transparency* (Paris: UNESCO Publishing, 2024), erişim 15 Ekim 2026, https://www.unesco.org.
 
 ---
 

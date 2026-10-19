@@ -23,7 +23,7 @@ classical_sources:
     volume: "3"
     pages: "466-470"
     arabic_quote: "إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي: جمع الله في هذه الآية مكارم الأخلاق ومصالح الشريعة كلها؛ فالعدل هو التسوية والإنصاف الواجب، والإحسان هو التفضل فوق الواجب، والبغي هو الاستطالة على الناس والظلم"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "235-238"
     arabic_quote: "العدل: المساواة في المكافأة إن خيرا فخير وإن شرا فشر، والإحسان يقابله الفضل وهو إعطاء أكثر مما عليه وأخذ أقل مما له... والبغي التجاوز عن الحد المعتدل والاستعلاء بغير حق"
-    verification_link: "https://shamela.ws/book/8381/235"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "4"
     pages: "246-248"
     arabic_quote: "العين والدال واللام أصل صحيح يدل على استواء الشيء واستقامته... والحاء والسين والنون أصل يدل على الجمال والفضل... والباء والغين والياء أصل يدل على مجاوزة الحد والفساد"
-    verification_link: "https://shamela.ws/book/23721/1646"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430-436"
     arabic_quote: "العدل ما قام في النفوس أنه مستقيم وهو ضد الجور... وقال ابن مسعود: إن أجمع آية في القرآن لخير وشر قوله تعالى: إن الله يأمر بالعدل والإحسان"
-    verification_link: "https://shamela.ws/book/21605/4130"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "14"
     pages: "338-346"
     arabic_quote: "عن عبد الله بن مسعود قال: ما في القرآن آية أجمع لحلال وحرام وأمر ونهي من هذه الآية: إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي"
-    verification_link: "https://shamela.ws/book/7798/11200"
+    verification_link: "https://shamela.ws/book/7798"
     doi_or_urn: "urn:shamela:7798"
 
 modern_sources:
@@ -598,11 +598,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/466-470. Digital Verification: https://archive.org/details/kashshaf-ubaykan (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/235-238. Digital Verification: https://shamela.ws/book/8381/235 (urn:shamela:8381).
-[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 4/246-248. Digital Verification: https://shamela.ws/book/23721/1646 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 11/430-436. Digital Verification: https://shamela.ws/book/21605/4130 (urn:shamela:21605).
-[^5]: Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hicr, 2001), 14/338-346. Digital Verification: https://shamela.ws/book/7798/11200 (urn:shamela:7798).
+[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/466-470. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/235-238. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
+[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 4/246-248. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 11/430-436. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
+[^5]: Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hicr, 2001), 14/338-346. Digital Verification: https://shamela.ws/book/7798 (urn:shamela:7798).
 [^6]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025: Equal Treatment, Civil Justice and Absence of Corruption*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2025.03. URL: https://worldjusticeproject.org
 [^7]: Organisation for Economic Co-operation and Development (OECD) (2025). *Society at a Glance 2025: Social Cohesion, Philanthropy and Welfare Indicators*. Paris: OECD Publishing. DOI: doi:10.1787/soc_glance-2025-en. URL: https://www.oecd.org
 [^8]: United Nations Development Programme (UNDP) (2025). *Human Development Report 2025: Equity, Agency and Institutional Trust*. New York: UNDP. DOI: doi:10.18356/9789210031028. URL: https://hdr.undp.org

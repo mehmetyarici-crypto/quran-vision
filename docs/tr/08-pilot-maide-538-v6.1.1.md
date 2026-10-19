@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "228-232"
     arabic_quote: "والسارق والسارقة فاقطعوا أيديهما جزاء بما كسبا نكالا من الله: أي عقوبة رادعة تمنع الجاني وغيره من معاودة الجريمة... والله عزيز حكيم: غالب في انتقامه من الجناة، حكيم في إيجاب قطع اليد لحفظ الأموال"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "3"
     pages: "154-156"
     arabic_quote: "السين والراء والقاف أصل يدل على أخذ شيء في خفاء واستراب... والسرقة أخذ المال خفية من حرز مثله. والقطع فصل شيء عن شيء"
-    verification_link: "https://shamela.ws/book/23721/1470"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "10"
     pages: "155-158"
     arabic_quote: "السرقة: أن تأتي حرزا فتنقبه وتأخذ مالا خفية... والنكال: العقوبة التي تنكل غير الجاني عن مثل فعله"
-    verification_link: "https://shamela.ws/book/21605/3810"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "85-92"
     arabic_quote: "الأصل في قطع السارق أن يكون المال مسروقا من حرز مثله، وأن يبلغ النصاب، وألا تكون فيه شبهة؛ لقول النبي صلى الله عليه وسلم ادرءوا الحدود بالشبهات"
-    verification_link: "https://shamela.ws/book/21571/1680"
+    verification_link: "https://shamela.ws/book/23579"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "312-316"
     arabic_quote: "حفظ الأموال من الضروريات، ولكن حفظ النفوس مقدم عليه عند التعارض، ولا يقام الحد مع قيام الضرورة والمجاعة؛ لأن درء المفاسد أولى من جلب المصالح"
-    verification_link: "https://archive.org/details/mowafaqat-shatibi"
+    verification_link: "https://shamela.ws/book/11435"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -558,7 +558,7 @@ Bu problematik şu derin adalet krizlerini doğurur:
 - **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
-- **Transparency International (2024).** *Corruption Perceptions Index (CPI) 2024: Rule of Law & Public Integrity*. Berlin: Transparency International. https://doi.org/10.58220/cpi.2024.01. Erişim adresi: https://www.transparency.org
+- **Transparency International (2024).** *Corruption Perceptions Index (CPI) 2024: Rule of Law & Public Integrity*. Berlin: Transparency International. https://www.transparency.org/en/cpi/2024. Erişim adresi: https://www.transparency.org
 - **World Bank Group (2024).** *Worldwide Governance Indicators (WGI): Control of Corruption & Rule of Law*. Washington, D.C.: The World Bank. Erişim adresi: https://datacatalog.worldbank.org
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)

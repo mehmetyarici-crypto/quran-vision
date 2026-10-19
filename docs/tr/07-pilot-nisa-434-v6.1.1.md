@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "68-72"
     arabic_quote: "قوامون على النساء: قيام الولاة على الرعايا... وبما أنفقوا: من المهور والنفقات، فدل على أن التفضيل والإنفاق هما علة القيام... فإن أطعنكم فلا تبغوا عليهن سبيلا: أي لا تطلبوا طريقا إلى أذاهن وتوبيخهن بعد الطاعة"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "5"
     pages: "43-45"
     arabic_quote: "القاف والواو والميم أصلان صحيحان: أحدهما يدل على جماعة ناس، والآخر على انتصاب أو عزم... وقام بالأمر: كفله وحفظه وتولى كفايته"
-    verification_link: "https://shamela.ws/book/23721/2410"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "12"
     pages: "496-501"
     arabic_quote: "والقوّام: هو القائم بالأمر المدبّر له... والنشوز: العصيان والارتفاع على الزوج ومخالفة ما أوجبه الله من حقوق الزوجية"
-    verification_link: "https://shamela.ws/book/21605/4510"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "3"
     pages: "148-152"
     arabic_quote: "الضرب المأمور به في الآية ضرب غير مبرح بإجماع الفقهاء، قال عطاء: ضرب بالسواك ونحوه مما لا يكسر عظما ولا يترك أثرا، ولا يجوز الضرب على الوجه"
-    verification_link: "https://shamela.ws/book/21571/1480"
+    verification_link: "https://shamela.ws/book/23579"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "210-215"
     arabic_quote: "مقاصد الشريعة مبنية على حفظ الضروريات الخمس ومنها حفظ النسل والنفس والعرض، وكل وسيلة تفضي إلى إهدار الكرامة والعدوان فهي باطلة شرعا"
-    verification_link: "https://archive.org/details/mowafaqat-shatibi"
+    verification_link: "https://shamela.ws/book/11435"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -576,7 +576,7 @@ Bu problematik şu çözülmesi güç düğümleri barındırır:
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **United Nations Development Programme [UNDP] (2024).** *Gender Inequality Index (GII) & Human Development Report 2024*. New York: UNDP. Erişim adresi: https://hdr.undp.org
 - **United Nations Entity for Gender Equality and the Empowerment of Women [UN Women] (2024).** *Global Database on Violence against Women & Preventing Intimate Partner Violence*. New York: UN Women. https://doi.org/10.18356/9789210058568. Erişim adresi: https://www.unwomen.org
-- **World Health Organization [WHO] (2024).** *Violence Against Women Prevalence Estimates 2024*. Geneva: World Health Organization. https://doi.org/10.2471/BLT.21.287414. Erişim adresi: https://www.who.int
+- **World Health Organization [WHO] (2024).** *Violence Against Women Prevalence Estimates 2024*. Geneva: World Health Organization. https://www.who.int. Erişim adresi: https://www.who.int
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)
 [^1]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, thk. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5: 43-45 ("q-v-m" maddesi) ve 3: 398 ("d-r-b" maddesi).

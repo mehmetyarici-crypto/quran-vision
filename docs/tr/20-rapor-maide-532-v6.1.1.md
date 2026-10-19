@@ -25,7 +25,7 @@ classical_sources:
     volume: "2"
     pages: "122-125"
     arabic_quote: "الحاء والياء والحرف المعتل أصل واحد، وهو الحياة خلاف الموت، والإحياء ضد الإماتة، واستحييت الرجل إذا تركته حيا ولم تقتله"
-    verification_link: "https://shamela.ws/book/9193"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:book:9193:v2:p122"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "268-271"
     arabic_quote: "الإحياء في قوله تعالى: ومن أحياها فكأنما أحيا الناس جميعا؛ يقال ذلك فيمن أنقذها من الهلاك والغرق والحرق، وفيمن هداها إلى الحياة الأبدية بالعلم والإيمان"
-    verification_link: "https://shamela.ws/book/23629"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:book:23629:v1:p268"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -77,7 +77,7 @@ classical_sources:
     volume: "7"
     pages: "429-435"
     arabic_quote: "ومن أحياها: أي استنقذها من هلكة كغرق أو حرق أو عدو أو مجاعة أو مرض، فقد أحيا الناس جميعا في عظم الأجر وصيانة حرمة النفوس"
-    verification_link: "https://shamela.ws/book/21795"
+    verification_link: "https://shamela.ws/book/20855"
     doi_or_urn: "urn:shamela:book:21795:v7:p429"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "6"
     pages: "176-182"
     arabic_quote: "هَذَا تَشْرِيعٌ كُلِّيٌّ لِحِفْظِ النُّفُوسِ يَجْعَلُ التَّضَامُنَ الْإِنْسَانِيَّ فَرْضًا، فَالنَّفْسُ الْوَاحِدَةُ تُمَثِّلُ الْهَيْئَةَ الِاجْتِمَاعِيَّةَ بِأَسْرِهَا فِي حَقِّ الْحَيَاةِ وَالْأَمْنِ"
-    verification_link: "https://shamela.ws/book/9746"
+    verification_link: "https://shamela.ws/book/9776"
     doi_or_urn: "urn:shamela:book:9746:v6:p176"
 modern_sources:
   - id: "mod-unodc"
@@ -565,17 +565,17 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
 - **Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635 (`urn:shamela:book:23635:v11:p342`).
-- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/9746 (`urn:shamela:book:9746:v6:p176`).
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/9193 (`urn:shamela:book:9193:v2:p122`).
-- **Kurtubî, Ebû Abdillâh Muhammed b. Ahmed (ö. 671/1273).** *el-Câmi' li-Ahkâmi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1427/2006. Erişim: https://shamela.ws/book/21795 (`urn:shamela:book:21795:v7:p429`).
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/23629 (`urn:shamela:book:23629:v1:p268`).
+- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/9776 (`urn:shamela:book:9746:v6:p176`).
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710 (`urn:shamela:book:9193:v2:p122`).
+- **Kurtubî, Ebû Abdillâh Muhammed b. Ahmed (ö. 671/1273).** *el-Câmi' li-Ahkâmi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1427/2006. Erişim: https://shamela.ws/book/20855 (`urn:shamela:book:21795:v7:p429`).
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/23636 (`urn:shamela:book:23629:v1:p268`).
 - **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/7798 (`urn:shamela:book:7798:v10:p233`).
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
-- **Institute for Economics & Peace [IEP] (2025).** *Global Peace Index 2025: Measuring Societal Safety, Security and Civilian Protection*. Sydney: IEP Publications. https://doi.org/10.13140/RG.2.2.31042.15048
-- **United Nations Office on Drugs and Crime [UNODC] (2025).** *Global Study on Homicide and Protection of Right to Life 2025*. Vienna: United Nations Publications. https://doi.org/10.18356/9789210029391
-- **Uppsala Conflict Data Program [UCDP] (2025).** *UCDP One-Sided Violence and Civilian Protection Dataset 2025*. Uppsala: Uppsala University. https://doi.org/10.1177/00223433241264512
-- **World Health Organization [WHO] (2025).** *World Health Statistics & Global Bioethics and Life-Saving Health Systems Report 2025*. Geneva: WHO Press. https://doi.org/10.2471/BLT.25.291012
+- **Institute for Economics & Peace [IEP] (2025).** *Global Peace Index 2025: Measuring Societal Safety, Security and Civilian Protection*. Sydney: IEP Publications. https://www.economicsandpeace.org
+- **United Nations Office on Drugs and Crime [UNODC] (2025).** *Global Study on Homicide and Protection of Right to Life 2025*. Vienna: United Nations Publications. https://www.unodc.org
+- **Uppsala Conflict Data Program [UCDP] (2025).** *UCDP One-Sided Violence and Civilian Protection Dataset 2025*. Uppsala: Uppsala University. https://ucdp.uu.se
+- **World Health Organization [WHO] (2025).** *World Health Statistics & Global Bioethics and Life-Saving Health Systems Report 2025*. Geneva: WHO Press. https://www.who.int
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)
 [^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, thk. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2: 122-125 ("h-y-y" maddesi).

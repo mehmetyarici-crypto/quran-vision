@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "98-102"
     arabic_quote: "إن الله يأمركم أن تؤدوا الأمانات إلى أهلها: يعم كل أمانة من حقوق الله وحقوق العباد... وإذا حكمتم بين الناس أن تحكموا بالعدل: لم يقل بين المسلمين، بل قال بين الناس، ليعم المسلم والذمي والكافر، فالعدل واجب للجميع"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "90-93"
     arabic_quote: "الأمانة: اسم لما يؤمن عليه الإنسان من مال أو سر أو ولاية وحكم... والعدالة والمعدلة: لفظ يقتضي معنى المساواة، واستعماله في معاملة الناس بإعطاء كل ذي حق حقه"
-    verification_link: "https://shamela.ws/book/8381/85"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "133-135"
     arabic_quote: "الهمزة والميم والنون أصلان متقاربان: أحدهما الأمانة التي هي ضد الخيانة ومعناها سكون القلب، والآخر التصديق... والأهل: أهل الرجل وأهل الأمر مستحقوه"
-    verification_link: "https://shamela.ws/book/23721/120"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430-435"
     arabic_quote: "والعدل: ما قام في النفوس أنه مستقيم، وهو ضد الجور، وفي أسماء الله تعالى: العدل هو الذي لا يميل به الهوى فيجور في الحكم"
-    verification_link: "https://shamela.ws/book/21605/4120"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-ibn-teymiyye"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "1"
     pages: "11-18"
     arabic_quote: "قال العلماء: نزلت هذه الآية في ولاة الأمور؛ عليهم أن تؤدوا الأمانات إلى أهلها بتولية الأصلح والأكفأ، وإذا حكموا أن يحكموا بالعدل، وهذان هما عمادا السياسة العادلة"
-    verification_link: "https://shamela.ws/book/7556/10"
+    verification_link: "https://shamela.ws/book/31237"
     doi_or_urn: "urn:shamela:7556"
 
 modern_sources:
@@ -564,7 +564,7 @@ Bu gerilim şu çetin soruları doğurur:
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **World Bank Group (2024).** *Worldwide Governance Indicators (WGI): Bureaucratic Quality and Rule of Law*. Washington, D.C.: The World Bank. Erişim adresi: https://datacatalog.worldbank.org
-- **World Justice Project [WJP] (2024).** *Rule of Law Index 2024: Civil and Criminal Justice*. Washington, D.C.: World Justice Project. https://doi.org/10.34648/wjp.2024.01. Erişim adresi: https://worldjusticeproject.org
+- **World Justice Project [WJP] (2024).** *Rule of Law Index 2024: Civil and Criminal Justice*. Washington, D.C.: World Justice Project. https://worldjusticeproject.org. Erişim adresi: https://worldjusticeproject.org
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)
 [^1]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, thk. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1: 133-135 ("'-m-n" ve "'-h-l" maddeleri).

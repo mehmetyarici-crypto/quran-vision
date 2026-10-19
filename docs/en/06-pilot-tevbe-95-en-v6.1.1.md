@@ -23,7 +23,7 @@ classical_sources:
     volume: "3"
     pages: "10-15"
     arabic_quote: "فإذا انسلخ الأشهر الحرم: يعني أشهر التسيير الأربعة... والمشركين: العاهدين الناكثين خاصة دون غيرهم، بدليل قوله تعالى: إلا الذين عاهدتم من المشركين ثم لم ينقصوكم شيئا"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "3"
     pages: "97-98"
     arabic_quote: "السين واللام والخاء أصل يدل على كشط الشيء عن الشيء، وانسلاخ الشهر: خروجه كله حتى لا يبقى منه شيء"
-    verification_link: "https://shamela.ws/book/23721/1410"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "182-184"
     arabic_quote: "والمرصد: موضع الرصد والترقب، وقعدت له كل مرصد أي كل طريق يمر به ليؤخذ"
-    verification_link: "https://shamela.ws/book/21605/1120"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "268-272"
     arabic_quote: "هذه الآية متصلة بما قبلها في أهل العهد الناكثين، وليست بناسخة لقوله تعالى لا ينهاكم الله عن الذين لم يقاتلوكم"
-    verification_link: "https://shamela.ws/book/21571/1890"
+    verification_link: "https://shamela.ws/book/23579"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "3"
     pages: "340-345"
     arabic_quote: "النسخ في لسان المتقدمين أعم منه في لسان المتأخرين، وأكثر ما يطلقونه على تخصيص العام أو تقييد المطلق"
-    verification_link: "https://archive.org/details/mowafaqat-shatibi"
+    verification_link: "https://shamela.ws/book/11435"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -601,11 +601,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/10-15. Digital Verification: https://archive.org/details/kashshaf-ubaykan (urn:shamela:23617).
-[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/97-98. Digital Verification: https://shamela.ws/book/23721/1410 (urn:shamela:23721).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 3/182-184. Digital Verification: https://shamela.ws/book/21605/1120 (urn:shamela:21605).
-[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 4/268-272. Digital Verification: https://shamela.ws/book/21571/1890 (urn:shamela:21571).
-[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 3/340-345. Digital Verification: https://archive.org/details/mowafaqat-shatibi (urn:shamela:21731).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/10-15. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
+[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/97-98. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 3/182-184. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
+[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 4/268-272. Digital Verification: https://shamela.ws/book/23579 (urn:shamela:21571).
+[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 3/340-345. Digital Verification: https://shamela.ws/book/11435 (urn:shamela:21731).
 [^6]: Uppsala University (Uppsala Conflict Data Program - UCDP) (2024). *UCDP Georeferenced Event Dataset (GED) and Armed Conflict Database 2024*. Uppsala: Department of Peace and Conflict Research, Uppsala University. DOI: doi:10.1177/0022343320934986. URL: https://ucdp.uu.se
 [^7]: Institute for Economics and Peace (IEP) (2024). *Global Peace Index 2024: Measuring Peace in a Complex World*. Sydney: Institute for Economics and Peace. DOI: doi:10.13140/RG.2.2.14668.01928. URL: https://www.economicsandpeace.org
 [^8]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Rule of Law and Political Stability*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org

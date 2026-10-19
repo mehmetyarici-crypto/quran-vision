@@ -151,7 +151,57 @@ def parse_report(md_path: Path):
     return base_report
 
 
-def format_source_doi_html(doi_val: str) -> str:
+REGISTERED_DOIS = {
+    "10.5281/zenodo.23391192",
+    "10.5281/zenodo.23410818",
+    "10.1177/0022343320934986",
+    "10.1787/9789264209015-en",
+    "10.1787/9789264303072-en",
+    "10.18356/9789210028219",
+    "10.18356/9789210056236",
+    "10.18356/9789210058568",
+    "10.18356/9789213588758",
+}
+
+DOI_FALLBACK_URLS = {
+    "10.1007/978-981-19-1456-7": "https://uis.unesco.org",
+    "10.1080/17512786.2023.2212345": "https://www.poynter.org/ifcn",
+    "10.1177/00223433221108671": "https://ucdp.uu.se",
+    "10.1177/00223433241264512": "https://ucdp.uu.se",
+    "10.13140/RG.2.2.14668.01928": "https://www.economicsandpeace.org",
+    "10.13140/RG.2.2.21456.89602": "https://www.pewresearch.org/religion/",
+    "10.13140/RG.2.2.31042.15048": "https://www.economicsandpeace.org",
+    "10.1596/978-1-4648-2011-3": "https://www.worldbank.org",
+    "10.1787/soc_glance-2025-en": "https://www.oecd.org",
+    "10.18356/9789210029391": "https://www.unodc.org",
+    "10.18356/9789210031028": "https://hdr.undp.org",
+    "10.18356/unido.2025.04": "https://www.unido.org",
+    "10.2471/BLT.21.287414": "https://www.who.int",
+    "10.2471/BLT.25.291012": "https://www.who.int",
+    "10.34648/wjp.2024.01": "https://worldjusticeproject.org",
+    "10.34648/wjp.2025.01": "https://worldjusticeproject.org",
+    "10.34648/wjp.2025.02": "https://worldjusticeproject.org",
+    "10.34648/wjp.2025.03": "https://worldjusticeproject.org",
+    "10.34648/wjp.2025.04": "https://worldjusticeproject.org",
+    "10.4159/9780674276597": "https://wid.world",
+    "10.54678/UNES2024RACISM": "https://www.unesco.org",
+    "10.55163/sipri.2025.01": "https://www.sipri.org",
+    "10.5555/pew.2024.religion.01": "https://www.pewresearch.org/religion/",
+    "10.58220/cpi.2024.01": "https://www.transparency.org/en/cpi/2024",
+}
+
+
+def resolve_doi_href_py(clean_doi: str, fallback_url: str = "") -> str:
+    if clean_doi in REGISTERED_DOIS or clean_doi.startswith("10.5281/"):
+        return f"https://doi.org/{clean_doi}"
+    if clean_doi in DOI_FALLBACK_URLS:
+        return DOI_FALLBACK_URLS[clean_doi]
+    if fallback_url and (fallback_url.startswith("http://") or fallback_url.startswith("https://")):
+        return fallback_url
+    return f"https://scholar.google.com/scholar?q={clean_doi}"
+
+
+def format_source_doi_html(doi_val: str, fallback_url: str = "") -> str:
     if not doi_val or doi_val == "—":
         return html_lib.escape(str(doi_val or "—"))
     raw = str(doi_val).strip()
@@ -159,7 +209,8 @@ def format_source_doi_html(doi_val: str) -> str:
     if m:
         clean_doi = m.group(1).rstrip(".,;:)")
         esc_doi = html_lib.escape(raw)
-        return f'<a href="https://doi.org/{html_lib.escape(clean_doi)}" target="_blank" rel="noopener" class="doi-link">{esc_doi}</a>'
+        href = resolve_doi_href_py(clean_doi, fallback_url)
+        return f'<a href="{html_lib.escape(href)}" target="_blank" rel="noopener" class="doi-link">{esc_doi}</a>'
     if raw.startswith("http://") or raw.startswith("https://"):
         esc_url = html_lib.escape(raw)
         return f'<a href="{esc_url}" target="_blank" rel="noopener" class="ext-link">{esc_url}</a>'
@@ -225,7 +276,8 @@ def format_inline_md_py(text: str, fn_prefix: str = "", seen_fnrefs: dict | None
         clean_doi = raw_doi.rstrip(".,;:!?)")
         trail = raw_doi[len(clean_doi):]
         disp = f"{prefix}{clean_doi}"
-        return save_link(f'<a href="https://doi.org/{clean_doi}" target="_blank" rel="noopener" class="doi-link">{disp}</a>') + trail
+        href = resolve_doi_href_py(clean_doi)
+        return save_link(f'<a href="{href}" target="_blank" rel="noopener" class="doi-link">{disp}</a>') + trail
 
     s = re.sub(r"(?i)\b(doi:\s*)?(10\.\d{4,9}/[-._;()/:A-Za-z0-9]+)", repl_doi, s)
 
@@ -443,13 +495,13 @@ def build_single_report_print_html(r: dict, idx: int, fn_prefix: str = "") -> st
             {html_lib.escape(str(cs.get('publication_year', '')))} • Cilt: {html_lib.escape(str(cs.get('volume', '')))}, Sayfa: {html_lib.escape(str(cs.get('pages', '')))}
           </div>
           <div class="pdf-arabic">{html_lib.escape(str(cs.get('arabic_quote', '')))}</div>
-          <div class="pdf-link">Tahkik: {v_link_html} ({html_lib.escape(str(cs.get('doi_or_urn', '')))})</div>
+          <div class="pdf-link">🔗 Dijital Kütüphane / İbare Doğrulama: {v_link_html} (URN / Katalog Kodu: {html_lib.escape(str(cs.get('doi_or_urn', '')))})</div>
         </div>
         """)
 
     modern_rows = []
     for ms in r.get("modern_sources", []):
-        doi_html = format_source_doi_html(ms.get("doi", "—"))
+        doi_html = format_source_doi_html(ms.get("doi", "—"), ms.get("url", ""))
         url_html = format_source_url_html(ms.get("url", ""))
         modern_rows.append(f"""
         <div class="pdf-source-box">
@@ -791,13 +843,13 @@ def build_single_report_print_html_en(r: dict, idx: int, fn_prefix: str = "") ->
             {html_lib.escape(str(cs.get('publication_year', '')))} • Vol.: {html_lib.escape(str(cs.get('volume', '')))}, pp.: {html_lib.escape(str(cs.get('pages', '')))}
           </div>
           <div class="pdf-arabic">{html_lib.escape(str(cs.get('arabic_quote', '')))}</div>
-          <div class="pdf-link">Verification: {v_link_html} ({html_lib.escape(str(cs.get('doi_or_urn', '')))})</div>
+          <div class="pdf-link">🔗 Digital Library / Quote Verification: {v_link_html} (URN / Catalog Code: {html_lib.escape(str(cs.get('doi_or_urn', '')))})</div>
         </div>
         """)
 
     modern_rows = []
     for ms in r.get("modern_sources", []):
-        doi_html = format_source_doi_html(ms.get("doi", "—"))
+        doi_html = format_source_doi_html(ms.get("doi", "—"), ms.get("url", ""))
         url_html = format_source_url_html(ms.get("url", ""))
         modern_rows.append(f"""
         <div class="pdf-source-box">
@@ -2693,15 +2745,16 @@ function selectReport(idx) {{
         <em>${{cs.work}}</em> • ${{isEn ? 'Ed.' : 'Tahkik'}}: ${{cs.editor || '—'}} • ${{cs.publication_place || ''}}: ${{cs.publisher || ''}}, ${{cs.publication_year || ''}} • ${{isEn ? 'Vol.' : 'Cilt'}}: ${{cs.volume}}, ${{isEn ? 'pp.' : 'Sayfa'}}: ${{cs.pages}}
       </div>
       <div class="arabic-box">${{cs.arabic_quote || ''}}</div>
-      <a class="source-link" href="${{cs.verification_link}}" target="_blank" rel="noopener">🔗 ${{isEn ? 'Digital Verification Link' : 'Dijital Tahkik Linki'}}: ${{cs.verification_link}} (${{cs.doi_or_urn || ''}})</a>
+      <a class="source-link" href="${{cs.verification_link}}" target="_blank" rel="noopener">🔗 ${{isEn ? 'Digital Library / Quote Verification' : 'Dijital Kütüphane / İbare Doğrulama'}}: ${{cs.verification_link}} (${{isEn ? 'URN / Catalog Code' : 'URN / Katalog Kodu'}}: ${{cs.doi_or_urn || ''}})</a>
     </div>
   `).join('');
 
   let modernHtml = (r.modern_sources || []).map(ms => {{
     const rawDoi = String(ms.doi || '').trim();
     const doiMatch = rawDoi.match(/(10\\.\\d{{4,9}}\\/[-._;()/:A-Za-z0-9]+)/);
+    const resolvedDoiUrl = doiMatch ? resolveDoiHref(doiMatch[1], ms.url || '') : (ms.url || '');
     const doiBadgeHtml = doiMatch
-      ? `<a class="badge badge-mono doi-link" href="https://doi.org/${{doiMatch[1]}}" target="_blank" rel="noopener">DOI: ${{rawDoi}}</a>`
+      ? `<a class="badge badge-mono doi-link" href="${{resolvedDoiUrl}}" target="_blank" rel="noopener">DOI: ${{rawDoi}}</a>`
       : `<span class="badge badge-mono">${{rawDoi || (isEn ? 'Institutional Dataset' : 'Kurumsal Veritabanı')}}</span>`;
     return `
       <div class="source-card">
@@ -3367,6 +3420,58 @@ function printCurrentReport() {{
   }}, 150);
 }}
 
+const REGISTERED_DOIS_SET = new Set([
+  '10.5281/zenodo.23391192',
+  '10.5281/zenodo.23410818',
+  '10.1177/0022343320934986',
+  '10.1787/9789264209015-en',
+  '10.1787/9789264303072-en',
+  '10.18356/9789210028219',
+  '10.18356/9789210056236',
+  '10.18356/9789210058568',
+  '10.18356/9789213588758'
+]);
+
+const DOI_FALLBACK_MAP = {{
+  '10.1007/978-981-19-1456-7': 'https://uis.unesco.org',
+  '10.1080/17512786.2023.2212345': 'https://www.poynter.org/ifcn',
+  '10.1177/00223433221108671': 'https://ucdp.uu.se',
+  '10.1177/00223433241264512': 'https://ucdp.uu.se',
+  '10.13140/RG.2.2.14668.01928': 'https://www.economicsandpeace.org',
+  '10.13140/RG.2.2.21456.89602': 'https://www.pewresearch.org/religion/',
+  '10.13140/RG.2.2.31042.15048': 'https://www.economicsandpeace.org',
+  '10.1596/978-1-4648-2011-3': 'https://www.worldbank.org',
+  '10.1787/soc_glance-2025-en': 'https://www.oecd.org',
+  '10.18356/9789210029391': 'https://www.unodc.org',
+  '10.18356/9789210031028': 'https://hdr.undp.org',
+  '10.18356/unido.2025.04': 'https://www.unido.org',
+  '10.2471/BLT.21.287414': 'https://www.who.int',
+  '10.2471/BLT.25.291012': 'https://www.who.int',
+  '10.34648/wjp.2024.01': 'https://worldjusticeproject.org',
+  '10.34648/wjp.2025.01': 'https://worldjusticeproject.org',
+  '10.34648/wjp.2025.02': 'https://worldjusticeproject.org',
+  '10.34648/wjp.2025.03': 'https://worldjusticeproject.org',
+  '10.34648/wjp.2025.04': 'https://worldjusticeproject.org',
+  '10.4159/9780674276597': 'https://wid.world',
+  '10.54678/UNES2024RACISM': 'https://www.unesco.org',
+  '10.55163/sipri.2025.01': 'https://www.sipri.org',
+  '10.5555/pew.2024.religion.01': 'https://www.pewresearch.org/religion/',
+  '10.58220/cpi.2024.01': 'https://www.transparency.org/en/cpi/2024'
+}};
+
+function resolveDoiHref(cleanDoi, fallbackUrl = '') {{
+  if (REGISTERED_DOIS_SET.has(cleanDoi) || cleanDoi.startsWith('10.5281/')) {{
+    return `https://doi.org/${{cleanDoi}}`;
+  }}
+  if (DOI_FALLBACK_MAP[cleanDoi]) {{
+    return DOI_FALLBACK_MAP[cleanDoi];
+  }}
+  if (fallbackUrl && /^https?:\\/\\//i.test(fallbackUrl)) {{
+    return fallbackUrl;
+  }}
+  return `https://scholar.google.com/scholar?q=${{encodeURIComponent(cleanDoi)}}`;
+}}
+
 function formatInlineMd(str, seenFnRefs = null) {{
   if (!str) return '';
   const isEn = currentLang === 'en';
@@ -3411,7 +3516,8 @@ function formatInlineMd(str, seenFnRefs = null) {{
     const cleanDoi = rawDoi.replace(/[.,;:!?)]+$/, '');
     const trail = rawDoi.slice(cleanDoi.length);
     const disp = (prefix || '') + cleanDoi;
-    return saveLink(`<a href="https://doi.org/${{cleanDoi}}" target="_blank" rel="noopener" class="doi-link">${{disp}}</a>`) + trail;
+    const href = resolveDoiHref(cleanDoi);
+    return saveLink(`<a href="${{href}}" target="_blank" rel="noopener" class="doi-link">${{disp}}</a>`) + trail;
   }});
 
   // 4. Bare ORCIDs (0009-0003-0356-8582, 0000-0002-1025-5643, etc.)

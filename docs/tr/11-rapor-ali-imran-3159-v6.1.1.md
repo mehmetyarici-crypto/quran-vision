@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "444-448"
     arabic_quote: "وشاورهم في الأمر: أمر الله نبيه بالمشاورة مع كمال عقله ووفور حلمه ووحيه المنزل إليه، استجلابا لقلوبهم، وتأديبا للأمة لكي يقتدوا به، وليعلم أن آراء الرجال تلقح العقول... فإذا عزمت فتوكل على الله: أي إذا عقدت رأيك بعد المشاورة فامض فيه جازما"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "470-472"
     arabic_quote: "المشاورة والمشورة: استخراج الرأي بمراجعة البعض إلى البعض، من قولهم شرت العسل إذا استخرجته من موضعه... والعزم: عقد القلب على إمضاء الأمر بعد التروي"
-    verification_link: "https://shamela.ws/book/8381/440"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "226-228"
     arabic_quote: "الشين والواو والراء أصلان: أحدهما إبداء الشيء وإظهاره وعرضه، والآخر أخذ شيء واستخراجه... والمشورة: إظهار الرأي وتقليبه لاستخراج أصلحه"
-    verification_link: "https://shamela.ws/book/23721/1540"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "434-439"
     arabic_quote: "والشورى: التشاور، واستشاره: طلب منه المشورة والنصيحة... وفلان طيب الشوار أي حسن المشورة. والفظ: الغليظ الجافي في معاشرته"
-    verification_link: "https://shamela.ws/book/21605/1740"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "9"
     pages: "64-70"
     arabic_quote: "نزلت الآية بعد أحد، وفيها عجب عظيم: أنهم لما عصوه وفشلوا وأصابهم ما أصابهم، كان مقتضى الطبع البشري معاتبتهم وترك مشاورتهم، لكن الله أمره بالعفو والاستغفار وبمشاورتهم؛ تعليما للمسلمين أن خطأ المشورة خير من صواب الاستبداد"
-    verification_link: "https://shamela.ws/book/23603/3820"
+    verification_link: "https://shamela.ws/book/23635"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:

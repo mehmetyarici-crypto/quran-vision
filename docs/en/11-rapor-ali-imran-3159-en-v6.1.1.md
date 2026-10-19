@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "444-448"
     arabic_quote: "وشاورهم في الأمر: أمر الله نبيه بالمشاورة مع كمال عقله ووفور حلمه ووحيه المنزل إليه، استجلابا لقلوبهم، وتأديبا للأمة لكي يقتدوا به، وليعلم أن آراء الرجال تلقح العقول... فإذا عزمت فتوكل على الله: أي إذا عقدت رأيك بعد المشاورة فامض فيه جازما"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "470-472"
     arabic_quote: "المشاورة والمشورة: استخراج الرأي بمراجعة البعض إلى البعض، من قولهم شرت العسل إذا استخرجته من موضعه... والعزم: عقد القلب على إمضاء الأمر بعد التروي"
-    verification_link: "https://shamela.ws/book/8381/440"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "226-228"
     arabic_quote: "الشين والواو والراء أصلان: أحدهما إبداء الشيء وإظهاره وعرضه، والآخر أخذ شيء واستخراجه... والمشورة: إظهار الرأي وتقليبه لاستخراج أصلحه"
-    verification_link: "https://shamela.ws/book/23721/1540"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "434-439"
     arabic_quote: "والشورى: التشاور، واستشاره: طلب منه المشورة والنصيحة... وفلان طيب الشوار أي حسن المشورة. والفظ: الغليظ الجافي في معاشرته"
-    verification_link: "https://shamela.ws/book/21605/1740"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "9"
     pages: "64-70"
     arabic_quote: "نزلت الآية بعد أحد، وفيها عجب عظيم: أنهم لما عصوه وفشلوا وأصابهم ما أصابهم، كان مقتضى الطبع البشري معاتبتهم وترك مشاورتهم، لكن الله أمره بالعفو والاستغفار وبمشاورتهم؛ تعليما للمسلمين أن خطأ المشورة خير من صواب الاستبداد"
-    verification_link: "https://shamela.ws/book/23603/3820"
+    verification_link: "https://shamela.ws/book/23635"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -581,11 +581,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/444-448. Digital Verification: https://archive.org/details/kashshaf-ubaykan (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/470-472. Digital Verification: https://shamela.ws/book/8381/440 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/226-228. Digital Verification: https://shamela.ws/book/23721/1540 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 4/434-439. Digital Verification: https://shamela.ws/book/21605/1740 (urn:shamela:21605).
-[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 9/64-70. Digital Verification: https://shamela.ws/book/23603/3820 (urn:shamela:23603).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/444-448. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/470-472. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/226-228. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 4/434-439. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
+[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 9/64-70. Digital Verification: https://shamela.ws/book/23635 (urn:shamela:23603).
 [^6]: Organization for Economic Co-operation and Development (OECD) (2024). *OECD Regulatory Policy Outlook & Stakeholder Engagement Indicators 2024*. Paris: OECD Publishing. DOI: doi:10.1787/9789264209015-en. URL: https://www.oecd.org
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Government Effectiveness & Participatory Governance*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org
 

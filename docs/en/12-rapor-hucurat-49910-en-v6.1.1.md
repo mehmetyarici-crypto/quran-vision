@@ -23,7 +23,7 @@ classical_sources:
     volume: "5"
     pages: "586-590"
     arabic_quote: "وإن طائفتان من المؤمنين اقتتلوا فأصلحوا بينهما: أمر بالإصلاح أولا بالسعي في إزالة الشبهة وتسكين الفتنة، فإن أبت إحداهما إلا التمادي في البغي قوتلت بالحق حتى تفيء إلى حكم الله، فإذا فاءت أصلح بينهما بالعدل ولم يفرط في أخذ الحقوق"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "138-141"
     arabic_quote: "البغي: طلب تجاوز الاقتصار في الشيء، وهو على ضربين: محمود ومذموم، والبغي هاهنا الظلم ومجاوزة الحد والعدوان على الغير... والفيء: الرجوع إلى حالة حسنة محمودة بعد الاعوجاج"
-    verification_link: "https://shamela.ws/book/8381/138"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "271-274"
     arabic_quote: "الباء والغين والياء أصلان: أحدهما طلب الشيء، والآخر نوع من الفساد ومجاوزة الحد... وبغت المرأة تبغي بغاء، وبغى فلان على فلان إذا استطال عليه وظلمه"
-    verification_link: "https://shamela.ws/book/23721/270"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "14"
     pages: "76-81"
     arabic_quote: "والبغي: الكبر والاستطالة، وفي الحديث: ويح عمار تقتله الفئة الباغية، أي الظالمة الخارجة عن طاعة الإمام العادل... والقسط: العدل، وأقسط إذا عدل، وقسط إذا جار"
-    verification_link: "https://shamela.ws/book/21605/76"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "278-284"
     arabic_quote: "في هذه الآية دلالة على وجوب قتال الفئة الباغية إذا لم ترجع إلى الحق، وأن الباغية لا تخرج من الإيمان لأن الله سماهم مؤمنين مع كونهم باغين ومتقاتلين"
-    verification_link: "https://shamela.ws/book/21711/1240"
+    verification_link: "https://shamela.ws/book/23579"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -593,11 +593,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/586-590. Digital Verification: https://archive.org/details/kashshaf-ubaykan (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/138-141. Digital Verification: https://shamela.ws/book/8381/138 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/271-274. Digital Verification: https://shamela.ws/book/23721/270 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 14/76-81. Digital Verification: https://shamela.ws/book/21605/76 (urn:shamela:21605).
-[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/278-284. Digital Verification: https://shamela.ws/book/21711/1240 (urn:shamela:21711).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/586-590. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/138-141. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/271-274. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 14/76-81. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
+[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/278-284. Digital Verification: https://shamela.ws/book/23579 (urn:shamela:21711).
 [^6]: Uppsala University (Uppsala Conflict Data Program - UCDP) (2024). *UCDP Peace Agreements and Conflict Resolution Dataset 2024*. Uppsala: Department of Peace and Conflict Research, Uppsala University. DOI: doi:10.1177/0022343320934986. URL: https://ucdp.uu.se
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Rule of Law and Conflict Reconstruction*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: Türkiye İstatistik Kurumu (TÜİK) (2024). *Sosyal Yaşam, Demografi ve Kamu Güveni Veritabanı*. Ankara: TÜİK Yayınları. DOI: Institutional Dataset. URL: https://data.tuik.gov.tr

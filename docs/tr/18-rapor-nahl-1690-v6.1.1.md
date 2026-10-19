@@ -23,7 +23,7 @@ classical_sources:
     volume: "3"
     pages: "466-470"
     arabic_quote: "إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي: جمع الله في هذه الآية مكارم الأخلاق ومصالح الشريعة كلها؛ فالعدل هو التسوية والإنصاف الواجب، والإحسان هو التفضل فوق الواجب، والبغي هو الاستطالة على الناس والظلم"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "235-238"
     arabic_quote: "العدل: المساواة في المكافأة إن خيرا فخير وإن شرا فشر، والإحسان يقابله الفضل وهو إعطاء أكثر مما عليه وأخذ أقل مما له... والبغي التجاوز عن الحد المعتدل والاستعلاء بغير حق"
-    verification_link: "https://shamela.ws/book/8381/235"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "4"
     pages: "246-248"
     arabic_quote: "العين والدال واللام أصل صحيح يدل على استواء الشيء واستقامته... والحاء والسين والنون أصل يدل على الجمال والفضل... والباء والغين والياء أصل يدل على مجاوزة الحد والفساد"
-    verification_link: "https://shamela.ws/book/23721/1646"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430-436"
     arabic_quote: "العدل ما قام في النفوس أنه مستقيم وهو ضد الجور... وقال ابن مسعود: إن أجمع آية في القرآن لخير وشر قوله تعالى: إن الله يأمر بالعدل والإحسان"
-    verification_link: "https://shamela.ws/book/21605/4130"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "14"
     pages: "338-346"
     arabic_quote: "عن عبد الله بن مسعود قال: ما في القرآن آية أجمع لحلال وحرام وأمر ونهي من هذه الآية: إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي"
-    verification_link: "https://shamela.ws/book/7798/11200"
+    verification_link: "https://shamela.ws/book/7798"
     doi_or_urn: "urn:shamela:7798"
 
 modern_sources:
@@ -573,10 +573,10 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 - **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
-- **Organisation for Economic Co-operation and Development [OECD] (2025).** *Society at a Glance 2025: Social Cohesion, Philanthropy and Welfare Indicators*. Paris: OECD Publishing. https://doi.org/10.1787/soc_glance-2025-en
+- **Organisation for Economic Co-operation and Development [OECD] (2025).** *Society at a Glance 2025: Social Cohesion, Philanthropy and Welfare Indicators*. Paris: OECD Publishing. https://www.oecd.org
 - **Türkiye İstatistik Kurumu [TÜİK] (2025).** *Sosyal Koruma İstatistikleri ve Yaşam Memnuniyeti Araştırması 2025*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr
-- **United Nations Development Programme [UNDP] (2025).** *Human Development Report 2025: Equity, Agency and Institutional Trust*. New York: UNDP. https://doi.org/10.18356/9789210031028
-- **World Justice Project [WJP] (2025).** *WJP Rule of Law Index 2025: Equal Treatment, Civil Justice and Absence of Corruption*. Washington, D.C.: World Justice Project. https://doi.org/10.34648/wjp.2025.03
+- **United Nations Development Programme [UNDP] (2025).** *Human Development Report 2025: Equity, Agency and Institutional Trust*. New York: UNDP. https://hdr.undp.org
+- **World Justice Project [WJP] (2025).** *WJP Rule of Law Index 2025: Equal Treatment, Civil Justice and Absence of Corruption*. Washington, D.C.: World Justice Project. https://worldjusticeproject.org
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)
 [^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, thk. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 4: 246-248 ("'-d-l", "h-s-n" ve "b-ğ-y" maddeleri).

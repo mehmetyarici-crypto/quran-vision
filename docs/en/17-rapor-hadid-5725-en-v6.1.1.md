@@ -23,7 +23,7 @@ classical_sources:
     volume: "6"
     pages: "50-55"
     arabic_quote: "وأنزلنا معهم الكتاب والميزان ليقوم الناس بالقسط وأنزلنا الحديد فيه بأس شديد ومنافع للناس: جمع الله بين الكتاب الذي هو الحجة والبيان، والميزان الذي هو العدل والتسوية، والحديد الذي هو السلاح والمنعة؛ لأن من لم يردعه القرآن والميزان ردعه السلطان والحديد"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "222-224"
     arabic_quote: "الحديد: الفلز المعروف، وقوله 'وأنزلنا الحديد فيه بأس شديد ومنافع للناس' إشارة إلى أن قوام الدنيا والدين بالكتاب الهادي، والميزان العادل، والحديد الرادع والنافع في الصناعات"
-    verification_link: "https://shamela.ws/book/8381/222"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "34-37"
     arabic_quote: "الحاء والدال أصل يدل على المنع والفصل بين الشيئين، ومنه الحديد لأنه يمتنع بصلابته ويمنع به المعتدي... والقسط بالعدل هو النصيب السوي المستقيم"
-    verification_link: "https://shamela.ws/book/23721/634"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "3"
     pages: "140-145"
     arabic_quote: "وفي التنزيل: وأنزلنا الحديد فيه بأس شديد ومنافع للناس؛ البأس القوة في الحرب والمنعة، والمنافع ما يصنع منه من الآلات والعمارات والحرث، فما من صنعة إلا والحديد آلتها"
-    verification_link: "https://shamela.ws/book/21605/1140"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "29"
     pages: "470-475"
     arabic_quote: "اعلم أن قوام الخلق مربوط بأمور ثلاثة: الكتاب وهو القانون الإلهي والعلمي، والميزان وهو الإنصاف والعدل في المعاملات، والحديد وهو القوة الزاجرة التي تحمي الشريعة والعدل من البغاة والمعتدين"
-    verification_link: "https://shamela.ws/book/23635/5410"
+    verification_link: "https://shamela.ws/book/23635"
     doi_or_urn: "urn:shamela:23635"
 
 modern_sources:
@@ -598,11 +598,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 6/50-55. Digital Verification: https://archive.org/details/kashshaf-ubaykan (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/222-224. Digital Verification: https://shamela.ws/book/8381/222 (urn:shamela:8381).
-[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/34-37. Digital Verification: https://shamela.ws/book/23721/634 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 3/140-145. Digital Verification: https://shamela.ws/book/21605/1140 (urn:shamela:21605).
-[^5]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Heyet (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 29/470-475. Digital Verification: https://shamela.ws/book/23635/5410 (urn:shamela:23635).
+[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 6/50-55. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/222-224. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
+[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/34-37. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 3/140-145. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
+[^5]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Heyet (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 29/470-475. Digital Verification: https://shamela.ws/book/23635 (urn:shamela:23635).
 [^6]: Stockholm International Peace Research Institute (SIPRI) (2025). *SIPRI Yearbook 2025: Armaments, Disarmament and International Security*. Stockholm / Oxford: Oxford University Press. DOI: doi:10.55163/sipri.2025.01. URL: https://www.sipri.org
 [^7]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025: Constraints on Government Powers and Regulatory Enforcement*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2025.02. URL: https://worldjusticeproject.org
 [^8]: United Nations Industrial Development Organization (UNIDO) (2025). *Industrial Development Report 2024-2025: Strategic Metallurgy, Dual-Use Technologies and Sustainable Infrastructure*. Vienna: UNIDO Publications. DOI: doi:10.18356/unido.2025.04. URL: https://www.unido.org

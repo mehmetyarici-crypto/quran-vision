@@ -23,7 +23,7 @@ classical_sources:
     volume: "5"
     pages: "748-752"
     arabic_quote: "كي لا يكون دولة بين الأغنياء منكم: أي علل قسمة الفيء على هذه الأصناف الفقيرة لئلا يكون المال متداولا بين الأغنياء وحدهم يديرونه بينهم ولا يصيب الفقراء منه شيء، كما كانت الجاهلية تفعل بأخذ الرؤساء المرباع والصفايا"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "332-335"
     arabic_quote: "الدول: تحول الشيء من حال إلى حال ومن يد إلى يد... والدولة: اسم للشيء الذي يتداول ويدار بين القوم، وقوله كي لا يكون دولة: أي لئلا يكون متداولا ومحصورا في فئة معينة دون العامة"
-    verification_link: "https://shamela.ws/book/8381/332"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "314-317"
     arabic_quote: "الدال والواو واللام أصل يدل على تحول الشيء من مكان إلى مكان أو من يد إلى يد، ومنه تداول القوم الشيء بينهم، والدولة في المال: أن يتداوله هذا مرة وهذا مرة"
-    verification_link: "https://shamela.ws/book/23721/720"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "250-255"
     arabic_quote: "الدُّولة بالضم: المال الذي يتداول، وبالفتح: الغلبة والظفر... ومعنى الآية: لئلا يتعاقبه الأغنياء بينهم ويكون حكرا عليهم لا يخرج منهم إلى غيرهم من المحتاجين"
-    verification_link: "https://shamela.ws/book/21605/3950"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "345-352"
     arabic_quote: "دل قوله تعالى 'كي لا يكون دولة بين الأغنياء منكم' على أصل عظيم في تحريم احتكار الأموال العامة، وإيجاب صرفها في مصالح الفقراء وسد خلاتهم لمنع تفاحش التفاوت الطبقي"
-    verification_link: "https://shamela.ws/book/21711/1310"
+    verification_link: "https://shamela.ws/book/23579"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -105,7 +105,7 @@ modern_sources:
     publication_year: 2024
     publication_place: "Paris"
     publisher: "World Inequality Lab / Harvard University Press"
-    url: "https://wir2024.wid.world"
+    url: "https://wid.world"
     doi: "doi:10.4159/9780674276597"
 
 thresholds:
@@ -564,7 +564,7 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Gelir ve Yaşam Koşulları ile Yoksulluk ve Yaşam Kalitesi Araştırması 2024*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr
 - **World Bank Group (2024).** *Worldwide Governance Indicators & Poverty and Inequality Platform 2024*. Washington, D.C.: The World Bank. Erişim adresi: https://databank.worldbank.org
-- **World Inequality Lab (2024).** *World Inequality Report 2024: Global Wealth Concentration and Oligarchy*. Paris: World Inequality Lab. https://doi.org/10.4159/9780674276597. Erişim adresi: https://wir2024.wid.world
+- **World Inequality Lab (2024).** *World Inequality Report 2024: Global Wealth Concentration and Oligarchy*. Paris: World Inequality Lab. https://wid.world. Erişim adresi: https://wid.world
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)
 [^1]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, thk. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2: 314-317 ("d-v-l" maddesi).
@@ -574,7 +574,7 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 [^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, thk. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5: 345-352.
 [^6]: World Bank Group, *Worldwide Governance Indicators & Poverty and Inequality Platform 2024* (Washington, D.C.: The World Bank, 2024), erişim 15 Ekim 2026, https://databank.worldbank.org.
 [^7]: Türkiye İstatistik Kurumu (TÜİK), *Gelir ve Yaşam Koşulları ile Yoksulluk ve Yaşam Kalitesi Araştırması 2024* (Ankara: TÜİK Yayınları, 2024), erişim 15 Ekim 2026, https://data.tuik.gov.tr.
-[^8]: World Inequality Lab, *World Inequality Report 2024: Global Wealth Concentration and Oligarchy* (Paris: World Inequality Lab, 2024), doi:10.4159/9780674276597, erişim 15 Ekim 2026, https://wir2024.wid.world.
+[^8]: World Inequality Lab, *World Inequality Report 2024: Global Wealth Concentration and Oligarchy* (Paris: World Inequality Lab, 2024), doi:10.4159/9780674276597, erişim 15 Ekim 2026, https://wid.world.
 
 ---
 

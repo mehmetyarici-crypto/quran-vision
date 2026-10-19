@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "445-450"
     arabic_quote: "واختلاف ألسنتكم وألوانكم: اختلاف لغاتكم من عربية وفارسية ورومية... واختلاف نغماتكم حتى لا يشتبه صوت بصوت، واختلاف صوركم وهيئاتكم وألوان بياضكم وسوادكم، مع كونكم بنين لرجل واحد وأم واحدة، وذلك دليل قاطع على قدرة الصانع الحكيم وتفرده"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "294-297"
     arabic_quote: "الاختلاف والمخالفة: أن يأخذ كل واحد طريقا غير طريق الآخر في حاله أو فعله... واختلاف الألسن والألوان آية دالة على سعة الحكمة الإلهية في تنويع الخلق دون تنافر، فاللسان يعبر عن اللغة والمنطق، واللون يعبر عن السحنة والهيئة"
-    verification_link: "https://shamela.ws/book/8381/294"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "210-213"
     arabic_quote: "الخاء واللام والفاء أصول ثلاثة: أحدها أن يجئ شيء بعد شيء يقوم مقامه، والآخر خلاف قدام، والثالث التغير... واختلف الشيئان إذا لم يتساويا، واختلاف الألسن تباينها في الألفاظ والأساليب"
-    verification_link: "https://shamela.ws/book/23721/610"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "9"
     pages: "82-88"
     arabic_quote: "والاختلاف ضد الاتفاق... وقوله تعالى واختلاف ألسنتكم وألوانكم: يعني اختلاف اللغات واختلاف ألوان الأجسام، وقيل اختلاف أصوات الناس وهيئاتهم، فالعالمين هم ذوو العقول والتمييز"
-    verification_link: "https://shamela.ws/book/21605/3280"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "25"
     pages: "102-108"
     arabic_quote: "اعلم أن اختلاف الألسنة يتناول أمرين: أحدهما اختلاف اللغات، والثاني اختلاف الأصوات والنغمات؛ فلو اتفقت الأصوات واللغات لوقع الهرج والمرج ولم يتعارف الناس، فجعل هذا الاختلاف نعمة عظمى ودليلا عقليا على حكمة الصانع"
-    verification_link: "https://shamela.ws/book/23603/10200"
+    verification_link: "https://shamela.ws/book/23635"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -562,7 +562,7 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Nüfus ve Demografi ile Kültürel Yaşam İstatistikleri 2024*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr
-- **UNESCO Institute for Statistics (2024).** *World Atlas of Languages & Indicators of Cultural Diversity 2024*. Paris: UNESCO Publishing. https://doi.org/10.1007/978-981-19-1456-7. Erişim adresi: https://uis.unesco.org
+- **UNESCO Institute for Statistics (2024).** *World Atlas of Languages & Indicators of Cultural Diversity 2024*. Paris: UNESCO Publishing. https://uis.unesco.org. Erişim adresi: https://uis.unesco.org
 - **World Bank Group (2024).** *Worldwide Governance Indicators & Social Inclusion Platform 2024*. Washington, D.C.: The World Bank. Erişim adresi: https://databank.worldbank.org
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)

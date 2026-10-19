@@ -23,7 +23,7 @@ classical_sources:
     volume: "6"
     pages: "50-55"
     arabic_quote: "وأنزلنا معهم الكتاب والميزان ليقوم الناس بالقسط وأنزلنا الحديد فيه بأس شديد ومنافع للناس: جمع الله بين الكتاب الذي هو الحجة والبيان، والميزان الذي هو العدل والتسوية، والحديد الذي هو السلاح والمنعة؛ لأن من لم يردعه القرآن والميزان ردعه السلطان والحديد"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "222-224"
     arabic_quote: "الحديد: الفلز المعروف، وقوله 'وأنزلنا الحديد فيه بأس شديد ومنافع للناس' إشارة إلى أن قوام الدنيا والدين بالكتاب الهادي، والميزان العادل، والحديد الرادع والنافع في الصناعات"
-    verification_link: "https://shamela.ws/book/8381/222"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "34-37"
     arabic_quote: "الحاء والدال أصل يدل على المنع والفصل بين الشيئين، ومنه الحديد لأنه يمتنع بصلابته ويمنع به المعتدي... والقسط بالعدل هو النصيب السوي المستقيم"
-    verification_link: "https://shamela.ws/book/23721/634"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "3"
     pages: "140-145"
     arabic_quote: "وفي التنزيل: وأنزلنا الحديد فيه بأس شديد ومنافع للناس؛ البأس القوة في الحرب والمنعة، والمنافع ما يصنع منه من الآلات والعمارات والحرث، فما من صنعة إلا والحديد آلتها"
-    verification_link: "https://shamela.ws/book/21605/1140"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "29"
     pages: "470-475"
     arabic_quote: "اعلم أن قوام الخلق مربوط بأمور ثلاثة: الكتاب وهو القانون الإلهي والعلمي، والميزان وهو الإنصاف والعدل في المعاملات، والحديد وهو القوة الزاجرة التي تحمي الشريعة والعدل من البغاة والمعتدين"
-    verification_link: "https://shamela.ws/book/23635/5410"
+    verification_link: "https://shamela.ws/book/23635"
     doi_or_urn: "urn:shamela:23635"
 
 modern_sources:
@@ -569,10 +569,10 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 - **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
-- **Stockholm International Peace Research Institute [SIPRI] (2025).** *SIPRI Yearbook 2025: Armaments, Disarmament and International Security*. Oxford: Oxford University Press. https://doi.org/10.55163/sipri.2025.01
+- **Stockholm International Peace Research Institute [SIPRI] (2025).** *SIPRI Yearbook 2025: Armaments, Disarmament and International Security*. Oxford: Oxford University Press. https://www.sipri.org
 - **Türkiye İstatistik Kurumu [TÜİK] (2025).** *Yüksek Teknoloji Üretimi, Ar-Ge Harcamaları ve Kurumsal Güven İstatistikleri*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr
-- **United Nations Industrial Development Organization [UNIDO] (2025).** *Industrial Development Report 2024-2025: Strategic Metallurgy, Dual-Use Technologies and Sustainable Infrastructure*. Vienna: UNIDO Publications. https://doi.org/10.18356/unido.2025.04
-- **World Justice Project [WJP] (2025).** *WJP Rule of Law Index 2025: Constraints on Government Powers and Regulatory Enforcement*. Washington, D.C.: World Justice Project. https://doi.org/10.34648/wjp.2025.02
+- **United Nations Industrial Development Organization [UNIDO] (2025).** *Industrial Development Report 2024-2025: Strategic Metallurgy, Dual-Use Technologies and Sustainable Infrastructure*. Vienna: UNIDO Publications. https://www.unido.org
+- **World Justice Project [WJP] (2025).** *WJP Rule of Law Index 2025: Constraints on Government Powers and Regulatory Enforcement*. Washington, D.C.: World Justice Project. https://worldjusticeproject.org
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)
 [^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, thk. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2: 34-37 ("h-d-d" ve "q-s-t" maddeleri).

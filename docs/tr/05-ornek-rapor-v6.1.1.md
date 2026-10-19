@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "1-10"
     arabic_quote: "..."
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "1-5"
     arabic_quote: "..."
-    verification_link: "https://shamela.ws/book/23721/1"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ragib"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "1-10"
     arabic_quote: "..."
-    verification_link: "https://shamela.ws/book/8381/1"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "1"
     pages: "1-10"
     arabic_quote: "..."
-    verification_link: "https://shamela.ws/book/21605/1"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
 modern_sources:
@@ -381,7 +381,7 @@ Bu âyetin analitik şablonun sınırlarını aşan özgün aporiası, teolojik 
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **World Bank Group (2025).** *Worldwide Governance Indicators (WGI)*. Washington, D.C.: The World Bank. Erişim adresi: https://databank.worldbank.org
-- **World Justice Project [WJP] (2025).** *WJP Rule of Law Index*. Washington, D.C.: World Justice Project. https://doi.org/10.34648/wjp.2025.01
+- **World Justice Project [WJP] (2025).** *WJP Rule of Law Index*. Washington, D.C.: World Justice Project. https://worldjusticeproject.org
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)
 [^1]: İbn Fâris, *Mu'cemü Makâyîsi'l-Lüğa*, thk. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1: 1-5.

@@ -23,7 +23,7 @@ classical_sources:
     volume: "5"
     pages: "586-590"
     arabic_quote: "وإن طائفتان من المؤمنين اقتتلوا فأصلحوا بينهما: أمر بالإصلاح أولا بالسعي في إزالة الشبهة وتسكين الفتنة، فإن أبت إحداهما إلا التمادي في البغي قوتلت بالحق حتى تفيء إلى حكم الله، فإذا فاءت أصلح بينهما بالعدل ولم يفرط في أخذ الحقوق"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "138-141"
     arabic_quote: "البغي: طلب تجاوز الاقتصار في الشيء، وهو على ضربين: محمود ومذموم، والبغي هاهنا الظلم ومجاوزة الحد والعدوان على الغير... والفيء: الرجوع إلى حالة حسنة محمودة بعد الاعوجاج"
-    verification_link: "https://shamela.ws/book/8381/138"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "271-274"
     arabic_quote: "الباء والغين والياء أصلان: أحدهما طلب الشيء، والآخر نوع من الفساد ومجاوزة الحد... وبغت المرأة تبغي بغاء، وبغى فلان على فلان إذا استطال عليه وظلمه"
-    verification_link: "https://shamela.ws/book/23721/270"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "14"
     pages: "76-81"
     arabic_quote: "والبغي: الكبر والاستطالة، وفي الحديث: ويح عمار تقتله الفئة الباغية، أي الظالمة الخارجة عن طاعة الإمام العادل... والقسط: العدل، وأقسط إذا عدل، وقسط إذا جار"
-    verification_link: "https://shamela.ws/book/21605/76"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "278-284"
     arabic_quote: "في هذه الآية دلالة على وجوب قتال الفئة الباغية إذا لم ترجع إلى الحق، وأن الباغية لا تخرج من الإيمان لأن الله سماهم مؤمنين مع كونهم باغين ومتقاتلين"
-    verification_link: "https://shamela.ws/book/21711/1240"
+    verification_link: "https://shamela.ws/book/23579"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:

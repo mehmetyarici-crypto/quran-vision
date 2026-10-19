@@ -25,7 +25,7 @@ classical_sources:
     volume: "4"
     pages: "281-284"
     arabic_quote: "العين والراء والفاء أصل صحيح يدل على تتابع الشيء واتصاله وسكونه وطمأنينته، ومنه المعرفة والتعارف ضد التناكر... والشعب القبيلة العظيمة"
-    verification_link: "https://shamela.ws/book/9193"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:book:9193:v4:p281"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "560-563"
     arabic_quote: "التعارف: أن يعرف بعضهم بعضا بالتعاون والتآلف... والكرم إذا وصف الله به فمعناه الإحسان والفضل، وإذا وصف به الإنسان فمحاسن الأخلاق: إن أكرمكم عند الله أتقاكم"
-    verification_link: "https://shamela.ws/book/23629"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:book:23629:v1:p560"
   - id: "cls-ibnmanzur"
     author: "İbn Manzûr, Muhammed b. Mükerrem"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "26"
     pages: "258-264"
     arabic_quote: "هَذَا خِطَابٌ لِجَمِيعِ الْبَشَرِ يُؤَسِّسُ قَاعِدَةَ الْمُسَاوَاةِ الْإِنْسَانِيَّةِ وَيَجْعَلُ اخْتِلَافَ الشُّعُوبِ وَالْقَبَائِلِ وَسِيلَةً لِلتَّعَارُفِ وَالتَّعَاوُنِ لَا لِلتَّنَاحُرِ وَالِاسْتِعْلَاءِ"
-    verification_link: "https://shamela.ws/book/9746"
+    verification_link: "https://shamela.ws/book/9776"
     doi_or_urn: "urn:shamela:book:9746:v26:p258"
 modern_sources:
   - id: "mod-wjp"
@@ -566,18 +566,18 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/9746 (`urn:shamela:book:9746:v26:p258`).
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/9193 (`urn:shamela:book:9193:v4:p281`).
+- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/9776 (`urn:shamela:book:9746:v26:p258`).
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710 (`urn:shamela:book:9193:v4:p281`).
 - **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687 (`urn:shamela:book:1687:v9:p236`).
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/23629 (`urn:shamela:book:23629:v1:p560`).
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/23636 (`urn:shamela:book:23629:v1:p560`).
 - **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/7798 (`urn:shamela:book:7798:v22:p309`).
 - **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*. Tahkik: Âdil Ahmed Abdülmevcûd. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627 (`urn:shamela:book:23627:v5:p586`).
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
-- **UNESCO (2024).** *Global Report on Racism and Discrimination: Fostering Intercultural Dialogue (Ta'aruf)*. Paris: UNESCO Publishing. https://doi.org/10.54678/UNES2024RACISM
+- **UNESCO (2024).** *Global Report on Racism and Discrimination: Fostering Intercultural Dialogue (Ta'aruf)*. Paris: UNESCO Publishing. https://www.unesco.org
 - **United Nations Development Programme [UNDP] (2025).** *Human Development Report 2025: Breaking the Gridlock — Reimagining Cooperation in a Polarized World*. New York: United Nations Publications. https://doi.org/10.18356/9789213588758
-- **World Bank Group (2025).** *Social Sustainability and Inclusion Global Index 2025*. Washington, DC: World Bank Publications. https://doi.org/10.1596/978-1-4648-2011-3
-- **World Justice Project [WJP] (2025).** *WJP Rule of Law Index 2025: Equal Treatment and Absence of Discrimination (Factor 4.1)*. Washington, DC: WJP Press. https://doi.org/10.34648/wjp.2025.04
+- **World Bank Group (2025).** *Social Sustainability and Inclusion Global Index 2025*. Washington, DC: World Bank Publications. https://www.worldbank.org
+- **World Justice Project [WJP] (2025).** *WJP Rule of Law Index 2025: Equal Treatment and Absence of Discrimination (Factor 4.1)*. Washington, DC: WJP Press. https://worldjusticeproject.org
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)
 [^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, thk. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 4: 281-284 ("'-r-f" ve "ş-'-b" maddeleri).

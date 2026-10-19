@@ -25,7 +25,7 @@ classical_sources:
     volume: "2"
     pages: "122-125"
     arabic_quote: "الحاء والياء والحرف المعتل أصل واحد، وهو الحياة خلاف الموت، والإحياء ضد الإماتة، واستحييت الرجل إذا تركته حيا ولم تقتله"
-    verification_link: "https://shamela.ws/book/9193"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:book:9193:v2:p122"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "268-271"
     arabic_quote: "الإحياء في قوله تعالى: ومن أحياها فكأنما أحيا الناس جميعا؛ يقال ذلك فيمن أنقذها من الهلاك والغرق والحرق، وفيمن هداها إلى الحياة الأبدية بالعلم والإيمان"
-    verification_link: "https://shamela.ws/book/23629"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:book:23629:v1:p268"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -77,7 +77,7 @@ classical_sources:
     volume: "7"
     pages: "429-435"
     arabic_quote: "ومن أحياها: أي استنقذها من هلكة كغرق أو حرق أو عدو أو مجاعة أو مرض، فقد أحيا الناس جميعا في عظم الأجر وصيانة حرمة النفوس"
-    verification_link: "https://shamela.ws/book/21795"
+    verification_link: "https://shamela.ws/book/20855"
     doi_or_urn: "urn:shamela:book:21795:v7:p429"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "6"
     pages: "176-182"
     arabic_quote: "هَذَا تَشْرِيعٌ كُلِّيٌّ لِحِفْظِ النُّفُوسِ يَجْعَلُ التَّضَامُنَ الْإِنْسَانِيَّ فَرْضًا، فَالنَّفْسُ الْوَاحِدَةُ تُمَثِّلُ الْهَيْئَةَ الِاجْتِمَاعِيَّةَ بِأَسْرِهَا فِي حَقِّ الْحَيَاةِ وَالْأَمْنِ"
-    verification_link: "https://shamela.ws/book/9746"
+    verification_link: "https://shamela.ws/book/9776"
     doi_or_urn: "urn:shamela:book:9746:v6:p176"
 modern_sources:
   - id: "mod-unodc"
@@ -607,12 +607,12 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 2/122-125. Digital Verification: https://shamela.ws/book/9193 (urn:shamela:book:9193:v2:p122).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/268-271. Digital Verification: https://shamela.ws/book/23629 (urn:shamela:book:23629:v1:p268).
+[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 2/122-125. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:book:9193:v2:p122).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/268-271. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:book:23629:v1:p268).
 [^3]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 10/233-242. Digital Verification: https://shamela.ws/book/7798 (urn:shamela:book:7798:v10:p233).
 [^4]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999), 11/342-346. Digital Verification: https://shamela.ws/book/23635 (urn:shamela:book:23635:v11:p342).
-[^5]: Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî (ö. 671/1273), *el-Câmi' li-Ahkâmi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Beyrut: Müessesetü'r-Risâle, 1427/2006), 7/429-435. Digital Verification: https://shamela.ws/book/21795 (urn:shamela:book:21795:v7:p429).
-[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 6/176-182. Digital Verification: https://shamela.ws/book/9746 (urn:shamela:book:9746:v6:p176).
+[^5]: Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî (ö. 671/1273), *el-Câmi' li-Ahkâmi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Beyrut: Müessesetü'r-Risâle, 1427/2006), 7/429-435. Digital Verification: https://shamela.ws/book/20855 (urn:shamela:book:21795:v7:p429).
+[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 6/176-182. Digital Verification: https://shamela.ws/book/9776 (urn:shamela:book:9746:v6:p176).
 [^7]: United Nations Office on Drugs and Crime (UNODC) (2025). *Global Study on Homicide and Protection of Right to Life 2025*. Vienna: United Nations Publications. DOI: doi:10.18356/9789210029391. URL: https://www.unodc.org
 [^8]: World Health Organization (WHO) (2025). *World Health Statistics & Global Bioethics and Life-Saving Health Systems Report 2025*. Geneva: WHO Press. DOI: doi:10.2471/BLT.25.291012. URL: https://www.who.int
 [^9]: Institute for Economics & Peace (IEP) (2025). *Global Peace Index 2025: Measuring Societal Safety, Security and Civilian Protection*. Sydney: IEP Publications. DOI: doi:10.13140/RG.2.2.31042.15048. URL: https://www.economicsandpeace.org

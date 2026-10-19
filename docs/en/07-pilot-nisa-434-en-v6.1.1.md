@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "68-72"
     arabic_quote: "قوامون على النساء: قيام الولاة على الرعايا... وبما أنفقوا: من المهور والنفقات، فدل على أن التفضيل والإنفاق هما علة القيام... فإن أطعنكم فلا تبغوا عليهن سبيلا: أي لا تطلبوا طريقا إلى أذاهن وتوبيخهن بعد الطاعة"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "5"
     pages: "43-45"
     arabic_quote: "القاف والواو والميم أصلان صحيحان: أحدهما يدل على جماعة ناس، والآخر على انتصاب أو عزم... وقام بالأمر: كفله وحفظه وتولى كفايته"
-    verification_link: "https://shamela.ws/book/23721/2410"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "12"
     pages: "496-501"
     arabic_quote: "والقوّام: هو القائم بالأمر المدبّر له... والنشوز: العصيان والارتفاع على الزوج ومخالفة ما أوجبه الله من حقوق الزوجية"
-    verification_link: "https://shamela.ws/book/21605/4510"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "3"
     pages: "148-152"
     arabic_quote: "الضرب المأمور به في الآية ضرب غير مبرح بإجماع الفقهاء، قال عطاء: ضرب بالسواك ونحوه مما لا يكسر عظما ولا يترك أثرا، ولا يجوز الضرب على الوجه"
-    verification_link: "https://shamela.ws/book/21571/1480"
+    verification_link: "https://shamela.ws/book/23579"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "210-215"
     arabic_quote: "مقاصد الشريعة مبنية على حفظ الضروريات الخمس ومنها حفظ النسل والنفس والعرض، وكل وسيلة تفضي إلى إهدار الكرامة والعدوان فهي باطلة شرعا"
-    verification_link: "https://archive.org/details/mowafaqat-shatibi"
+    verification_link: "https://shamela.ws/book/11435"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -600,11 +600,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/68-72. Digital Verification: https://archive.org/details/kashshaf-ubaykan (urn:shamela:23617).
-[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/43-45. Digital Verification: https://shamela.ws/book/23721/2410 (urn:shamela:23721).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/496-501. Digital Verification: https://shamela.ws/book/21605/4510 (urn:shamela:21605).
-[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 3/148-152. Digital Verification: https://shamela.ws/book/21571/1480 (urn:shamela:21571).
-[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 2/210-215. Digital Verification: https://archive.org/details/mowafaqat-shatibi (urn:shamela:21731).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/68-72. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
+[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/43-45. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/496-501. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
+[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 3/148-152. Digital Verification: https://shamela.ws/book/23579 (urn:shamela:21571).
+[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 2/210-215. Digital Verification: https://shamela.ws/book/11435 (urn:shamela:21731).
 [^6]: United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) (2024). *Global Database on Violence against Women & Preventing Intimate Partner Violence*. New York: UN Women. DOI: doi:10.18356/9789210058568. URL: https://www.unwomen.org
 [^7]: World Health Organization (WHO) (2024). *Violence Against Women Prevalence Estimates 2024*. Geneva: World Health Organization. DOI: doi:10.2471/BLT.21.287414. URL: https://www.who.int
 [^8]: United Nations Development Programme (UNDP) (2024). *Gender Inequality Index (GII) & Human Development Report 2024*. New York: UNDP. DOI: Institutional Dataset. URL: https://hdr.undp.org

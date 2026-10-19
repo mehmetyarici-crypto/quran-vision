@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "488-492"
     arabic_quote: "لا إكراه في الدين: أي لا تكرهوا أحدا على الدخول في الدين؛ لأن الإيمان مبني على الاختيار والتمحيص، فلو أكره لم يكن مؤمنا حقيقة... وجاء على صيغة الخبر ومعناه النهي البليغ"
-    verification_link: "https://archive.org/details/kashshaf-ubaykan"
+    verification_link: "https://shamela.ws/book/23627"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "710-712"
     arabic_quote: "الإكراه: حمل الإنسان على أمر يكرهه ولا يريده طبعا أو عقلا أو شرعا... والرشد: خلاف الغي، وهو اهتداء إلى محاسن الأمور بالعقل السليم"
-    verification_link: "https://shamela.ws/book/8381/680"
+    verification_link: "https://shamela.ws/book/23636"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "171-173"
     arabic_quote: "الكاف والراء والهاء أصلان: أحدهما يدل على خلاف الرضا، والآخر على ثقل ومشقة... وأكرهته على الشيء: ألزمته إياه قهرا"
-    verification_link: "https://shamela.ws/book/23721/2510"
+    verification_link: "https://shamela.ws/book/21710"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "13"
     pages: "534-538"
     arabic_quote: "والعروة الوثقى: كل ما يعتمد عليه ويستمسك به من حبل أو عهد وثيق لا ينقطع... والرشد: الاستقامة على طريق الحق"
-    verification_link: "https://shamela.ws/book/21605/5210"
+    verification_link: "https://shamela.ws/book/1687"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "4"
     pages: "548-554"
     arabic_quote: "الصواب من القول في ذلك عندنا: أنه لا يجوز إكراه أحد على الدخول في الإسلام، والآية عامة في كل أحد، لم تنسخ ولم تخص"
-    verification_link: "https://shamela.ws/book/43/1820"
+    verification_link: "https://shamela.ws/book/7798"
     doi_or_urn: "urn:shamela:43"
 
 modern_sources:
@@ -569,7 +569,7 @@ Bu durum şu açık gerilimleri doğurur:
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Freedom House (2024).** *Freedom in the World 2024: Religious Freedom and Civil Liberties*. Washington, D.C.: Freedom House. Erişim adresi: https://freedomhouse.org
-- **Pew Research Center (2024).** *Global Restrictions on Religion & Freedom of Thought Index 2024*. Washington, D.C.: Pew Research Center. https://doi.org/10.5555/pew.2024.religion.01. Erişim adresi: https://www.pewresearch.org
+- **Pew Research Center (2024).** *Global Restrictions on Religion & Freedom of Thought Index 2024*. Washington, D.C.: Pew Research Center. https://www.pewresearch.org/religion/. Erişim adresi: https://www.pewresearch.org
 
 #### C) Metin İçi Akademik Dipnotlar (Footnotes)
 [^1]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, thk. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5: 171-173 ("k-r-h" maddesi).

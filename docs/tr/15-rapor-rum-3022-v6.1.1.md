@@ -279,13 +279,13 @@ Rûm Sûresi Mekke döneminde, Bizans İmparatorluğu'nun Sâsânîler karşıs�
 - **Hıfzu'l-Akl ve'l-İlim:** Farklı dillerin taşıdığı binlerce yıllık bilişsel sermayenin ve epistemik mirasın korunması.
 - **Hıfzu'l-Irz ve'l-Kerâme:** İnsanların anadilleri ve etnik kökenleri sebebiyle aşağılanmasının ve dışlanmasının yasaklanması.
 - **Hıfzu'n-Nizâm:** Çok kültürlü ve çok dilli toplumlarda anayasal barışın ve sosyal uyumun tesisi.
-- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
+- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Şâtıbî (*el-Muvâfakât*, C. 2, s. 8–25) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 21, s. 68–71) çerçevesinde âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
 
 ---
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Kozmolojik-Makâsıdî Tefsir Usûlü (Fahreddîn er-Râzî, Mâtürîdî ve İbn Âşûr çizgisi).
+1. **Usûl Ekolü:** Kozmolojik-Makâsıdî Tefsir Usûlü (Fahreddîn er-Râzî, *Mefâtîhu'l-Gayb*, C. 25, s. 96–98; Mâtürîdî, *Te'vîlâtü Ehli's-Sünne*, C. 8, s. 262 ve İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 21, s. 68–71 çizgisi).
 2. **Felsefi Perspektif:** Çoğulcu medeniyet felsefesi, dilsel-kültürel insan hakları ve çokkültürlü vatandaşlık hukuku.
 3. **Alternatif Yorumcu Konumlarından Ayrışma:**
    - *Asimilasyonist / Jakoben Uç:* Toplumsal birliği ancak dilsel ve kültürel farklılıkları zorla silerek (tek tipleştirerek) sağlayabileceğini zanneder.
@@ -510,7 +510,7 @@ Katman 3 uyarınca sosyolojik simülasyon:
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Rûm 30:22 — Dillerin ve Renklerin Çeşitliliği, Kültürel Çoğulculuk):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Saygı, Birlikte Yaşama Kültürü, Tefekkür, Eşitlik ve Empati.*
   - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Rûm 30:22'de *"göklerin ve yerin yaratılışı"* ile *"dillerinizin ve renklerinizin farklılığı"*nın aynı cümlede Allah'ın âyetleri (`ve min âyâtihî`) olarak sayılması üzerinde tefekkür edilir.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `İhtilâf` (zenginlik ve çeşitlilik), `elsine` (diller), `elvân` (renkler ve mizaçlar) ve `li'l-âlimîn` (bilenler için ibretler) kavramları Râzî ve İbn Âşûr nakilleriyle tahlil edilir.
+  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `İhtilâf` (zenginlik ve çeşitlilik), `elsine` (diller), `elvân` (renkler ve mizaçlar) ve `li'l-âlimîn` (bilenler için ibretler) kavramları Râzî (*Mefâtîhu'l-Gayb*, C. 25, s. 96–98) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 21, s. 68–71) nakilleriyle tahlil edilir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Zoraki tektipleştirme ve ötekileştirme kısır döngüsü (`R1`) ile kültürel çeşitliliği kozmik bir âyet olarak koruyan çoğulcu medeniyet döngüsü (`B1`) karşılaştırılır.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler farklı kültür ve dillerin insanlığın ortak bilgi mirasına katkısını anlatan bir poster/sunum taslağı hazırlar.
 
@@ -554,11 +554,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993.
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992.
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999.
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Nüfus ve Demografi ile Kültürel Yaşam İstatistikleri 2024*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr

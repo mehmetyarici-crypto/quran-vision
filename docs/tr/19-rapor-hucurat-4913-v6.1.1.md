@@ -227,7 +227,7 @@ peer_review:
 2. **Kur'anî Semantik (Kavramlaşma):**
    - **Kaynak:** Râgıb el-İsfahânî (*el-Müfredât fî Garîbi'l-Kur'ân*, s. 560-563).[^2]
    - `[NAKİL]`: *"التعارف: أن يعرف بعضهم بعضا بالتعاون والتآلف... والكرم إذا وصف الله به فمعناه الإحسان والفضل، وإذا وصف به الإنسان فمحاسن الأخلاق: إن أكرمكم عند الله أتقاكم"* (Râgıb el-İsfahânî: Teâruf, insanların yardımlaşma [teâvün] ve kaynaşma [teâlüf] amacıyla birbirlerini tanımalarıdır. Kerem/Ekrem kavramı ise insana nispet edildiğinde soy üstünlüğünü değil, güzel ahlak ve erdem üstünlüğünü ifade eder: Allah katında en değerli olanınız takvâca en ileride olanınızdır).
-   - `[YORUM]`: Râgıb, cahiliye döneminin soy ve servetle övünme kavramı olan "kerem"i Kur'an'ın semantik bir devrimle "takvâ ve üstün ahlak"a dönüştürdüğünü tespit etmiştir.
+   - `[YORUM]`: Râgıb (*el-Müfredât*, s. 560–563), cahiliye döneminin soy ve servetle övünme kavramı olan "kerem"i Kur'an'ın semantik bir devrimle "takvâ ve üstün ahlak"a dönüştürdüğünü tespit etmiştir.
 
 3. **Geniş Leksikografik Çerçeve:**
    - **Kaynak:** İbn Manzûr (*Lisânü'l-Arab*, C. 9, s. 236-240)[^3] ve Taberî (*Câmi'u'l-Beyân*, C. 22, s. 309-312).[^4]
@@ -237,7 +237,7 @@ peer_review:
 4. **Tefsir ve Belâğat Tahkiki:**
    - **Kaynak:** Zemahşerî (*el-Keşşâf*, C. 5, s. 586-589)[^5] ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 26, s. 258-264).[^6]
    - `[NAKİL]`: *"من ذكر وأنثى: من آدم وحواء، فالناس كلهم سواء في النسب الأبوي والأمومي فلا وجه للتفاخر، والحكمة في الترتيب الشعبي والقبلي هي التعارف والتناصر لا التفاخر والتكاثر"* (Zemahşerî ve İbn Âşûr: İnsanların tamamı anne ve baba nesebinde eşittir; dolayısıyla soy ile övünmenin hiçbir akli ve şer'î dayanağı yoktur. Millet ve kabile farklılığının yegâne hikmeti teâruf [tanışma] ve tenâsur [yardımlaşma] olup, tefâhur [üstünlük taslama] ve tekâsür [çoklukla zorbalık kurma] değildir).
-   - `[YORUM]`: Zemahşerî'nin *"et-teâruf ve't-tenâsur lâ et-tefâhur ve't-tekâsür"* (tanışma ve yardımlaşma; kibirlenme ve tahakküm değil) formülü, modern uluslararası ilişkiler ve sosyoloji için altın bir ilkedir.
+   - `[YORUM]`: Zemahşerî'nin (*el-Keşşâf*, C. 5, s. 586–589) *"et-teâruf ve't-tenâsur lâ et-tefâhur ve't-tekâsür"* (tanışma ve yardımlaşma; kibirlenme ve tahakküm değil) formülü, modern uluslararası ilişkiler ve sosyoloji için altın bir ilkedir.
 
 ---
 
@@ -280,7 +280,7 @@ Hucurât Sûresi Medine döneminde, hicretin 9. yılında ("Senetü'l-Vüfûd" �
 ### ADIM 03 — ÜÇLÜ ÇERÇEVE (ETHOS / LOGOS / PATHOS) VE İS-OUGHT KÖPRÜSÜ
 
 - **Ethos (Ahlaki Yük):** İnsanı etnik kökeni, rengi, dili veya sosyal statüsüyle değil, yalnızca ahlaki bütünlüğü, dürüstlüğü ve emanet bilinciyle (`takvâ`) değerlendirmek.
-- **Logos (Mantıksal Tutarlılık):** Kişinin kendi iradesiyle seçmediği doğuştan gelen özellikler (ırk, kabile, ten rengi) ahlaki bir övünç (`kerem`) veya kınama sebebi olamaz; övgü ve sorumluluk ancak iradî kazanım olan `takvâ`ya (ahlaki erdeme) bağlıdır (Râzî, İbn Âşûr).
+- **Logos (Mantıksal Tutarlılık):** Kişinin kendi iradesiyle seçmediği doğuştan gelen özellikler (ırk, kabile, ten rengi) ahlaki bir övünç (`kerem`) veya kınama sebebi olamaz; övgü ve sorumluluk ancak iradî kazanım olan `takvâ`ya (ahlaki erdeme) bağlıdır (Râzî, *Mefâtîhu'l-Gayb*, C. 28, s. 122; İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 26, s. 258–264).
 - **Pathos (Vicdani ve Duygusal Tesir):** `Yâ eyyühe'n-nâs` (Ey insanlar!) nidasıyla bütün insanlık ailesini aynı çatı altında toplayarak ırkçılık ve yabancı düşmanlığına karşı evrensel bir kardeşlik heyecanı uyandırır.
 - **Zahirî Hüküm:** İnsanların yaratılış ve soy bakımından eşitliği, kabilecilik ve ırkçılık (*asabiyet / tefâhur*) yasağı, topluluklar arası barışçıl tanışma (*teâruf*) emri ve değer ölçütünün yalnızca ahlaki sorumluluk bilinci (*takvâ*) oluşu.
 - **Bâtınî Hikmet:** Eğer bütün insanlar tek tip yaratılsaydı sosyal işbölümü, kültürel alışveriş ve birbirinden öğrenme (*teâruf*) gerçekleşmezdi; eğer farklılıklar üstünlük ölçütü sayılsaydı yeryüzünde bitmeyen bir kabile ve ırk savaşı (*tenâhur*) hüküm sürerdi. Kur'an, çeşitliliği koruyup üstünlük ölçütünü iradî ahlaka (*takvâ*) bağlayarak kusursuz bir denge kurmuştur.
@@ -293,13 +293,13 @@ Hucurât Sûresi Medine döneminde, hicretin 9. yılında ("Senetü'l-Vüfûd" �
 - **Hıfzu'n-Nefs ve'l-Kerâme (İnsan Onuru ve Eşitliği):** Her insanın doğuştan dokunulmaz onura ve eşit hukuki statüye sahip olması.
 - **Hıfzu'n-Nesl ve't-Teâruf (Sosyal Uyum ve Kültürel Çoğulculuk):** Farklı millet ve kültürlerin asimile edilmeden barış içinde bir arada yaşaması.
 - **Hıfzu'l-Adl ve'l-Ehliyye (Takvâ ve Liyakat):** Kamu düzeninde soy, kabile ve hemşehricilik yerine ahlaki ve mesleki sorumluluğun esas alınması.
-- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
+- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Şâtıbî (*el-Muvâfakât*, C. 2, s. 8–25) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 26, s. 258–264) çerçevesinde âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
 
 ---
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Evrenselci-Makâsıdî İnsan Hakları ve Kamu Hukuku Usûlü (Zemahşerî, Râzî, Âlûsî ve İbn Âşûr çizgisi).
+1. **Usûl Ekolü:** Evrenselci-Makâsıdî İnsan Hakları ve Kamu Hukuku Usûlü (Zemahşerî, *el-Keşşâf*, C. 5, s. 586; Râzî, *Mefâtîh*, C. 28, s. 122; Âlûsî, *Rûhu'l-Me'ânî*, C. 13, s. 312–316 ve İbn Âşûr, *et-Tahrîr*, C. 26, s. 258 çizgisi).
 2. **Felsefi Perspektif:** Kozmopolit insan onuru etiği, kültürlerarası diyalog (*interculturalism*) ve liyakat temelli adalet.
 3. **Alternatif Yorumcu Konumlarından Ayrışma:**
    - *Irkçı / Kabileci (Asabiyetçi) Uç:* Etnik veya ulusal kimliği hakikatin ve hukukun üstüne çıkararak ötekini aşağılar.
@@ -398,7 +398,7 @@ Hucurât Sûresi Medine döneminde, hicretin 9. yılında ("Senetü'l-Vüfûd" �
 ### ADIM 12 — RED TEAM (KARŞIT OKUMA) VE FALSIFIABILITE PROTOKOLÜ
 
 - **İtiraz:** "Âyette insanların kavimlere ve kabilelere ayrıldığı bizzat ifade edilmektedir; öyleyse insanın kendi kabilesini ve ırkını öncelemesi fıtrî ve doğaldır."
-- **Metodolojik Cevap:** Zemahşerî ve İbn Âşûr'un tahkik ettiği üzere âyetteki `"لِتَعَارَفُوا"` (tanışasınız diye) lâm-ı ta'lîl edatı, kavimlere ayrılmanın meşru sınırını ve gayesini tayin eder: Bu ayrım yalnızca kimliklerin tanınması ve yardımlaşma içindir; hakların dağıtımında veya üstünlük iddiasında soy ve kabile ölçütü `"إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ"` (en üstününüz takvâca en ileride olanınızdır) hasr (özgüleme) cümlesiyle kesin olarak hükümsüz kılınmıştır.
+- **Metodolojik Cevap:** Zemahşerî (*el-Keşşâf*, C. 5, s. 586) ve İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 26, s. 258–264) tahkik ettiği üzere âyetteki `"لِتَعَارَفُوا"` (tanışasınız diye) lâm-ı ta'lîl edatı, kavimlere ayrılmanın meşru sınırını ve gayesini tayin eder: Bu ayrım yalnızca kimliklerin tanınması ve yardımlaşma içindir; hakların dağıtımında veya üstünlük iddiasında soy ve kabile ölçütü `"إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ"` (en üstününüz takvâca en ileride olanınızdır) hasr (özgüleme) cümlesiyle kesin olarak hükümsüz kılınmıştır.
 - **Falsifiabilite Protokolü (Yalnızca Ampirik ve Dünyevi Politika Hipotezlerine):**
   - **Falsifiabilite:** Eğitimde kültürlerarası *teâruf* programlarını ve kamuda körleştirilmiş liyakat sistemini uygulayan toplumlarda gruplar arası nefret suçlarının azaldığı ve kurumsal güvenin arttığı hipotezi WJP ve UNDP verileriyle sınanabilir ve yanlışlanabilir.
   - **Uygulanan Alan:** Karar kollarındaki (`K1–K3`) dünyevi ve kurumsal politika hipotezleri (ilahî nassın kendisine değil, beşerî uygulama modeline uygulanır).
@@ -464,7 +464,7 @@ Katman 3 uyarınca toplumsal uyum, eşitlik ve anti-nepotizm simülasyonu:
 
 - **Önyargı ve Yanlılık Filtresi:** Rapor, hem etnik/kabileci şovenizm yanlılığından hem de kültürel kimlikleri silmeye çalışan jakoben asimilasyon yanlılığından arındırılmış; onurda eşitlik, kültürde tanışma (*teâruf*) ve görevde liyakat (*takvâ*) dengesini korumuştur.
 - **Dil Güvenliği ve Öz-Denetim:** Metin boyunca mezhepçi, ideolojik veya mutlakiyetçi ifadelerden kaçınılmış; `[NAKİL]` ve `[YORUM]` sınırları korunmuştur.
-- **Retrodiction (Geriye Dönük Sınama Özeti):** Geriye dönük tarihsel analizler (retrodiction), İslam medeniyetinin Hucurât 49:13 ilkesini uyguladığı asırlarda الفارابي (Türk), Selmân (Fars), Bilâl (Habeş), İbn Haldûn (Mağrib/Arap) ve Buhârî (Mâverâünnehir) gibi farklı kavimleri ortak bir bilim ve ahlak medeniyetinde birleştirdiğini; buna karşılık Emevîler dönemindeki *mevâlî* ayrımcılığının ve modern dönemdeki etnik/mezhebî asabiyetlerin devletleri içten çökerttiğini doğrulamaktadır.
+- **Retrodiction (Geriye Dönük Sınama Özeti):** Geriye dönük tarihsel analizler (retrodiction), İslam medeniyetinin Hucurât 49:13 ilkesini uyguladığı asırlarda الفارابي (Türk), Selmân (Fars), Bilâl (Habeş), İbn Haldûn (Mağrib/Arap; *Mukaddime*, C. 1, Fasl 2, s. 158–172) ve Buhârî (Mâverâünnehir) gibi farklı kavimleri ortak bir bilim ve ahlak medeniyetinde birleştirdiğini; buna karşılık Emevîler dönemindeki *mevâlî* ayrımcılığının ve modern dönemdeki etnik/mezhebî asabiyetlerin devletleri içten çökerttiğini doğrulamaktadır.
 
 ---
 
@@ -511,7 +511,7 @@ Katman 3 uyarınca toplumsal uyum, eşitlik ve anti-nepotizm simülasyonu:
 - 1. Yıl: Kamu Etiği ve Ayrımcılık Yasağı İzleme Endeksinin yürürlüğe girmesi; okullarda Teâruf Atölyelerinin başlaması.
 - 3. Yıl: Kamu atamalarında nepotizm/bölgesel kayırmacılık sapmasının $\le \%4$ seviyesine çekilmesi.
 - 5. Yıl: WJP Factor 4.1 (Ayrımcılık Yasağı) skorunda $\ge 0.80$ ve UNESCO Sosyal Uyum Endeksinde $\ge 0.78$ hedefine ulaşılması.
-- **Geriye Dönük Sınama (Retrodiction):** Geriye dönük tarihsel analizler (retrodiction), İslam medeniyetinin Hucurât 49:13 ilkesini uyguladığı asırlarda الفارابي (Türk), Selmân (Fars), Bilâl (Habeş), İbn Haldûn (Mağrib/Arap) ve Buhârî (Mâverâünnehir) gibi farklı kavimleri ortak bir bilim ve ahlak medeniyetinde birleştirdiğini; buna karşılık Emevîler dönemindeki *mevâlî* ayrımcılığının ve modern dönemdeki etnik/mezhebî asabiyetlerin devletleri içten çökerttiğini doğrulamaktadır.
+- **Geriye Dönük Sınama (Retrodiction):** Geriye dönük tarihsel analizler (retrodiction), İslam medeniyetinin Hucurât 49:13 ilkesini uyguladığı asırlarda الفارابي (Türk), Selmân (Fars), Bilâl (Habeş), İbn Haldûn (Mağrib/Arap; *Mukaddime*, C. 1, Fasl 2, s. 158–172) ve Buhârî (Mâverâünnehir) gibi farklı kavimleri ortak bir bilim ve ahlak medeniyetinde birleştirdiğini; buna karşılık Emevîler dönemindeki *mevâlî* ayrımcılığının ve modern dönemdeki etnik/mezhebî asabiyetlerin devletleri içten çökerttiğini doğrulamaktadır.
 
 ---
 
@@ -523,7 +523,7 @@ Katman 3 uyarınca toplumsal uyum, eşitlik ve anti-nepotizm simülasyonu:
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Hucurât 49:13 — İnsani Eşitlik, Teârüf Ahlakı ve Takvâ Ölçütü):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *İnsan Onuru, Eşitlik, Kültürlerarası Tanışma (Teârüf), Tevazu ve Takvâ.*
   - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hz. Peygamber'in Veda Hutbesi'ndeki *"Ey insanlar! Rabbiniz birdir, babanız da birdir; Arap'ın Arap olmayana, beyazın siyaha takvâ dışında hiçbir üstünlüğü yoktur"* (Ahmed b. Hanbel, *el-Müsned*, 5/411, nr. 23489; Beyhakî, *Şu'abü'l-Îmân*, 7/132, nr. 4774) hitabıyla Hucurât 49:13 birlikte okunur.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Min zekerin ve ünsâ` (ontolojik eşitlik), `şuûben ve kabâile` (sosyolojik çeşitlilik), `li-teârefû` (övünmek ve çatışmak için değil, karşılıklı tanışıp yardımlaşmak için) ve `etkâküm` (ahlaki sorumluluk ve liyakat) kavramları Zemahşerî ve Âlûsî nakilleriyle incelenir.
+  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Min zekerin ve ünsâ` (ontolojik eşitlik), `şuûben ve kabâile` (sosyolojik çeşitlilik), `li-teârefû` (övünmek ve çatışmak için değil, karşılıklı tanışıp yardımlaşmak için) ve `etkâküm` (ahlaki sorumluluk ve liyakat) kavramları Zemahşerî (*el-Keşşâf*, C. 5, s. 586–589) ve Âlûsî (*Rûhu'l-Me'ânî*, C. 13, s. 312–316) nakilleriyle incelenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Irkçılık ve kabileciliğin (`asabiyet / tenâkür`) ürettiği kutuplaşma sarmalı (`R1`) ile `teârüf` ve `takvâ` merkezli birlikte yaşama modeli (`B1`) tartışılır.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler önyargıları kıran bir *"Okul İçi Teârüf ve Kardeşlik Etkinliği"* planlar.
 
@@ -535,7 +535,7 @@ Katman 3 uyarınca toplumsal uyum, eşitlik ve anti-nepotizm simülasyonu:
 
 **"Doğal Aidiyet (Asabiyet) Enerjisi ile Evrensel Eşitlik ve Kalbî Takvânın Dünyevi Ölçülemezliği Arasındaki Aporia":**
 Hucurât 49:13 tahlilinde standart şablonlara sığmayan iki katmanlı derin bir aporia mevcuttur:
-1. İbn Haldûn'un *Mukaddime*'de gösterdiği üzere, insanların yakın çevresiyle ve kültürel kimliğiyle (*şuûb ve kabâil*) kurduğu dayanışma bağı (*asabiyet*), toplumsal hareketsizliği aşan doğal bir sosyolojik enerjidir. Ancak bu aidiyet enerjisi, ötekini dışlayan bir kabileciliğe ve nepotizme (*tefâhur*) dönüşmeden tam olarak hangi sınırda durdurulabilir?
+1. İbn Haldûn'un *Mukaddime*'de (*Târîhu İbn Haldûn*, C. 1, Fasl 2, s. 158–172) gösterdiği üzere, insanların yakın çevresiyle ve kültürel kimliğiyle (*şuûb ve kabâil*) kurduğu dayanışma bağı (*asabiyet*), toplumsal hareketsizliği aşan doğal bir sosyolojik enerjidir. Ancak bu aidiyet enerjisi, ötekini dışlayan bir kabileciliğe ve nepotizme (*tefâhur*) dönüşmeden tam olarak hangi sınırda durdurulabilir?
 2. Âyet üstünlüğü **takvâya** bağlamakta, fakat hemen yanında `"عِنْدَ اللَّهِ"` (Allah katında) kaydını düşmektedir; çünkü gerçek takvânın yeri kalptir ve onu yalnız `"Alîm ve Habîr"` olan Allah bilir. Eğer dünyevi bir otorite veya devlet "Biz insanları takvâlarına göre sınıflandıracağız" derse, bu durum korkunç bir riyakârlık (sahte dindarlık gösterisi) ve engizisyon üretmez mi? Bu aporia şu usûlî ayrım ile çözülür: **Kalbî takvânın** mükâfatı ahirette Allah'a aittir; **kurumsal ve içtimai takvânın** dünyadaki tek meşru göstergesi ise insanın kimliğine bakılmaksızın ölçülebilir dürüstlüğü, hukuka saygısı, emanet ehliyeti ve kul hakkından sakınmasıdır.
 
 ---

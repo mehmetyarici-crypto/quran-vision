@@ -281,13 +281,13 @@ Haşr Sûresi Hicretin 4. yılında Medine'de Benî Nadîr kabilesinin şehirden
 - **Hıfzu'n-Nefs:** Yoksulluk ve açlık sebebiyle bireylerin biyolojik ve onurlu yaşam haklarının zedelenmesini engellemek.
 - **Hıfzu'n-Nesl:** Nesiller boyu süren kalıtsal yoksulluk zincirini kırmak, fırsat eşitliğini sağlamak.
 - **Hıfzu'n-Nizâm:** Sınıf çatışmalarını, proleterleşmeyi ve iktisadi anarşiyi ortadan kaldırarak toplumsal barışı tesis etmek.
-- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
+- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Şâtıbî (*el-Muvâfakât*, C. 2, s. 8–25) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 28, s. 84–91) çerçevesinde âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
 
 ---
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Makâsıdî İslam İktisadı ve Ta'lîl Usûlü (İbn Âşûr, Şâtıbî, Cessâs ve Ebû Ubeyd *Kitâbü'l-Emvâl* çizgisi).
+1. **Usûl Ekolü:** Makâsıdî İslam İktisadı ve Ta'lîl Usûlü (İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 28, s. 84–91; Şâtıbî, *el-Muvâfakât*, C. 2, s. 8–25; Cessâs, *Ahkâmü'l-Kur'ân*, C. 5, s. 318 ve Ebû Ubeyd Kâsım b. Sellâm, *Kitâbü'l-Emvâl*, s. 58–75 çizgisi).
 2. **Felsefi Perspektif:** Dağıtıcı adalet (*distributive justice*), anti-oligarşik kurumsal iktisat ve kapsayıcı büyüme (*inclusive growth*).
 3. **Alternatif Yorumcu Konumlarından Ayrışma:**
    - *Vahşi Kapitalist / Rantçı Uç:* Servet tekelleşmesini ve kartelleşmeyi serbest piyasa adına meşru görerek `key lâ yekûne dûleten` illetini işlevsizleştirir.
@@ -511,7 +511,7 @@ Katman 3 uyarınca makroekonomik simülasyon:
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Haşr 59:7 — Servetin Tabana Yayılması ve İktisadi Adalet):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Paylaşma, İktisadi Adalet, Dayanışma, Cömertlik ve Kamu Yararı.*
   - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** `"Key lâ yekûne dûleten beyne'l-ağniyâi minküm"` (Servet yalnızca içinizdeki zenginler arasında dönüp duran bir tekel olmasın!) ilkesi tahtaya yazılarak gelir dağılımı adaletsizliğinin toplumsal etkileri sorulur.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Fey'` (kamu kaynağı), `dûle` (kapalı devre servet tekeli) ve âyette sayılan kırılgan gruplar (yetimler, yoksullar, yolda kalmışlar) İbn Âşûr'un makâsıd (ta'lîl) tahliliyle incelenir.
+  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Fey'` (kamu kaynağı), `dûle` (kapalı devre servet tekeli) ve âyette sayılan kırılgan gruplar (yetimler, yoksullar, yolda kalmışlar) İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 28, s. 84–91) makâsıd (ta'lîl) tahliliyle incelenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Servetin oligarşik tekelleşmesi (`R1`) ile zekât, vakıf, adil vergi ve üretken yatırım yoluyla tabana yayılması (`B1`) Gini katsayısı verileriyle tartışılır.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler okul veya mahalle ölçeğinde bir *Sosyal Dayanışma ve Vakıf Projesi* tasarlar.
 
@@ -555,11 +555,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985.
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993.
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992.
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/23579
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Gelir ve Yaşam Koşulları ile Yoksulluk ve Yaşam Kalitesi Araştırması 2024*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr

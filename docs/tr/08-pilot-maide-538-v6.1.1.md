@@ -211,7 +211,7 @@ peer_review:
    - `[NAKİL]`: *"السرقة: أن تأتي حرزا فتنقبه وتأخذ مالا خفية... والنكال: العقوبة التي تنكل غير الجاني عن مثل فعله"* (İbn Manzûr: Hırzın delinerek malın çalınması şarttır; nekâl ise ibret verici cezadır).
    - `[YORUM]`: Klasik Arapçada kat' ve nekâl lafızları, toplumun iktisadi güvenliğini tehdit eden organize talana karşı nihai caydırıcılık zırhıdır.
 
-- **Çapraz Kontrol ve Dil Güvenliği:** İbn Fâris (hırzdan gizlice alma), Zemahşerî (eşit sorumluluk ve nekâl caydırıcılığı) ve İbn Manzûr (ibret verici engelleme) birbirini teyit etmektedir. İç çelişki yoktur.
+- **Çapraz Kontrol ve Dil Güvenliği:** İbn Fâris (*Makâyîs*, C. 3, s. 154; hırzdan gizlice alma), Zemahşerî (*el-Keşşâf*, C. 2, s. 228; eşit sorumluluk ve nekâl caydırıcılığı) ve İbn Manzûr (*Lisânü'l-Arab*, C. 10, s. 155; ibret verici engelleme) birbirini teyit etmektedir. İç çelişki yoktur.
 
 ---
 
@@ -270,7 +270,7 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 - **Küllî Makasıd:** Mal, can, akıl ve din emniyeti.
 - **Klasik Referanslar ve Ahkâm İncelemesi:**
   - `[NAKİL]`: Şâtıbî (*el-Muvâfakât*, C. 2, s. 312-316)[^4], hadlerin maslahatı koruyan birer engelleyici kalkan (*zâcir*) olduğunu; zaruret halinde canın korunmasının maldan önce geleceğini belirtir. Cessâs (*Ahkâmü'l-Kur'ân*, C. 4, s. 85)[^5], hırz ve nisap şartının yanı sıra *"Hadleri şüphelerle düşürünüz"* (Tirmizî, *Hudûd*, 2, nr. 1424; İbn Mâce, *Hudûd*, 5, nr. 2545; Dârimî, *Hudûd*, 4) nebevi kuralını temel şart koşar. İbnü'l-Kayyim (*İ'lâmü'l-Muvakkıîn*, 3/11) ise Hz. Ömer'in Remâde kıtlık yılı içtihadını (Mâlik, *el-Muvatta'*, 'Akdıye', 26) nassın ruhuna tam sadakat olarak temellendirir.
-  - `[YORUM]`: İbn Âşûr (*et-Tahrîr ve’t-Tenvîr*), nekâl kavramının organize suç arzusunu felç eden maksimum caydırıcılık eşiği olduğunu; cezanın nihai gayesinin insan sakatlamak değil mülkiyet nizamını korumak olduğunu açıklar.
+  - `[YORUM]`: İbn Âşûr (*et-Tahrîr ve’t-Tenvîr*, C. 6, s. 188–192), nekâl kavramının organize suç arzusunu felç eden maksimum caydırıcılık eşiği olduğunu; cezanın nihai gayesinin insan sakatlamak değil mülkiyet nizamını korumak olduğunu açıklar.
 - **Zarûriyyât Dengelemesi:**
   1. *Malın Korunması (Hıfzu'l-Mâl):* Emeğin ve meşru sermayenin dokunulmaz kılınması.
   2. *Canın Korunması (Hıfzu'n-Nefs):* Açlık tehlikesiyle karşı karşıya olanın can hakkının mal hakkının önüne geçirilmesi.
@@ -280,10 +280,10 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Çoğulcu-Makāsıdî Hanefî usûlü (şüphelerle hadlerin düşürülmesi kuralı), Mâlikî maslahat ekolü ve Şâtıbî ile İbn Âşûr çizgisindeki Makasıdî Usûl.
+1. **Usûl Ekolü:** Çoğulcu-Makāsıdî Hanefî usûlü (şüphelerle hadlerin düşürülmesi kuralı), Mâlikî maslahat ekolü ve Şâtıbî (*el-Muvâfakât*, C. 2, s. 312–316) ile İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 6, s. 188–192) çizgisindeki Makasıdî Usûl.
 2. **Felsefi Perspektif:** Hukuk felsefesi (Cesare Beccaria), modern mülkiyet iktisadı (Hernando De Soto) ve kurumsal adalet kuramı (John Rawls).
 3. **Alternatif Yorumcu Konumu:**
-   - *Katı Zâhirî / Şekilci Ekol (İbn Hazm):* Şartlara ve açlığa bakılmaksızın her türlü çalma eyleminde bedensel cezayı mekanik şekilde uygulayarak sosyal adaleti yok eder.
+   - *Katı Zâhirî / Şekilci Ekol (İbn Hazm, el-Muhallâ, C. 12, s. 281):* Şartlara ve açlığa bakılmaksızın her türlü çalma eyleminde bedensel cezayı mekanik şekilde uygulayarak sosyal adaleti yok eder.
    - *Seküler Abolisyonist Perspektif:* Mülkiyet hırsızlığını sıradan bir adli vakaya indirgeyerek caydırıcılığı sıfırlar ve organize finansal suçları cezasız bırakır.
    Raporumuz bu iki aşırı uçtan metodolojik olarak ayrışır.
 
@@ -519,10 +519,10 @@ Bu problematik şu derin adalet krizlerini doğurur:
 
 | Görüş Sahibi / Ekol | Lafzî Yorumu | Hukuki / İktisadi Neticesi | Dayandığı Temel Delil |
 | :--- | :--- | :--- | :--- |
-| **Görüş 1: Zâhirî Ekolü (İbn Hazm)** | Âyetteki emir umumidir; hırz, nisap veya açlık ayrımı yapılmaz. | Bir yumurta veya ip dahi çalanın eli kesilir; hiçbir şüphe haddi düşüremez. | Mâide 5:38'in zahiri lafzı ve lafızcı hadis okuması. |
+| **Görüş 1: Zâhirî Ekolü (İbn Hazm)** | Âyetteki emir umumidir; hırz, nisap veya açlık ayrımı yapılmaz. | Bir yumurta veya ip dahi çalanın eli kesilir; hiçbir şüphe haddi düşüremez. | Mâide 5:38'in zahiri lafzı ve lafızcı hadis okuması (İbn Hazm, *el-Muhallâ*, C. 12, s. 281–290, Mes'ele 2250). |
 | **Görüş 2: Fıkıh Cumhuru (Hanefî, Mâlikî, Şâfiî, Hanbelî)** | Sirkat ancak kilitli bir mekândan (*hırz*) ve nisap miktarı (10 dirhem / çeyrek dinar) çalınırsa gerçekleşir. | Şüphe olan yerde had düşer; açlık, emanet malı çalma veya kamu malında ortaklık şüphesi haddi düşürür; ta'zîr uygulanır. | Hz. Peygamber'in *"Hadleri şüphelerle düşürünüz"* emri (Tirmizî, *Hudûd*, 2, nr. 1424; İbn Mâce, *Hudûd*, 5, nr. 2545; Dârimî, *Hudûd*, 4) ve Cessâs nakli. |
 | **Görüş 3: Hz. Ömer ve Makasıdî Ekol (Şâtıbî, İbnü'l-Kayyim)** | Açlık ve genel kriz anında had tatbik edilemez; yaşama hakkı maldan önce gelir. | Suç hırsızda değil, onu aç bırakan düzendedir; beytülmâl ambarları açılır, sosyal yardım bağlanır, had askıya alınır. | Hz. Ömer'in Hicri 18 Remâde Kıtlık Yılı icraatı ve Müzeyne/Hâtıb b. Ebî Beltea devesi vakası (Mâlik, *el-Muvatta'*, 'Akdıye', 26; Abdürrezzâk, *el-Musannef*, 10/242, nr. 18990). |
-| **Görüş 4: Çağdaş Ceza Hukuku ve Islah Ekolü (İbn Âşûr, Abduh)** | `Kat'` yalnızca uzuv kesimi değil; suç imkânlarını kesmek, tecrit ve Mâide 5:39 gereği rehabilitasyondur. | Beyaz yakalı ve dijital finansal suçlara en ağır ta'zîr ve müsadere uygulanır; yoksula sosyal güvenlik, ıslah olana iş temin edilir. | Mâide 5:39 (*tövbe ve ıslah*), *nekâl* (caydırıcılık) gayesi ve kamu maslahatı. |
+| **Görüş 4: Çağdaş Ceza Hukuku ve Islah Ekolü (İbn Âşûr, Abduh)** | `Kat'` yalnızca uzuv kesimi değil; suç imkânlarını kesmek, tecrit ve Mâide 5:39 gereği rehabilitasyondur. | Beyaz yakalı ve dijital finansal suçlara en ağır ta'zîr ve müsadere uygulanır; yoksula sosyal güvenlik, ıslah olana iş temin edilir. | Mâide 5:39 (*tövbe ve ıslah*), *nekâl* gayesi ve kamu maslahatı (İbn Âşûr, *et-Tahrîr*, 6/188; Muhammed Abduh & Reşîd Rızâ, *Tefsîrü'l-Menâr*, C. 6, s. 382). |
 
 ---
 
@@ -551,11 +551,11 @@ Bu problematik şu derin adalet krizlerini doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992.
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993.
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997.
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Transparency International (2024).** *Corruption Perceptions Index (CPI) 2024: Rule of Law & Public Integrity*. Berlin: Transparency International. https://www.transparency.org/en/cpi/2024. Erişim adresi: https://www.transparency.org

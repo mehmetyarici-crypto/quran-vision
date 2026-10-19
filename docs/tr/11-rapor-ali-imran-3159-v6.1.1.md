@@ -290,7 +290,7 @@ peer_review:
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Çoğulcu-Makāsıdî usûl ve Râzî - İbn Âşûr siyaset felsefesi.
+1. **Usûl Ekolü:** Çoğulcu-Makāsıdî usûl ve Râzî (*Mefâtîhu'l-Gayb*, C. 9, s. 66) – İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 4, s. 145–150) siyaset felsefesi.
 2. **Felsefi Perspektif:** Müzakereci Demokrasi (Habermas iletişimsel eylem kuramı), kolektif zekâ kuramı ve duygusal zekâ liderliği (Daniel Goleman).
 3. **Alternatif Yorumcu Konumu:**
    - *Otokratik Saltanat Perspektifi:* İstişareyi lidere bağlayıcı olmayan kuru bir tavsiye sayarak tek adam rejimini kutsar.
@@ -371,7 +371,7 @@ peer_review:
 - **Test 1 (Lafız Uyumu):** Âl-i İmrân 159. âyettir; mushaf metnine uygundur.
 - **Test 2 (İmla):** Resm-i Osmânî imlâsı teyit edilmiştir.
 - **Test 3 (Bağlam):** Uhud Savaşı bağlamı ve 3:152–165 pasaj bütünlüğü doğrulanmıştır.
-- **Test 4 (Sağlamlık):** Zemahşerî, Râgıb, Râzî ve İbn Âşûr mutabakatı tescillenmiştir.
+- **Test 4 (Sağlamlık):** Zemahşerî (*el-Keşşâf*, 1/444), Râgıb (*el-Müfredât*, s. 470), Râzî (*Mefâtîh*, 9/66) ve İbn Âşûr (*et-Tahrîr*, 4/145) mutabakatı tescillenmiştir.
 - **Test 5 (Siyak-Sibak Uyumu):** S1–S7 bağlam kodları eksiksiz uygulanmıştır.
 - **Test 6 (Dil Güvenliği):** Kesinlik ve sahte onay iddialarından arındırılmıştır.
 - **Test 7 (Base-rate ve Veri Uyumu):** OECD Düzenleyici Politika ve Yönetişim Göstergeleri[^6] referans alınmıştır (https://www.oecd.org/gov/regulatory-policy/).
@@ -483,7 +483,7 @@ peer_review:
 ---
 
 ### ADIM 18 — BİLGİ TABANI VE ZAYIFLIK LİSTESİ
-- **Bilgi Tabanı:** Klasik tefsirler (Zemahşerî, Râzî, İbn Âşûr), siyer kaynakları (Uhud Savaşı analizi), OECD yönetişim verileri.
+- **Bilgi Tabanı:** Klasik tefsirler (Zemahşerî, *el-Keşşâf*, C. 1, s. 444; Râzî, *Mefâtîh*, C. 9, s. 66; İbn Âşûr, *et-Tahrîr*, C. 4, s. 145), siyer kaynakları (Uhud Savaşı analizi), OECD yönetişim verileri.
 - **Zayıflıklar:** Modern parlamenter sistemlerin kutuplaşma sebebiyle hakiki istişareden uzaklaşıp parti disiplinine hapsolması.
 
 ---
@@ -505,7 +505,7 @@ peer_review:
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Âl-i İmrân 3:159 — Kriz Liderliği, Şefkat, Şûrâ ve Azim):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Şefkat (Rıfk), İstişare (Şûrâ), Affedicilik, Kararlılık (Azim) ve Tevekkül.*
   - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Uhud Savaşı'ndaki ağır taktik hatanın ve kayıpların hemen ardından inen bu âyette, Hz. Peygamber'in hata yapan genç sahabileri suçlamak yerine affedip onlarla yeniden istişare etmesi (`ve şâvirhüm fi'l-emr`; Buhârî, *İ'tisâm*, 28, nr. 7366; Tirmizî, *Cihâd*, 35, nr. 1714) incelenir.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Linte lehüm` (yumuşak davranma), `fazzan galîza'l-kalb` (kaba ve katı kalpli olma), `lenfaddû min havlike` (etrafından dağılıp gitme), `şûrâ` ve `azm` kavramları Zemahşerî ve İbn Âşûr üzerinden tahlil edilir.
+  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Linte lehüm` (yumuşak davranma), `fazzan galîza'l-kalb` (kaba ve katı kalpli olma), `lenfaddû min havlike` (etrafından dağılıp gitme), `şûrâ` ve `azm` kavramları Zemahşerî (*el-Keşşâf*, C. 1, s. 444–448) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 4, s. 145–150) üzerinden tahlil edilir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Otoriter/kırıcı liderliğin yetenek göçü ve dalkavukluk üretmesi (`R1`) ile şefkatli ve istişarî liderliğin ortak aklı harekete geçirmesi (`B1`) simüle edilir.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler okul ve kurum yönetiminde "Psikolojik Güvenlik ve İstişare Protokolü" hazırlar.
 
@@ -530,10 +530,10 @@ Bu gerilim şu çetin açmazları içerir:
 
 | Görüş Sahibi / Ekol | Lafzî Yorumu | Hukuki / Stratejik Neticesi | Dayandığı Temel Delil |
 | :--- | :--- | :--- | :--- |
-| **Görüş 1: Klasik Saltanat ve Otokrasi Ekolü (Gazzâlî sonrası bazı fakihler)** | Şûrâ müstehaptır, gayr-i mülzimdir (bağlayıcı değildir). Lider dilediğiyle istişare eder, dilediğini uygular. | Lider tek başına karar alır; muhalefet fitnedir. Karar yetkisi bütünüyle reisin inisiyatifindedir. | Âyetteki `fa‘fu` ve `fe-izâ ‘azemte` tekil hitapları. |
-| **Görüş 2: Klasik Mâlikî ve Hanefî Usûlcüleri (Cessâs, İbn Atıyye)** | Şûrâ farzdır; istişare etmeyen veya uzmanların re'yini hiçe sayan lider azledilmeyi hak eder. | Lider kamuyu ilgilendiren işlerde ehil insanlarla istişare etmek mecburiyetindedir. | `Ve şâvirhüm fi'l-emr` sarih emir kipi ve Sahâbe uygulamaları. |
+| **Görüş 1: Klasik Saltanat ve Otokrasi Ekolü (Gazzâlî sonrası bazı fakihler)** | Şûrâ müstehaptır, gayr-i mülzimdir (bağlayıcı değildir). Lider dilediğiyle istişare eder, dilediğini uygular. | Lider tek başına karar alır; muhalefet fitnedir. Karar yetkisi bütünüyle reisin inisiyatifindedir. | Âyetteki `fa‘fu` ve `fe-izâ ‘azemte` tekil hitapları (krş. Gazzâlî, *el-Mustasfâ*, C. 1, s. 174). |
+| **Görüş 2: Klasik Mâlikî ve Hanefî Usûlcüleri (Cessâs, İbn Atıyye)** | Şûrâ farzdır; istişare etmeyen veya uzmanların re'yini hiçe sayan lider azledilmeyi hak eder. | Lider kamuyu ilgilendiren işlerde ehil insanlarla istişare etmek mecburiyetindedir. | `Ve şâvirhüm fi'l-emr` sarih emir kipi (Cessâs, *Ahkâmü'l-Kur'ân*, C. 2, s. 41; İbn Atıyye, *el-Muharrerü'l-Vecîz*, C. 1, s. 534). |
 | **Görüş 3: Çağdaş İslami Demokrasi Ekolü (İbn Âşûr, Elmalılı, Gannûşî)** | Şûrâ kurumsal ve bağlayıcıdır (*mülzime*). Çoğunluğun kararına uymak Nebevî sünnettir. | Meclis ve parlamento kararları yürütmeyi bağlar; kuvvetler ayrılığı şûrânın kurumsallaşmış halidir. | Hz. Peygamber'in Uhud'da çoğunluğun re'yine bizzat uyması uygulaması (Buhârî, *İ'tisâm*, 28, nr. 7366; Ahmed b. Hanbel, *el-Müsned*, 3/351, nr. 14829). |
-| **Görüş 4: Teknofil / Meritokratik Şûrâ Ekolü** | İstişare halk oylaması değil, alanın uzmanlarının (ehlü'l-hall ve'l-akd) bilimsel müzakeresidir. | Kararlar niceliksel çoğunlukla değil, teknik liyakat ve delil üstünlüğüyle alınır. | İbn Fâris'in şûrâyı 'balı petekten süzmek' (uzmanlık) olarak tanımlaması. |
+| **Görüş 4: Teknofil / Meritokratik Şûrâ Ekolü** | İstişare halk oylaması değil, alanın uzmanlarının (ehlü'l-hall ve'l-akd) bilimsel müzakeresidir. | Kararlar niceliksel çoğunlukla değil, teknik liyakat ve delil üstünlüğüyle alınır. | İbn Fâris'in (*Mu'cemü Makâyîsi'l-Lüğa*, C. 3, s. 226) şûrâyı 'balı petekten süzmek' (uzmanlık) olarak tanımlaması. |
 
 ---
 
@@ -560,11 +560,11 @@ Bu gerilim şu çetin açmazları içerir:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993.
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992.
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999.
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Organization for Economic Co-operation and Development [OECD] (2024).** *OECD Regulatory Policy Outlook & Stakeholder Engagement Indicators 2024*. Paris: OECD Publishing. https://doi.org/10.1787/9789264209015-en. Erişim adresi: https://www.oecd.org

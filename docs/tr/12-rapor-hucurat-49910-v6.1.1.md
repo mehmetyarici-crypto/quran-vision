@@ -284,13 +284,13 @@ Hucurât Sûresi 49:9–10 âyetleri, sûrenin 6. âyetinde (Hucurât 49:6) geç
 - **Hıfzu'l-Akl:** Asabiyet cinnetini hukuki muhakeme ve şûrâ ile ikame etmek.
 - **Hıfzu'l-Mâl:** Çatışmada yağmalanan mülkiyetin kıst ilkesiyle iadesi.
 - **Hıfzu'n-Nizâm:** Kamusal barışın ve uluslararası hukukun korunması.
-- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
+- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` الشاطبي (Şâtıbî, *el-Muvâfakât*, C. 2, s. 8–25) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 26, s. 240–248) çerçevesinde âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
 
 ---
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Çoğulcu-Makâsıdî İslam kamu hukuku usûlü (*Fıkhü Ehl-i'l-Bağy*; Cessâs, Kurtubî, Şâtıbî ve İbn Âşûr çizgisi).
+1. **Usûl Ekolü:** Çoğulcu-Makâsıdî İslam kamu hukuku usûlü (*Fıkhü Ehl-i'l-Bağy*; Cessâs, *Ahkâmü'l-Kur'ân*, C. 5, s. 280; Kurtubî, *el-Câmi'*, C. 16, s. 315; Şâtıbî, *el-Muvâfakât*, C. 2, s. 8–25 ve İbn Âşûr, *et-Tahrîr*, C. 26, s. 240 çizgisi).
 2. **Felsefi Perspektif:** Kolektif güvenlik kuramı, onarıcı adalet (*restorative justice*) ve kurumsal barış inşası.
 3. **Alternatif Yorumcu Konumlarından Ayrışma:**
    - *Haricî / Tekfirci Uç:* Büyük günah ve silahlı çatışma sebebiyle tarafları dinden çıkmış sayarak topyekûn imhayı savunur.
@@ -516,7 +516,7 @@ Katman 3 gereğince, ampirik çatışma verileri simüle edilmiştir:
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Hucurât 49:9–10 — Arabuluculuk, Bağy Freni ve Kardeşlik Hukuku):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Barış Yapıcılık (Islah), Hakkaniyet (Kıst), Kardeşlik (Uhuvvet) ve Adalet.*
   - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Akran zorbalığı veya toplumsal gruplar arası bir çatışma senaryosu verilerek *"Tarafsız üçüncü taraf çatışmayı nasıl durdurur?"* sorusuyla derse başlanır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Islah` (arabuluculuk), `bağy` (haddi aşma/saldırganlık), `fey'` (hukuka dönüş), `adl / kıst` (onarıcı hakkaniyet) ve `ihvetün` (kardeşlik) kavramları Kurtubî ve Cessâs nakilleriyle incelenir.
+  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Islah` (arabuluculuk), `bağy` (haddi aşma/saldırganlık), `fey'` (hukuka dönüş), `adl / kıst` (onarıcı hakkaniyet) ve `ihvetün` (kardeşlik) kavramları Kurtubî (*el-Câmi'*, C. 16, s. 315–322) ve Cessâs (*Ahkâmü'l-Kur'ân*, C. 5, s. 280) nakilleriyle incelenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Hucurât 49:9–10'un 3 aşamalı barış mimarisi (`1. Sulh -> 2. Mütecavizi Hukuka Döndürme -> 3. Rövanşizmsiz Kıst`) `R1` ve `B1` döngüleri üzerinden tartışılır.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Sınıf içi "Akran Arabuluculuğu ve Adil Uzlaşı Yönergesi" kaleme alınır.
 
@@ -560,11 +560,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985.
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993.
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992.
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/23579
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Sosyal Yaşam, Demografi ve Kamu Güveni Veritabanı*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr

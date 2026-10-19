@@ -280,13 +280,13 @@ peer_review:
 - **Hıfzu'n-Nefs:** Yalan haber ve iftiraların can güvenliğini ve toplumsal barışı tehdit etmesinin önlenmesi.
 - **Hıfzu'l-Irz:** İnsanların haysiyet ve onurlarının teyitsiz dedikodularla zedelenmesine engel olunması.
 - **Hıfzu'n-Nizâm:** Yargı, yönetim ve medya sistemlerinde delile dayalı kamusal güven ortamının tesisi.
-- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
+- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Şâtıbî (*el-Muvâfakât*, C. 2, s. 8–25) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 15, s. 98–103) çerçevesinde âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
 
 ---
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Klasik Kelâm ve Fıkıh Usûlünde *Esbâbü'l-İlm* (Bilginin Kaynakları: Havâss-ı Selîme, Haber-i Sâdık ve Akl-ı Selîm; Mâtürîdî, Râzî ve İbn Âşûr çizgisi).
+1. **Usûl Ekolü:** Klasik Kelâm ve Fıkıh Usûlünde *Esbâbü'l-İlm* (Bilginin Kaynakları: Havâss-ı Selîme, Haber-i Sâdık ve Akl-ı Selîm; Mâtürîdî, *Kitâbü't-Tevhîd*, s. 69–76; Râzî, *Mefâtîhu'l-Gayb*, C. 20, s. 209–212 ve İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 15, s. 98–103 çizgisi).
 2. **Felsefi Perspektif:** Erdem epistemolojisi (*virtue epistemology*), Popperci eleştirel rasyonalizm ve bilişsel güvenlik kuramı.
 3. **Alternatif Yorumcu Konumlarından Ayrışma:**
    - *Post-Truth / Relativist Uç:* Nesnel hakikatin ve doğrulamanın imkânsız olduğunu savunarak algı yönetimini meşrulaştırır.
@@ -514,7 +514,7 @@ Katman 3 uyarınca simülasyon parametreleri:
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (İsrâ 17:36 — Epistemik Ahlak, Bilgi Doğrulama ve Dijital Sorumluluk):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Doğruluk, Eleştirel Düşünce, Bilgi Ahlakı, Emanet ve Öz-Denetim.*
   - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Sosyal medyada hızla yayılan sentetik (deepfake) veya doğrulanmamış bir haber örneği gösterilerek `"Ve lâ takfu mâ leyse leke bihî ilm"` (Bilgin olmayan şeyin ardına düşme!) ilkesi tanıtılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Kafv` (iz sürme/peşine düşme), `ilm` (delile dayalı kesin bilgi) ile `sem'` (işitme), `basar` (görme) ve `fuâd` (muhakeme eden kalp/zihin) melekelerinin hukuki-ahlaki sorumluluğu (`mes'ûlâ`) Râzî ve İbn Âşûr üzerinden çözümlenir.
+  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Kafv` (iz sürme/peşine düşme), `ilm` (delile dayalı kesin bilgi) ile `sem'` (işitme), `basar` (görme) ve `fuâd` (muhakeme eden kalp/zihin) melekelerinin hukuki-ahlaki sorumluluğu (`mes'ûlâ`) Râzî (*Mefâtîhu'l-Gayb*, C. 20, s. 209–212) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 15, s. 98–103) üzerinden çözümlenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Algoritmik dezenformasyon ve linç sarmalı (`R1`) ile üçlü bilişsel doğrulama filtresi (`B1: Sem'-Basar-Fuâd`) karşılaştırılır.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler dijital içerik paylaşmadan önce uygulanacak *"3 Adımlı İsrâ 17:36 Teyit Kontrol Listesi"* oluşturur.
 
@@ -558,11 +558,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993.
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992.
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999.
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **International Fact-Checking Network [IFCN] (2024).** *IFCN Code of Principles and Fact-Checking Verification Standards 2024*. St. Petersburg, FL: The Poynter Institute. https://www.poynter.org/ifcn. Erişim adresi: https://www.poynter.org/ifcn

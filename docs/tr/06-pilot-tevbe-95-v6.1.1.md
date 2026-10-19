@@ -295,7 +295,7 @@ Tevbe Sûresi 9:1–15 pasajı bir bütün olarak okunduğunda, 5. âyetin hemen
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Çoğulcu-Makāsıdî Hanefî usûlü (istişhâd, tahsis ve nassların birbirini tefsir etmesi ilkesi; Şâtıbî, Cessâs ve İbn Âşûr çizgisi).
+1. **Usûl Ekolü:** Çoğulcu-Makāsıdî Hanefî usûlü (istişhâd, tahsis ve nassların birbirini tefsir etmesi ilkesi; Şâtıbî, *el-Muvâfakât*, C. 3, s. 340–345; Cessâs, *Ahkâmü'l-Kur'ân*, C. 4, s. 268 ve İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 10, s. 112–118 çizgisi).
 2. **Felsefi Perspektif:** Eleştirel realizm, sistemler kuramı ve uluslararası ilişkilerde Grotiusçu "Adil Savaş" (*Bellum Justum*) kuramı.
 3. **Alternatif Yorumcu Konumu:**
    - *Tekfirci / Haricî Literalist Perspektif:* Bu âyeti önceki tüm barış âyetlerini iptal eden "evrensel imha fermanı" kabul ederek daimi çatışma üretir.
@@ -390,7 +390,7 @@ Tevbe Sûresi 9:1–15 pasajı bir bütün olarak okunduğunda, 5. âyetin hemen
 
 - **Red Team İtirazları:**
   - *İtiraz:* "Âyet açıktır: Müşrikleri nerede bulursanız öldürün der. Barış âyetlerini nesh etmiştir."
-  - *Cevap:* Bu iddia 9:4'teki sarih istisnayı ve 9:6'daki eman emrini keyfi iptal eder. Usûlde nesh ancak sarih delille mümkündür; genel ilke tahsis edilmiştir (Şâtıbî, Cessâs).
+  - *Cevap:* Bu iddia 9:4'teki sarih istisnayı ve 9:6'daki eman emrini keyfi iptal eder. Usûlde nesh ancak sarih delille mümkündür; genel ilke tahsis edilmiştir (Şâtıbî, *el-Muvâfakât*, C. 3, s. 340–345; Cessâs, *Ahkâmü'l-Kur'ân*, C. 4, s. 268).
 - **Falsifiabilite Protokolü (Yalnızca Ampirik ve Dünyevi Politika Hipotezlerine):**
   - **Uygulanan Alan:** Karar kollarındaki ampirik uygulama modeli.
   - **Zaman Aralığı:** 5 Yıllık İzleme Penceresi (2026–2031).
@@ -513,7 +513,7 @@ Tevbe Sûresi 9:1–15 pasajı bir bütün olarak okunduğunda, 5. âyetin hemen
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Tevbe 9:5 — Ahit Güvenliği ve Meşru Savunma Etiği):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Adalet, Ahde Vefa, Barış, Sorumluluk ve Hikmet.*
   - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Öğrencilere Tevbe 9:4, 9:5 ve 9:6 âyetleri birlikte okutularak *"Bir kanun maddesini önceki ve sonraki maddelerden koparıp tek başına okumak hangi adaletsizliklere yol açar?"* sorusu yöneltilir (`S7 Kırpma Riski` farkındalığı).
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `İnsilâh` (4 aylık diplomatik mühlet), `ahd-i hâricî` (yalnızca ahdi bozan saldırganlar) ve `istîmân` (Tevbe 9:6 sığınma ve güvenli koridor hakkı) kavramları Zemahşerî ve Şâtıbî nakilleriyle incelenir.
+  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `İnsilâh` (4 aylık diplomatik mühlet), `ahd-i hâricî` (yalnızca ahdi bozan saldırganlar) ve `istîmân` (Tevbe 9:6 sığınma ve güvenli koridor hakkı) kavramları Zemahşerî (*el-Keşşâf*, C. 3, s. 10–15) ve Şâtıbî (*el-Muvâfakât*, C. 3, s. 340–345) nakilleriyle incelenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Sınıf iki gruba ayrılır; **1. Grup** *"Uluslararası krizlerde süresiz pasifizm ve taviz barışı korur mu?"* (`R1` kısır döngüsü), **2. Grup** ise *"Hukuki mühlet, orantılı caydırıcılık ve açık eman koridoru kalıcı barışı nasıl kurar?"* (`B1` dengeleyici döngüsü) tezlerini CLD diyagramı üzerinden tartışır.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler İslam uluslararası hukukunda barışın asıl, savaşın ise yalnızca ahit ihlali ve saldırganlığa karşı istisnai bir savunma tedbiri olduğunu özetleyen birer paragraflık *"Adil Barış Beyannamesi"* yazar.
 
@@ -529,7 +529,7 @@ Tevbe 9:5 âyetinin geleneksel tefsir ve fıkıh tarihindeki en çetin aporiası
 
 Bu iddia şu derin teolojik ve metodolojik krizi doğurur:
 1. Eğer Tevbe 9:5 bütün barış âyetlerini nesh ettiyse; Kur'an'ın "Dinde zorlama yoktur" (Bakara 2:256) ve "Sizin dininiz size, benim dinim bana" (Kâfirûn 109:6) gibi temel ahlaki-ontolojik ilkeleri tarihsel birer parantezden mi ibarettir?
-2. Şâtıbî ve Cessâs gibi usûlcüler erken dönemdeki "nesh" ıstılahının "tahsis ve takyid" (genel kuralın özel duruma sınırlandırılması) anlamında kullanıldığını belgelemiştir. Ancak buna rağmen tarih boyunca siyasi iktidarlar ve radikal yapılar, nesh teorisini sınırsız bir fetih ve imha ideolojisinin meşruiyet aracına dönüştürmüştür.
+2. Şâtıbî (*el-Muvâfakât*, C. 3, s. 340–345) ve Cessâs (*Ahkâmü'l-Kur'ân*, C. 4, s. 268) gibi usûlcüler erken dönemdeki "nesh" ıstılahının "tahsis ve takyid" (genel kuralın özel duruma sınırlandırılması) anlamında kullanıldığını belgelemiştir. Ancak buna rağmen tarih boyunca siyasi iktidarlar ve radikal yapılar, nesh teorisini sınırsız bir fetih ve imha ideolojisinin meşruiyet aracına dönüştürmüştür.
 3. Quran Vision analiz motorunun benimsediği Makasıdî Usûl, bu krizi "Tahsis Doktrini" ile çözmektedir: Barış genel ve kalıcı ilkedir; savaş ise antlaşmayı bozan muhariplere has istisnai bir güvenlik tedbiridir. Ancak bu çözüm dahi, klasik literatürdeki 140 âyetin nesh edildiği yönündeki devasa külliyatla modern okuyucu arasındaki hermenötik gerilimi tamamen ortadan kaldıramaz. Bu husus şablonun ötesinde, bağımsız bir kelam ve tefsir usûlü müzakeresini zorunlu kılmaktadır.
 
 ---
@@ -539,9 +539,9 @@ Bu iddia şu derin teolojik ve metodolojik krizi doğurur:
 | Görüş Sahibi / Ekol | Lafzî Yorumu | Hukuki / Stratejik Neticesi | Dayandığı Temel Delil |
 | :--- | :--- | :--- | :--- |
 | **Görüş 1: Radikal / Haricî Literalist Ekol** | Âyetteki emir mutlaktır; barış âyetlerinin tamamını nesh etmiştir. | Gayrimüslimlerle sürekli savaş esastır; barış geçici bir aldatmacadır. | *"Müşrikleri nerede bulursanız öldürün"* mutlak lafzı. |
-| **Görüş 2: Klasik Şâfiî Ekolü** | Savaşın sebebi küfürdür (*illetü'l-kıtâl el-küfr*); cizye veya İslam'a kadar savaş meşrudur. | Gayrimüslim devletlerle barış ancak zaruret halinde ve geçici (en fazla 10 yıl) yapılabilir. | Tevbe 9:5 ve 9:29'daki sarih kıtal ve cizye emirleri. |
+| **Görüş 2: Klasik Şâfiî Ekolü** | Savaşın sebebi küfürdür (*illetü'l-kıtâl el-küfr*); cizye veya İslam'a kadar savaş meşrudur. | Gayrimüslim devletlerle barış ancak zaruret halinde ve geçici (en fazla 10 yıl) yapılabilir. | Tevbe 9:5 ve 9:29'daki sarih kıtal ve cizye emirleri (Şâfiî, *el-Ümm*, C. 4, s. 240–252). |
 | **Görüş 3: Klasik Hanefî ve Mâlikî Ekolü (Cumhur)** | Savaşın sebebi küfür değil, fiili savaştır (*illetü'l-kıtâl el-harb / el-muhârebe*). | Kadınlar, çocuklar, din adamları ve savaşmayan siviller asla hedef alınamaz; saldırmayana savaş açılmaz. | Bakara 2:190 (*"Sizinle savaşanlarla savaşın, haddi aşmayın"*) ve Hz. Peygamber'in yasakları (Buhârî, *Cihâd*, 147–148, nr. 3014–3015; Müslim, *Cihâd*, 24–25, nr. 1744; Ebû Dâvûd, *Cihâd*, 82, nr. 2614). |
-| **Görüş 4: Çağdaş Makasıdî / Tarihselci Ekol (Şâtıbî, İbn Âşûr, Abduh)** | Elif-lâm ahd-i hâricîdir; Hudeybiye'yi bozan muayyen Mekke müşriklerine hastır; nesh değil tahsistir. | Evrensel kural barış, adalet ve diplomasidir. Güç kullanımı ancak meşru müdafaa ve ahit ihlali durumunda caizdir. | Tevbe 9:4 (sadık antlaşmalıları koruma) ve Tevbe 9:6 (eman ve sığınma hakkı) âyetleri. |
+| **Görüş 4: Çağdaş Makasıdî / Tarihselci Ekol (Şâtıbî, İbn Âşûr, Abduh)** | Elif-lâm ahd-i hâricîdir; Hudeybiye'yi bozan muayyen Mekke müşriklerine hastır; nesh değil tahsistir. | Evrensel kural barış, adalet ve diplomasidir. Güç kullanımı ancak meşru müdafaa ve ahit ihlali durumunda caizdir. | Tevbe 9:4 ve 9:6 âyetleri (Şâtıbî, *el-Muvâfakât*, 3/340; İbn Âşûr, *et-Tahrîr*, 10/112; Muhammed Abduh & Reşîd Rızâ, *Tefsîrü'l-Menâr*, C. 10, s. 190). |
 
 ---
 
@@ -570,11 +570,11 @@ Bu iddia şu derin teolojik ve metodolojik krizi doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992.
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993.
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997.
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Institute for Economics and Peace [IEP] (2024).** *Global Peace Index 2024: Measuring Peace in a Complex World*. Sydney: Institute for Economics & Peace. https://www.economicsandpeace.org. Erişim adresi: https://www.economicsandpeace.org

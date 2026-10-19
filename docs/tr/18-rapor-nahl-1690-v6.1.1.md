@@ -223,7 +223,7 @@ peer_review:
 2. **Kur'anî Semantik (Kavramlaşma):**
    - **Kaynak:** Râgıb el-İsfahânî (*el-Müfredât fî Garîbi'l-Kur'ân*, s. 235-238).[^2]
    - `[NAKİL]`: *"العدل: المساواة في المكافأة إن خيرا فخير وإن شرا فشر، والإحسان يقابله الفضل وهو إعطاء أكثر مما عليه وأخذ أقل مما له... والبغي التجاوز عن الحد المعتدل والاستعلاء بغير حق"* (Râgıb el-İsfahânî: Adalet karşılıklılıkta tam eşitliktir; iyiliğe denk iyilik, suça denk ceza vermektir. İhsan ise adaletin üstünde bir fazilettir: Üzerine düşenden fazlasını vermek ve hakkı olandan azına razı olmaktır. Bağy ise adil sınırı çiğneyip haksız yere tahakküm ve üstünlük kurmaktır).
-   - `[YORUM]`: Râgıb'ın bu tanımı hukuk felsefesi açısından çığır açıcıdır: Adalet "asgari hukuki taban" (hak ettiğini almak ve vermek), İhsan ise "ahlaki ve estetik tavan"dır (hakkından feragat edip fazlasını ikram etmek).
+   - `[YORUM]`: Râgıb'ın (*el-Müfredât*, s. 235–238) bu tanımı hukuk felsefesi açısından çığır açıcıdır: Adalet "asgari hukuki taban" (hak ettiğini almak ve vermek), İhsan ise "ahlaki ve estetik tavan"dır (hakkından feragat edip fazlasını ikram etmek).
 
 3. **Geniş Leksikografik Çerçeve:**
    - **Kaynak:** İbn Manzûr (*Lisânü'l-Arab*, C. 11, s. 430-436)[^3] ve Taberî (*Câmi'u'l-Beyân*, C. 14, s. 338-346).[^4]
@@ -233,7 +233,7 @@ peer_review:
 4. **Tefsir ve Belâğat Tahkiki:**
    - **Kaynak:** Zemahşerî (*el-Keşşâf*, C. 3, s. 466-470).[^5]
    - `[NAKİL]`: *"جمع الله في هذه الآية مكارم الأخلاق ومصالح الشريعة كلها؛ فالعدل هو التسوية والإنصاف الواجب، والإحسان هو التفضل فوق الواجب، وإيتاء ذي القربى تخصيص بعد تعميم الاهتمام بحقوق ذوي الأرحام، والفحشاء القوة الشهوانية المفرطة، والمنكر القوة الغضبية السفيهة، والبغي الاستطالة على الناس والظلم"* (Zemahşerî: Allah bu âyette tüm üstün ahlak ilkelerini ve şeriatın bütün maslahatlarını toplamıştır: Adalet farz olan hakkaniyet ve eşitliktir; İhsan vacibin ötesindeki lütuf ve kalite arayışıdır; yakınlara vermek ise genel ihsandan sonra en yakın sosyal halkadan başlayan dayanışma vurgusudur. Fuhşiyat azgınlaşmış şehvet/yolsuzluk dürtüsünü, Münker aklı çiğneyen öfke ve kabalığı, Bağy ise insanlara karşı kibirlenip zulüm ve tahakküm kurmayı temsil eder).
-   - `[YORUM]`: Zemahşerî, üç yasağı klasik nefs psikolojisinin üç bozulmuş gücüyle (şehvet -> fuhşiyat, öfke -> münker, tahakküm/vehm -> bağy) eşleştirerek derin bir psiko-politik tahlil sunmuştur.
+   - `[YORUM]`: Zemahşerî (*el-Keşşâf*, C. 3, s. 466–470), üç yasağı klasik nefs psikolojisinin üç bozulmuş gücüyle (şehvet -> fuhşiyat, öfke -> münker, tahakküm/vehm -> bağy) eşleştirerek derin bir psiko-politik tahlil sunmuştur.
 
 ---
 
@@ -260,7 +260,7 @@ peer_review:
   - `[YORUM]`: Salt hukuk (`Adl`) toplumu ayakta tutar ama soğuk bürokrasiye dönüşebilir; `İhsan` ve `Sosyal Dayanışma` hukuku merhametle ısıtır. Karşısındaki 3 yasak ise bireysel yozlaşmayı (`Fahşâ`), kamusal suçu (`Münker`) ve siyasal/kurumsal zorbalığı (`Bağy`) aynı anda engeller.
 
 - **Siyâk-Sibâk ve Tarihsel Bağlam:**
-Nahl Sûresi Mekke döneminin sonlarında inmiş olup nimetlerin sayımı ("Sûretü'n-Ni'am") ve ahde vefa teması üzerine kuruludur. 89. âyette Kur'an'ın "her şeyi açıklayan bir tibyân, hidayet, rahmet ve müjde" olduğu bildirilir; hemen ardından gelen 90. âyet bu "tibyân"ın (açıklayıcılığın) evrensel anayasasını 6 kavramla (3 emir + 3 yasak) özetler. Sibâkında ise (91-95. âyetler) antlaşmalara sadakat, yeminlerin bozulmaması ve toplumsal güveni ipliklerini çözen kadının durumuna düşürmeme uyarısı yer alır. Tarihsel olarak Halife Ömer b. Abdülazîz (ö. 101/720), Emevî hutbelerindeki siyasi lanetleme geleneğini kaldırıp yerine her cuma hutbesinin sonunda bu âyetin okunmasını emretmiş ve âyeti devletin resmi adalet manifestosu kılmıştır.
+Nahl Sûresi Mekke döneminin sonlarında inmiş olup nimetlerin sayımı ("Sûretü'n-Ni'am") ve ahde vefa teması üzerine kuruludur. 89. âyette Kur'an'ın "her şeyi açıklayan bir tibyân, hidayet, rahmet ve müjde" olduğu bildirilir; hemen ardından gelen 90. âyet bu "tibyân"ın (açıklayıcılığın) evrensel anayasasını 6 kavramla (3 emir + 3 yasak) özetler. Sibâkında ise (91-95. âyetler) antlaşmalara sadakat, yeminlerin bozulmaması ve toplumsal güveni ipliklerini çözen kadının durumuna düşürmeme uyarısı yer alır. Tarihsel olarak Halife Ömer b. Abdülazîz (ö. 101/720), Emevî hutbelerindeki siyasi lanetleme geleneğini kaldırıp yerine her cuma hutbesinin sonunda bu âyetin okunmasını emretmiş ve âyeti devletin resmi adalet manifestosu kılmıştır (İbn Sa'd, *et-Tabakâtü'l-Kübrâ*, C. 5, s. 330–395; İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 14, s. 261).
 
 ---
 
@@ -279,7 +279,7 @@ Nahl Sûresi Mekke döneminin sonlarında inmiş olup nimetlerin sayımı ("Sûr
 
 - **Ethos (Ahlaki Yük):** Sadece kanunun zorunlu kıldığı asgari adaleti (`adl`) vermekle yetinmeyip, kendi hakkından feragat ederek iyilik ve güzellik (`ihsân`) üretmek ve zorbalığa (`bağy`) asla tenezzül etmemek.
 - **Logos (Mantıksal Tutarlılık):** Üç emir ile üç yasak arasında tam bir yapısal simetri vardır: `Adl` `Bağy`i (zorbalığı) engeller; `İhsan` `Fahşâ`yı (çirkinliği) temizler; `Îtâi zi'l-kurbâ` ise `Münker`in (sosyal yabancılaşma ve kötülüğün) yayılmasını önler.
-- **Pathos (Vicdani ve Duygusal Tesir):** Ömer b. Abdülaziz'den bu yana 14 asırdır her cuma hutbesinin sonunda okunarak mümin vicdanında adalet, merhamet ve zulüm karşıtlığını sürekli tazeleyen bir medeniyet yemini oluşturur.
+- **Pathos (Vicdani ve Duygusal Tesir):** Ömer b. Abdülazîz'den (İbn Sa'd, *et-Tabakât*, 5/330; İbn Âşûr, *et-Tahrîr*, 14/261) bu yana 14 asırdır her cuma hutbesinin sonunda okunarak mümin vicdanında adalet, merhamet ve zulüm karşıtlığını sürekli tazeleyen bir medeniyet yemini oluşturur.
 - **Zahirî Hüküm:** Üç temel emir (Adalet, İhsan, Yakınlara/İhtiyaç Sahiplerine Verme) ve üç temel yasak (Fuhşiyat [açık ahlaksızlık/yolsuzluk], Münker [kamu vicdanının reddettiği kötülük], Bağy [haddi aşma, zorbalık ve zulüm]).
 - **Bâtınî Hikmet:** Yalnızca "Adalet" ile yetinen bir toplum soğuk, mekanik ve acımasız bir hukuk devletine dönüşür; "İhsan" adaletin boşluklarını şefkat, zarafet ve yetkinlikle doldurur. Buna karşılık "Adalet" olmadan "İhsan" (sadaka/lütuf) dağıtan bir düzen ise hakları gasp edip insanları sadakaya muhtaç bırakan feodal bir riyakârlığa dönüşür. Bu yüzden Kur'an önce Adaleti, hemen ardından İhsanı emreder.
 - **Hume Giyotini (Olgu-Değer Ayrımı):** "Devlet ve toplum adaleti, ihsanı ve dayanışmayı ayakta tutmalıdır" önermesi normatif bir değerdir (ought). Ancak "Bu âyetin her cuma hutbesinde okunduğu toplumlarda adalet ve ihsan kendiliğinden gerçekleşir" zannı olgusal bir yanılgıdır (is). Sözlü tilavet, kurumsal ve hukuki mekanizmalarla birleşmedikçe sosyolojik sonuç üretmez.
@@ -292,13 +292,13 @@ Nahl Sûresi Mekke döneminin sonlarında inmiş olup nimetlerin sayımı ("Sûr
 - **Hıfzu'l-Kerâme ve'l-İhsân (İnsan Onuru ve Kalite):** Kamu hizmetlerinde, sanatta, üretimde ve insan ilişkilerinde fazilet, yetkinlik ve merhamet ("ve'l-ihsân").
 - **Hıfzu'n-Nesl ve't-Tekâfül (Sosyal Dayanışma Ağı):** Çekirdek aileden ve akrabadan başlayarak kimsenin sahipsiz bırakılmaması ("ve îtâi zi'l-kurbâ").
 - **Hıfzu'l-Irz ve'l-Emn (Kamusal Ahlak ve Güvenlik):** Fuhşiyat, münker ve bağy (zorbalık/terör/tahakküm) üçlüsünün önlenmesi.
-- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
+- **Şâtıbî ve İbn Âşûr Makâsıd Hiyerarşisi:** `[YORUM]` Şâtıbî (*el-Muvâfakât*, C. 2, s. 8–25) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 14, s. 256–262) çerçevesinde âyetin vaz'ettiği hüküm *zarûriyyât* katmanında insan onuru ve kamu düzenini doğrudan korurken, *hâciyyât* katmanında kurumsal işleyişi kolaylaştırır ve *tahsîniyyât* katmanında üstün medeniyet ahlakını (*mekârimü'l-ahlâk*) tamamlar.
 
 ---
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Câmi'u'l-Kelim ve Makâsıd-ı Şerîa Usûlü (İbn Mes'ûd, Râgıb el-İsfahânî, Fahreddîn er-Râzî, İzz b. Abdüsselâm ve İbn Âşûr çizgisi).
+1. **Usûl Ekolü:** Câmi'u'l-Kelim ve Makâsıd-ı Şerîa Usûlü (İbn Mes'ûd [Taberî, *Câmi'u'l-Beyân*, C. 14, s. 348], Râgıb el-İsfahânî [*el-Müfredât*, s. 235], Fahreddîn er-Râzî [*Mefâtîh*, C. 20, s. 98], İzz b. Abdüsselâm [*Kavâidü'l-Ahkâm*, C. 1, s. 160] ve İbn Âşûr [*et-Tahrîr*, C. 14, s. 256] çizgisi).
 2. **Felsefi Perspektif:** Adalet ve bakım etiği (*ethics of justice and care*), sosyal sermaye kuramı ve anayasal refah devleti.
 3. **Alternatif Yorumcu Konumlarından Ayrışma:**
    - *Salt Bürokratik / Pozitivist Uç:* Yalnızca soğuk kanuni prosedürle (`adl`) yetinip şefkat, ihsan ve birincil dayanışma ağlarını (`ihsân ve zi'l-kurbâ`) dışlar.
@@ -338,7 +338,7 @@ Nahl Sûresi Mekke döneminin sonlarında inmiş olup nimetlerin sayımı ("Sûr
 - **Temel Sistem Değişkenleri (Stok & Akış Değişkenleri):** `[YORUM]` **Stok Değişkenler:** Hukuki Adalet Omurgası (*el-Adl*), Toplumsal Şefkat, Estetik ve Fazilet Sermayesi (*el-İhsân*), Aile ve Sosyal Dayanışma Ağı (*Îtâi Zi'l-Kurbâ*). **Akış Değişkenler:** Ahlaki Yozlaşma (`el-Fahşâ`), Kamusal Kötülük (`el-Münker`) ve Zorbalık/Haddi Aşma (`el-Bağy`) Yayılım Hızı ile Kurumsal Adalet, İhsan ve Sosyal Destek Akışı.
 - **Pekiştirici Döngü (R1 — Fahşâ, Münker ve Bağy Üçlü Çöküş Kısır Döngüsü / Vicious Cycle):** `[YORUM]` Bireysel Ahlaki Çürüme (`Fahşâ`) ve Kamusal Kötülüğün (`Münker`) Normalleşmesi (`+`) → Aile ve Yakın Dayanışma Ağlarının (`Zi'l-Kurbâ`) Çözülmesi ve Atomizasyon (`+`) → İhsan ve Merhamet Kültürünün Kaybolması (`-`) → Güçlülerin Zayıfları Ezdiği Kurumsal Zorbalık ve Hukuksuzluğun (`Bağy`) Hâkim Olması (`+`) → Toplumsal Anomi ve Güven Çöküşü (`+`) → Ahlaki Çürüme (`Fahşâ`) ve Kamusal Kötülüğün (`Münker`) Normalleşmesi (`+`). *(Adalet ve ihsan terk edildiğinde toplum fahşâ, münker ve bağy sarmalında çözülür).*
 - **Dengeleyici Döngü (B1 — Nahl 16:90 Altı Maddelik Medeniyet Anayasası Dengeleyicisi / Balancing Loop):** `[YORUM]` Toplumsal Kutuplaşma, Ahlaki Aşınma ve Zorbalık (`Bağy`) (`+`) → 1. Sütun: Tavizsiz Hukuki Eşitlik ve Hakkaniyet (`bi'l-‘adl`) (`+`) → 2. Sütun: Hukukun Boşluklarını Tamamlayan Ahlaki İhsan ve Fazilet (`wa'l-iḥsān`) ve 3. Sütun: Aile/Sosyal Dayanışma (`ītā’i dhi'l-qurbā`) (`+`) → `Fahşâ`, `Münker` ve `Bağy`'in Hukuki ve Kültürel Olarak Engellenmesi (`+`) → Toplumsal Kutuplaşma, Ahlaki Aşınma ve Zorbalık (`-`).
-- **Sistemik Gecikme (Delay) ve Kaldıraç Noktası (Leverage Point):** `[YORUM]` **Sistemik Gecikme (Delay):** Salt katı yasal düzenlemeler (`Adl`) kısa vadede düzen sağlasa da, `İhsan` (ahlaki fazilet) ve `Zi'l-Kurbâ` (sosyal dayanışma) kültürüyle desteklenmediğinde **5–10 yıl** içinde biçimsel bürokrasiye ve soğuk yabancılaşmaya dönüşür. **Kaldıraç Noktası (Leverage Point):** Ömer b. Abdülaziz'in cuma hutbelerine yerleştirdiği üzere, **hukuki adalet (`Adl`) ile sosyal merhamet (`İhsan`) ve devletin zorbalıktan (`Bağy`) arındırılması** ilkelerinin eşzamanlı kamu politikası karnesi olarak izlenmesidir.
+- **Sistemik Gecikme (Delay) ve Kaldıraç Noktası (Leverage Point):** `[YORUM]` **Sistemik Gecikme (Delay):** Salt katı yasal düzenlemeler (`Adl`) kısa vadede düzen sağlasa da, `İhsan` (ahlaki fazilet) ve `Zi'l-Kurbâ` (sosyal dayanışma) kültürüyle desteklenmediğinde **5–10 yıl** içinde biçimsel bürokrasiye ve soğuk yabancılaşmaya dönüşür. **Kaldıraç Noktası (Leverage Point):** Ömer b. Abdülazîz'in (İbn Sa'd, *et-Tabakât*, C. 5, s. 330; İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 14, s. 261) cuma hutbelerine yerleştirdiği üzere, **hukuki adalet (`Adl`) ile sosyal merhamet (`İhsan`) ve devletin zorbalıktan (`Bağy`) arındırılması** ilkelerinin eşzamanlı kamu politikası karnesi olarak izlenmesidir.
 - **Kırılma Noktası (Tipping Point) ve Erken Uyarı Sinyali (N4 / EU):** `[YORUM]` **Tipping Point (Kırılma Noktası):** Kamu gücünü kullananların veya ekonomik tekellerin zayıflara karşı haddi aşmasının (`bağy`) cezasız kalması ve birincil aile/komşuluk dayanışma ağlarının tamamen çökmesi. **Erken Uyarı Sinyali (N4 / EU-01):** Yalnız yaşayan yaşlı ve kimsesiz oranlarında artış, kamusal alanda şiddet ve kabalığın (`münker`) normalleşmesi, OECD Sosyal Bağlılık ve Güven göstergelerinde düşüş.
 
 ---
@@ -463,7 +463,7 @@ Katman 3 uyarınca bütünsel medeniyet yönetişimi simülasyonu:
 
 - **Önyargı ve Yanlılık Filtresi:** Rapor, geleneksel vaaz dilinin soyut genellemelerinden kaçınarak; âyetteki 6 temel kavramı modern anayasa hukuku, refah iktisadı ve kurumsal etik göstergeleriyle somutlaştırmıştır.
 - **Dil Güvenliği ve Öz-Denetim:** Metin boyunca mezhepçi, ideolojik veya mutlakiyetçi ifadelerden kaçınılmış; `[NAKİL]` ve `[YORUM]` sınırları korunmuştur.
-- **Retrodiction (Geriye Dönük Sınama Özeti):** Geriye dönük tarihsel analizler (retrodiction), Emevîler döneminde kabile asabiyeti ve siyasi bağy (tahakküm) tırmandığında toplumsal isyanların patlak verdiğini; Ömer b. Abdülazîz'in Nahl 16:90'ı hutbelere ve devlet yönetimine merkez yaparak haksız müsadere edilen malları iade etmesiyle (Adl) ve yoksullara/borçlulara hazineden destek vermesiyle (İhsan) kısa sürede toplumsal barış ve refah sağlandığını gösterir.
+- **Retrodiction (Geriye Dönük Sınama Özeti):** Geriye dönük tarihsel analizler (retrodiction), Emevîler döneminde kabile asabiyeti ve siyasi bağy (tahakküm) tırmandığında toplumsal isyanların patlak verdiğini; Ömer b. Abdülazîz'in Nahl 16:90'ı hutbelere ve devlet yönetimine merkez yaparak haksız müsadere edilen malları iade etmesiyle (Adl) ve yoksullara/borçlulara hazineden destek vermesiyle (İhsan) kısa sürede toplumsal barış ve refah sağlandığını (İbn Sa'd, *et-Tabakâtü'l-Kübrâ*, C. 5, s. 330–395; İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 14, s. 261) gösterir.
 
 ---
 
@@ -510,7 +510,7 @@ Katman 3 uyarınca bütünsel medeniyet yönetişimi simülasyonu:
 - 1. Yıl: Kamu Etiği, Nepotizm Yasağı ve Kurumsal Mobbing/Bağy Önleme Paketi.
 - 3. Yıl: Ulusal Vakıf ve Sosyal Dayanışma (İhsan) Ağı'nın dijitalleşmesi.
 - 5. Yıl: Hukukun Üstünlüğü Endeksinde $\ge 0.85$ ve Sosyal Uyum Endeksinde OECD ilk çeyreğine yükseliş.
-- **Geriye Dönük Sınama (Retrodiction):** Geriye dönük tarihsel analizler (retrodiction), Emevîler döneminde kabile asabiyeti ve siyasi bağy (tahakküm) tırmandığında toplumsal isyanların patlak verdiğini; Ömer b. Abdülazîz'in Nahl 16:90'ı hutbelere ve devlet yönetimine merkez yaparak haksız müsadere edilen malları iade etmesiyle (Adl) ve yoksullara/borçlulara hazineden destek vermesiyle (İhsan) kısa sürede toplumsal barış ve refah sağlandığını gösterir.
+- **Geriye Dönük Sınama (Retrodiction):** Geriye dönük tarihsel analizler (retrodiction), Emevîler döneminde kabile asabiyeti ve siyasi bağy (tahakküm) tırmandığında toplumsal isyanların patlak verdiğini; Ömer b. Abdülazîz'in Nahl 16:90'ı hutbelere ve devlet yönetimine merkez yaparak haksız müsadere edilen malları iade etmesiyle (Adl) ve yoksullara/borçlulara hazineden destek vermesiyle (İhsan) kısa sürede toplumsal barış ve refah sağlandığını (İbn Sa'd, *et-Tabakâtü'l-Kübrâ*, C. 5, s. 330–395; İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 14, s. 261) gösterir.
 
 ---
 
@@ -521,8 +521,8 @@ Katman 3 uyarınca bütünsel medeniyet yönetişimi simülasyonu:
 - **Temel Varsayım:** Kurumsal şeffaflık, hukuki caydırıcılık ve içsel ahlak (`takvâ / ihsân`) birleştiğinde toplumsal aktörlerin yapıcı işbirliğine yöneleceği kabul edilmiştir.
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Nahl 16:90 — Adalet, İhsan ve Sosyal Dayanışma Anayasası):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Adalet (Adl), İyilik ve Fazilet (İhsan), Aile/Komşuluk Dayanışması ve Kötülükten Sakınma.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Her cuma hutbesinin sonunda okunan Nahl 16:90 âyetinin İbn Mes'ûd tarafından *"Kur'an'ın en kapsamlı hayır ve şer özeti"* olarak nitelendirilmesi paylaşılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Üç emir (`Adl`: hukuki eşitlik, `İhsan`: hukukun üstünde şefkat ve fazilet, `Îtâi zi'l-kurbâ`: sosyal dayanışma) ile üç yasak (`Fahşâ`: bireysel ahlaksızlık, `Münker`: kamusal kötülük, `Bağy`: zorbalık ve haddi aşma) Râgıb ve Râzî üzerinden karşılaştırılır.
+  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Her cuma hutbesinin sonunda okunan Nahl 16:90 âyetinin İbn Mes'ûd tarafından *"Kur'an'ın en kapsamlı hayır ve şer özeti"* (Taberî, *Câmi'u'l-Beyân*, C. 14, s. 348; Buhârî, *el-Edebü'l-Müfred*, nr. 599) olarak nitelendirilmesi paylaşılır.
+  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Üç emir (`Adl`: hukuki eşitlik, `İhsan`: hukukun üstünde şefkat ve fazilet, `Îtâi zi'l-kurbâ`: sosyal dayanışma) ile üç yasak (`Fahşâ`: bireysel ahlaksızlık, `Münker`: kamusal kötülük, `Bağy`: zorbalık ve haddi aşma) Râgıb (*el-Müfredât*, s. 235–238) ve Râzî (*Mefâtîhu'l-Gayb*, C. 20, s. 98–104) üzerinden karşılaştırılır.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Salt kanuni adaletin (`Adl`) merhamet ve ihsan (`İhsan`) olmadan neden soğuk bürokrasiye dönüşeceği `R1` ve `B1` döngüleri üzerinden müzakere edilir.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler okul ve mahalle hayatında `Adl + İhsan + Zi'l-Kurbâ` üçlüsünü hayata geçiren somut eylem adımları belirler.
 
@@ -566,11 +566,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990.
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992.
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hicr, 1422/2001.
-- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hicr, 1422/2001. Erişim: https://shamela.ws/book/7798
+- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Organisation for Economic Co-operation and Development [OECD] (2025).** *Society at a Glance 2025: Social Cohesion, Philanthropy and Welfare Indicators*. Paris: OECD Publishing. https://www.oecd.org

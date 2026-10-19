@@ -286,7 +286,7 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Çoğulcu-Makāsıdî usûl ve İbn Teymiyye'nin *es-Siyâsetü'ş-Şer'iyye* omurgası.
+1. **Usûl Ekolü:** Çoğulcu-Makāsıdî usûl ve İbn Teymiyye'nin *es-Siyâsetü'ş-Şer'iyye* (s. 12–25) omurgası.
 2. **Felsefi Perspektif:** Kurumsal iktisat (Acemoğlu & Robinson kapsayıcı kurumlar kuramı), Max Weber liyakate dayalı rasyonel bürokrasi modeli ve kuvvetler ayrılığı ilkesi.
 3. **Alternatif Yorumcu Konumu:**
    - *Gelenekçi Otokratik / İtaatçi Perspektif:* Âyeti sadece fertler arası borç emanetine indirger; yöneticiye kayıtsız şartsız itaat dayatarak kamu denetimini felç eder.
@@ -321,7 +321,7 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 ### ADIM 07 — SİSTEM HARİTASI (CAUSAL LOOP DİAGRAMI — CLD), GECİKME VE KIRILMA NOKTASI (N4)
 
 - **Temel Sistem Değişkenleri (Stok & Akış Değişkenleri):** `[YORUM]` **Stok Değişkenler:** Kamu Kurumları Liyakat Stoku (*Ehlü'l-Emâne*), Yargı Bağımsızlığı ve Adalet Sermayesi (*el-Hükm bi'l-Adl*), Vatandaşın Devlete Güven Stoku. **Akış Değişkenler:** Liyakatli Atama Oranı (`tu’addū'l-amānāti ilā ahlihā`), Nepotizm/Kayırmacılık Akışı, Tarafsız Yargı Kararı Hızı (`bayna'n-nās bi'l-‘adl`) ve Beyin Göçü / Kurumsal Çürüme Hızı.
-- **Pekiştirici Döngü (R1 — Nepotizm, Yargısal Aşınma ve Kurumsal Çöküş Kısır Döngüsü / Vicious Cycle):** `[YORUM]` Kamu Atamalarında Nepotizm ve Sadakat Kayırmacılığı (`+`) → Ehliyetsiz Kadroların Kritik Makamlara Yerleşmesi (`+`) → Kamu Hizmeti Kalitesinin ve Yargı Tarafsızlığının Düşmesi (`-`) → Nitelikli İnsan Kaynağının Sistemden Dışlanması ve Beyin Göçü (`+`) → Kurumsal Denetim Mekanizmalarının Körelmesi (`+`) → Kamu Atamalarında Nepotizm ve Sadakat Kayırmacılığı (`+`). *(Emanetin ehlinden alınması, İbn Teymiyye ve Râzî'nin vurguladığı üzere devlet nizamını içeriden çökertir).*
+- **Pekiştirici Döngü (R1 — Nepotizm, Yargısal Aşınma ve Kurumsal Çöküş Kısır Döngüsü / Vicious Cycle):** `[YORUM]` Kamu Atamalarında Nepotizm ve Sadakat Kayırmacılığı (`+`) → Ehliyetsiz Kadroların Kritik Makamlara Yerleşmesi (`+`) → Kamu Hizmeti Kalitesinin ve Yargı Tarafsızlığının Düşmesi (`-`) → Nitelikli İnsan Kaynağının Sistemden Dışlanması ve Beyin Göçü (`+`) → Kurumsal Denetim Mekanizmalarının Körelmesi (`+`) → Kamu Atamalarında Nepotizm ve Sadakat Kayırmacılığı (`+`). *(Emanetin ehlinden alınması, İbn Teymiyye [es-Siyâsetü'ş-Şer'iyye, s. 12–14] ve Râzî'nin [Mefâtîhu'l-Gayb, C. 10, s. 142] vurguladığı üzere devlet nizamını içeriden çökertir).*
 - **Dengeleyici Döngü (B1 — Nisâ 4:58 Emanet-Liyakat ve Evrensel Adalet Dengeleyicisi / Balancing Loop):** `[YORUM]` Kurumsal Yozlaşma ve Adalet Açığı (`+`) → Nesnel Liyakat Sınavları ve Şeffaf Atama Denetimi (`ilā ahlihā`) (`+`) → Kimlik Ayrımı Gözetmeksizin Tüm İnsanlar Arasında Adil Yargılama (`bayna'n-nās bi'l-‘adl`) (`+`) → Hukuk Güvenliği, Yatırım İklimi ve Toplumsal Meşruiyetin Güçlenmesi (`+`) → Kurumsal Yozlaşma ve Adalet Açığı (`-`).
 - **Sistemik Gecikme (Delay) ve Kaldıraç Noktası (Leverage Point):** `[YORUM]` **Sistemik Gecikme (Delay):** Liyakatsiz atamaların yol açtığı kurumsal hafıza kaybı ve mühendislik/yargı hataları genellikle **3–5 yıllık** bir gecikmeyle ağır ekonomik veya toplumsal krizlerde ortaya çıkar. **Kaldıraç Noktası (Leverage Point):** Kamu görevine giriş ve terfilerde **bağımsız, denetlenebilir liyakat ölçütlerinin** (`ilā ahlihā`) tavizsiz uygulanması ve yargı kararlarının kimlikten bağımsız (`bayna'n-nās`) şeffaf denetimidir.
 - **Kırılma Noktası (Tipping Point) ve Erken Uyarı Sinyali (N4 / EU):** `[YORUM]` **Tipping Point (Kırılma Noktası):** Yargı ve üst düzey bürokrasi atamalarında mesleki ehliyet yerine siyasi/zümrevi sadakatin belirleyici kural haline gelmesi ve mahkemelere güvenin `%40`'ın altına inmesi. **Erken Uyarı Sinyali (N4 / EU-01):** Mülakat-yazılı sınav sapmalarının büyümesi, WJP Hukukun Üstünlüğü Endeksi (*Factor 1 & 2*) puanlarında gerileme ve nitelikli genç uzmanların yurt dışına göç hızında artış.
@@ -367,7 +367,7 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 - **Test 1 (Lafız Uyumu):** Nisâ 58. âyettir; mushaf metnine uygundur.
 - **Test 2 (İmla):** Resm-i Osmânî imlâsı doğrulanmıştır.
 - **Test 3 (Bağlam):** Nisâ 4:59 itaat âyeti ile sınır ilişkisi test edilmiştir.
-- **Test 4 (Sağlamlık):** Zemahşerî, Râgıb, İbn Teymiyye ve İbn Âşûr mutabakatı tescillenmiştir.
+- **Test 4 (Sağlamlık):** Zemahşerî (*el-Keşşâf*, 2/98), Râgıb (*el-Müfredât*, s. 90), İbn Teymiyye (*es-Siyâsetü'ş-Şer'iyye*, s. 12) ve İbn Âşûr (*et-Tahrîr*, 5/91) mutabakatı tescillenmiştir.
 - **Test 5 (Siyak-Sibak Uyumu):** S1–S7 maddeleri eksiksiz incelenmiştir.
 - **Test 6 (Dil Güvenliği):** Kesinlik ve sahte onay iddialarından arındırılmıştır.
 - **Test 7 (Base-rate ve Veri Uyumu):** Dünya Bankası Kamu Yönetişim Göstergeleri (WGI)[^6] ve WJP Hukukun Üstünlüğü Endeksi[^7] referans alınmıştır (https://worldjusticeproject.org/).
@@ -479,7 +479,7 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 ---
 
 ### ADIM 18 — BİLGİ TABANI VE ZAYIFLIK LİSTESİ
-- **Bilgi Tabanı:** Klasik tefsirler (Zemahşerî, Râgıb), siyasetnameler (*es-Siyâsetü'ş-Şer'iyye*), uluslararası yönetişim endeksleri.
+- **Bilgi Tabanı:** Klasik tefsirler (Zemahşerî, *el-Keşşâf*, C. 2, s. 98; Râgıb, *el-Müfredât*, s. 90), siyasetnameler (İbn Teymiyye, *es-Siyâsetü'ş-Şer'iyye*, s. 12–25), uluslararası yönetişim endeksleri.
 - **Zayıflıklar:** Gelişmekte olan ülkelerde patronaj ağlarının kemikleşmiş direnci.
 
 ---
@@ -501,7 +501,7 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Nisâ 4:58 — Kamu Emaneti, Liyakat ve Adil Yargı):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Emanet, Liyakat (Ehliyet), Adalet, Tarafsızlık ve Hesap Verebilirlik.*
   - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Mekke'nin fethi günü Hz. Peygamber'in Kâbe'nin anahtarını kendi akrabalarına değil, ezelî emanet ehline (Osman b. Talha'ya; İbn Hişâm, *es-Sîre*, 4/55; Vâkıdî, *el-Meğâzî*, 2/833) teslim etmesi kıssası üzerinden `"emânâtı ehline verme"` ilkesi tartışılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Çoğul `el-emânât` lafzı, `ehlihâ` (liyakat ve ehliyet sahipleri) ve `beyne'n-nâs` (inanç ve kimlik ayrımı gözetmeksizin tüm insanlar arasında adalet) kavramları Râzî ve İbn Teymiyye (*es-Siyâsetü'ş-Şer'iyye*) nakilleriyle incelenir.
+  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Çoğul `el-emânât` lafzı, `ehlihâ` (liyakat ve ehliyet sahipleri) ve `beyne'n-nâs` (inanç ve kimlik ayrımı gözetmeksizin tüm insanlar arasında adalet) kavramları Râzî (*Mefâtîhu'l-Gayb*, C. 10, s. 142–145) ve İbn Teymiyye (*es-Siyâsetü'ş-Şer'iyye*, s. 12–14) nakilleriyle incelenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Nepotizm/kayırmacılık sarmalı (`R1`) ile liyakat ve bağımsız yargı dengeleyicisi (`B1`) arasındaki nedensel ilişki WJP Hukukun Üstünlüğü verileriyle analiz edilir.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler kamu görevlerinde liyakat ve çıkar çatışması ilkelerini içeren bir *Kamu Etiği Şartnamesi* tasarlar.
 
@@ -526,10 +526,10 @@ Bu gerilim şu çetin soruları doğurur:
 
 | Görüş Sahibi / Ekol | Lafzî Yorumu | Hukuki / Stratejik Neticesi | Dayandığı Temel Delil |
 | :--- | :--- | :--- | :--- |
-| **Görüş 1: Klasik Fıkıh Ekolü (Cumhur / Mâverdî, Gazzâlî)** | Emanetler kamu görevleridir; yönetici adil, kifayetli ve güvenilir olanı atamakla mükelleftir. | Müslüman olmayanların harp ve yargı gibi kritik velayet makamlarına atanması caiz görülmez; istişare ve vergi gibi işlerde çalıştırılabilir. | Tevbe 9:16 ve Nisâ 4:141 âyetleri; maslahat-ı amme. |
+| **Görüş 1: Klasik Fıkıh Ekolü (Cumhur / Mâverdî, Gazzâlî)** | Emanetler kamu görevleridir; yönetici adil, kifayetli ve güvenilir olanı atamakla mükelleftir. | Müslüman olmayanların harp ve yargı gibi kritik velayet makamlarına atanması caiz görülmez; istişare ve vergi gibi işlerde çalıştırılabilir. | Tevbe 9:16, Nisâ 4:141 ve maslahat-ı amme (Mâverdî, *el-Ahkâmü's-Sultâniyye*, s. 27–38; Gazzâlî, *İhyâu Ulûmi'd-Dîn*, C. 2, s. 140). |
 | **Görüş 2: İbn Teymiyye ve İbnü'l-Kayyim Ekolü** | Ehliyet göreve göre değişir. Askerlikte cesur günahkâr, zayıf muttakiye tercih edilir (*el-kaviyyü'l-fâcir evlâ mine'd-daîfi'l-berr*). | Liyakat işin doğasına göredir; sırf dindarlık tek başına liyakat sayılmaz. En ehil olan göreve getirilir. | Hz. Peygamber'in Hâlid b. Velîd ve Amr b. Âs'ı yeni Müslüman oldukları halde ordu komutanı yapması (Buhârî, *Meğâzî*, 44, nr. 4262; Müslim, *İmâre*, 132, nr. 1837; İbn Teymiyye, *es-Siyâsetü'ş-Şer'iyye*, s. 18–21). |
 | **Görüş 3: Otokratik / İtaatçi Saltanat Ekolü** | Âyet ahlaki bir tavsiyedir; yöneticinin atama takdiri sınırsızdır ve sorgulanamaz. | Padişah/halife dilediğini tayin eder; itaatsizlik fitnedir. Nepotizm şer'î bir azil sebebi sayılmaz. | Siyasi istikrar gerekçesi ve ulu'l-emre kayıtsız itaat tevili. |
-| **Görüş 4: Çağdaş Makasıdî ve Anayasal Ekol (İbn Âşûr, Muhammed Abduh)** | Âyetteki `beyne'n-nâs` lafzı evrensel eşit vatandaşlık bildirir. Liyakat objektif sınav ve denetime bağlanmalıdır. | Din, ırk ve mezhep ayrımı yapılmaksızın tüm vatandaşlar kamu görevlerine eşit hakla girer. Yargı yürütmeden tam bağımsızdır. | Nisâ 4:58 lafzı, Medine Sözleşmesi ve Nebevî emanet uygulamaları. |
+| **Görüş 4: Çağdaş Makasıdî ve Anayasal Ekol (İbn Âşûr, Muhammed Abduh)** | Âyetteki `beyne'n-nâs` lafzı evrensel eşit vatandaşlık bildirir. Liyakat objektif sınav ve denetime bağlanmalıdır. | Din, ırk ve mezhep ayrımı yapılmaksızın tüm vatandaşlar kamu görevlerine eşit hakla girer. Yargı yürütmeden tam bağımsızdır. | Nisâ 4:58 lafzı ve Medine Sözleşmesi (İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 5, s. 91–95; Muhammed Abduh & Reşîd Rızâ, *Tefsîrü'l-Menâr*, C. 5, s. 165). |
 
 ---
 
@@ -556,11 +556,11 @@ Bu gerilim şu çetin soruları doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993.
-- **İbn Teymiyye, Takıyyüddîn Ahmed b. Abdilhalîm (ö. 728/1328).** *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*. Tahkik: Ali b. Muhammed el-Umrân. Mekke: Dâru Âlemi'l-Fevâid, 1419/1998.
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992.
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
+- **İbn Teymiyye, Takıyyüddîn Ahmed b. Abdilhalîm (ö. 728/1328).** *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*. Tahkik: Ali b. Muhammed el-Umrân. Mekke: Dâru Âlemi'l-Fevâid, 1419/1998. Erişim: https://shamela.ws/book/31237
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **World Bank Group (2024).** *Worldwide Governance Indicators (WGI): Bureaucratic Quality and Rule of Law*. Washington, D.C.: The World Bank. Erişim adresi: https://datacatalog.worldbank.org

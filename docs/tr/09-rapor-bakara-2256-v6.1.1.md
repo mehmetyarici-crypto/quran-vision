@@ -289,7 +289,7 @@ Bakara 2:256, Kur'ân'ın tevhid zirvesi olan **Âyetü'l-Kürsî (2:255)**'nin 
 
 ### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
 
-1. **Usûl Ekolü:** Çoğulcu-Makāsıdî usûl (Taberî, Şâtıbî, İbn Âşûr ve Muhammed Abduh çizgisi).
+1. **Usûl Ekolü:** Çoğulcu-Makāsıdî usûl (Taberî, *Câmi'u'l-Beyân*, C. 4, s. 550; Şâtıbî, *el-Muvâfakât*, C. 2, s. 8–25; İbn Âşûr, *et-Tahrîr ve't-Tenvîr*, C. 3, s. 26–29 ve Muhammed Abduh, *Tefsîrü'l-Menâr*, C. 3, s. 31–38 çizgisi).
 2. **Felsefi Perspektif:** Eleştirel realizm, anayasal çoğulculuk ve John Locke - Kant çizgisindeki vicdan hürriyeti felsefesi.
 3. **Alternatif Yorumcu Konumu:**
    - *Tekfirci / Totaliter Teokratik Perspektif:* Âyetin cizye veya savaş nasslarıyla neshedildiğini öne sürerek inançta zorlamayı ve tek tip ideolojiyi savunur.
@@ -371,7 +371,7 @@ Bakara 2:256, Kur'ân'ın tevhid zirvesi olan **Âyetü'l-Kürsî (2:255)**'nin 
 - **Test 1 (Lafız Uyumu):** Bakara 256. âyettir; mushaf metnine uygundur.
 - **Test 2 (İmla):** Resm-i Osmânî imlâsı teyit edilmiştir.
 - **Test 3 (Bağlam):** 2:255 Âyetü'l-Kürsî ve 2:257 ile bağlamsal bütünlük sınanmıştır.
-- **Test 4 (Sağlamlık):** Taberî, Zemahşerî, Râgıb ve İbn Âşûr ittifakı doğrulanmıştır.
+- **Test 4 (Sağlamlık):** Taberî (*Câmi'u'l-Beyân*, 4/550), Zemahşerî (*el-Keşşâf*, 1/488), Râgıb (*el-Müfredât*, s. 710) ve İbn Âşûr (*et-Tahrîr*, 3/26) ittifakı doğrulanmıştır.
 - **Test 5 (Siyak-Sibak Uyumu):** 5a-5g bağlam kodları kontrol edilmiştir.
 - **Test 6 (Dil Güvenliği):** Mutlakiyet ve sahte onay iddialarından arındırılmıştır.
 - **Test 7 (Base-rate ve Veri Uyumu):** Pew Research Center Küresel Din Kısıtlamaları Endeksi[^6] referans alınmıştır (https://www.pewresearch.org/religion/).
@@ -384,7 +384,7 @@ Bakara 2:256, Kur'ân'ın tevhid zirvesi olan **Âyetü'l-Kürsî (2:255)**'nin 
 
 - **Red Team İtirazları:**
   - *İtiraz:* "Bu âyet kâfirler için inmiştir; Müslüman olan biri dinden çıkarsa öldürülür (mürted hükmü). Demek ki dinde zorlama vardır."
-  - *Cevap:* Bu itiraz lafzın umumiliğini çiğner. Erken dönem fakihlerinden İbrâhîm en-Nehaî ve Süfyân es-Sevrî gibi otoriteler mürtede süre tanınacağını ve tövbeye davet edileceğini, asla aceleyle öldürülemeyeceğini savunmuştur. Modern fıkıhta ise irtidat cezası 'düşünce suçu' değil, Medine dönemindeki 'vatana ihanet ve askeri isyan' (*hıyânet-i uzmâ*) suçu olarak değerlendirilmektedir. Sırf dinî kanaat değişikliğine ceza vermek 2:256'yı iptal eder.
+  - *Cevap:* Bu itiraz lafzın umumiliğini çiğner. Erken dönem fakihlerinden İbrâhîm en-Nehaî ve Süfyân es-Sevrî gibi otoriteler mürtede süre tanınacağını ve tövbeye davet edileceğini, asla aceleyle öldürülemeyeceğini savunmuştur (Abdürrezzâk, *el-Musannef*, C. 10, s. 166, nr. 18697; İbn Ebî Şeybe, *el-Musannef*, C. 5, s. 545). Modern fıkıhta ise irtidat cezası 'düşünce suçu' değil, Medine dönemindeki 'vatana ihanet ve askeri isyan' (*hıyânet-i uzmâ*) suçu olarak değerlendirilmektedir. Sırf dinî kanaat değişikliğine ceza vermek 2:256'yı iptal eder.
 - **Falsifiabilite Protokolü (Yalnızca Ampirik ve Dünyevi Politika Hipotezlerine):**
   - **Uygulanan Alan:** Karar kollarındaki ampirik uygulama modeli.
   - **Zaman Aralığı:** 5 Yıllık İzleme Penceresi (2026–2031).
@@ -484,7 +484,7 @@ Bakara 2:256, Kur'ân'ın tevhid zirvesi olan **Âyetü'l-Kürsî (2:255)**'nin 
 ---
 
 ### ADIM 18 — BİLGİ TABANI VE ZAYIFLIK LİSTESİ
-- **Bilgi Tabanı:** Klasik tefsirler (Taberî, Zemahşerî), usûl eserleri, uluslararası din özgürlüğü endeksleri.
+- **Bilgi Tabanı:** Klasik tefsirler (Taberî, *Câmi'u'l-Beyân*, C. 4, s. 550; Zemahşerî, *el-Keşşâf*, C. 1, s. 488), usûl eserleri, uluslararası din özgürlüğü endeksleri.
 - **Zayıflıklar:** Geleneksel fıkıh literatüründeki irtidat ve cizye ahkâmının modern kamuoyundaki yanlış anlaşılmaları.
 
 ---
@@ -506,7 +506,7 @@ Bakara 2:256, Kur'ân'ın tevhid zirvesi olan **Âyetü'l-Kürsî (2:255)**'nin 
 - **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Bakara 2:256 — Din ve Vicdan Hürriyeti, İkrah Yasağı):**
   - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Özgürlük, Hakikat Saygısı, Samimiyet (İhlas), Hoşgörü ve İnsan Onuru.*
   - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** `"Lâ ikrâhe fi'd-dîn"` (Dinde hiçbir zorlama yoktur) ilkesinin nüzul sebebi (Medineli Ensâr ailelerinin Hıristiyan olan evlatlarını zorla İslam'a sokmak istemeleri üzerine inmesi — Ebû Dâvûd, *Cihâd*, 115, nr. 2682; Taberî, *Câmi'u'l-Beyân*, C. 4, s. 550) paylaşılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Cinsini nefyeden `Lâ` edatı, `rüşd` (akli ve ahlaki doğruluk), `ğayy` (sapıklık), `tâğût` ve `urvetü'l-vüskâ` (kopmayan sağlam kulp) kavramları Râzî ve İbn Âşûr'un yorumlarıyla çözümlenir.
+  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Cinsini nefyeden `Lâ` edatı, `rüşd` (akli ve ahlaki doğruluk), `ğayy` (sapıklık), `tâğût` ve `urvetü'l-vüskâ` (kopmayan sağlam kulp) kavramları Râzî (*Mefâtîhu'l-Gayb*, C. 7, s. 14–16) ve İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 3, s. 26–29) yorumlarıyla çözümlenir.
   - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** `R1` (baskı ve dayatmanın ikiyüzlülük/nifak ve nefret üretmesi) ile `B1` (vicdan hürriyeti ve rasyonel delilin samimi iman ve toplumsal barış üretmesi) döngüleri karşılaştırılır.
   - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler Medine Vesikası'ndan bugüne inanç özgürlüğünün medeniyet inşasındaki yerini değerlendirir.
 
@@ -523,7 +523,7 @@ Bakara 2:256 âyetinin İslam düşünce tarihindeki en derin teolojik ve hukuki
 Bu durum şu açık gerilimleri doğurur:
 1. Eğer dine girerken zorlama yoksa, dinden çıkarken ölüm tehdidiyle zorlama yapmak "Dinde zorlama yoktur" ilkesiyle nasıl bağdaştırılabilir? Bir dine girişi serbest kılıp çıkışı idamla yasaklamak, vicdan hürriyetinin özünü zedelemez mi?
 2. Erken dönem hadis rivayetlerindeki *"Dinini değiştireni öldürün"* (*men beddele dînehû faktülûh*; Buhârî, *Cihâd*, 149, nr. 3017, *İstitâbetü'l-Mürteddîn*, 2, nr. 6922; Ebû Dâvûd, *Hudûd*, 1, nr. 4351) lafzı; o dönemde Medine toplumundan ayrılıp düşman kabilelerin ordusuna katılan 'askeri firar ve vatana ihanet' vakalarına mı mahsustur, yoksa sırf ferdî vicdani kanaat değişikliğini mi kapsar?
-3. Klasik ulemadan Şâtıbî ve İbn Âşûr ile modern dönem müfessirleri, 2:256'nın muhkem olduğunu ve sırf düşünce/inanç değişikliğinin ölümle cezalandırılamayacağını savunmaktadır. Ancak geleneksel literatürdeki mürted ahkâmı ile 2:256 arasındaki bu gerilim, modern hukuk düzeninde hâlâ tam anlamıyla çözümlenmemiş bir tefsir ve fıkıh usûlü aporiası olarak varlığını sürdürmektedir.
+3. Klasik ulemadan Şâtıbî (*el-Muvâfakât*, C. 2, s. 8–25) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 3, s. 26–29) ile modern dönem müfessirleri, 2:256'nın muhkem olduğunu ve sırf düşünce/inanç değişikliğinin ölümle cezalandırılamayacağını savunmaktadır. Ancak geleneksel literatürdeki mürted ahkâmı ile 2:256 arasındaki bu gerilim, modern hukuk düzeninde hâlâ tam anlamıyla çözümlenmemiş bir tefsir ve fıkıh usûlü aporiası olarak varlığını sürdürmektedir.
 
 ---
 
@@ -534,7 +534,7 @@ Bu durum şu açık gerilimleri doğurur:
 | **Görüş 1: Klasik Zâhirî / Haricî Literalist Ekol** | Âyet mensuhtur; Tevbe 9:5 ve 9:29 ile hükmü kaldırılmıştır. | Kâfirler ya İslam'a ya cizyeye zorlanır; kabul etmeyenle savaşılır. | Tevbe 9:5 kıtal emrinin umumiliği. |
 | **Görüş 2: Klasik Dört Mezhep (Cumhur Fıkıh Ekolü)** | Âyet muhkemdir fakat Ehl-i Kitap ile sınırlıdır (tahsistir); cizye veren kitap ehli zorlanmaz. | Arap müşrikleri İslam'a zorlanır; kitap ehli serbest bırakılır. Mürted cezalandırılır. | Nüzul sebebi rivayetleri ve cizye uygulaması. |
 | **Görüş 3: Erken Usûl Azınlığı (Taberî, Süfyân es-Sevrî, en-Nehaî)** | Âyet umumidir; hiçbir insan (müşrik dahil) zorlanamaz. Mürtede ebediyen mühlet verilir. | Dinî tercihte tam serbestlik; cebirle Müslüman yapma eylemi batıldır. | Âyetteki cins nefyeden `Lâ` edatı ve Hz. Peygamber'in uygulamaları (Ebû Dâvûd, *Cihâd*, 115, nr. 2682; Taberî, *Câmi'u'l-Beyân*, 4/550). |
-| **Görüş 4: Çağdaş Makasıdî Ekol (Şâtıbî, İbn Âşûr, Abduh, Mevdûdî)** | Âyet evrensel ve muhkem bir anayasa kuralıdır. Nesh gerçekleşmemiştir; âyet muhkemdir. | Bütün din, inanç ve felsefi tercihler tam vicdan hürriyetine sahiptir. İrtidat cezası sadece fiili siyasi isyan ve vatana ihanet durumunda uygulanır. | Bakara 2:256 lafzı, Yûnus 10:99 ve Kehf 18:29 muhkem âyetleri. |
+| **Görüş 4: Çağdaş Makasıdî Ekol (Şâtıbî, İbn Âşûr, Abduh, Mevdûdî)** | Âyet evrensel ve muhkem bir anayasa kuralıdır. Nesh gerçekleşmemiştir; âyet muhkemdir. | Bütün din, inanç ve felsefi tercihler tam vicdan hürriyetine sahiptir. İrtidat cezası sadece fiili siyasi isyan ve vatana ihanet durumunda uygulanır. | Bakara 2:256, Yûnus 10:99 ve Kehf 18:29 (Şâtıbî, *el-Muvâfakât*, 2/8; İbn Âşûr, *et-Tahrîr*, 3/26; Muhammed Abduh, *Tefsîrü'l-Menâr*, C. 3, s. 31–38). |
 
 ---
 
@@ -561,11 +561,11 @@ Bu durum şu açık gerilimleri doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993.
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992.
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hecer, 1422/2001.
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hecer, 1422/2001. Erişim: https://shamela.ws/book/7798
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Freedom House (2024).** *Freedom in the World 2024: Religious Freedom and Civil Liberties*. Washington, D.C.: Freedom House. Erişim adresi: https://freedomhouse.org

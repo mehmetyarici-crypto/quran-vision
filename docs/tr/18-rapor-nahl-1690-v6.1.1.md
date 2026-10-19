@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "3"
-    pages: "466-470"
-    arabic_quote: "إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي: جمع الله في هذه الآية مكارم الأخلاق ومصالح الشريعة كلها؛ فالعدل هو التسوية والإنصاف الواجب، والإحسان هو التفضل فوق الواجب، والبغي هو الاستطالة على الناس والظلم"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "2"
+    pages: "1328"
+    arabic_quote: "تحت طاقتهم وَالْإِحْسانِ الندب، وإنما علق أمره بهما جميعاً، لأنّ الفرض لا بدّ من أن يقع فيه تفريط"
+    verification_link: "https://shamela.ws/book/23627/1328"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "235-238"
-    arabic_quote: "العدل: المساواة في المكافأة إن خيرا فخير وإن شرا فشر، والإحسان يقابله الفضل وهو إعطاء أكثر مما عليه وأخذ أقل مما له... والبغي التجاوز عن الحد المعتدل والاستعلاء بغير حق"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "552"
+    arabic_quote: "النحل/ ٩٠] ، فإنّ العَدْلَ هو المساواة في المكافأة إن خيرا فخير، وإن شرّا فشرّ، والإحسان أن يقابل الخير بأكثر منه، والشرّ بأقلّ منه، ورجلٌ عَدْلٌ: عَادِلٌ، ورجالٌ عَدْلٌ، يقال في الواحد والجمع، قال الشاعر: ٣١١-"
+    verification_link: "https://shamela.ws/book/23636/534"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "4"
-    pages: "246-248"
-    arabic_quote: "العين والدال واللام أصل صحيح يدل على استواء الشيء واستقامته... والحاء والسين والنون أصل يدل على الجمال والفضل... والباء والغين والياء أصل يدل على مجاوزة الحد والفساد"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "246"
+    arabic_quote: "العين والدال واللام أصلان صحيحان، لكنَّهما متقابلان كالمتضادَّين: أحدُهما يدلُّ على استواء، والآخر يدلُّ على اعوجاج."
+    verification_link: "https://shamela.ws/book/21710/1787"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1990
     volume: "11"
-    pages: "430-436"
-    arabic_quote: "العدل ما قام في النفوس أنه مستقيم وهو ضد الجور... وقال ابن مسعود: إن أجمع آية في القرآن لخير وشر قوله تعالى: إن الله يأمر بالعدل والإحسان"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "430"
+    arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
+    verification_link: "https://shamela.ws/book/1687/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Kahire"
     publication_year: 2001
     volume: "14"
-    pages: "338-346"
-    arabic_quote: "عن عبد الله بن مسعود قال: ما في القرآن آية أجمع لحلال وحرام وأمر ونهي من هذه الآية: إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي"
-    verification_link: "https://shamela.ws/book/7798"
+    pages: "337"
+    arabic_quote: "عن عامرٍ، عن شُتَيْرِ بنِ شَكَلٍ، قال: سَمِعْتُ عبدَ اللهِ يقولُ: إن أجمعَ آيةٍ في القرآنِ في سورةِ النحلِ: ﴿إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى﴾ إِلى آخرِ الآيةِ"
+    verification_link: "https://shamela.ws/book/7798/9798"
     doi_or_urn: "urn:shamela:7798"
 
 modern_sources:
@@ -566,11 +566,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hicr, 1422/2001. Erişim: https://shamela.ws/book/7798
-- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1787
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687/5608
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/534
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hicr, 1422/2001. Erişim: https://shamela.ws/book/7798/9798
+- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/1328
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Organisation for Economic Co-operation and Development [OECD] (2025).** *Society at a Glance 2025: Social Cohesion, Philanthropy and Welfare Indicators*. Paris: OECD Publishing. https://www.oecd.org

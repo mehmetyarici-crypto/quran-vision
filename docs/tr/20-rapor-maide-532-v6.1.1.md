@@ -23,9 +23,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: "1399/1979"
     volume: "2"
-    pages: "122-125"
-    arabic_quote: "الحاء والياء والحرف المعتل أصل واحد، وهو الحياة خلاف الموت، والإحياء ضد الإماتة، واستحييت الرجل إذا تركته حيا ولم تقتله"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "122"
+    arabic_quote: "الحاء والياء والحرف المعتل أصلان: أحدهما خِلاف المَوْت، والآخر الاستحياء الذى [هو] ضِدُّ الوقاحة"
+    verification_link: "https://shamela.ws/book/21710/682"
     doi_or_urn: "urn:shamela:book:9193:v2:p122"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -36,9 +36,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: "1412/1992"
     volume: "1"
-    pages: "268-271"
-    arabic_quote: "الإحياء في قوله تعالى: ومن أحياها فكأنما أحيا الناس جميعا؛ يقال ذلك فيمن أنقذها من الهلاك والغرق والحرق، وفيمن هداها إلى الحياة الأبدية بالعلم والإيمان"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "269"
+    arabic_quote: "من يريد الإقدام على القتل، فيكون في ذلك حياة الناس. وقال عزّ وجلّ: وَمَنْ أَحْياها فَكَأَنَّما أَحْيَا النَّاسَ جَمِيعاً [المائدة/ ٣٢] ، أي: من نجّاها من الهلاك، وعلى هذا قوله"
+    verification_link: "https://shamela.ws/book/23636/251"
     doi_or_urn: "urn:shamela:book:23629:v1:p268"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -48,10 +48,10 @@ classical_sources:
     publisher: "Müessesetü'r-Risâle"
     publication_place: "Beyrut"
     publication_year: "1420/2000"
-    volume: "10"
-    pages: "233-242"
-    arabic_quote: "مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا؛ لِأَنَّهُ هَتَكَ حُرْمَةَ الدِّمَاءِ وَجَرَّأَ النَّاسَ عَلَى الْقَتْلِ، وَمَنْ أَحْيَاهَا بِالْعَفْوِ أَوِ الْإِنْقَاذِ فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا"
-    verification_link: "https://shamela.ws/book/7798"
+    volume: "8"
+    pages: "349"
+    arabic_quote: "حدَّثني محمدُ بنُ سعدٍ، قال: ثنى أبي، قال: ثنى عمي، قال: ثنى أبي، عن أبيه، عن ابن عباسٍ في قولِه: ﴿مِنْ أَجْلِ ذَلِكَ كَتَبْنَا عَلَى بَنِي إِسْرَائِيلَ أَنَّهُ مَنْ قَتَلَ"
+    verification_link: "https://shamela.ws/book/7798/5636"
     doi_or_urn: "urn:shamela:book:7798:v10:p233"
   - id: "cls-razi"
     author: "Fahreddîn er-Râzî, Muhammed b. Ömer"
@@ -62,9 +62,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: "1420/1999"
     volume: "11"
-    pages: "342-346"
-    arabic_quote: "المراد تعظيم أمر القتل وتفخيم شأن الإحياء؛ لأن النوع الإنساني كالشخص الواحد في الاشتراك في الإنسانية، فالاعتداء على شخص واحد اعتداء على النوع كله، وإنقاذ شخص واحد إنقاذ للنوع كله"
-    verification_link: "https://shamela.ws/book/23635"
+    pages: "344"
+    arabic_quote: "فِي الْأَرْضِ، وَإِنَّمَا قَالَ تَعَالَى ذَلِكَ لِأَنَّ الْقَتْلَ يَحِلُّ لِأَسْبَابٍ كَثِيرَةٍ، مِنْهَا الْقَصَاصُ وَهُوَ الْمُرَادُ بِقَوْلِهِ مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسادٍ فِي الْأَرْضِ"
+    verification_link: "https://shamela.ws/book/23635/2009"
     doi_or_urn: "urn:shamela:book:23635:v11:p342"
   - id: "cls-kurtubi"
     author: "Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî"
@@ -74,10 +74,10 @@ classical_sources:
     publisher: "Müessesetü'r-Risâle"
     publication_place: "Beyrut"
     publication_year: "1427/2006"
-    volume: "7"
-    pages: "429-435"
-    arabic_quote: "ومن أحياها: أي استنقذها من هلكة كغرق أو حرق أو عدو أو مجاعة أو مرض، فقد أحيا الناس جميعا في عظم الأجر وصيانة حرمة النفوس"
-    verification_link: "https://shamela.ws/book/20855"
+    volume: "6"
+    pages: "2243"
+    arabic_quote: "بِكَسْرِ النُّونِ وَحَذْفِ الْهَمْزَةِ وَهِيَ لُغَةٌ، وَالْأَصْلُ"
+    verification_link: "https://shamela.ws/book/20855/2243"
     doi_or_urn: "urn:shamela:book:21795:v7:p429"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -88,9 +88,9 @@ classical_sources:
     publication_place: "Tunus"
     publication_year: "1984"
     volume: "6"
-    pages: "176-182"
-    arabic_quote: "هَذَا تَشْرِيعٌ كُلِّيٌّ لِحِفْظِ النُّفُوسِ يَجْعَلُ التَّضَامُنَ الْإِنْسَانِيَّ فَرْضًا، فَالنَّفْسُ الْوَاحِدَةُ تُمَثِّلُ الْهَيْئَةَ الِاجْتِمَاعِيَّةَ بِأَسْرِهَا فِي حَقِّ الْحَيَاةِ وَالْأَمْنِ"
-    verification_link: "https://shamela.ws/book/9776"
+    pages: "175"
+    arabic_quote: "هُنَا مَجَازِيٌّ، شَبَّهَ سَبَبَ الشَّيْءِ بِابْتِدَاءِ صُدُورِهِ، وَهُوَ مَثَارُ قَوْلِهِمْ: إِنَّ مِنْ مَعَانِي"
+    verification_link: "https://shamela.ws/book/9776/2272"
     doi_or_urn: "urn:shamela:book:9746:v6:p176"
 modern_sources:
   - id: "mod-unodc"
@@ -564,12 +564,12 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635 (`urn:shamela:book:23635:v11:p342`).
-- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/9776 (`urn:shamela:book:9746:v6:p176`).
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710 (`urn:shamela:book:9193:v2:p122`).
-- **Kurtubî, Ebû Abdillâh Muhammed b. Ahmed (ö. 671/1273).** *el-Câmi' li-Ahkâmi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1427/2006. Erişim: https://shamela.ws/book/20855 (`urn:shamela:book:21795:v7:p429`).
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/23636 (`urn:shamela:book:23629:v1:p268`).
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/7798 (`urn:shamela:book:7798:v10:p233`).
+- **Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/2009 (`urn:shamela:book:23635:v11:p342`).
+- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/9776/2272 (`urn:shamela:book:9746:v6:p176`).
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/682 (`urn:shamela:book:9193:v2:p122`).
+- **Kurtubî, Ebû Abdillâh Muhammed b. Ahmed (ö. 671/1273).** *el-Câmi' li-Ahkâmi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1427/2006. Erişim: https://shamela.ws/book/20855/2243 (`urn:shamela:book:21795:v7:p429`).
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/23636/251 (`urn:shamela:book:23629:v1:p268`).
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/7798/5636 (`urn:shamela:book:7798:v10:p233`).
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Institute for Economics & Peace [IEP] (2025).** *Global Peace Index 2025: Measuring Societal Safety, Security and Civilian Protection*. Sydney: IEP Publications. https://www.economicsandpeace.org

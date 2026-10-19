@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "6"
-    pages: "50-55"
-    arabic_quote: "وأنزلنا معهم الكتاب والميزان ليقوم الناس بالقسط وأنزلنا الحديد فيه بأس شديد ومنافع للناس: جمع الله بين الكتاب الذي هو الحجة والبيان، والميزان الذي هو العدل والتسوية، والحديد الذي هو السلاح والمنعة؛ لأن من لم يردعه القرآن والميزان ردعه السلطان والحديد"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "4"
+    pages: "2546"
+    arabic_quote: "إلا والحديد آلة فيها، أو ما يعمل بالحديد وَلِيَعْلَمَ اللَّهُ مَنْ يَنْصُرُهُ وَرُسُلَهُ باستعمال السيوف والرماح وسائر السلاح في مجاهدة أعداء الدين بِالْغَيْبِ غائبا عنهم، قال ابن"
+    verification_link: "https://shamela.ws/book/23627/2546"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "222-224"
-    arabic_quote: "الحديد: الفلز المعروف، وقوله 'وأنزلنا الحديد فيه بأس شديد ومنافع للناس' إشارة إلى أن قوام الدنيا والدين بالكتاب الهادي، والميزان العادل، والحديد الرادع والنافع في الصناعات"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "222"
+    arabic_quote: "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ [الحديد/ ٢٥] ، وحَدَّدْتُ السكّين: رقّقت حدّه، وأَحْدَدْتُهُ:"
+    verification_link: "https://shamela.ws/book/23636/204"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "2"
-    pages: "34-37"
-    arabic_quote: "الحاء والدال أصل يدل على المنع والفصل بين الشيئين، ومنه الحديد لأنه يمتنع بصلابته ويمنع به المعتدي... والقسط بالعدل هو النصيب السوي المستقيم"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "4"
+    arabic_quote: "الحديدُ حديداً لامتناعه وصلابته وشدّته. والاستحداد: استعمال الحديد. ويقال حَدَّت المرأة على"
+    verification_link: "https://shamela.ws/book/21710/564"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -62,10 +62,10 @@ classical_sources:
     publisher: "Dârü Sâdır"
     publication_place: "Beyrut"
     publication_year: 1990
-    volume: "3"
-    pages: "140-145"
-    arabic_quote: "وفي التنزيل: وأنزلنا الحديد فيه بأس شديد ومنافع للناس؛ البأس القوة في الحرب والمنعة، والمنافع ما يصنع منه من الآلات والعمارات والحرث، فما من صنعة إلا والحديد آلتها"
-    verification_link: "https://shamela.ws/book/1687"
+    volume: "1"
+    pages: "109"
+    arabic_quote: "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ. وصَدْآءُ: عَيْنٌ عَذْبَةُ الْمَاءِ، أَو بِئْرٌ. وَفِي الْمَثَلِ: ماءٌ وَلَا كَصَدْآءَ. قَالَ أَبو عُبَيْدٍ: مَنْ أَمثالهم فِي"
+    verification_link: "https://shamela.ws/book/1687/109"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1999
     volume: "29"
-    pages: "470-475"
-    arabic_quote: "اعلم أن قوام الخلق مربوط بأمور ثلاثة: الكتاب وهو القانون الإلهي والعلمي، والميزان وهو الإنصاف والعدل في المعاملات، والحديد وهو القوة الزاجرة التي تحمي الشريعة والعدل من البغاة والمعتدين"
-    verification_link: "https://shamela.ws/book/23635"
+    pages: "470"
+    arabic_quote: "وَهُوَ زَاجِرٌ لِلْخَلْقِ عَمَّا لَا يَنْبَغِي، وَالْحَاصِلُ أَنَّ الْكِتَابَ إِشَارَةٌ إِلَى الْقُوَّةِ النَّظَرِيَّةِ، وَالْمِيزَانَ إِلَى الْقُوَّةِ الْعَمَلِيَّةِ، وَالْحَدِيدَ"
+    verification_link: "https://shamela.ws/book/23635/5548"
     doi_or_urn: "urn:shamela:23635"
 
 modern_sources:
@@ -562,11 +562,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Fahreddîn er-Râzî, Ebû Abdillâh Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
-- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
+- **Fahreddîn er-Râzî, Ebû Abdillâh Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/5548
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/564
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687/109
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/204
+- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/2546
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Stockholm International Peace Research Institute [SIPRI] (2025).** *SIPRI Yearbook 2025: Armaments, Disarmament and International Security*. Oxford: Oxford University Press. https://www.sipri.org

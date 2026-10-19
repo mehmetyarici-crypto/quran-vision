@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "4"
-    pages: "445-450"
-    arabic_quote: "واختلاف ألسنتكم وألوانكم: اختلاف لغاتكم من عربية وفارسية ورومية... واختلاف نغماتكم حتى لا يشتبه صوت بصوت، واختلاف صوركم وهيئاتكم وألوان بياضكم وسوادكم، مع كونكم بنين لرجل واحد وأم واحدة، وذلك دليل قاطع على قدرة الصانع الحكيم وتفرده"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "3"
+    pages: "473"
+    arabic_quote: "الألسنة: اللغات. أو أجناس النطق وأشكاله. خالف عزّ وعلا بين هذه الأشياء حتى لا تكاد تسمع منطقين متفقين في همس واحد، ولا جهارة، ولا حدّة، ولا رخاوة، ولا فصاحة، ولا لكنة، ولا نظم"
+    verification_link: "https://shamela.ws/book/23627/1921"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "294-297"
-    arabic_quote: "الاختلاف والمخالفة: أن يأخذ كل واحد طريقا غير طريق الآخر في حاله أو فعله... واختلاف الألسن والألوان آية دالة على سعة الحكمة الإلهية في تنويع الخلق دون تنافر، فاللسان يعبر عن اللغة والمنطق، واللون يعبر عن السحنة والهيئة"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "294"
+    arabic_quote: "والمخالفة: أن يأخذ كلّ واحد طريقا غير طريق الآخر في حاله أو قوله، والخِلَاف أعمّ من الضّدّ، لأنّ كلّ ضدّين مختلفان، وليس كلّ مختلفين ضدّين، ولمّا كان الاختلاف بين النّاس في"
+    verification_link: "https://shamela.ws/book/23636/276"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "2"
-    pages: "210-213"
-    arabic_quote: "الخاء واللام والفاء أصول ثلاثة: أحدها أن يجئ شيء بعد شيء يقوم مقامه، والآخر خلاف قدام، والثالث التغير... واختلف الشيئان إذا لم يتساويا، واختلاف الألسن تباينها في الألفاظ والأساليب"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "210"
+    arabic_quote: "الخاء واللام والفاء أصولٌ ثلاثة: أحدُها أن يجئَ شئٌ شئِ يقومُ مقامَه، والثانى خِلاف قُدَّام، والثالث التغيُّر"
+    verification_link: "https://shamela.ws/book/21710/770"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -62,10 +62,10 @@ classical_sources:
     publisher: "Dârü Sâdır"
     publication_place: "Beyrut"
     publication_year: 1993
-    volume: "9"
-    pages: "82-88"
-    arabic_quote: "والاختلاف ضد الاتفاق... وقوله تعالى واختلاف ألسنتكم وألوانكم: يعني اختلاف اللغات واختلاف ألوان الأجسام، وقيل اختلاف أصوات الناس وهيئاتهم، فالعالمين هم ذوو العقول والتمييز"
-    verification_link: "https://shamela.ws/book/1687"
+    volume: "13"
+    pages: "385"
+    arabic_quote: "وَشَاهِدُ أَلْسِنَةٍ الْجَمْعِ فِيمَنْ ذَكَّرَ قَوْلُهُ تَعَالَى: وَاخْتِلافُ أَلْسِنَتِكُمْ وَأَلْوانِكُمْ"
+    verification_link: "https://shamela.ws/book/1687/6946"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1999
     volume: "25"
-    pages: "102-108"
-    arabic_quote: "اعلم أن اختلاف الألسنة يتناول أمرين: أحدهما اختلاف اللغات، والثاني اختلاف الأصوات والنغمات؛ فلو اتفقت الأصوات واللغات لوقع الهرج والمرج ولم يتعارف الناس، فجعل هذا الاختلاف نعمة عظمى ودليلا عقليا على حكمة الصانع"
-    verification_link: "https://shamela.ws/book/23635"
+    pages: "92"
+    arabic_quote: "لَمَّا بَيَّنَ دَلَائِلَ الْأَنْفُسِ ذَكَرَ دَلَائِلَ الْآفَاقِ وَأَظْهَرُهَا خلق السموات وَالْأَرْضِ، فَإِنَّ بَعْضَ الْكُفَّارِ يَقُولُ فِي خَلْقِ الْبَشَرِ وَغَيْرِهِ مِنَ"
+    verification_link: "https://shamela.ws/book/23635/4497"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -589,11 +589,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 4/445-450. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/294-297. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/210-213. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 9/82-88. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
-[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 25/102-108. Digital Verification: https://shamela.ws/book/23635 (urn:shamela:23603).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 4/445-450. Digital Verification: https://shamela.ws/book/23627/1921 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/294-297. Digital Verification: https://shamela.ws/book/23636/276 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/210-213. Digital Verification: https://shamela.ws/book/21710/770 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 9/82-88. Digital Verification: https://shamela.ws/book/1687/6946 (urn:shamela:21605).
+[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 25/102-108. Digital Verification: https://shamela.ws/book/23635/4497 (urn:shamela:23603).
 [^6]: UNESCO Institute for Statistics (2024). *World Atlas of Languages & Indicators of Cultural Diversity 2024*. Paris: UNESCO Publishing. DOI: doi:10.1007/978-981-19-1456-7. URL: https://uis.unesco.org
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators & Social Inclusion Platform 2024*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: Türkiye İstatistik Kurumu (TÜİK) (2024). *Nüfus ve Demografi ile Kültürel Yaşam İstatistikleri 2024*. Ankara: TÜİK Yayınları. DOI: Institutional Dataset. URL: https://data.tuik.gov.tr

@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "5"
-    pages: "586-590"
-    arabic_quote: "وإن طائفتان من المؤمنين اقتتلوا فأصلحوا بينهما: أمر بالإصلاح أولا بالسعي في إزالة الشبهة وتسكين الفتنة، فإن أبت إحداهما إلا التمادي في البغي قوتلت بالحق حتى تفيء إلى حكم الله، فإذا فاءت أصلح بينهما بالعدل ولم يفرط في أخذ الحقوق"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "4"
+    pages: "2430"
+    arabic_quote: "من أمر هذه الآية إن لم أقاتل هذه الفئة الباغية كما أمرنى الله عز وجل. قاله بعد أن اعتزل، فإذا كافت وقبضت عن الحرب أيديها تركت، وإذا تولت عمل بما روى عن النبي صلى الله عليه وسلم"
+    verification_link: "https://shamela.ws/book/23627/2430"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "138-141"
-    arabic_quote: "البغي: طلب تجاوز الاقتصار في الشيء، وهو على ضربين: محمود ومذموم، والبغي هاهنا الظلم ومجاوزة الحد والعدوان على الغير... والفيء: الرجوع إلى حالة حسنة محمودة بعد الاعوجاج"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "137"
+    arabic_quote: "فَإِنْ بَغَتْ إِحْداهُما عَلَى الْأُخْرى فَقاتِلُوا الَّتِي تَبْغِي [الحجرات/ ٩] ، فالبغي في"
+    verification_link: "https://shamela.ws/book/23636/119"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "1"
-    pages: "271-274"
-    arabic_quote: "الباء والغين والياء أصلان: أحدهما طلب الشيء، والآخر نوع من الفساد ومجاوزة الحد... وبغت المرأة تبغي بغاء، وبغى فلان على فلان إذا استطال عليه وظلمه"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "271"
+    arabic_quote: "الباء والغين والياء أصلان: أحدهما طلب الشئ، والثانى جنس من الفساد. فمن الأوّل بغيت الشئ أبغيه إذا طلبته. ويقال بغيتك الشّئ إذا طلبته لك، وأبغيتك الشّئ إذا أعنتك على طلبه. والبغية والبغية الحاجة."
+    verification_link: "https://shamela.ws/book/21710/315"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1993
     volume: "14"
-    pages: "76-81"
-    arabic_quote: "والبغي: الكبر والاستطالة، وفي الحديث: ويح عمار تقتله الفئة الباغية، أي الظالمة الخارجة عن طاعة الإمام العادل... والقسط: العدل، وأقسط إذا عدل، وقسط إذا جار"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "78"
+    arabic_quote: "وَقَالَ النَّبِيُّ، صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، لعَمَّار: وَيْحَ ابنِ سُمَيَّة تَقْتله الفئةُ البَاغِيَة"
+    verification_link: "https://shamela.ws/book/1687/7202"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1985
     volume: "5"
-    pages: "278-284"
-    arabic_quote: "في هذه الآية دلالة على وجوب قتال الفئة الباغية إذا لم ترجع إلى الحق، وأن الباغية لا تخرج من الإيمان لأن الله سماهم مؤمنين مع كونهم باغين ومتقاتلين"
-    verification_link: "https://shamela.ws/book/23579"
+    pages: "280"
+    arabic_quote: "قِتَالٌ مِنْ فِئَةٍ عَلَى وَجْهِ الْبَغْيِ قَابَلْنَاهُ بِالسِّلَاحِ وَبِمَا دُونَهُ حَتَّى تَرْجِعَ إلَى الْحَقِّ وَلَيْسَ فِي نُزُولِ الْآيَةِ عَلَى حَالِ قِتَالِ"
+    verification_link: "https://shamela.ws/book/23579/1826"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -560,11 +560,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/23579
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
+- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/23579/1826
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/315
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/7202
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/119
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/2430
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Sosyal Yaşam, Demografi ve Kamu Güveni Veritabanı*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr

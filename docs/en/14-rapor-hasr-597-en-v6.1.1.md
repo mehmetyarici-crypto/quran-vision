@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "5"
-    pages: "748-752"
-    arabic_quote: "كي لا يكون دولة بين الأغنياء منكم: أي علل قسمة الفيء على هذه الأصناف الفقيرة لئلا يكون المال متداولا بين الأغنياء وحدهم يديرونه بينهم ولا يصيب الفقراء منه شيء، كما كانت الجاهلية تفعل بأخذ الرؤساء المرباع والصفايا"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "4"
+    pages: "502"
+    arabic_quote: "قوله تعالى: كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ كيلا يكون الفيء الذي حقه أن يعطى الفقراء ليكون لهم بلغة يعيشون بها جدا بين الأغنياء يتكاثرون به. أو كيلا يكون دولة جاهلية بينهم"
+    verification_link: "https://shamela.ws/book/23627/2567"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "332-335"
-    arabic_quote: "الدول: تحول الشيء من حال إلى حال ومن يد إلى يد... والدولة: اسم للشيء الذي يتداول ويدار بين القوم، وقوله كي لا يكون دولة: أي لئلا يكون متداولا ومحصورا في فئة معينة دون العامة"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "322"
+    arabic_quote: "اسم الشيء الذي يتداول بعينه، والدَّوْلَة المصدر. قال تعالى: كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ [الحشر/ ٧] ، وتداول القوم كذا، أي: تناولوه من"
+    verification_link: "https://shamela.ws/book/23636/304"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "2"
-    pages: "314-317"
-    arabic_quote: "الدال والواو واللام أصل يدل على تحول الشيء من مكان إلى مكان أو من يد إلى يد، ومنه تداول القوم الشيء بينهم، والدولة في المال: أن يتداوله هذا مرة وهذا مرة"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "314"
+    arabic_quote: "الدال والواو واللام أصلان: أحدُهما يدلُّ على تحوُّل شئِ من مكان إلى مكان، والآخَر يدلُّ على ضَعْفٍ واستِرخاء."
+    verification_link: "https://shamela.ws/book/21710/874"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1993
     volume: "11"
-    pages: "250-255"
-    arabic_quote: "الدُّولة بالضم: المال الذي يتداول، وبالفتح: الغلبة والظفر... ومعنى الآية: لئلا يتعاقبه الأغنياء بينهم ويكون حكرا عليهم لا يخرج منهم إلى غيرهم من المحتاجين"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "252"
+    arabic_quote: "جَمْعُ دُولة، بِالضَّمِّ، وَهُوَ مَا يُتداوَل مِنَ الْمَالِ فَيَكُونُ لِقَوْمٍ دُونَ قَوْمٍ. الأَزهري: قَالَ الْفَرَّاءُ فِي قَوْلِهِ تَعَالَى: كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ"
+    verification_link: "https://shamela.ws/book/1687/5432"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1985
     volume: "5"
-    pages: "345-352"
-    arabic_quote: "دل قوله تعالى 'كي لا يكون دولة بين الأغنياء منكم' على أصل عظيم في تحريم احتكار الأموال العامة، وإيجاب صرفها في مصالح الفقراء وسد خلاتهم لمنع تفاحش التفاوت الطبقي"
-    verification_link: "https://shamela.ws/book/23579"
+    pages: "319"
+    arabic_quote: "كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ وقوله وَالَّذِينَ جاؤُ مِنْ بَعْدِهِمْ وَقَالَ لَوْ قَسَمْتهَا بَيْنَهُمْ لَصَارَتْ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنْكُمْ"
+    verification_link: "https://shamela.ws/book/23579/1865"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -591,11 +591,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/748-752. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/332-335. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/314-317. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/250-255. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
-[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/345-352. Digital Verification: https://shamela.ws/book/23579 (urn:shamela:21711).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/748-752. Digital Verification: https://shamela.ws/book/23627/2567 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/332-335. Digital Verification: https://shamela.ws/book/23636/304 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/314-317. Digital Verification: https://shamela.ws/book/21710/874 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/250-255. Digital Verification: https://shamela.ws/book/1687/5432 (urn:shamela:21605).
+[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/345-352. Digital Verification: https://shamela.ws/book/23579/1865 (urn:shamela:21711).
 [^6]: World Bank Group (2024). *Worldwide Governance Indicators & Poverty and Inequality Platform 2024*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^7]: Türkiye İstatistik Kurumu (TÜİK) (2024). *Gelir ve Yaşam Koşulları ile Yoksulluk ve Yaşam Kalitesi Araştırması 2024*. Ankara: TÜİK Yayınları. DOI: Institutional Dataset. URL: https://data.tuik.gov.tr
 [^8]: World Inequality Lab (2024). *World Inequality Report 2024: Global Wealth Concentration and Oligarchy*. Paris: World Inequality Lab / Harvard University Press. DOI: doi:10.4159/9780674276597. URL: https://wid.world

@@ -21,9 +21,9 @@ classical_sources:
     publication_place: "Riyad"
     publication_year: 1998
     volume: "2"
-    pages: "488-494"
-    arabic_quote: "قل تعالوا أتل ما حرم ربكم عليكم: هذه الآيات محكمات هن أم الكتاب، لم ينسخهن شيء قط في جميع الملل... وإذا قلتم فاعدلوا ولو كان ذا قربى: أمر بالعدل في القول والشهادة والحكم وإن كان المشهود عليه أو المحكوم عليه قريبا، لئلا تميل به قرابته إلى الحيف"
-    verification_link: "https://shamela.ws/book/23627"
+    pages: "79"
+    arabic_quote: "ولو كان المقول له أو عليه في شهادة أو غيرها من أهل قرابة القاتل، فما ينبغي أن يزيد في القول أو ينقص، كقوله وَلَوْ عَلى أَنْفُسِكُمْ أَوِ الْوالِدَيْنِ وَالْأَقْرَبِينَ"
+    verification_link: "https://shamela.ws/book/23627/778"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "520-524"
-    arabic_quote: "الوصية: التقدم إلى الغير بأمر هام يقترن بوعظ... وأوفوا الكيل والميزان بالقسط: القسط النصيب بالعدل السوي، والميزان الآلة التي يوزن بها، ويعبر به عن العدالة ذاتها"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "873"
+    arabic_quote: "الوَصِيَّةُ: التّقدّمُ إلى الغير بما يعمل به مقترنا بوعظ من قولهم: أرض وَاصِيَةٌ: متّصلة النّبات، ويقال: أَوْصَاهُ ووَصَّاهُ. قال تعالى: وَوَصَّى بِها إِبْراهِيمُ بَنِيهِ وَيَعْقُوبُ"
+    verification_link: "https://shamela.ws/book/23636/855"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "6"
-    pages: "110-114"
-    arabic_quote: "الواو والصاد والياء أصل يدل على وصل الشيء بالشيء، ومنه الوصية لأن الموصي يصل أمره في حياته بأمره بعد وفاته... والإملاق: الفقر والعدم"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "116"
+    arabic_quote: "الواو والصاد والحرف المعتلّ: أصلٌ يدلُّ على وَصلِ شئٍ بشئ. ووَصَيْتُ الشَّئَ: وصَلْتُه. ويقال: وطِئْنا أرضاً واصيةً، أى إنَّ نَبتَها متَّصلٌ قد امتلأَتْ منه. ووَصَيْتُ اللّيلةَ باليوم: وصَلْتُها، وذلك فى عملٍ تَعمَلُه."
+    verification_link: "https://shamela.ws/book/21710/2649"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -62,10 +62,10 @@ classical_sources:
     publisher: "Dârü Sâdır"
     publication_place: "Beyrut"
     publication_year: 1993
-    volume: "12"
-    pages: "310-316"
-    arabic_quote: "والفواحش: كل ما عظم قبحه من الأفعال والأقوال ما ظهر منها وما بطن... واليتيم: الفرد، وفي الناس من فقد أباه وهو صغير، ومال اليتيم أوجب الله حفظه وتنميته بأحسن السبل"
-    verification_link: "https://shamela.ws/book/1687"
+    volume: "6"
+    pages: "325"
+    arabic_quote: "والخَنا مِنْ قَوْلٍ وَفِعْلٍ، والمُتَفَحِّشُ الَّذِي يتكلَّفُ سَبَّ النَّاسِ ويتعمَّدُه، وَقَدْ تَكَرَّرَ ذِكْرُ الفُحْش وَالْفَاحِشَةِ وَالْفَاحِشِ فِي الْحَدِيثِ، وَهُوَ كُلُّ مَا يَشتد قُبْحُه مِنَ"
+    verification_link: "https://shamela.ws/book/1687/3337"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1985
     volume: "4"
-    pages: "180-188"
-    arabic_quote: "هذه الوصايا العشر لا يجوز سقوطها ولا نسخها بحال؛ لأنها مبنية على قضايا العقول ومصالح الخلق التي لا تتبدل باختلاف الشرائع"
-    verification_link: "https://shamela.ws/book/23579"
+    pages: "198"
+    arabic_quote: "عَلَى مُقْتَضَاهُ وَالْبَرَكَةُ ثُبُوتُ الْخَيْرِ وَنُمُوُّهُ وَتَبَارَكَ اللَّه صِفَةُ ثَبَاتٍ لَا أَوَّلَ لَهُ وَلَا آخِرَ هَذَا تَعْظِيمٌ لَا يَسْتَحِقُّهُ إلَّا اللَّه تَعَالَى وَحْدَهُ لَا"
+    verification_link: "https://shamela.ws/book/23579/1344"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -602,11 +602,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/488-494. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/520-524. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 6/110-114. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/310-316. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
-[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 4/180-188. Digital Verification: https://shamela.ws/book/23579 (urn:shamela:21711).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/488-494. Digital Verification: https://shamela.ws/book/23627/778 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/520-524. Digital Verification: https://shamela.ws/book/23636/855 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 6/110-114. Digital Verification: https://shamela.ws/book/21710/2649 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/310-316. Digital Verification: https://shamela.ws/book/1687/3337 (urn:shamela:21605).
+[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 4/180-188. Digital Verification: https://shamela.ws/book/23579/1344 (urn:shamela:21711).
 [^6]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025-2026: Fundamental Rights and Civil Justice*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2025.01. URL: https://worldjusticeproject.org
 [^7]: World Bank Group (2025). *Worldwide Governance Indicators (WGI): Regulatory Quality and Rule of Law*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: International Organization of Legal Metrology (OIML) & ISO (2024). *International Vocabulary of Metrology (VIM) & Fair Measurement Systems*. Paris: BIPM/OIML. DOI: Institutional Dataset. URL: https://www.oiml.org

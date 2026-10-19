@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "5"
-    pages: "586-590"
-    arabic_quote: "وإن طائفتان من المؤمنين اقتتلوا فأصلحوا بينهما: أمر بالإصلاح أولا بالسعي في إزالة الشبهة وتسكين الفتنة، فإن أبت إحداهما إلا التمادي في البغي قوتلت بالحق حتى تفيء إلى حكم الله، فإذا فاءت أصلح بينهما بالعدل ولم يفرط في أخذ الحقوق"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "4"
+    pages: "2430"
+    arabic_quote: "من أمر هذه الآية إن لم أقاتل هذه الفئة الباغية كما أمرنى الله عز وجل. قاله بعد أن اعتزل، فإذا كافت وقبضت عن الحرب أيديها تركت، وإذا تولت عمل بما روى عن النبي صلى الله عليه وسلم"
+    verification_link: "https://shamela.ws/book/23627/2430"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "138-141"
-    arabic_quote: "البغي: طلب تجاوز الاقتصار في الشيء، وهو على ضربين: محمود ومذموم، والبغي هاهنا الظلم ومجاوزة الحد والعدوان على الغير... والفيء: الرجوع إلى حالة حسنة محمودة بعد الاعوجاج"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "137"
+    arabic_quote: "فَإِنْ بَغَتْ إِحْداهُما عَلَى الْأُخْرى فَقاتِلُوا الَّتِي تَبْغِي [الحجرات/ ٩] ، فالبغي في"
+    verification_link: "https://shamela.ws/book/23636/119"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "1"
-    pages: "271-274"
-    arabic_quote: "الباء والغين والياء أصلان: أحدهما طلب الشيء، والآخر نوع من الفساد ومجاوزة الحد... وبغت المرأة تبغي بغاء، وبغى فلان على فلان إذا استطال عليه وظلمه"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "271"
+    arabic_quote: "الباء والغين والياء أصلان: أحدهما طلب الشئ، والثانى جنس من الفساد. فمن الأوّل بغيت الشئ أبغيه إذا طلبته. ويقال بغيتك الشّئ إذا طلبته لك، وأبغيتك الشّئ إذا أعنتك على طلبه. والبغية والبغية الحاجة."
+    verification_link: "https://shamela.ws/book/21710/315"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1993
     volume: "14"
-    pages: "76-81"
-    arabic_quote: "والبغي: الكبر والاستطالة، وفي الحديث: ويح عمار تقتله الفئة الباغية، أي الظالمة الخارجة عن طاعة الإمام العادل... والقسط: العدل، وأقسط إذا عدل، وقسط إذا جار"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "78"
+    arabic_quote: "وَقَالَ النَّبِيُّ، صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، لعَمَّار: وَيْحَ ابنِ سُمَيَّة تَقْتله الفئةُ البَاغِيَة"
+    verification_link: "https://shamela.ws/book/1687/7202"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1985
     volume: "5"
-    pages: "278-284"
-    arabic_quote: "في هذه الآية دلالة على وجوب قتال الفئة الباغية إذا لم ترجع إلى الحق، وأن الباغية لا تخرج من الإيمان لأن الله سماهم مؤمنين مع كونهم باغين ومتقاتلين"
-    verification_link: "https://shamela.ws/book/23579"
+    pages: "280"
+    arabic_quote: "قِتَالٌ مِنْ فِئَةٍ عَلَى وَجْهِ الْبَغْيِ قَابَلْنَاهُ بِالسِّلَاحِ وَبِمَا دُونَهُ حَتَّى تَرْجِعَ إلَى الْحَقِّ وَلَيْسَ فِي نُزُولِ الْآيَةِ عَلَى حَالِ قِتَالِ"
+    verification_link: "https://shamela.ws/book/23579/1826"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -593,11 +593,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/586-590. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/138-141. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/271-274. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 14/76-81. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
-[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/278-284. Digital Verification: https://shamela.ws/book/23579 (urn:shamela:21711).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/586-590. Digital Verification: https://shamela.ws/book/23627/2430 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/138-141. Digital Verification: https://shamela.ws/book/23636/119 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/271-274. Digital Verification: https://shamela.ws/book/21710/315 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 14/76-81. Digital Verification: https://shamela.ws/book/1687/7202 (urn:shamela:21605).
+[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/278-284. Digital Verification: https://shamela.ws/book/23579/1826 (urn:shamela:21711).
 [^6]: Uppsala University (Uppsala Conflict Data Program - UCDP) (2024). *UCDP Peace Agreements and Conflict Resolution Dataset 2024*. Uppsala: Department of Peace and Conflict Research, Uppsala University. DOI: doi:10.1177/0022343320934986. URL: https://ucdp.uu.se
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Rule of Law and Conflict Reconstruction*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: Türkiye İstatistik Kurumu (TÜİK) (2024). *Sosyal Yaşam, Demografi ve Kamu Güveni Veritabanı*. Ankara: TÜİK Yayınları. DOI: Institutional Dataset. URL: https://data.tuik.gov.tr

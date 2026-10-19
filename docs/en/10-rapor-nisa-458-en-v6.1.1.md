@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "2"
-    pages: "98-102"
-    arabic_quote: "إن الله يأمركم أن تؤدوا الأمانات إلى أهلها: يعم كل أمانة من حقوق الله وحقوق العباد... وإذا حكمتم بين الناس أن تحكموا بالعدل: لم يقل بين المسلمين، بل قال بين الناس، ليعم المسلم والذمي والكافر، فالعدل واجب للجميع"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "1"
+    pages: "527"
+    arabic_quote: "لما أمر الولاة بأداء الأمانات إلى أهلها وأن يحكموا بالعدل، أمر الناس بأن يطيعوهم وينزلوا على قضاياهم. والمراد بأولى الأمر منكم: أمراء الحق لأن- أمراء الجور- اللَّه ورسوله بريئان"
+    verification_link: "https://shamela.ws/book/23627/527"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "90-93"
-    arabic_quote: "الأمانة: اسم لما يؤمن عليه الإنسان من مال أو سر أو ولاية وحكم... والعدالة والمعدلة: لفظ يقتضي معنى المساواة، واستعماله في معاملة الناس بإعطاء كل ذي حق حقه"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "69"
+    arabic_quote: "والجزية وأداء الأمانة، قال الله تعالى: فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمانَتَهُ [البقرة/ ٢٨٣] ، إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَماناتِ إِلى أَهْلِها"
+    verification_link: "https://shamela.ws/book/23636/51"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "1"
-    pages: "133-135"
-    arabic_quote: "الهمزة والميم والنون أصلان متقاربان: أحدهما الأمانة التي هي ضد الخيانة ومعناها سكون القلب، والآخر التصديق... والأهل: أهل الرجل وأهل الأمر مستحقوه"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "133"
+    arabic_quote: "الهمزة والميم والنون أصلان متقاربان: أحدهما الأمانة التى هى ضدّ الخيانة، ومعناها سُكون القلب؛ والآخر التصديق. والمعنيان كما قلنا متدانيان."
+    verification_link: "https://shamela.ws/book/21710/177"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1993
     volume: "11"
-    pages: "430-435"
-    arabic_quote: "والعدل: ما قام في النفوس أنه مستقيم، وهو ضد الجور، وفي أسماء الله تعالى: العدل هو الذي لا يميل به الهوى فيجور في الحكم"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "430"
+    arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
+    verification_link: "https://shamela.ws/book/1687/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-ibn-teymiyye"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Mekke"
     publication_year: 1998
     volume: "1"
-    pages: "11-18"
-    arabic_quote: "قال العلماء: نزلت هذه الآية في ولاة الأمور؛ عليهم أن تؤدوا الأمانات إلى أهلها بتولية الأصلح والأكفأ، وإذا حكموا أن يحكموا بالعدل، وهذان هما عمادا السياسة العادلة"
-    verification_link: "https://shamela.ws/book/31237"
+    pages: "6"
+    arabic_quote: "قَالَ الْعُلَمَاءُ: نَزَلَتْ الْآيَةُ الْأُولَى فِي وُلَاةِ الْأُمُورِ؛ عَلَيْهِمْ أَنْ يُؤَدُّوا الْأَمَانَاتِ إلَى أَهْلِهَا، وَإِذَا حَكَمُوا بَيْنَ النَّاسِ أَنْ يَحْكُمُوا بِالْعَدْلِ"
+    verification_link: "https://shamela.ws/book/31237/2"
     doi_or_urn: "urn:shamela:7556"
 
 modern_sources:
@@ -583,11 +583,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/98-102. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/90-93. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/133-135. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/430-435. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
-[^5]: İbn Teymiyye, Takıyyüddîn Ahmed (ö. 728/1328), *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*, ed. Ali b. Muhammed el-Umrân (Mekke: Dâru Âlemi'l-Fevâid, 1998), 1/11-18. Digital Verification: https://shamela.ws/book/31237 (urn:shamela:7556).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/98-102. Digital Verification: https://shamela.ws/book/23627/527 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/90-93. Digital Verification: https://shamela.ws/book/23636/51 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/133-135. Digital Verification: https://shamela.ws/book/21710/177 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/430-435. Digital Verification: https://shamela.ws/book/1687/5608 (urn:shamela:21605).
+[^5]: İbn Teymiyye, Takıyyüddîn Ahmed (ö. 728/1328), *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*, ed. Ali b. Muhammed el-Umrân (Mekke: Dâru Âlemi'l-Fevâid, 1998), 1/11-18. Digital Verification: https://shamela.ws/book/31237/2 (urn:shamela:7556).
 [^6]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Bureaucratic Quality and Rule of Law*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org
 [^7]: World Justice Project (WJP) (2024). *Rule of Law Index 2024: Civil and Criminal Justice*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2024.01. URL: https://worldjusticeproject.org
 

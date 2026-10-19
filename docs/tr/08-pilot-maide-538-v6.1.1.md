@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "2"
-    pages: "228-232"
-    arabic_quote: "والسارق والسارقة فاقطعوا أيديهما جزاء بما كسبا نكالا من الله: أي عقوبة رادعة تمنع الجاني وغيره من معاودة الجريمة... والله عزيز حكيم: غالب في انتقامه من الجناة، حكيم في إيجاب قطع اليد لحفظ الأموال"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "1"
+    pages: "631"
+    arabic_quote: "والسارقة أى حكمهما. ووجه آخر وهو أن يرتفعا بالابتداء، والخبر فَاقْطَعُوا أَيْدِيَهُما ودخول الفاء لتضمنهما معنى الشرط، لأنّ المعنى: والذي سرق والتي سرقت فاقطعوا أيديهما"
+    verification_link: "https://shamela.ws/book/23627/634"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "3"
-    pages: "154-156"
-    arabic_quote: "السين والراء والقاف أصل يدل على أخذ شيء في خفاء واستراب... والسرقة أخذ المال خفية من حرز مثله. والقطع فصل شيء عن شيء"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "154"
+    arabic_quote: "السين والراء والقاف أصلٌ يدلُّ على أخْذ شئ فى خفاء وسِتر. يقال سَرَق يَسْرق سَرِقةً. والمسروق سَرَقٌ. واستَرَق السّمع، إذا تسمَّع مختفياً. ومما شذّ عن هذا الباب السَّرَق: جمع سَرَقة، وهى القطعة من الحرير."
+    verification_link: "https://shamela.ws/book/21710/1223"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1993
     volume: "10"
-    pages: "155-158"
-    arabic_quote: "السرقة: أن تأتي حرزا فتنقبه وتأخذ مالا خفية... والنكال: العقوبة التي تنكل غير الجاني عن مثل فعله"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "156"
+    arabic_quote: "والاسْتِراق: الخَتْل سِرًّا كَالَّذِي يَسْتَمِعُ، والكَتَبةُ يَسْتَرِقُون مِنْ بَعْضِ الْحِسَابَاتِ. ابْنُ عَرَفَةَ فِي قَوْلِهِ تَعَالَى: وَالسَّارِقُ وَالسَّارِقَةُ"
+    verification_link: "https://shamela.ws/book/1687/4826"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1992
     volume: "4"
-    pages: "85-92"
-    arabic_quote: "الأصل في قطع السارق أن يكون المال مسروقا من حرز مثله، وأن يبلغ النصاب، وألا تكون فيه شبهة؛ لقول النبي صلى الله عليه وسلم ادرءوا الحدود بالشبهات"
-    verification_link: "https://shamela.ws/book/23579"
+    pages: "62"
+    arabic_quote: "قال النبي صلى الله عليه وسلم إن أَسْوَأَ النَّاسِ سَرِقَةً هُوَ الَّذِي يَسْرِقُ صَلَاتَهُ قيل له يَا رَسُولَ اللَّهِ"
+    verification_link: "https://shamela.ws/book/23579/1208"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Riyad"
     publication_year: 1997
     volume: "2"
-    pages: "312-316"
-    arabic_quote: "حفظ الأموال من الضروريات، ولكن حفظ النفوس مقدم عليه عند التعارض، ولا يقام الحد مع قيام الضرورة والمجاعة؛ لأن درء المفاسد أولى من جلب المصالح"
-    verification_link: "https://shamela.ws/book/11435"
+    pages: "18"
+    arabic_quote: "فَأُصُولُ الْعِبَادَاتِ رَاجِعَةٌ إِلَى حِفْظِ الدِّينِ مِنْ جانب الوجود، كالإيمان٤."
+    verification_link: "https://shamela.ws/book/11435/676"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -551,11 +551,11 @@ Bu problematik şu derin adalet krizlerini doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579/1208
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1223
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/4826
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435/676
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/634
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Transparency International (2024).** *Corruption Perceptions Index (CPI) 2024: Rule of Law & Public Integrity*. Berlin: Transparency International. https://www.transparency.org/en/cpi/2024. Erişim adresi: https://www.transparency.org

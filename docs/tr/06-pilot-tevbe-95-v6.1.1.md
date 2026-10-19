@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "3"
-    pages: "10-15"
-    arabic_quote: "فإذا انسلخ الأشهر الحرم: يعني أشهر التسيير الأربعة... والمشركين: العاهدين الناكثين خاصة دون غيرهم، بدليل قوله تعالى: إلا الذين عاهدتم من المشركين ثم لم ينقصوكم شيئا"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "2"
+    pages: "247"
+    arabic_quote: "انسلخ الشهر، كقولك انجرد الشهر، وسنة جرداء. والْأَشْهُرُ الْحُرُمُ التي أبيح فيها للناكثين أن يسيحوا فَاقْتُلُوا الْمُشْرِكِينَ يعنى الذين نقضوكم وظاهروا عليكم حَيْثُ"
+    verification_link: "https://shamela.ws/book/23627/946"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "3"
-    pages: "97-98"
-    arabic_quote: "السين واللام والخاء أصل يدل على كشط الشيء عن الشيء، وانسلاخ الشهر: خروجه كله حتى لا يبقى منه شيء"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "94"
+    arabic_quote: "السين واللام والخاء أصلٌ واحد، وهو إخراج الشئ عن جلده. ثم يُحْمَل عليه. والأصل سلختُ"
+    verification_link: "https://shamela.ws/book/21710/1163"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1993
     volume: "3"
-    pages: "182-184"
-    arabic_quote: "والمرصد: موضع الرصد والترقب، وقعدت له كل مرصد أي كل طريق يمر به ليؤخذ"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "179"
+    arabic_quote: "الرصَد، بِالتَّحْرِيكِ، الْقَلِيلُ مِنَ الكلإِ وَالْمَطَرِ. ابْنُ سِيدَهْ: الرَّصَدُ"
+    verification_link: "https://shamela.ws/book/1687/1621"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1992
     volume: "4"
-    pages: "268-272"
-    arabic_quote: "هذه الآية متصلة بما قبلها في أهل العهد الناكثين، وليست بناسخة لقوله تعالى لا ينهاكم الله عن الذين لم يقاتلوكم"
-    verification_link: "https://shamela.ws/book/23579"
+    pages: "269"
+    arabic_quote: "اللَّه تَعَالَى فَإِذَا انْسَلَخَ الأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حيث وجدتموهم رَوَى مُعَاوِيَةُ بْنُ صَالِحٍ عَنْ عَلِيِّ بْنِ أَبِي طَلْحَةَ عَنْ ابْنِ عَبَّاسٍ في"
+    verification_link: "https://shamela.ws/book/23579/1415"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Riyad"
     publication_year: 1997
     volume: "3"
-    pages: "340-345"
-    arabic_quote: "النسخ في لسان المتقدمين أعم منه في لسان المتأخرين، وأكثر ما يطلقونه على تخصيص العام أو تقييد المطلق"
-    verification_link: "https://shamela.ws/book/11435"
+    pages: "344"
+    arabic_quote: "الْمُتَقَدِّمِينَ أَنَّ النَّسْخَ عِنْدَهُمْ فِي الْإِطْلَاقِ أَعَمُّ مِنْهُ فِي كَلَامِ الْأُصُولِيِّينَ١؛ فَقَدْ يُطْلِقُونَ عَلَى تَقْيِيدِ الْمُطْلَقِ نَسْخًا، وَعَلَى تَخْصِيصِ"
+    verification_link: "https://shamela.ws/book/11435/1553"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -570,11 +570,11 @@ Bu iddia şu derin teolojik ve metodolojik krizi doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579/1415
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1163
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/1621
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435/1553
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/946
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Institute for Economics and Peace [IEP] (2024).** *Global Peace Index 2024: Measuring Peace in a Complex World*. Sydney: Institute for Economics & Peace. https://www.economicsandpeace.org. Erişim adresi: https://www.economicsandpeace.org

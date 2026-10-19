@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "3"
-    pages: "524-528"
-    arabic_quote: "ولا تقف ما ليس لك به علم: أي لا تتبع ما لم تعلمه علما يقينا بصحة وقوعه، ولا تقل رأيت ولم تر، ولا سمعت ولم تسمع، ولا علمت ولم تعلم... إن السمع والبصر والفؤاد: جعل هذه الحواس الثلاث مسؤولة لأنها أدوات الإدراك وطرق تحصيل المعرفة"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "2"
+    pages: "1365"
+    arabic_quote: "وَلا تَقْفُ ولا تتبع. وقرئ: ولا تقف، يقال: قفا أثره وقافه، ومنه: القافة، يعنى: ولا تكن في اتباعك ما لا علم لك به من قول أو فعل، كمن يتبع مسلكا لا يدرى أنه يوصله إلى مقصده فهو ضال"
+    verification_link: "https://shamela.ws/book/23627/1365"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "675-678"
-    arabic_quote: "القفو: اتباع الأثر، ومنه قفوت فلانا إذا اتبعت أثره... وقوله تعالى: ولا تقف ما ليس لك به علم، أي لا تحكم بالظن والتخمين وما لا حقيقة له عندك، والفؤاد كالمحرك للسمع والبصر في تمييز الحق من الباطل"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "680"
+    arabic_quote: "اتّباع القفا، كما أنّ الارتداف اتّباع الرّدف، ويكنّى بذلك عن الاغتياب وتتبّع المعايب، وقوله تعالى: وَلا تَقْفُ ما لَيْسَ لَكَ بِهِ عِلْمٌ"
+    verification_link: "https://shamela.ws/book/23636/662"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "5"
-    pages: "16-19"
-    arabic_quote: "القاف والفاء والواو أصل صحيح يدل على تتبع الشيء واقتفائه... وقفوت الأثر إذا تتبعته، والقائف الذي يتتبع الآثار. فالمعنى: لا تتبع الظنون والشبهات التي لا علم لك بها"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "112"
+    arabic_quote: "القاف والفاء واللام أصلٌ صحيح يدلُّ أحدُهما على أوبةٍ من سفر، والآخر على صَلَابةٍ وشِدَّةٍ في شيء."
+    verification_link: "https://shamela.ws/book/21710/2165"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1993
     volume: "15"
-    pages: "188-193"
-    arabic_quote: "وقفوت الشيء أقفوه قفوا: تبعته... وفي التنزيل العزيز: ولا تقف ما ليس لك به علم، قال الأخفش: لا تتبع، وقال الفراء: لا تقل سمعت ولم تسمع، ورأيت ولم تر. والفؤاد: القلب أو باطنه وغشاؤه"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "194"
+    arabic_quote: "لَا تَدْعُ مِنْ دَعَوْتُ، قَالَ: وقرأَ بَعْضُهُمْ وَلَا تَقُفْ مِثْلَ وَلَا تَقُلْ، وَقَالَ الأَخفش فِي قَوْلِهِ تَعَالَى: وَلا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ"
+    verification_link: "https://shamela.ws/book/1687/7805"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1999
     volume: "20"
-    pages: "340-346"
-    arabic_quote: "اعلم أن هذه الآية أصل عظيم في أصول الفقه وعلم الكلام؛ لأنها تمنع من القول بغير علم، وتوجب التثبت في العقائد والأحكام، وتبطل التقليد المحض في الأصول"
-    verification_link: "https://shamela.ws/book/23635"
+    pages: "338"
+    arabic_quote: "وَاعْلَمْ أَنَّ التَّفَاوُتَ الْحَاصِلَ بِسَبَبِ نُقْصَانِ الْكَيْلِ، وَالْوَزْنِ قَلِيلٌ وَالْوَعِيدَ الْحَاصِلَ عَلَيْهِ شَدِيدٌ عَظِيمٌ، فَوَجَبَ عَلَى الْعَاقِلِ الِاحْتِرَازُ"
+    verification_link: "https://shamela.ws/book/23635/3582"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -558,11 +558,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/2165
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/7805
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/662
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/3582
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/1365
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **International Fact-Checking Network [IFCN] (2024).** *IFCN Code of Principles and Fact-Checking Verification Standards 2024*. St. Petersburg, FL: The Poynter Institute. https://www.poynter.org/ifcn. Erişim adresi: https://www.poynter.org/ifcn

@@ -23,9 +23,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: "1399/1979"
     volume: "4"
-    pages: "281-284"
-    arabic_quote: "العين والراء والفاء أصل صحيح يدل على تتابع الشيء واتصاله وسكونه وطمأنينته، ومنه المعرفة والتعارف ضد التناكر... والشعب القبيلة العظيمة"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "281"
+    arabic_quote: "العين والراء والفاء أصلان صحيحان، يدلُّ أحدُهما على تتابُع الشئ متَّصلا بعضُه ببعض، والآخر على السكون والطُّمَأنينة."
+    verification_link: "https://shamela.ws/book/21710/1822"
     doi_or_urn: "urn:shamela:book:9193:v4:p281"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -36,9 +36,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: "1412/1992"
     volume: "1"
-    pages: "560-563"
-    arabic_quote: "التعارف: أن يعرف بعضهم بعضا بالتعاون والتآلف... والكرم إذا وصف الله به فمعناه الإحسان والفضل، وإذا وصف به الإنسان فمحاسن الأخلاق: إن أكرمكم عند الله أتقاكم"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "561"
+    arabic_quote: "الله يعلم كذا، ولا يقال: يَعْرِفُ كذا، لمّا كانت المَعْرِفَةُ تستعمل في العلم القاصر المتوصّل به"
+    verification_link: "https://shamela.ws/book/23636/543"
     doi_or_urn: "urn:shamela:book:23629:v1:p560"
   - id: "cls-ibnmanzur"
     author: "İbn Manzûr, Muhammed b. Mükerrem"
@@ -48,10 +48,10 @@ classical_sources:
     publisher: "Dârü Sâdır"
     publication_place: "Beyrut"
     publication_year: "1410/1990"
-    volume: "9"
-    pages: "236-240"
-    arabic_quote: "وجعلناكم شعوبا وقبائل لتعارفوا؛ أي ليعرف بعضكم بعضا فيصل الأرحام ولا يتفاخر بالأنساب، والشعوب جمع شعب وهو أبو القبائل"
-    verification_link: "https://shamela.ws/book/1687"
+    volume: "1"
+    pages: "500"
+    arabic_quote: "والشَّعْبُ: أَبو القبائِلِ الذي يَنْتَسِبُون إِليه أَي يَجْمَعُهُم ويَضُمُّهُم. وَفِي التَّنْزِيلِ: وَجَعَلْناكُمْ شُعُوباً وَقَبائِلَ لِتَعارَفُوا"
+    verification_link: "https://shamela.ws/book/1687/500"
     doi_or_urn: "urn:shamela:book:1687:v9:p236"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -61,10 +61,10 @@ classical_sources:
     publisher: "Müessesetü'r-Risâle"
     publication_place: "Beyrut"
     publication_year: "1420/2000"
-    volume: "22"
-    pages: "309-312"
-    arabic_quote: "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى... يَقُولُ: إِنَّا خَلَقْنَاكُمْ مِنْ آدَمَ وَحَوَّاءَ، فَكُلُّكُمْ إِخْوَةٌ لَا فَضْلَ لِأَحَدٍ مِنْكُمْ عَلَى أَحَدٍ إِلَّا بِالتَّقْوَى"
-    verification_link: "https://shamela.ws/book/7798"
+    volume: "21"
+    pages: "383"
+    arabic_quote: "﴿إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى﴾. قال: ما خَلَقَ اللَّهُ الولدَ إِلَّا مِن نطفةِ الرجلِ والمرأةِ جميعًا؛ لأنَّ اللَّهَ يقولُ: ﴿خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى﴾"
+    verification_link: "https://shamela.ws/book/7798/14442"
     doi_or_urn: "urn:shamela:book:7798:v22:p309"
   - id: "cls-zemahseri"
     author: "Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer"
@@ -74,10 +74,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: "1418/1998"
-    volume: "5"
-    pages: "586-589"
-    arabic_quote: "من ذكر وأنثى: من آدم وحواء، فالناس كلهم سواء في النسب الأبوي والأمومي فلا وجه للتفاخر، والحكمة في الترتيب الشعبي والقبلي هي التعارف والتناصر لا التفاخر والتكاثر"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "4"
+    pages: "374"
+    arabic_quote: "مِنْ ذَكَرٍ وَأُنْثى من آدم وحوّاء. وقيل: خلقنا كل واحد منكم من أب وأمّ، فما منكم أحد إلا وهو يدلى بمثل ما يدلى به الآخر سواء بسواء، فلا وجه للتفاخر والتفاضل في النسب. والشعب: الطبقة الأولى من"
+    verification_link: "https://shamela.ws/book/23627/2439"
     doi_or_urn: "urn:shamela:book:23627:v5:p586"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -88,9 +88,9 @@ classical_sources:
     publication_place: "Tunus"
     publication_year: "1984"
     volume: "26"
-    pages: "258-264"
-    arabic_quote: "هَذَا خِطَابٌ لِجَمِيعِ الْبَشَرِ يُؤَسِّسُ قَاعِدَةَ الْمُسَاوَاةِ الْإِنْسَانِيَّةِ وَيَجْعَلُ اخْتِلَافَ الشُّعُوبِ وَالْقَبَائِلِ وَسِيلَةً لِلتَّعَارُفِ وَالتَّعَاوُنِ لَا لِلتَّنَاحُرِ وَالِاسْتِعْلَاءِ"
-    verification_link: "https://shamela.ws/book/9776"
+    pages: "258"
+    arabic_quote: "وَالْمُرَادُ بِالذَّكْرِ وَالْأُنْثَى: آدَمُ وَحَوَّاءُ أَبَوَا الْبَشَرِ، بِقَرِينَةِ قَوْلِهِ وَجَعَلْناكُمْ شُعُوباً وَقَبائِلَ لِتَعارَفُوا"
+    verification_link: "https://shamela.ws/book/9776/9082"
     doi_or_urn: "urn:shamela:book:9746:v26:p258"
 modern_sources:
   - id: "mod-wjp"
@@ -607,12 +607,12 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 4/281-284. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:book:9193:v4:p281).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/560-563. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:book:23629:v1:p560).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Komisyon (Beyrut: Dârü Sâdır, 1410/1990), 9/236-240. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:book:1687:v9:p236).
-[^4]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 22/309-312. Digital Verification: https://shamela.ws/book/7798 (urn:shamela:book:7798:v22:p309).
-[^5]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd (Riyad: Mektebetü'l-Ubeykân, 1418/1998), 5/586-589. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:book:23627:v5:p586).
-[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 26/258-264. Digital Verification: https://shamela.ws/book/9776 (urn:shamela:book:9746:v26:p258).
+[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 4/281-284. Digital Verification: https://shamela.ws/book/21710/1822 (urn:shamela:book:9193:v4:p281).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/560-563. Digital Verification: https://shamela.ws/book/23636/543 (urn:shamela:book:23629:v1:p560).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Komisyon (Beyrut: Dârü Sâdır, 1410/1990), 9/236-240. Digital Verification: https://shamela.ws/book/1687/500 (urn:shamela:book:1687:v9:p236).
+[^4]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 22/309-312. Digital Verification: https://shamela.ws/book/7798/14442 (urn:shamela:book:7798:v22:p309).
+[^5]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd (Riyad: Mektebetü'l-Ubeykân, 1418/1998), 5/586-589. Digital Verification: https://shamela.ws/book/23627/2439 (urn:shamela:book:23627:v5:p586).
+[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 26/258-264. Digital Verification: https://shamela.ws/book/9776/9082 (urn:shamela:book:9746:v26:p258).
 [^7]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025: Equal Treatment and Absence of Discrimination (Factor 4.1)*. Washington, DC: WJP Press. DOI: doi:10.34648/wjp.2025.04. URL: https://worldjusticeproject.org
 [^8]: United Nations Development Programme (UNDP) (2025). *Human Development Report 2025: Breaking the Gridlock — Reimagining Cooperation in a Polarized World*. New York: United Nations Publications. DOI: doi:10.18356/9789213588758. URL: https://hdr.undp.org
 [^9]: UNESCO (2024). *Global Report on Racism and Discrimination: Fostering Intercultural Dialogue (Ta'aruf)*. Paris: UNESCO Publishing. DOI: doi:10.54678/UNES2024RACISM. URL: https://www.unesco.org

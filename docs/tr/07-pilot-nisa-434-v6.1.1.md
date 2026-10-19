@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "2"
-    pages: "68-72"
-    arabic_quote: "قوامون على النساء: قيام الولاة على الرعايا... وبما أنفقوا: من المهور والنفقات، فدل على أن التفضيل والإنفاق هما علة القيام... فإن أطعنكم فلا تبغوا عليهن سبيلا: أي لا تطلبوا طريقا إلى أذاهن وتوبيخهن بعد الطاعة"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "1"
+    pages: "505"
+    arabic_quote: "قَوَّامُونَ عَلَى النِّساءِ يقومون عليهن آمرين ناهين، كما يقوم الولاة على الرعايا. وسموا قوّما لذلك. والضمير في بَعْضَهُمْ للرجال والنساء جميعاً، يعنى إنما كانوا مسيطرين عليهن"
+    verification_link: "https://shamela.ws/book/23627/508"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "5"
-    pages: "43-45"
-    arabic_quote: "القاف والواو والميم أصلان صحيحان: أحدهما يدل على جماعة ناس، والآخر على انتصاب أو عزم... وقام بالأمر: كفله وحفظه وتولى كفايته"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "43"
+    arabic_quote: "القاف والواو * والميم أصلانِ صحيحان، يدلُّ أحدُهما على جماعةِ ناسٍ، وربَّما استُعِير فى غيرهمْ، والآخَر على انتصابٍ أو عَزْم."
+    verification_link: "https://shamela.ws/book/21710/2096"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1993
     volume: "12"
-    pages: "496-501"
-    arabic_quote: "والقوّام: هو القائم بالأمر المدبّر له... والنشوز: العصيان والارتفاع على الزوج ومخالفة ما أوجبه الله من حقوق الزوجية"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "498"
+    arabic_quote: "فُسِّرَ عَلَى وَجْهَيْنِ: قِيلَ هُوَ الاسْتقامة عَلَى الطَّاعَةِ، وَقِيلَ هُوَ تَرْكُ"
+    verification_link: "https://shamela.ws/book/1687/6411"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1992
     volume: "3"
-    pages: "148-152"
-    arabic_quote: "الضرب المأمور به في الآية ضرب غير مبرح بإجماع الفقهاء، قال عطاء: ضرب بالسواك ونحوه مما لا يكسر عظما ولا يترك أثرا، ولا يجوز الضرب على الوجه"
-    verification_link: "https://shamela.ws/book/23579"
+    pages: "148"
+    arabic_quote: "إنَّمَا قَالَ ذَلِكَ قَبْلَ نُزُولِ هَذِهِ الْآيَةِ الَّتِي فِيهَا إبَاحَةُ الضَّرْبِ عِنْدَ النُّشُوزِ لِأَنَّ قَوْله تَعَالَى الرِّجالُ قَوَّامُونَ عَلَى النِّساءِ-"
+    verification_link: "https://shamela.ws/book/23579/918"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Riyad"
     publication_year: 1997
     volume: "2"
-    pages: "210-215"
-    arabic_quote: "مقاصد الشريعة مبنية على حفظ الضروريات الخمس ومنها حفظ النسل والنفس والعرض، وكل وسيلة تفضي إلى إهدار الكرامة والعدوان فهي باطلة شرعا"
-    verification_link: "https://shamela.ws/book/11435"
+    pages: "20"
+    arabic_quote: "وَمَجْمُوعُ الضَّرُورِيَّاتِ خَمْسَةٌ، وَهِيَ٤: حِفْظُ الدِّينِ، وَالنَّفْسِ، وَالنَّسْلِ، وَالْمَالِ، وَالْعَقْلِ، وَقَدْ قَالُوا: إِنَّهَا مُرَاعَاةٌ في كل ملة٥."
+    verification_link: "https://shamela.ws/book/11435/678"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -567,11 +567,11 @@ Bu problematik şu çözülmesi güç düğümleri barındırır:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579/918
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/2096
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/6411
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435/678
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/508
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **United Nations Development Programme [UNDP] (2024).** *Gender Inequality Index (GII) & Human Development Report 2024*. New York: UNDP. Erişim adresi: https://hdr.undp.org

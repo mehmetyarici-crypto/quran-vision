@@ -20,10 +20,10 @@ classical_sources:
     publisher: "Mektebetü'l-Ubeykân"
     publication_place: "Riyad"
     publication_year: 1998
-    volume: "2"
-    pages: "98-102"
-    arabic_quote: "إن الله يأمركم أن تؤدوا الأمانات إلى أهلها: يعم كل أمانة من حقوق الله وحقوق العباد... وإذا حكمتم بين الناس أن تحكموا بالعدل: لم يقل بين المسلمين، بل قال بين الناس، ليعم المسلم والذمي والكافر، فالعدل واجب للجميع"
-    verification_link: "https://shamela.ws/book/23627"
+    volume: "1"
+    pages: "527"
+    arabic_quote: "لما أمر الولاة بأداء الأمانات إلى أهلها وأن يحكموا بالعدل، أمر الناس بأن يطيعوهم وينزلوا على قضاياهم. والمراد بأولى الأمر منكم: أمراء الحق لأن- أمراء الجور- اللَّه ورسوله بريئان"
+    verification_link: "https://shamela.ws/book/23627/527"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "90-93"
-    arabic_quote: "الأمانة: اسم لما يؤمن عليه الإنسان من مال أو سر أو ولاية وحكم... والعدالة والمعدلة: لفظ يقتضي معنى المساواة، واستعماله في معاملة الناس بإعطاء كل ذي حق حقه"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "69"
+    arabic_quote: "والجزية وأداء الأمانة، قال الله تعالى: فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمانَتَهُ [البقرة/ ٢٨٣] ، إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَماناتِ إِلى أَهْلِها"
+    verification_link: "https://shamela.ws/book/23636/51"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "1"
-    pages: "133-135"
-    arabic_quote: "الهمزة والميم والنون أصلان متقاربان: أحدهما الأمانة التي هي ضد الخيانة ومعناها سكون القلب، والآخر التصديق... والأهل: أهل الرجل وأهل الأمر مستحقوه"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "133"
+    arabic_quote: "الهمزة والميم والنون أصلان متقاربان: أحدهما الأمانة التى هى ضدّ الخيانة، ومعناها سُكون القلب؛ والآخر التصديق. والمعنيان كما قلنا متدانيان."
+    verification_link: "https://shamela.ws/book/21710/177"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1993
     volume: "11"
-    pages: "430-435"
-    arabic_quote: "والعدل: ما قام في النفوس أنه مستقيم، وهو ضد الجور، وفي أسماء الله تعالى: العدل هو الذي لا يميل به الهوى فيجور في الحكم"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "430"
+    arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
+    verification_link: "https://shamela.ws/book/1687/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-ibn-teymiyye"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Mekke"
     publication_year: 1998
     volume: "1"
-    pages: "11-18"
-    arabic_quote: "قال العلماء: نزلت هذه الآية في ولاة الأمور؛ عليهم أن تؤدوا الأمانات إلى أهلها بتولية الأصلح والأكفأ، وإذا حكموا أن يحكموا بالعدل، وهذان هما عمادا السياسة العادلة"
-    verification_link: "https://shamela.ws/book/31237"
+    pages: "6"
+    arabic_quote: "قَالَ الْعُلَمَاءُ: نَزَلَتْ الْآيَةُ الْأُولَى فِي وُلَاةِ الْأُمُورِ؛ عَلَيْهِمْ أَنْ يُؤَدُّوا الْأَمَانَاتِ إلَى أَهْلِهَا، وَإِذَا حَكَمُوا بَيْنَ النَّاسِ أَنْ يَحْكُمُوا بِالْعَدْلِ"
+    verification_link: "https://shamela.ws/book/31237/2"
     doi_or_urn: "urn:shamela:7556"
 
 modern_sources:
@@ -556,11 +556,11 @@ Bu gerilim şu çetin soruları doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
-- **İbn Teymiyye, Takıyyüddîn Ahmed b. Abdilhalîm (ö. 728/1328).** *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*. Tahkik: Ali b. Muhammed el-Umrân. Mekke: Dâru Âlemi'l-Fevâid, 1419/1998. Erişim: https://shamela.ws/book/31237
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/177
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/5608
+- **İbn Teymiyye, Takıyyüddîn Ahmed b. Abdilhalîm (ö. 728/1328).** *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*. Tahkik: Ali b. Muhammed el-Umrân. Mekke: Dâru Âlemi'l-Fevâid, 1419/1998. Erişim: https://shamela.ws/book/31237/2
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/51
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/527
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **World Bank Group (2024).** *Worldwide Governance Indicators (WGI): Bureaucratic Quality and Rule of Law*. Washington, D.C.: The World Bank. Erişim adresi: https://datacatalog.worldbank.org

@@ -21,9 +21,9 @@ classical_sources:
     publication_place: "Riyad"
     publication_year: 1998
     volume: "1"
-    pages: "444-448"
-    arabic_quote: "وشاورهم في الأمر: أمر الله نبيه بالمشاورة مع كمال عقله ووفور حلمه ووحيه المنزل إليه، استجلابا لقلوبهم، وتأديبا للأمة لكي يقتدوا به، وليعلم أن آراء الرجال تلقح العقول... فإذا عزمت فتوكل على الله: أي إذا عقدت رأيك بعد المشاورة فامض فيه جازما"
-    verification_link: "https://shamela.ws/book/23627"
+    pages: "432"
+    arabic_quote: "وقرئ: وشاورهم في بعض الأمر فَإِذا عَزَمْتَ فإذا قطعت الرأى على شيء بعد الشورى فَتَوَكَّلْ عَلَى اللَّهِ في إمضاء أمرك على الأرشد الأصلح، فإن ما هو أصلح لك لا يعلمه إلا اللَّه لا أنت ولا من تشاور. وقرئ"
+    verification_link: "https://shamela.ws/book/23627/435"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "470-472"
-    arabic_quote: "المشاورة والمشورة: استخراج الرأي بمراجعة البعض إلى البعض، من قولهم شرت العسل إذا استخرجته من موضعه... والعزم: عقد القلب على إمضاء الأمر بعد التروي"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "470"
+    arabic_quote: "والتَّشَاوُرُ والْمُشَاوَرَةُ والْمَشُورَةُ: استخراج الرّأي بمراجعة البعض إلى البعض، من قولهم:"
+    verification_link: "https://shamela.ws/book/23636/452"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "3"
-    pages: "226-228"
-    arabic_quote: "الشين والواو والراء أصلان: أحدهما إبداء الشيء وإظهاره وعرضه، والآخر أخذ شيء واستخراجه... والمشورة: إظهار الرأي وتقليبه لاستخراج أصلحه"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "226"
+    arabic_quote: "الشين والواو والراء أصلان مطَّردان، الأوّل منهما إِبداء."
+    verification_link: "https://shamela.ws/book/21710/1294"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -63,9 +63,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1993
     volume: "4"
-    pages: "434-439"
-    arabic_quote: "والشورى: التشاور، واستشاره: طلب منه المشورة والنصيحة... وفلان طيب الشوار أي حسن المشورة. والفظ: الغليظ الجافي في معاشرته"
-    verification_link: "https://shamela.ws/book/1687"
+    pages: "437"
+    arabic_quote: "المَشْوَرَة؛ وَتَقُولُ مِنْهُ: شَاوَرْتُه فِي الأَمر واسْتشرته بِمَعْنًى. وَفُلَانٌ خَيِّرٌ شَيِّرٌ أَي يصلُح لِلْمُشاورَة. وشاوَرَه مُشاوَرَة وشِوَاراً واسْتَشاره: طَلَب مِنْهُ المَشُورَة"
+    verification_link: "https://shamela.ws/book/1687/2397"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1999
     volume: "9"
-    pages: "64-70"
-    arabic_quote: "نزلت الآية بعد أحد، وفيها عجب عظيم: أنهم لما عصوه وفشلوا وأصابهم ما أصابهم، كان مقتضى الطبع البشري معاتبتهم وترك مشاورتهم، لكن الله أمره بالعفو والاستغفار وبمشاورتهم؛ تعليما للمسلمين أن خطأ المشورة خير من صواب الاستبداد"
-    verification_link: "https://shamela.ws/book/23635"
+    pages: "410"
+    arabic_quote: "أَنَّ عُمَرَ كَانَ مِنَ الْمُنْهَزِمِينَ فَدَخَلَ تَحْتَ الْآيَةِ، إِلَّا أَنَّ أَبَا بَكْرٍ مَا كَانَ مِنْهُمْ فَكَيْفَ يَدْخُلُ تَحْتَ هَذِهِ الْآيَةِ"
+    verification_link: "https://shamela.ws/book/23635/1550"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -560,11 +560,11 @@ Bu gerilim şu çetin açmazları içerir:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1294
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/2397
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/452
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/1550
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/435
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Organization for Economic Co-operation and Development [OECD] (2024).** *OECD Regulatory Policy Outlook & Stakeholder Engagement Indicators 2024*. Paris: OECD Publishing. https://doi.org/10.1787/9789264209015-en. Erişim adresi: https://www.oecd.org

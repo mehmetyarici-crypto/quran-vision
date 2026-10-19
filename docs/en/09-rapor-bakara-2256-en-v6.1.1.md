@@ -21,9 +21,9 @@ classical_sources:
     publication_place: "Riyad"
     publication_year: 1998
     volume: "1"
-    pages: "488-492"
-    arabic_quote: "لا إكراه في الدين: أي لا تكرهوا أحدا على الدخول في الدين؛ لأن الإيمان مبني على الاختيار والتمحيص، فلو أكره لم يكن مؤمنا حقيقة... وجاء على صيغة الخبر ومعناه النهي البليغ"
-    verification_link: "https://shamela.ws/book/23627"
+    pages: "303"
+    arabic_quote: "لا إِكْراهَ فِي الدِّينِ أى لم يجر اللَّه أمر الإيمان على الإجبار والقسر، ولكن على التمكين والاختيار. ونحوه قوله تعالى وَلَوْ شاءَ رَبُّكَ لَآمَنَ مَنْ فِي الْأَرْضِ كُلُّهُمْ"
+    verification_link: "https://shamela.ws/book/23627/306"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -35,9 +35,9 @@ classical_sources:
     publication_place: "Dımaşk"
     publication_year: 1992
     volume: "1"
-    pages: "710-712"
-    arabic_quote: "الإكراه: حمل الإنسان على أمر يكرهه ولا يريده طبعا أو عقلا أو شرعا... والرشد: خلاف الغي، وهو اهتداء إلى محاسن الأمور بالعقل السليم"
-    verification_link: "https://shamela.ws/book/23636"
+    pages: "708"
+    arabic_quote: "والإِكْرَاهُ يقال في حمل الإنسان على ما يكرهه، وقوله: وَلا تُكْرِهُوا فَتَياتِكُمْ عَلَى الْبِغاءِ [النور/ ٣٣] فنهي عن حملهنّ على ما فيه كَرْهٌ وكُرْهٌ، وقوله: لا إِكْراهَ فِي الدِّينِ"
+    verification_link: "https://shamela.ws/book/23636/690"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -49,9 +49,9 @@ classical_sources:
     publication_place: "Beyrut"
     publication_year: 1979
     volume: "5"
-    pages: "171-173"
-    arabic_quote: "الكاف والراء والهاء أصلان: أحدهما يدل على خلاف الرضا، والآخر على ثقل ومشقة... وأكرهته على الشيء: ألزمته إياه قهرا"
-    verification_link: "https://shamela.ws/book/21710"
+    pages: "172"
+    arabic_quote: "الكاف والراء والهاء أصلٌ صحيحٌ واحد، يدلُّ على خلاف الرِّضا والمحبّة. يقال: كرِهتُ الشَّيءَ أكرَهُه كَرْها. والكُرْه الاسم. ويقال:"
+    verification_link: "https://shamela.ws/book/21710/2224"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -62,10 +62,10 @@ classical_sources:
     publisher: "Dârü Sâdır"
     publication_place: "Beyrut"
     publication_year: 1993
-    volume: "13"
-    pages: "534-538"
-    arabic_quote: "والعروة الوثقى: كل ما يعتمد عليه ويستمسك به من حبل أو عهد وثيق لا ينقطع... والرشد: الاستقامة على طريق الحق"
-    verification_link: "https://shamela.ws/book/1687"
+    volume: "15"
+    pages: "45"
+    arabic_quote: "والرَّواحِلِ. وعَرَّى الشَّيْءَ: اتَّخَذَ لَهُ عُرْوَةً. وَقَوْلُهُ تَعَالَى: فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقى لَا"
+    verification_link: "https://shamela.ws/book/1687/7657"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -77,9 +77,9 @@ classical_sources:
     publication_place: "Kahire"
     publication_year: 2001
     volume: "4"
-    pages: "548-554"
-    arabic_quote: "الصواب من القول في ذلك عندنا: أنه لا يجوز إكراه أحد على الدخول في الإسلام، والآية عامة في كل أحد، لم تنسخ ولم تخص"
-    verification_link: "https://shamela.ws/book/7798"
+    pages: "548"
+    arabic_quote: "قال: ثنا أسباطُ، عن السديِّ قولَه: ﴿لَا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ﴾ إلى ﴿لَا انْفِصَامَ لَهَا﴾. قال: نزَلَتْ في رجلٍ من"
+    verification_link: "https://shamela.ws/book/7798/2958"
     doi_or_urn: "urn:shamela:43"
 
 modern_sources:
@@ -586,11 +586,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/488-492. Digital Verification: https://shamela.ws/book/23627 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/710-712. Digital Verification: https://shamela.ws/book/23636 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/171-173. Digital Verification: https://shamela.ws/book/21710 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 13/534-538. Digital Verification: https://shamela.ws/book/1687 (urn:shamela:21605).
-[^5]: Taberî, Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hecer, 2001), 4/548-554. Digital Verification: https://shamela.ws/book/7798 (urn:shamela:43).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/488-492. Digital Verification: https://shamela.ws/book/23627/306 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/710-712. Digital Verification: https://shamela.ws/book/23636/690 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/171-173. Digital Verification: https://shamela.ws/book/21710/2224 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 13/534-538. Digital Verification: https://shamela.ws/book/1687/7657 (urn:shamela:21605).
+[^5]: Taberî, Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hecer, 2001), 4/548-554. Digital Verification: https://shamela.ws/book/7798/2958 (urn:shamela:43).
 [^6]: Pew Research Center (2024). *Global Restrictions on Religion & Freedom of Thought Index 2024*. Washington, D.C.: Pew Research Center. DOI: doi:10.5555/pew.2024.religion.01. URL: https://www.pewresearch.org
 [^7]: Freedom House (2024). *Freedom in the World 2024: Religious Freedom and Civil Liberties*. Washington, D.C.: Freedom House. DOI: Institutional Dataset. URL: https://freedomhouse.org
 

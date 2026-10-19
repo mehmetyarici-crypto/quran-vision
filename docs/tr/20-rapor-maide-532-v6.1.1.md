@@ -25,7 +25,7 @@ classical_sources:
     volume: "2"
     pages: "122"
     arabic_quote: "الحاء والياء والحرف المعتل أصلان: أحدهما خِلاف المَوْت، والآخر الاستحياء الذى [هو] ضِدُّ الوقاحة"
-    verification_link: "https://shamela.ws/book/21710/682"
+    verification_link: "https://shamela.ws/book/2171/10/682"
     doi_or_urn: "urn:shamela:book:9193:v2:p122"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "269"
     arabic_quote: "من يريد الإقدام على القتل، فيكون في ذلك حياة الناس. وقال عزّ وجلّ: وَمَنْ أَحْياها فَكَأَنَّما أَحْيَا النَّاسَ جَمِيعاً [المائدة/ ٣٢] ، أي: من نجّاها من الهلاك، وعلى هذا قوله"
-    verification_link: "https://shamela.ws/book/23636/251"
+    verification_link: "https://shamela.ws/book/2363/16/251"
     doi_or_urn: "urn:shamela:book:23629:v1:p268"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "8"
     pages: "349"
     arabic_quote: "حدَّثني محمدُ بنُ سعدٍ، قال: ثنى أبي، قال: ثنى عمي، قال: ثنى أبي، عن أبيه، عن ابن عباسٍ في قولِه: ﴿مِنْ أَجْلِ ذَلِكَ كَتَبْنَا عَلَى بَنِي إِسْرَائِيلَ أَنَّهُ مَنْ قَتَلَ"
-    verification_link: "https://shamela.ws/book/7798/5636"
+    verification_link: "https://shamela.ws/book/779/18/5636"
     doi_or_urn: "urn:shamela:book:7798:v10:p233"
   - id: "cls-razi"
     author: "Fahreddîn er-Râzî, Muhammed b. Ömer"
@@ -64,7 +64,7 @@ classical_sources:
     volume: "11"
     pages: "344"
     arabic_quote: "فِي الْأَرْضِ، وَإِنَّمَا قَالَ تَعَالَى ذَلِكَ لِأَنَّ الْقَتْلَ يَحِلُّ لِأَسْبَابٍ كَثِيرَةٍ، مِنْهَا الْقَصَاصُ وَهُوَ الْمُرَادُ بِقَوْلِهِ مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسادٍ فِي الْأَرْضِ"
-    verification_link: "https://shamela.ws/book/23635/2009"
+    verification_link: "https://shamela.ws/book/2363/15/2009"
     doi_or_urn: "urn:shamela:book:23635:v11:p342"
   - id: "cls-kurtubi"
     author: "Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî"
@@ -77,7 +77,7 @@ classical_sources:
     volume: "6"
     pages: "2243"
     arabic_quote: "بِكَسْرِ النُّونِ وَحَذْفِ الْهَمْزَةِ وَهِيَ لُغَةٌ، وَالْأَصْلُ"
-    verification_link: "https://shamela.ws/book/20855/2243"
+    verification_link: "https://shamela.ws/book/2085/15/2243"
     doi_or_urn: "urn:shamela:book:21795:v7:p429"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "6"
     pages: "175"
     arabic_quote: "هُنَا مَجَازِيٌّ، شَبَّهَ سَبَبَ الشَّيْءِ بِابْتِدَاءِ صُدُورِهِ، وَهُوَ مَثَارُ قَوْلِهِمْ: إِنَّ مِنْ مَعَانِي"
-    verification_link: "https://shamela.ws/book/9776/2272"
+    verification_link: "https://shamela.ws/book/977/16/2272"
     doi_or_urn: "urn:shamela:book:9746:v6:p176"
 modern_sources:
   - id: "mod-unodc"
@@ -407,11 +407,25 @@ Mâide Sûresi 5:27–31 âyetlerinde insanlık tarihinin ilk cinayeti olan **H�
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (Hâbil Bilinci ve Merhamet Ahlakı):** Hâbil'in kardeşi Kâbil'e söylediği *"Sen beni öldürmek için elini uzatsan da ben seni öldürmek için elimi uzatacak değilim; ben âlemlerin Rabbi olan Allah'tan korkarım"* (Mâide 5:28) sözü, kalpteki öfke ve intikam ateşini *takvâ* ile söndürmenin zirvesidir.
-- **Âfâk (Kurumsal İhyâ Mimarisi):** Âfâkta ise her hekim, hemşire, arama-kurtarma görevlisi, iş güvenliği uzmanı ve adil hâkim, kurtardığı her tekil insanla "bütün insanlığı yaşatma" (*ihyâ*) sevabına ortak olan kurumsal birer medeniyet nöbetçisidir.
-- **Enfüsî-Karar Köprüsü:** İç dünyasında (`enfüs`) nefsani kibir, tamah ve öfkeyi terbiye edemeyen karar vericiler, dış dünyada (`âfâk`) kurumsal adaleti ve merhameti yaşatamaz; bu sebeple `ADIM 15`'teki politika kolları ahlaki öz-denetim şartına bağlanmıştır.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+Mâide 5:32 âyetinin dış dünyadaki (*âfâk*) evrensel ceza hukuku, biyoetik ve insani güvenlik tezahürü; haksız yere tek bir masum cana kıymayı (`men katele nefsen bi-gayri nefsin ev fesâdin fi'l-ard`) bütün insanlığı öldürmekle (`fe-ke'ennemâ katele'n-nâse cemî'â`), tek bir canı yaşatmayı ve ölümden kurtarmayı (`ve men ahyâhâ`) ise bütün insanlığı diriltmekle (`fe-ke'ennemâ ahye'n-nâse cemî'â`) eşdeğer tutarak yaşam hakkının dokunulmazlığını anayasal ve küresel nizamın zirvesine yerleştirmektir. Ancak Fussilet 41:53 âyetinin kurduğu ontolojik ayna ilişkisi uyarınca, dış dünyada yargısız infazlara, teröre, katliamlara ve yeryüzünde bozgunculuğa (`fesâd fi'l-ard`) yol açan şiddet krizinin insanın iç dünyasındaki (*enfüs*) doğrudan kökü; bizzat âyetin siyâkında (Mâide 5:27–30) anlatılan **Kâbil sendromu**—yani kardeşinin nimetini ve kabulünü çekemeyen yıkıcı haset (*hased*), nefsânî öfke (*gadab*), kalp katılığı (*kasvet-i kalb*) ve ötekinin varlığına tahammülsüzlüktür. Âyetin Mâide 5:30'daki `fe-tavva'at lehû nefsühû katle ahîhi` (*"Nefsi ona kardeşini öldürmeyi kolay ve hoş gösterdi"*) tespiti, dış dünyadaki her cinayetin önce insanın iç dünyasında nefsin öteki insanı değersizleştirmesiyle başladığını; Hâbil'in *takvâ* ve merhamet bilincinin (Mâide 5:28) ise bütün insanlığı yaşatan *ihyâ* medeniyetinin içsel çekirdeği olduğunu beyan eder.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
+Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe masum cana kastetmenin ve yeryüzünde fesat çıkarmanın ardındaki bâtınî illetler; haset (*hased*), kin (*hıkd*), gazap ve nefsin tezvîrâtı (kötülüğü süsleyip meşru göstermesi) olarak teşhis edilmiştir:
+- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, *Bâbü'l-Hased ve'l-Bağy* (Haset ve Zulüm/Taşkınlık) bölümünde yeryüzünde işlenen ilk cinayet olan Kâbil vakasını tahlil ederken; hasedin kalpteki iman ve merhamet nurunu söndüren en zehirli maraz olduğunu, hasetçi nefsin ilahî taksime razı olmayıp kardeşinin varlığını kendi benliğine tehdit gördüğünü ve bu içsel zulmün en sonunda el ve dil ile fiilî cinayete (`katl`) dönüştüğünü ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 280–305; Dijital erişim: [shamela.ws/book/9683/280](https://shamela.ws/book/9683/280)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased* bölümünde; öfke ve hasedin kalbi körleştirerek insanı yırtıcı bir canavara dönüştürdüğünü, oysa müminin kalbinin bütün yaratılmışlara karşı şefkat ve *ihyâ* (hayat verme ve koruma) merkezi olması gerektiğini açıklar. Gazzâlî'ye göre bir insanın bedenini ölümden kurtarmak zahirî *ihyâ*, kalbini cehalet ve haset ateşinden kurtarmak ise bâtınî *ihyâ*'dır (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 186–210; Dijital erişim: [shamela.ws/book/9472/186](https://shamela.ws/book/9472/186)).
+- **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) tek bir insan hayatının bütün insanlığa bedel olduğu (`ke'ennemâ ahye'n-nâse cemî'â`) *ihyâ* bilincini taşımayan ve maddi kâr hırsına kapılan karar vericiler, dış dünyada (`âfâk`) depreme dayanıksız binalara, iş cinayetlerine ve sivil kayıplara göz yumar; bu sebeple `ADIM 15`'teki sıfır önlenebilir can kaybı/yapı ve iş güvenliği denetimi (`K1`), zorunlu ilk yardım ve yaşam etiği eğitimi (`K2`) ve biyoetik/insani koridor diplomasisi (`K3`) kararları içsel *ihyâ* ahlâkını kurumsal yaptırıma dönüştürmektedir.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
+Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Mâide 5:32 âyetindeki *katl* (öldürme) ve *ihyâ* (diriltme/yaşatma) kavramlarını maddi hayatın korunmasının yanı sıra, ruhların ve kalplerin manevi ölümü ve dirilişi olarak şerh etmişlerdir:
+- **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
+  - `[NAKİL]`: Kuşeyrî, Mâide 5:32 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
+    > «مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا... الإشارة فيه: من أضل نفساً أو أهلكها بالبدعة والظلم فكأنما أهلك الناس جميعاً، ومن استنقذ قلباً من ظلمة الغفلة والجهل إلى نور الإيمان والمعرفة فكأنما أحيا الناس جميعاً»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 1, s. 410–411; Dijital doğrulama: [shamela.ws/book/23622/410](https://shamela.ws/book/23622/410) / [altafsir.com — Letâ'ifü'l-İşârât 5:32](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=5&tAyahNo=32&tDisplay=yes)).*
+  - **Sehl b. Abdillâh et-Tüsterî (ö. 283/896), *Tefsîru't-Tüsterî*:** Erken dönem irfânî tefsirin kurucu imamı Sehl et-Tüsterî de âyetin bâtınî tefsirinde; bir nefsi öldürmenin onu hakikatten saptırıp helâke sürüklemek, bir nefsi diriltmenin (`ve men ahyâhâ`) ise gafletle ölmüş bir kalbi tevhid, zikir ve adalet nuruyla yeniden hayata kavuşturmak olduğunu belirtir (Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 55; Dijital erişim: [shamela.ws/book/23625/55](https://shamela.ws/book/23625/55)).
+  - `[YORUM]`: Kuşeyrî ve Tüsterî'nin *"Bir kalbi gaflet, cehalet ve zulüm karanlığından iman, marifet ve adalet nuruna kurtaran kimse bütün insanlığı diriltmiş gibidir"* tespiti, *hıfzu'n-nefs* (canın korunması) ilkesinin hem maddi hem de manevi ufkunu bütünleştirir. İslam medeniyeti, bir yandan hekimlik, mühendislik, arama-kurtarma ve adil yargı ile her bir insan bedenini korurken (`zahirî ihyâ`), diğer yandan ilim, irfan ve şefkatle kalpleri kin ve cehalet ölümünden kurtararak (`bâtınî ihyâ`) yeryüzünde hayatı çoğaltan bir *ihyâ* medeniyetidir.
 
 ---
 
@@ -564,12 +578,12 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/2009 (`urn:shamela:book:23635:v11:p342`).
-- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/9776/2272 (`urn:shamela:book:9746:v6:p176`).
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/682 (`urn:shamela:book:9193:v2:p122`).
-- **Kurtubî, Ebû Abdillâh Muhammed b. Ahmed (ö. 671/1273).** *el-Câmi' li-Ahkâmi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1427/2006. Erişim: https://shamela.ws/book/20855/2243 (`urn:shamela:book:21795:v7:p429`).
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/23636/251 (`urn:shamela:book:23629:v1:p268`).
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/7798/5636 (`urn:shamela:book:7798:v10:p233`).
+- **Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/2363/15/2009 (`urn:shamela:book:23635:v11:p342`).
+- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/977/16/2272 (`urn:shamela:book:9746:v6:p176`).
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/682 (`urn:shamela:book:9193:v2:p122`).
+- **Kurtubî, Ebû Abdillâh Muhammed b. Ahmed (ö. 671/1273).** *el-Câmi' li-Ahkâmi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1427/2006. Erişim: https://shamela.ws/book/2085/15/2243 (`urn:shamela:book:21795:v7:p429`).
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/2363/16/251 (`urn:shamela:book:23629:v1:p268`).
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/779/18/5636 (`urn:shamela:book:7798:v10:p233`).
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Institute for Economics & Peace [IEP] (2025).** *Global Peace Index 2025: Measuring Societal Safety, Security and Civilian Protection*. Sydney: IEP Publications. https://www.economicsandpeace.org

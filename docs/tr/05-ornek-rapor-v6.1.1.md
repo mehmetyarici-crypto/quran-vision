@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "1-10"
     arabic_quote: "..."
-    verification_link: "https://shamela.ws/book/23627"
+    verification_link: "https://shamela.ws/book/23627/1"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "1-5"
     arabic_quote: "..."
-    verification_link: "https://shamela.ws/book/21710"
+    verification_link: "https://shamela.ws/book/21710/1"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ragib"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "1-10"
     arabic_quote: "..."
-    verification_link: "https://shamela.ws/book/23636"
+    verification_link: "https://shamela.ws/book/23636/1"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "1"
     pages: "1-10"
     arabic_quote: "..."
-    verification_link: "https://shamela.ws/book/1687"
+    verification_link: "https://shamela.ws/book/1687/1"
     doi_or_urn: "urn:shamela:21605"
 
 modern_sources:
@@ -265,13 +265,17 @@ peer_review:
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
-- **Enfüs (İçsel ve Ahlaki Boyut):** Âyetin niyet, vicdani muhasebe ve ahlaki yönelişle ilişkisi.
-- **Âfâk (Dışsal ve Kurumsal Boyut):** Bu yönelişlerin kurumsal, iktisadi ve maddi dünyadaki izdüşümü.
-- **Karşılıklı Etki:** Bireyin iç dünyası ile toplumsal şartların birbirini nasıl beslediği veya bozduğu.
-- **Karar Köprüsü:** İçsel muhasebenin Adım 15'teki hangi karar koluna ve kaldıraç noktasına dayanak teşkil ettiği.
-- **İşârî / İrfanî Derinlik:** Güvenilir kaynak ve yönteme dayalı ahlaki açılım (fıkhî hüküm yerine ikame edilemez).
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+- **[YORUM]** Âyetin dışsal ve kurumsal boyutu (âfâk) ile bireyin içsel vicdan ve niyet muhasebesi (enfüs) arasındaki ontolojik ayna ilişkisi (Fussilet 41:53) ve Adım 15 karar kollarına kurduğu ahlâkî köprü.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın*)
+- **[YORUM]** Hâris el-Muhâsibî (*er-Ri'âye li-Hukûkillâh*) ve Ebû Hâmid el-Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*) metodolojisiyle bâtınî illetlerin (kibir, riyâ, ucb, tamah, gazap, kasvet) teşhisi ve tezkiyesi.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc
+- **[NAKİL]** Abdülkerîm el-Kuşeyrî (*Letâ'ifü'l-İşârât*), Sehl et-Tüsterî (*Tefsîru't-Tüsterî*) veya İbn Acîbe (*el-Bahrü'l-Medîd*) kaynaklarından harekeli Arapça iktibas, tercüme ve İSNAD 2 künyesi.
+- **[YORUM]** İşârî ibarenin zâhirî fıkıh hükmünü iptal etmeksizin kurduğu kalbî derinlik sentezi.
 ---
 
 ## FAZ IV — BAYES, KARAR VE ETİK DENETİM

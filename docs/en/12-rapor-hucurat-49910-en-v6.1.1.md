@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "2430"
     arabic_quote: "من أمر هذه الآية إن لم أقاتل هذه الفئة الباغية كما أمرنى الله عز وجل. قاله بعد أن اعتزل، فإذا كافت وقبضت عن الحرب أيديها تركت، وإذا تولت عمل بما روى عن النبي صلى الله عليه وسلم"
-    verification_link: "https://shamela.ws/book/23627/2430"
+    verification_link: "https://shamela.ws/book/2362/17/2430"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "137"
     arabic_quote: "فَإِنْ بَغَتْ إِحْداهُما عَلَى الْأُخْرى فَقاتِلُوا الَّتِي تَبْغِي [الحجرات/ ٩] ، فالبغي في"
-    verification_link: "https://shamela.ws/book/23636/119"
+    verification_link: "https://shamela.ws/book/2363/16/119"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "271"
     arabic_quote: "الباء والغين والياء أصلان: أحدهما طلب الشئ، والثانى جنس من الفساد. فمن الأوّل بغيت الشئ أبغيه إذا طلبته. ويقال بغيتك الشّئ إذا طلبته لك، وأبغيتك الشّئ إذا أعنتك على طلبه. والبغية والبغية الحاجة."
-    verification_link: "https://shamela.ws/book/21710/315"
+    verification_link: "https://shamela.ws/book/2171/10/315"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "14"
     pages: "78"
     arabic_quote: "وَقَالَ النَّبِيُّ، صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، لعَمَّار: وَيْحَ ابنِ سُمَيَّة تَقْتله الفئةُ البَاغِيَة"
-    verification_link: "https://shamela.ws/book/1687/7202"
+    verification_link: "https://shamela.ws/book/168/17/7202"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "280"
     arabic_quote: "قِتَالٌ مِنْ فِئَةٍ عَلَى وَجْهِ الْبَغْيِ قَابَلْنَاهُ بِالسِّلَاحِ وَبِمَا دُونَهُ حَتَّى تَرْجِعَ إلَى الْحَقِّ وَلَيْسَ فِي نُزُولِ الْآيَةِ عَلَى حَالِ قِتَالِ"
-    verification_link: "https://shamela.ws/book/23579/1826"
+    verification_link: "https://shamela.ws/book/2357/19/1826"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -429,11 +429,24 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — ENFÜSÎ-ÂFÂKÎ DIALECTIC & SPIRITUAL ETHICS (KALP FIKHI / İRFÂNÎ-İŞÂRÎ LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Overcoming tribalism (*'asabiyyah*), vindictive rage (*تشفي*), and partisan pride; remembering that both parties remain human and spiritual brothers (`ikhwatun`, `49:10`) and that God loves the equitable (`Inna'llaha yuhibbu'l-muqsitin`).
-- **Outer Institutional Order (*Âfâk*):** Independent arbitration tribunals, collective peacekeeping mandates bounded by `hatta tafi'a`, and post-conflict truth and equity commissions (`bi'l-'adl wa'l-qist`).
-- **Enfüs–Decision Bridge:** Mediators who harbor hidden partisan bias (`enfüs`) destroy the credibility of arbitration (`âfâk`); therefore, `STEP 15` requires neutral composition and strict procedural equity.
+#### 13.1. Enfüsî-Âfâkî Dialectic (Ontological & Perceptual Level)
+In the external sphere of public law and international conflict resolution (*âfâk*), Surah al-Hujurât 49:9–10 establishes a three-stage collective security and peacebuilding architecture to end factional warfare, polarization, and armed aggression (`baghy`) through impartial mediation (`fa-aslihû`), bounded deterrence (`hattâ tafî'a ilâ amri'llâh`), and non-vindictive restorative equity (`bi'l-'adli wa-aqsitû`), anchored in **fraternal reconciliation** (`innama'l-mu'minûna ikhwatun`). Yet according to the ontological mirror principle of Surah Fussilat 41:53 (*"We shall show them Our signs upon the horizons [âfâk] and within their own souls [enfüs]"*), outward communal warfare and political transgression (`baghy`) are the macrocosmic projection of an inward pathology within the human conscience (*enfüs / kalp fıkhı*): blind tribal or sectarian partisanship (*hamiyyat al-jâhiliyyah* / *'asabiyyah*), envy (*hasad*), vindictive rage (*tashaffî*), and the **insurrection of the nafs** (*baghy al-nafs*) against the spiritual heart. Decision-makers who have not subdued the rebellious tyranny of their own ego in the inner world (*enfüs*) cannot act as impartial peacemakers (*muslihûn*) or equitable judges (*muqsitûn*) in the outer world (*âfâk*); durable external peace is sustainable only when grounded in inward justice (`qist`) and reverent God-consciousness (`wa-ttaqû'llâha la'allakum turhamûn`).
+
+#### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
+In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, the hidden moral diseases that ignite factional bloodshed and sabotage peace agreements are diagnosed as rancor (*hiqd*), envy (*hasad*), wrath (*ghadab*), and sectarian arrogance:
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âdâb al-Ulfah wa'l-Ukhuwwah wa'l-Suhbah* (Vol. 2) and *Kitâb Âfât al-Ghadab wa'l-Hiqd wa'l-Hasad* (Vol. 3), al-Ghazâlî demonstrates that the Qur'anic covenant `innama'l-mu'minûna ikhwatun` (al-Hujurât 49:10) binds believers in a sacred contract of mutual protection across speech, property, and inward disposition. When anger ferments in the heart into settled rancor (*hiqd*), it breeds backbiting, gloating over a brother's misfortune (*shamâtah*), and aggressive transgression (`baghy`). Al-Ghazâlî warns that unless the heart is cleansed of partisan rancor and envy, outward truces remain fragile facades ready to erupt at the slightest provocation (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 2, pp. 157–195; Vol. 3, pp. 175–200; Digital access: [shamela.ws/book/9472/175](https://shamela.ws/book/9472/175)).
+- **Enfüs–Policy Bridge:** Mediators who harbor hidden ethnic, sectarian, or factional partisanship in their conscience (*enfüs*) inevitably corrupt arbitration in the public sphere (*âfâk*), violating the Qur'anic mandate `bi'l-'adli wa-aqsitû`; therefore, the institutional decision branches in `STEP 15` (`K1` rapid neutral arbitration, `K2` strictly proportional deterrence bounded by `hattâ tafî'a`, and `K3` restorative post-conflict equity) enforce strict conflict-of-interest insulation and procedural impartiality.
+
+#### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
+Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the conflict between the two factions, the transgression (`baghy`), the return (`fay'`), and the equitable settlement (`islâh bi'l-'adl`) in al-Hujurât 49:9–10 as the inward spiritual struggle between the lower ego (*nafs*) and the spiritual heart (*qalb*):
+- **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
+  - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Hujurât 49:9–10, al-Qushayrî records the following verbatim passage:
+    > «وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا... الإشارة فيه: طائفة النفس وطائفة القلب إذا اقتتلتا فأصلحوا بينهما بالعدل... وبغي النفس يوجب قتالها بسيوف المجاهدة حتى تفيء إلى أمر الله، فإن فاءت فأصلحوا بينهما برعاية حقوق الشريعة، وإعطاء النفس حظها المباح بالعدل والقسط»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 438–439; Digital verification: [shamela.ws/book/23622/438](https://shamela.ws/book/23622/438) / [altafsir.com — Latâ'if al-Ishârât 49:9](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=9&tDisplay=yes)).*
+  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that when the passionate ego (*al-nafs al-ammârah*) commits transgression (`baghy`) through caprice and desire, it must be combated with the sword of spiritual striving (*mujâhadah*) until it returns to God's command (`hattâ tafî'a ilâ amri'llâh`), and that true **fraternal reconciliation** (`ikhwatun`) is realized only when hearts are united in reverence for God rather than self-interest (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 152; Digital access: [shamela.ws/book/23625/152](https://shamela.ws/book/23625/152)).
+  - `[ANALYSIS / YORUM]`: Al-Qushayrî's analysis of the conflict between the *faction of the ego* (`tâ'ifat al-nafs`) and the *faction of the heart* (`tâ'ifat al-qalb`) offers a profound jurisprudential and spiritual insight: while the **insurrection of the nafs** (`baghy al-nafs`) must be resisted with the sword of ascetic striving until it submits to divine law, once it returns to obedience (`fa-in fâ'at`), it is not to be annihilated, but reconciled with the heart by granting its lawful rights in fair measure (`bi'l-'adli wa'l-qist`). Just as inner peace is achieved not by destroying human nature but by ordering it under justice, communal peace in *Fiqh Ahl al-Baghy* is achieved not by annihilating the opposing faction, but by halting aggression and restoring fraternal equity (`bayna akhawaykum`).
 
 ---
 
@@ -593,11 +606,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/586-590. Digital Verification: https://shamela.ws/book/23627/2430 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/138-141. Digital Verification: https://shamela.ws/book/23636/119 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/271-274. Digital Verification: https://shamela.ws/book/21710/315 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 14/76-81. Digital Verification: https://shamela.ws/book/1687/7202 (urn:shamela:21605).
-[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/278-284. Digital Verification: https://shamela.ws/book/23579/1826 (urn:shamela:21711).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/586-590. Digital Verification: https://shamela.ws/book/2362/17/2430 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/138-141. Digital Verification: https://shamela.ws/book/2363/16/119 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/271-274. Digital Verification: https://shamela.ws/book/2171/10/315 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 14/76-81. Digital Verification: https://shamela.ws/book/168/17/7202 (urn:shamela:21605).
+[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/278-284. Digital Verification: https://shamela.ws/book/2357/19/1826 (urn:shamela:21711).
 [^6]: Uppsala University (Uppsala Conflict Data Program - UCDP) (2024). *UCDP Peace Agreements and Conflict Resolution Dataset 2024*. Uppsala: Department of Peace and Conflict Research, Uppsala University. DOI: doi:10.1177/0022343320934986. URL: https://ucdp.uu.se
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Rule of Law and Conflict Reconstruction*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: Türkiye İstatistik Kurumu (TÜİK) (2024). *Sosyal Yaşam, Demografi ve Kamu Güveni Veritabanı*. Ankara: TÜİK Yayınları. DOI: Institutional Dataset. URL: https://data.tuik.gov.tr

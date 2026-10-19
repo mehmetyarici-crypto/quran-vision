@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "502"
     arabic_quote: "قوله تعالى: كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ كيلا يكون الفيء الذي حقه أن يعطى الفقراء ليكون لهم بلغة يعيشون بها جدا بين الأغنياء يتكاثرون به. أو كيلا يكون دولة جاهلية بينهم"
-    verification_link: "https://shamela.ws/book/23627/2567"
+    verification_link: "https://shamela.ws/book/2362/17/2567"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "322"
     arabic_quote: "اسم الشيء الذي يتداول بعينه، والدَّوْلَة المصدر. قال تعالى: كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ [الحشر/ ٧] ، وتداول القوم كذا، أي: تناولوه من"
-    verification_link: "https://shamela.ws/book/23636/304"
+    verification_link: "https://shamela.ws/book/2363/16/304"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "314"
     arabic_quote: "الدال والواو واللام أصلان: أحدُهما يدلُّ على تحوُّل شئِ من مكان إلى مكان، والآخَر يدلُّ على ضَعْفٍ واستِرخاء."
-    verification_link: "https://shamela.ws/book/21710/874"
+    verification_link: "https://shamela.ws/book/2171/10/874"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "252"
     arabic_quote: "جَمْعُ دُولة، بِالضَّمِّ، وَهُوَ مَا يُتداوَل مِنَ الْمَالِ فَيَكُونُ لِقَوْمٍ دُونَ قَوْمٍ. الأَزهري: قَالَ الْفَرَّاءُ فِي قَوْلِهِ تَعَالَى: كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ"
-    verification_link: "https://shamela.ws/book/1687/5432"
+    verification_link: "https://shamela.ws/book/168/17/5432"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "319"
     arabic_quote: "كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ وقوله وَالَّذِينَ جاؤُ مِنْ بَعْدِهِمْ وَقَالَ لَوْ قَسَمْتهَا بَيْنَهُمْ لَصَارَتْ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنْكُمْ"
-    verification_link: "https://shamela.ws/book/23579/1865"
+    verification_link: "https://shamela.ws/book/2357/19/1865"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -394,11 +394,25 @@ Haşr Sûresi Hicretin 4. yılında Medine'de Benî Nadîr kabilesinin şehirden
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (Kalp Fıkhı ve Şuhûd):** Servet hırsı, mülkiyeti Tanrılaştırma ve yoksulu hakir görme kalbin en tehlikeli putudur (karunlaşma). Kalp fıkhı açısından infak ve fey', mülkiyetin gerçek sahibinin Allah olduğunu ikrar eden enfüsi bir arınmadır. Ensar'ın sergilediği "îsâr" (kendi ihtiyacı varken kardeşini tercih etme) ahlakı, servetin içsel esaretinden kurtulmanın zirvesidir.
-- **Âfâk (Sistemik ve Kurumsal Dağılım):** Vergi mimarisi, vakıf müesseseleri, faizsiz finans sandıkları ve kamusal refah fonları bu içsel arınmanın kurumsal ve sosyo-ekonomik âfâkî gövdesidir.
-- **Enfüsî-Karar Köprüsü:** İç dünyasında (`enfüs`) nefsani kibir, tamah ve öfkeyi terbiye edemeyen karar vericiler, dış dünyada (`âfâk`) kurumsal adaleti ve merhameti yaşatamaz; bu sebeple `ADIM 15`'teki politika kolları ahlaki öz-denetim şartına bağlanmıştır.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+Haşr 59:7 âyetinin dış dünyadaki (*âfâk*) makro-iktisadi, mali ve anayasal tezahürü; kamusal servetin ve toplumsal artı-değerin yalnızca zenginler arasında elden ele dolaşan kapalı devre bir oligarşik tekel (`key lâ yekûne dûleten beyne'l-ağniyâi minküm`) haline gelmesini önlemek, gelir uçurumunu ve iktisadi istibdadı kırarak servetin toplumun en kırılgan katmanlarına (yetimler, yoksullar, yolda kalmışlar) adil dolaşımını sağlamaktır. Ancak Fussilet 41:53 âyetinin kurduğu ontolojik ayna ilişkisi uyarınca, dış dünyada servetin dar bir zümre elinde temerküz etmesi (*dûle*) ve rantiye tekelleşmesi krizinin insanın iç dünyasındaki (*enfüs*) doğrudan kökü; kalpteki *şuhh-i nefs* (nefsin doymak bilmez açgözlülüğü ve cimrilik tutkusu), çoklukla övünme (*tekâsür*), serveti dolaşımdan çekip yığma (*kenz*) ve mülkü kendinden bilerek müstağnîleşme kibridir (*istiğnâ* / Karunlaşma). Kur'ân-ı Kerîm'in Haşr 59:7'de vaz'ettiği kamusal bölüşüm adaleti ilkesini, hemen iki âyet sonra Haşr 59:9'da `ve men yûka şuhha nefsihî fe-ülâike hümü'l-müflihûn` (*"Kim nefsinin cimrilik ve açgözlülüğünden [şuhh] korunursa, işte kurtuluşa erenler onlardır!"*) hükmüyle ve Ensâr'ın *îsâr* (kendi ihtiyacı varken kardeşini tercih etme) ahlâkıyla tamamlaması, dışsal iktisadi adalet (*âfâk*) ile içsel kalp tezkiyesi (*enfüs*) arasındaki ayrılmaz bağı tescil eder.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
+Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe servet tekelleşmesinin (`dûle`), ihtikârın ve yoksulun hakkını gasp etmenin ardındaki bâtınî illetler; mal sevgisi (*hubbü'l-mâl*), nefsânî cimrilik (*buhl* ve *şuhh*) ve tûl-i emel olarak teşhis edilmiştir:
+- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, servet biriktirme hırsını ve dünyevî tamahı tahlil ederken; malı ilahî bir emanet ve imtihan aracı olarak değil de şahsi kudret ve üstünlük vesilesi olarak gören nefsin, kalpteki merhamet ve kardeşlik duygusunu öldürdüğünü, bu bâtınî marazın ise ancak *zühd*, *infak* ve hakiki tevekkül ile tedavi edilebileceğini ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 295–325; Dijital erişim: [shamela.ws/book/9683/295](https://shamela.ws/book/9683/295)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Zemmi'l-Buhl ve Zemmi Hubbi'l-Mâl* (Cimriliğin ve Mal Sevgisinin Kınanması) bölümünde; paranın ve servetin tıpkı toplum bedeninde dolaşan kan veya tarafsız bir hakem gibi tedavül etmek için yaratıldığını, onu *kenz* ve *dûle* yoluyla hapsedenlerin hem toplumsal nizama ihanet ettiğini hem de kendi kalplerini malın kölesi kıldığını beyan eder. Gazzâlî, *şuhh-i nefs* hastalığının panzehiri olarak cömertliğin (*sehâ*) en üst mertebesi olan *îsâr* ahlâkını (Haşr 59:9) gösterir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 231–273; Dijital erişim: [shamela.ws/book/9472/231](https://shamela.ws/book/9472/231)).
+- **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) *şuhh-i nefs* ve rant tamahını terbiye edemeyen iktisadi ve siyasi karar vericiler, dış dünyada (`âfâk`) vergi ve teşvik politikalarını dar bir sermaye oligarşisinin (`beyne'l-ağniyâi minküm`) çıkarına tahsis eder; bu sebeple `ADIM 15`'teki ulusal fey' ve refah fonu (`K1`), reel ortaklık finansmanı (`K2`) ve atıl servet/kenz vergisi (`K3`) kararları nefsânî biriktirme hırsını kamusal hukuk eliyle sınırlandırmaktadır.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
+Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Haşr 59:7–9 âyetlerindeki *dûle*, *şuhh-i nefs* ve *îsâr* kavramlarını kalbin dünya esaretinden kurtularak ilahî cömertlik ahlâkıyla (*el-Cevâd* ve *el-Kerîm* tecellisiyle) buluşması olarak şerh etmişlerdir:
+- **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
+  - `[NAKİL]`: Kuşeyrî, Haşr 59:7–9 âyetlerinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
+    > «كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ... الإشارة فيه: لئلا تكون الدنيا محصورة في أيدي أهل الغفلة والحرص، بل تفرق على أهل الحاجة والفقر... وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُولَئِكَ هُمُ الْمُفْلِحُونَ: فمن وقي شح نفسه فاز بكرامة الإيثار، وبذل الفضل في رضا الحق»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 566–567; Dijital doğrulama: [shamela.ws/book/23622/566](https://shamela.ws/book/23622/566) / [altafsir.com — Letâ'ifü'l-İşârât 59:7](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=59&tAyahNo=7&tDisplay=yes)).*
+  - **Sehl b. Abdillâh et-Tüsterî (ö. 283/896), *Tefsîru't-Tüsterî*:** Erken dönem irfânî tefsirin büyük imamı Sehl et-Tüsterî de Haşr 59:7–9 âyetlerinin tefsirinde; takvânın ve felâha ermenin sırrını, kulun mülkü nefsine nispet etmeyip Allah'ın emaneti bilmesi ve kalbini *şuhh* (cimrilik ve hırs) karanlığından *îsâr* nuruna çıkarması olarak açıklar (Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 168; Dijital erişim: [shamela.ws/book/23625/168](https://shamela.ws/book/23625/168)).
+  - `[YORUM]`: Kuşeyrî'nin *"Dünya nimetleri gaflet ve hırs ehlinin ellerinde hapsolmasın, bilakis ihtiyaç ve fakr ehline dağıtılsın; kim nefsinin cimriliğinden korunursa îsâr kerametine ve Hakk'ın rızası uğrunda infak şerefine erişir"* tespiti, İslam iktisat ahlâkının hem kurumsal hem de irfânî ruhunu özetler. Mülkün hakiki sahibinin Allah olduğu (`el-Mülkü lillâh`) şuhûduna eren bir kalp, serveti bir tahakküm ve tekelleşme (`dûle`) aracına dönüştürmez; bilakis onu toplumsal bünyeyi dirilten bir rahmet ve *îsâr* dolaşımına dönüştürür.
 
 ---
 
@@ -555,11 +569,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/23579/1865
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/874
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/5432
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/304
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/2567
+- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/2357/19/1865
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/874
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/5432
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/304
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/2567
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Gelir ve Yaşam Koşulları ile Yoksulluk ve Yaşam Kalitesi Araştırması 2024*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr

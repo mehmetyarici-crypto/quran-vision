@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "303"
     arabic_quote: "لا إِكْراهَ فِي الدِّينِ أى لم يجر اللَّه أمر الإيمان على الإجبار والقسر، ولكن على التمكين والاختيار. ونحوه قوله تعالى وَلَوْ شاءَ رَبُّكَ لَآمَنَ مَنْ فِي الْأَرْضِ كُلُّهُمْ"
-    verification_link: "https://shamela.ws/book/23627/306"
+    verification_link: "https://shamela.ws/book/2362/17/306"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "708"
     arabic_quote: "والإِكْرَاهُ يقال في حمل الإنسان على ما يكرهه، وقوله: وَلا تُكْرِهُوا فَتَياتِكُمْ عَلَى الْبِغاءِ [النور/ ٣٣] فنهي عن حملهنّ على ما فيه كَرْهٌ وكُرْهٌ، وقوله: لا إِكْراهَ فِي الدِّينِ"
-    verification_link: "https://shamela.ws/book/23636/690"
+    verification_link: "https://shamela.ws/book/2363/16/690"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "172"
     arabic_quote: "الكاف والراء والهاء أصلٌ صحيحٌ واحد، يدلُّ على خلاف الرِّضا والمحبّة. يقال: كرِهتُ الشَّيءَ أكرَهُه كَرْها. والكُرْه الاسم. ويقال:"
-    verification_link: "https://shamela.ws/book/21710/2224"
+    verification_link: "https://shamela.ws/book/2171/10/2224"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "15"
     pages: "45"
     arabic_quote: "والرَّواحِلِ. وعَرَّى الشَّيْءَ: اتَّخَذَ لَهُ عُرْوَةً. وَقَوْلُهُ تَعَالَى: فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقى لَا"
-    verification_link: "https://shamela.ws/book/1687/7657"
+    verification_link: "https://shamela.ws/book/168/17/7657"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "4"
     pages: "548"
     arabic_quote: "قال: ثنا أسباطُ، عن السديِّ قولَه: ﴿لَا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ﴾ إلى ﴿لَا انْفِصَامَ لَهَا﴾. قال: نزَلَتْ في رجلٍ من"
-    verification_link: "https://shamela.ws/book/7798/2958"
+    verification_link: "https://shamela.ws/book/779/18/2958"
     doi_or_urn: "urn:shamela:43"
 
 modern_sources:
@@ -393,13 +393,20 @@ Bakara 2:256, Kur'ân'ın tevhid zirvesi olan **Âyetü'l-Kürsî (2:255)**'nin 
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (İçsel ve Ahlaki Boyut):** İman, kalbin hür bir şekilde 'evet' demesidir (*tasdîk-i kalbî*). Kalbe kılıç, cop veya kanun zoruyla girilemez. Kalbin fıkhı, samimiyet (*ihlas*) üzerine kuruludur; zorlamanın girdiği yerde ihlas buharlaşır, yerini riya alır.
-- **Âfâk (Dışsal ve Kurumsal Boyut):** Devlet ve toplum, insanın kalbini denetlemeye kalkan totaliter aygıtlar üretmemelidir. Kamusal düzen ancak zahirî eylemleri denetler; inanç vicdanın dokunulmaz kalesidir.
-- **Karşılıklı Etki:** İçsel vicdan hürriyeti sağlanan toplumlarda dinî aidiyet derinleşir; dışsal dayatmanın olduğu toplumlarda ise sekülerleşme ve inanç karşıtlığı reaksiyonel olarak patlar.
-- **Karar Köprüsü:** Kalp fıkhı gereği Adım 15'teki K1 ve K2 kararları devletin dinî kanaat sorgulamasını kesin olarak yasaklar.
-- **İşârî / İrfanî Derinlik:** Tasavvufi tefsirlerde urvetü'l-vüskâ, fenâfi't-tevhîd makamıdır; kul ile Rabbi arasına hiçbir beşerî otorite giremez.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+- **[YORUM]** Kur'ân-ı Kerîm'in inanç ve insan onuru mimarisinde dış dünyadaki din ve vicdan hürriyeti, hukuk güvenliği ve çoğulcu barış nizamı (`âfâk`) ile bireyin iç dünyasındaki samimiyet (*ihlâs*), hür irade (*ihtiyâr*) ve kalbî rıza (`enfüs`) birbirinin ontolojik aynasıdır. **Bakara 2:256** âyetinin dış dünyada teopolitik baskıyı, din adına zorbalığı ve inanç dayatmasını (`ikrâh`) yasaklayan evrensel hükmü (`âfâk` boyutu); insanın iç dünyasında imanı kemiren riyâ (gösteriş), nifak (ikiyüzlülük), doğruluk kibri ve hidayeti kendi tekelinde görme yanılgısına karşı yürütülen içsel arınmayla (`enfüs` boyutu) doğrudan bütünleşiktir. **Fussilet 41:53** ilkesi uyarınca, iman kalbin hür bir iradeyle "evet" demesidir (*tasdîk-i kalbî*); kalbe kılıç, sopa veya idari baskı zoruyla girilemez. Zorlamanın girdiği yerde *ihlâs* buharlaşır ve yerini dışsal riyâ ile toplumsal münafıklık alır. Kendi iç dünyasında nefsânî tahakküm arzusunu terbiye edemeyen bir otorite, dış dünyada insanların vicdanları üzerinde tahakküm kurmaya kalkışır; bu sebeple **Adım 15**'teki `K1` (anayasal vicdan hürriyeti) ve `K2` (`Hac 22:40` ibadethane dokunulmazlığı) karar kolları, kalplerin yalnızca Allah'ın elinde olduğu irfânî şuuruna bağlanmıştır.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın* — Muhâsibî & Gazzâlî Metodolojisi)
+- **[YORUM]** Zâhirî fıkıh (*fıkhü'z-zâhir*) kamu düzeninde inanç ve ibadet hürriyetinin hukuki sınırlarını korurken, kalp fıkhı (*fıkhü'l-bâtın*) dindarlığı içeriden çürüten *riyâ* ve *istibdâd-ı bâtınî* (kalpler üzerinde rablik taslama) marazlarını teşhis eder. **Hâris el-Muhâsibî** (ö. 243/857), *er-Ri'âye li-Hukûkillâh* adlı eserinin *Bâbü'r-Riyâ ve'l-İhlâs* bölümünde (thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, Cilt: 1, s. 115–140, [Dijital Doğrulama](https://shamela.ws/book/12095/115)), kulun amellerini Allah rızası yerine insanların övgüsü veya korkusu için yapmasını "gizli şirk" (*şirk-i hafî*) olarak tanımlar ve dışsal baskıyla üretilen şeklî dindarlığın kalpte hiçbir mânevî değer taşımadığını ortaya koyar. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111) ise *İhyâ'u 'Ulûmi'd-Dîn* eserinin *Kitâbü'n-Niyye ve'l-İhlâs ve's-Sıdk* bölümünde (Beyrut: Dârü'l-Ma'rife, Cilt: 4, s. 361–390, [Dijital Doğrulama](https://shamela.ws/book/9472/361)), kalbin ancak hür bir niyet, muhabbet ve içsel yakîn ile Allah'a yönelebileceğini; başkalarını zorla dindarlaştırma hırsının çoğu kez davetçinin kendi nefsânî kibrinden (*ucb*) ve tahakküm şehvetinden beslendiğini tahlil eder. Âyetin sonundaki `vallâhu semî'un alîm` (*"Allah hakkıyla işitendir, kalplerdekini hakkıyla bilendir"*) mührü, dillerin zorla söylediğini değil kalplerin samimi niyetini esas alan bu kalp fıkhı ilkesini tescil etmektedir.
+
+#### 13.3. Klasik İşârî / İrfânî Tahrîc (Kuşeyrî — *Letâ'ifü'l-İşârât* & İbn Acîbe)
+- **[NAKİL]** Klasik işârî tefsir geleneğinin kurucu imamı **Abdülkerîm el-Kuşeyrî** (ö. 465/1072), *Letâ'ifü'l-İşârât* adlı eserinde Bakara 2:256 âyetindeki *lâ ikrâhe fi'd-dîn*, *tâğût* ve *urvetü'l-vüskâ* kavramlarının irfânî hakikatini şu lafızlarla tahrîc etmektedir:
+  > «لا إكراه في الدين... الإشارة فيه: أن القلوب لا تملك بالإكراه، وإنما تملك بالألطاف والإحسان... فمن يكفر بالطاغوت ويؤمن بالله فقد استمسك بالعروة الوثقى: طاغوت كل أحد نفسه وهواه، فمن كفر بطاغوت نفسه وهواه استمسك بالعروة الوثقى التي لا انفصام لها...»
+  > *"Dinde zorlama yoktur... Bu âyetteki irfânî işaret şudur: Kalpler zorbalık ve baskıyla fethedilmez; kalpler ancak ilâhî lütuflar ve ihsân ile kazanılır... Kim tâğûtu inkâr edip Allah'a iman ederse kopmak bilmeyen en sağlam kulpa (urvetü'l-vüskâ) yapışmıştır: Herkesin en büyük tâğûtu kendi nefs-i emmâresi ve hevâsıdır; kim kendi nefsinin ve hevâsının tâğûtunu reddederse asla kopmayan sağlam kulpa tutunmuş olur..."*
+  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 212–213 (krş. Ahmed b. Muhammed İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kâhire, 1999, Cilt: 1, s. 291–292). **Dijital Kütüphane Bağlantısı:** [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=2&tAyahNo=256).
+- **[YORUM]** **İbare Tahlili:** İmam Kuşeyrî ve İbn Acîbe bu muazzam tahlilde iki temel irfânî ilke vaz' etmektedir: Birincisi, **kalpler üzerinde dışsal zorbalık (*ikrâh*) asla hükmünü yürütemez**; kalplerin anahtarı *el-Latîf* olan Allah'ın lütfu, hikmet ve güzel öğüttür (`Nahl 16:125`). İkincisi, âyetteki *tâğûtu inkâr* emri, dışarıdaki başkasını zorlamak değil, kişinin bizzat kendi içindeki **en büyük tâğût olan nefs-i emmâresini, kibrini ve tahakküm hevâsını terk etmesidir**. Kendi içindeki benlik tâğûtunu yıkmayan bir kimsenin *urvetü'l-vüskâ*ya (tevhid ve ihlas kulpuna) tutunması mümkün değildir.
 
 ---
 
@@ -561,11 +568,11 @@ Bu durum şu açık gerilimleri doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/2224
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/7657
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/690
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hecer, 1422/2001. Erişim: https://shamela.ws/book/7798/2958
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/306
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/2224
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/7657
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/690
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hecer, 1422/2001. Erişim: https://shamela.ws/book/779/18/2958
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/306
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Freedom House (2024).** *Freedom in the World 2024: Religious Freedom and Civil Liberties*. Washington, D.C.: Freedom House. Erişim adresi: https://freedomhouse.org

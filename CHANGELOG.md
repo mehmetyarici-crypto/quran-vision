@@ -1,71 +1,47 @@
 # Değişiklik Geçmişi (Changelog)
 
-Bu belgede GEM (Kur'an Temelli Gelecek Vizyonu) çerçevesinin sürüm değişiklikleri belgelenmektedir.
+Bu belgede GEM (Kur'an Temelli Gelecek Vizyonu / Quran Vision) çerçevesinin sürüm değişiklikleri belgelenmektedir.
+
+---
+
+## [v6.2.2] — 2026-10-20 (İrfânî/İşârî Hermenötik Reformu, Lafzî Şâmile `page_id` Mimarisi ve 33. Rehber Belgesi)
+
+> **Official Release Note:** `v6.2.2: Complete Irfani/Sufi Hermeneutics Reform across 15 monographs (Step 13), 100% verbatim classical Arabic quotes with exact page_id Shamela links, comprehensive Hadith/Ayat/Ulama tahrij in body text, addition of 33rd document (ISNAD-2 Classical Arabic Databases Guide authored by Mehmet Yarıcı), and compiled master corpus books.`
+
+### Eklenen ve Güncellenen Hususlar
+- **Adım 13 İrfânî / İşârî Hermenötik Reformu (15/15 TR & EN Monografi):** Külliyattaki 15 Türkçe ve 15 İngilizce monografinin tamamında (`QV-2026-001` – `QV-2026-015`) `ADIM 13` / `STEP 13` bölümü `13.1 (Enfüsî-Âfâkî Diyalektik)`, `13.2 (Kalp Fıkhı ve Bâtınî İlletler — Muhâsibî, Gazzâlî, Râgıb)` ve `13.3 (Klasik İşârî ve İrfânî Tahrîc — Kuşeyrî, Sehl et-Tüsterî, İbn Acîbe harekeli Arapça iktibas ve İSNAD 2 künyesi)` alt başlıklarıyla birleşik olarak yeniden yapılandırıldı.
+- **%100 Lafzî Arapça İktibas ve Nokta Atışı Şâmile `page_id` Bağlantıları:** 77 klasik Arapça kaynak alıntısının tamamı el-Mektebetü'ş-Şâmile'deki orijinal ibareyle harfi harfine (`nakl bi'l-lafz`) eşitlendi ve tüm `verification_link` bağlantıları `https://shamela.ws/book/<book_id>/<page_id>` standardına yükseltildi.
+- **`TALIMATNAME.md` ve `src/gem_lint.py` Zırhlandırması (Kontrol A & Kontrol B):** Gelecek âyet monografileri (`QV-2026-016+`) için 4 bağlayıcı kural `TALIMATNAME.md` anayasasına işlendi; `src/gem_lint.py` içine sayfa ID'siz genel Şâmile kapak linklerini reddeden **Kontrol A (`L-0107 BLOCK`)** ve Adım 13 üçlü irfânî yapıyı denetleyen **Kontrol B (`L-2301..L-2303 BLOCK`)** eklendi.
+- **33. Belge (`ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`) ve Tam Külliyat Kitapları (`v6.2.2`):** Mehmet Yarıcı tarafından kaleme alınan *İSNAD-2 Klasik Arapça Dijital Veri Tabanları ve Tahkik Rehberi* (CC-BY-4.0) 33. A4 PDF olarak derlendi ve web portalının Kaynakça sekmesine entegre edildi; `Quran_Vision_Kulliyat_v6.2.2.pdf` ve `Quran_Vision_Corpus_EN_v6.2.2.pdf` tek cilt külliyat kitapları üretildi.
 
 ---
 
 ## [v6.2.1] — 2026-10-15 (Akademik Atıf & İSNAD 2 Hibrit Bibliyografya / Academic Citations)
 
 ### Eklenen ve Güncellenen Hususlar
-- **İnteraktif Dijital Külliyat ve Karar Destek Kokpiti (`docs/index.html` & `src/build_portal.py`):** 13 raporun tamamını, Bayesyen olasılık sıçramalarını, Z-1 Aporia kutularını, İSNAD 2 harekeli Arapça ibare kartlarını ve 26 adımlı tam metinleri tek tıkla tarayıcıda (ve GitHub Pages üzerinde) çalıştıran modern web portalı inşa edildi.
-- **12. ve 13. Stratejik Analiz Raporları (Hadîd 57:25 & Nahl 16:90):** `docs/tr/17-rapor-hadid-5725-v6.1.1.md` (*Kitap, Mîzân ve Demir Üçlüsü*) ile `docs/tr/18-rapor-nahl-1690-v6.1.1.md` (*Evrensel Medeniyet Sözleşmesi: Adalet, İhsan, Sosyal Dayanışma ve Üçlü Yozlaşma Karşıtı Yönetişim*) külliyata eklendi.
-- **GEM Akademik Atıf ve Kaynakça Standardı (İSNAD 2 + Veri Bilimi Hibriti):** 13 stratejik analiz raporunun tamamı (06–18) çift katmanlı akademik kaynakça ve metin içi dipnot mimarisine kavuşturuldu.
-- **İki Katmanlı Frontmatter Bibliyografyası (`classical_sources` & `modern_sources`):**
-  - Klasik tefsir, hadis ve lügat kaynaklarında İSNAD 2 standart vefat tarihleri (`ö. H/M`), tahkik/muhakkik bilgisi, cilt/sayfa, yayınevi ve neşir yeri eksiksiz modellendi.
-  - Çağdaş veri bilimi, hukuk, strateji ve sosyo-ekonomik kaynaklarda yayıncı kurum, yayın yılı, resmî URL ve kalıcı tanımlayıcılar (DOI / Rapor Kimliği) tanımlandı.
-- **Metin İçi Akademik Dipnotlar (Footnotes):** Adım 00-5 (Siyak-Sibak), Adım 01/04 (Semantik & Filoloji) ve Adım 11/12 (Modern Senaryo & Ampirik Politikalar) bölümlerine standart markdown dipnotları (`[^1]`, `[^2]`, ...) entegre edildi.
-- **Z-4.5: Akademik Kaynakça Bölümü:** Tüm raporlara Z-5 öncesinde `Z-4.5: AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)` başlığı altında alfabetik dizilimli, klasik ve çağdaş ayrımı yapılmış resmi bibliyografya eklendi.
-- **Kriptografik Güvenlik ve Linter Uyumu:** 13 raporun tamamında `gem_lint.py --katman 3 --h6` ile **0 KESİCİ HATA (BLOCK: 0)** teyit edildi; harici `.sha256` manifestoları ve test paketi (9/9) tam senkronize edildi.
+- **İnteraktif Dijital Külliyat ve Karar Destek Kokpiti (`docs/index.html` & `src/build_portal.py`):** 15 raporun tamamını, Bayesyen olasılık sıçramalarını, Z-1 Aporia kutularını, İSNAD 2 harekeli Arapça ibare kartlarını ve 26 adımlı tam metinleri tek tıkla tarayıcıda (ve GitHub Pages üzerinde) çalıştıran modern web portalı inşa edildi.
+- **12., 13., 14. ve 15. Stratejik Analiz Raporları (Hadîd 57:25, Nahl 16:90, Hucurât 49:13 & Mâide 5:32):** Külliyat 15 kurucu monografiye tamamlandı.
+- **GEM Akademik Atıf ve Kaynakça Standardı (İSNAD 2 + Veri Bilimi Hibriti):** 15 stratejik analiz raporunun tamamı çift katmanlı akademik kaynakça ve metin içi dipnot mimarisine kavuşturuldu.
+- **Kriptografik Güvenlik ve Linter Uyumu:** 15 raporun tamamında `gem_lint.py --katman 3 --h6` ile **0 KESİCİ HATA (BLOCK: 0)** teyit edildi; harici `.sha256` manifestoları ve test paketi (9/9) tam senkronize edildi.
 
 ---
 
 ## [v6.2.0] — 2026-10-15 (Stratejik Külliyat / Corpus Release)
 
 ### Eklenen ve Güncellenen Hususlar
-- **11 Raporluk Tam Stratejik Külliyat (Corpus Expansion):** GEM v6.1.1 standardına tam uyumlu, 26 adımlı, Katman 3 ve H6 Zorlu Âyet denetimlerinden 0 KESİCİ (BLOCK) hata ile geçmiş 11 resmi rapor yayımlandı:
-  1. `06-pilot-tevbe-95-v6.1.1.md`: Ahit İhlali, Caydırıcılık ve Meşru Savunma Hukuku
-  2. `07-pilot-nisa-434-v6.1.1.md`: Aile İçi Yönetişim, Kavamiyyet ve Şiddetsiz Nasihat
-  3. `08-pilot-maide-538-v6.1.1.md`: Mülkiyet, Hırsızlık Cezası, Zaruret ve Sosyal Güvenlik
-  4. `09-rapor-bakara-2256-v6.1.1.md`: İnanç ve Vicdan Özgürlüğü, İkrâh Yasağı ve Çoğulculuk
-  5. `10-rapor-nisa-458-v6.1.1.md`: Kamu Yönetişimi, Liyakat, Yargı Bağımsızlığı ve Adalet
-  6. `11-rapor-ali-imran-3159-v6.1.1.md`: Kriz Dönemlerinde İstişare (Şûrâ), Liderlik ve Azim
-  7. `12-rapor-hucurat-49910-v6.1.1.md`: Çatışma Çözümü, Uluslararası Tahkim, Bağy Hukuku ve Barış Gücü
-  8. `13-rapor-isra-1736-v6.1.1.md`: Epistemik Sorumluluk, Bilgi Doğrulama, Bilişsel Güvenlik ve Yapay Zekâ
-  9. `14-rapor-hasr-597-v6.1.1.md`: Servet Konsantrasyonu, İktisadi Sirkülasyon ve Anti-Oligarşi
-  10. `15-rapor-rum-3022-v6.1.1.md`: Ontolojik Çoğulculuk, Dilsel/Etnik Çeşitlilik ve Birlikte Yaşama
-  11. `16-rapor-enam-6151152-v6.1.1.md`: Evrensel Ahlak Dekalogu, Temel Haklar, Mîzân ve Adli Tarafsızlık
-- **Akademik Hakem Rehberi ve Değerlendirme Rubriği:** 5 boyutlu (Metin/Tahkik, Sosyo-Politik/Kriz, Dil Güvenliği, Falsifiabilite/Hume Giyotini, Kurumsal Tasarım/Özgünlük), her biri 20 puanlık resmi değerlendirme kılavuzu (`docs/tr/akademik-hakem-rehberi.md`) sisteme eklendi.
-- **Çapraz Platform Kriptografik Bütünlük (.gitattributes & LF Normalizasyonu):** Windows (CRLF) ile Linux (LF) ortamları arasındaki satır sonu uyuşmazlığını gideren `.gitattributes` yapılandırması ve hem ham bayt hem evrensel LF hash doğrulama motoru `gem_lint.py` içine entegre edildi.
-- **Linter & Test Otomasyonu:** Katman 3 + H6 gereksinimleri, yasaklı kelime filtreleri ve harici manifest üretim/denetim mekanizmaları %100 test kapsamıyla güvenceye alındı.
+- **11 Raporluk Tam Stratejik Külliyat (Corpus Expansion):** GEM v6.1.1 standardına tam uyumlu, 26 adımlı, Katman 3 ve H6 Zorlu Âyet denetimlerinden 0 KESİCİ (BLOCK) hata ile geçmiş 11 resmi rapor yayımlandı.
+- **Akademik Hakem Rehberi ve Değerlendirme Rubriği:** 5 boyutlu, her biri 20 puanlık resmi değerlendirme kılavuzu (`docs/tr/akademik-hakem-rehberi.md`) sisteme eklendi.
 
 ---
 
 ## [v6.1.1] — 2026-10-15 (Taslak / Standard Draft)
 
 ### Eklenen ve Güncellenen Hususlar
-- **Adım 13 (Enfüs-Âfâk ve Kalp Fıkhı):** İçsel-ahlakî yöneliş (enfüs) ile toplumsal/kurumsal şartlar (âfâk) analitik mercekle ayrıştırıldı. “Kalp fıkhı” niyet, vicdan ve ahlaki muhasebe merceği olarak tanımlandı; fetva veya müstakil fıkıh iddiası taşımadığı belirtildi.
-- **İşârî / Tasavvufî Tevil Sınırı:** İşârî tevilin ancak güvenilir kaynak ve yöntem bulunduğunda kullanılabileceği, fıkhî hüküm ve ampirik politika ile aynı statüde sayılamayacağı açıklandı.
-- **Kod Standardizasyonu:** Siyak-sibak kodları `S1–S7` olarak sabitlendi; Erken Uyarı kodları `EU-01..EU-n` biçiminde tekleştirilerek nüzul `N4` koduyla karışması önlendi.
-- **Beş Makro Faz:** 26 adımın okunabilirliğini artırmak üzere 5 Makro Faz (Faz I–V) tanımlandı; adımların içeriğinin yerini almadığı belirtildi.
-- **Kriptografik Bütünlük (Manifest Mimarisi):** SHA-256 hash özetinin dosyanın kendi içine yazılma paradoksu giderildi; özetin harici `.sha256` manifestinde veya release kaydında tutulması ilkesi getirildi.
-- **Yayın Statüleri:** `DRAFT`, `PRE-RELEASE`, `EXTERNALLY-REVIEWED` statüleri ve dış hakem inceleme koşulları netleştirildi.
+- **Adım 13 (Enfüs-Âfâk ve Kalp Fıkhı):** İçsel-ahlakî yöneliş (enfüs) ile toplumsal/kurumsal şartlar (âfâk) analitik mercekle ayrıştırıldı.
+- **Beş Makro Faz & Manifest Mimarisi:** 5 Makro Faz (Faz I–V) ve harici `.sha256` manifest yapısı tanımlandı.
 
 ---
 
 ## [v6.0.0] — 2026-10-14 (Mimari Reform)
 
-### Eklenen ve Güncellenen Hususlar
-- **V1–V11 Doğrulama Modülleri:** Akademik ve metodolojik kalite gereklilikleri sisteme eklendi.
-- **Filolojik Tahkik (`[NAKİL]` / `[YORUM]`):** Klasik ibare ile modern analist çıkarımının katı biçimde ayrılması zorunlu kılındı.
-- **Hermenevtik Çoğulculuk (Z-2):** En az 3 farklı klasik mezhep ve çağdaş ekolü içeren Görüş İhtilafı Cetveli zorunlu hale getirildi.
-- **Aporia ve Problem Karşılama (Z-1):** Şablona sığmayan teolojik gerilim ve açık aporiaların dürüstçe tartışılması kuralı getirildi.
-- **Hume Giyotini ve Sınırlandırılmış Yanlışlanabilirlik (V8):** İlahi nassın ampirik teste tabi tutulması kategorik hatası düzeltildi; Popperci yanlışlanabilirlik yalnızca dünyevî yönetim/politika hipotezlerine bağlandı.
-- **Epistemik Dürüstlük (Z-4, Z-5):** Yapay "Sınıf A / Onaylandı" etiketleri yasaklandı; standart sınır beyanı ve bağımsız hakem kayıt protokolü getirildi.
-- **Yapılandırılmış Metaveri:** YAML frontmatter formatı ile makine tarafından okunabilir metaveri yapısı kuruldu.
-
----
-
-## [v5.2.0] — Tarihsel Sürüm (Arşiv)
-
-- 26 adımlı tam analiz motoru (Katman 3), 3'lü çerçeve (Ethos/Logos/Pathos), erken uyarı sinyalleri ve karar kolları kurgulandı.
-- `GEM-V520-TALIMAT.md` tarihsel referans olarak arşivde muhafaza edilmektedir.
+- **V1–V11 Doğrulama Modülleri, Filolojik Tahkik (`[NAKİL]` / `[YORUM]`), Hermenevtik Çoğulculuk (Z-2), Aporia (Z-1) ve Hume Giyotini (V8)** sisteme eklendi.

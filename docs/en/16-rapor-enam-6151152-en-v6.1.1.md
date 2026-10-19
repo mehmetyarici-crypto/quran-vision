@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "79"
     arabic_quote: "ولو كان المقول له أو عليه في شهادة أو غيرها من أهل قرابة القاتل، فما ينبغي أن يزيد في القول أو ينقص، كقوله وَلَوْ عَلى أَنْفُسِكُمْ أَوِ الْوالِدَيْنِ وَالْأَقْرَبِينَ"
-    verification_link: "https://shamela.ws/book/23627/778"
+    verification_link: "https://shamela.ws/book/2362/17/778"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "873"
     arabic_quote: "الوَصِيَّةُ: التّقدّمُ إلى الغير بما يعمل به مقترنا بوعظ من قولهم: أرض وَاصِيَةٌ: متّصلة النّبات، ويقال: أَوْصَاهُ ووَصَّاهُ. قال تعالى: وَوَصَّى بِها إِبْراهِيمُ بَنِيهِ وَيَعْقُوبُ"
-    verification_link: "https://shamela.ws/book/23636/855"
+    verification_link: "https://shamela.ws/book/2363/16/855"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "6"
     pages: "116"
     arabic_quote: "الواو والصاد والحرف المعتلّ: أصلٌ يدلُّ على وَصلِ شئٍ بشئ. ووَصَيْتُ الشَّئَ: وصَلْتُه. ويقال: وطِئْنا أرضاً واصيةً، أى إنَّ نَبتَها متَّصلٌ قد امتلأَتْ منه. ووَصَيْتُ اللّيلةَ باليوم: وصَلْتُها، وذلك فى عملٍ تَعمَلُه."
-    verification_link: "https://shamela.ws/book/21710/2649"
+    verification_link: "https://shamela.ws/book/2171/10/2649"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "6"
     pages: "325"
     arabic_quote: "والخَنا مِنْ قَوْلٍ وَفِعْلٍ، والمُتَفَحِّشُ الَّذِي يتكلَّفُ سَبَّ النَّاسِ ويتعمَّدُه، وَقَدْ تَكَرَّرَ ذِكْرُ الفُحْش وَالْفَاحِشَةِ وَالْفَاحِشِ فِي الْحَدِيثِ، وَهُوَ كُلُّ مَا يَشتد قُبْحُه مِنَ"
-    verification_link: "https://shamela.ws/book/1687/3337"
+    verification_link: "https://shamela.ws/book/168/17/3337"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "4"
     pages: "198"
     arabic_quote: "عَلَى مُقْتَضَاهُ وَالْبَرَكَةُ ثُبُوتُ الْخَيْرِ وَنُمُوُّهُ وَتَبَارَكَ اللَّه صِفَةُ ثَبَاتٍ لَا أَوَّلَ لَهُ وَلَا آخِرَ هَذَا تَعْظِيمٌ لَا يَسْتَحِقُّهُ إلَّا اللَّه تَعَالَى وَحْدَهُ لَا"
-    verification_link: "https://shamela.ws/book/23579/1344"
+    verification_link: "https://shamela.ws/book/2357/19/1344"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -440,11 +440,25 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — ENFÜSÎ-ÂFÂKÎ DIALECTIC & SPIRITUAL ETHICS (KALP FIKHI / İRFÂNÎ-İŞÂRÎ LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Notice that `6:151` prohibits both **outward and inward** indecencies (`wa-la taqrabu'l-fawahisha ma zahara minha wa-ma batan`). True integrity requires purifying the unseen heart (`ma batan`) alongside outward behavior (`ma zahar`).
-- **Outer Institutional Order (*Âfâk*):** Child/orphan social security, `OIML/ISO` commercial standards, conflict-of-interest recusal rules (`dha qurba`), and contract enforcement (`bi-'ahdi'llah`).
-- **Enfüs–Decision Bridge:** A witness or official who has not purified their inner heart (`ma batan`) will bend testimony in favor of relatives (`dha qurba`); inner `taqwa` (`6:153`) anchors outer institutional justice (`STEP 15`).
+#### 13.1. Enfüsî-Âfâkî Dialectic (Ontological & Perceptual Level)
+In the external constitutional, legal, and socioeconomic order (*âfâk*), Surah al-An'âm 6:151–152 promulgates a universal moral charter (`al-Muhkamât`) that protects child life from economic despair (`min imlâq`), safeguards orphan property (`mâla'l-yatîm`), mandates **probity in commerce** and metrological fairness (`awfû'l-kayla wa'l-mîzâna bi'l-qist`), and enforces judicial impartiality even against one's own kin (`wa-law kâna dhâ qurbâ`). Yet in light of the ontological mirror principle of Surah Fussilat 41:53 (*"We shall show them Our signs upon the horizons [âfâk] and within their own souls [enfüs]"*), outward fiduciary betrayal, commercial fraud (*tatfîf*), and nepotistic corruption are the macrocosmic projection of an inward pathology within the human conscience (*enfüs / kalp fıkhı*): caprice (*hawâ*), existential anxiety over sustenance (*khawf al-faqr* / distrust in God the Provider), and heedlessness toward **esoteric transgressions** (*al-fawâhish al-bâtinah*). By commanding `wa-lâ taqrabû'l-fawâhisha mâ zahara minhâ wa-mâ batan` (*"And do not approach indecencies—what is outward of them and what is inward/hidden"*, 6:151), the Qur'an establishes an indivisible moral law: one cannot maintain an honest scale in the marketplace (`mâ zahara`) while harboring hidden greed, duplicity, and partisan bias in the heart (`mâ batan`).
+
+#### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
+In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, the violation of fiduciary trusts, commercial shortchanging, and biased testimony are traced to inward maladies of scrupulousness (*qillat al-wara'*), covetousness (*hirs*), and weak trust in Divine Providence (*da'f al-tawakkul*):
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In *Bâb al-Wara' wa Tark al-Shubuhât* (Scrupulousness and Abandoning Doubtful Matters), al-Muhâsibî expounds `mâ zahara minhâ wa-mâ batan` (6:151) by demonstrating that abstaining from outward unlawful acts of the limbs is incomplete without purifying the heart from **esoteric transgressions**—such as hidden greed for orphan wealth, ostentation (*riyâ'*), and subtle partiality toward relatives—anchoring all public justice in inward scrupulousness (*wara'*) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 65–90; Digital access: [shamela.ws/book/9683/65](https://shamela.ws/book/9683/65)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âdâb al-Kasb wa'l-Ma'âsh* (Ethics of Earning and Livelihood, Vol. 2) and *Kitâb al-Tawakkul* (Vol. 4), al-Ghazâlî explains that the divine assurance `nahnu narzuqukum wa-iyyâhum` (6:151) uproots the inward panic of poverty (*khawf al-faqr*) that drives people to ruthlessness, while the command `awfû'l-kayla wa'l-mîzâna bi'l-qist` (6:152) requires **probity in commerce** not merely as mechanical accuracy on the scales, but as inward sincerity (*nasîhah*) that refuses to conceal defects or exploit a buyer's ignorance (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 2, pp. 61–87; Vol. 4, pp. 245–280; Digital access: [shamela.ws/book/9472/245](https://shamela.ws/book/9472/245)).
+- **Enfüs–Policy Bridge:** Because judges, regulators, and merchants who have not purified their inner conscience (*enfüs*) from hidden covetousness (`mâ batan`) and clan loyalty inevitably subvert public standards (*âfâk*), the institutional decision branches in `STEP 15` (`K1` child and orphan fiduciary protection, `K2` cryptographic `OIML/ISO` metrological auditing, and `K3` mandatory judicial conflict-of-interest recusal under `wa-law kâna dhâ qurbâ`) reinforce inward *wara'* with objective institutional accountability.
+
+#### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
+Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the prohibition of outward and inward indecencies (`mâ zahara minhâ wa-mâ batan`) and the fulfillment of the scale (`al-mîzân`) in al-An'âm 6:151–152 as the purification of the heart's innermost secrets (*asrâr*) and fidelity to the primordial covenant:
+- **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
+  - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-An'âm 6:151–152, al-Qushayrî records the following verbatim passage:
+    > «وَلَا تَقْرَبُوا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ... الإشارة فيه: الفواحش الظاهرة معاصي الأركان والجوارح، والفواحش الباطنة خبائث الأسرار من الرياء والكبر والحرص والشك في تدبير الرزاق... وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ: ميزان الإنصاف مع الخلق ورعاية حقوق الحق»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 1, pp. 512–514; Digital verification: [shamela.ws/book/23622/512](https://shamela.ws/book/23622/512) / [altafsir.com — Latâ'if al-Ishârât 6:151](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=6&tAyahNo=151&tDisplay=yes)).*
+  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that while outward indecencies are the sins of the bodily limbs, **esoteric transgressions** (`al-fawâhish al-bâtinah`) are the impurities of the heart—love of the world, ostentation, and distrust in God's provision—and that fulfilling God's covenant (`bi-'ahdi'llâhi awfû`) means preserving inward sincerity (*sidq*) with God in every outward transaction (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 64; Digital access: [shamela.ws/book/23625/64](https://shamela.ws/book/23625/64)).
+  - `[ANALYSIS / YORUM]`: Al-Qushayrî's distinction—*"Outward indecencies are the sins of the limbs, while **esoteric transgressions** (`al-fawâhish al-bâtinah`) are the impurities of the innermost heart such as ostentation, arrogance, greed, and doubting the governance of the All-Provider; and fulfilling the measure and scale with equity (`bi'l-qist`) is maintaining the scale of fairness with creation and honoring the rights of the Truth"*—captures the spiritual essence of the Qur'anic Decalogue. True **probity in commerce** and impartial justice in society are the outward fruits of a heart that has calibrated its inner scale (`mîzân al-qalb`) before God.
 
 ---
 
@@ -602,11 +616,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/488-494. Digital Verification: https://shamela.ws/book/23627/778 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/520-524. Digital Verification: https://shamela.ws/book/23636/855 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 6/110-114. Digital Verification: https://shamela.ws/book/21710/2649 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/310-316. Digital Verification: https://shamela.ws/book/1687/3337 (urn:shamela:21605).
-[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 4/180-188. Digital Verification: https://shamela.ws/book/23579/1344 (urn:shamela:21711).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/488-494. Digital Verification: https://shamela.ws/book/2362/17/778 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/520-524. Digital Verification: https://shamela.ws/book/2363/16/855 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 6/110-114. Digital Verification: https://shamela.ws/book/2171/10/2649 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/310-316. Digital Verification: https://shamela.ws/book/168/17/3337 (urn:shamela:21605).
+[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 4/180-188. Digital Verification: https://shamela.ws/book/2357/19/1344 (urn:shamela:21711).
 [^6]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025-2026: Fundamental Rights and Civil Justice*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2025.01. URL: https://worldjusticeproject.org
 [^7]: World Bank Group (2025). *Worldwide Governance Indicators (WGI): Regulatory Quality and Rule of Law*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: International Organization of Legal Metrology (OIML) & ISO (2024). *International Vocabulary of Metrology (VIM) & Fair Measurement Systems*. Paris: BIPM/OIML. DOI: Institutional Dataset. URL: https://www.oiml.org

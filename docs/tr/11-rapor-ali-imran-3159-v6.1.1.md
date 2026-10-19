@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "432"
     arabic_quote: "وقرئ: وشاورهم في بعض الأمر فَإِذا عَزَمْتَ فإذا قطعت الرأى على شيء بعد الشورى فَتَوَكَّلْ عَلَى اللَّهِ في إمضاء أمرك على الأرشد الأصلح، فإن ما هو أصلح لك لا يعلمه إلا اللَّه لا أنت ولا من تشاور. وقرئ"
-    verification_link: "https://shamela.ws/book/23627/435"
+    verification_link: "https://shamela.ws/book/2362/17/435"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "470"
     arabic_quote: "والتَّشَاوُرُ والْمُشَاوَرَةُ والْمَشُورَةُ: استخراج الرّأي بمراجعة البعض إلى البعض، من قولهم:"
-    verification_link: "https://shamela.ws/book/23636/452"
+    verification_link: "https://shamela.ws/book/2363/16/452"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "226"
     arabic_quote: "الشين والواو والراء أصلان مطَّردان، الأوّل منهما إِبداء."
-    verification_link: "https://shamela.ws/book/21710/1294"
+    verification_link: "https://shamela.ws/book/2171/10/1294"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "437"
     arabic_quote: "المَشْوَرَة؛ وَتَقُولُ مِنْهُ: شَاوَرْتُه فِي الأَمر واسْتشرته بِمَعْنًى. وَفُلَانٌ خَيِّرٌ شَيِّرٌ أَي يصلُح لِلْمُشاورَة. وشاوَرَه مُشاوَرَة وشِوَاراً واسْتَشاره: طَلَب مِنْهُ المَشُورَة"
-    verification_link: "https://shamela.ws/book/1687/2397"
+    verification_link: "https://shamela.ws/book/168/17/2397"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "9"
     pages: "410"
     arabic_quote: "أَنَّ عُمَرَ كَانَ مِنَ الْمُنْهَزِمِينَ فَدَخَلَ تَحْتَ الْآيَةِ، إِلَّا أَنَّ أَبَا بَكْرٍ مَا كَانَ مِنْهُمْ فَكَيْفَ يَدْخُلُ تَحْتَ هَذِهِ الْآيَةِ"
-    verification_link: "https://shamela.ws/book/23635/1550"
+    verification_link: "https://shamela.ws/book/2363/15/1550"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -393,13 +393,25 @@ peer_review:
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (İçsel ve Ahlaki Boyut):** Liderin en büyük iç düşmanı kibridir. İstişare etmek, "Ben her şeyi bilemem, benim aklım bana yetmez" diyebilme tevazuudur. Katı yüreklilik (`ğalîza'l-kalb`) kalbin taşlaşmasıdır; merhamet ise ilahi feyzin kalbe akmasıdır.
-- **Âfâk (Dışsal ve Kurumsal Boyut):** Kurumlarda şeffaf müzakere masalarının kurulması; yönetilenlerin kendilerini değerli hissetmesini sağlar ve aidiyeti güçlendirir.
-- **Karşılıklı Etki:** İç dünyasında kibirden arınmış bir lider müzakereyi hazmedebilir; müzakereci bir kurumsal kültür de liderin otokratik heveslerini frenler.
-- **Karar Köprüsü:** Kalp fıkhı gereği Adım 15'teki K1 ve K2 kararları kriz anlarında liyakatli muhalif seslerin dinlenmesini kurumsal güvenceye bağlar.
-- **İşârî / İrfanî Derinlik:** Tasavvufta mürşidin dahi dervişle istişare etmesi nefsin firavunlaşmasını önleyen en yüksek ahlaki riyazettir.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+Âl-i İmrân 3:159 âyetinin dış dünyadaki (*âfâk*) anayasal ve kurumsal tezahürü; Uhud Savaşı gibi ağır bir askeri ve toplumsal travmanın hemen ardından dahi kolektif aklı ve istişareyi (`ve şâvirhüm fi'l-emr`) dışlayan otoriter yönetim tarzını, liderlik sertliğini (`fazzan`) ve cezalandırıcı günah keçisi arayışını reddederek, toplumsal güven bağını *lînt* (yumuşaklık), *afv* (bağışlama) ve *istiğfâr* (manevi onarım) ile yeniden tahkim etmektir. Ancak Fussilet 41:53 âyetinin (*"Onlara hem dış dünyada [âfâk] hem de kendi iç dünyalarında [enfüs] âyetlerimizi göstereceğiz"*) kurduğu ontolojik ayna ilişkisi gereğince, kamusal kriz anlarında ortak aklı devre dışı bırakan otokratik sertliğin insanın iç dünyasındaki (*enfüs*) doğrudan karşılığı; nefsin kendisini başkalarının aklından müstağni görme kibri (*istibdâd bi'r-re'y*), kalp katılığı (`ğalîza'l-kalb` / *kasvet*) ve başarısızlık anında kabaran nefsânî öfkedir (*gadab*). İç dünyasında "benim aklım bana yeter" vehmine kapılan ve kalbi merhametten mahrum kalarak taşlaşan bir karar verici, dış dünyada kurumsal istişare meclislerini yalnızca kendi kararlarını onaylayan yankı odalarına dönüştürür; bu manevi ve idari kabalık ise âyetin `le'nfaddû min havlike` (*"etrafından dağılıp giderlerdi"*) uyarısıyla bildirdiği toplumsal çözülmeyi, beyin göçünü ve kurumsal yabancılaşmayı kaçınılmaz kılar.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
+Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe istişareden kaçınmanın, kırıcı dilin (`fazz`) ve katı yürekliliğin (`ğalîza'l-kalb`) ardındaki bâtınî illetler; nefsin kendi görüşünü putlaştırması (*ucb bi'r-re'y*), öfke (*gadab*), kin (*hıkd*) ve kusur arama şehveti olarak teşhis edilmiştir:
+- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, nefsin kendi aklını ve tedbirini beğenme marazını (*Bâbü'l-Ucb ve'l-Kibr*) tahlil ederken; kendisini hatadan münezzeh gören nefsin nasihat ve istişareyi bir aşağılanma (*zillet*) zannettiğini, oysa hakiki tevazunun kriz anında bile kardeşlerinin re'yine başvurmak ve kusur işleyenlere şefkatle muamele etmek olduğunu ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 210–238; Dijital erişim: [shamela.ws/book/9683/210](https://shamela.ws/book/9683/210)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* (Helâk Edici Marazlar) cildinin *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased* ve *Kitâbü Zemmi'l-Kibr ve'l-Ucb* bölümlerinde; yöneticideki katı kalpliliğin (`ğalîza'l-kalb`) ve öfkenin tebaayı ve liyakatli kadroları etrafından dağıtan zehirli bir afet olduğunu, `fe-bimâ rahmetin minallâhi linte lehüm` âyetindeki *lînt* (yumuşaklık ve hilm) sıfatının ise kalpten kibrin ve öfkenin sökülüp atılmasıyla kazanılan ilahî bir rahmet meyvesi olduğunu beyan eder (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 164–185, 343–365; Dijital erişim: [shamela.ws/book/9472/164](https://shamela.ws/book/9472/164)).
+- **Enfüs–Karar Köprüsü:** İç dünyasında kibir, öfke ve kalp katılığını (*kasvet*) *hilm* ve *tevazu* ile terbiye edemeyen karar vericiler, dış dünyada muhalif uzman görüşlerini dinleyemez; bu sebeple `ADIM 15`'teki psikolojik güvenlik (`K1`), çoklu uzman istişaresi (`K2`) ve şeffaf icra (`K3`) protokolleri nefsin tekebbürünü dizginleyen kurumsal fren mekanizmaları olarak tasarlanmıştır.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
+Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Âl-i İmrân 3:159 âyetindeki *rahmet*, *lînt*, *afv* ve *şûrâ* kavramlarını kalbin Hakk'a olan yakınlığının ve nefsânî bencillikten arınmanın mertebeleri olarak şerh etmişlerdir:
+- **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
+  - `[NAKİL]`: Kuşeyrî, Âl-i İmrân 3:159 âyetinin işârî tefsirinde şu lafzî tespiti kaydeder:
+    > «فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ... الإشارة فيه: لولا ما تداركهم من ألطاف الرحمة لجفوت عليهم... ومن غلظ قلبه عن قبول الحق غلظ على الخلق، ولين الجانب من ثمرات شهود الحق... وشاورهم في الأمر تطييباً لقلوبهم، واستجلاباً لمودتهم»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 1, s. 286–287; Dijital doğrulama: [shamela.ws/book/23622/286](https://shamela.ws/book/23622/286) / [altafsir.com — Letâ'ifü'l-İşârât 3:159](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=3&tAyahNo=159&tDisplay=yes)).*
+  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî boyutunu (*el-İşâre*) tahlil ederken; mürşidin ve yöneticinin hata yapanlara karşı sertlik (`fazz`) göstermeyip şefkatle muamele etmesinin, onları dışlamak yerine istişare halkasına (`şâvirhüm`) dahil ederek gönüllerini onarmasının nebevî ahlâkın özü olduğunu vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 1, s. 422–424; Dijital erişim: [shamela.ws/book/11566/422](https://shamela.ws/book/11566/422)).
+  - `[YORUM]`: Kuşeyrî'nin *"Kim Hakk'ı kabul etmeye karşı katı kalpli olursa halka karşı da katı ve kaba olur; yumuşak huyluluk (lîntü'l-cânib) ise Hakk'ı müşahede etmenin meyvelerindendir"* tespiti, otoriter sertliğin güç değil manevi bir körlük ve kalp katılığı olduğunu gösterir. İrfânî hikmette hakiki liderlik ve *azm*, insanları korkuyla sindirmek değil; ilahî rahmetten beslenen bir tevazu ile gönülleri kazanmak (`tatyîben li-kulûbihim`), ortak aklı işletmek ve karar anında yalnızca Allah'a tevekkül etmektir.
 
 ---
 
@@ -560,11 +572,11 @@ Bu gerilim şu çetin açmazları içerir:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1294
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/2397
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/452
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/1550
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/435
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/1294
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/2397
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/452
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/2363/15/1550
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/435
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Organization for Economic Co-operation and Development [OECD] (2024).** *OECD Regulatory Policy Outlook & Stakeholder Engagement Indicators 2024*. Paris: OECD Publishing. https://doi.org/10.1787/9789264209015-en. Erişim adresi: https://www.oecd.org

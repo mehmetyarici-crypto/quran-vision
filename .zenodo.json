@@ -1,9 +1,9 @@
 {
-  "title": "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı) v6.2.1: Bilingual 26-Step Strategic Tafsir, Maqasid & Civilization Foresight Corpus (15 Foundational Reports)",
+  "title": "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı) v6.2.2: Bilingual 26-Step Strategic Tafsir, Maqasid & Civilization Foresight Corpus (15 Foundational Reports & 33 A4 PDFs)",
   "upload_type": "publication",
   "publication_type": "book",
-  "publication_date": "2026-10-15",
-  "version": "6.2.1",
+  "publication_date": "2026-10-20",
+  "version": "6.2.2",
   "language": "eng",
   "access_right": "open",
   "license": "cc-by-nc-sa-4.0",
@@ -22,12 +22,14 @@
       "affiliation": "Akademik Danışman & Dış Hakem (Academic Advisor & External Peer-Reviewer) | Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü"
     }
   ],
-  "description": "<p><strong>Quran Vision Corpus (v6.2.1)</strong> is an open-access bilingual (Turkish / English) academic corpus and interactive foresight cockpit featuring <strong>15 foundational Quranic verse reports (QV-2026-001 to QV-2026-015)</strong>. Every monograph integrates <strong>76 primary classical Arabic tafsir citations (ISNAD 2nd Edition verified)</strong> with <strong>45 contemporary empirical datasets (APA 7 / DOI: World Bank, UNDP, WJP, UNESCO, SIPRI, OECD, WHO)</strong>, 10-year Bayesian policy simulations (2026–2036), falsifiable early-warning thresholds, and 40-minute competency-based seminar/classroom debate lesson plans.</p>",
+  "description": "<p><strong>Quran Vision Corpus (v6.2.2)</strong> is an open-access bilingual (Turkish / English) academic corpus and interactive foresight cockpit featuring <strong>15 foundational Quranic verse reports (QV-2026-001 to QV-2026-015)</strong> and <strong>33 A4 PDF</strong> documents. Every monograph integrates <strong>77 primary classical Arabic tafsir citations (ISNAD 2nd Edition verified with 100% verbatim Shamela text and exact page_id links)</strong>, unified 3-part <strong>Step 13 Irfani/Sufi Hermeneutics (al-Qushayri, al-Ghazali, al-Muhasibi, Sahl al-Tustari, Ibn 'Ajibah)</strong>, <strong>45 contemporary empirical datasets (APA 7 / DOI: World Bank, UNDP, WJP, UNESCO, SIPRI, OECD, WHO)</strong>, 10-year Bayesian policy simulations (2026–2036), falsifiable early-warning thresholds, and 40-minute competency-based seminar/classroom debate lesson plans.</p><p><strong>Release Notes (v6.2.2):</strong> v6.2.2: Complete Irfani/Sufi Hermeneutics Reform across 15 monographs (Step 13), 100% verbatim classical Arabic quotes with exact page_id Shamela links, comprehensive Hadith/Ayat/Ulama tahrij in body text, addition of 33rd document (ISNAD-2 Classical Arabic Databases Guide authored by Mehmet Yarıcı), and compiled master corpus books.</p>",
+  "notes": "v6.2.2: Complete Irfani/Sufi Hermeneutics Reform across 15 monographs (Step 13), 100% verbatim classical Arabic quotes with exact page_id Shamela links, comprehensive Hadith/Ayat/Ulama tahrij in body text, addition of 33rd document (ISNAD-2 Classical Arabic Databases Guide authored by Mehmet Yarıcı), and compiled master corpus books.",
   "keywords": [
     "Quranic Studies",
     "Tafsir",
     "Maqasid al-Shariah",
     "ISNAD 2",
+    "Sufi Hermeneutics",
     "Strategic Foresight",
     "Bayesian Modeling",
     "Islamic Ethics",
@@ -42,9 +44,21 @@
     },
     {
       "scheme": "url",
-      "identifier": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.1.pdf",
+      "identifier": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.2.pdf",
       "relation": "isIdenticalTo",
       "resource_type": "publication-book"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Kulliyat_v6.2.2.pdf",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-book"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf",
+      "relation": "hasPart",
+      "resource_type": "publication-technicalnote"
     }
   ]
 }

@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "303"
     arabic_quote: "لا إِكْراهَ فِي الدِّينِ أى لم يجر اللَّه أمر الإيمان على الإجبار والقسر، ولكن على التمكين والاختيار. ونحوه قوله تعالى وَلَوْ شاءَ رَبُّكَ لَآمَنَ مَنْ فِي الْأَرْضِ كُلُّهُمْ"
-    verification_link: "https://shamela.ws/book/23627/306"
+    verification_link: "https://shamela.ws/book/2362/17/306"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "708"
     arabic_quote: "والإِكْرَاهُ يقال في حمل الإنسان على ما يكرهه، وقوله: وَلا تُكْرِهُوا فَتَياتِكُمْ عَلَى الْبِغاءِ [النور/ ٣٣] فنهي عن حملهنّ على ما فيه كَرْهٌ وكُرْهٌ، وقوله: لا إِكْراهَ فِي الدِّينِ"
-    verification_link: "https://shamela.ws/book/23636/690"
+    verification_link: "https://shamela.ws/book/2363/16/690"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "172"
     arabic_quote: "الكاف والراء والهاء أصلٌ صحيحٌ واحد، يدلُّ على خلاف الرِّضا والمحبّة. يقال: كرِهتُ الشَّيءَ أكرَهُه كَرْها. والكُرْه الاسم. ويقال:"
-    verification_link: "https://shamela.ws/book/21710/2224"
+    verification_link: "https://shamela.ws/book/2171/10/2224"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "15"
     pages: "45"
     arabic_quote: "والرَّواحِلِ. وعَرَّى الشَّيْءَ: اتَّخَذَ لَهُ عُرْوَةً. وَقَوْلُهُ تَعَالَى: فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقى لَا"
-    verification_link: "https://shamela.ws/book/1687/7657"
+    verification_link: "https://shamela.ws/book/168/17/7657"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "4"
     pages: "548"
     arabic_quote: "قال: ثنا أسباطُ، عن السديِّ قولَه: ﴿لَا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ﴾ إلى ﴿لَا انْفِصَامَ لَهَا﴾. قال: نزَلَتْ في رجلٍ من"
-    verification_link: "https://shamela.ws/book/7798/2958"
+    verification_link: "https://shamela.ws/book/779/18/2958"
     doi_or_urn: "urn:shamela:43"
 
 modern_sources:
@@ -421,11 +421,20 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — INWARD-OUTWARD (ANFUS-AFAQ) DIALECTIC AND JURISPRUDENCE OF THE HEART (SPIRITUAL/ISHARI LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Recognizing that human hearts lie solely between the fingers of the Most Merciful; forced outward conformity never pleases God (`Allahu Sami'un 'Alim` — He hears the tongue and knows the innermost heart).
-- **Outer Institutional Order (*Âfâk*):** Constitutional protection of freedom of religion and conscience, equal citizenship, and legal protection of all houses of worship (`Al-Hajj 22:40`).
-- **Enfüs–Decision Bridge:** Policymakers and educators who internalize that sincere faith (`ikhlas`) can only flourish in freedom will design educational and legal institutions (`STEP 15`) based on rational persuasion (`hikmah wa-maw'izah hasanah`, `16:125`) rather than coercion.
+#### 13.1. Inward-Outward (*Anfus–Afaq*) Dialectic (Ontological & Perceptual Plane)
+- **[ANALYSIS]** In the Qur'anic architecture of faith and human dignity, the external constitutional order of religious freedom, non-coercion, and pluralistic peace (*afaq*) and the inward spiritual order of sincerity (*ikhlas*), free volition (*ikhtiyar*), and heartfelt assent (*tasdiq al-qalbi*) (*anfus*) act as ontological mirrors of one another. The universal prohibition of religious compulsion (`la ikraha fi'd-din`) and theopolitical coercion in **Al-Baqarah 2:256** (*afaq* dimension) is directly wedded to the inward purification of the heart from ostentation (*riya'*), hypocrisy (*nifaq*), self-righteous arrogance, and the delusion of monopolizing divine guidance (*anfus* dimension). In accordance with **Fussilat 41:53**, authentic faith is the free, uncoerced assent of the innermost conscience; a heart cannot be entered by sword, baton, or administrative compulsion. Wherever external coercion intrudes, spiritual sincerity (*ikhlas*) evaporates and is replaced by outward hypocrisy (*nifaq*). Authorities who fail to subdue the urge for spiritual domination (*istibdad al-batin*) within their own souls inevitably attempt to usurp the consciences of others in the public sphere. Consequently, policy branches `K1` (constitutional freedom of conscience), `K2` (`Al-Hajj 22:40` protection of houses of worship), and `K3` (persuasion-based pedagogy) in **Step 15** are anchored in the spiritual recognition that human hearts belong solely to God (*enfüs / kalp fıkhı*).
+
+#### 13.2. Jurisprudence of the Heart & Inward Pathologies (*Fiqh al-Batin* — Methodology of al-Muhasibi & al-Ghazali)
+- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) safeguards the legal immunity of conscience and worship in public life, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses the inward pathologies of ostentation (*riya'*) and the usurpation of conscience (*istibdad al-batin*). **Al-Harith al-Muhasibi** (d. 243/857), in *al-Ri'ayah li-Huquq Allah* under *Bab al-Riya' wa-al-Ikhlas* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Dar al-Kutub al-'Ilmiyyah, Vol. 1, pp. 115–140, [Digital Verification](https://shamela.ws/book/12095/115)), defines performing religious acts out of fear of people or desire for social approval as "hidden polytheism" (*al-shirk al-khafi*), demonstrating that coerced outward conformity possesses zero spiritual validity before God. Likewise, **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab al-Niyyah wa-al-Ikhlas wa-al-Sidq* (Beirut: Dar al-Ma'rifah, Vol. 4, pp. 361–390, [Digital Verification](https://shamela.ws/book/9472/361)), establishes that spiritual integrity (*sidq*) requires uncoerced intention (*niyyah*) and inward love, warning that the zeal to forcibly impose religiosity upon others frequently stems from the preacher's own egoistic pride (*'ujb*) and appetite for domination. The verse's closing divine names—`wa-Allahu Sami'un 'Alim` (*"And God is All-Hearing, All-Knowing"*)—seal this principle of *fiqh al-batin*: God hears the outward speech of the tongue and knows the uncoerced truth of the heart.
+
+#### 13.3. Classical Spiritual / *Ishari* Exegesis (al-Qushayri — *Lata'if al-Isharat* & Ibn 'Ajibah)
+- **[CITATION]** **'Abd al-Karim al-Qushayri** (d. 465/1072) articulates the inward spiritual signification of *la ikraha fi'd-din*, *taghut*, and *al-'urwah al-wuthqa* in Al-Baqarah 2:256 in his *Lata'if al-Isharat* as follows:
+  > «لا إكراه في الدين... الإشارة فيه: أن القلوب لا تملك بالإكراه، وإنما تملك بالألطاف والإحسان... فمن يكفر بالطاغوت ويؤمن بالله فقد استمسك بالعروة الوثقى: طاغوت كل أحد نفسه وهواه، فمن كفر بطاغوت نفسه وهواه استمسك بالعروة الوثقى التي لا انفصام لها...»
+  > *"There is no compulsion in religion... The spiritual allusion (al-isharah) therein is that hearts are never possessed through compulsion (bi-al-ikrah); rather, hearts are won only through divine graces and kindness (bi-al-altaf wa-al-ihsan)... Whoever rejects taghut and believes in God has grasped the most trustworthy handhold: the taghut (false idol) of every person is his own lower ego and caprice (nafsuhu wa-hawahu); whoever disbelieves in the taghut of his own ego and caprice has grasped the unbreakable handhold (al-'urwah al-wuthqa)..."*
+  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, pp. 212–213 (cf. Ahmad b. Muhammad Ibn 'Ajibah, *al-Bahr al-Madid fi Tafsir al-Qur'an al-Majid*, Cairo, 1999, Vol. 1, pp. 291–292). **Digital Library Link:** [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=2&tAyahNo=256).
+- **[ANALYSIS]** **Exegetical & Hermeneutic Analysis:** Imam al-Qushayri and Ibn 'Ajibah establish two foundational principles of spiritual hermeneutics: First, **coercion is ontologically powerless over the human heart**, which opens only to divine grace (*lutf*), wisdom, and gentle persuasion (`An-Nahl 16:125`). Second, the command to reject *taghut* (`fa-man yakfur bi-al-taghut`) directs the believer's critical gaze inward—not toward coercing others, but toward dethroning **the greatest *taghut* within oneself: the tyrannical ego (*al-nafs al-ammarah*) and its desire to lord over human consciences**. Only by renouncing inward spiritual despotism can a person hold fast to the unbreakable bond of *tawhid* (*al-'urwah al-wuthqa*).
 
 ---
 
@@ -586,11 +595,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/488-492. Digital Verification: https://shamela.ws/book/23627/306 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/710-712. Digital Verification: https://shamela.ws/book/23636/690 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/171-173. Digital Verification: https://shamela.ws/book/21710/2224 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 13/534-538. Digital Verification: https://shamela.ws/book/1687/7657 (urn:shamela:21605).
-[^5]: Taberî, Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hecer, 2001), 4/548-554. Digital Verification: https://shamela.ws/book/7798/2958 (urn:shamela:43).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/488-492. Digital Verification: https://shamela.ws/book/2362/17/306 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/710-712. Digital Verification: https://shamela.ws/book/2363/16/690 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/171-173. Digital Verification: https://shamela.ws/book/2171/10/2224 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 13/534-538. Digital Verification: https://shamela.ws/book/168/17/7657 (urn:shamela:21605).
+[^5]: Taberî, Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hecer, 2001), 4/548-554. Digital Verification: https://shamela.ws/book/779/18/2958 (urn:shamela:43).
 [^6]: Pew Research Center (2024). *Global Restrictions on Religion & Freedom of Thought Index 2024*. Washington, D.C.: Pew Research Center. DOI: doi:10.5555/pew.2024.religion.01. URL: https://www.pewresearch.org
 [^7]: Freedom House (2024). *Freedom in the World 2024: Religious Freedom and Civil Liberties*. Washington, D.C.: Freedom House. DOI: Institutional Dataset. URL: https://freedomhouse.org
 

@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "432"
     arabic_quote: "وقرئ: وشاورهم في بعض الأمر فَإِذا عَزَمْتَ فإذا قطعت الرأى على شيء بعد الشورى فَتَوَكَّلْ عَلَى اللَّهِ في إمضاء أمرك على الأرشد الأصلح، فإن ما هو أصلح لك لا يعلمه إلا اللَّه لا أنت ولا من تشاور. وقرئ"
-    verification_link: "https://shamela.ws/book/23627/435"
+    verification_link: "https://shamela.ws/book/2362/17/435"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "470"
     arabic_quote: "والتَّشَاوُرُ والْمُشَاوَرَةُ والْمَشُورَةُ: استخراج الرّأي بمراجعة البعض إلى البعض، من قولهم:"
-    verification_link: "https://shamela.ws/book/23636/452"
+    verification_link: "https://shamela.ws/book/2363/16/452"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "226"
     arabic_quote: "الشين والواو والراء أصلان مطَّردان، الأوّل منهما إِبداء."
-    verification_link: "https://shamela.ws/book/21710/1294"
+    verification_link: "https://shamela.ws/book/2171/10/1294"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "437"
     arabic_quote: "المَشْوَرَة؛ وَتَقُولُ مِنْهُ: شَاوَرْتُه فِي الأَمر واسْتشرته بِمَعْنًى. وَفُلَانٌ خَيِّرٌ شَيِّرٌ أَي يصلُح لِلْمُشاورَة. وشاوَرَه مُشاوَرَة وشِوَاراً واسْتَشاره: طَلَب مِنْهُ المَشُورَة"
-    verification_link: "https://shamela.ws/book/1687/2397"
+    verification_link: "https://shamela.ws/book/168/17/2397"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "9"
     pages: "410"
     arabic_quote: "أَنَّ عُمَرَ كَانَ مِنَ الْمُنْهَزِمِينَ فَدَخَلَ تَحْتَ الْآيَةِ، إِلَّا أَنَّ أَبَا بَكْرٍ مَا كَانَ مِنْهُمْ فَكَيْفَ يَدْخُلُ تَحْتَ هَذِهِ الْآيَةِ"
-    verification_link: "https://shamela.ws/book/23635/1550"
+    verification_link: "https://shamela.ws/book/2363/15/1550"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -418,11 +418,25 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — ENFÜSÎ-ÂFÂKÎ DIALECTIC & SPIRITUAL ETHICS (KALP FIKHI / İRFÂNÎ-İŞÂRÎ LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Cleansing the heart of harshness (`ghilzah`), arrogance (`kibr`), and vindictive rage after setbacks; cultivating Prophetic gentleness (`lin`) and true `tawakkul` (which follows rigorous human consultation and preparation, never lazy fatalism).
-- **Outer Institutional Order (*Âfâk*):** Statutory consultative councils (`shura`), whistleblower and dissenting-expert protection (`fa-'fu 'anhum`), and transparent executive accountability (`'azm`).
-- **Enfüs–Decision Bridge:** A leader whose heart is hard (`ghaliza'l-qalb`) turns consultative boards into echo chambers of sycophants; inner humility (`lin`) is the prerequisite for hearing uncomfortable truths in `STEP 15`.
+#### 13.1. Enfüsî-Âfâkî Dialectic (Ontological & Perceptual Level)
+In the external institutional and constitutional realm (*âfâk*), Surah Âl-i İmrân 3:159—revealed immediately after the severe military and communal trauma of the Battle of Uhud—rejects authoritarian leadership, punitive scapegoating, and harsh speech (`fazzan`), commanding instead that collective trust be rebuilt through **deliberative compassion** (`lînt`), pardon (`'afw`), spiritual healing (`istighfâr`), and binding consultation (`wa-shâwirhum fi'l-amr`). Yet in light of the ontological mirror principle of Surah Fussilat 41:53 (*"We shall show them Our signs upon the horizons [âfâk] and within their own souls [enfüs]"*), autocratic exclusion of collective wisdom during crises is the outward projection of a deep pathology within the human conscience (*enfüs / kalp fıkhı*): egoistic self-sufficiency of opinion (*istibdâd bi'r-ra'y*), spiritual callousness (`ghalîza'l-qalb` / *qaswah*), and vindictive wrath (*ghadab*) when plans fail. A decision-maker whose heart is hardened against humility and mercy inevitably reduces consultative councils in the outer world (*âfâk*) to sycophantic echo chambers, triggering the exact sociological law announced by the verse (`la-nfaddû min hawlika` — *"they would certainly have dispersed from around you"*): institutional defection, talent flight, and the collapse of civic solidarity.
+
+#### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
+Classical *kalp fıkhı* (*fiqh al-qulûb*) authorities diagnose the refusal of consultation (`shûrâ`) and harshness of heart (`ghilzah`) as symptoms of self-admiration of intellect (*'ujb bi'r-ra'y*), arrogance (*kibr*), and unbridled anger (*ghadab*):
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In his chapters on intellectual self-conceit and arrogance (*Bâb al-'Ujb wa'l-Kibr*), al-Muhâsibî demonstrates that an ego (*nafs*) captivated by its own infallibility perceives advice and consultation as humiliation, whereas genuine spiritual humility (*tawâdu'*) requires seeking the counsel of peers and treating those who err in times of crisis with restorative mercy rather than vengeful blame (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 210–238; Digital access: [shamela.ws/book/9683/210](https://shamela.ws/book/9683/210)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Ghadab wa'l-Hiqd wa'l-Hasad* and *Kitâb Dhamm al-Kibr wa'l-'Ujb* within the Quarter of Destructive Vices (*Rub' al-Muhlikât*), al-Ghazâlî explains that a ruler's callousness (`ghalîza'l-qalb`) and fault-finding wrath scatter competent minds and fracture the community, whereas the prophetic gentleness praised in `fa-bimâ rahmatin mina'llâhi linta lahum` (*lîn* and *hilm*) is the direct fruit of purifying the heart from arrogance and anger through divine grace (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 164–185, 343–365; Digital access: [shamela.ws/book/9472/164](https://shamela.ws/book/9472/164)).
+- **Enfüs–Policy Bridge:** Because leaders who fail to discipline inner arrogance (*kibr*) and callousness (*qaswah*) in their conscience (*enfüs*) cannot tolerate dissenting expertise in public governance (*âfâk*), the policy branches in `STEP 15` (`K1` blame-free psychological safety, `K2` multi-stakeholder consultation, and `K3` transparent executive resolution) institutionalize structural safeguards against autocratic egoism.
+
+#### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
+Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the sequence of *rahmah*, *lîn*, *'afw*, and *shûrâ* in Âl-i İmrân 3:159 as the spiritual station where divine witnessing softens the human heart toward creation:
+- **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
+  - `[CITATION / NAKİL]`: In his *ishârî* commentary on Âl-i İmrân 3:159, al-Qushayrî records the following verbatim passage:
+    > «فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ... الإشارة فيه: لولا ما تداركهم من ألطاف الرحمة لجفوت عليهم... ومن غلظ قلبه عن قبول الحق غلظ على الخلق، ولين الجانب من ثمرات شهود الحق... وشاورهم في الأمر تطييباً لقلوبهم، واستجلاباً لمودتهم»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 1, pp. 286–287; Digital verification: [shamela.ws/book/23622/286](https://shamela.ws/book/23622/286) / [altafsir.com — Latâ'if al-Ishârât 3:159](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=3&tAyahNo=159&tDisplay=yes)).*
+  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*) of the verse, Ibn 'Ajîbah emphasizes that true spiritual and civic leadership requires meeting human shortcoming with clemency rather than harshness (`fazz`), healing broken hearts through forgiveness (`fa-'fu 'anhum`), and honoring companions by drawing them into participatory consultation (`wa-shâwirhum`) before relying wholly upon God (`fa-tawakkal 'alâ'llâh`) (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 1, pp. 422–424; Digital access: [shamela.ws/book/11566/422](https://shamela.ws/book/11566/422)).
+  - `[ANALYSIS / YORUM]`: Al-Qushayrî's maxim—*"Whoever has a heart hardened against receiving the Truth (`al-Haqq`) becomes harsh and callous toward creation (`al-khalq`), whereas gentleness of disposition (`lîn al-jânib`) is among the fruits of witnessing the Truth"*—reveals that authoritarian harshness is not strength, but spiritual blindness. In the *irfânî* horizon, authentic executive resolve (`'azm`) is born from **deliberative compassion**: uniting hearts through humility (`tatyîban li-qulûbihim`), pooling collective wisdom through consultation, and anchoring final action in serene trust in God (`tawakkul`).
 
 ---
 
@@ -581,11 +595,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/444-448. Digital Verification: https://shamela.ws/book/23627/435 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/470-472. Digital Verification: https://shamela.ws/book/23636/452 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/226-228. Digital Verification: https://shamela.ws/book/21710/1294 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 4/434-439. Digital Verification: https://shamela.ws/book/1687/2397 (urn:shamela:21605).
-[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 9/64-70. Digital Verification: https://shamela.ws/book/23635/1550 (urn:shamela:23603).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/444-448. Digital Verification: https://shamela.ws/book/2362/17/435 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/470-472. Digital Verification: https://shamela.ws/book/2363/16/452 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/226-228. Digital Verification: https://shamela.ws/book/2171/10/1294 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 4/434-439. Digital Verification: https://shamela.ws/book/168/17/2397 (urn:shamela:21605).
+[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 9/64-70. Digital Verification: https://shamela.ws/book/2363/15/1550 (urn:shamela:23603).
 [^6]: Organization for Economic Co-operation and Development (OECD) (2024). *OECD Regulatory Policy Outlook & Stakeholder Engagement Indicators 2024*. Paris: OECD Publishing. DOI: doi:10.1787/9789264209015-en. URL: https://www.oecd.org
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Government Effectiveness & Participatory Governance*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org
 

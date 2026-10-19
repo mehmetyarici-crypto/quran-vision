@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "2430"
     arabic_quote: "من أمر هذه الآية إن لم أقاتل هذه الفئة الباغية كما أمرنى الله عز وجل. قاله بعد أن اعتزل، فإذا كافت وقبضت عن الحرب أيديها تركت، وإذا تولت عمل بما روى عن النبي صلى الله عليه وسلم"
-    verification_link: "https://shamela.ws/book/23627/2430"
+    verification_link: "https://shamela.ws/book/2362/17/2430"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "137"
     arabic_quote: "فَإِنْ بَغَتْ إِحْداهُما عَلَى الْأُخْرى فَقاتِلُوا الَّتِي تَبْغِي [الحجرات/ ٩] ، فالبغي في"
-    verification_link: "https://shamela.ws/book/23636/119"
+    verification_link: "https://shamela.ws/book/2363/16/119"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "271"
     arabic_quote: "الباء والغين والياء أصلان: أحدهما طلب الشئ، والثانى جنس من الفساد. فمن الأوّل بغيت الشئ أبغيه إذا طلبته. ويقال بغيتك الشّئ إذا طلبته لك، وأبغيتك الشّئ إذا أعنتك على طلبه. والبغية والبغية الحاجة."
-    verification_link: "https://shamela.ws/book/21710/315"
+    verification_link: "https://shamela.ws/book/2171/10/315"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "14"
     pages: "78"
     arabic_quote: "وَقَالَ النَّبِيُّ، صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، لعَمَّار: وَيْحَ ابنِ سُمَيَّة تَقْتله الفئةُ البَاغِيَة"
-    verification_link: "https://shamela.ws/book/1687/7202"
+    verification_link: "https://shamela.ws/book/168/17/7202"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "280"
     arabic_quote: "قِتَالٌ مِنْ فِئَةٍ عَلَى وَجْهِ الْبَغْيِ قَابَلْنَاهُ بِالسِّلَاحِ وَبِمَا دُونَهُ حَتَّى تَرْجِعَ إلَى الْحَقِّ وَلَيْسَ فِي نُزُولِ الْآيَةِ عَلَى حَالِ قِتَالِ"
-    verification_link: "https://shamela.ws/book/23579/1826"
+    verification_link: "https://shamela.ws/book/2357/19/1826"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -397,11 +397,24 @@ Hucurât Sûresi 49:9–10 âyetleri, sûrenin 6. âyetinde (Hucurât 49:6) geç
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (İçsel Fıkıh):** Kalpteki kibir, tahakküm arzusu ve öfke bağyın tohumudur. İrfanî boyutta insanın kendi nefsiyle mücadelesi (cihâd-ı ekber; Beyhakî, *ez-Zühdü'l-Kebîr*, nr. 373; krş. Buhârî, *Rikâk*, 34, nr. 6496) barışın içsel zeminidir. Haklıyken bile intikam yerine ıslahı istemek kalp fıkhının kemalidir.
-- **Âfâk (Dışsal Düzen):** Kurumsal adalet, mahkemeler ve barış gücü mekanizmaları afâkî sulhün teminatıdır.
-- **Enfüsî-Karar Köprüsü:** İç dünyasında (`enfüs`) nefsani kibir, tamah ve öfkeyi terbiye edemeyen karar vericiler, dış dünyada (`âfâk`) kurumsal adaleti ve merhameti yaşatamaz; bu sebeple `ADIM 15`'teki politika kolları ahlaki öz-denetim şartına bağlanmıştır.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+Hucurât 49:9–10 âyetlerinin dış dünyadaki (*âfâk*) kamu hukuku ve uluslararası barış inşası boyutu; mümin topluluklar arasındaki sıcak çatışmayı, kutuplaşmayı ve haksız taarruzu (`bağy`) tarafsız arabuluculuk (`fe-aslihû`), orantılı caydırıcılık (`hattâ tefîe ilâ emrillâh`) ve rövanşizmden arınmış onarıcı hakkaniyet (`bi'l-'adli ve aksitû`) ile sonlandırarak kardeşlik hukukunu (`inneme'l-mü'minûne ihvetün`) korumaktır. Ancak Fussilet 41:53 âyetinin kurduğu ontolojik ayna ilişkisi uyarınca, dış dünyada toplulukları birbirine kırdıran siyasi ve silahlı *bağy* (haddi aşma ve azgınlık) krizinin insanın iç dünyasındaki (*enfüs*) doğrudan kökü; kör kabile/grup taassubu (*hamiyyetü'l-câhiliyye* ve *asabiyet*), haset, intikam ateşi (*teşeffî*) ve kardeşlik hukukunu çiğneyen nefsânî husumettir. Kendi iç dünyasında nefs-i emmârenin hakikate ve kalbe karşı yürüttüğü içsel isyanı (*bağyü'n-nefs*) adalet ve mücâhede ile dizginleyemeyen kimseler, dış dünyada (`âfâk`) tarafsız bir hakem veya barış yapıcı (*muslih*) olamazlar; zira dışsal sulh, ancak nefsin üstünlük ve intikam arzularını kıran içsel hakkaniyet (`kıst`) ve *takvâ* (`vettekullâhe le'alleküm turhamûn`) ile kaim olabilir.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
+Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) kaynaklarında toplumsal çatışmaları körükleyen ve sulh teşebbüslerini akamete uğratan bâtınî illetler; kardeşlik bağını kemiren öfke (*gadab*), kin (*hıkd*), haset (*hased*) ve grup taassubu olarak tahlil edilmiştir:
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Âdât* cildindeki *Kitâbü Âdâbi'l-Ülfe ve'l-Uhuvve ve's-Suhbe* ile *Rub'u'l-Mühlikât* cildindeki *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased* bölümlerinde; `inneme'l-mü'minûne ihvetün` (Hucurât 49:10) hükmünün müminler arasında mal, dil ve kalp düzeyinde hukuk doğuran manevi bir akid olduğunu, öfkenin kalpte mayalanmasıyla oluşan kinin (*hıkd*) ise insanı kardeşinin hakkını çiğnemeye (`bağy`), gıybete ve şemâtete (kardeşinin felaketine sevinmeye) sürüklediğini ayrıntılarıyla ortaya koyar. Gazzâlî'ye göre kalpteki kin ve taassup temizlenmedikçe zahirî barış anlaşmaları ilk kıvılcımda bozulmaya mahkûmdur (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 2, s. 157–195; C. 3, s. 175–200; Dijital erişim: [shamela.ws/book/9472/175](https://shamela.ws/book/9472/175)).
+- **Enfüs–Karar Köprüsü:** Kalbinde mezhebî, etnik veya hizbî asabiyet (`enfüs`) taşıyan arabulucuların dış dünyada (`âfâk`) verdikleri hükümler `bi'l-'adl` (adaletle) ve `aksitû` (hakkaniyetle) emrini ihlal ederek çatışmayı derinleştirir; bu sebeple `ADIM 15`'teki bağımsız tahkim (`K1`), `hattâ tefîe` sınırına bağlı caydırıcı güç (`K2`) ve onarıcı adalet (`K3`) mekanizmaları karar vericilerin kişisel ve hizbî çıkar çatışmalarından yalıtılmasını zorunlu kılar.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
+Tasavvufî ve işârî tefsir geleneğinin büyük müfessirleri, Hucurât 49:9–10 âyetlerindeki *iki mümin tâifenin çarpışması*, *bağy*, *fey'* ve *ıslah* kavramlarını insanın iç dünyasındaki **nefis** ile **kalp/ruh** arasındaki manevi mücadele olarak şerh etmişlerdir:
+- **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
+  - `[NAKİL]`: Kuşeyrî, Hucurât 49:9–10 âyetlerinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
+    > «وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا... الإشارة فيه: طائفة النفس وطائفة القلب إذا اقتتلتا فأصلحوا بينهما بالعدل... وبغي النفس يوجب قتالها بسيوف المجاهدة حتى تفيء إلى أمر الله، فإن فاءت فأصلحوا بينهما برعاية حقوق الشريعة، وإعطاء النفس حظها المباح بالعدل والقسط»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 438–439; Dijital doğrulama: [shamela.ws/book/23622/438](https://shamela.ws/book/23622/438) / [altafsir.com — Letâ'ifü'l-İşârât 49:9](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=9&tDisplay=yes)).*
+  - **Sehl b. Abdillâh et-Tüsterî (ö. 283/896), *Tefsîru't-Tüsterî*:** Erken dönem irfânî tefsirin kurucu imamı Sehl et-Tüsterî de âyetin bâtınî manasında, hevâ ve şehvetiyle haddi aşan (*bâğî*) nefsin ilahî emre dönünceye (`hattâ tefîe ilâ emrillâh`) kadar riyâzet ve hakikat kılıcıyla terbiye edilmesi gerektiğini, müminlerin kardeşliğinin (`ihvetün`) ise ancak nefsin bencilliğinden kurtulup Allah için birbirine şefkat duymakla tamamlanacağını belirtir (Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 152; Dijital erişim: [shamela.ws/book/23625/152](https://shamela.ws/book/23625/152)).
+  - `[YORUM]`: Kuşeyrî'nin iç dünyadaki `tâifetü'n-nefs` (nefis kuvvetleri) ile `tâifetü'l-kalb` (kalp ve ruh kuvvetleri) arasındaki çarpışmayı tahlil ederken; nefsin azgınlığına (*bağyü'n-nefs*) karşı mücâhede kılıcıyla direnilmesini, fakat nefis ilahî emre boyun eğdiğinde (`fe-in fâet`) onu tamamen yok etmek yerine şerîatın çizdiği meşru haklarını *adl* ve *kıst* ile vererek kalple nefsin arasını bulmayı emretmesi, dış dünyadaki *ehl-i bağy* hukukuyla birebir örtüşen muazzam bir hikmettir. İrfânî ufukta nasıl ki içsel barış nefsi imha etmekle değil adaletle ıslah etmekle kurulursa, toplumsal barış da hasmı yok etmekle değil; zulmü durdurup kardeşlik hukukunu (`beyne ehaveyküm`) hakkaniyetle ihya etmekle gerçekleşir.
 
 ---
 
@@ -560,11 +573,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/23579/1826
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/315
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/7202
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/119
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/2430
+- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/2357/19/1826
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/315
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/7202
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/119
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/2430
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Sosyal Yaşam, Demografi ve Kamu Güveni Veritabanı*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr

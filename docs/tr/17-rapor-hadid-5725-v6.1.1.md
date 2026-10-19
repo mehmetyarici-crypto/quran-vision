@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "2546"
     arabic_quote: "إلا والحديد آلة فيها، أو ما يعمل بالحديد وَلِيَعْلَمَ اللَّهُ مَنْ يَنْصُرُهُ وَرُسُلَهُ باستعمال السيوف والرماح وسائر السلاح في مجاهدة أعداء الدين بِالْغَيْبِ غائبا عنهم، قال ابن"
-    verification_link: "https://shamela.ws/book/23627/2546"
+    verification_link: "https://shamela.ws/book/2362/17/2546"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "222"
     arabic_quote: "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ [الحديد/ ٢٥] ، وحَدَّدْتُ السكّين: رقّقت حدّه، وأَحْدَدْتُهُ:"
-    verification_link: "https://shamela.ws/book/23636/204"
+    verification_link: "https://shamela.ws/book/2363/16/204"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "4"
     arabic_quote: "الحديدُ حديداً لامتناعه وصلابته وشدّته. والاستحداد: استعمال الحديد. ويقال حَدَّت المرأة على"
-    verification_link: "https://shamela.ws/book/21710/564"
+    verification_link: "https://shamela.ws/book/2171/10/564"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "1"
     pages: "109"
     arabic_quote: "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ. وصَدْآءُ: عَيْنٌ عَذْبَةُ الْمَاءِ، أَو بِئْرٌ. وَفِي الْمَثَلِ: ماءٌ وَلَا كَصَدْآءَ. قَالَ أَبو عُبَيْدٍ: مَنْ أَمثالهم فِي"
-    verification_link: "https://shamela.ws/book/1687/109"
+    verification_link: "https://shamela.ws/book/168/17/109"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "29"
     pages: "470"
     arabic_quote: "وَهُوَ زَاجِرٌ لِلْخَلْقِ عَمَّا لَا يَنْبَغِي، وَالْحَاصِلُ أَنَّ الْكِتَابَ إِشَارَةٌ إِلَى الْقُوَّةِ النَّظَرِيَّةِ، وَالْمِيزَانَ إِلَى الْقُوَّةِ الْعَمَلِيَّةِ، وَالْحَدِيدَ"
-    verification_link: "https://shamela.ws/book/23635/5548"
+    verification_link: "https://shamela.ws/book/2363/15/5548"
     doi_or_urn: "urn:shamela:23635"
 
 modern_sources:
@@ -404,11 +404,25 @@ Hadîd Sûresi Medine döneminde, İslam toplumunun artık müstakil bir siyasi,
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (Kalp Fıkhı ve Güç Ahlakı):** İnsanın eline 'demir' (güç, silah, teknoloji, iktidar) geçtiğinde nefsi firavunlaşmaya meyleder. Kalp fıkhı, gücü elinde tutan kişinin kalbinde Kitap (ilahi sorumluluk) ve Mîzân (vicdani ölçü ve merhamet) bulunmasını şart koşar. Âyetteki *"bi'l-ğayb"* (kimsenin görmediği yerde dahi Allah'ın adaletine yardım etmek) kaydı, güç sahibinin kameralar kapalıyken ve denetlenmezken dahi zulümden sakınmasını ifade eder.
-- **Âfâk (Kurumsal ve Teknolojik Mimarî):** Âfâkta Kitap; anayasayı, bilimsel bilgiyi ve şeffaf mevzuatı temsil eder. Mîzân; bağımsız mahkemeleri, merkez bankası/ekonomi dengesini ve sosyal adaleti temsil eder. Hadîd ise ileri malzeme bilimini, fabrikaları, altyapıyı ve caydırıcı savunma sanayiini temsil eder.
-- **Enfüsî-Karar Köprüsü:** İç dünyasında (`enfüs`) nefsani kibir, tamah ve öfkeyi terbiye edemeyen karar vericiler, dış dünyada (`âfâk`) kurumsal adaleti ve merhameti yaşatamaz; bu sebeple `ADIM 15`'teki politika kolları ahlaki öz-denetim şartına bağlanmıştır.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+Hadîd 57:25 âyetinin dış dünyadaki (*âfâk*) anayasal, jeopolitik ve teknolojik tezahürü; vahiyle bildirilen hukuki meşruiyeti (`el-Kitâb`), bağımsız yargı ve iktisadi dengeyi (`el-Mîzân`) ve caydırıcı maddi/endüstriyel kuvveti (`el-Hadîd`) `li-yekûme'n-nâsü bi'l-kıst` (*"insanların adaleti ve hakkaniyeti ayakta tutması"*) gayesi etrafında birleştirerek, hem hukuksuz güç kullanımını (militarizm ve zorbalık) hem de yaptırımsız, aciz pasifizmi ortadan kaldırmaktır. Ancak Fussilet 41:53 âyetinin kurduğu ontolojik ayna ilişkisi uyarınca, dış dünyada maddi ve teknolojik gücün (`hadîd`) adalet terazisinden (`mîzân`) koparak zulüm aracına dönüşmesinin insanın iç dünyasındaki (*enfüs*) doğrudan kökü; güç zehirlenmesi (*tuğyân*), kuvveti putlaştırarak müstağnîleşme (*istiğnâ bi'l-kuvve*), dünyevî riyâset hırsı ve bizzat aynı sûrenin 16. âyetinde (`fe-kaset kulûbühüm`, Hadîd 57:16) ihtar edilen kalp katılığıdır (*kasvetü'l-kulûb*). İç dünyasında ilahî Kitab'ın hikmetini ve vicdan Mîzân'ını kaybeden bir nefis, eline geçen demiri (iktidar, silah ve teknolojiyi) masumları ezmek için kullanır; buna karşılık âyetin sonundaki `ve li-ya'lemallâhü men yensuruhû ve rusülehû bi'l-ğayb` (*"Allah'ın, kendisini görmeden [bi'l-ğayb] O'na ve elçilerine kimin yardım edeceğini ortaya çıkarması için"*) kaydı, maddi gücün ancak kimsenin görmediği tenha anlarda dahi çalışan bir *ihlâs* ve *murâkabe* bilinciyle meşru kalabileceğini tescil eder.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
+Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe gücü ve iktidarı zulüm aracına dönüştüren bâtınî illetler; kalbin demir gibi katılaşması (*kasvet*), öfke (*gadab*), kibir ve nimet/kuvvet şımarıklığı (*بطر / tuğyân*) olarak teşhis edilmiştir:
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Âfâti'l-Gadab ve'l-Hıkd* ve *Rub'u'l-Münciyât* cildinin *Kitâbü'ş-Şükr ve's-Sabr* bölümlerinde; maddi kuvvet ve iktidar (`be'sün şedîd`) nimetiyle imtihan edilen insanın, şayet kalbinde *mîzân* (adalet ve hilm) yoksa öfke ve tahakküm şehvetine kapılarak helâke sürükleneceğini, kuvvetin şükrünün ise onu nefsânî intikam için değil, mazlumları korumak ve insanlığa fayda üretmek (`menâfi'u li'n-nâs`) için kullanmak olduğunu beyan eder (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 164–175; C. 4, s. 81–110; Dijital erişim: [shamela.ws/book/9472/81](https://shamela.ws/book/9472/81)).
+- **İbn Kayyım el-Cevziyye (ö. 751/1350), *Medâricü's-Sâlikîn*:** İbnü'l-Kayyım, kalbin hastalıklarını ve *istikâmet* makamını şerh ederken; Hadîd Sûresi'nin kalp katılığını (`kasvet`) kınadıktan sonra demirin indirilişini (`enzelne'l-hadîd`) zikretmesindeki ince hikmete dikkat çeker: Hakk'ın zikriyle yumuşamayan ve *Kitap* ile *Mîzân*'a boyun eğmeyen azgın nefisler, dış dünyada demirin çetin gücüyle dizginlenir (İbn Kayyım el-Cevziyye, *Medâricü's-Sâlikîn beyne Menâzili İyyâke Na'büdü ve İyyâke Neste'în*, Beyrut: Dârü'l-Kitâbi'l-Arabî, C. 2, s. 285–295; Dijital erişim: [shamela.ws/book/8370/285](https://shamela.ws/book/8370/285)).
+- **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) `bi'l-ğayb` (denetlenmediği yerde dahi Allah'tan sakınma) ahlâkını kuşanmayan karar vericiler, dış dünyada (`âfâk`) savunma ve gözetim teknolojilerini otoriter tahakküm aracına dönüştürür; bu sebeple `ADIM 15`'teki çift kullanımlı sivil teknoloji transferi (`K1`), stratejik güç kullanımında anayasal/yargısal *Mîzân* denetimi (`K2`) ve bağımsız Ar-Ge ekosistemi (`K3`) kararları maddi gücü hukuk ve vicdan terazisine bağlamaktadır.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
+Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Hadîd 57:25 âyetindeki *Kitâb*, *Mîzân* ve *Hadîd* üçlüsünü insanın iç dünyasını ıslah eden üç manevi terbiye mertebesi olarak şerh etmişlerdir:
+- **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
+  - `[NAKİL]`: Kuşeyrî, Hadîd 57:25 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
+    > «وَأَنزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ... الإشارة فيه: الكتاب لحفظ الشرائع، والميزان لإنصاف المعاملات ومراقبة أحوال القلوب، والحديد لقمع النفس الأمارة بسلاسل المجاهدة ورياضة الصدق... فمن لم يؤدبه ميزان العدل أُدب بحديد القهر»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 542–543; Dijital doğrulama: [shamela.ws/book/23622/542](https://shamela.ws/book/23622/542) / [altafsir.com — Letâ'ifü'l-İşârât 57:25](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=57&tAyahNo=25&tDisplay=yes)).*
+  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); zahirde şerîat ahkâmının *Kitâb*, adalet ve insafın *Mîzân*, mütecavizleri durduran kılıcın ise *Hadîd* olduğunu; bâtında ise ruhun ilahî marifet *Kitab*'ıyla, kalbin hakikat *Mîzân*'ıyla, azgın nefsin ise mücâhede ve riyâzet *Demir*'iyle terbiye edildiğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 6, s. 68–70; Dijital erişim: [shamela.ws/book/11566/68](https://shamela.ws/book/11566/68)).
+  - `[YORUM]`: Kuşeyrî'nin *"Kitap şerîatları korumak, Mîzân muamelelerde insafı ve kalp hallerinin murâkabesini sağlamak, Demir ise nefs-i emmâreyi mücâhede zincirleri ve sıdk riyâzetiyle ezmek içindir; kimi adalet mîzânı edeplendirmezse onu kahır demiri edeplendirir"* tespiti, hukuk ve güç felsefesinin hem enfüsî hem de âfâkî özünü verir. İç dünyasında nefsini mücâhede demiriyle ve vicdan mîzânıyla terbiye etmiş bir medeniyet, dış dünyada ürettiği demiri ve teknolojiyi zulüm için değil, yeryüzünde *kıst* (hakkaniyet) ve *menâfi'u li'n-nâs* (insanlığın ortak hayrı) için kullanır.
 
 ---
 
@@ -562,11 +576,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Fahreddîn er-Râzî, Ebû Abdillâh Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/5548
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/564
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687/109
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/204
-- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/2546
+- **Fahreddîn er-Râzî, Ebû Abdillâh Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/2363/15/5548
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/564
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/168/17/109
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/204
+- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/2546
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Stockholm International Peace Research Institute [SIPRI] (2025).** *SIPRI Yearbook 2025: Armaments, Disarmament and International Security*. Oxford: Oxford University Press. https://www.sipri.org

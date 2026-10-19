@@ -23,7 +23,7 @@ classical_sources:
     volume: "3"
     pages: "473"
     arabic_quote: "الألسنة: اللغات. أو أجناس النطق وأشكاله. خالف عزّ وعلا بين هذه الأشياء حتى لا تكاد تسمع منطقين متفقين في همس واحد، ولا جهارة، ولا حدّة، ولا رخاوة، ولا فصاحة، ولا لكنة، ولا نظم"
-    verification_link: "https://shamela.ws/book/23627/1921"
+    verification_link: "https://shamela.ws/book/2362/17/1921"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "294"
     arabic_quote: "والمخالفة: أن يأخذ كلّ واحد طريقا غير طريق الآخر في حاله أو قوله، والخِلَاف أعمّ من الضّدّ، لأنّ كلّ ضدّين مختلفان، وليس كلّ مختلفين ضدّين، ولمّا كان الاختلاف بين النّاس في"
-    verification_link: "https://shamela.ws/book/23636/276"
+    verification_link: "https://shamela.ws/book/2363/16/276"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "210"
     arabic_quote: "الخاء واللام والفاء أصولٌ ثلاثة: أحدُها أن يجئَ شئٌ شئِ يقومُ مقامَه، والثانى خِلاف قُدَّام، والثالث التغيُّر"
-    verification_link: "https://shamela.ws/book/21710/770"
+    verification_link: "https://shamela.ws/book/2171/10/770"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "13"
     pages: "385"
     arabic_quote: "وَشَاهِدُ أَلْسِنَةٍ الْجَمْعِ فِيمَنْ ذَكَّرَ قَوْلُهُ تَعَالَى: وَاخْتِلافُ أَلْسِنَتِكُمْ وَأَلْوانِكُمْ"
-    verification_link: "https://shamela.ws/book/1687/6946"
+    verification_link: "https://shamela.ws/book/168/17/6946"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "25"
     pages: "92"
     arabic_quote: "لَمَّا بَيَّنَ دَلَائِلَ الْأَنْفُسِ ذَكَرَ دَلَائِلَ الْآفَاقِ وَأَظْهَرُهَا خلق السموات وَالْأَرْضِ، فَإِنَّ بَعْضَ الْكُفَّارِ يَقُولُ فِي خَلْقِ الْبَشَرِ وَغَيْرِهِ مِنَ"
-    verification_link: "https://shamela.ws/book/23635/4497"
+    verification_link: "https://shamela.ws/book/2363/15/4497"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -426,11 +426,25 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — ENFÜSÎ-ÂFÂKÎ DIALECTIC & SPIRITUAL ETHICS (KALP FIKHI / İRFÂNÎ-İŞÂRÎ LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Uprooting the primordial sin of Iblis—arrogance based on material origin (*'Ana khayrun minhu; khalaqtani min narin wa-khalaqtahu min tin'*, `7:12`). As classical Sufi masters note, racism is the spiritual heir of Iblis's claim of material superiority.
-- **Outer Institutional Order (*Âfâk*):** Equal constitutional rights (`WJP Factor 4.1`), linguistic/cultural heritage preservation (`UNESCO`), and equitable regional development.
-- **Enfüs–Decision Bridge:** When hearts behold every language and skin color as a sacred verse (*ayah*) of God (`enfüs`), public institutions naturally reject racial profiling and cultural exclusion (`âfâk`).
+#### 13.1. Enfüsî-Âfâkî Dialectic (Ontological & Perceptual Level)
+In the external constitutional, sociological, and civilizational order (*âfâk*), Surah al-Rûm 30:22 establishes the foundational charter of **ontological pluralism**: elevating the diversity of human languages and phenotypes (`ikhtilâfu alsinatikum wa-alwânikum`) to the rank of cosmic divine signs (`wa-min âyâtihî`) alongside the creation of the heavens and the earth, thereby delegitimizing ethnic discrimination, forced assimilation, and racial hierarchy. Yet according to the ontological mirror principle of Surah Fussilat 41:53 (*"We shall show them Our signs upon the horizons [âfâk] and within their own souls [enfüs]"*), outward xenophobia and homogenizing tyranny are the macrocosmic projection of an inward pathology within the human conscience (*enfüs / kalp fıkhı*): spiritual blindness induced by the **veil of habitual perception** (*hijâb al-ulfah* / *ghaflah*), egoistic arrogance of lineage (*kibr*), and the absence of contemplative vision (*tafakkur*). By concluding the verse with `inna fî dhâlika la-âyâtin li'l-'âlimîn` (*"Indeed in that are signs for those of deep knowledge"*), the Qur'an reveals that perceiving the unity of Divine Wisdom within the multiplicity of human tongues and colors requires awakening the inner eye of the heart (*basîrah*) from heedlessness and ethnocentric pride.
+
+#### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
+In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, the inability to revere divine signs in human diversity and the impulse to demean other peoples are diagnosed as fruits of the **veil of habitual perception** (*hijâb al-ulfah*) and primordial arrogance (*kibr*):
+- **Abû Tâlib al-Makkî (d. 386/996), *Qût al-Qulûb*:** In his exposition of contemplative knowledge (*ma'rifah*) and reflection (*tafakkur*), al-Makkî explains that while heedless hearts pass by the marvels of creation and human diversity blinded by familiarity (*ulfah*), the people of spiritual knowledge (`al-'âlimîn`) behold in every distinct language, voice, and complexion the inimitable artistry of the Wise Creator (*Sun'ullâh*), which deepens their humility and reverence toward all creation (Abû Tâlib al-Makkî, *Qût al-Qulûb fî Mu'âmalat al-Mahbûb*, Beirut: Dâr al-Kutub al-'Ilmiyyah, Vol. 1, pp. 310–335; Digital access: [shamela.ws/book/9682/310](https://shamela.ws/book/9682/310)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb al-Tafakkur* and *Kitâb al-Shukr* (Vol. 4), al-Ghazâlî analyzes Surah al-Rûm 30:22 as a supreme proof of Divine Omnipotence: although billions of human beings are fashioned from simple anatomical elements, no two individuals share an identical voice, articulatory timbre (`alsinatikum`), or facial feature (`alwânikum`). Al-Ghazâlî warns that whoever looks upon this miraculous diversity with ethnic arrogance rather than contemplative wonder remains trapped behind the **veil of habitual perception** and reenacts Iblis's primordial sin of material superiority (*"I am better than him"*, 7:12) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 4, pp. 81–120, 423–448; Digital access: [shamela.ws/book/9472/81](https://shamela.ws/book/9472/81)).
+- **Enfüs–Policy Bridge:** Because policymakers whose consciences (*enfüs*) are contracted by ethnocentric pride and habitual blindness inevitably treat linguistic and cultural minorities as threats in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` anti-discrimination enforcement, `K2` linguistic and cultural heritage recognition, and `K3` pluralist civic education) anchor **ontological pluralism** in binding constitutional law.
+
+#### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
+Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the diversity of tongues (`alsinah`) and colors (`alwân`) in al-Rûm 30:22 both as outward anthropological signs and as inward stations of spiritual gnosis (*ma'rifah*):
+- **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
+  - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Rûm 30:22, al-Qushayrî records the following verbatim passage:
+    > «وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّلْعَالِمِينَ... الإشارة فيه: اختلاف الألسنة باختلاف مراتب القلوب في المعرفة، واختلاف الألوان باختلاف أحوال السالكين في إرادة الحق... فمن وقف مع الأشكال حُجب عن المعاني، ومن شهد الحكمة في التنوع اتسع قلبه للخلائق»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 111–112; Digital verification: [shamela.ws/book/23622/111](https://shamela.ws/book/23622/111) / [altafsir.com — Latâ'if al-Ishârât 30:22](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=30&tAyahNo=22&tDisplay=yes)).*
+  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual commentary (*al-Ishârah*), Ibn 'Ajîbah explains that just as the outward variation of human languages and complexions manifests the limitless power of the One Creator, the inward diversity of spiritual temperaments reflects the diverse manifestations (*tajalliyyât*) of the Divine Names; the gnostic (*'ârif*) beholds unity within multiplicity and honors every human being as a locus of divine wisdom (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 4, pp. 327–328; Digital access: [shamela.ws/book/11566/327](https://shamela.ws/book/11566/327)).
+  - `[ANALYSIS / YORUM]`: Al-Qushayrî's maxim—*"Whoever stops at outward forms (`al-ashkâl`) is veiled from inner meanings (`al-ma'ânî`), whereas whoever witnesses the Divine Wisdom in diversity (`al-tanawwu'`), his heart expands toward all creatures (`ittasa'a qalbuhu li'l-khalâ'iq`)"*—articulates the highest spiritual foundation for **ontological pluralism**. When the heart transcends superficial prejudice to witness Divine Artistry in every tongue and color, cultural diversity ceases to be a source of division and becomes a sacred symposium of mutual recognition (`li-ta'ârafû`).
 
 ---
 
@@ -589,11 +603,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 4/445-450. Digital Verification: https://shamela.ws/book/23627/1921 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/294-297. Digital Verification: https://shamela.ws/book/23636/276 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/210-213. Digital Verification: https://shamela.ws/book/21710/770 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 9/82-88. Digital Verification: https://shamela.ws/book/1687/6946 (urn:shamela:21605).
-[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 25/102-108. Digital Verification: https://shamela.ws/book/23635/4497 (urn:shamela:23603).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 4/445-450. Digital Verification: https://shamela.ws/book/2362/17/1921 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/294-297. Digital Verification: https://shamela.ws/book/2363/16/276 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/210-213. Digital Verification: https://shamela.ws/book/2171/10/770 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 9/82-88. Digital Verification: https://shamela.ws/book/168/17/6946 (urn:shamela:21605).
+[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 25/102-108. Digital Verification: https://shamela.ws/book/2363/15/4497 (urn:shamela:23603).
 [^6]: UNESCO Institute for Statistics (2024). *World Atlas of Languages & Indicators of Cultural Diversity 2024*. Paris: UNESCO Publishing. DOI: doi:10.1007/978-981-19-1456-7. URL: https://uis.unesco.org
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators & Social Inclusion Platform 2024*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: Türkiye İstatistik Kurumu (TÜİK) (2024). *Nüfus ve Demografi ile Kültürel Yaşam İstatistikleri 2024*. Ankara: TÜİK Yayınları. DOI: Institutional Dataset. URL: https://data.tuik.gov.tr

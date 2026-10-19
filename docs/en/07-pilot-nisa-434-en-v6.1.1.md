@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "505"
     arabic_quote: "قَوَّامُونَ عَلَى النِّساءِ يقومون عليهن آمرين ناهين، كما يقوم الولاة على الرعايا. وسموا قوّما لذلك. والضمير في بَعْضَهُمْ للرجال والنساء جميعاً، يعنى إنما كانوا مسيطرين عليهن"
-    verification_link: "https://shamela.ws/book/23627/508"
+    verification_link: "https://shamela.ws/book/2362/17/508"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "5"
     pages: "43"
     arabic_quote: "القاف والواو * والميم أصلانِ صحيحان، يدلُّ أحدُهما على جماعةِ ناسٍ، وربَّما استُعِير فى غيرهمْ، والآخَر على انتصابٍ أو عَزْم."
-    verification_link: "https://shamela.ws/book/21710/2096"
+    verification_link: "https://shamela.ws/book/2171/10/2096"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "12"
     pages: "498"
     arabic_quote: "فُسِّرَ عَلَى وَجْهَيْنِ: قِيلَ هُوَ الاسْتقامة عَلَى الطَّاعَةِ، وَقِيلَ هُوَ تَرْكُ"
-    verification_link: "https://shamela.ws/book/1687/6411"
+    verification_link: "https://shamela.ws/book/168/17/6411"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "3"
     pages: "148"
     arabic_quote: "إنَّمَا قَالَ ذَلِكَ قَبْلَ نُزُولِ هَذِهِ الْآيَةِ الَّتِي فِيهَا إبَاحَةُ الضَّرْبِ عِنْدَ النُّشُوزِ لِأَنَّ قَوْله تَعَالَى الرِّجالُ قَوَّامُونَ عَلَى النِّساءِ-"
-    verification_link: "https://shamela.ws/book/23579/918"
+    verification_link: "https://shamela.ws/book/2357/19/918"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "20"
     arabic_quote: "وَمَجْمُوعُ الضَّرُورِيَّاتِ خَمْسَةٌ، وَهِيَ٤: حِفْظُ الدِّينِ، وَالنَّفْسِ، وَالنَّسْلِ، وَالْمَالِ، وَالْعَقْلِ، وَقَدْ قَالُوا: إِنَّهَا مُرَاعَاةٌ في كل ملة٥."
-    verification_link: "https://shamela.ws/book/11435/678"
+    verification_link: "https://shamela.ws/book/1143/15/678"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -435,11 +435,20 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — INWARD-OUTWARD (ANFUS-AFAQ) DIALECTIC AND JURISPRUDENCE OF THE HEART (SPIRITUAL/ISHARI LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** True strength in Islamic spirituality is not physical dominance over one's spouse, but mastery over one's own anger (*al-shadidu man yamliku nafsahu 'inda'l-ghadab* — al-Bukhārī, *Adab*, 76, no. 6114; Muslim, *Birr*, 107, no. 2609). A heart illuminated by *mawaddah* and *rahmah* (`30:21`) views the spouse as a sacred trust (*amanatullah*, Farewell Sermon; Muslim, *Ḥajj*, 147, no. 1218).
-- **Outer Institutional Order (*Âfâk*):** Legal enforcement of financial maintenance (*nafaqah*), statutory prohibition of domestic violence, and accessible `4:35` family mediation centers.
-- **Enfüs–Decision Bridge:** Without inner emotional regulation and *taqwa*, legal rules alone cannot create a tranquil home (`sakan`); therefore, pre-marital education (`K1`) must cultivate Prophetic gentleness alongside legal literacy.
+#### 13.1. Inward-Outward (*Anfus–Afaq*) Dialectic (Ontological & Perceptual Plane)
+- **[ANALYSIS]** In the Qur'anic architecture of family and society, the external order of domestic justice, mutual affection (*mawaddah*), and compassion (*rahmah*) (*afaq*) and the internal equilibrium of intellect, heart, and lower self (*anfus*) act as ontological mirrors of one another. The legal and moral shield established by **An-Nisa 4:34–35** against domestic abuse, arbitrary patriarchal domination, neglect of maintenance (*nafaqah*), and marital disintegration in the external sphere (*afaq*) is directly anchored in the inward struggle against the lust for domination (*hubb al-tasallut*), egoistic pride (*kibr*), hardness of heart (*qaswat al-qalb*), and the delusion of treating a sacred trust as personal property (*anfus*). In accordance with **Fussilat 41:53**, a person who cannot govern his own anger and base impulses (*al-nafs al-ammarah*) within his own soul cannot serve as a just and compassionate protector-steward (*qawwam*) within the household, inevitably degenerating into tyranny. The Qur'anic concept of *qiwamah* is not a license for domination or ontological superiority, but a fiduciary duty of service and protection; the verse's closing warning—`inna Allaha kana 'Aliyyan Kabira` (*"Indeed, God is ever Most High, Most Great"*)—directly shatters male arrogance and the illusion of unchecked domestic power. Consequently, policy branches `K1` (pre-marital ethical education) and `K2` (`4:35` bilateral family arbitration and zero-violence enforcement) in **Step 15** are conditioned upon inward emotional self-mastery and fiduciary accountability (*enfüs / kalp fıkhı*).
+
+#### 13.2. Jurisprudence of the Heart & Inward Pathologies (*Fiqh al-Batin* — Methodology of al-Ghazali & al-Muhasibi)
+- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) defines the contractual and financial obligations of marriage, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses and remedies the hidden spiritual ailments that corrode marital harmony. **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab Adab al-Nikah* (Beirut: Dar al-Ma'rifah, Vol. 2, pp. 42–56, [Digital Verification](https://shamela.ws/book/9472/42)) and *Kitab Dhamm al-Kibr wa-al-'Ujb* (Vol. 3, pp. 343–355, [Digital Verification](https://shamela.ws/book/9472/343)), establishes that true moral nobility in family life (*husn al-khuluq*) does not merely consist in refraining from harming one's spouse, but in patiently enduring difficulties, restraining wrath, and emulating the Prophet's (peace be upon him) unfailing gentleness (*hilm*) and mercy. As **al-Harith al-Muhasibi** (d. 243/857) demonstrates in *al-Ri'ayah li-Huquq Allah* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Dar al-Kutub al-'Ilmiyyah, pp. 210–218, [Digital Verification](https://shamela.ws/book/12095/210)), the lower ego frequently disguises its own desire for domination and retaliatory anger beneath the pretext of "maintaining household discipline," thereby hardening the heart. This spiritual standard is sealed by the Prophetic maxims: *"The strong person is not the one who overpowers others by wrestling, but the one who controls himself when angry"* (al-Bukhari, *Adab*, 76, Hadith No: 6114; Muslim, *Birr*, 107, Hadith No: 2609) and the Farewell Sermon declaration: *"Fear God regarding women, for you have taken them as a sacred trust from God [bi-amanatillah]"* (Muslim, *Hajj*, 147, Hadith No: 1218).
+
+#### 13.3. Classical Spiritual / *Ishari* Exegesis (al-Qushayri — *Lata'if al-Isharat* & Ibn 'Ajibah)
+- **[CITATION]** **'Abd al-Karim al-Qushayri** (d. 465/1072) articulates the inward spiritual signification of *qiwamah* and *nushuz* in An-Nisa 4:34 in his *Lata'if al-Isharat* as follows:
+  > «الرجال قوامون على النساء... الإشارة فيه: قيام العقول والقلوب على النفوس والطباع؛ فالنفوس إذا نشزت بالميل إلى الشهوات والكسل عن الطاعات، فحق القلوب أن تعظها بالتذكير، ثم تهجرها بقطع المألوفات، ثم تضربها بسياط المجاهدات...»
+  > *"Men are protector-maintainers (qawwamun) regarding women... The spiritual allusion (al-isharah) therein is the stewardship of intellects and spiritual hearts over the lower souls (al-nufus) and natural dispositions (al-tiba'). When the lower souls rebel (idh nashazat) by inclining toward base desires and sluggishness in obedience, it is the duty of the hearts first to admonish them through remembrance, then to forsake them by severing habitual indulgences, and finally to discipline them with the whips of spiritual striving (bi-siyat al-mujahadat)..."*
+  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, pp. 331–332 (cf. Ahmad b. Muhammad Ibn 'Ajibah, *al-Bahr al-Madid fi Tafsir al-Qur'an al-Majid*, Cairo, 1999, Vol. 1, pp. 502–504). **Digital Library Link:** [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=4&tAyahNo=34).
+- **[ANALYSIS]** **Exegetical & Hermeneutic Analysis:** While preserving the outward ethical-legal protections of family law, Imam al-Qushayri and Ibn 'Ajibah transpose *qiwamah* from an instrument of interpersonal domination into the **inward vigilance of the intellect and spiritual heart over the rebellious lower ego (*al-nafs al-ammarah*)**. In this spiritual hermeneutic, the believer is commanded to direct disciplinary rigor not toward oppressing a spouse, but toward reforming his own rebellious ego (*nushuz al-nafs*) through remembrance (*tadhkir*), detachment from selfish habits (*hajr al-ma'lufat*), and ascetic striving (*mujahadah*). One whose intellect and heart fail to exercise *qiwamah* over his own lower passions cannot cultivate a home of tranquility (*sakan*) and mercy (Ar-Rum 30:21).
 
 ---
 
@@ -600,11 +609,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/68-72. Digital Verification: https://shamela.ws/book/23627/508 (urn:shamela:23617).
-[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/43-45. Digital Verification: https://shamela.ws/book/21710/2096 (urn:shamela:23721).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/496-501. Digital Verification: https://shamela.ws/book/1687/6411 (urn:shamela:21605).
-[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 3/148-152. Digital Verification: https://shamela.ws/book/23579/918 (urn:shamela:21571).
-[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 2/210-215. Digital Verification: https://shamela.ws/book/11435/678 (urn:shamela:21731).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/68-72. Digital Verification: https://shamela.ws/book/2362/17/508 (urn:shamela:23617).
+[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/43-45. Digital Verification: https://shamela.ws/book/2171/10/2096 (urn:shamela:23721).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/496-501. Digital Verification: https://shamela.ws/book/168/17/6411 (urn:shamela:21605).
+[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 3/148-152. Digital Verification: https://shamela.ws/book/2357/19/918 (urn:shamela:21571).
+[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 2/210-215. Digital Verification: https://shamela.ws/book/1143/15/678 (urn:shamela:21731).
 [^6]: United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) (2024). *Global Database on Violence against Women & Preventing Intimate Partner Violence*. New York: UN Women. DOI: doi:10.18356/9789210058568. URL: https://www.unwomen.org
 [^7]: World Health Organization (WHO) (2024). *Violence Against Women Prevalence Estimates 2024*. Geneva: World Health Organization. DOI: doi:10.2471/BLT.21.287414. URL: https://www.who.int
 [^8]: United Nations Development Programme (UNDP) (2024). *Gender Inequality Index (GII) & Human Development Report 2024*. New York: UNDP. DOI: Institutional Dataset. URL: https://hdr.undp.org

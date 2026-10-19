@@ -347,6 +347,13 @@ class GemLinterV6:
                 link = s.get("verification_link") or s.get("url")
                 if not link or "..." in str(link):
                     self.report("L-0103", WARN, f"Kaynak '{sid}': Dijital tahkik linki eksik veya yer tutucu.")
+                elif "shamela.ws" in str(link).lower():
+                    if not re.search(r"shamela\.ws/book/\d+/\d+", str(link), re.IGNORECASE):
+                        self.report(
+                            "L-0107",
+                            BLOCK,
+                            f"Kontrol A İhlali: Kaynak '{sid}' için 'verification_link' ({link}) genel kitap kapağı linki olamaz; mutlaka 'shamela.ws/book/<book_id>/<page_id>' formatında sayfa ID'li olmalıdır!",
+                        )
 
                 # İSNAD 2 vefat tarihi kontrolü (classical_sources kullanıldığında)
                 if classical_sources and s in classical_sources:
@@ -818,6 +825,53 @@ class GemLinterV6:
                 )
 
     # ----------------------------------------------------
+    # V14 (Kontrol B): ADIM 13 / STEP 13 Üçlü İrfânî Bütünlük Doğrulaması
+    # ----------------------------------------------------
+    def check_v14_step13_irfani(self):
+        if not self.is_v6:
+            return
+
+        step13_match = re.search(
+            r"(#{2,3}\s+(?:ADIM|STEP)\s+13\b[^\n]*\n)(.*?)(?=\n#{2,3}\s+(?:ADIM|STEP)\s+14\b|\n##\s+(?:FAZ|PHASE)\s+IV\b|\Z)",
+            self.body_text,
+            re.DOTALL | re.IGNORECASE,
+        )
+        if not step13_match:
+            self.report(
+                "L-2301",
+                BLOCK,
+                "Kontrol B İhlali: Rapor gövdesinde '### ADIM 13' (veya '### STEP 13') bölümü bulunamadı!",
+            )
+            return
+
+        s13_body = step13_match.group(2).strip()
+        has_13_1 = bool(re.search(r"\b13\.1\b", s13_body))
+        has_13_2 = bool(re.search(r"\b13\.2\b", s13_body))
+        has_13_3 = bool(re.search(r"\b13\.3\b", s13_body))
+        if not (has_13_1 and has_13_2 and has_13_3):
+            self.report(
+                "L-2302",
+                BLOCK,
+                f"Kontrol B İhlali: ADIM 13 / STEP 13 altında 13.1 ({has_13_1}), 13.2 ({has_13_2}) ve 13.3 ({has_13_3}) alt başlıkları birleşik olarak bulunmalıdır!",
+            )
+
+        norm_s13 = normalize(s13_body)
+        irfani_authorities = [
+            "kuseyri", "qushayri", "letaif", "lataif",
+            "gazzali", "ghazali", "ihya",
+            "muhasibi", "riaye", "riaya",
+            "tusteri", "tustari",
+            "ibn acibe", "ibn ajiba", "bahrul-medid", "bahr al-madid",
+            "sulemi", "sulami", "mekki", "makki",
+        ]
+        if not any(auth in norm_s13 for auth in irfani_authorities):
+            self.report(
+                "L-2303",
+                BLOCK,
+                "Kontrol B İhlali: ADIM 13 / STEP 13 altında klasik irfânî/tasavvufî kaynak atfı (Kuşeyrî, Gazzâlî, Muhâsibî, Tüsterî, İbn Acîbe vb.) bulunamadı!",
+            )
+
+    # ----------------------------------------------------
     # Ana Tarama Yürütücüsü
     # ----------------------------------------------------
     def run_all(self):
@@ -841,6 +895,7 @@ class GemLinterV6:
         self.check_v11_peer_review()
         self.check_v12_step01_depth()
         self.check_v13_step07_cld()
+        self.check_v14_step13_irfani()
 
         return self.print_summary()
 
@@ -849,9 +904,9 @@ class GemLinterV6:
         n_warn = sum(1 for f in self.findings if f["level"] == WARN)
 
         print("\n" + "=" * 70)
-        print(f"   QURAN VISION / GEM LINTER v6.2.1 — AKADEMİK DOĞRULAMA RAPORU")
+        print(f"   QURAN VISION / GEM LINTER v6.2.2 — AKADEMİK DOĞRULAMA RAPORU")
         print(f"   Dosya : {self.path.name}")
-        print(f"   Mod   : {'v6.2.1 / v6.1.1 (Akademik Standart)' if self.is_v6 else 'v5.2 (Geriye Dönük)'} | Katman: {self.katman} | H6: {'Evet' if self.h6 else 'Hayır'}")
+        print(f"   Mod   : {'v6.2.2 / v6.1.1 (Akademik Standart)' if self.is_v6 else 'v5.2 (Geriye Dönük)'} | Katman: {self.katman} | H6: {'Evet' if self.h6 else 'Hayır'}")
         print("=" * 70 + "\n")
 
         if self.findings:
@@ -939,7 +994,7 @@ def main():
         sys.exit(0)
 
     if "--version" in sys.argv:
-        print("Quran Vision / GEM Linter v6.2.1 (v6.1.1 Standard Compatible - Python 3)")
+        print("Quran Vision / GEM Linter v6.2.2 (v6.1.1 Standard Compatible - Python 3)")
         sys.exit(0)
 
     target_files = []
@@ -979,7 +1034,12 @@ def main():
         else:
             idx += 1
 
-    if not target_files:
+    if "--all" in sys.argv and not target_files:
+        root_dir = Path(__file__).resolve().parent.parent
+        tr_reps = [f for f in sorted((root_dir / "docs" / "tr").glob("[0-9][0-9]-*-v6.1.1.md")) if not f.name.startswith("05-")]
+        en_reps = [f for f in sorted((root_dir / "docs" / "en").glob("[0-9][0-9]-*-en-v6.1.1.md")) if not f.name.startswith("05-")]
+        target_files = tr_reps + en_reps
+    elif not target_files:
         root_dir = Path(__file__).resolve().parent.parent
         default_reports = sorted((root_dir / "docs" / "tr").glob("[0-9][0-9]-*-v6.1.1.md"))
         target_files = [f for f in default_reports if not f.name.startswith("05-")]

@@ -2,9 +2,9 @@ cff-version: 1.2.0
 title: "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı): 26-Step Evidence-Based Strategic Tafsir, Maqasid & Civilization Foresight Corpus (TR/EN)"
 message: "If you use this corpus, methodology, or any of its 15 foundational verse reports in your academic research or curriculum, please cite it using the official DOI and ORCID metadata below."
 type: dataset
-version: "6.2.1"
+version: "6.2.2"
 doi: "10.5281/zenodo.23391192"
-date-released: "2026-10-15"
+date-released: "2026-10-20"
 url: "https://mehmetyarici-crypto.github.io/quran-vision/"
 repository-code: "https://github.com/mehmetyarici-crypto/quran-vision"
 license: CC-BY-NC-SA-4.0
@@ -14,7 +14,7 @@ identifiers:
     description: "CERN / Zenodo Permanent Concept DOI (All Versions)"
   - type: doi
     value: "10.5281/zenodo.23410818"
-    description: "CERN / Zenodo Version v6.2.1 DOI"
+    description: "CERN / Zenodo Version v6.2.2 DOI"
 authors:
   - family-names: "Yarıcı"
     given-names: "Mehmet"
@@ -25,9 +25,10 @@ keywords:
   - "Strategic Tafsir"
   - "Maqasid al-Shariah"
   - "ISNAD 2 Citation Standard"
+  - "Sufi / Irfani Hermeneutics"
   - "Bayesian Policy Modeling"
   - "Islamic Law and Ethics"
   - "Civilization Foresight"
   - "TYMM Religious Education Pedagogy"
 abstract: >-
-  The Quran Vision Corpus (v6.2.1), founded and authored by Mehmet Yarıcı (ORCID: 0009-0003-0356-8582; Uludağ University Faculty of Theology / Republic of Türkiye Ministry of National Education), is a bilingual (Turkish/English) academic research corpus and interactive digital cockpit comprising 15 foundational Quranic verse monographs (QV-2026-001 through QV-2026-015). Each report follows a standardized 26-step methodological protocol across 5 macro-phases and 5 mandatory appendices (Z-1 to Z-5), bridging 76 primary Arabic classical tafsir citations (verified under the ISNAD 2nd Edition standard) with 45 contemporary empirical datasets (World Bank, UNDP, WJP, UNESCO, SIPRI, OECD, WHO via APA 7 / DOI) and 10-year quantitative Bayesian scenario simulations (2026–2036). External Academic Advisor & Peer-Reviewer: Mehmet Emin Koç (ORCID: 0000-0002-1025-5643; Azerbaijan National Academy of Sciences, Institute of Philosophy and Sociology).
+  The Quran Vision Corpus (v6.2.2), founded and authored by Mehmet Yarıcı (ORCID: 0009-0003-0356-8582; Uludağ University Faculty of Theology / Republic of Türkiye Ministry of National Education), is a bilingual (Turkish/English) academic research corpus and interactive digital cockpit comprising 15 foundational Quranic verse monographs (QV-2026-001 through QV-2026-015) and 33 A4 PDF documents. v6.2.2: Complete Irfani/Sufi Hermeneutics Reform across 15 monographs (Step 13), 100% verbatim classical Arabic quotes with exact page_id Shamela links, comprehensive Hadith/Ayat/Ulama tahrij in body text, addition of 33rd document (ISNAD-2 Classical Arabic Databases Guide authored by Mehmet Yarıcı), and compiled master corpus books. External Academic Advisor & Peer-Reviewer: Mehmet Emin Koç (ORCID: 0000-0002-1025-5643; Azerbaijan National Academy of Sciences, Institute of Philosophy and Sociology).

@@ -25,7 +25,7 @@ classical_sources:
     volume: "4"
     pages: "281"
     arabic_quote: "العين والراء والفاء أصلان صحيحان، يدلُّ أحدُهما على تتابُع الشئ متَّصلا بعضُه ببعض، والآخر على السكون والطُّمَأنينة."
-    verification_link: "https://shamela.ws/book/21710/1822"
+    verification_link: "https://shamela.ws/book/2171/10/1822"
     doi_or_urn: "urn:shamela:book:9193:v4:p281"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "561"
     arabic_quote: "الله يعلم كذا، ولا يقال: يَعْرِفُ كذا، لمّا كانت المَعْرِفَةُ تستعمل في العلم القاصر المتوصّل به"
-    verification_link: "https://shamela.ws/book/23636/543"
+    verification_link: "https://shamela.ws/book/2363/16/543"
     doi_or_urn: "urn:shamela:book:23629:v1:p560"
   - id: "cls-ibnmanzur"
     author: "İbn Manzûr, Muhammed b. Mükerrem"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "500"
     arabic_quote: "والشَّعْبُ: أَبو القبائِلِ الذي يَنْتَسِبُون إِليه أَي يَجْمَعُهُم ويَضُمُّهُم. وَفِي التَّنْزِيلِ: وَجَعَلْناكُمْ شُعُوباً وَقَبائِلَ لِتَعارَفُوا"
-    verification_link: "https://shamela.ws/book/1687/500"
+    verification_link: "https://shamela.ws/book/168/17/500"
     doi_or_urn: "urn:shamela:book:1687:v9:p236"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -64,7 +64,7 @@ classical_sources:
     volume: "21"
     pages: "383"
     arabic_quote: "﴿إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى﴾. قال: ما خَلَقَ اللَّهُ الولدَ إِلَّا مِن نطفةِ الرجلِ والمرأةِ جميعًا؛ لأنَّ اللَّهَ يقولُ: ﴿خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى﴾"
-    verification_link: "https://shamela.ws/book/7798/14442"
+    verification_link: "https://shamela.ws/book/779/18/14442"
     doi_or_urn: "urn:shamela:book:7798:v22:p309"
   - id: "cls-zemahseri"
     author: "Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer"
@@ -77,7 +77,7 @@ classical_sources:
     volume: "4"
     pages: "374"
     arabic_quote: "مِنْ ذَكَرٍ وَأُنْثى من آدم وحوّاء. وقيل: خلقنا كل واحد منكم من أب وأمّ، فما منكم أحد إلا وهو يدلى بمثل ما يدلى به الآخر سواء بسواء، فلا وجه للتفاخر والتفاضل في النسب. والشعب: الطبقة الأولى من"
-    verification_link: "https://shamela.ws/book/23627/2439"
+    verification_link: "https://shamela.ws/book/2362/17/2439"
     doi_or_urn: "urn:shamela:book:23627:v5:p586"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "26"
     pages: "258"
     arabic_quote: "وَالْمُرَادُ بِالذَّكْرِ وَالْأُنْثَى: آدَمُ وَحَوَّاءُ أَبَوَا الْبَشَرِ، بِقَرِينَةِ قَوْلِهِ وَجَعَلْناكُمْ شُعُوباً وَقَبائِلَ لِتَعارَفُوا"
-    verification_link: "https://shamela.ws/book/9776/9082"
+    verification_link: "https://shamela.ws/book/977/16/9082"
     doi_or_urn: "urn:shamela:book:9746:v26:p258"
 modern_sources:
   - id: "mod-wjp"
@@ -408,11 +408,25 @@ Hucurât Sûresi Medine döneminde, hicretin 9. yılında ("Senetü'l-Vüfûd" �
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (Kalp Fıkhı ve Kibir Terbiyesi):** İrfan geleneğinde ırkçılık ve soy kibri, İblis'in Hz. Âdem'e karşı *"Ben ondan hayırlıyım; beni ateşten, onu çamurdan yarattın"* (A'râf 7:12) diyerek işlediği ilk **"ontolojik kibir"** günahının devamıdır. Kalbindeki soy, statü ve grup kibrini (*tefâhur*) temizleyemeyen insan, hakiki takvâya ulaşamaz.
-- **Âfâk (Kurumsal Mimari):** Âfâkta bu ilke; kanun önünde tavizsiz eşitliği, ırkçılık ve nefret suçlarıyla mücadeleyi, liyakat esaslı kamu yönetimini ve uluslararası barış diplomasisini (*teâruf*) inşa eder.
-- **Enfüsî-Karar Köprüsü:** İç dünyasında (`enfüs`) nefsani kibir, tamah ve öfkeyi terbiye edemeyen karar vericiler, dış dünyada (`âfâk`) kurumsal adaleti ve merhameti yaşatamaz; bu sebeple `ADIM 15`'teki politika kolları ahlaki öz-denetim şartına bağlanmıştır.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+Hucurât 49:13 âyetinin dış dünyadaki (*âfâk*) anayasal, uluslararası hukuk ve insan hakları tezahürü; bütün insanlığın tek bir anne ve babadan (`min zekerin ve ünsâ`) yaratıldığını ilan ederek ırkçılığı, etnosentrizmi, soy/kast hiyerarşilerini ve yabancı düşmanlığını gayrimeşru kılmak; kavim ve kabile farklılıklarını (`şu'ûben ve kabâile`) bir çatışma veya imtiyaz aracı değil, karşılıklı tanışma ve yardımlaşma (`li-te'ârafû`) zemini olarak kurumsallaştırmaktır. Ancak Fussilet 41:53 âyetinin kurduğu ontolojik ayna ilişkisi uyarınca, dış dünyada insanları derilerinin rengine, dillerine veya neseplerine göre aşağılayan ayrımcılık krizinin insanın iç dünyasındaki (*enfüs*) doğrudan kökü; İblis'in Hz. Âdem'e karşı *"Ben ondan hayırlıyım; beni ateşten, onu çamurdan yarattın"* (A'râf 7:12) diyerek işlediği ilk **İblîsî soy kibri** (*fahir ve tefâhur*), kendini beğenmişlik (*ucb*) ve *takvâ*'yı dışsal bir grup aidiyetine indirgeme yanılgısıdır. Âyetin ikinci yarısındaki `inne ekrameküm 'indallâhi etkâküm` (*"Şüphesiz Allah katında en üstününüz, takvâca en ileride olanınızdır"*) hükmü, üstünlük ölçütünü görünür maddi aidiyetlerden alıp yalnızca Allah'ın bildiği (`'indallâh`) kalbî sorumluluk ve ahlâkî arınma mertebesine taşıyarak insanı hem başkalarına kul olmaktan hem de kendi soyunu putlaştırmaktan kurtaran bâtınî bir özgürleşme beyannamesidir.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
+Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe nesep, kavim ve statüyle övünmenin ardındaki bâtınî illetler; kalbin kendi hakikatini unutması (*cehl bi'n-nefs*), kibir (*kibr*) ve ucb olarak teşhis edilmiştir:
+- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, *Bâbü'l-Kibr ve'l-Ucb* bölümünde soy ve kabile üstünlüğü iddiasını tahlil ederken; insanın kendi iradesi ve ameli olmayan bir nesep veya kavim aidiyetiyle başkalarına karşı büyüklük taslamasının aklî ve ahlâkî bir aldanış (*ğurûr*) olduğunu, kalpteki bu kibrin ancak bütün insanların aynı topraktan yaratıldığı ve akıbetlerinin yalnızca *takvâ* ile belirleneceği tefekkürüyle sökülebileceğini ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 245–270; Dijital erişim: [shamela.ws/book/9683/245](https://shamela.ws/book/9683/245)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Zemmi'l-Kibr ve'l-Ucb* bölümünde "Soy ve Nesep Kibri"ni (*et-Tekebbür bi'n-Neseb*) müstakil bir başlık altında inceler ve Hucurât 49:13 âyetini bu hastalığın en kesin ilacı olarak şerh eder. Gazzâlî'ye göre nesebiyle övünen kimse, aslında kendi zatında olmayan, başkalarına ait geçmiş bir vasfı kendine mal ederek cehalete düşmektedir; zira insanın aslı bir damla su ve topraktır (`min zekerin ve ünsâ`), hakiki şeref ise kalbin *takvâ* ve *tevazu* ile ziynetlenmesindedir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 343–385; Dijital erişim: [shamela.ws/book/9472/343](https://shamela.ws/book/9472/343)).
+- **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) soy, hemşehrilik veya zümre asabiyetini (*tefâhur*) tevazu ve takvâ ile tezkiye edemeyen karar vericiler, dış dünyada (`âfâk`) kamu makamlarını kendi klanlarına tahsis eder; bu sebeple `ADIM 15`'teki körleştirilmiş liyakat/mülakat sistemi (`K1`), kültürlerarası *teâruf* eğitim modülü (`K2`) ve nefret söylemi/dijital kabilecilik izleme mekanizması (`K3`) kararları nefsin soy kibrini kurumsal hukukla engellemektedir.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
+Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Hucurât 49:13 âyetindeki *hilkat eşitliği*, *teâruf* ve *ekrameküm 'indallâhi etkâküm* kavramlarını nefsin benlik davasından soyunarak hiçlik ve takvâ makamında yücelmesi olarak şerh etmişlerdir:
+- **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
+  - `[NAKİL]`: Kuşeyrî, Hucurât 49:13 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
+    > «يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ... الإشارة فيه: ساوى بينهم في أصل الطينة لئلا يتعاظم أحد على أحد بشرف النسب... وإن أكرمكم عند الله أتقاكم: رفع أقدار المتقين بإسقاط رؤية النفوس، فمن تعزز بالطين ذل، ومن تشرف بالتقوى جل»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 441–442; Dijital doğrulama: [shamela.ws/book/23622/441](https://shamela.ws/book/23622/441) / [altafsir.com — Letâ'ifü'l-İşârât 49:13](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=13&tDisplay=yes)).*
+  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); zahirî neseplerin yalnızca dünyevî tanışma (`li-te'ârafû`) için birer alamet olduğunu, hakiki nesebin ise kalbin Hakk'a olan yakınlığı ve *takvâ* bağı olduğunu; nefsin fanî sıfatlarından ve soy davasından tamamen arınan (*etkâküm*) ârifin Allah katında en yüksek kerem ve izzete erdiğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 5, s. 432–433; Dijital erişim: [shamela.ws/book/11566/432](https://shamela.ws/book/11566/432)).
+  - `[YORUM]`: Kuşeyrî'nin *"Kimse nesep şerefiyle başkasına büyüklük taslamasın diye Allah onları yaratılış çamurunun aslında eşitledi; müttakîlerin kadrini ise nefislerini görme (rü'yetü'n-nüfûs) hastalığını düşürmeleri sebebiyle yüceltti; kim çamurla (soyla) izzet ararsa zelil olur, kim de takvâ ile şereflenirse aziz olur"* vecizesi, ırkçılık ve kabileciliğin manevi kökünü kesip atar. İrfânî ufukta *teâruf*, ötekinde kendi yaratılış özünü görmek; *takvâ* ise hiçbir fânî kimliği hakikatin ve adaletin önüne geçirmemektir.
 
 ---
 
@@ -566,12 +580,12 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/9776/9082 (`urn:shamela:book:9746:v26:p258`).
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1822 (`urn:shamela:book:9193:v4:p281`).
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687/500 (`urn:shamela:book:1687:v9:p236`).
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/23636/543 (`urn:shamela:book:23629:v1:p560`).
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/7798/14442 (`urn:shamela:book:7798:v22:p309`).
-- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*. Tahkik: Âdil Ahmed Abdülmevcûd. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/2439 (`urn:shamela:book:23627:v5:p586`).
+- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/977/16/9082 (`urn:shamela:book:9746:v26:p258`).
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/1822 (`urn:shamela:book:9193:v4:p281`).
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/168/17/500 (`urn:shamela:book:1687:v9:p236`).
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/2363/16/543 (`urn:shamela:book:23629:v1:p560`).
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/779/18/14442 (`urn:shamela:book:7798:v22:p309`).
+- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*. Tahkik: Âdil Ahmed Abdülmevcûd. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/2439 (`urn:shamela:book:23627:v5:p586`).
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **UNESCO (2024).** *Global Report on Racism and Discrimination: Fostering Intercultural Dialogue (Ta'aruf)*. Paris: UNESCO Publishing. https://www.unesco.org

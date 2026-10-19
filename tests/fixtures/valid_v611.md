@@ -106,9 +106,17 @@ peer_review:
 - Falsifiabilite protokolü.
 - Endeks ve veri kaynağı: Dünya Bankası veritabanı. Sayısal eşik değeri belirlenmiştir.
 
-## ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
-- Enfüs ve âfâk ahlakî boyut incelemesi.
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+- **[YORUM]** Âyetin dışsal ve kurumsal boyutu (âfâk) ile bireyin içsel vicdan ve niyet muhasebesi (enfüs) arasındaki ontolojik ayna ilişkisi (Fussilet 41:53) ve Adım 15 karar kollarına kurduğu ahlâkî köprü.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın*)
+- **[YORUM]** Hâris el-Muhâsibî (*er-Ri'âye li-Hukûkillâh*) ve Ebû Hâmid el-Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*) metodolojisiyle bâtınî illetlerin (kibir, riyâ, ucb, tamah, gazap, kasvet) teşhisi ve tezkiyesi.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc
+- **[NAKİL]** Abdülkerîm el-Kuşeyrî (*Letâ'ifü'l-İşârât*), Sehl et-Tüsterî (*Tefsîru't-Tüsterî*) veya İbn Acîbe (*el-Bahrü'l-Medîd*) kaynaklarından harekeli Arapça iktibas, tercüme ve İSNAD 2 künyesi.
+- **[YORUM]** İşârî ibarenin zâhirî fıkıh hükmünü iptal etmeksizin kurduğu kalbî derinlik sentezi.
 ## ADIM 14 — ERKEN UYARI VE BAYES
 - Prior ve posterior güncellenmiş olasılık değerleri. Bayes güncellemesi.
 

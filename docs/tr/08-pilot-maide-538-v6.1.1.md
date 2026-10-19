@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "631"
     arabic_quote: "والسارقة أى حكمهما. ووجه آخر وهو أن يرتفعا بالابتداء، والخبر فَاقْطَعُوا أَيْدِيَهُما ودخول الفاء لتضمنهما معنى الشرط، لأنّ المعنى: والذي سرق والتي سرقت فاقطعوا أيديهما"
-    verification_link: "https://shamela.ws/book/23627/634"
+    verification_link: "https://shamela.ws/book/2362/17/634"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "3"
     pages: "154"
     arabic_quote: "السين والراء والقاف أصلٌ يدلُّ على أخْذ شئ فى خفاء وسِتر. يقال سَرَق يَسْرق سَرِقةً. والمسروق سَرَقٌ. واستَرَق السّمع، إذا تسمَّع مختفياً. ومما شذّ عن هذا الباب السَّرَق: جمع سَرَقة، وهى القطعة من الحرير."
-    verification_link: "https://shamela.ws/book/21710/1223"
+    verification_link: "https://shamela.ws/book/2171/10/1223"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "10"
     pages: "156"
     arabic_quote: "والاسْتِراق: الخَتْل سِرًّا كَالَّذِي يَسْتَمِعُ، والكَتَبةُ يَسْتَرِقُون مِنْ بَعْضِ الْحِسَابَاتِ. ابْنُ عَرَفَةَ فِي قَوْلِهِ تَعَالَى: وَالسَّارِقُ وَالسَّارِقَةُ"
-    verification_link: "https://shamela.ws/book/1687/4826"
+    verification_link: "https://shamela.ws/book/168/17/4826"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "62"
     arabic_quote: "قال النبي صلى الله عليه وسلم إن أَسْوَأَ النَّاسِ سَرِقَةً هُوَ الَّذِي يَسْرِقُ صَلَاتَهُ قيل له يَا رَسُولَ اللَّهِ"
-    verification_link: "https://shamela.ws/book/23579/1208"
+    verification_link: "https://shamela.ws/book/2357/19/1208"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "18"
     arabic_quote: "فَأُصُولُ الْعِبَادَاتِ رَاجِعَةٌ إِلَى حِفْظِ الدِّينِ مِنْ جانب الوجود، كالإيمان٤."
-    verification_link: "https://shamela.ws/book/11435/676"
+    verification_link: "https://shamela.ws/book/1143/15/676"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -383,10 +383,20 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüsî Tevil:** İnsanın iç dünyasında hırs ve tamah, ruhun manevi sermayesini gizlice çalan birer hırsızdır. İrade, manevi sermayesini çalan bu bencil heveslerin elini kesmekle (onları beslemeyi bırakmakla) mükelleftir.
-- **Enfüsî-Karar Köprüsü:** Kendi iç dünyasında doymak bilmez açgözlülüğü terbiye edemeyen yöneticiler, kamusal alanda hırsızlıkla mücadele edemez; kendileri sistemik talanın parçası olurlar.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+- **[YORUM]** Kur'ân-ı Kerîm'in iktisadi ve cezai adalet nizamında dış dünyadaki mülkiyet emniyeti, kamu malı dokunulmazlığı ve sosyal adalet mimarisi (`âfâk`) ile insanın iç dünyasındaki kanaat, emanet ve helâl bilinci (`enfüs`) ayrılmaz bir ontolojik bütünlük oluşturur. **Mâide 5:38–39** âyetlerinin dış dünyada başkasının emeğini ve mülkünü gasp eden hırsızlık (*sirkat*), kamu kaynaklarını yağmalayan beyaz yakalı yolsuzluk (*gulûl*) ve açlık/yoksulluk kaynaklı sosyal krizlere karşı kurduğu hukuki denge (`âfâk` boyutu); kalpte mülkiyet gaspını doğuran tamah (*tama'*), doymak bilmez hırs (*şuhh*), *tûl-i emel* (dünyada hiç ölmeyecekmiş gibi biriktirme arzusu) ve kul hakkı duyarsızlığına karşı yürütülen içsel arınma mücadelesiyle (`enfüs` boyutu) doğrudan kenetlenmiştir. **Fussilet 41:53** ilkesi uyarınca, kendi iç dünyasında açgözlülük ve tamah hırsızlarının elini kesemeyen yöneticiler ve toplumlar, kamusal alanda yolsuzluk ve talanla mücadele edemez. Aynı şekilde Mâide 5:39'da açılan *"Kim zulmünün ardından tövbe eder ve durumunu ıslah ederse şüphesiz Allah onun tövbesini kabul eder"* rahmet kapısı, dışsal cezai rehabilitasyonun (`K3` karar kolu) ancak içsel nedâmet, helâlleşme ve kalp ıslahıyla tamamlanabileceğini göstermektedir.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın* — Gazzâlî & Muhâsibî Metodolojisi)
+- **[YORUM]** Zâhirî fıkıh (*fıkhü'z-zâhir*) hırsızlık suçunun maddi unsurlarını (*hırz*, *nisap*, *şüphe* ve *zarûret*) incelerken, kalp fıkhı (*fıkhü'l-bâtın*) insanı başkasının hakkına el uzatmaya sürükleyen bâtınî marazları tahlil eder. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn* adlı eserinin *Kitâbü Zemmi'l-Buhl ve Zemmi Hubbi'l-Mâl* (Beyrut: Dârü'l-Ma'rife, Cilt: 3, s. 231–260, [Dijital Doğrulama](https://shamela.ws/book/9472/231)) ve *Kitâbü'l-Helâl ve'l-Harâm* (Cilt: 2, s. 88–105, [Dijital Doğrulama](https://shamela.ws/book/9472/88)) bölümlerinde, mal sevgisi (*hubbü'l-mâl*) ve tamah illetinin kalp gözünü kör ederek insanı önce şüpheli kazançlara, ardından açık hıyanet ve gasba sürüklediğini ortaya koyar. **Hâris el-Muhâsibî** (ö. 243/857) ise *el-Mekâsib ve'l-Vera'* (thk. Abdülkâdir Ahmed Atâ, Beyrut: Müessesetü'l-Kütübi's-Sekâfiyye, 1987, s. 42–68, [Dijital Doğrulama](https://shamela.ws/book/9683/42)) eserinde *vera'* (şüpheli şeylerden sakınma) ve helâl lokma bilincini tüm ibadet ve adalet hayatının temeli sayar. Kalp fıkhında zengin ve muktedirlerin yoksulun hakkını (*zekât*, *infak* ve adil ücret) gasp etmesi, yoksulu çaresizliğe iten birincil bâtınî suçtur; nitekim Hz. Ömer'in (r.a.) Remâde kıtlığında haddi askıya alması (Mâlik, *el-Muvatta'*, 'Akdıye', 26), açlığın doğurduğu şüphenin yanı sıra toplumun sosyal dayanışma sınavındaki sorumluluğunu da tescil etmektedir.
+
+#### 13.3. Klasik İşârî / İrfânî Tahrîc (Kuşeyrî — *Letâ'ifü'l-İşârât* & Sehl et-Tüsterî)
+- **[NAKİL]** Klasik işârî tefsir geleneğinin kurucu imamlarından **Abdülkerîm el-Kuşeyrî** (ö. 465/1072), *Letâ'ifü'l-İşârât* adlı eserinde Mâide 5:38 âyetinin kalp ve nefis terbiyesindeki işârî anlamını şu lafızlarla tahrîc etmektedir:
+  > «والسارق والسارقة فاقطعوا أيديهما... الإشارة فيه: قطع أيدي الآمال عن استشراف ما في أيدي الخلق، وقطع أيدي النفوس عن التطاول إلى ما لم يقسم لها، بصدق التوكل والقناعة...»
+  > *"Hırsızlık eden erkek ve kadının ellerini kesin... Bu âyetteki irfânî işaret şudur: Halkın elindekilere göz dikip tamah etmekten emel ve hırs ellerini (eydiye'l-âmâl) kesin; nefislerin kendilerine taksim edilmeyen şeylere uzanan tamah ellerini sadık bir tevekkül, istiğnâ ve kanaat kılıcıyla kesin..."*
+  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 414–415 (krş. Sehl b. Abdillâh et-Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, 2002, s. 56, [Dijital Doğrulama](https://shamela.ws/book/23624/56)). **Dijital Kütüphane Bağlantısı:** [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=5&tAyahNo=38).
+- **[YORUM]** **İbare Tahlili:** İmam Kuşeyrî ve Sehl et-Tüsterî, âyetin kamu düzenini ve mülkiyet emniyetini koruyan zâhirî hükmünü temel kabul etmekle birlikte, *kat'* (kesme) emrini bâtınî düzlemde **kalbin halkın elindeki dünyalığa uzanan tamah ve *tûl-i emel* bağlarını kanaat ve *istiğnâ* ile kesmek** olarak tefsir etmektedir. Sehl et-Tüsterî'nin de işaret ettiği üzere, dışsal uzuv ancak kalp emanet ve kanaat sınırını ihlal ettiğinde hıyanete uzanır; dolayısıyla **Adım 15**'teki `K1` (sosyal güvence), `K2` (beyaz yakalı yolsuzluk denetimi) ve `K3` (`5:39` tövbe ve ıslah) politikalarının kalıcı başarısı, toplumda *kanaat*, *infak* ve *kul hakkı korkusu*nun (*kalp fıkhı*) inşasına bağlıdır.
 
 ---
 
@@ -551,11 +561,11 @@ Bu problematik şu derin adalet krizlerini doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579/1208
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1223
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/4826
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435/676
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/634
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/2357/19/1208
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/1223
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/4826
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/1143/15/676
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/634
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Transparency International (2024).** *Corruption Perceptions Index (CPI) 2024: Rule of Law & Public Integrity*. Berlin: Transparency International. https://www.transparency.org/en/cpi/2024. Erişim adresi: https://www.transparency.org

@@ -25,7 +25,7 @@ classical_sources:
     volume: "4"
     pages: "281"
     arabic_quote: "العين والراء والفاء أصلان صحيحان، يدلُّ أحدُهما على تتابُع الشئ متَّصلا بعضُه ببعض، والآخر على السكون والطُّمَأنينة."
-    verification_link: "https://shamela.ws/book/21710/1822"
+    verification_link: "https://shamela.ws/book/2171/10/1822"
     doi_or_urn: "urn:shamela:book:9193:v4:p281"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "561"
     arabic_quote: "الله يعلم كذا، ولا يقال: يَعْرِفُ كذا، لمّا كانت المَعْرِفَةُ تستعمل في العلم القاصر المتوصّل به"
-    verification_link: "https://shamela.ws/book/23636/543"
+    verification_link: "https://shamela.ws/book/2363/16/543"
     doi_or_urn: "urn:shamela:book:23629:v1:p560"
   - id: "cls-ibnmanzur"
     author: "İbn Manzûr, Muhammed b. Mükerrem"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "500"
     arabic_quote: "والشَّعْبُ: أَبو القبائِلِ الذي يَنْتَسِبُون إِليه أَي يَجْمَعُهُم ويَضُمُّهُم. وَفِي التَّنْزِيلِ: وَجَعَلْناكُمْ شُعُوباً وَقَبائِلَ لِتَعارَفُوا"
-    verification_link: "https://shamela.ws/book/1687/500"
+    verification_link: "https://shamela.ws/book/168/17/500"
     doi_or_urn: "urn:shamela:book:1687:v9:p236"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -64,7 +64,7 @@ classical_sources:
     volume: "21"
     pages: "383"
     arabic_quote: "﴿إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى﴾. قال: ما خَلَقَ اللَّهُ الولدَ إِلَّا مِن نطفةِ الرجلِ والمرأةِ جميعًا؛ لأنَّ اللَّهَ يقولُ: ﴿خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى﴾"
-    verification_link: "https://shamela.ws/book/7798/14442"
+    verification_link: "https://shamela.ws/book/779/18/14442"
     doi_or_urn: "urn:shamela:book:7798:v22:p309"
   - id: "cls-zemahseri"
     author: "Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer"
@@ -77,7 +77,7 @@ classical_sources:
     volume: "4"
     pages: "374"
     arabic_quote: "مِنْ ذَكَرٍ وَأُنْثى من آدم وحوّاء. وقيل: خلقنا كل واحد منكم من أب وأمّ، فما منكم أحد إلا وهو يدلى بمثل ما يدلى به الآخر سواء بسواء، فلا وجه للتفاخر والتفاضل في النسب. والشعب: الطبقة الأولى من"
-    verification_link: "https://shamela.ws/book/23627/2439"
+    verification_link: "https://shamela.ws/book/2362/17/2439"
     doi_or_urn: "urn:shamela:book:23627:v5:p586"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "26"
     pages: "258"
     arabic_quote: "وَالْمُرَادُ بِالذَّكْرِ وَالْأُنْثَى: آدَمُ وَحَوَّاءُ أَبَوَا الْبَشَرِ، بِقَرِينَةِ قَوْلِهِ وَجَعَلْناكُمْ شُعُوباً وَقَبائِلَ لِتَعارَفُوا"
-    verification_link: "https://shamela.ws/book/9776/9082"
+    verification_link: "https://shamela.ws/book/977/16/9082"
     doi_or_urn: "urn:shamela:book:9746:v26:p258"
 modern_sources:
   - id: "mod-wjp"
@@ -450,11 +450,25 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — ENFÜSÎ-ÂFÂKÎ DIALECTIC & SPIRITUAL ETHICS (KALP FIKHI / İRFÂNÎ-İŞÂRÎ LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Remembering `53:32` (*Do not boast of your own purity; He knows best who has taqwa*) and the closing warning of `49:13` (`Inna'llaha 'Alimun Khabir`): God looks neither at outer bodies nor at aristocratic pedigrees, but at hearts and deeds (Sahih Muslim).
-- **Outer Institutional Order (*Âfâk*):** Equal constitutional citizenship, blind meritocratic recruitment (`th-03`), anti-racism law (`th-01`), and cultural diplomacy (`ta'aruf`, `th-02`).
-- **Enfüs–Decision Bridge:** Because `akramakum 'inda'llahi atqakum` places final spiritual ranking in the unseen knowledge of God (`'inda'llah`), no earthly caste, race, or clergy can claim legal superiority in `STEP 15`.
+#### 13.1. Enfüsî-Âfâkî Dialectic (Ontological & Perceptual Level)
+In the external constitutional, legal, and international order (*âfâk*), Surah al-Hujurât 49:13 proclaims the universal charter of **ontological egalitarianism**: declaring that all human beings originate from a single male and female (`min dhakarin wa-unthâ`), abolishing racial supremacy, caste hierarchies, and xenophobia, and defining the purpose of nations and tribes (`shu'ûban wa-qabâ'ila`) as reciprocal recognition and cooperative enrichment (`li-ta'ârafû`). Yet according to the ontological mirror principle of Surah Fussilat 41:53 (*"We shall show them Our signs upon the horizons [âfâk] and within their own souls [enfüs]"*), outward racism, ethnocentrism, and tribal nepotism are the macrocosmic projection of an inward spiritual disease within the human conscience (*enfüs / kalp fıkhı*): **the pathology of Iblisian lineage pride** (*fakhr wa-tafâkhur*, modeled on Iblis's claim in al-A'râf 7:12: *"I am better than him; You created me from fire and created him from clay"*), self-conceit (*'ujb*), and the delusion of reducing piety (`taqwâ`) to external group identity. By declaring `inna akramakum 'inda'llâhi atqâkum` (*"Indeed the most noble of you in the sight of Allah is the most God-conscious of you"*), the verse emancipates human worth from biological accidents and relocates nobility solely in the unseen moral integrity of the heart before God (`'inda'llâh`).
+
+#### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
+In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, boasting of ancestry, ethnicity, or social class is diagnosed as a symptom of spiritual ignorance of one's own origin (*jahl bi'l-nafs*) and deep-seated arrogance (*kibr*):
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In *Bâb al-Kibr wa'l-'Ujb*, al-Muhâsibî demonstrates that exalting oneself over others on account of lineage or tribe—attributes in which a person has no moral agency—is a profound spiritual delusion (*ghurûr*) that seals the heart against humility, cured only by remembering that all humanity shares the same humble origin of clay and stands equal before Divine judgment (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 245–270; Digital access: [shamela.ws/book/9683/245](https://shamela.ws/book/9683/245)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Dhamm al-Kibr wa'l-'Ujb* (Condemnation of Arrogance and Self-Conceit, Vol. 3), al-Ghazâlî devotes a specific chapter to *Arrogance of Lineage* (*al-Takabbur bi'l-Nasab*), citing Surah al-Hujurât 49:13 as its definitive remedy. Al-Ghazâlî explains that whoever boasts of ancestry boasts of the bones of the dead while forgetting that his own origin is a drop of fluid and dust (`min dhakarin wa-unthâ`), and that true nobility before God (`akramakum 'inda'llâh`) resides exclusively in purifying the heart through *taqwâ* and humility (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 343–385; Digital access: [shamela.ws/book/9472/343](https://shamela.ws/book/9472/343)).
+- **Enfüs–Policy Bridge:** Because officials and citizens who harbor **the pathology of Iblisian lineage pride** in their conscience (*enfüs*) inevitably practice ethnic discrimination and clan nepotism in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` blind meritocratic public recruitment, `K2` active intercultural `ta'âruf` educational modules, and `K3` rapid anti-racism and digital-tribalism enforcement) institutionalize **ontological egalitarianism** in public law.
+
+#### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
+Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the progression from shared human creation (`min dhakarin wa-unthâ`) and mutual recognition (`li-ta'ârafû`) to `atqâkum` in al-Hujurât 49:13 as the effacement of egoistic pretension (*ru'yat al-nafs*) before the Majesty of God:
+- **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
+  - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Hujurât 49:13, al-Qushayrî records the following verbatim passage:
+    > «يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ... الإشارة فيه: ساوى بينهم في أصل الطينة لئلا يتعاظم أحد على أحد بشرف النسب... وإن أكرمكم عند الله أتقاكم: رفع أقدار المتقين بإسقاط رؤية النفوس، فمن تعزز بالطين ذل، ومن تشرف بالتقوى جل»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 441–442; Digital verification: [shamela.ws/book/23622/441](https://shamela.ws/book/23622/441) / [altafsir.com — Latâ'if al-Ishârât 49:13](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=13&tDisplay=yes)).*
+  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*), Ibn 'Ajîbah explains that while outward lineages serve merely for social acquaintance (`li-ta'ârafû`), true spiritual lineage is the heart's reverent awe (`taqwâ`) and nearness to God; whoever strips his heart of attachment to clay and lineage is elevated by God to true nobility (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 5, pp. 432–433; Digital access: [shamela.ws/book/11566/432](https://shamela.ws/book/11566/432)).
+  - `[ANALYSIS / YORUM]`: Al-Qushayrî's aphorism—*"He made them equal in the origin of their clay so that none would boast over another by nobility of lineage; and He elevated the rank of the God-conscious (`al-muttaqîn`) through their dropping of self-regard (`isqât ru'yat al-nufûs`): whoever seeks glory through clay (`al-tîn`) is humbled, and whoever seeks honor through God-consciousness (`al-taqwâ`) is exalted"*—provides the ultimate spiritual cure for racism and chauvinism. In the *irfânî* horizon, recognizing our shared humble origin liberates the human family for genuine mutual recognition (`ta'âruf`) grounded in humility and justice.
 
 ---
 
@@ -607,12 +621,12 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 4/281-284. Digital Verification: https://shamela.ws/book/21710/1822 (urn:shamela:book:9193:v4:p281).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/560-563. Digital Verification: https://shamela.ws/book/23636/543 (urn:shamela:book:23629:v1:p560).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Komisyon (Beyrut: Dârü Sâdır, 1410/1990), 9/236-240. Digital Verification: https://shamela.ws/book/1687/500 (urn:shamela:book:1687:v9:p236).
-[^4]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 22/309-312. Digital Verification: https://shamela.ws/book/7798/14442 (urn:shamela:book:7798:v22:p309).
-[^5]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd (Riyad: Mektebetü'l-Ubeykân, 1418/1998), 5/586-589. Digital Verification: https://shamela.ws/book/23627/2439 (urn:shamela:book:23627:v5:p586).
-[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 26/258-264. Digital Verification: https://shamela.ws/book/9776/9082 (urn:shamela:book:9746:v26:p258).
+[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 4/281-284. Digital Verification: https://shamela.ws/book/2171/10/1822 (urn:shamela:book:9193:v4:p281).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/560-563. Digital Verification: https://shamela.ws/book/2363/16/543 (urn:shamela:book:23629:v1:p560).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Komisyon (Beyrut: Dârü Sâdır, 1410/1990), 9/236-240. Digital Verification: https://shamela.ws/book/168/17/500 (urn:shamela:book:1687:v9:p236).
+[^4]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 22/309-312. Digital Verification: https://shamela.ws/book/779/18/14442 (urn:shamela:book:7798:v22:p309).
+[^5]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd (Riyad: Mektebetü'l-Ubeykân, 1418/1998), 5/586-589. Digital Verification: https://shamela.ws/book/2362/17/2439 (urn:shamela:book:23627:v5:p586).
+[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 26/258-264. Digital Verification: https://shamela.ws/book/977/16/9082 (urn:shamela:book:9746:v26:p258).
 [^7]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025: Equal Treatment and Absence of Discrimination (Factor 4.1)*. Washington, DC: WJP Press. DOI: doi:10.34648/wjp.2025.04. URL: https://worldjusticeproject.org
 [^8]: United Nations Development Programme (UNDP) (2025). *Human Development Report 2025: Breaking the Gridlock — Reimagining Cooperation in a Polarized World*. New York: United Nations Publications. DOI: doi:10.18356/9789213588758. URL: https://hdr.undp.org
 [^9]: UNESCO (2024). *Global Report on Racism and Discrimination: Fostering Intercultural Dialogue (Ta'aruf)*. Paris: UNESCO Publishing. DOI: doi:10.54678/UNES2024RACISM. URL: https://www.unesco.org

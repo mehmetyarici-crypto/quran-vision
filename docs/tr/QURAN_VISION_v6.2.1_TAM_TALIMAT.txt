@@ -1,16 +1,28 @@
 ================================================================================
-QURAN VISION ENSTİTÜSÜ • KUR'AN TEMELLİ GELECEK VİZYONU (QURAN VISION) — v6.2.1
+QURAN VISION ENSTİTÜSÜ • KUR'AN TEMELLİ GELECEK VİZYONU (QURAN VISION) — v6.2.2
 METODOLOJİ, 26 ADIMLI ANALİZ MİMARİSİ, İSNAD 2 / DOI DOĞRULAMA STANDARDI,
 ÇİFT DİLLİ (TR/EN) KÜLLİYAT MOTORU VE TAM UYGULAMA TALİMATNAMESİ
 ================================================================================
 
-• Sürüm                 : v6.2.1 (Külliyat, İSNAD 2 + APA 7/DOI, Çift Dilli A4 PDF, XMP ve CERN/Zenodo Tescil Sürümü)
-• Tarih                 : 15 Ekim 2026
-• Önceki Sürümler       : v5.1.3 -> v5.2.0 -> v6.0.0 -> v6.1.0 -> v6.1.1 -> v6.2.0 -> v6.2.1
-• Kapsam                : Katman 3 (Akademik-Derin); 5 Makro Faz, 26 Analiz Adımı, Z-1..Z-5 Zorunlu/Koşullu Ekler (Z-4.5 Çift Katmanlı Bibliyografya dahil), 40 Dakikalık TYMM Pedagojik Ders Planı ve Çift Dilli (TR/EN) Yayın Hattı
-• Kalıcı CERN/Zenodo DOI: 10.5281/zenodo.23391192 (Kavram DOI) | 10.5281/zenodo.23391193 (v6.2.1 Sürüm DOI)
+• Sürüm                 : v6.2.2 (Külliyat, İSNAD 2 + Lafzî Şâmile İktibası + Nokta Atışı page_id + Adım 13 Üçlü İrfânî Reform, Çift Dilli A4 PDF, XMP ve CERN/Zenodo Tescil Sürümü)
+• Tarih                 : 20 Ekim 2026
+• Önceki Sürümler       : v5.1.3 -> v5.2.0 -> v6.0.0 -> v6.1.0 -> v6.1.1 -> v6.2.0 -> v6.2.1 -> v6.2.2
+• Kapsam                : Katman 3 (Akademik-Derin); 5 Makro Faz, 26 Analiz Adımı, Z-1..Z-5 Zorunlu/Koşullu Ekler (Z-4.5 Çift Katmanlı Bibliyografya dahil), 40 Dakikalık TYMM Pedagojik Ders Planı ve Çift Dilli (TR/EN) Yayın Hattı (33 A4 PDF)
+• Kalıcı CERN/Zenodo DOI: 10.5281/zenodo.23391192 (Kavram DOI) | 10.5281/zenodo.23410818 (Sürüm DOI)
 • Canlı Külliyat Portalı: https://mehmetyarici-crypto.github.io/quran-vision/
 • Açık Bilim Lisansı    : Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+--------------------------------------------------------------------------------
+GELECEK TÜM ÂYET MONOGRAFİLERİ (QV-2026-016 VE SONRASI) İÇİN SARSILMAZ ANAYASAL STANDARTLAR
+--------------------------------------------------------------------------------
+1) Madde 1 (Lafzî İktibas İlkesi — nakl bi'l-lafz):
+   `classical_sources` altındaki `arabic_quote` alanına asla özet/telhîs metin yazılamaz; alıntı doğrudan el-Mektebetü'ş-Şâmile'deki orijinal metinden harfi harfine alınmalı ve tarayıcıda `Ctrl+F` yapıldığında %100 bulunmalıdır.
+2) Madde 2 (Nokta Atışı Sayfa ID Bağlantısı — page_id):
+   Genel kitap kapağı linkleri yasaktır; bağlantı mutlaka `https://shamela.ws/book/<book_id>/<page_id>` formatında cümlenin fiilen geçtiği sayfayı göstermelidir (`src/gem_lint.py` Kontrol A — BLOCK).
+3) Madde 3 (Gövde Metni Tahrîc ve Parantez Standardı):
+   Metin içindeki tüm hadisler Kütüb-i Sitte tahrîciyle (Buhârî, Müslim vb.), âyetler standart (Sûre Adı No/Âyet No) paranteziyle, ulemâ/sahâbe kavilleri ise İSNAD 2 matbu cilt/sayfa ve dijital bağlantısıyla belgelenmelidir.
+4) Madde 4 (Adım 13 Üçlü Bütünlük):
+   Adım 13 mutlaka 13.1 (Enfüsî-Âfâkî Diyalektik), 13.2 (Kalp Fıkhı / Bâtınî İlletler) ve 13.3 (Klasik İşârî Tahrîc — Kuşeyrî, Gazzâlî, Muhâsibî, Tüsterî metni) başlıklarıyla birleşik olarak yazılmalıdır (`src/gem_lint.py` Kontrol B — BLOCK).
 
 --------------------------------------------------------------------------------
 0. KURUMSAL KİMLİK, ESER SAHİPLİĞİ VE AKADEMİK DANIŞMA KÜNYESİ (SIFIR BELİRSİZLİK İLKESİ)
@@ -277,8 +289,10 @@ FAZ III — SINAMA, KARŞI OKUMA VE AHLAKÎ DEĞERLENDİRME (KALP FIKHI)
 • ADIM 12 — RED TEAM (KARŞIT OKUMA), SIÇRAMA DİNAMİKLERİ VE FALSİFİABİLİTE PROTOKOLÜ:
   Analizi zorlayan en güçlü karşı argümanlar, Siyah Kuğular ve Popperci Sınırlı Yanlışlanabilirlik Protokolü (`th-01..th-03`).
 
-• ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI:
-  Âyetin bireysel vicdan, niyet ve ahlaki muhasebe boyutu (`Enfüs`) ile kurumsal, hukuki ve medeni düzen boyutu (`Âfâk`) arasındaki karşılıklı etkileşim ve karar köprüsü.
+• ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN):
+  - 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+  - 13.2. Kalp Fıkhı ve Bâtınî İlletler (Fıkhü'l-Bâtın — Muhâsibî, Gazzâlî, Râgıb Metodolojisi)
+  - 13.3. Klasik İşârî ve İrfânî Tahrîc (Kuşeyrî Letâ'ifü'l-İşârât, Sehl et-Tüsterî, İbn Acîbe el-Bahrü'l-Medîd — Harekeli Arapça İktibas + İSNAD 2 Künyesi + Dijital Bağlantı)
 
 --------------------------------------------------------------------------------
 FAZ IV — BAYES GÜNCELLEMESİ, KARAR MİMARİSİ VE ETİK DENETİM

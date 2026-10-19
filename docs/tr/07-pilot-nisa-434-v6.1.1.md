@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "505"
     arabic_quote: "قَوَّامُونَ عَلَى النِّساءِ يقومون عليهن آمرين ناهين، كما يقوم الولاة على الرعايا. وسموا قوّما لذلك. والضمير في بَعْضَهُمْ للرجال والنساء جميعاً، يعنى إنما كانوا مسيطرين عليهن"
-    verification_link: "https://shamela.ws/book/23627/508"
+    verification_link: "https://shamela.ws/book/2362/17/508"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "5"
     pages: "43"
     arabic_quote: "القاف والواو * والميم أصلانِ صحيحان، يدلُّ أحدُهما على جماعةِ ناسٍ، وربَّما استُعِير فى غيرهمْ، والآخَر على انتصابٍ أو عَزْم."
-    verification_link: "https://shamela.ws/book/21710/2096"
+    verification_link: "https://shamela.ws/book/2171/10/2096"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "12"
     pages: "498"
     arabic_quote: "فُسِّرَ عَلَى وَجْهَيْنِ: قِيلَ هُوَ الاسْتقامة عَلَى الطَّاعَةِ، وَقِيلَ هُوَ تَرْكُ"
-    verification_link: "https://shamela.ws/book/1687/6411"
+    verification_link: "https://shamela.ws/book/168/17/6411"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "3"
     pages: "148"
     arabic_quote: "إنَّمَا قَالَ ذَلِكَ قَبْلَ نُزُولِ هَذِهِ الْآيَةِ الَّتِي فِيهَا إبَاحَةُ الضَّرْبِ عِنْدَ النُّشُوزِ لِأَنَّ قَوْله تَعَالَى الرِّجالُ قَوَّامُونَ عَلَى النِّساءِ-"
-    verification_link: "https://shamela.ws/book/23579/918"
+    verification_link: "https://shamela.ws/book/2357/19/918"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "20"
     arabic_quote: "وَمَجْمُوعُ الضَّرُورِيَّاتِ خَمْسَةٌ، وَهِيَ٤: حِفْظُ الدِّينِ، وَالنَّفْسِ، وَالنَّسْلِ، وَالْمَالِ، وَالْعَقْلِ، وَقَدْ قَالُوا: إِنَّهَا مُرَاعَاةٌ في كل ملة٥."
-    verification_link: "https://shamela.ws/book/11435/678"
+    verification_link: "https://shamela.ws/book/1143/15/678"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -399,10 +399,20 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüsî Tevil:** Kişinin kendi iç dünyasında akıl ve ruh, nefis ve heves üzerinde kavvâmdır. Akıl nefsi ezmek için değil; onu erdemle terbiye etmekle mükelleftir. Nefis isyan ettiğinde (`nüşûz`), akıl önce vicdanla öğüt verir, sonra hevesleri yalnız bırakır, en son kararlı bir irade müdahalesiyle hizaya sokar.
-- **Enfüsî-Karar Köprüsü:** Kendi nefsine söz geçiremeyen bir koca, ailesinde adil bir yönetici olamaz, şiddete ve tiranlığa sapar. Âyetin sonundaki `عَلِيًّۭا كَبِيرًۭا` uyarısı doğrudan erkeğin kibrini kırmaya yöneliktir.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+- **[YORUM]** Kur'ân-ı Kerîm'in aile ve toplum mimarisinde dış dünyadaki hane içi adalet, meveddet ve rahmet düzeni (`âfâk`) ile insanın kendi iç dünyasındaki nefis, akıl ve kalp dengesi (`enfüs`) birbirinin ontolojik aynasıdır. **Nisâ 4:34–35** âyetlerinin dış dünyada aile içi şiddeti, keyfî erkek tahakkümünü, nafaka/koruma ihmalini ve evlilik birliğinin parçalanmasını önlemek üzere kurduğu hukuki ve ahlâkî kalkan (`âfâk` boyutu); bireyin iç dünyasında nefsin tahakküm şehveti (*hubbü't-tasallut*), enâniyet kibri, şefkat yoksunluğu (*kasvet-i kalb*) ve ilâhî emaneti şahsi mülkiyet sanma yanılgısına karşı yürütülen içsel terbiyeyle (`enfüs` boyutu) doğrudan bütünleşiktir. **Fussilet 41:53** ilkesi uyarınca, kendi iç dünyasında öfkesine ve nefs-i emmâresine söz geçiremeyen bir kimse, hanesinde adil ve müşfik bir *kavvâm* (koruyucu ve gözetici hizmetkâr) olamaz; gücü tiranlığa ve şiddete alet eder. Âyetteki `kavvâmûn` kavramı zorbalık veya ontolojik üstünlük imtiyazı değil, ağır bir emanet ve hizmet nöbetidir; âyetin hemen sonundaki `innallâhe kâne aliyyen kebîrâ` (*"Şüphesiz Allah çok yücedir, çok büyüktür"*) ihtarı ise doğrudan erkeğin nefsânî kibrini ve güç vehmini kırmaya matuftur. Bu sebeple **Adım 15**'teki `K1` (evlilik öncesi ahlâk ve iletişim eğitimi) ve `K2` (`4:35` hakemli sulh ve şiddetsizlik) karar kolları, içsel öfke kontrolü ve emanet bilinci şartına bağlanmıştır.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın* — Gazzâlî & Muhâsibî Metodolojisi)
+- **[YORUM]** Zâhirî fıkıh evlilik akdinin mali ve hukuki sınırlarını düzenlerken, kalp fıkhı (*fıkhü'l-bâtın*) eşler arasındaki ülfeti kemiren gizli kalp hastalıklarını teşhis ve tedavi eder. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn* adlı eserinin *Kitâbü Âdâbi'n-Nikâh* (Beyrut: Dârü'l-Ma'rife, Cilt: 2, s. 42–56, [Dijital Doğrulama](https://shamela.ws/book/9472/42)) ve *Kitâbü Zemmi'l-Kibr ve'l-Ucb* (Cilt: 3, s. 343–355, [Dijital Doğrulama](https://shamela.ws/book/9472/343)) bölümlerinde, hane içinde gerçek kemâlin "eşe sadece iyilik yapmaktan ibaret olmadığını, asıl kemâlin eşten gelebilecek eziyetlere sabredip öfke anında Hz. Peygamber'in (s.a.v.) hilm ve şefkat sünnetini kuşanmak olduğunu" vurgular. **Hâris el-Muhâsibî**'nin (ö. 243/857) *er-Ri'âye li-Hukûkillâh* (thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 210–218, [Dijital Doğrulama](https://shamela.ws/book/12095/210)) eserinde tahlil ettiği üzere, nefis kendi tahakküm ve intikam arzusunu "hanede nizamı sağlama" maskesi altında gizleyerek kalbi katılaştırır (*kasvet*). Nitekim Hz. Peygamber'in (s.a.v.) *"Gerçek pehlivan güreşte rakibini yenen değil, öfke anında kendi nefsine hâkim olandır"* (Buhârî, *Edeb*, 76, Hadis No: 6114; Müslim, *Birr*, 107, Hadis No: 2609) ve Veda Hutbesi'ndeki *"Kadınlar hakkında Allah'tan korkunuz; çünkü siz onları Allah'ın emanetiyle aldınız"* (Müslim, *Hac*, 147, Hadis No: 1218) nebevî ölçüleri, kalp fıkhında fiziki veya psikolojik şiddeti nefsin acziyeti ve emanete hıyanet olarak mahkûm etmektedir.
+
+#### 13.3. Klasik İşârî / İrfânî Tahrîc (Kuşeyrî — *Letâ'ifü'l-İşârât* & İbn Acîbe)
+- **[NAKİL]** Klasik işârî tefsir geleneğinin büyük imamı **Abdülkerîm el-Kuşeyrî** (ö. 465/1072), *Letâ'ifü'l-İşârât* adlı eserinde Nisâ 4:34 âyetindeki *kıvâm* ve *nüşûz* kavramlarının insanın iç dünyasındaki irfânî karşılığını şu lafızlarla tahrîc etmektedir:
+  > «الرجال قوامون على النساء... الإشارة فيه: قيام العقول والقلوب على النفوس والطباع؛ فالنفوس إذا نشزت بالميل إلى الشهوات والكسل عن الطاعات، فحق القلوب أن تعظها بالتذكير، ثم تهجرها بقطع المألوفات، ثم تضربها بسياط المجاهدات...»
+  > *"Erkekler kadınlar üzerinde kavvâmdırlar (koruyup gözetendirler)... Bu âyetteki irfânî işaret şudur: Akıllar ve kalpler, nefisler ve beşerî tabiatlar üzerinde kavvâm (nöbetçi ve yöneticidir). Nefisler şehvetlere meylederek ve itaatlerden tembellik göstererek serkeşlik ettiğinde (nüşûz), kalplerin görevi önce onlara tefekkür ve öğütle vaaz etmek, ardından alışkanlıklarını ve heveslerini terk ederek onları yalnız bırakmak, nihayet mücâhede kamçılarıyla nefsi terbiye etmektir..."*
+  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 331–332 (krş. Ahmed b. Muhammed İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kâhire, 1999, Cilt: 1, s. 502–504). **Dijital Kütüphane Bağlantısı:** [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=4&tAyahNo=34).
+- **[YORUM]** **İbare Tahlili:** İmam Kuşeyrî ve İbn Acîbe, âyetin aile hukukundaki zâhirî çerçevesini korurken, *kavvâm*lığı dışsal bir tahakküm aracı olmaktan çıkarıp insanın kendi içindeki **akıl ve kalbin, nefs-i emmâre ve hevesler üzerindeki iradî nöbeti** olarak tefsir etmektedir. Bu irfânî okumaya göre kul, terbiye ve tedip iradesini dışarıdaki eşine zulmetmeye değil; kendi iç dünyasında ilâhî emre baş kaldıran (*nüşûz* eden) kibirli ve şehvânî nefsini *zühd ve mücâhede* ile ıslah etmeye yöneltmelidir. İç dünyasında aklı ve kalbi nefsine *kavvâm* olamayan bir kimsenin, aile yuvasında *sekînet* ve *merhamet* (Rûm 30:21) inşa etmesi imkânsızdır.
 
 ---
 
@@ -567,11 +577,11 @@ Bu problematik şu çözülmesi güç düğümleri barındırır:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579/918
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/2096
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/6411
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435/678
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/508
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/2357/19/918
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/2096
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/6411
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/1143/15/678
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/508
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **United Nations Development Programme [UNDP] (2024).** *Gender Inequality Index (GII) & Human Development Report 2024*. New York: UNDP. Erişim adresi: https://hdr.undp.org

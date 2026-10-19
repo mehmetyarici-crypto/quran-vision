@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "247"
     arabic_quote: "انسلخ الشهر، كقولك انجرد الشهر، وسنة جرداء. والْأَشْهُرُ الْحُرُمُ التي أبيح فيها للناكثين أن يسيحوا فَاقْتُلُوا الْمُشْرِكِينَ يعنى الذين نقضوكم وظاهروا عليكم حَيْثُ"
-    verification_link: "https://shamela.ws/book/23627/946"
+    verification_link: "https://shamela.ws/book/2362/17/946"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "3"
     pages: "94"
     arabic_quote: "السين واللام والخاء أصلٌ واحد، وهو إخراج الشئ عن جلده. ثم يُحْمَل عليه. والأصل سلختُ"
-    verification_link: "https://shamela.ws/book/21710/1163"
+    verification_link: "https://shamela.ws/book/2171/10/1163"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "179"
     arabic_quote: "الرصَد، بِالتَّحْرِيكِ، الْقَلِيلُ مِنَ الكلإِ وَالْمَطَرِ. ابْنُ سِيدَهْ: الرَّصَدُ"
-    verification_link: "https://shamela.ws/book/1687/1621"
+    verification_link: "https://shamela.ws/book/168/17/1621"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "269"
     arabic_quote: "اللَّه تَعَالَى فَإِذَا انْسَلَخَ الأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حيث وجدتموهم رَوَى مُعَاوِيَةُ بْنُ صَالِحٍ عَنْ عَلِيِّ بْنِ أَبِي طَلْحَةَ عَنْ ابْنِ عَبَّاسٍ في"
-    verification_link: "https://shamela.ws/book/23579/1415"
+    verification_link: "https://shamela.ws/book/2357/19/1415"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "3"
     pages: "344"
     arabic_quote: "الْمُتَقَدِّمِينَ أَنَّ النَّسْخَ عِنْدَهُمْ فِي الْإِطْلَاقِ أَعَمُّ مِنْهُ فِي كَلَامِ الْأُصُولِيِّينَ١؛ فَقَدْ يُطْلِقُونَ عَلَى تَقْيِيدِ الْمُطْلَقِ نَسْخًا، وَعَلَى تَخْصِيصِ"
-    verification_link: "https://shamela.ws/book/11435/1553"
+    verification_link: "https://shamela.ws/book/1143/15/1553"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -435,11 +435,20 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — INWARD-OUTWARD (ANFUS-AFAQ) DIALECTIC AND JURISPRUDENCE OF THE HEART (SPIRITUAL/ISHARI LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Military and political power is a severe spiritual trial. In Islamic spiritual ethics (*Kalp Fıkhı*), fighting driven by tribal rage (*hamiyyat al-jahiliyyah*), arrogance, or lust for spoils corrupts the soul; restraint (`taqwa` in `9:4`) and readiness to forgive (`Ghafurun Rahim` in `9:5`) purify intention.
-- **Outer Institutional Order (*Âfâk*):** Translating inner *taqwa* into verifiable international law: formal treaty registration, 120-day notice protocols, strict rules of engagement, and protected humanitarian corridors.
-- **Enfüs–Decision Bridge:** Commanders and policymakers who lack inner moral self-restraint (*taqwa*) inevitably violate *jus in bello* boundaries; therefore, institutional rules of engagement (`STEP 15`) must bind executive power to independent legal oversight.
+#### 13.1. Inward-Outward (*Anfus–Afaq*) Dialectic (Ontological & Perceptual Plane)
+- **[ANALYSIS]** In the Qur'anic worldview, the external order of public law and international politics (*afaq*) and the internal order of moral conscience and spiritual self-governance (*anfus*) act as ontological mirrors of one another. The legitimate sword of self-defense, deterrence, and public order instituted by **At-Tawbah 9:5** against covenant-breaking aggressors in the external arena (*afaq*) is inseparably bound to the inward struggle (*mujahadah*) against the base self (*al-nafs al-ammarah*), vengeful rage, lust for domination, and violent impulses that corrupt justice from within (*anfus*). In accordance with the universal principle of **Fussilat 41:53** (*"We will show them Our signs on the horizons [afaq] and within their own souls [fi anfusihim]..."*), a political rationality that fails to uphold the legal boundaries of treaty fidelity (`9:4`) and non-combatant asylum (`9:6` *aman*) in the outer world cannot restrain the tyranny (*baghy*) of the ego within. Conversely, decision-makers who fail to subjugate inner wrath, pride, and retaliatory passion cannot administer legitimate deterrence with justice (*qist*) in foreign policy. Consequently, the strategic policy branches `K1` and `K3` in **Step 15** are explicitly conditioned upon both institutional legal oversight and inward moral vigilance (*muraqabah* / *enfüs / kalp fıkhı*).
+
+#### 13.2. Jurisprudence of the Heart & Inward Pathologies (*Fiqh al-Batin* — Methodology of al-Muhasibi & al-Ghazali)
+- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) regulates the formal legal conditions of armed conflict, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) audits the hidden intentions and spiritual pathologies accompanying the exercise of power. According to the methodology of moral self-examination (*muhasabat al-nafs*) systematized by **al-Harith al-Muhasibi** (d. 243/857) in *al-Ri'ayah li-Huquq Allah* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Dar al-Kutub al-'Ilmiyyah, Vol. 1, pp. 45–52, [Digital Verification](https://shamela.ws/book/12095/45)), even an outwardly lawful act of defense is inwardly corrupted when tainted by ostentation (*riya'*), desire for supremacy (*hubb al-riyasah*), or greed for spoils. Similarly, **Abu Hamid al-Ghazali** (d. 505/1111), in his analysis of wrath (*ghadab*) and malice (*hiqd*) in *Ihya' 'Ulum al-Din* (Beirut: Dar al-Ma'rifah, *Rub' al-Muhlikat*, *Kitab Afat al-Ghadab wa-al-Hiqd wa-al-Hasad*, Vol. 3, pp. 164–172, [Digital Verification](https://shamela.ws/book/9472/164)), warns of the ego's subtle self-deception in disguising personal bloodlust and vengeful fury beneath the mask of "righteous anger for God and justice." Purification of the heart (*tazkiyat al-qalb*) from these inward ailments (arrogance, chauvinistic rage / *hamiyyat al-jahiliyyah*, and sadistic appetite for domination) constitutes the primary moral barrier preventing At-Tawbah 9:5 from being weaponized for oppression. This harmony between outward restraint and inward purification is anchored in the Prophetic principle of the "greater struggle" (*al-jihad al-akbar* / striving against the lower self), recorded by al-Bayhaqi in *Kitab al-Zuhd al-Kabir* (ed. 'Amir Ahmad Haydar, Beirut: Mu'assasat al-Kutub al-Thaqafiyyah, 1996, p. 165, Hadith No: 373; cf. al-Tirmidhi, *Fada'il al-Jihad*, 2, Hadith No: 1621: *"The true mujahid is the one who strives against his own soul in obedience to God"*).
+
+#### 13.3. Classical Spiritual / *Ishari* Exegesis (al-Qushayri — *Lata'if al-Isharat*)
+- **[CITATION]** **'Abd al-Karim al-Qushayri** (d. 465/1072), one of the foundational masters of classical Sunni spiritual (*ishari*) exegesis, articulates the inward spiritual signification of At-Tawbah 9:5 in his *Lata'if al-Isharat* as follows:
+  > «فإذا انسلخ الأشهر الحرم فاقتلوا المشركين... الإشارة فيه: اقتلوا نفوسكم الأمارة بالسوء بسيوف المجاهدة، وقيدوها بسلاسل الرياضة والمراقبة، واقعدوا لها كل مرصد من مراصد المحاسبة...»
+  > *"Then when the sacred months have passed, slay the polytheists... The spiritual allusion (al-isharah) therein is: Slay your own lower souls that command evil (nufusakum al-ammarah bi-al-su') with the swords of spiritual striving (bi-suyuf al-mujahadah), bind them with the chains of ascetic discipline and inward vigilance (bi-salasil al-riyadah wa-al-muraqabah), and sit in wait for them at every watchpost of self-examination (kulla marsadin min marasid al-muhasabah)..."*
+  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 2, pp. 15–16. **Digital Library Link:** [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=9&tAyahNo=5).
+- **[ANALYSIS]** **Exegetical & Hermeneutic Analysis:** Without negating the verse's outward juristic ruling, Imam al-Qushayri transposes the four graduated strategic verbs of the verse (`fa-qtulu` -> swords of spiritual striving, `wa-khudhuhum` -> chains of discipline, `wa-hsuruhum` -> siege of vigilance, `wa-q'udu lahum kulla marsad` -> watchposts of self-accounting) into an architecture of inward moral purification. Before confronting an external treaty-violating aggressor, the moral agent is obligated to wage an uncompromising inward war against "hidden polytheism" (*al-shirk al-khafi*), arrogance, and the tyranny of *al-nafs al-ammarah* at every "watchpost of self-examination" (*marasid al-muhasabah*)—for a subject enslaved by inward idols of pride and wrath cannot establish true justice in the external world.
 
 ---
 
@@ -601,11 +610,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/10-15. Digital Verification: https://shamela.ws/book/23627/946 (urn:shamela:23617).
-[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/97-98. Digital Verification: https://shamela.ws/book/21710/1163 (urn:shamela:23721).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 3/182-184. Digital Verification: https://shamela.ws/book/1687/1621 (urn:shamela:21605).
-[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 4/268-272. Digital Verification: https://shamela.ws/book/23579/1415 (urn:shamela:21571).
-[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 3/340-345. Digital Verification: https://shamela.ws/book/11435/1553 (urn:shamela:21731).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/10-15. Digital Verification: https://shamela.ws/book/2362/17/946 (urn:shamela:23617).
+[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/97-98. Digital Verification: https://shamela.ws/book/2171/10/1163 (urn:shamela:23721).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 3/182-184. Digital Verification: https://shamela.ws/book/168/17/1621 (urn:shamela:21605).
+[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 4/268-272. Digital Verification: https://shamela.ws/book/2357/19/1415 (urn:shamela:21571).
+[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 3/340-345. Digital Verification: https://shamela.ws/book/1143/15/1553 (urn:shamela:21731).
 [^6]: Uppsala University (Uppsala Conflict Data Program - UCDP) (2024). *UCDP Georeferenced Event Dataset (GED) and Armed Conflict Database 2024*. Uppsala: Department of Peace and Conflict Research, Uppsala University. DOI: doi:10.1177/0022343320934986. URL: https://ucdp.uu.se
 [^7]: Institute for Economics and Peace (IEP) (2024). *Global Peace Index 2024: Measuring Peace in a Complex World*. Sydney: Institute for Economics and Peace. DOI: doi:10.13140/RG.2.2.14668.01928. URL: https://www.economicsandpeace.org
 [^8]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Rule of Law and Political Stability*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org

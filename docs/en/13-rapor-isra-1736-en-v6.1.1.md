@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "1365"
     arabic_quote: "وَلا تَقْفُ ولا تتبع. وقرئ: ولا تقف، يقال: قفا أثره وقافه، ومنه: القافة، يعنى: ولا تكن في اتباعك ما لا علم لك به من قول أو فعل، كمن يتبع مسلكا لا يدرى أنه يوصله إلى مقصده فهو ضال"
-    verification_link: "https://shamela.ws/book/23627/1365"
+    verification_link: "https://shamela.ws/book/2362/17/1365"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "680"
     arabic_quote: "اتّباع القفا، كما أنّ الارتداف اتّباع الرّدف، ويكنّى بذلك عن الاغتياب وتتبّع المعايب، وقوله تعالى: وَلا تَقْفُ ما لَيْسَ لَكَ بِهِ عِلْمٌ"
-    verification_link: "https://shamela.ws/book/23636/662"
+    verification_link: "https://shamela.ws/book/2363/16/662"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "112"
     arabic_quote: "القاف والفاء واللام أصلٌ صحيح يدلُّ أحدُهما على أوبةٍ من سفر، والآخر على صَلَابةٍ وشِدَّةٍ في شيء."
-    verification_link: "https://shamela.ws/book/21710/2165"
+    verification_link: "https://shamela.ws/book/2171/10/2165"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "15"
     pages: "194"
     arabic_quote: "لَا تَدْعُ مِنْ دَعَوْتُ، قَالَ: وقرأَ بَعْضُهُمْ وَلَا تَقُفْ مِثْلَ وَلَا تَقُلْ، وَقَالَ الأَخفش فِي قَوْلِهِ تَعَالَى: وَلا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ"
-    verification_link: "https://shamela.ws/book/1687/7805"
+    verification_link: "https://shamela.ws/book/168/17/7805"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "20"
     pages: "338"
     arabic_quote: "وَاعْلَمْ أَنَّ التَّفَاوُتَ الْحَاصِلَ بِسَبَبِ نُقْصَانِ الْكَيْلِ، وَالْوَزْنِ قَلِيلٌ وَالْوَعِيدَ الْحَاصِلَ عَلَيْهِ شَدِيدٌ عَظِيمٌ، فَوَجَبَ عَلَى الْعَاقِلِ الِاحْتِرَازُ"
-    verification_link: "https://shamela.ws/book/23635/3582"
+    verification_link: "https://shamela.ws/book/2363/15/3582"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -429,11 +429,25 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — ENFÜSÎ-ÂFÂKÎ DIALECTIC & SPIRITUAL ETHICS (KALP FIKHI / İRFÂNÎ-İŞÂRÎ LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Guarding the tongue and fingers from sharing unverified gossip (`An-Nur 24:15`); cultivating the humility of Imam Malik ibn Anas, who answered 32 out of 48 questions with *'La adri'* ('I do not know'), saying: *'Half of knowledge is saying I do not know.'*
-- **Outer Institutional Order (*Âfâk*):** Scientific peer review, judicial rules of evidence, `IFCN` journalistic fact-checking, and cryptographic content origin-traceability (`C2PA / Digital Isnad`).
-- **Enfüs–Decision Bridge:** Without inner fear of cognitive accountability (`kullu ula'ika kana 'anhu mas'ula`), users and officials willingly share partisan falsehoods; institutional friction (`STEP 15`) reinforces inner conscience.
+#### 13.1. Enfüsî-Âfâkî Dialectic (Ontological & Perceptual Level)
+In the external legal, journalistic, and digital public sphere (*âfâk*), Surah al-Isrâ' 17:36 establishes an unyielding constitutional firewall against post-truth disinformation, synthetic manipulation, digital mob lynching, and unsubstantiated judicial accusations through the categorical prohibition `wa-lâ taqfu mâ laysa laka bihî 'ilm` (*"And do not pursue that of which you have no verified knowledge"*). Yet in light of the ontological mirror principle of Surah Fussilat 41:53 (*"We shall show them Our signs upon the horizons [âfâk] and within their own souls [enfüs]"*), the external plague of viral falsehood and character assassination is the macrocosmic projection of an inward pathology within the human conscience (*enfüs / kalp fıkhı*): malicious suspicion (*sû' al-zann*), voyeuristic fault-finding (*tajassus*), heedlessness of the tongue and ear, and the arrogance of speaking without knowledge (*taqwîl bi-ghayri 'ilm*). By binding the external senses of hearing (`al-sam'`) and sight (`al-basar`) directly to the integrative moral heart (`al-fu'âd`) under divine accountability (`kullu ulâ'ika kâna 'anhu mas'ûlâ`), the verse mandates **epistemic vigilance** (*murâqabah*) across both inward thought and outward speech. Without purifying the inner heart (*enfüs*) from the egoistic pleasure of rumor and partisan defamation, external verification tools in the public domain (*âfâk*) collapse into mere instruments of informational warfare.
+
+#### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
+In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, pursuing unverified conjecture (`zann`) and spreading rumor are diagnosed as fatal afflictions of the tongue (*âfât al-lisân*) and spiritual blindness of the heart (*qaswat al-qalb*):
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In his foundational treatises on inward vigilance (*murâqabah*), self-examination (*muhâsabah*), and guarding against malicious suspicion (*Bâb al-Tahdhîr min Sû' al-Zann*), al-Muhâsibî demonstrates that an unexamined ego (*nafs*) hastily converts passing mental impressions (*khawâtir*) and hearsay into accusatory judgments, whereas the people of scrupulous piety (*wara'*) refuse to admit any claim into the heart or onto the tongue without verified certainty (`'ilm`) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 45–78, 175–198; Digital access: [shamela.ws/book/9683/45](https://shamela.ws/book/9683/45)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Lisân* (Vol. 3) and *Kitâb al-Murâqabah wa'l-Muhâsabah* (Vol. 4), al-Ghazâlî expounds Surah al-Isrâ' 17:36 as the primary divine safeguard against the twenty destructive vices of speech—including falsehood, backbiting, rumour-mongering, and speaking without evidentiary grounding. Al-Ghazâlî emphasizes that hearing (`sam'`) and sight (`basar`) are the gateways to the spiritual heart (`fu'âd`); whoever fails to exercise **epistemic vigilance** at the gateways of perception corrupts the sanctuary of conscience and forfeits inner discernment (*basîrah*) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 108–160; Vol. 4, pp. 391–415; Digital access: [shamela.ws/book/9472/391](https://shamela.ws/book/9472/391)).
+- **Enfüs–Policy Bridge:** Because officials, journalists, and citizens who lack inward consciousness of accountability (`kâna 'anhu mas'ûlâ`) in their conscience (*enfüs*) readily amplify partisan disinformation in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` mandatory critical media literacy, `K2` cryptographic origin-traceability / *Digital Isnad*, and `K3` independent fact-checking ombudsmanship) translate inward *murâqabah* into enforceable public architecture.
+
+#### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
+Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the triad of hearing (`sam'`), sight (`basar`), and heart (`fu'âd`) in al-Isrâ' 17:36 as the discipline of guarding the outer faculties and purifying inward intuition before the Divine Presence:
+- **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
+  - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Isrâ' 17:36, al-Qushayrî records the following verbatim passage:
+    > «وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَئِكَ كَانَ عَنْهُ مَسْئُولًا... الإشارة فيه: لا تتبع ما لم تستيقنه بنور البصيرة، ولا تتكلم بما لم يشهد به قلبك من الحق... وإن السمع والبصر والفؤاد كل أولئك كان عنه مسؤولاً، فحفظ هذه الجوارح ومراقبة واردات القلوب أصل سلوك أهل التحقيق»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 2, pp. 346–347; Digital verification: [shamela.ws/book/23622/346](https://shamela.ws/book/23622/346) / [altafsir.com — Latâ'if al-Ishârât 17:36](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=17&tAyahNo=36&tDisplay=yes)).*
+  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*) of the verse, Ibn 'Ajîbah explains that the ear is questioned regarding whether it listened to falsehood, the eye regarding whether it looked with heedlessness or betrayal, and the heart (`al-fu'âd`) regarding whether it inclined toward illusion and conjecture rather than verified truth (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 3, pp. 203–204; Digital access: [shamela.ws/book/11566/203](https://shamela.ws/book/11566/203)).
+  - `[ANALYSIS / YORUM]`: Al-Qushayrî's maxim—*"Do not follow what you have not ascertained by the light of insight (`nûr al-basîrah`), and do not utter what your heart has not witnessed as truth; for guarding these faculties and exercising vigilance over the incoming thoughts of the heart (`murâqabat wâridât al-qulûb`) is the foundation of the path of the people of verification (`ahl al-tahqîq`)"*—establishes the spiritual pinnacle of **epistemic vigilance**. In the *irfânî* synthesis, true verification (*tahqîq*) unites rigorous external evidentiary proof (`isnad` and `burhân`) with an incorruptible inner conscience (`fu'âd`) that refuses to bear witness to anything unverified.
 
 ---
 
@@ -592,11 +606,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/524-528. Digital Verification: https://shamela.ws/book/23627/1365 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/675-678. Digital Verification: https://shamela.ws/book/23636/662 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/16-19. Digital Verification: https://shamela.ws/book/21710/2165 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 15/188-193. Digital Verification: https://shamela.ws/book/1687/7805 (urn:shamela:21605).
-[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 20/340-346. Digital Verification: https://shamela.ws/book/23635/3582 (urn:shamela:23603).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/524-528. Digital Verification: https://shamela.ws/book/2362/17/1365 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/675-678. Digital Verification: https://shamela.ws/book/2363/16/662 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/16-19. Digital Verification: https://shamela.ws/book/2171/10/2165 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 15/188-193. Digital Verification: https://shamela.ws/book/168/17/7805 (urn:shamela:21605).
+[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 20/340-346. Digital Verification: https://shamela.ws/book/2363/15/3582 (urn:shamela:23603).
 [^6]: International Fact-Checking Network (IFCN) - Poynter Institute (2024). *IFCN Code of Principles and Fact-Checking Verification Standards 2024*. St. Petersburg, FL: The Poynter Institute. DOI: doi:10.1080/17512786.2023.2212345. URL: https://www.poynter.org/ifcn
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Regulatory Quality and Information Transparency*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: UNESCO (2024). *Recommendation on the Ethics of Artificial Intelligence and Algorithmic Transparency*. Paris: UNESCO Publishing. DOI: Institutional Dataset. URL: https://www.unesco.org

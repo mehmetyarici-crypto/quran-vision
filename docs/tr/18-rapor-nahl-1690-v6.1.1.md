@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "1328"
     arabic_quote: "تحت طاقتهم وَالْإِحْسانِ الندب، وإنما علق أمره بهما جميعاً، لأنّ الفرض لا بدّ من أن يقع فيه تفريط"
-    verification_link: "https://shamela.ws/book/23627/1328"
+    verification_link: "https://shamela.ws/book/2362/17/1328"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "552"
     arabic_quote: "النحل/ ٩٠] ، فإنّ العَدْلَ هو المساواة في المكافأة إن خيرا فخير، وإن شرّا فشرّ، والإحسان أن يقابل الخير بأكثر منه، والشرّ بأقلّ منه، ورجلٌ عَدْلٌ: عَادِلٌ، ورجالٌ عَدْلٌ، يقال في الواحد والجمع، قال الشاعر: ٣١١-"
-    verification_link: "https://shamela.ws/book/23636/534"
+    verification_link: "https://shamela.ws/book/2363/16/534"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "4"
     pages: "246"
     arabic_quote: "العين والدال واللام أصلان صحيحان، لكنَّهما متقابلان كالمتضادَّين: أحدُهما يدلُّ على استواء، والآخر يدلُّ على اعوجاج."
-    verification_link: "https://shamela.ws/book/21710/1787"
+    verification_link: "https://shamela.ws/book/2171/10/1787"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430"
     arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
-    verification_link: "https://shamela.ws/book/1687/5608"
+    verification_link: "https://shamela.ws/book/168/17/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "14"
     pages: "337"
     arabic_quote: "عن عامرٍ، عن شُتَيْرِ بنِ شَكَلٍ، قال: سَمِعْتُ عبدَ اللهِ يقولُ: إن أجمعَ آيةٍ في القرآنِ في سورةِ النحلِ: ﴿إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى﴾ إِلى آخرِ الآيةِ"
-    verification_link: "https://shamela.ws/book/7798/9798"
+    verification_link: "https://shamela.ws/book/779/18/9798"
     doi_or_urn: "urn:shamela:7798"
 
 modern_sources:
@@ -407,11 +407,25 @@ Nahl Sûresi Mekke döneminin sonlarında inmiş olup nimetlerin sayımı ("Sûr
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (Kalp Fıkhı ve Cibrîl Hadisi Bütünlüğü):** İrfan geleneğinde "Adl", insanın zahiriyle bâtınının eşit olması (sıdk ve istikamet); "İhsan" ise Hz. Peygamber'in Cibrîl hadisinde (Buhârî, *Îmân*, 37, nr. 50; Müslim, *Îmân*, 1, nr. 8) tanımladığı üzere *"Allah'ı görüyormuşçasına kulluk ve eylem bilinci"*dir. Kalbinde İhsan (ilahi murakabe) olmayanın adaleti ilk menfaat çatışmasında sarsılır; nefsindeki kibri ("bağy") yenemeyen kişi eline güç geçince zalimleşir.
-- **Âfâk (Kurumsal Mimari):** Âfâkta Adl; mahkemeleri, kanunları ve insan haklarını; İhsan; hastaneleri, vakıfları, ücretsiz eğitimi, şehir estetiğini ve sosyal yardımlaşmayı; Nehy 'ani'l-Bağy ise anayasa mahkemesini, ombudsmanlığı ve uluslararası ceza hukukunu temsil eder.
-- **Enfüsî-Karar Köprüsü:** İç dünyasında (`enfüs`) nefsani kibir, tamah ve öfkeyi terbiye edemeyen karar vericiler, dış dünyada (`âfâk`) kurumsal adaleti ve merhameti yaşatamaz; bu sebeple `ADIM 15`'teki politika kolları ahlaki öz-denetim şartına bağlanmıştır.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+Nahl 16:90 âyetinin dış dünyadaki (*âfâk*) anayasal, hukuki ve sosyolojik tezahürü; üç kurucu emri (`el-'Adl` — yargısal ve bölüşümsel eşitlik, `el-İhsân` — kurumsal merhamet, sosyal devlet ve ahlâkî kemâl, `Îtâi zi'l-kurbâ` — aile ve yakın çevre dayanışması) ve üç kurucu yasağı (`el-Fahşâ'` — yüz kızartıcı ahlâkî çürüme, `el-Münker` — akl-ı selîmin ve hukukun reddettiği kötülükler, `el-Bağy` — kamu gücü istismarı ve mütecaviz zorbalık) tek bir bütünsel medeniyet yasasında birleştirmektir. Ancak Fussilet 41:53 âyetinin kurduğu ontolojik ayna ilişkisi uyarınca, dış dünyada salt soğuk ve şeklî kurallarla yetinip merhameti dışlayan bürokratik katılığın, aile/komşuluk çözülmesinin ve kurumsal zorbalığın (`bağy`) insanın iç dünyasındaki (*enfüs*) doğrudan kökü; kalbin *ihsân* (ilahî huzur ve şefkat) bilincinden çoraklaşması ve insan ruhundaki üç temel kuvvenin itidalini kaybederek ifrata sapmasıdır: Şehvet kuvvesinin azgınlaşması *fahşâ*'yı, akıl ve idrak kuvvesinin bozulması *münker*'i, öfke ve benlik kuvvesinin kabarması ise insanlara üstünlük taslama ve zulmetme marazı olan *bağy*'ı doğurur. İç dünyasında (*enfüs*) nefsin bu üç karanlık damarını *adl* (itidal ve istikamet) ve *ihsân* (murâkabe ve lütufla muamele) ile terbiye edemeyen bir toplum, dış dünyada (*âfâk*) ne adil bir hukuk devleti ne de şefkatli bir sosyal nizam kurabilir.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
+Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe Nahl 16:90 ("Kur'ân'ın en câmi' / kapsamlı âyeti", İbn Mes'ûd rivayeti; Taberî, *Câmi'u'l-Beyân*, 14/162) kalbin tüm faziletlerini ve helâk edici afetlerini cem eden bir içsel mîzân olarak şerh edilmiştir:
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Münciyât* cildinin *Kitâbü'l-Murâkabe ve'l-Muhâsebe* ve *Rub'u'l-Âdât* cildinin *Kitâbü Âdâbi'l-Ülfe ve'l-Uhuvve* bölümlerinde; `el-'adl` mertebesini insanın zahiri ile bâtınının eşit olması ve kimseye hakkından azını vermemesi, `el-ihsân` mertebesini ise kendi hakkından feragat edip muhatabına fazlasıyla iyilik etmesi (*fazl*) ve Cibrîl hadisinde (Buhârî, *Îmân*, 37, nr. 50; Müslim, *Îmân*, 1, nr. 8) bildirildiği üzere *"Allah'ı görüyormuşçasına"* bir murâkabe bilinciyle yaşaması olarak tahlil eder. Gazzâlî'ye göre kalpte *ihsân* ve *şefkat* kuruduğunda şeklî adalet dahi nefsânî çekişmeye (`bağy`) yenik düşer (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 2, s. 196–220; C. 4, s. 391–410; Dijital erişim: [shamela.ws/book/9472/391](https://shamela.ws/book/9472/391)).
+- **İbn Kayyım el-Cevziyye (ö. 751/1350), *Medâricü's-Sâlikîn*:** İbnü'l-Kayyım, *Menzeletü'l-İhsân* bölümünde; *ihsân*'ın imanın özü ve kalbin kemâl mertebesi olduğunu, kulun kalbinde Hakk'ı müşahede etme (*müşâhede* ve *murâkabe*) nuru parladığında kalpten *fahşâ* (gizli şehvetler), *münker* (bâtıl düşünceler) ve *bağy* (halka karşı kibir ve tahakküm) karanlıklarının kendiliğinden silineceğini ortaya koyar (İbn Kayyım el-Cevziyye, *Medâricü's-Sâlikîn*, Beyrut: Dârü'l-Kitâbi'l-Arabî, C. 3, s. 224–235; Dijital erişim: [shamela.ws/book/8370/224](https://shamela.ws/book/8370/224)).
+- **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) kamusal hakkaniyet (`adl`) ile şahsi merhamet (`îtâi zi'l-kurbâ`) arasındaki sınırı gözetemeyen ve nefsindeki tahakküm arzusunu (`bağy`) dizginleyemeyen yöneticiler, dış dünyada (`âfâk`) kamu makamlarını akraba kayırmacılığına alet eder; bu sebeple `ADIM 15`'teki kamuda liyakat ile sivil hayatta aile/bakım desteği ayrımı (`K1`), dijital vakıf ve ihsân ekosistemi (`K2`) ve kurumsal *bağy* izleme kurulu (`K3`) kararları bu enfüsî dengeyi anayasal güvenceye bağlamaktadır.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
+Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Nahl 16:90 âyetindeki üç emir ve üç nehyi sâlikin Hakk'a ve halka karşı kulluk edebi olarak şerh etmişlerdir:
+- **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
+  - `[NAKİL]`: Kuşeyrî, Nahl 16:90 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
+    > «إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ... الإشارة فيه: العدل أداء الفرائض ومراعاة حدود الشرع، والإحسان شهود المنة وصدق المراقبة في الخلوات... وينهى عن الفحشاء وهي اتباع شهوات النفوس، والمنكر وهو الركون إلى الدنيا، والبغي وهو رؤية النفس والتعالي على الخلق»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 2, s. 305–306; Dijital doğrulama: [shamela.ws/book/23622/305](https://shamela.ws/book/23622/305) / [altafsir.com — Letâ'ifü'l-İşârât 16:90](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=16&tAyahNo=90&tDisplay=yes)).*
+  - **Ebû Abdurrahmân es-Sülemî (ö. 412/1021), *Hakâ'iku't-Tefsîr*:** İşârî tefsirin büyük âlimi Sülemî de âyetin tefsirinde âriflerin şu sözlerini nakleder: *"Adl tevhidde istikamet ve nefsi hakka tabi kılmak, İhsân kalbi Hakk'ın murâkabesinde tutmak; Fahşâ nefsin şehvetlerine uymak, Münker hakikate yabancı olan her şeye meyletmek, Bağy ise nefsi görüp mahlûkata karşı kibirlenmektir"* (Sülemî, *Hakâ'iku't-Tefsîr*, thk. Seyyid İmrân, Beyrut: Dârü'l-Kütübi'l-İlmiyye, C. 1, s. 368; Dijital erişim: [shamela.ws/book/23624/368](https://shamela.ws/book/23624/368)).
+  - `[YORUM]`: Kuşeyrî ve Sülemî'nin *bağy* kavramını *"nefsi görmek ve yaratılmışlara karşı üstünlük taslamak (rü'yetü'n-nefs ve't-te'âlî 'ale'l-halk)"*, *ihsân* kavramını ise *"tenhalarda dahi sıdk ile ilahî murâkabe ve minnet şuhûdu"* olarak tanımlaması, Nahl 16:90'ın içsel mimarisini berraklaştırır. Bir medeniyeti ayakta tutan en sağlam sütun, *adl* ile hakları tastamam teslim etmek, *ihsân* ile kalpleri ve toplumu güzelleştirmek ve nefsin *bağy* (tahakküm ve kibir) ateşini kulluk tevazuu ile söndürmektir.
 
 ---
 
@@ -566,11 +580,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1787
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687/5608
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/534
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hicr, 1422/2001. Erişim: https://shamela.ws/book/7798/9798
-- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/1328
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/1787
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/168/17/5608
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/534
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hicr, 1422/2001. Erişim: https://shamela.ws/book/779/18/9798
+- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/1328
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Organisation for Economic Co-operation and Development [OECD] (2025).** *Society at a Glance 2025: Social Cohesion, Philanthropy and Welfare Indicators*. Paris: OECD Publishing. https://www.oecd.org

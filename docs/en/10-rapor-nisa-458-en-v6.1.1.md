@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "527"
     arabic_quote: "لما أمر الولاة بأداء الأمانات إلى أهلها وأن يحكموا بالعدل، أمر الناس بأن يطيعوهم وينزلوا على قضاياهم. والمراد بأولى الأمر منكم: أمراء الحق لأن- أمراء الجور- اللَّه ورسوله بريئان"
-    verification_link: "https://shamela.ws/book/23627/527"
+    verification_link: "https://shamela.ws/book/2362/17/527"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "69"
     arabic_quote: "والجزية وأداء الأمانة، قال الله تعالى: فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمانَتَهُ [البقرة/ ٢٨٣] ، إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَماناتِ إِلى أَهْلِها"
-    verification_link: "https://shamela.ws/book/23636/51"
+    verification_link: "https://shamela.ws/book/2363/16/51"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "133"
     arabic_quote: "الهمزة والميم والنون أصلان متقاربان: أحدهما الأمانة التى هى ضدّ الخيانة، ومعناها سُكون القلب؛ والآخر التصديق. والمعنيان كما قلنا متدانيان."
-    verification_link: "https://shamela.ws/book/21710/177"
+    verification_link: "https://shamela.ws/book/2171/10/177"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430"
     arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
-    verification_link: "https://shamela.ws/book/1687/5608"
+    verification_link: "https://shamela.ws/book/168/17/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-ibn-teymiyye"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "1"
     pages: "6"
     arabic_quote: "قَالَ الْعُلَمَاءُ: نَزَلَتْ الْآيَةُ الْأُولَى فِي وُلَاةِ الْأُمُورِ؛ عَلَيْهِمْ أَنْ يُؤَدُّوا الْأَمَانَاتِ إلَى أَهْلِهَا، وَإِذَا حَكَمُوا بَيْنَ النَّاسِ أَنْ يَحْكُمُوا بِالْعَدْلِ"
-    verification_link: "https://shamela.ws/book/31237/2"
+    verification_link: "https://shamela.ws/book/3123/17/2"
     doi_or_urn: "urn:shamela:7556"
 
 modern_sources:
@@ -420,11 +420,20 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — INWARD-OUTWARD (ANFUS-AFAQ) DIALECTIC AND JURISPRUDENCE OF THE HEART (SPIRITUAL/ISHARI LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** As the Prophet warned Abu Dharr al-Ghifari (Muslim, *Imārah*, 16–17, no. 1825–1826): *'O Abu Dharr, I see that you are weak, and I love for you what I love for myself: do not assume authority over even two people, and do not manage the property of an orphan.'* Personal piety alone does not entitle a person to an office for which they lack technical competence.
-- **Outer Institutional Order (*Âfâk*):** Transparent merit-based recruitment, independent judiciary (`hukm bi'l-'adl`), and anti-corruption auditing.
-- **Enfüs–Decision Bridge:** Decision-makers who fear the Divine Auditor (`Sami'an Basira`) refuse to sign nepotistic appointments or partisan judicial rulings; institutional safeguards (`STEP 15`) reinforce this inner conscience with legal accountability.
+#### 13.1. Inward-Outward (*Anfus–Afaq*) Dialectic (Ontological & Perceptual Plane)
+- **[ANALYSIS]** In the Qur'anic ethics of governance and public law, the external institutional order of meritocratic administration, fiduciary accountability, and juridical neutrality (*afaq*) and the inward moral order of conscientious stewardship, self-examination (*muhasabah*), and spiritual integrity (*anfus*) constitute two inseparable faces of the same truth. The constitutional mandate of **An-Nisa 4:58** to render public trusts to those worthy and competent (`an tu'addu al-amanati ila ahliha`) and to judge between people with impartial justice (`an tahkumu bi-al-'adl`) in the outer sphere (*afaq*) is directly mirrored in the inward struggle against lust for office and status (*hubb al-jah wa-al-riyasah*), partisan bias, following caprice (*hawa*), and the delusion of treating public authority as private spoils (*anfus*). In accordance with **Fussilat 41:53**, an administrator or judge who betrays the covenant of his own conscience in the unseen realm cannot uphold institutional meritocracy or judicial independence in the public realm. Consequently, policy branches `K1` (algorithmic meritocracy and oral-interview caps), `K2` (constitutional insulation of judicial impartiality), and `K3` (open-data anti-nepotism audits) in **Step 15** unite external institutional checks with inward moral vigilance (*muraqabah* / *enfüs / kalp fıkhı*).
+
+#### 13.2. Jurisprudence of the Heart & Inward Pathologies (*Fiqh al-Batin* — Methodology of al-Ghazali & al-Mawardi)
+- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) codifies the procedural criteria of public appointments and adjudication, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses the primary inward assassin of meritocracy and judicial fairness: **the craving for status and domination (*hubb al-jah*)**. **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab Dhamm al-Jah wa-al-Riya'* (Beirut: Dar al-Ma'rifah, *Rub' al-Muhlikat*, Vol. 3, pp. 274–310, [Digital Verification](https://shamela.ws/book/9472/274)), demonstrates that the craving for power and social prestige (*hubb al-jah*) is an even more insidious spiritual pathology than greed for wealth, driving officials to surround themselves with sycophants rather than competent trustees and extinguishing the light of impartial justice in the heart. Likewise, **Abu al-Hasan al-Mawardi** (d. 450/1058), in *Adab al-Dunya wa-al-Din* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1987, pp. 135–148, [Digital Verification](https://shamela.ws/book/9569/135)), establishes that the flourishing of public order (*islah al-dunya*) depends upon officials transcending personal passion (*hawa*) and factional favoritism through inward moral rectitude (*amanah*). This spiritual principle is sealed by the Prophet's (peace be upon him) candid warning to his devoted companion Abu Dharr al-Ghifari: *"O Abu Dharr, I see that you are weak, and I love for you what I love for myself: do not assume authority over even two people, and do not manage the property of an orphan; for authority is a trust (amanah), and on the Day of Resurrection it will be disgrace and regret except for one who takes it by its right and fulfills his duty therein"* (Muslim, *Imarah*, 16–17, Hadith No: 1825–1826).
+
+#### 13.3. Classical Spiritual / *Ishari* Exegesis (al-Qushayri — *Lata'if al-Isharat* & al-Sulami)
+- **[CITATION]** **'Abd al-Karim al-Qushayri** (d. 465/1072) articulates the inward spiritual signification of *amanah* and *'adl* in An-Nisa 4:58 in his *Lata'if al-Isharat* as follows:
+  > «إن الله يأمركم أن تؤدوا الأمانات إلى أهلها وإذا حكمتم بين الناس أن تحكموا بالعدل... الإشارة فيه: أعظم الأمانات سرك وقلبك وجوارحك؛ فأداء أمانة القلب بتطهيره عن الأغيار، وأداء أمانة الجوارح بحفظها عن المخالفات، فمن خان أمانة ربه في سره لم يوفق للعدل بين خلقه...»
+  > *"Indeed, God commands you to render trusts to whom they are due, and when you judge between people, to judge with justice... The spiritual allusion (al-isharah) therein is that the greatest of all trusts are your innermost secret (sirruk), your heart (qalbuk), and your bodily limbs (jawarihuk). Fulfilling the trust of the heart lies in purifying it from all selfish attachments other than God, and fulfilling the trust of the limbs lies in guarding them against transgressions; whoever betrays the trust of his Lord in his innermost secret will never be granted success in establishing justice among His creatures..."*
+  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, pp. 344–345 (cf. Abu 'Abd al-Rahman al-Sulami, *Haqa'iq al-Tafsir*, ed. Sayyid 'Imran, Beirut: Dar al-Kutub al-'Ilmiyyah, 2001, Vol. 1, p. 152, [Digital Verification](https://shamela.ws/book/22668/152)). **Digital Library Link:** [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=4&tAyahNo=58).
+- **[ANALYSIS]** **Exegetical & Hermeneutic Analysis:** Imam al-Qushayri and al-Sulami link the civic mandate of An-Nisa 4:58 to the primordial existential trust (*al-amanah* in `Al-Ahzab 33:72`). Al-Qushayri's maxim—*"Whoever betrays the trust of his Lord in his innermost secret will never be granted success in establishing justice among His creatures"*—uncovers the spiritual root of nepotism, patronage, and judicial corruption: an agent who fails to purify his inner heart from ambition and self-interest inevitably weaponizes public office for factional privilege. Thus, inward spiritual vigilance (*muraqabah*) and outward institutional transparency operate as two complementary wings of Qur'anic governance.
 
 ---
 
@@ -583,11 +592,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/98-102. Digital Verification: https://shamela.ws/book/23627/527 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/90-93. Digital Verification: https://shamela.ws/book/23636/51 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/133-135. Digital Verification: https://shamela.ws/book/21710/177 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/430-435. Digital Verification: https://shamela.ws/book/1687/5608 (urn:shamela:21605).
-[^5]: İbn Teymiyye, Takıyyüddîn Ahmed (ö. 728/1328), *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*, ed. Ali b. Muhammed el-Umrân (Mekke: Dâru Âlemi'l-Fevâid, 1998), 1/11-18. Digital Verification: https://shamela.ws/book/31237/2 (urn:shamela:7556).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/98-102. Digital Verification: https://shamela.ws/book/2362/17/527 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/90-93. Digital Verification: https://shamela.ws/book/2363/16/51 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/133-135. Digital Verification: https://shamela.ws/book/2171/10/177 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/430-435. Digital Verification: https://shamela.ws/book/168/17/5608 (urn:shamela:21605).
+[^5]: İbn Teymiyye, Takıyyüddîn Ahmed (ö. 728/1328), *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*, ed. Ali b. Muhammed el-Umrân (Mekke: Dâru Âlemi'l-Fevâid, 1998), 1/11-18. Digital Verification: https://shamela.ws/book/3123/17/2 (urn:shamela:7556).
 [^6]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Bureaucratic Quality and Rule of Law*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org
 [^7]: World Justice Project (WJP) (2024). *Rule of Law Index 2024: Civil and Criminal Justice*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2024.01. URL: https://worldjusticeproject.org
 

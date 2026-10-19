@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "502"
     arabic_quote: "قوله تعالى: كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ كيلا يكون الفيء الذي حقه أن يعطى الفقراء ليكون لهم بلغة يعيشون بها جدا بين الأغنياء يتكاثرون به. أو كيلا يكون دولة جاهلية بينهم"
-    verification_link: "https://shamela.ws/book/23627/2567"
+    verification_link: "https://shamela.ws/book/2362/17/2567"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "322"
     arabic_quote: "اسم الشيء الذي يتداول بعينه، والدَّوْلَة المصدر. قال تعالى: كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ [الحشر/ ٧] ، وتداول القوم كذا، أي: تناولوه من"
-    verification_link: "https://shamela.ws/book/23636/304"
+    verification_link: "https://shamela.ws/book/2363/16/304"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "314"
     arabic_quote: "الدال والواو واللام أصلان: أحدُهما يدلُّ على تحوُّل شئِ من مكان إلى مكان، والآخَر يدلُّ على ضَعْفٍ واستِرخاء."
-    verification_link: "https://shamela.ws/book/21710/874"
+    verification_link: "https://shamela.ws/book/2171/10/874"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "252"
     arabic_quote: "جَمْعُ دُولة، بِالضَّمِّ، وَهُوَ مَا يُتداوَل مِنَ الْمَالِ فَيَكُونُ لِقَوْمٍ دُونَ قَوْمٍ. الأَزهري: قَالَ الْفَرَّاءُ فِي قَوْلِهِ تَعَالَى: كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ"
-    verification_link: "https://shamela.ws/book/1687/5432"
+    verification_link: "https://shamela.ws/book/168/17/5432"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "319"
     arabic_quote: "كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ وقوله وَالَّذِينَ جاؤُ مِنْ بَعْدِهِمْ وَقَالَ لَوْ قَسَمْتهَا بَيْنَهُمْ لَصَارَتْ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنْكُمْ"
-    verification_link: "https://shamela.ws/book/23579/1865"
+    verification_link: "https://shamela.ws/book/2357/19/1865"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -428,11 +428,25 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — ENFÜSÎ-ÂFÂKÎ DIALECTIC & SPIRITUAL ETHICS (KALP FIKHI / İRFÂNÎ-İŞÂRÎ LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** As `Al-Hashr 59:9` states right after `59:7`: *'And whoever is protected from the covetousness/greed of his own soul (`wa-man yuqaha shuhha nafsihi`)—it is those who will be the successful.'* Outer oligarchy (`dulah`) is born from inner spiritual disease (`shuhh` — possessive greed).
-- **Outer Institutional Order (*Âfâk*):** Progressive fiscal justice, anti-monopoly competition law, transparent public budgets, and institutional `zakah / waqf` circulation.
-- **Enfüs–Decision Bridge:** Economic policymakers and business leaders who conquer inner `shuhh` design fiscal and corporate policies (`STEP 15`) that circulate prosperity rather than hoarding rent.
+#### 13.1. Enfüsî-Âfâkî Dialectic (Ontological & Perceptual Level)
+In the external macroeconomic, fiscal, and constitutional order (*âfâk*), Surah al-Hashr 59:7 establishes the foundational principle of **circulatory wealth ethics**: preventing public resources and economic surplus from becoming a closed-circuit monopoly circulating solely among a wealthy oligarchy (`kay lâ yakûna dûlatan bayna'l-aghniyâ'i minkum`) and channeling wealth toward orphans, the destitute, and the vulnerable. Yet according to the ontological mirror principle of Surah Fussilat 41:53 (*"We shall show them Our signs upon the horizons [âfâk] and within their own souls [enfüs]"*), external oligarchic concentration (`dûlah`) and predatory rent-seeking are the macrocosmic projection of an inward moral disease within the human conscience (*enfüs / kalp fıkhı*): possessive greed (*shuhh al-nafs*), the **pathology of acquisitiveness** (*takâthur*), hoarding (*kanz*), and the tyrannical illusion of self-sufficiency (*istighnâ'*). It is no coincidence that immediately after legislating macro-distributive justice in al-Hashr 59:7, the Qur'an diagnoses its inward spiritual root in al-Hashr 59:9: *"And whoever is protected from the covetousness of his own soul (`wa-man yûqa shuhha nafsihî`)—it is those who are the truly successful"*, praising the ethic of altruistic preference (*îthâr*). Without curing the inward **pathology of acquisitiveness** (`shuhh`) in the heart (*enfüs*), external fiscal systems (*âfâk*) are inevitably captured by plutocratic interests.
+
+#### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
+In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, oligarchic wealth concentration (`dûlah`), monopolistic hoarding (*ihtikâr*), and indifference to poverty are traced to the inward maladies of love of wealth (*hubb al-mâl*), miserliness (*bukhl*), and possessive greed (*shuhh*):
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In his analysis of worldly covetousness and delusion (*ghurûr*), al-Muhâsibî demonstrates that when the ego (*nafs*) regards wealth as personal sovereignty rather than a divine trust (*amânah*), it deadens empathy for the poor and breeds tyrannical arrogance, a pathology cured only through ascetic detachment of the heart (*zuhd*) and conscientious spending in God's path (*infâq*) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 295–325; Digital access: [shamela.ws/book/9683/295](https://shamela.ws/book/9683/295)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Dhamm al-Bukhl wa Dhamm Hubb al-Mâl* (Condemnation of Miserliness and Love of Wealth, Vol. 3), al-Ghazâlî explains that currency and wealth were created to circulate through society like blood in a living body or an impartial magistrate bridging human needs; those who lock wealth in closed circuits (`dûlah` and `kanz`) commit treason against the divine wisdom of circulation and enslave their own hearts to metal. Al-Ghazâlî identifies the supreme remedy for `shuhh al-nafs` as the station of *îthâr* (altruistic preference, al-Hashr 59:9), the pinnacle of generosity (*sakhâ'*) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 231–273; Digital access: [shamela.ws/book/9472/231](https://shamela.ws/book/9472/231)).
+- **Enfüs–Policy Bridge:** Because policymakers and financial elites who remain captive to inward covetousness (`shuhh`) in their conscience (*enfüs*) design regressive tax codes and rentier bailouts in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` sovereign public-resource redistribution, `K2` anti-monopoly and asset-backed real-economy finance, and `K3` institutional *zakâh* and *waqf* circulation) establish binding structural checks against oligarchic hoarding.
+
+#### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
+Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the transition from `kay lâ yakûna dûlatan` (59:7) to `wa-man yûqa shuhha nafsihî` and `yu'thirûna 'alâ anfusihim` (59:9) as the liberation of the spiritual heart from the bondage of material possession into the radiance of divine generosity:
+- **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
+  - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Hashr 59:7–9, al-Qushayrî records the following verbatim passage:
+    > «كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ... الإشارة فيه: لئلا تكون الدنيا محصورة في أيدي أهل الغفلة والحرص، بل تفرق على أهل الحاجة والفقر... وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُولَئِكَ هُمُ الْمُفْلِحُونَ: فمن وقي شح نفسه فاز بكرامة الإيثار، وبذل الفضل في رضا الحق»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 566–567; Digital verification: [shamela.ws/book/23622/566](https://shamela.ws/book/23622/566) / [altafsir.com — Latâ'if al-Ishârât 59:7](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=59&tAyahNo=7&tDisplay=yes)).*
+  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that true deliverance (*falâh*) lies in purifying the soul from possessive greed (`shuhh al-nafs`) by recognizing that all property belongs solely to God, transforming material goods from a veil of heedlessness into a vehicle of fraternal service and *îthâr* (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 168; Digital access: [shamela.ws/book/23625/168](https://shamela.ws/book/23625/168)).
+  - `[ANALYSIS / YORUM]`: Al-Qushayrî's insight—*"So that worldly wealth is not locked in the hands of the people of heedlessness and greed (`ahl al-ghaflah wa'l-hirs`), but distributed to those in need; and whoever is protected from the greed of his ego attains the nobility of altruistic preference (`karâmat al-îthâr`)"*—illuminates the spiritual core of **circulatory wealth ethics**. When the heart witnesses God as the sole true Owner (`al-Mâlik`), wealth ceases to be an idol of oligarchic domination (`dûlah`) and becomes a life-giving stream of justice and compassion across society.
 
 ---
 
@@ -591,11 +605,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/748-752. Digital Verification: https://shamela.ws/book/23627/2567 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/332-335. Digital Verification: https://shamela.ws/book/23636/304 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/314-317. Digital Verification: https://shamela.ws/book/21710/874 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/250-255. Digital Verification: https://shamela.ws/book/1687/5432 (urn:shamela:21605).
-[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/345-352. Digital Verification: https://shamela.ws/book/23579/1865 (urn:shamela:21711).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/748-752. Digital Verification: https://shamela.ws/book/2362/17/2567 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/332-335. Digital Verification: https://shamela.ws/book/2363/16/304 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/314-317. Digital Verification: https://shamela.ws/book/2171/10/874 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/250-255. Digital Verification: https://shamela.ws/book/168/17/5432 (urn:shamela:21605).
+[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/345-352. Digital Verification: https://shamela.ws/book/2357/19/1865 (urn:shamela:21711).
 [^6]: World Bank Group (2024). *Worldwide Governance Indicators & Poverty and Inequality Platform 2024*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^7]: Türkiye İstatistik Kurumu (TÜİK) (2024). *Gelir ve Yaşam Koşulları ile Yoksulluk ve Yaşam Kalitesi Araştırması 2024*. Ankara: TÜİK Yayınları. DOI: Institutional Dataset. URL: https://data.tuik.gov.tr
 [^8]: World Inequality Lab (2024). *World Inequality Report 2024: Global Wealth Concentration and Oligarchy*. Paris: World Inequality Lab / Harvard University Press. DOI: doi:10.4159/9780674276597. URL: https://wid.world

@@ -23,7 +23,7 @@ classical_sources:
     volume: "3"
     pages: "473"
     arabic_quote: "الألسنة: اللغات. أو أجناس النطق وأشكاله. خالف عزّ وعلا بين هذه الأشياء حتى لا تكاد تسمع منطقين متفقين في همس واحد، ولا جهارة، ولا حدّة، ولا رخاوة، ولا فصاحة، ولا لكنة، ولا نظم"
-    verification_link: "https://shamela.ws/book/23627/1921"
+    verification_link: "https://shamela.ws/book/2362/17/1921"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "294"
     arabic_quote: "والمخالفة: أن يأخذ كلّ واحد طريقا غير طريق الآخر في حاله أو قوله، والخِلَاف أعمّ من الضّدّ، لأنّ كلّ ضدّين مختلفان، وليس كلّ مختلفين ضدّين، ولمّا كان الاختلاف بين النّاس في"
-    verification_link: "https://shamela.ws/book/23636/276"
+    verification_link: "https://shamela.ws/book/2363/16/276"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "210"
     arabic_quote: "الخاء واللام والفاء أصولٌ ثلاثة: أحدُها أن يجئَ شئٌ شئِ يقومُ مقامَه، والثانى خِلاف قُدَّام، والثالث التغيُّر"
-    verification_link: "https://shamela.ws/book/21710/770"
+    verification_link: "https://shamela.ws/book/2171/10/770"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "13"
     pages: "385"
     arabic_quote: "وَشَاهِدُ أَلْسِنَةٍ الْجَمْعِ فِيمَنْ ذَكَّرَ قَوْلُهُ تَعَالَى: وَاخْتِلافُ أَلْسِنَتِكُمْ وَأَلْوانِكُمْ"
-    verification_link: "https://shamela.ws/book/1687/6946"
+    verification_link: "https://shamela.ws/book/168/17/6946"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "25"
     pages: "92"
     arabic_quote: "لَمَّا بَيَّنَ دَلَائِلَ الْأَنْفُسِ ذَكَرَ دَلَائِلَ الْآفَاقِ وَأَظْهَرُهَا خلق السموات وَالْأَرْضِ، فَإِنَّ بَعْضَ الْكُفَّارِ يَقُولُ فِي خَلْقِ الْبَشَرِ وَغَيْرِهِ مِنَ"
-    verification_link: "https://shamela.ws/book/23635/4497"
+    verification_link: "https://shamela.ws/book/2363/15/4497"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -392,11 +392,25 @@ Rûm Sûresi Mekke döneminde, Bizans İmparatorluğu'nun Sâsânîler karşıs�
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (Kalp Fıkhı ve Tevhid Şuhûdu):** Kalpteki ırkçılık ve kabile asabiyeti, cehaletin ve nefsin putlaşmasının göstergesidir. İrfanî boyutta her insan yüzü ilahi cemalin farklı bir tecellisidir; her dil, varlığın ilahi hakikati farklı bir nağmeyle terennüm etmesidir. Başkasının dilini ve rengini hor görmek, nakkaşı değil nakşı suçlamaktır.
-- **Âfâk (Anayasal Çoğulculuk):** Dil enstitüleri, çok dilli kütüphaneler, ayrımcılık karşıtı yasalar ve çoğulcu eğitim müfredatları enfüsi genişliğin âfâktaki kurumsal kaleleridir.
-- **Enfüsî-Karar Köprüsü:** İç dünyasında (`enfüs`) nefsani kibir, tamah ve öfkeyi terbiye edemeyen karar vericiler, dış dünyada (`âfâk`) kurumsal adaleti ve merhameti yaşatamaz; bu sebeple `ADIM 15`'teki politika kolları ahlaki öz-denetim şartına bağlanmıştır.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+Rûm 30:22 âyetinin dış dünyadaki (*âfâk*) anayasal, sosyolojik ve medeniyet ölçekli tezahürü; etnik, dilsel ve kültürel çeşitliliği (`ihtilâfü elsinetiküm ve elvâniküm`) bir tehdit, asimilasyon gerekçesi veya çatışma unsuru olarak gören tek tipleştirici darlığı reddederek, insanlığın çoğulcu dokusunu göklerin ve yerin yaratılışıyla eşdeğer bir "ilahî âyet" (`ve min âyâtihî`) statüsünde hukuki ve kurumsal güvenceye almaktır. Ancak Fussilet 41:53 âyetinin kurduğu ontolojik ayna ilişkisi uyarınca, dış dünyada farklı dilleri ve renkleri ötekileştiren ayrımcılık ve ırkçılık krizinin insanın iç dünyasındaki (*enfüs*) doğrudan kökü; kalbin ülfet ve alışkanlık perdesiyle (*hicâb-ı ülfet* / gaflet) körleşmesi, İblisvârî soy/unsur kibri (*"Ben ondan hayırlıyım"*, A'râf 7:12) ve tefekkür nazarından yoksunluktur. Âyetin sonunda sıradan bir kavrayışa değil, özellikle derin ilim ve basiret sahiplerine (`inne fî zâlike le-âyâtin li'l-'âlimîn`) atıf yapılması; insan simalarındaki, ses tonlarındaki ve dillerdeki muazzam çeşitlilikte Sâni'-i Hakîm'in sonsuz kudret tecellilerini okuyabilmenin ancak gaflet ve benlik kibrinden arınmış bir kalp gözüyle (*basîret*) mümkün olduğunu beyan eder.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
+Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe yaratılıştaki farklılıkları hor görmenin ve kevni/insani âyetlere karşı duyarsızlaşmanın ardındaki bâtınî illetler; ülfet gafleti (*gafletü'l-ülfe*), kibir (*kibr*) ve tefekkürsüzlük olarak teşhis edilmiştir:
+- **Ebû Tâlib el-Mekkî (ö. 386/996), *Kûtü'l-Kulûb*:** Mekkî, marifet ve tefekkür makamlarını şerh ederken; avamın her gün gördüğü gökleri, yeri ve insan suretlerindeki çeşitliliği ülfet (alışkanlık) sebebiyle sıradanlaştırdığını, oysa âriflerin ve *'âlimîn* zümresinin her bir dilde, seste ve renkte Cenâb-ı Hakk'ın benzersiz sanatını (*sun'ullâh*) müşahede ederek haşyet ve tevazularının arttığını ortaya koyar (Ebû Tâlib el-Mekkî, *Kûtü'l-Kulûb fî Mu'âmeleti'l-Mahbûb*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, C. 1, s. 310–335; Dijital erişim: [shamela.ws/book/9682/310](https://shamela.ws/book/9682/310)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Münciyât* cildinin *Kitâbü't-Tefekkür* ve *Kitâbü'ş-Şükr* bölümlerinde; bir damla sudan yaratılan milyarlarca insanın hiçbirinin sesinin, dilinin (`elsinetiküm`) ve sima/renk hususiyetinin (`elvâniküm`) bir diğerine tıpatıp benzememesini ilahî kudret ve hikmetin en büyük burhanlarından biri olarak tahlil eder. Gazzâlî'ye göre bu çeşitlilikteki hikmeti göremeyip kendi soyunu veya dilini üstün gören kimse, *hicâb-ı ülfet* (alışkanlık körlüğü) ve *kibir* marazına tutulmuş, nakkaşın sanatına karşı nankörlük etmiştir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 4, s. 81–120, 423–448; Dijital erişim: [shamela.ws/book/9472/81](https://shamela.ws/book/9472/81)).
+- **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) ülfet körlüğünü ve etnik/kültürel üstünlük kibrini tefekkür ve tevazu ile aşamayan karar vericiler, dış dünyada (`âfâk`) farklı dilleri ve kültürleri güvenlik tehdidi olarak kodlar; bu sebeple `ADIM 15`'teki anayasal kültürel çeşitlilik güvencesi (`K1`), çok dilli kamu hizmeti erişimi (`K2`) ve bağımsız eşitlik/ayrımcılıkla mücadele kurumu (`K3`) kararları kalbî marifet ve tevazunun kurumsal güvenceleri olarak tasarlanmıştır.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
+Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Rûm 30:22 âyetindeki *dillerin ve renklerin ihtilafı* kavramını zahirî antropolojik çeşitliliğin yanında, sâliklerin kalplerindeki marifet hallerinin ve tecelli mertebelerinin çeşitliliği olarak şerh etmişlerdir:
+- **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
+  - `[NAKİL]`: Kuşeyrî, Rûm 30:22 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
+    > «وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّلْعَالِمِينَ... الإشارة فيه: اختلاف الألسنة باختلاف مراتب القلوب في المعرفة، واختلاف الألوان باختلاف أحوال السالكين في إرادة الحق... فمن وقف مع الأشكال حُجب عن المعاني، ومن شهد الحكمة في التنوع اتسع قلبه للخلائق»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 111–112; Dijital doğrulama: [shamela.ws/book/23622/111](https://shamela.ws/book/23622/111) / [altafsir.com — Letâ'ifü'l-İşârât 30:22](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=30&tAyahNo=22&tDisplay=yes)).*
+  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); zahirî dillerin ve renklerin farklılığı nasıl ki Vâhid-i Ehad olan Yaratıcı'nın kudret âyeti ise, ruhların ve kalplerin ilahî isimlerin farklı tecellilerine mazhar olmasının da irfânî bir zenginlik olduğunu; ârifin bütün bu farklı tecellilerde tek bir Hakikati müşahede ederek hiçbir mahlûku hor görmediğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 4, s. 327–328; Dijital erişim: [shamela.ws/book/11566/327](https://shamela.ws/book/11566/327)).
+  - `[YORUM]`: Kuşeyrî'nin *"Kim dış şekillerde takılıp kalırsa manalardan perdelenir; kim de çeşitlilikteki (tenevvü') ilahî hikmeti müşahede ederse kalbi bütün mahlûkata karşı genişler"* tespiti, çoğulculuk ahlâkının zirvesidir. İrfânî ufukta *kesrette vahdet* (çoklukta birlik) sırrına eren bir gönül, dillerin ve renklerin farklılığından korkmaz; her bir insanı ve kültürü İlahî Kudret Kitabı'nın okunması ve korunması gereken mukaddes birer âyeti olarak kucaklar.
 
 ---
 
@@ -554,11 +568,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/770
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/6946
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/276
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/4497
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/1921
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/770
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/6946
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/276
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/2363/15/4497
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/1921
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Nüfus ve Demografi ile Kültürel Yaşam İstatistikleri 2024*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr

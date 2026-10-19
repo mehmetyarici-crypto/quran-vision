@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "247"
     arabic_quote: "انسلخ الشهر، كقولك انجرد الشهر، وسنة جرداء. والْأَشْهُرُ الْحُرُمُ التي أبيح فيها للناكثين أن يسيحوا فَاقْتُلُوا الْمُشْرِكِينَ يعنى الذين نقضوكم وظاهروا عليكم حَيْثُ"
-    verification_link: "https://shamela.ws/book/23627/946"
+    verification_link: "https://shamela.ws/book/2362/17/946"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "3"
     pages: "94"
     arabic_quote: "السين واللام والخاء أصلٌ واحد، وهو إخراج الشئ عن جلده. ثم يُحْمَل عليه. والأصل سلختُ"
-    verification_link: "https://shamela.ws/book/21710/1163"
+    verification_link: "https://shamela.ws/book/2171/10/1163"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "179"
     arabic_quote: "الرصَد، بِالتَّحْرِيكِ، الْقَلِيلُ مِنَ الكلإِ وَالْمَطَرِ. ابْنُ سِيدَهْ: الرَّصَدُ"
-    verification_link: "https://shamela.ws/book/1687/1621"
+    verification_link: "https://shamela.ws/book/168/17/1621"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "269"
     arabic_quote: "اللَّه تَعَالَى فَإِذَا انْسَلَخَ الأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حيث وجدتموهم رَوَى مُعَاوِيَةُ بْنُ صَالِحٍ عَنْ عَلِيِّ بْنِ أَبِي طَلْحَةَ عَنْ ابْنِ عَبَّاسٍ في"
-    verification_link: "https://shamela.ws/book/23579/1415"
+    verification_link: "https://shamela.ws/book/2357/19/1415"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "3"
     pages: "344"
     arabic_quote: "الْمُتَقَدِّمِينَ أَنَّ النَّسْخَ عِنْدَهُمْ فِي الْإِطْلَاقِ أَعَمُّ مِنْهُ فِي كَلَامِ الْأُصُولِيِّينَ١؛ فَقَدْ يُطْلِقُونَ عَلَى تَقْيِيدِ الْمُطْلَقِ نَسْخًا، وَعَلَى تَخْصِيصِ"
-    verification_link: "https://shamela.ws/book/11435/1553"
+    verification_link: "https://shamela.ws/book/1143/15/1553"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -399,13 +399,20 @@ Tevbe Sûresi 9:1–15 pasajı bir bütün olarak okunduğunda, 5. âyetin hemen
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (İçsel ve Ahlaki Boyut):** İnsanın iç dünyasında nefsin hilekâr hevesleri vicdani sözleşmeleri bozar. Mühlet vermek; nefse tefekkür imkânı tanımaktır. Eğer nefs ihaneti sürdürürse ahlaki irade ile o hevesler zapturapt altına alınmalıdır.
-- **Âfâk (Dışsal ve Kurumsal Boyut):** Bireysel intikam hırsının meşru devlet siyasetine sızmasını önlemek; adaleti güç kullanımının tek meşru gerekçesi kılmak.
-- **Karşılıklı Etki:** İçsel olarak ahde vefa ahlakı yerleşmemiş bir toplum, dış ilişkilerinde güvenilir paktlar kuramaz; dış güvensizlik de içerde paranoyayı besler.
-- **Karar Köprüsü:** İç dünyasında ahde vefayı başaramayan bir liderlik, dış siyasette meşru caydırıcılığı adaletle yönetemez; intikam hırsına yenik düşer. Bu sebeple Adım 15'teki K1 ve K3 kolları vicdani denetim şartına bağlanmıştır.
-- **İşârî / İrfanî Derinlik:** Güvenilir tasavvufi tefsirler çerçevesinde nefisle cihat (*cihâd-ı ekber*; Beyhakî, *ez-Zühdü'l-Kebîr*, nr. 373; krş. Buhârî, *Rikâk*, 34, nr. 6496), dış dünyadaki güç kullanımının sınırlarını belirleyen en yüksek ahlaki frendir.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+- **[YORUM]** Kur'ân-ı Kerîm'in insan ve toplum tasavvurunda dış dünyadaki hukuk ve siyaset nizamı (`âfâk`) ile bireyin iç dünyasındaki vicdan ve ahlâk nizamı (`enfüs`), birbirini yansıtan iki ontolojik ayna konumundadır. **Tevbe 9:5** âyetinin dış dünyada ahdi bozan ve saldırganlığa girişen mütecavizlere karşı vaz' ettiği meşru müdafaa, caydırıcılık ve kamu düzeni kılıcı (`âfâk` boyutu); insanın iç dünyasında adalet duygusunu içeriden zehirleyen nefs-i emmâre, intikam hırsı, tahakküm tutkusu ve şiddet temayüllerine karşı yürütülen irade mücadelesiyle (`enfüs` boyutu) doğrudan bütünleşiktir. **Fussilet 41:53** (*"İnsanlara âfâkta ve kendi nefislerinde âyetlerimizi göstereceğiz..."*) ilkesi gereğince, dışarıda hukukun, ahde vefanın (`9:4`) ve sivil dokunulmazlığın (`9:6` *emân*) sınırlarını koruyamayan bir siyasi akıl, içeride nefsin taşkınlıklarını (`bağy` ve `udvân`) bastıramaz. Aynı şekilde kendi iç dünyasında öfke, kibir ve intikam dürtülerini zapturapt altına alamayan bir karar verici, dış siyasette meşru caydırıcılığı adaletle yönetemez ve gücü zulüm aracına dönüştürür. Bu ontolojik bağ sebebiyle **Adım 15**'teki `K1` ve `K3` stratejik karar kolları, kurumsal hukuk denetiminin yanı sıra karar vericilerin ahlâkî öz-denetim (`murâkabe`) şartına bağlanmıştır.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın* — Muhâsibî & Gazzâlî Metodolojisi)
+- **[YORUM]** Klasik İslam düşüncesinde zâhirî fıkıh (*fıkhü'z-zâhir*) savaşın şeklî ve hukuki sınırlarını tayin ederken, kalp fıkhı (*fıkhü'l-bâtın*) güç kullanımına eşlik eden niyet ve kalp hastalıklarını denetler. **Hâris el-Muhâsibî**'nin (ö. 243/857) *er-Ri'âye li-Hukûkillâh* (thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, Cilt: 1, s. 45–52, [Dijital Doğrulama](https://shamela.ws/book/12095/45)) eserinde sistemleştirdiği nefis muhasebesi (*muhâsebetü'n-nefs*) metodolojisine göre, görünüşte meşru bir savunma eylemi dahi kalpte gizlenen riyâ, üstünlük tutkusu (*hubbü'r-riyâse*) ve ganimet tamahı sebebiyle bâtınen ifsâd olabilir. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111) ise *İhyâ'u 'Ulûmi'd-Dîn* (Beyrut: Dârü'l-Ma'rife, Rub'u'l-Mühlikât, *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased*, Cilt: 3, s. 164–172, [Dijital Doğrulama](https://shamela.ws/book/9472/164)) adlı eserinde gazap (*gadab*) ve kin (*hıkd*) afetlerini tahlil ederken, nefsin kendi intikam şehvetini "hak ve adalet adına öfke" maskesi altında gizleme hilesine dikkat çeker. Tevbe 9:5'teki güç kullanımı izninin; nefsin sadistçe şiddet arzusuna, ganimet hırsına veya kabileci/ırkçı öfkeye (*hamiyyetü'l-câhiliyye*) kalkan yapılmasını engelleyen en temel barikat, kalbin bu bâtınî illetlerden tezkiyesidir. Nitekim Hz. Peygamber'in (s.a.v.) muharebe dönüşünde ashabını dış cepheden içsel nefis terbiyesine (*cihâd-ı ekber*) yönlendiren nebevî ölçüsü (Beyhakî, *Kitâbü'z-Zühdü'l-Kebîr*, thk. Âmir Ahmed Haydar, Beyrut: Müessesetü'l-Kütübi's-Sekâfiyye, 1996, s. 165, Hadis No: 373; krş. Tirmizî, *Fedâilü'l-Cihâd*, 2, Hadis No: 1621: *"Mücâhid, Allah'a itaat yolunda kendi nefsine karşı cihat edendir"*), dış dünyadaki askeri caydırıcılığın ancak iç dünyadaki nefis mücâhedesiyle meşruiyet sınırında tutulabileceğini ortaya koymaktadır.
+
+#### 13.3. Klasik İşârî / İrfânî Tahrîc (Kuşeyrî — *Letâ'ifü'l-İşârât*)
+- **[NAKİL]** Klasik işârî tefsir geleneğinin kurucu imamlarından **Abdülkerîm el-Kuşeyrî** (ö. 465/1072), *Letâ'ifü'l-İşârât* adlı eserinde Tevbe 9:5 âyetinin kalp ve nefis terbiyesindeki karşılığını şu lafızlarla tahrîc etmektedir:
+  > «فإذا انسلخ الأشهر الحرم فاقتلوا المشركين... الإشارة فيه: اقتلوا نفوسكم الأمارة بالسوء بسيوف المجاهدة، وقيدوها بسلاسل الرياضة والمراقبة، واقعدوا لها كل مرصد من مراصد المحاسبة...»
+  > *"Haram aylar çıktığında müşrikleri öldürün... Bu âyetteki irfânî işaret şudur: Kötülüğü emreden nefislerinizi (nefs-i emmâre) mücâhede kılıçlarıyla öldürün (etkisizleştirin); onları riyâzet ve murâkabe zincirleriyle bağlayın ve nefislerinizin hilelerine karşı muhâsebe gözetleme noktalarının (merâsıdü'l-muhâsebe) her birinde nöbet tutun..."*
+  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 2, Sayfa: 15–16. **Dijital Kütüphane Bağlantısı:** [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=9&tAyahNo=5).
+- **[YORUM]** **İbare Tahlili:** İmam Kuşeyrî bu veciz tahlilinde, âyetin zâhirî hukuk hükmünü iptal etmeksizin âyetteki dört stratejik eylemi (`fâktulû` -> mücâhede kılıcı, `ve huzûhum` -> riyâzet zinciri, `vahsurûhum` -> murâkabe kuşatması, `vak'udû lehum külle mersad` -> nefis muhâsebesi nöbetgâhı) doğrudan içsel arınma mimarisine tercüme etmektedir. Kuşeyrî'ye göre dışarıdaki ahit bozan mütecavizle savaştan önce, kulun kendi kalbindeki *"şirk-i hafî"* (gizli şirk), riyâ, kibir ve *nefs-i emmâre* diktatörlüğüne karşı bâtınî bir teyakkuz (`merâsıdü'l-muhâsebe`) başlatması ahlâkî bir vecibedir; zira kendi içindeki nefsânî putları ve zulüm temayülünü kıramayan bir öznenin dış dünyada adalet tesis etmesi mümkün değildir.
 
 ---
 
@@ -570,11 +577,11 @@ Bu iddia şu derin teolojik ve metodolojik krizi doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579/1415
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1163
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/1621
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435/1553
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/946
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/2357/19/1415
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/1163
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/1621
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/1143/15/1553
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/946
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Institute for Economics and Peace [IEP] (2024).** *Global Peace Index 2024: Measuring Peace in a Complex World*. Sydney: Institute for Economics & Peace. https://www.economicsandpeace.org. Erişim adresi: https://www.economicsandpeace.org

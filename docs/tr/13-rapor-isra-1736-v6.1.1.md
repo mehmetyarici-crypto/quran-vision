@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "1365"
     arabic_quote: "وَلا تَقْفُ ولا تتبع. وقرئ: ولا تقف، يقال: قفا أثره وقافه، ومنه: القافة، يعنى: ولا تكن في اتباعك ما لا علم لك به من قول أو فعل، كمن يتبع مسلكا لا يدرى أنه يوصله إلى مقصده فهو ضال"
-    verification_link: "https://shamela.ws/book/23627/1365"
+    verification_link: "https://shamela.ws/book/2362/17/1365"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "680"
     arabic_quote: "اتّباع القفا، كما أنّ الارتداف اتّباع الرّدف، ويكنّى بذلك عن الاغتياب وتتبّع المعايب، وقوله تعالى: وَلا تَقْفُ ما لَيْسَ لَكَ بِهِ عِلْمٌ"
-    verification_link: "https://shamela.ws/book/23636/662"
+    verification_link: "https://shamela.ws/book/2363/16/662"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "112"
     arabic_quote: "القاف والفاء واللام أصلٌ صحيح يدلُّ أحدُهما على أوبةٍ من سفر، والآخر على صَلَابةٍ وشِدَّةٍ في شيء."
-    verification_link: "https://shamela.ws/book/21710/2165"
+    verification_link: "https://shamela.ws/book/2171/10/2165"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "15"
     pages: "194"
     arabic_quote: "لَا تَدْعُ مِنْ دَعَوْتُ، قَالَ: وقرأَ بَعْضُهُمْ وَلَا تَقُفْ مِثْلَ وَلَا تَقُلْ، وَقَالَ الأَخفش فِي قَوْلِهِ تَعَالَى: وَلا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ"
-    verification_link: "https://shamela.ws/book/1687/7805"
+    verification_link: "https://shamela.ws/book/168/17/7805"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "20"
     pages: "338"
     arabic_quote: "وَاعْلَمْ أَنَّ التَّفَاوُتَ الْحَاصِلَ بِسَبَبِ نُقْصَانِ الْكَيْلِ، وَالْوَزْنِ قَلِيلٌ وَالْوَعِيدَ الْحَاصِلَ عَلَيْهِ شَدِيدٌ عَظِيمٌ، فَوَجَبَ عَلَى الْعَاقِلِ الِاحْتِرَازُ"
-    verification_link: "https://shamela.ws/book/23635/3582"
+    verification_link: "https://shamela.ws/book/2363/15/3582"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -393,11 +393,25 @@ peer_review:
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (Bilişsel Vicdan ve Kalp Fıkhı):** Kalp fıkhı açısından 'fuâd', duyuların getirdiği veriyi ahlaki ve ontolojik bir süzgeçten geçiren basiret merkezidir. İnsanın zihnine düşen her vesvese ve zan bilgi değildir. Zanna teslim olmak enfüsi bir kirliliktir. Birey, zihnini kirli ve şüpheli malumattan korumakla mükelleftir.
-- **Âfâk (Dışsal Enformasyon Mimarisi):** Sosyal medya algoritmaları, dijital arşivler, yargı kayıtları ve gazetecilik ilkeleri fuâdın dış dünyadaki kurumsal izdüşümleridir. Bilişsel arınma olmaksızın kurulan dış sistemler bilgi çöplüğü üretir.
-- **Enfüsî-Karar Köprüsü:** İç dünyasında (`enfüs`) nefsani kibir, tamah ve öfkeyi terbiye edemeyen karar vericiler, dış dünyada (`âfâk`) kurumsal adaleti ve merhameti yaşatamaz; bu sebeple `ADIM 15`'teki politika kolları ahlaki öz-denetim şartına bağlanmıştır.
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+İsrâ 17:36 âyetinin dış dünyadaki (*âfâk*) hukuki, medyatik ve kurumsal tezahürü; hakikat-sonrası (*post-truth*) bilgi kirliliğini, dezenformasyonu, sahte delillerle yürütülen dijital linç kampanyalarını ve tahkiksiz yargılamaları `ve lâ takfu mâ leyse leke bihî 'ilm` (*"Hakkında kesin bilgin olmayan şeyin ardına düşme!"*) yasağıyla durdurarak kamusal bilişsel güvenliği ve insan onurunu korumaktır. Ancak Fussilet 41:53 âyetinin kurduğu ontolojik ayna ilişkisi uyarınca, kamusal alanı zehirleyen yalan haber ve iftira tufanının insanın iç dünyasındaki (*enfüs*) doğrudan kökü; kalpteki sû-i zan, mahremiyet ve kusur araştırma şehveti (*tecessüs*), dil ve kulak gafleti ile ilimsiz hüküm verme kibridir (*takvîl bi-gayri 'ilm*). Âyet-i kerîmede `inne's-sem'a ve'l-basara ve'l-fuâde küllü ülâike kâne 'anhu mes'ûlâ` (*"Şüphesiz kulak, göz ve kalp [fuâd]; bunların her biri ondan sorumludur"*) buyrularak dış duyular (kulak ve göz) ile içsel idrak ve vicdan merkezi (*fuâd*) arasında kopmaz bir epistemik murâkabe zinciri kurulmuştur. İç dünyasında nefsin dedikodu, teşhir ve ötekini karalama hazzını (*enfüs*) terbiye edemeyen bir toplumda, dış dünyadaki (*âfâk*) algoritmik doğrulama araçları ve basın meslek ilkeleri vicdanî dayanağını yitirerek dezenformasyonun hızlandırıcısına dönüşür.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
+Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe delilsiz söz söylemenin, şayia yaymanın ve zan peşinde koşmanın ardındaki bâtınî illetler; kalbin havâtır ve vesveselere teslim olması, dilin afetleri (*âfâtü'l-lisân*) ve murâkabe eksikliği olarak teşhis edilmiştir:
+- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, kalbe gelen düşüncelerin (*havâtır*), sû-i zannın ve dilin murâkabesini tahlil ederken; kulun kalbine doğan her tahmini ve kulağına çalınan her sözü hakikat sanarak peşine düşmesinin nefsin gaflet ve kibrinden kaynaklandığını, *vera'* ve *muhâsebe* ehlinin ise yakînî bilgiye (`'ilm`) dayanmayan hiçbir hükmü kalbinde barındırmadığını ve diline dökmediğini beyan eder (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 45–78, 175–198; Dijital erişim: [shamela.ws/book/9683/45](https://shamela.ws/book/9683/45)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildindeki *Kitâbü Âfâti'l-Lisân* ve *Rub'u'l-Münciyât* cildindeki *Kitâbü'l-Murâkabe ve'l-Muhâsebe* bölümlerinde; İsrâ 17:36 âyetini nefsin yirmi dil afetine (yalan, gıybet, koğuculuk, ilimsiz fetva ve cedel) ve kalbin sû-i zan marazına karşı en büyük ilahî sur olarak şerh eder. Gazzâlî'ye göre göz ve kulak kalbin kapılarıdır; kapılarını şüpheli ve kirli malumata kapatmayan kimsenin kalbi (*fuâd*) kararır ve basireti körelir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 108–160; C. 4, s. 391–415; Dijital erişim: [shamela.ws/book/9472/391](https://shamela.ws/book/9472/391)).
+- **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) `kâne 'anhu mes'ûlâ` (her uzvun ve kalbin hesaba çekileceği) bilincini kuşanmayan karar vericiler ve medya aktörleri, dış dünyada (`âfâk`) doğrulanmamış istihbarat veya sosyal medya şayialarıyla masum insanları mahkûm eder; bu sebeple `ADIM 15`'teki dijital okuryazarlık (`K1`), kriptografik kaynak doğrulama (`K2`) ve bağımsız teyit ombudsmanlığı (`K3`) kararları kalbî murâkabeyi kurumsal denetimle birleştirmektedir.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
+Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, İsrâ 17:36 âyetindeki *ilim*, *sem'*, *basar* ve *fuâd* kavramlarını zahirî duyuların ötesinde kalbin bâtınî basireti ve ilahî huzurdaki edebi olarak şerh etmişlerdir:
+- **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
+  - `[NAKİL]`: Kuşeyrî, İsrâ 17:36 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
+    > «وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَئِكَ كَانَ عَنْهُ مَسْئُولًا... الإشارة فيه: لا تتبع ما لم تستيقنه بنور البصيرة، ولا تتكلم بما لم يشهد به قلبك من الحق... وإن السمع والبصر والفؤاد كل أولئك كان عنه مسؤولاً، فحفظ هذه الجوارح ومراقبة واردات القلوب أصل سلوك أهل التحقيق»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 2, s. 346–347; Dijital doğrulama: [shamela.ws/book/23622/346](https://shamela.ws/book/23622/346) / [altafsir.com — Letâ'ifü'l-İşârât 17:36](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=17&tAyahNo=36&tDisplay=yes)).*
+  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); kulağın hakikatten başkasını dinlemekten, gözün ibret ve hikmet nazarı dışında bakmaktan, kalbin (*fuâd*) ise Hakk'ın dışındaki mâsivâya ve vehimlere meyletmekten hesaba çekileceğini; ârifin dilini ve zihnini zandan koruyarak yalnızca tahkik edilmiş hakikate şahitlik ettiğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 3, s. 203–204; Dijital erişim: [shamela.ws/book/11566/203](https://shamela.ws/book/11566/203)).
+  - `[YORUM]`: Kuşeyrî'nin *"Basiret nuruyla yakînen bilmediğin şeyin ardına düşme, kalbinin hak olduğuna şahitlik etmediği sözü konuşma; zira azaları korumak ve kalbe gelen vâridâtı murâkabe etmek ehl-i tahkikin sülûkunun aslıdır"* tespiti, epistemik ahlâkın en derin irfânî temelini kurar. İslam irfânında hakiki bilgi (`'ilm`), dedikodu ve algoritmik manipülasyon rüzgârlarıyla savrulmak değil; kulağı, gözü ve kalbi (*fuâd*) ilahî sorumluluk bilinciyle terbiye ederek her iddiayı burhan ve basiret süzgecinden geçirmektir.
 
 ---
 
@@ -558,11 +572,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/2165
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/7805
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/662
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/3582
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/1365
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/2165
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/7805
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/662
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/2363/15/3582
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/1365
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **International Fact-Checking Network [IFCN] (2024).** *IFCN Code of Principles and Fact-Checking Verification Standards 2024*. St. Petersburg, FL: The Poynter Institute. https://www.poynter.org/ifcn. Erişim adresi: https://www.poynter.org/ifcn

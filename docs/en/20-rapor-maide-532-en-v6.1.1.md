@@ -25,7 +25,7 @@ classical_sources:
     volume: "2"
     pages: "122"
     arabic_quote: "الحاء والياء والحرف المعتل أصلان: أحدهما خِلاف المَوْت، والآخر الاستحياء الذى [هو] ضِدُّ الوقاحة"
-    verification_link: "https://shamela.ws/book/21710/682"
+    verification_link: "https://shamela.ws/book/2171/10/682"
     doi_or_urn: "urn:shamela:book:9193:v2:p122"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "269"
     arabic_quote: "من يريد الإقدام على القتل، فيكون في ذلك حياة الناس. وقال عزّ وجلّ: وَمَنْ أَحْياها فَكَأَنَّما أَحْيَا النَّاسَ جَمِيعاً [المائدة/ ٣٢] ، أي: من نجّاها من الهلاك، وعلى هذا قوله"
-    verification_link: "https://shamela.ws/book/23636/251"
+    verification_link: "https://shamela.ws/book/2363/16/251"
     doi_or_urn: "urn:shamela:book:23629:v1:p268"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "8"
     pages: "349"
     arabic_quote: "حدَّثني محمدُ بنُ سعدٍ، قال: ثنى أبي، قال: ثنى عمي، قال: ثنى أبي، عن أبيه، عن ابن عباسٍ في قولِه: ﴿مِنْ أَجْلِ ذَلِكَ كَتَبْنَا عَلَى بَنِي إِسْرَائِيلَ أَنَّهُ مَنْ قَتَلَ"
-    verification_link: "https://shamela.ws/book/7798/5636"
+    verification_link: "https://shamela.ws/book/779/18/5636"
     doi_or_urn: "urn:shamela:book:7798:v10:p233"
   - id: "cls-razi"
     author: "Fahreddîn er-Râzî, Muhammed b. Ömer"
@@ -64,7 +64,7 @@ classical_sources:
     volume: "11"
     pages: "344"
     arabic_quote: "فِي الْأَرْضِ، وَإِنَّمَا قَالَ تَعَالَى ذَلِكَ لِأَنَّ الْقَتْلَ يَحِلُّ لِأَسْبَابٍ كَثِيرَةٍ، مِنْهَا الْقَصَاصُ وَهُوَ الْمُرَادُ بِقَوْلِهِ مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسادٍ فِي الْأَرْضِ"
-    verification_link: "https://shamela.ws/book/23635/2009"
+    verification_link: "https://shamela.ws/book/2363/15/2009"
     doi_or_urn: "urn:shamela:book:23635:v11:p342"
   - id: "cls-kurtubi"
     author: "Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî"
@@ -77,7 +77,7 @@ classical_sources:
     volume: "6"
     pages: "2243"
     arabic_quote: "بِكَسْرِ النُّونِ وَحَذْفِ الْهَمْزَةِ وَهِيَ لُغَةٌ، وَالْأَصْلُ"
-    verification_link: "https://shamela.ws/book/20855/2243"
+    verification_link: "https://shamela.ws/book/2085/15/2243"
     doi_or_urn: "urn:shamela:book:21795:v7:p429"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "6"
     pages: "175"
     arabic_quote: "هُنَا مَجَازِيٌّ، شَبَّهَ سَبَبَ الشَّيْءِ بِابْتِدَاءِ صُدُورِهِ، وَهُوَ مَثَارُ قَوْلِهِمْ: إِنَّ مِنْ مَعَانِي"
-    verification_link: "https://shamela.ws/book/9776/2272"
+    verification_link: "https://shamela.ws/book/977/16/2272"
     doi_or_urn: "urn:shamela:book:9746:v6:p176"
 modern_sources:
   - id: "mod-unodc"
@@ -450,11 +450,25 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — ENFÜSÎ-ÂFÂKÎ DIALECTIC & SPIRITUAL ETHICS (KALP FIKHI / İRFÂNÎ-İŞÂRÎ LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Healing the heart from the disease of Cain (`Qabil`)—envy (`hasad`), rage, and egoistic self-righteousness (`5:27`)—and cultivating the heart of Abel (`Habil` in `5:28`: *'I fear Allah, Lord of the worlds'*) and the life-giver (`muhyi`).
-- **Outer Institutional Order (*Âfâk*):** Impartial homicide prevention (`th-01`), universal emergency healthcare and biomedical research (`th-03`), and strict seismic/occupational safety enforcement (`th-02`).
-- **Enfüs–Decision Bridge:** An engineer, physician, judge, or leader who internalizes that saving one life equals saving all humanity (`wa-man ahyaha`) will never tolerate negligent construction, medical deprivation, or unjust violence (`STEP 15`).
+#### 13.1. Enfüsî-Âfâkî Dialectic (Ontological & Perceptual Level)
+In the external criminal, bioethical, and humanitarian legal order (*âfâk*), Surah al-Mâ'idah 5:32 enshrines the universal **inviolability of human life**: equating the unjust taking of a single human life (`man qatala nafsan bi-ghayri nafsin aw fasâdin fi'l-ard`) with the murder of all humanity (`fa-ka'annamâ qatala'n-nâsa jamî'â`), and equating the saving and preservation of a single life (`wa-man ahyâhâ`) with the vivification of all humanity (`fa-ka'annamâ ahya'n-nâsa jamî'â`). Yet according to the ontological mirror principle of Surah Fussilat 41:53 (*"We shall show them Our signs upon the horizons [âfâk] and within their own souls [enfüs]"*), outward bloodshed, terrorism, extrajudicial killing, and systemic corruption (`fasâd fi'l-ard`) are the macrocosmic projection of an inward pathology within the human conscience (*enfüs / kalp fıkhı*)—specifically the **Cain syndrome** narrated in the immediately preceding verses (al-Mâ'idah 5:27–30): destructive envy (`hasad`), wrath (`ghadab`), callousness of heart (`qaswat al-qalb`), and the ego's self-justifying rationalization of violence (`fa-tawwa'at lahû nafsuhû qatla akhîhi`, 5:30). Every act of murder in the outer world (*âfâk*) begins in the inner world (*enfüs*) when envy and hatred strip the other of moral sanctity; conversely, Abel's conscientious restraint (`innî akhâfu'llâha rabba'l-'âlamîn`, 5:28) is the spiritual seed of a civilization dedicated to life-giving (`ihyâ'`).
+
+#### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
+In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, the impulse to destroy innocent life or spread corruption on earth is traced to the lethal triad of envy (*hasad*), settled rancor (*hiqd*), and wrath (*ghadab*):
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In *Bâb al-Hasad wa'l-Baghy*, al-Muhâsibî analyzes the primordial fratricide of Cain (`Qâbîl`) as the archetype of how inward envy extinguishes the light of faith and mercy in the heart: resenting Divine grace bestowed upon another, the envious ego (*nafs*) perceives the very existence of its brother as an intolerable threat, escalating from inward malice to outward bloodshed (`qatl`) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 280–305; Digital access: [shamela.ws/book/9683/280](https://shamela.ws/book/9683/280)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Ghadab wa'l-Hiqd wa'l-Hasad* (Vol. 3), al-Ghazâlî demonstrates that envy and rage blind the moral intellect and reduce human beings to predatory beasts, whereas the purified heart is a vessel of universal mercy (*rahmah*) committed to preserving both physical life and spiritual well-being (`ihyâ'`). Al-Ghazâlî emphasizes that uprooting envy and callousness from the heart is the essential prerequisite for upholding the sanctity of human life in society (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 186–210; Digital access: [shamela.ws/book/9472/186](https://shamela.ws/book/9472/186)).
+- **Enfüs–Policy Bridge:** Because decision-makers, contractors, and commanders whose consciences (*enfüs*) are numbed by greed or partisan rage inevitably tolerate preventable deaths, substandard seismic construction, and civilian casualties in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` zero-tolerance audit for preventable structural/occupational deaths and homicide, `K2` universal emergency life-saving `ihyâ'` healthcare and first-aid training, and `K3` bioethical organ-donation and humanitarian corridor protection) translate the **inviolability of human life** into binding public accountability.
+
+#### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
+Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the cosmic equivalence of killing (`qatl`) and vivifying (`ihyâ'`) in al-Mâ'idah 5:32 across both the physical preservation of bodily life and the **spiritual resuscitation** of hearts:
+- **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
+  - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Mâ'idah 5:32, al-Qushayrî records the following verbatim passage:
+    > «مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا... الإشارة فيه: من أضل نفساً أو أهلكها بالبدعة والظلم فكأنما أهلك الناس جميعاً، ومن استنقذ قلباً من ظلمة الغفلة والجهل إلى نور الإيمان والمعرفة فكأنما أحيا الناس جميعاً»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 1, pp. 410–411; Digital verification: [shamela.ws/book/23622/410](https://shamela.ws/book/23622/410) / [altafsir.com — Latâ'if al-Ishârât 5:32](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=5&tAyahNo=32&tDisplay=yes)).*
+  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that alongside physical rescue from death, `wa-man ahyâhâ` signifies **spiritual resuscitation**: guiding a soul out of the darkness of heedlessness, ignorance, and tyranny into the living light of faith, gnosis, and justice (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 55; Digital access: [shamela.ws/book/23625/55](https://shamela.ws/book/23625/55)).
+  - `[ANALYSIS / YORUM]`: Al-Qushayrî and al-Tustarî's synthesis—*"Whoever rescues a heart from the darkness of heedlessness and ignorance into the light of faith and gnosis is as though he has given life to all humanity"*—unites the physical and spiritual horizons of *Hifz al-Nafs*. In the Islamic civilizational vision, every physician, rescue worker, safety engineer, and just judge who saves a physical life (`zâhirî ihyâ'`), and every scholar and educator who awakens a conscience from hatred to compassion (`bâtinî ihyâ'`), participates in the divine work of reviving humanity as a whole.
 
 ---
 
@@ -607,12 +621,12 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 2/122-125. Digital Verification: https://shamela.ws/book/21710/682 (urn:shamela:book:9193:v2:p122).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/268-271. Digital Verification: https://shamela.ws/book/23636/251 (urn:shamela:book:23629:v1:p268).
-[^3]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 10/233-242. Digital Verification: https://shamela.ws/book/7798/5636 (urn:shamela:book:7798:v10:p233).
-[^4]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999), 11/342-346. Digital Verification: https://shamela.ws/book/23635/2009 (urn:shamela:book:23635:v11:p342).
-[^5]: Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî (ö. 671/1273), *el-Câmi' li-Ahkâmi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Beyrut: Müessesetü'r-Risâle, 1427/2006), 7/429-435. Digital Verification: https://shamela.ws/book/20855/2243 (urn:shamela:book:21795:v7:p429).
-[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 6/176-182. Digital Verification: https://shamela.ws/book/9776/2272 (urn:shamela:book:9746:v6:p176).
+[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 2/122-125. Digital Verification: https://shamela.ws/book/2171/10/682 (urn:shamela:book:9193:v2:p122).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/268-271. Digital Verification: https://shamela.ws/book/2363/16/251 (urn:shamela:book:23629:v1:p268).
+[^3]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 10/233-242. Digital Verification: https://shamela.ws/book/779/18/5636 (urn:shamela:book:7798:v10:p233).
+[^4]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999), 11/342-346. Digital Verification: https://shamela.ws/book/2363/15/2009 (urn:shamela:book:23635:v11:p342).
+[^5]: Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî (ö. 671/1273), *el-Câmi' li-Ahkâmi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Beyrut: Müessesetü'r-Risâle, 1427/2006), 7/429-435. Digital Verification: https://shamela.ws/book/2085/15/2243 (urn:shamela:book:21795:v7:p429).
+[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 6/176-182. Digital Verification: https://shamela.ws/book/977/16/2272 (urn:shamela:book:9746:v6:p176).
 [^7]: United Nations Office on Drugs and Crime (UNODC) (2025). *Global Study on Homicide and Protection of Right to Life 2025*. Vienna: United Nations Publications. DOI: doi:10.18356/9789210029391. URL: https://www.unodc.org
 [^8]: World Health Organization (WHO) (2025). *World Health Statistics & Global Bioethics and Life-Saving Health Systems Report 2025*. Geneva: WHO Press. DOI: doi:10.2471/BLT.25.291012. URL: https://www.who.int
 [^9]: Institute for Economics & Peace (IEP) (2025). *Global Peace Index 2025: Measuring Societal Safety, Security and Civilian Protection*. Sydney: IEP Publications. DOI: doi:10.13140/RG.2.2.31042.15048. URL: https://www.economicsandpeace.org

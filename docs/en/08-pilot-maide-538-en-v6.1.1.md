@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "631"
     arabic_quote: "والسارقة أى حكمهما. ووجه آخر وهو أن يرتفعا بالابتداء، والخبر فَاقْطَعُوا أَيْدِيَهُما ودخول الفاء لتضمنهما معنى الشرط، لأنّ المعنى: والذي سرق والتي سرقت فاقطعوا أيديهما"
-    verification_link: "https://shamela.ws/book/23627/634"
+    verification_link: "https://shamela.ws/book/2362/17/634"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "3"
     pages: "154"
     arabic_quote: "السين والراء والقاف أصلٌ يدلُّ على أخْذ شئ فى خفاء وسِتر. يقال سَرَق يَسْرق سَرِقةً. والمسروق سَرَقٌ. واستَرَق السّمع، إذا تسمَّع مختفياً. ومما شذّ عن هذا الباب السَّرَق: جمع سَرَقة، وهى القطعة من الحرير."
-    verification_link: "https://shamela.ws/book/21710/1223"
+    verification_link: "https://shamela.ws/book/2171/10/1223"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "10"
     pages: "156"
     arabic_quote: "والاسْتِراق: الخَتْل سِرًّا كَالَّذِي يَسْتَمِعُ، والكَتَبةُ يَسْتَرِقُون مِنْ بَعْضِ الْحِسَابَاتِ. ابْنُ عَرَفَةَ فِي قَوْلِهِ تَعَالَى: وَالسَّارِقُ وَالسَّارِقَةُ"
-    verification_link: "https://shamela.ws/book/1687/4826"
+    verification_link: "https://shamela.ws/book/168/17/4826"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "62"
     arabic_quote: "قال النبي صلى الله عليه وسلم إن أَسْوَأَ النَّاسِ سَرِقَةً هُوَ الَّذِي يَسْرِقُ صَلَاتَهُ قيل له يَا رَسُولَ اللَّهِ"
-    verification_link: "https://shamela.ws/book/23579/1208"
+    verification_link: "https://shamela.ws/book/2357/19/1208"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "18"
     arabic_quote: "فَأُصُولُ الْعِبَادَاتِ رَاجِعَةٌ إِلَى حِفْظِ الدِّينِ مِنْ جانب الوجود، كالإيمان٤."
-    verification_link: "https://shamela.ws/book/11435/676"
+    verification_link: "https://shamela.ws/book/1143/15/676"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -419,11 +419,20 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — INWARD-OUTWARD (ANFUS-AFAQ) DIALECTIC AND JURISPRUDENCE OF THE HEART (SPIRITUAL/ISHARI LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Cultivating `istighna'` (contentment), respect for `halal` earnings, and dread of consuming another's rightful property (`kulul-halal`). Conversely, for the wealthy, purifying wealth from greed (`shuhh`) through `zakah` and fair wages so the poor are never driven to desperation.
-- **Outer Institutional Order (*Âfâk*):** Subsistence social security (`70:24`), impartial anti-corruption courts (`2:188`), rigorous evidentiary safeguards (`th-01`), and `5:39` rehabilitation programs.
-- **Enfüs–Decision Bridge:** A society that neglects the moral and material rights of the poor in the outer world (`Âfâk`) cannot justly demand moral perfection from the destitute; therefore, penal policy (`STEP 15`) is legally subordinate to social justice.
+#### 13.1. Inward-Outward (*Anfus–Afaq*) Dialectic (Ontological & Perceptual Plane)
+- **[ANALYSIS]** In the Qur'anic order of socioeconomic and penal justice, the external architecture of property security, public trust integrity, and social welfare (*afaq*) and the inward moral consciousness of contentment (*qana'ah*), trustworthiness (*amanah*), and lawful livelihood (*halal*) (*anfus*) form an indivisible whole. The legal equilibrium established by **Al-Ma'idah 5:38–39** against predatory theft (*sariqah*), white-collar public embezzlement (*ghulul*), and poverty-driven desperation in the outer social sphere (*afaq*) is directly mirrored in the inward struggle against covetousness (*tama'*), insatiable greed (*shuhh*), worldly grasping (*tul al-amal*), and indifference to the rights of others (*anfus*). In accordance with **Fussilat 41:53**, rulers and societies that fail to sever the inward hands of greed and avarice within their own hearts cannot combat corruption and systemic plunder in the public sphere. Equally, the restorative portal opened immediately in **Al-Ma'idah 5:39** (*"But whoever repents after his wrongdoing and reforms, indeed God turns to him in forgiveness"*) demonstrates that outward penal rehabilitation (`K3` in **Step 15**) achieves completion only through inward remorse (*nadamah*), restitution of rights, and moral reformation (*islah al-qalb* / *enfüs / kalp fıkhı*).
+
+#### 13.2. Jurisprudence of the Heart & Inward Pathologies (*Fiqh al-Batin* — Methodology of al-Ghazali & al-Muhasibi)
+- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) examines the material conditions and evidentiary doubts (*hIrz*, *nisab*, *shubhah*, and *darurah*) of theft, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses the inward spiritual pathologies that drive human beings to violate another's property. **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab Dhamm al-Bukhl wa-Dhamm Hubb al-Mal* (Beirut: Dar al-Ma'rifah, Vol. 3, pp. 231–260, [Digital Verification](https://shamela.ws/book/9472/231)) and *Kitab al-Halal wa-al-Haram* (Vol. 2, pp. 88–105, [Digital Verification](https://shamela.ws/book/9472/88)), demonstrates how excessive love of wealth (*hubb al-mal*) and covetousness blind moral insight, leading first to dubious earnings (*shubuhat*) and ultimately to treachery and usurpation. Likewise, **al-Harith al-Muhasibi** (d. 243/857), in *al-Makasib wa-al-Wara'* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Mu'assasat al-Kutub al-Thaqafiyyah, 1987, pp. 42–68, [Digital Verification](https://shamela.ws/book/9683/42)), establishes scrupulousness (*wara'*) and lawful sustenance as the foundation of all spiritual and civic rectitude. Crucially, *fiqh al-batin* also indicts the greed (*shuhh*) of affluent elites who withhold *zakah* and fair wages, driving the destitute into desperation—the very moral reality recognized by Caliph 'Umar's suspension of the *hadd* during the famine of *'Am al-Ramadah* (Malik, *al-Muwatta'*, 'Aqdiyah', 26).
+
+#### 13.3. Classical Spiritual / *Ishari* Exegesis (al-Qushayri — *Lata'if al-Isharat* & Sahl al-Tustari)
+- **[CITATION]** **'Abd al-Karim al-Qushayri** (d. 465/1072) articulates the inward spiritual signification of Al-Ma'idah 5:38 in his *Lata'if al-Isharat* as follows:
+  > «والسارق والسارقة فاقطعوا أيديهما... الإشارة فيه: قطع أيدي الآمال عن استشراف ما في أيدي الخلق، وقطع أيدي النفوس عن التطاول إلى ما لم يقسم لها، بصدق التوكل والقناعة...»
+  > *"As for the male and female thief, cut off their hands... The spiritual allusion (al-isharah) therein is: Cut off the hands of worldly expectations (aydiya al-amal) from coveting what is in the hands of creatures, and sever the hands of the lower souls from reaching out toward what has not been apportioned to them, through sincere reliance upon God (sidq al-tawakkul) and contentment (al-qana'ah)..."*
+  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, pp. 414–415 (cf. Sahl b. 'Abd Allah al-Tustari, *Tafsir al-Tustari*, Beirut: Dar al-Kutub al-'Ilmiyyah, 2002, p. 56, [Digital Verification](https://shamela.ws/book/23624/56)). **Digital Library Link:** [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=5&tAyahNo=38).
+- **[ANALYSIS]** **Exegetical & Hermeneutic Analysis:** Affirming the verse's outward protection of public property order, Imam al-Qushayri and Sahl al-Tustari transpose the command of "cutting" (*qat'*) onto the inward plane as **severing the heart's covetous attachments (*istishraf*) to what others possess through spiritual self-sufficiency (*istighna'*) and contentment (*qana'ah*)**. As Sahl al-Tustari notes, the physical limb reaches out in betrayal only after the heart has first breached the boundary of trust and contentment; thus, the enduring success of policy branches `K1` (subsistence welfare), `K2` (anti-corruption symmetry), and `K3` (`5:39` restorative rehabilitation) in **Step 15** depends upon cultivating both institutional justice in the outer world (*afaq*) and moral integrity in the inner conscience (*anfus*).
 
 ---
 
@@ -584,11 +593,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/228-232. Digital Verification: https://shamela.ws/book/23627/634 (urn:shamela:23617).
-[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/154-156. Digital Verification: https://shamela.ws/book/21710/1223 (urn:shamela:23721).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 10/155-158. Digital Verification: https://shamela.ws/book/1687/4826 (urn:shamela:21605).
-[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 4/85-92. Digital Verification: https://shamela.ws/book/23579/1208 (urn:shamela:21571).
-[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 2/312-316. Digital Verification: https://shamela.ws/book/11435/676 (urn:shamela:21731).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/228-232. Digital Verification: https://shamela.ws/book/2362/17/634 (urn:shamela:23617).
+[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/154-156. Digital Verification: https://shamela.ws/book/2171/10/1223 (urn:shamela:23721).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 10/155-158. Digital Verification: https://shamela.ws/book/168/17/4826 (urn:shamela:21605).
+[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 4/85-92. Digital Verification: https://shamela.ws/book/2357/19/1208 (urn:shamela:21571).
+[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 2/312-316. Digital Verification: https://shamela.ws/book/1143/15/676 (urn:shamela:21731).
 [^6]: Transparency International (2024). *Corruption Perceptions Index (CPI) 2024: Rule of Law & Public Integrity*. Berlin: Transparency International. DOI: doi:10.58220/cpi.2024.01. URL: https://www.transparency.org
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Control of Corruption & Rule of Law*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org
 

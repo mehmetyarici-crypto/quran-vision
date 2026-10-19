@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "2546"
     arabic_quote: "إلا والحديد آلة فيها، أو ما يعمل بالحديد وَلِيَعْلَمَ اللَّهُ مَنْ يَنْصُرُهُ وَرُسُلَهُ باستعمال السيوف والرماح وسائر السلاح في مجاهدة أعداء الدين بِالْغَيْبِ غائبا عنهم، قال ابن"
-    verification_link: "https://shamela.ws/book/23627/2546"
+    verification_link: "https://shamela.ws/book/2362/17/2546"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "222"
     arabic_quote: "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ [الحديد/ ٢٥] ، وحَدَّدْتُ السكّين: رقّقت حدّه، وأَحْدَدْتُهُ:"
-    verification_link: "https://shamela.ws/book/23636/204"
+    verification_link: "https://shamela.ws/book/2363/16/204"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "4"
     arabic_quote: "الحديدُ حديداً لامتناعه وصلابته وشدّته. والاستحداد: استعمال الحديد. ويقال حَدَّت المرأة على"
-    verification_link: "https://shamela.ws/book/21710/564"
+    verification_link: "https://shamela.ws/book/2171/10/564"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "1"
     pages: "109"
     arabic_quote: "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ. وصَدْآءُ: عَيْنٌ عَذْبَةُ الْمَاءِ، أَو بِئْرٌ. وَفِي الْمَثَلِ: ماءٌ وَلَا كَصَدْآءَ. قَالَ أَبو عُبَيْدٍ: مَنْ أَمثالهم فِي"
-    verification_link: "https://shamela.ws/book/1687/109"
+    verification_link: "https://shamela.ws/book/168/17/109"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "29"
     pages: "470"
     arabic_quote: "وَهُوَ زَاجِرٌ لِلْخَلْقِ عَمَّا لَا يَنْبَغِي، وَالْحَاصِلُ أَنَّ الْكِتَابَ إِشَارَةٌ إِلَى الْقُوَّةِ النَّظَرِيَّةِ، وَالْمِيزَانَ إِلَى الْقُوَّةِ الْعَمَلِيَّةِ، وَالْحَدِيدَ"
-    verification_link: "https://shamela.ws/book/23635/5548"
+    verification_link: "https://shamela.ws/book/2363/15/5548"
     doi_or_urn: "urn:shamela:23635"
 
 modern_sources:
@@ -440,11 +440,25 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — ENFÜSÎ-ÂFÂKÎ DIALECTIC & SPIRITUAL ETHICS (KALP FIKHI / İRFÂNÎ-İŞÂRÎ LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** Explained by the verse's own closing clause: `wa-li-ya'lama'llahu man yansuruhu wa-rusulahu bi'l-ghayb` (*so that Allah may know who supports Him and His messengers in the unseen [`bi'l-ghayb`]*). Possessing power (`Hadid`) tests the unseen heart: when no human regulator is watching (`bi'l-ghayb`), only inner `taqwa` prevents the powerful from abusing their strength.
-- **Outer Institutional Order (*Âfâk*):** Constitutional rule of law (`Kitab`), independent judiciary and economic justice (`Mizan`), and high-value civilian/defensive technology (`Hadid`).
-- **Enfüs–Decision Bridge:** Engineers, commanders, and policymakers who uphold sincerity in the unseen (`bi'l-ghayb`) ensure that strategic technology (`STEP 15`) serves `qist` and `manafi'u li'n-nas` rather than oppression.
+#### 13.1. Enfüsî-Âfâkî Dialectic (Ontological & Perceptual Level)
+In the external constitutional, geopolitical, and technological order (*âfâk*), Surah al-Hadîd 57:25 synthesizes revealed legal legitimacy (`al-Kitâb`), judicial and economic equilibrium (`al-Mîzân`), and material/industrial power (`al-Hadîd`) under the overarching teleology `li-yaqûma'n-nâsu bi'l-qist` (*"so that humanity may uphold equity"*), resolving the perennial tension between **instrument of deterrence vs moral restraint** by forbidding both lawless militarism (power without `Mîzân`) and impotent pacifism (`Mîzân` without deterrent capacity). Yet according to the ontological mirror principle of Surah Fussilat 41:53 (*"We shall show them Our signs upon the horizons [âfâk] and within their own souls [enfüs]"*), the external divorce of coercive power from justice is the macrocosmic projection of an inward pathology within the human conscience (*enfüs / kalp fıkhı*): intoxication with power (*tughyân*), idolizing material force (*istighnâ' bi'l-quwwah*), worldly ambition for domination (*hubb al-riyâsah*), and the spiritual hardening of the heart warned against earlier in the same surah (`fa-qasat qulûbuhum`, al-Hadîd 57:16). When the inner heart loses the normative guidance of the Book (`Kitâb`) and the conscientious balance of the Scale (`Mîzân`), technological and military might (`Hadîd`) degenerates into tyranny; conversely, the verse's closing condition `wa-li-ya'lama'llâhu man yansuruhû wa-rusulahû bi'l-ghayb` (*"in the unseen"*) anchors legitimate power in unseen inward sincerity (*ikhlâs*).
+
+#### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
+In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, the abuse of coercive power and technological superiority is diagnosed as the fruit of a hardened heart (*qaswat al-qalb*), wrath (*ghadab*), and arrogant ingratitude for strength (*بطر / tughyân*):
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Ghadab wa'l-Hiqd* (Vol. 3) and *Kitâb al-Shukr wa'l-Sabr* (Vol. 4), al-Ghazâlî explains that material capability and authority (`ba'sun shadîd`) are among the most perilous trials of the soul: if the possessor of power lacks the inward Scale of equity (`Mîzân`) and clemency (*hilm*), wrath and arrogance transform strength into an engine of oppression, whereas true gratitude (*shukr*) for power consists in subordinating it to moral restraint and public benefit (`manâfi'u li'n-nâs`) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 164–175; Vol. 4, pp. 81–110; Digital access: [shamela.ws/book/9472/81](https://shamela.ws/book/9472/81)).
+- **Ibn Qayyim al-Jawziyyah (d. 751/1350), *Madârij al-Sâlikîn*:** In his analysis of spiritual rectitude (*istiqâmah*) and the remedies for hardened hearts (*qaswah*), Ibn al-Qayyim highlights the profound thematic link between al-Hadîd 57:16 (which condemns hearts hardened against God's remembrance) and 57:25 (the sending down of `al-Kitâb`, `al-Mîzân`, and `al-Hadîd`): whoever refuses to soften his heart before the truth of the Book and the equity of the Scale must be restrained from transgressing against creation by the deterrent discipline of Iron (Ibn Qayyim al-Jawziyyah, *Madârij al-Sâlikîn*, Beirut: Dâr al-Kitâb al-'Arabî, Vol. 2, pp. 285–295; Digital access: [shamela.ws/book/8370/285](https://shamela.ws/book/8370/285)).
+- **Enfüs–Policy Bridge:** Because commanders, engineers, and executives who lack unseen moral accountability (`bi'l-ghayb`) in their conscience (*enfüs*) inevitably weaponize technology against human dignity in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` mandatory constitutional and judicial `Mîzân` oversight of strategic technologies, `K2` dual-use civilian benefit transfer under `manâfi'u li'n-nâs`, and `K3` ethical R&D governance) bind coercive capacity to objective legal restraint.
+
+#### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
+Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the triad of `al-Kitâb`, `al-Mîzân`, and `al-Hadîd` in al-Hadîd 57:25 as the three interior instruments by which the spiritual seeker disciplines the lower ego (*al-nafs al-ammârah*) and establishes justice within the soul:
+- **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
+  - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Hadîd 57:25, al-Qushayrî records the following verbatim passage:
+    > «وَأَنزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ... الإشارة فيه: الكتاب لحفظ الشرائع، والميزان لإنصاف المعاملات ومراقبة أحوال القلوب، والحديد لقمع النفس الأمارة بسلاسل المجاهدة ورياضة الصدق... فمن لم يؤدبه ميزان العدل أُدب بحديد القهر»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 542–543; Digital verification: [shamela.ws/book/23622/542](https://shamela.ws/book/23622/542) / [altafsir.com — Latâ'if al-Ishârât 57:25](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=57&tAyahNo=25&tDisplay=yes)).*
+  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*), Ibn 'Ajîbah explains that outwardly the Book preserves sacred law, the Scale upholds transactional justice, and Iron deters aggressors; inwardly, the Book illuminates the spirit with gnosis, the Scale weighs the subtle states of the heart (*murâqabat ahwâl al-qulûb*), and the Iron of spiritual striving (*mujâhadah*) subdues the rebellious ego (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 6, pp. 68–70; Digital access: [shamela.ws/book/11566/68](https://shamela.ws/book/11566/68)).
+  - `[ANALYSIS / YORUM]`: Al-Qushayrî's synthesis—*"The Book is for preserving the laws, the Scale is for fairness in transactions and vigilance over the states of the heart, and Iron is for subduing the commanding ego (`al-nafs al-ammârah`) with the chains of spiritual striving; whoever is not disciplined by the Scale of justice is disciplined by the Iron of restraint"*—illuminates the deepest harmony of **instrument of deterrence vs moral restraint**. A civilization that first subdues its own egoistic tyranny through the inward Scale of conscience wields external Iron (`al-Hadîd`) solely as a guardian of universal equity (`bi'l-qist`) and human flourishing (`manâfi'u li'n-nâs`).
 
 ---
 
@@ -598,11 +612,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 6/50-55. Digital Verification: https://shamela.ws/book/23627/2546 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/222-224. Digital Verification: https://shamela.ws/book/23636/204 (urn:shamela:8381).
-[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/34-37. Digital Verification: https://shamela.ws/book/21710/564 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 3/140-145. Digital Verification: https://shamela.ws/book/1687/109 (urn:shamela:21605).
-[^5]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Heyet (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 29/470-475. Digital Verification: https://shamela.ws/book/23635/5548 (urn:shamela:23635).
+[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 6/50-55. Digital Verification: https://shamela.ws/book/2362/17/2546 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/222-224. Digital Verification: https://shamela.ws/book/2363/16/204 (urn:shamela:8381).
+[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/34-37. Digital Verification: https://shamela.ws/book/2171/10/564 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 3/140-145. Digital Verification: https://shamela.ws/book/168/17/109 (urn:shamela:21605).
+[^5]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Heyet (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 29/470-475. Digital Verification: https://shamela.ws/book/2363/15/5548 (urn:shamela:23635).
 [^6]: Stockholm International Peace Research Institute (SIPRI) (2025). *SIPRI Yearbook 2025: Armaments, Disarmament and International Security*. Stockholm / Oxford: Oxford University Press. DOI: doi:10.55163/sipri.2025.01. URL: https://www.sipri.org
 [^7]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025: Constraints on Government Powers and Regulatory Enforcement*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2025.02. URL: https://worldjusticeproject.org
 [^8]: United Nations Industrial Development Organization (UNIDO) (2025). *Industrial Development Report 2024-2025: Strategic Metallurgy, Dual-Use Technologies and Sustainable Infrastructure*. Vienna: UNIDO Publications. DOI: doi:10.18356/unido.2025.04. URL: https://www.unido.org

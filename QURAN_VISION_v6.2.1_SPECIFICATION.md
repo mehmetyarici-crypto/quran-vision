@@ -1,14 +1,29 @@
-# QURAN VISION ENSTİTÜSÜ • KUR'AN TEMELLİ GELECEK VİZYONU (QURAN VISION) — v6.2.1
-## Metodoloji, 26 Adımlı Analiz Mimarisi, İSNAD 2 / DOI Doğrulama Standardı, Çift Dilli (TR/EN) Külliyat Motoru ve Tam Uygulama Şartnamesi
+# QURAN VISION ENSTİTÜSÜ • KUR'AN TEMELLİ GELECEK VİZYONU (QURAN VISION) — v6.2.2
+## Metodoloji, 26 Adımlı Analiz Mimarisi, İSNAD 2 / DOI Doğrulama Standardı, 3 Sarsılmaz Klasik Tahkik İlkesi, Adım 13 İrfânî Bütünlük Standardı ve Tam Uygulama Şartnamesi
 
-- **Sürüm:** `v6.2.1` (Külliyat, İSNAD 2 + APA 7/DOI, Çift Dilli A4 PDF, XMP ve CERN/Zenodo Tescil Sürümü)
-- **Tarih:** 15 Ekim 2026
-- **Önceki Sürümler:** `v5.1.3` $\rightarrow$ `v5.2.0` $\rightarrow$ `v6.0.0` $\rightarrow$ `v6.1.0` $\rightarrow$ `v6.1.1` $\rightarrow$ `v6.2.0` $\rightarrow$ `v6.2.1`
-- **Kapsam:** Katman 3 (Akademik-Derin); 5 Makro Faz, 26 Analiz Adımı, `Z-1..Z-5` Zorunlu/Koşullu Ekler (`Z-4.5` Çift Katmanlı Bibliyografya dahil), 40 Dakikalık TYMM Pedagojik Ders Planı ve Çift Dilli (TR/EN) Yayın Hattı
-- **Kalıcı CERN/Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23410818` (v6.2.1 Sürüm DOI)
+- **Sürüm:** `v6.2.2` (Külliyat, İSNAD 2 + Lafzî Şâmile İktibası + Nokta Atışı `page_id` + Adım 13 Üçlü İrfânî Reform, Çift Dilli A4 PDF, XMP ve CERN/Zenodo Tescil Sürümü)
+- **Tarih:** 20 Ekim 2026
+- **Önceki Sürümler:** `v5.1.3` $\rightarrow$ `v5.2.0` $\rightarrow$ `v6.0.0` $\rightarrow$ `v6.1.0` $\rightarrow$ `v6.1.1` $\rightarrow$ `v6.2.0` $\rightarrow$ `v6.2.1` $\rightarrow$ `v6.2.2`
+- **Kapsam:** Katman 3 (Akademik-Derin); 5 Makro Faz, 26 Analiz Adımı, `Z-1..Z-5` Zorunlu/Koşullu Ekler (`Z-4.5` Çift Katmanlı Bibliyografya dahil), 40 Dakikalık TYMM Pedagojik Ders Planı ve Çift Dilli (TR/EN) Yayın Hattı (33 A4 PDF)
+- **Kalıcı CERN/Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23410818` (Sürüm DOI)
 - **Canlı Külliyat Portalı:** https://mehmetyarici-crypto.github.io/quran-vision/
 - **Açık Bilim Lisansı:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (`CC BY-NC-SA 4.0`)
-- **Tam Metin Eşleniği (`.txt`):** [`docs/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt`](docs/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt) | [`docs/tr/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt`](docs/tr/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt)
+- **Ana Talimatname Anayasası:** [`TALIMATNAME.md`](TALIMATNAME.md) | [`docs/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt`](docs/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt) | [`docs/tr/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt`](docs/tr/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt)
+
+---
+
+## 🛡️ GELECEK TÜM ÂYET MONOGRAFİLERİ (`QV-2026-016` VE SONRASI) İÇİN SARSILMAZ ANAYASAL STANDARTLAR (BAĞLAYICI MADDELER)
+
+Gelecekte Quran Vision külliyatına eklenecek tüm âyet monografilerinde (`QV-2026-016` ve sonrası) aşağıdaki **4 bağlayıcı anayasal kural** istisnasız uygulanır ve `src/gem_lint.py` tarafından **KESİCİ HATA (`BLOCK`)** seviyesinde denetlenir:
+
+1. **Madde 1 — Lafzî İktibas İlkesi (*nakl bi'l-lafz*):**
+   `classical_sources` altındaki `arabic_quote` alanına asla özet/telhîs (*nakl bi'l-ma'nâ*) metin yazılamaz; alıntı doğrudan **el-Mektebetü'ş-Şâmile**'deki (`shamela.ws`) orijinal metinden harfi harfine alınmalı ve tarayıcıda `Ctrl+F` yapıldığında **%100** bulunmalıdır.
+2. **Madde 2 — Nokta Atışı Sayfa ID Bağlantısı (`page_id`):**
+   Genel kitap kapağı linkleri (`https://shamela.ws/book/<book_id>`) kesinlikle yasaktır; bağlantı mutlaka `https://shamela.ws/book/<book_id>/<page_id>` formatında cümlenin fiilen geçtiği sayfayı göstermelidir (`src/gem_lint.py` **Kontrol A — `L-0107` BLOCK**).
+3. **Madde 3 — Gövde Metni Tahrîc ve Parantez Standardı:**
+   Metin içindeki tüm hadisler **Kütüb-i Sitte** tahrîciyle (*Buhârî, Müslim, Ebû Dâvûd, Tirmizî, Nesâî, İbn Mâce* vb. bâb ve hadis numarasıyla), âyetler standart `(Sûre Adı Sûre No/Âyet No)` veya `(Sûre Adı Sûre No:Âyet No)` paranteziyle, ulemâ ve sahâbe kavilleri ise **İSNAD 2** matbu cilt/sayfa ve doğrulanabilir dijital bağlantısıyla belgelenmelidir.
+4. **Madde 4 — Adım 13 Üçlü Bütünlük (*Enfüsî-Âfâkî Diyalektik ve Kalp Fıkhı*):**
+   `### ADIM 13` (ve İngilizce eşleniğinde `### STEP 13`) mutlaka **13.1 (Enfüsî-Âfâkî Diyalektik)**, **13.2 (Kalp Fıkhı ve Bâtınî İlletler)** ve **13.3 (Klasik İşârî ve İrfânî Tahrîc — Kuşeyrî, Gazzâlî, Muhâsibî, Sehl et-Tüsterî, İbn Acîbe veya Râgıb el-İsfahânî metni ve orijinal Arapça iktibası)** alt başlıklarıyla birleşik olarak yazılmalıdır (`src/gem_lint.py` **Kontrol B — `L-2301..L-2303` BLOCK**).
 
 ---
 
@@ -27,7 +42,7 @@
 - **Akademik Statü:** `.zenodo.json` (`contributors` $\rightarrow$ `"type": "Supervisor"`) ve Schema.org JSON-LD katmanında Akademik Danışman ve Dış Hakem olarak tescillidir.
 
 ### 3) 📋 Efrâdını Câmi‘, Ağyârını Mâni‘ Resmi Takdim Özeti
-> **Mehmet Yarıcı** (Uludağ Üniversitesi İlahiyat Fakültesi, 1989; T.C. MEB, ORCID: `0009-0003-0356-8582`) tarafından kurgulanan ve kaleme alınan, **Mehmet Emin Koç**’un (Azerbaycan Milli İlimler Akademisi Felsefe ve Sosyoloji Enstitüsü, ORCID: `0000-0002-1025-5643`) akademik danışmanlık ve dış hakemliğini üstlendiği **"Kur’ân Vizyonu (Quran Vision): Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı (v6.2.1; DOI: `10.5281/zenodo.23391192`)"**; Kur’ân-ı Kerîm’in hukuk, adalet, kamu emaneti, şûra, barış inşası, epistemik doğrulama, iktisadi denge, çoğulculuk ve insan hayatının dokunulmazlığı eksenindeki **15 kurucu âyetini (`QV-2026-001` – `QV-2026-015`)** *"26 Adımlı Kanıt-Temelli Analitik Çerçeve"* ile inceleyen, Türkçe ve İngilizce çift dilli açık erişim bir araştırma külliyatıdır. Eser; lafzî-filolojik tahlil, sebeb-i nüzûl ve **İSNAD 2. Edisyon** standardında cilt/sayfa/tahkik düzeyinde doğrulanmış **76 klasik Arapça tefsir ve fıkıh kaynağını** (Taberî, Mâtürîdî, Râzî, Kurtubî, İbn Âşûr, Şâtıbî vd.), Makâsıdü’ş-Şerîa’nın *zarûriyyât-ı hamse* (dîn, nefis, akıl, nesil ve mal emniyeti) ilkeleriyle birleştirmekte; klasik tefsir mirasını Dünya Bankası, UNDP, WJP, UNESCO, SIPRI, OECD ve WHO gibi uluslararası kuruluşların **45 güncel ampirik (DOI’li) veri seti**, **2026–2036 dönemini kapsayan Bayesyen olasılık ve politika simülasyonları**, yanlışlanabilir erken uyarı eşikleri ve **40 dakikalık yapılandırılmış seminer/münazara ders planlarıyla (TYMM)** sentezlemektedir. Metin dışı spekülatif yorumları, anakronik okumaları ve tahkiksiz nakilleri **"0 Kesici Hata (Zero-Block Linter)"** ve **kriptografik SHA-256 doğrulama protokolüyle** dışarıda bırakan külliyat; İslâmî ilimlerin sahih rivayet ve dirayet omurgasını çağdaş sosyal bilimler, veri bilimi ve stratejik öngörü metodolojisiyle buluşturan özgün bir medeniyet ve tefsir modeli sunmaktadır.
+> **Mehmet Yarıcı** (Uludağ Üniversitesi İlahiyat Fakültesi, 1989; T.C. MEB, ORCID: `0009-0003-0356-8582`) tarafından kurgulanan ve kaleme alınan, **Mehmet Emin Koç**’un (Azerbaycan Milli İlimler Akademisi Felsefe ve Sosyoloji Enstitüsü, ORCID: `0000-0002-1025-5643`) akademik danışmanlık ve dış hakemliğini üstlendiği **"Kur’ân Vizyonu (Quran Vision): Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı (v6.2.2; DOI: `10.5281/zenodo.23391192`)"**; Kur’ân-ı Kerîm’in hukuk, adalet, kamu emaneti, şûra, barış inşası, epistemik doğrulama, iktisadi denge, çoğulculuk ve insan hayatının dokunulmazlığı eksenindeki **15 kurucu âyetini (`QV-2026-001` – `QV-2026-015`)** *"26 Adımlı Kanıt-Temelli Analitik Çerçeve"* ile inceleyen, Türkçe ve İngilizce çift dilli açık erişim bir araştırma külliyatıdır. Eser; lafzî-filolojik tahlil, sebeb-i nüzûl ve **İSNAD 2. Edisyon** standardında cilt/sayfa/tahkik ve nokta atışı Şâmile `page_id` bağlantısıyla doğrulanmış **77 klasik Arapça tefsir, fıkıh ve irfân kaynağını** (Taberî, Mâtürîdî, Râzî, Kurtubî, İbn Âşûr, Şâtıbî, Kuşeyrî, Gazzâlî, Muhâsibî, Sehl et-Tüsterî vd.), Makâsıdü’ş-Şerîa’nın *zarûriyyât-ı hamse* (dîn, nefis, akıl, nesil ve mal emniyeti) ilkeleriyle birleştirmekte; klasik tefsir mirasını Dünya Bankası, UNDP, WJP, UNESCO, SIPRI, OECD ve WHO gibi uluslararası kuruluşların **45 güncel ampirik (DOI’li) veri seti**, **2026–2036 dönemini kapsayan Bayesyen olasılık ve politika simülasyonları**, yanlışlanabilir erken uyarı eşikleri ve **40 dakikalık yapılandırılmış seminer/münazara ders planlarıyla (TYMM)** sentezlemektedir. Metin dışı spekülatif yorumları, anakronik okumaları ve tahkiksiz nakilleri **"0 Kesici Hata (Zero-Block Linter)"** ve **kriptografik SHA-256 doğrulama protokolüyle** dışarıda bırakan külliyat; İslâmî ilimlerin sahih rivayet, dirayet ve irfân omurgasını çağdaş sosyal bilimler, veri bilimi ve stratejik öngörü metodolojisiyle buluşturan özgün bir medeniyet ve tefsir modeli sunmaktadır.
 
 ### 4) ⚖️ Akademik Yönetişim ve Rol Beyanı (Governance & Role Disclosure — COPE & İlke 4)
 - **Kurum Dışı Bağımsız Denetim ve Danışmanlık Beyanı:** **Mehmet Emin Koç** (Azerbaycan Milli İlimler Akademisi / AMEA - ANAS, Felsefe ve Sosyoloji Enstitüsü), başyazarın kurumundan bağımsız dış akademisyen sıfatıyla külliyatın metodolojik dış denetim ve akademik danışmanlık sürecini yürütmüştür.
@@ -38,7 +53,7 @@
 
 ## 1. Amaç, Kapsam ve 6 Temel Epistemik İlke
 
-Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.1**), Kur'an âyetleri üzerine filolojik, tefsirî, usûlî, makâsıdî ve ampirik politika analizini düzenleyen bilimsel bir araştırma ve öngörü çerçevesidir. Bir fetva, bağlayıcı yargı kararı, ilahî muradın tek temsili veya kendi başına dış akademik hakemlik onayı değildir.
+Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.2**), Kur'an âyetleri üzerine filolojik, tefsirî, usûlî, makâsıdî, irfânî ve ampirik politika analizini düzenleyen bilimsel bir araştırma ve öngörü çerçevesidir. Bir fetva, bağlayıcı yargı kararı, ilahî muradın tek temsili veya kendi başına dış akademik hakemlik onayı değildir.
 
 1. **Otorite Sınırı:** Çıktı analitik ve beşerî bir içtihat/yorumdur; dinî fetva veya adli kaza hükmü yerine geçmez.
 2. **Determinizm Sınırı:** Toplumsal sonuçlar kaçınılmaz kader kabul edilmez; insan iradesi (sünnetullah), kurumlar ve bağlam birlikte değerlendirilir.
@@ -49,10 +64,10 @@ Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.1**), Kur'an âyetleri üz
 
 ---
 
-## 2. On İki Doğrulama Modülü (V1–V12)
+## 2. On Dört Doğrulama Modülü (V1–V14)
 
-- **V1 — İki Katmanlı Kaynak Künyesi ve İzlenebilir Atıf:**
-  - `classical_sources`: Klasik İslami kaynaklarda İSNAD 2. Edisyon standardında müellif (`author`), hicrî/milâdî vefat tarihi (`death_year: "ö. H/M"`), eser adı (`work`), muhakkik (`editor`), yayınevi (`publisher`), basım yeri (`publication_place`), basım yılı (`publication_year`), cilt (`volume`), sayfa (`pages`), orijinal Arapça ibare (`arabic_quote`), doğrulama bağlantısı (`verification_link`) ve URN/DOI (`doi_or_urn`) zorunludur.
+- **V1 — İki Katmanlı Kaynak Künyesi, Lafzî İktibas ve Nokta Atışı `page_id` (`L-0100..L-0107`):**
+  - `classical_sources`: Klasik İslami kaynaklarda İSNAD 2. Edisyon standardında müellif (`author`), hicrî/milâdî vefat tarihi (`death_year: "ö. H/M"`), eser adı (`work`), muhakkik (`editor`), yayınevi (`publisher`), basım yeri (`publication_place`), basım yılı (`publication_year`), cilt (`volume`), sayfa (`pages`), Şâmile'den harfi harfine lafzî Arapça ibare (`arabic_quote`), nokta atışı sayfa ID'li doğrulama bağlantısı (`verification_link: "https://shamela.ws/book/<book_id>/<page_id>"`) ve URN/DOI (`doi_or_urn`) zorunludur. Genel kitap kapağı linkleri (`shamela.ws/book/\d+` sayfa ID'siz) `L-0107` kuralıyla `BLOCK` verir.
   - `modern_sources`: Çağdaş ampirik/kurumsal kaynaklarda APA 7 standardında kurum/yazar (`institution` / `author`), rapor başlığı (`title`), yayın yılı (`publication_year`), yayınevi (`publisher`), basım yeri (`publication_place`), erişim adresi (`url`) ve kalıcı `doi` numarası zorunludur.
 - **V2 — Nakil, Tercüme ve Yorum Ayrımı:** Doğrudan alıntılar `[NAKİL]` (İngilizce: `[CITATION]`), tercümeler `[TERCÜME]`, analistin çıkarımları `[YORUM]` (İngilizce: `[ANALYSIS]`) etiketiyle ayrılır ve metin içi dipnotlarla (`[^1]`, `[^2]`) `Z-4.5` kaynakçasına bağlanır.
 - **V3 — İhtilaf ve Alternatif Okumalar:** H6 (Zorlu Âyet) veya yorumu anlamlı biçimde etkileyen ihtilaflarda klasik mezhebî/kelâmî/fıkhî görüşler ve delilleri `Z-2` cetvelinde karşılaştırılır.
@@ -64,21 +79,23 @@ Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.1**), Kur'an âyetleri üz
 - **V9 — Âyete Özgü Açık Problem (Aporia — `Z-1`):** Âyete özgü çözümlenmemiş felsefî, hukuki veya sosyo-politik gerilim (`Z-1`) derinlemesine tartışılır.
 - **V10 — Standart Sınır Beyanı (`Z-4`):** Raporun beşerî bir içtihat olduğu, bağlayıcı fetva veya yargı kararı olmadığı açıkça beyan edilir.
 - **V11 — Değerlendirme ve Açık Hakemlik Kaydı (`Z-5`):** Algoritmik iç kontrol (`internal_linter_verified: true`) ile bağımsız dış akademik hakem incelemesi (`status: "PRE-RELEASE"` / `"EXTERNALLY-REVIEWED"`) birbirinden ayrılır.
-- **V12 — `ADIM 01` İçerik Yoğunluğu ve Lafzî Derinlik Doğrulaması (*Content-Depth Assertion* — `L-2101..L-2107`):** `ADIM 01` bölümünün harekeli Arapça blok alıntı, bütüncül meal, en az 6 maddelik kelime-kelime lafzî çözümleme, klasik tefsir `[NAKİL]`/`[YORUM]` tahkiki ve asgari kelime hacmi kriterlerini karşıladığı algoritmik olarak denetlenir.
+- **V12 — `ADIM 01` İçerik Yoğunluğu ve Lafzî Derinlik Doğrulaması (*Content-Depth Assertion* — `L-2101..L-2108`):** `ADIM 01` bölümünün harekeli Arapça blok alıntı, bütüncül meal, en az 6 maddelik kelime-kelime lafzî çözümleme, klasik tefsir `[NAKİL]`/`[YORUM]` tahkiki ve asgari kelime hacmi kriterlerini karşıladığı algoritmik olarak denetlenir.
+- **V13 — `ADIM 07` Sistem Haritası (CLD) Doğrulaması (`L-2201..L-2207`):** Pekiştirici (`R1`) ve Dengeleyici (`B1`) geri besleme döngüleri, `→` nedensel zincirleri, sistemik gecikme, kaldıraç noktası, kırılma noktası (`Tipping Point`) ve erken uyarı (`N4`) sinyalleri denetlenir.
+- **V14 — `ADIM 13` Üçlü İrfânî Bütünlük ve Klasik İşârî Tahrîc Doğrulaması (`L-2301..L-2303`):** `### ADIM 13` (veya `### STEP 13`) altında `13.1`, `13.2` ve `13.3` alt başlıklarının eksiksiz yer aldığı ve klasik tasavvuf/irfân otoritelerine (Kuşeyrî, Gazzâlî, Muhâsibî, Sehl et-Tüsterî, İbn Acîbe, Râgıb el-İsfahânî) İSNAD 2 atfı yapıldığı kesin kesici (`BLOCK`) kural olarak denetlenir.
 
 ---
 
-## 3. Tam YAML Frontmatter Şeması (v6.2.1 Rapor Üst-Veri Standardı)
+## 3. Tam YAML Frontmatter Şeması (v6.2.2 Rapor Üst-Veri Standardı)
 
 ```yaml
 ---
-gem_version: "6.2.1"
-schema_version: "6.2.1"
+gem_version: "6.2.2"
+schema_version: "6.2.2"
 case_id: "QV-2026-0XX"
 surah: "{{SURE_ADI}}"
 verse: "{{SURE_NO}}:{{AYET_NO}}"
 topic: "{{KONU_BASLIGI}}"
-date: "2026-10-15"
+date: "2026-10-20"
 layer: 3
 h6: true
 confidence_grade: "B"
@@ -105,7 +122,7 @@ peer_review:
 ## 4. Beş Makro Faz ve 26 Analiz Adımı Tam Mimarisi (`ADIM 00` – `ADIM 20`)
 
 ### FAZ I — Kimlik, Metin ve Bağlam
-- **ADIM 00 — Künye ve Giriş Bilgileri:** Vaka Kodu (`QV-2026-0XX`), Âyet, Konu Başlığı, Proje Kurucusu & Başyazar (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), Akademik Danışman & Dış Hakem (`Mehmet Emin Koç — ORCID: 0000-0002-1025-5643`), Kalıcı DOI (`10.5281/zenodo.23391192`), Tarih, Sürüm (`v6.2.1`), Katman (`3`), H6 Durumu (`Evet`), Dil (`TR / EN`), Güven Düzeyi (`B`), Harici `.sha256` Manifest bilgisi ve Mushaf/Kıraat Standardı (Resm-i Osmânî, Kûfî 6236, Âsım/Hafs).
+- **ADIM 00 — Künye ve Giriş Bilgileri:** Vaka Kodu (`QV-2026-0XX`), Âyet, Konu Başlığı, Proje Kurucusu & Başyazar (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), Akademik Danışman & Dış Hakem (`Mehmet Emin Koç — ORCID: 0000-0002-1025-5643`), Kalıcı DOI (`10.5281/zenodo.23391192`), Tarih, Sürüm (`v6.2.2`), Katman (`3`), H6 Durumu (`Evet`), Dil (`TR / EN`), Güven Düzeyi (`B`), Harici `.sha256` Manifest bilgisi ve Mushaf/Kıraat Standardı (Resm-i Osmânî, Kûfî 6236, Âsım/Hafs).
 - **ADIM 00-5 — Dil ve Semantik Matrisi (H6 Zorunlu — 4 Boyutlu):**
   1. *Semantik / Kök Anlam (İştikak):* İbn Fâris (*Mu'cemü Makâyîsi'l-Lüğa*, ö. 395/1004).
   2. *Kur'anî Semantik (Kavramlaşma):* Râgıb el-İsfahânî (*el-Müfredât fî Garîbi'l-Kur'ân*, ö. 502/1108).
@@ -134,7 +151,10 @@ peer_review:
 ### FAZ III — Sınama, Karşı Okuma ve Ahlakî Değerlendirme (Kalp Fıkhı)
 - **ADIM 11 — Sekiz İç Denetim Testi (Algoritmik İç Tutarlılık)**
 - **ADIM 12 — Red Team (Karşıt Okuma), Sıçrama Dinamikleri ve Falsifiabilite Protokolü**
-- **ADIM 13 — Enfüs-Âfâk ve Kalp Fıkhı**
+- **ADIM 13 — Enfüsî-Âfâkî Diyalektik ve Kalp Fıkhı (İrfânî / İşârî Katman):**
+  - **13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)**
+  - **13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın*)**
+  - **13.3. Klasik İşârî ve İrfânî Tahrîc (Orijinal Arapça Metin + İSNAD 2 Künyesi + Dijital Bağlantı)**
 
 ### FAZ IV — Bayes Güncellemesi, Karar Mimarisi ve Etik Denetim
 - **ADIM 14 — Erken Uyarı Sinyalleri (`th-01..th-03`) ve Bayes Güncellemesi:**
@@ -163,7 +183,7 @@ peer_review:
 
 ---
 
-## 6. Külliyat Envanteri (15 Kurucu Monografik Rapor: `QV-2026-001` – `QV-2026-015`)
+## 6. Külliyat Envanteri (15 Kurucu Monografik Rapor: `QV-2026-001` – `QV-2026-015` ve 33 A4 PDF)
 
 | Rapor Kodu | Sûre ve Âyet | Konu Başlığı | Türkçe Rapor | İngilizce Rapor |
 | :--- | :--- | :--- | :--- | :--- |
@@ -182,3 +202,4 @@ peer_review:
 | **QV-2026-013** | Nahl 16:90 | Evrensel Medeniyet Anayasası: Adalet, İhsan ve Sosyal Dayanışma Mimarisi | [TR](docs/tr/18-rapor-nahl-1690-v6.1.1.md) | [EN](docs/en/18-rapor-nahl-1690-en-v6.1.1.md) |
 | **QV-2026-014** | Hucurât 49:13 | İnsani Eşitlik, Çoğulcu Tanışma (Teârüf) Etiği ve Ahlaki Sorumluluk (Takvâ) | [TR](docs/tr/19-rapor-hucurat-4913-v6.1.1.md) | [EN](docs/en/19-rapor-hucurat-4913-en-v6.1.1.md) |
 | **QV-2026-015** | Mâide 5:32 | Yaşam Hakkının Evrensel Dokunulmazlığı, İhyâ (Can Kurtarma) Etiği ve Fesadın Önlenmesi | [TR](docs/tr/20-rapor-maide-532-v6.1.1.md) | [EN](docs/en/20-rapor-maide-532-en-v6.1.1.md) |
+| **REHBER (33. PDF)** | İSNAD-2 Rehberi | Klasik Arapça Dijital Veri Tabanları ve Tahkik Rehberi (Mehmet Yarıcı, 2026) | [PDF](docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf) | [PDF](docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf) |

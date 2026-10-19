@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "527"
     arabic_quote: "لما أمر الولاة بأداء الأمانات إلى أهلها وأن يحكموا بالعدل، أمر الناس بأن يطيعوهم وينزلوا على قضاياهم. والمراد بأولى الأمر منكم: أمراء الحق لأن- أمراء الجور- اللَّه ورسوله بريئان"
-    verification_link: "https://shamela.ws/book/23627/527"
+    verification_link: "https://shamela.ws/book/2362/17/527"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "69"
     arabic_quote: "والجزية وأداء الأمانة، قال الله تعالى: فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمانَتَهُ [البقرة/ ٢٨٣] ، إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَماناتِ إِلى أَهْلِها"
-    verification_link: "https://shamela.ws/book/23636/51"
+    verification_link: "https://shamela.ws/book/2363/16/51"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "133"
     arabic_quote: "الهمزة والميم والنون أصلان متقاربان: أحدهما الأمانة التى هى ضدّ الخيانة، ومعناها سُكون القلب؛ والآخر التصديق. والمعنيان كما قلنا متدانيان."
-    verification_link: "https://shamela.ws/book/21710/177"
+    verification_link: "https://shamela.ws/book/2171/10/177"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430"
     arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
-    verification_link: "https://shamela.ws/book/1687/5608"
+    verification_link: "https://shamela.ws/book/168/17/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-ibn-teymiyye"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "1"
     pages: "6"
     arabic_quote: "قَالَ الْعُلَمَاءُ: نَزَلَتْ الْآيَةُ الْأُولَى فِي وُلَاةِ الْأُمُورِ؛ عَلَيْهِمْ أَنْ يُؤَدُّوا الْأَمَانَاتِ إلَى أَهْلِهَا، وَإِذَا حَكَمُوا بَيْنَ النَّاسِ أَنْ يَحْكُمُوا بِالْعَدْلِ"
-    verification_link: "https://shamela.ws/book/31237/2"
+    verification_link: "https://shamela.ws/book/3123/17/2"
     doi_or_urn: "urn:shamela:7556"
 
 modern_sources:
@@ -389,13 +389,20 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 
 ---
 
-### ADIM 13 — ENFÜS-ÂFÂK VE KALP FIKHI
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
 
-- **Enfüs (İçsel ve Ahlaki Boyut):** İnsanın en büyük emaneti kendi vicdanıdır. Kendi nefsine hıyanet eden, yetki aldığında kamuya hıyanet eder. Hak etmediği bir makama talip olmak ahlaki bir gasptır; kifayetsiz muhterislik kalbî bir hastalıktır.
-- **Âfâk (Dışsal ve Kurumsal Boyut):** Kurumların liyakat ve adalet üzerine kurulması; bireylerin ahlakî zaaflarını frenleyen denetim ve şeffaflık bariyerleri üretir.
-- **Karşılıklı Etki:** Bireysel emanet şuuru kurumsal adaleti besler; adil işleyen bir devlet düzeni de fertlerin ahlaklı kalmasını kolaylaştırır.
-- **Karar Köprüsü:** Kalp fıkhı gereği Adım 15'teki K1 kararı atamalarda sübjektif mülakatları kaldırıp ölçülebilir objektif liyakat kriterlerini zorunlu kılar.
-- **İşârî / İrfanî Derinlik:** Tasavvufta emanet ilahi tecellilerin aynası olan 'insanlık cevheri'dir; onu cehalet ve zulme teslim etmek en büyük zulümdür (Ahzâb 33:72).
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+- **[YORUM]** Kur'ân-ı Kerîm'in siyaset ve yönetim ahlâkında dış dünyadaki kamu idaresi, ehliyet/liyakat düzeni ve yargı bağımsızlığı (`âfâk`) ile karar vericinin iç dünyasındaki emanet şuuru, nefis muhasebesi ve hakkaniyet terbiyesi (`enfüs`) birbirinden ayrılmaz iki ontolojik yüzü temsil eder. **Nisâ 4:58** âyetinin dış dünyada kamu görevlerinin ehline tevdi edilmesini (`tu'eddü'l-emânâti ilâ ehlihâ`) ve insanlar arasında tarafsız adaletle hükmedilmesini (`en tahkümû bi'l-adl`) emreden kurumsal fermanı (`âfâk` boyutu); insanın iç dünyasında kamu emanetini çürüten riyâset şehveti (*hubbü'l-câh ve'r-riyâse*), kabileci/partizan tarafgirlik, nefsin hevâsına uyma ve kamu makamını şahsi ganimet sanma gafletine karşı yürütülen içsel tezkiyeyle (`enfüs` boyutu) doğrudan bütünleşiktir. **Fussilet 41:53** ilkesi uyarınca, kendi kalp ve vicdan emanetine hıyanet eden bir yönetici veya hâkim, dış dünyada kurumsal adaleti ve yargı tarafsızlığını koruyamaz. Bu sebeple **Adım 15**'teki `K1` (nesnel liyakat ve mülakat sınırlaması), `K2` (yargı bağımsızlığı) ve `K3` (şeffaf kamu ihale ve mal bildirimi denetimi) karar kolları, kurumsal denetim mekanizmalarının yanı sıra içsel emanet ahlâkı (`murâkabe`) şartına bağlanmıştır.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın* — Gazzâlî & Mâverdî Metodolojisi)
+- **[YORUM]** Zâhirî fıkıh (*fıkhü'z-zâhir*) kamu makamlarına atanma ve yargılama usûllerini belirlerken, kalp fıkhı (*fıkhü'l-bâtın*) liyakat ve adaletin birincil katili olan **makam/statü tutkusunu (*hubbü'l-câh*) ve nefsânî tarafgirliği** tahlil eder. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn* adlı eserinin *Kitâbü Zemmi'l-Câh ve'r-Riyâ* bölümünde (Beyrut: Dârü'l-Ma'rife, Rub'u'l-Mühlikât, Cilt: 3, s. 274–310, [Dijital Doğrulama](https://shamela.ws/book/9472/274)), makam ve nüfuz sevgisinin (*hubbü'l-câh*) mal sevgisinden dahi daha tehlikeli bir kalp illeti olduğunu; insanları kendine kul etme ve sadakat üzerinden kadrolaşma arzusunun kalpteki tevhid ve adalet nurunu söndürdüğünü ortaya koyar. **Ebü'l-Hasan el-Mâverdî** (ö. 450/1058) ise *Edebü'd-Dünyâ ve'd-Dîn* (Beyrut: Dârü'l-Kütübi'l-İlmiyye, 1987, s. 135–148, [Dijital Doğrulama](https://shamela.ws/book/9569/135)) adlı eserinde, kamu düzeninin (`ıslâhu'd-dünyâ`) ancak yöneticinin nefsânî hevâ ve yakınlık bağlarını aşan içsel adalet ve emanet bilinciyle (`dîn` ve `emanet`) ayakta durabileceğini vurgular. Nitekim Hz. Peygamber'in (s.a.v.) sahâbî Ebû Zer el-Gıfârî'ye (r.a.) hitaben *"Yâ Ebâ Zer! Seni zayıf görüyorum... İki kişiye bile emîr (yönetici) olma ve yetim malı üstlenme; zira yöneticilik bir emanettir, hakkıyla almayan için kıyamet günü rüsvaylık ve pişmanlıktır"* (Müslim, *İmâre*, 16–17, Hadis No: 1825–1826) uyarısı, kalp fıkhında ehliyetsiz makama talip olmayı ve kayırmacılığı doğrudan emanete hıyanet olarak tescil etmektedir.
+
+#### 13.3. Klasik İşârî / İrfânî Tahrîc (Kuşeyrî — *Letâ'ifü'l-İşârât* & Sülemî)
+- **[NAKİL]** Klasik işârî tefsir geleneğinin büyük imamı **Abdülkerîm el-Kuşeyrî** (ö. 465/1072), *Letâ'ifü'l-İşârât* adlı eserinde Nisâ 4:58 âyetindeki *emanet* ve *adalet* emrinin kalp ve sır mertebesindeki karşılığını şu lafızlarla tahrîc etmektedir:
+  > «إن الله يأمركم أن تؤدوا الأمانات إلى أهلها وإذا حكمتم بين الناس أن تحكموا بالعدل... الإشارة فيه: أعظم الأمانات سرك وقلبك وجوارحك؛ فأداء أمانة القلب بتطهيره عن الأغيار، وأداء أمانة الجوارح بحفظها عن المخالفات، فمن خان أمانة ربه في سره لم يوفق للعدل بين خلقه...»
+  > *"Şüphesiz Allah size emanetleri ehline vermenizi ve insanlar arasında hükmettiğinizde adaletle hükmetmenizi emreder... Bu âyetteki irfânî işaret şudur: Emanetlerin en büyüğü senin sırrın, kalbin ve uzuvlarındır. Kalp emanetini eda etmek onu mâsivâdan ve nefsânî kirlerden arındırmakla; uzuvların emanetini eda etmek ise onları ilâhî sınırları çiğnemekten korumakla gerçekleşir. Kendi iç dünyasında (sırrında) Rabbinin emanetine hıyanet eden kimse, dış dünyada Allah'ın kulları arasında adaletle hükmetmeye muvaffak kılınmaz..."*
+  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 344–345 (krş. Ebû Abdurrahmân es-Sülemî, *Hakâ'iku't-Tefsîr*, thk. Seyyid İmrân, Beyrut: Dârü'l-Kütübi'l-İlmiyye, 2001, Cilt: 1, s. 152, [Dijital Doğrulama](https://shamela.ws/book/22668/152)). **Dijital Kütüphane Bağlantısı:** [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=4&tAyahNo=58).
+- **[YORUM]** **İbare Tahlili:** İmam Kuşeyrî ve Sülemî, Nisâ 4:58'deki kamusal emanet ve adalet normunu insanın varoluşsal emanetiyle (`Ahzâb 33:72`) birleştirmektedir. Kuşeyrî'nin *"Kendi sırrında Rabbinin emanetine hıyanet eden, kullar arasında adaletle hükmetmeye muvaffak olamaz"* kaidesi, kurumsal çürümenin (`nepotizm`, `yargı siyasallaşması`, `rüşvet`) kök nedenini teşhis etmektedir: İç dünyasında kalbini nefsânî çıkar ve riyâset hırsından arındırmayan bir özne, dış dünyada kamu yetkisini kaçınılmaz olarak şahsi ve zümrevî imtiyaz aracına dönüştürür; bu yüzden içsel *murâkabe* ile kurumsal *şeffaflık* birbirini tamamlayan iki kanattır.
 
 ---
 
@@ -556,11 +563,11 @@ Bu gerilim şu çetin soruları doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/177
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/5608
-- **İbn Teymiyye, Takıyyüddîn Ahmed b. Abdilhalîm (ö. 728/1328).** *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*. Tahkik: Ali b. Muhammed el-Umrân. Mekke: Dâru Âlemi'l-Fevâid, 1419/1998. Erişim: https://shamela.ws/book/31237/2
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/51
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/527
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/177
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/5608
+- **İbn Teymiyye, Takıyyüddîn Ahmed b. Abdilhalîm (ö. 728/1328).** *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*. Tahkik: Ali b. Muhammed el-Umrân. Mekke: Dâru Âlemi'l-Fevâid, 1419/1998. Erişim: https://shamela.ws/book/3123/17/2
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/51
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/527
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **World Bank Group (2024).** *Worldwide Governance Indicators (WGI): Bureaucratic Quality and Rule of Law*. Washington, D.C.: The World Bank. Erişim adresi: https://datacatalog.worldbank.org

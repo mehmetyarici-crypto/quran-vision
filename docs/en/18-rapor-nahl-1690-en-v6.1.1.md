@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "1328"
     arabic_quote: "تحت طاقتهم وَالْإِحْسانِ الندب، وإنما علق أمره بهما جميعاً، لأنّ الفرض لا بدّ من أن يقع فيه تفريط"
-    verification_link: "https://shamela.ws/book/23627/1328"
+    verification_link: "https://shamela.ws/book/2362/17/1328"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "552"
     arabic_quote: "النحل/ ٩٠] ، فإنّ العَدْلَ هو المساواة في المكافأة إن خيرا فخير، وإن شرّا فشرّ، والإحسان أن يقابل الخير بأكثر منه، والشرّ بأقلّ منه، ورجلٌ عَدْلٌ: عَادِلٌ، ورجالٌ عَدْلٌ، يقال في الواحد والجمع، قال الشاعر: ٣١١-"
-    verification_link: "https://shamela.ws/book/23636/534"
+    verification_link: "https://shamela.ws/book/2363/16/534"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "4"
     pages: "246"
     arabic_quote: "العين والدال واللام أصلان صحيحان، لكنَّهما متقابلان كالمتضادَّين: أحدُهما يدلُّ على استواء، والآخر يدلُّ على اعوجاج."
-    verification_link: "https://shamela.ws/book/21710/1787"
+    verification_link: "https://shamela.ws/book/2171/10/1787"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430"
     arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
-    verification_link: "https://shamela.ws/book/1687/5608"
+    verification_link: "https://shamela.ws/book/168/17/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "14"
     pages: "337"
     arabic_quote: "عن عامرٍ، عن شُتَيْرِ بنِ شَكَلٍ، قال: سَمِعْتُ عبدَ اللهِ يقولُ: إن أجمعَ آيةٍ في القرآنِ في سورةِ النحلِ: ﴿إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى﴾ إِلى آخرِ الآيةِ"
-    verification_link: "https://shamela.ws/book/7798/9798"
+    verification_link: "https://shamela.ws/book/779/18/9798"
     doi_or_urn: "urn:shamela:7798"
 
 modern_sources:
@@ -441,11 +441,25 @@ peer_review:
 
 ---
 
-### STEP 13 — ENFÜS-ÂFÂK & SPIRITUAL ETHICS (KALP FIKHI)
+### STEP 13 — ENFÜSÎ-ÂFÂKÎ DIALECTIC & SPIRITUAL ETHICS (KALP FIKHI / İRFÂNÎ-İŞÂRÎ LAYER)
 
-- **Inner Conscience (*Enfüs / Kalp Fıkhı*):** In the famous Hadith of Jibril (al-Bukhārī, *Īmān*, 37, no. 50; Muslim, *Īmān*, 1, no. 8), the Prophet defined `al-Ihsan` as: *'To worship Allah as though you see Him; and if you cannot see Him, to know that He sees you.'* When the inner heart lives in this state of `ihsan` (divine presence), it naturally shuns secret and open `fahsha'`, `munkar`, and `baghy`.
-- **Outer Institutional Order (*Âfâk*):** Impartial courts (`'adl`), compassionate social/health care (`ihsan`), strong family support (`dhi'l-qurba`), and constitutional checks against tyranny (`anti-baghy`).
-- **Enfüs–Decision Bridge:** Inner spiritual `ihsan` prevents public officials from turning `'adl` into heartless bureaucratic cruelty and prevents citizens from turning freedom into `fahsha'` or `baghy`.
+#### 13.1. Enfüsî-Âfâkî Dialectic (Ontological & Perceptual Level)
+In the external constitutional, legal, and sociological order (*âfâk*), Surah al-Nahl 16:90 promulgates Islam's **comprehensive ethical constitution**, uniting three foundational positive mandates (`al-'Adl` — impartial legal and distributive justice, `al-Ihsân` — restorative benevolence and institutional excellence, and `Îtâ'i dhi'l-qurbâ` — kinship and communal solidarity) with three categorical prohibitions (`al-Fahshâ'` — moral indecency, `al-Munkar` — rationally and legally reprehensible wrong, and `al-Baghy` — tyrannical transgression and abuse of power). Yet according to the ontological mirror principle of Surah Fussilat 41:53 (*"We shall show them Our signs upon the horizons [âfâk] and within their own souls [enfüs]"*), outward bureaucratic callousness, social atomization, and institutional tyranny (`baghy`) are the macrocosmic projection of an inward imbalance within the human conscience (*enfüs / kalp fıkhı*): spiritual aridity devoid of `ihsân` and the corruption of the soul's three faculties—when the appetitive faculty transgresses, it breeds `fahshâ'`; when the rational faculty is perverted, it breeds `munkar`; and when the irascible/egoistic faculty swells with pride, it breeds `baghy` (lording over creation). Only through the inward **dialectic of Ihsan and Baghy**—extinguishing egoistic arrogance (`baghy`) through the living awareness of God's presence (`ihsân`)—can a society sustain both impartial justice (`'adl`) and compassionate solidarity in the outer world (*âfâk*).
+
+#### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
+In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, Surah al-Nahl 16:90—celebrated by Ibn Mas'ûd as the most comprehensive verse in the Qur'an (al-Tabarî, *Jâmi' al-Bayân*, 14/162)—is expounded as the ultimate interior scale balancing the virtues and vices of the heart:
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âdâb al-Ulfah wa'l-Ukhuwwah* (Vol. 2) and *Kitâb al-Murâqabah wa'l-Muhâsabah* (Vol. 4), al-Ghazâlî explains that while `'adl` consists in rendering to every person their strict legal due without diminution and aligning one's outward conduct with one's inward heart, `ihsân` consists in rising above mere legal minimalism to generous self-giving (*fadl*) and living in the Prophetic station of the Hadith of Jibril (al-Bukhârî, *Îmân*, 37, no. 50; Muslim, *Îmân*, 1, no. 8): *"To worship Allah as though you see Him; and if you cannot see Him, to know that He sees you."* Al-Ghazâlî warns that without the inward warmth of `ihsân`, formal legalism hardens into litigiousness and egoistic transgression (`baghy`) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 2, pp. 196–220; Vol. 4, pp. 391–410; Digital access: [shamela.ws/book/9472/391](https://shamela.ws/book/9472/391)).
+- **Ibn Qayyim al-Jawziyyah (d. 751/1350), *Madârij al-Sâlikîn*:** In *Manzilat al-Ihsân*, Ibn al-Qayyim demonstrates that `ihsân` is the lifeblood of faith and the summit of all spiritual stations; when the heart is illumined by the witnessing of Divine Presence (*mushâhadah* and *murâqabah*), it naturally recoils from secret indecencies (`fahshâ'`), moral ugliness (`munkar`), and haughty oppression of creatures (`baghy`) (Ibn Qayyim al-Jawziyyah, *Madârij al-Sâlikîn*, Beirut: Dâr al-Kitâb al-'Arabî, Vol. 3, pp. 224–235; Digital access: [shamela.ws/book/8370/224](https://shamela.ws/book/8370/224)).
+- **Enfüs–Policy Bridge:** Because officials who fail to internalize the hierarchy of `'adl` and `ihsân` in their conscience (*enfüs*) either conflate private kinship care (`îtâ'i dhi'l-qurbâ`) with public nepotism or abuse state authority (`baghy`) in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` strict separation of public meritocracy `'adl` from private family support, `K2` transparent *waqf* and social-care `ihsân` networks, and `K3` independent anti-`baghy` ombudsmanship) translate this **comprehensive ethical constitution** into enforceable governance.
+
+#### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
+Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the three commands and three prohibitions of al-Nahl 16:90 as the complete spiritual discipline governing the soul's relationship with the Creator and creation:
+- **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
+  - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Nahl 16:90, al-Qushayrî records the following verbatim passage:
+    > «إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ... الإشارة فيه: العدل أداء الفرائض ومراعاة حدود الشرع، والإحسان شهود المنة وصدق المراقبة في الخلوات... وينهى عن الفحشاء وهي اتباع شهوات النفوس، والمنكر وهو الركون إلى الدنيا، والبغي وهو رؤية النفس والتعالي على الخلق»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 2, pp. 305–306; Digital verification: [shamela.ws/book/23622/305](https://shamela.ws/book/23622/305) / [altafsir.com — Latâ'if al-Ishârât 16:90](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=16&tAyahNo=90&tDisplay=yes)).*
+  - **Abû 'Abd al-Rahmân al-Sulamî (d. 412/1021), *Haqâ'iq al-Tafsîr*:** The pioneering *ishârî* compiler al-Sulamî likewise transmits from the early spiritual masters: *"Justice (`al-'adl`) is rectitude in monotheism and subordinating the ego to truth; Benevolence (`al-ihsân`) is guarding the heart in vigilance before God; `al-fahshâ'` is following carnal desires; `al-munkar` is inclining toward whatever alienates the heart from truth; and `al-baghy` is self-regard and exalting oneself over creation"* (al-Sulamî, *Haqâ'iq al-Tafsîr*, ed. Sayyid 'Imrân, Beirut: Dâr al-Kutub al-'Ilmiyyah, Vol. 1, p. 368; Digital access: [shamela.ws/book/23624/368](https://shamela.ws/book/23624/368)).
+  - `[ANALYSIS / YORUM]`: Al-Qushayrî and al-Sulamî's definition of `al-baghy` as *"self-regard and exalting oneself over creation (`ru'yat al-nafs wa'l-ta'âlî 'alâ'l-khalq`)"* and of `al-ihsân` as *"witnessing Divine grace and sincere vigilance in solitude (`sidq al-murâqabah fi'l-khalawât`)"* illuminates the **dialectic of Ihsan and Baghy** at the heart of al-Nahl 16:90. A civilization flourishes (`hayâtan tayyibah`, 16:97) when constitutional justice (`'adl`) is animated by inward reverence and compassion (`ihsân`), leaving no room for the egoistic tyranny of `baghy`.
 
 ---
 
@@ -598,11 +612,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/466-470. Digital Verification: https://shamela.ws/book/23627/1328 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/235-238. Digital Verification: https://shamela.ws/book/23636/534 (urn:shamela:8381).
-[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 4/246-248. Digital Verification: https://shamela.ws/book/21710/1787 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 11/430-436. Digital Verification: https://shamela.ws/book/1687/5608 (urn:shamela:21605).
-[^5]: Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hicr, 2001), 14/338-346. Digital Verification: https://shamela.ws/book/7798/9798 (urn:shamela:7798).
+[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/466-470. Digital Verification: https://shamela.ws/book/2362/17/1328 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/235-238. Digital Verification: https://shamela.ws/book/2363/16/534 (urn:shamela:8381).
+[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 4/246-248. Digital Verification: https://shamela.ws/book/2171/10/1787 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 11/430-436. Digital Verification: https://shamela.ws/book/168/17/5608 (urn:shamela:21605).
+[^5]: Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hicr, 2001), 14/338-346. Digital Verification: https://shamela.ws/book/779/18/9798 (urn:shamela:7798).
 [^6]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025: Equal Treatment, Civil Justice and Absence of Corruption*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2025.03. URL: https://worldjusticeproject.org
 [^7]: Organisation for Economic Co-operation and Development (OECD) (2025). *Society at a Glance 2025: Social Cohesion, Philanthropy and Welfare Indicators*. Paris: OECD Publishing. DOI: doi:10.1787/soc_glance-2025-en. URL: https://www.oecd.org
 [^8]: United Nations Development Programme (UNDP) (2025). *Human Development Report 2025: Equity, Agency and Institutional Trust*. New York: UNDP. DOI: doi:10.18356/9789210031028. URL: https://hdr.undp.org

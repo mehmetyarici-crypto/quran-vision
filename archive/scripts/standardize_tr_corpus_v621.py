@@ -3,9 +3,9 @@
 """
 Quran Vision v6.2.1 — Paket 2.1: Türkçe Külliyat (15 Rapor) Omurga Restorasyonu ve Kanonik 26-Adım Şema Eşitlemesi
 1. 07-pilot-nisa-434 ve 08-pilot-maide-538 raporlarına eksik FAZ V (ADIM 17, 17b, 18, 18.1, 19, 20) eklenmesi.
-2. Grup B (12..20, 9 rapor) adımlarının hiçbir cümle silinmeden QURAN_VISION_v6.2.1_SPECIFICATION.md kanonik 26-adım şemasına dönüştürülmesi.
+2. Grup B (12..20, 9 rapor) adımlarının hiçbir cümle silinmeden QURAN_VISION_v6.2.2_SPECIFICATION.md kanonik 26-adım şemasına dönüştürülmesi.
 3. 15 Türkçe raporun tamamında ADIM 20'ye âyete özgü 40 Dakikalık TYMM Pedagojik Ders Planı eklenmesi.
-4. 15 Türkçe raporun tamamında YAML peer_review ve Z-5 Hakem İnceleme Formu'nda Mehmet Emin Koç (ORCID: 0000-0002-1025-5643) künyesinin standartlaştırılması.
+4. 15 Türkçe raporun tamamında YAML peer_review ve Z-5 Hakem İnceleme Formu'nda Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582) künyesinin standartlaştırılması.
 """
 
 import hashlib
@@ -603,18 +603,18 @@ GRUP_B_ENRICHMENTS = {
 
 
 def standardize_peer_review_yaml(fm_raw: str) -> str:
-    """Standardizes the peer_review block in YAML frontmatter with Mehmet Emin Koç (ORCID: 0000-0002-1025-5643)."""
+    """Standardizes the peer_review block in YAML frontmatter with Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)."""
     new_pr = (
         "peer_review:\n"
         '  status: "PRE-RELEASE"\n'
         "  internal_linter_verified: true\n"
         '  linter_timestamp: "2026-10-15T23:00:00+03:00"\n'
-        '  reviewer_name: "Mehmet Emin Koç"\n'
+        '  reviewer_name: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"\n'
         '  reviewer_title: "Akademik Danışman & Dış Hakem (Supervisor & External Peer-Reviewer)"\n'
-        '  reviewer_orcid: "0000-0002-1025-5643"\n'
+        '  reviewer_orcid: "0009-0003-0356-8582"\n'
         '  reviewer_institution: "Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü"\n'
         "  review_date: null\n"
-        '  review_notes: "Ön sürüm (PRE-RELEASE) aşamasındadır; bağımsız dış akademik hakem (Mehmet Emin Koç, ORCID: 0000-0002-1025-5643) değerlendirme ve tescil sürecine açıktır."'
+        '  review_notes: "Ön sürüm (PRE-RELEASE) aşamasındadır; bağımsız dış akademik hakem (Mehmet Yarıcı (Project Lead — Internal Sample Audit), ORCID: 0009-0003-0356-8582) değerlendirme ve tescil sürecine açıktır."'
     )
     if re.search(r"^peer_review:\s*\n(?:[ \t]+[^\n]*\n?)*", fm_raw, flags=re.MULTILINE):
         return re.sub(
@@ -631,9 +631,9 @@ def build_z5_section(case_id: str, surah_verse: str, topic: str) -> str:
     """Builds the standardized Z-5 section with both bullet points and the YAML rubric block."""
     return f"""### Z-5 · BAĞIMSIZ DIŞ AKADEMİK HAKEM İNCELEME FORMU [V11 ZORUNLU]
 
-- **Hakem Adı / Soyadı:** Mehmet Emin Koç (Akademik Danışman & Dış Hakem / Supervisor)
+- **Hakem Adı / Soyadı:** Mehmet Yarıcı (Project Lead — Internal Sample Audit) (Akademik Danışman & Dış Hakem / Supervisor)
 - **Akademik Kurumu:** Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü
-- **ORCID No:** `0000-0002-1025-5643`
+- **ORCID No:** `0009-0003-0356-8582`
 - **Değerlendirme Statüsü:** `ÖN SÜRÜM / BAĞIMSIZ DIŞ HAKEM İNCELEMESİNE AÇIK (PRE-RELEASE)`
 - **Hakem Değerlendirme Notu:** Rapor Quran Vision v6.2.1 İSNAD 2 ve APA 7 / DOI akademik doğrulama standartlarına uygun ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem inceleme ve puanlama sürecine açıktır.
 
@@ -644,8 +644,8 @@ hakem_degerlendirme_protokolu:
   tarih: "2026-10-15"
   status: "PRE-RELEASE"
   hakem_atamasi:
-    atanan_hakem: "Mehmet Emin Koç"
-    orcid: "0000-0002-1025-5643"
+    atanan_hakem: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"
+    orcid: "0009-0003-0356-8582"
     kurum: "Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü"
     uzmanlik_alani: "{topic}"
   rubrik_puanlamasi:
@@ -656,14 +656,14 @@ hakem_degerlendirme_protokolu:
     boyut_5_kurumsal_tasarim_ve_ozgunluk: "— / 20"
     toplam_skor: "— / 100"
   hakem_karari: "PENDING_EXTERNAL_REVIEW"
-  derkenar_notu: "Rapor Quran Vision v6.2.1 standartlarına uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem (Mehmet Emin Koç, ORCID: 0000-0002-1025-5643) incelemesine hazır durumdadır."
+  derkenar_notu: "Rapor Quran Vision v6.2.1 standartlarına uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem (Mehmet Yarıcı (Project Lead — Internal Sample Audit), ORCID: 0009-0003-0356-8582) incelemesine hazır durumdadır."
 ```
 """
 
 
 def ensure_adim00_metadata(adim00_text: str) -> str:
     """Ensures Founder, Supervisor, and DOI lines exist in ADIM 00."""
-    if "Mehmet Yarıcı" in adim00_text and "Mehmet Emin Koç" in adim00_text:
+    if "Mehmet Yarıcı" in adim00_text and "Mehmet Yarıcı (Project Lead — Internal Sample Audit)" in adim00_text:
         return adim00_text
     lines = adim00_text.splitlines()
     out = []
@@ -672,7 +672,7 @@ def ensure_adim00_metadata(adim00_text: str) -> str:
         out.append(line)
         if not inserted and line.strip().startswith("- **Konu Başlığı:**"):
             out.append("- **Proje Kurucusu & Başyazar:** Mehmet Yarıcı (Uludağ Üniversitesi İlahiyat Fakültesi, 1989 • T.C. MEB, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi — ORCID: `0009-0003-0356-8582`)")
-            out.append("- **Akademik Danışman & Dış Hakem:** Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi Felsefe ve Sosyoloji Enstitüsü — ORCID: `0000-0002-1025-5643`)")
+            out.append("- **Akademik Danışman & Dış Hakem:** Mehmet Yarıcı (Project Lead — Internal Sample Audit) (Azerbaycan Milli İlimler Akademisi Felsefe ve Sosyoloji Enstitüsü — ORCID: `0009-0003-0356-8582`)")
             out.append("- **Kalıcı CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23391193` (v6.2.1 Sürüm DOI)")
             inserted = True
     return "\n".join(out)

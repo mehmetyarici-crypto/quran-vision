@@ -6,7 +6,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23410818.svg)](https://doi.org/10.5281/zenodo.23410818)
 [![ORCID Yarıcı](https://img.shields.io/badge/ORCID_(M._Yar%C4%B1c%C4%B1)-0009--0003--0356--8582-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0356-8582)
-[![ORCID Koç](https://img.shields.io/badge/ORCID_(M._E._Ko%C3%A7)-0000--0002--1025--5643-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1025-5643)
+[![ORCID Koç](https://img.shields.io/badge/ORCID_(M._E._Ko%C3%A7)-0000--0002--1025--5643-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0356-8582)
 [![Version](https://img.shields.io/badge/Corpus_Version-v6.2.2-D4AF37?style=for-the-badge)](https://mehmetyarici-crypto.github.io/quran-vision/)
 [![Reports](https://img.shields.io/badge/Foundational_Reports-15_Monographs_(TR_%26_EN)-10B981?style=for-the-badge)](https://mehmetyarici-crypto.github.io/quran-vision/)
 [![PDF Library](https://img.shields.io/badge/A4_PDF_Library-34_A4_PDF-8B5CF6?style=for-the-badge)](https://mehmetyarici-crypto.github.io/quran-vision/)
@@ -19,8 +19,8 @@
 ### 🏛️ **OFFICIAL CERN / ZENODO DOI:** **[`https://doi.org/10.5281/zenodo.23410818`](https://doi.org/10.5281/zenodo.23410818)** *(Concept DOI: [`10.5281/zenodo.23391192`](https://doi.org/10.5281/zenodo.23391192))*
 ### 🎓 **ACADEMIC OWNERSHIP, AUTHORSHIP & ADVISORY BOARD / ESER SAHİPLİĞİ, BAŞYAZAR VE DANIŞMA KÜNYESİ**
 - 👑 **Proje Kurucusu & Başyazar (*Founder, Copyright Owner & Principal Author*):** **Mehmet Yarıcı** — *Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi* • **ORCID:** [`0009-0003-0356-8582`](https://orcid.org/0009-0003-0356-8582)
-- 🏛️ **Akademik Danışman & Dış Hakem (*Academic Advisor & External Peer-Reviewer*):** **Mehmet Emin Koç** — *Azerbaycan Milli İlimler Akademisi (AMEA / Azerbaijan National Academy of Sciences), Felsefe ve Sosyoloji Enstitüsü* • **ORCID:** [`0000-0002-1025-5643`](https://orcid.org/0000-0002-1025-5643)
-- ⚖️ **Akademik Yönetişim ve Rol Beyanı (*Governance & Role Disclosure — COPE & Principle 4*):** **Mehmet Emin Koç** (AMEA / ANAS), kurum dışı bağımsız akademisyen sıfatıyla külliyatın metodolojik dış denetim ve akademik danışmanlık sürecini yürütmüştür. *Methodological Note (İlke 4): Örneklem denetimi proje yürütücüsü tarafından gerçekleştirilmiş olup, bağımsız dış hakem değerlendirmesi III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülmektedir.* Külliyatın tamamı **Z-5 Açık Hakemlik (*Open Peer-Review*)** protokolüyle üçüncü taraf bağımsız akademisyen şerhlerine daima açıktır.
+- 🏛️ **Akademik Danışman & Dış Hakem (*Academic Advisor & External Peer-Reviewer*):** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** — *Azerbaycan Milli İlimler Akademisi (AMEA / Azerbaijan National Academy of Sciences), Felsefe ve Sosyoloji Enstitüsü* • **ORCID:** [`0009-0003-0356-8582`](https://orcid.org/0009-0003-0356-8582)
+- ⚖️ **Akademik Yönetişim ve Rol Beyanı (*Governance & Role Disclosure — COPE & Principle 4*):** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (AMEA / ANAS), kurum dışı bağımsız akademisyen sıfatıyla külliyatın metodolojik dış denetim ve akademik danışmanlık sürecini yürütmüştür. *Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır)..* Külliyatın tamamı **Z-5 Açık Hakemlik (*Open Peer-Review*)** protokolüyle üçüncü taraf bağımsız akademisyen şerhlerine daima açıktır.
 
 ### 🌐 **[🚀 LAUNCH LIVE INTERACTIVE PORTAL (🇹🇷 TR | 🇬🇧 EN)](https://mehmetyarici-crypto.github.io/quran-vision/)**
 ### 📙 **[📥 Download Full English Corpus Book (15 Reports - A4 PDF)](https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.2.pdf)** &nbsp;|&nbsp; 📘 **[📥 Tam Külliyat Kitabını İndir (15 Rapor - Türkçe A4 PDF)](https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Kulliyat_v6.2.2.pdf)** &nbsp;|&nbsp; 🕌 **[📥 İSNAD-2 Klasik Arapça Veri Tabanları Rehberi (33. PDF)](https://mehmetyarici-crypto.github.io/quran-vision/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf)** &nbsp;|&nbsp; 🎓 **[📥 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi (34. PDF)](https://mehmetyarici-crypto.github.io/quran-vision/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf)**
@@ -49,7 +49,10 @@ The **Quran Vision Corpus (`v6.2.2`)** is an open-access, bilingual (**Turkish &
 
 ---
 
-## 📚 COMPLETE 15-REPORT BILINGUAL CATALOG / 15 RAPORLUK TAM KÜLLİYAT KATALOĞU (34 A4 PDF)
+## 📚 COMPLETE 15-REPORT BILINGUAL CATALOG / 15 RAPORLUK TAM KÜLLİYAT KATALOĞU (34+2 = 36 PDF)
+
+> 📦 **PDF Envanteri (Sayısal Netlik):** **34 Külliyat PDF'i** (15 Türkçe Monografi + 15 İngilizce Monografi + 2 Tam Külliyat Cildi [`Quran_Vision_Kulliyat_v6.2.2.pdf` & `Quran_Vision_Corpus_EN_v6.2.2.pdf`] + 33. Belge [`ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`] + 34. Belge [`TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`]) **+ 2 III. Maarif Kongresi (`MOIJUB`) Bildiri PDF'i** (Özet ve Tam Metin [`III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf`]) — Toplam 36 PDF
+> ⚖️ **Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).**
 
 | Case ID | Surah & Verse | 🇬🇧 English Strategic Monograph Title | 🇹🇷 Türkçe Stratejik Rapor Başlığı | Prior → Post (Step 14) | 🌐 Live Cockpit | 🇬🇧 EN PDF | 🇹🇷 TR PDF |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
@@ -77,12 +80,12 @@ The **Quran Vision Corpus (`v6.2.2`)** is an open-access, bilingual (**Turkish &
 ## 📋 CANONICAL SPECIFICATION & METHODOLOGY GUIDES (v6.2.2)
 
 - 📜 **Master Constitutional Directive (`TALIMATNAME.md`):** [`TALIMATNAME.md`](TALIMATNAME.md) — The 5 immutable rules for `QV-2026-016+` (100% verbatim `arabic_quote`, exact Shamela `page_id` & V16.2 multi-server registry `data/sources_registry.yaml`, body-text Hadith/Ayat/Ulama tahrij, 3-part unified Step 13 Irfani structure, and 4-part Step 20 TYMM lesson design).
-- 📘 **Canonical v6.2.2 Specification (Markdown):** [`QURAN_VISION_v6.2.1_SPECIFICATION.md`](QURAN_VISION_v6.2.1_SPECIFICATION.md) — Complete 26-step architecture, 5 macro phases, `V1–V16` verification gates, ISNAD 2 & APA 7/DOI standards.
+- 📘 **Canonical v6.2.2 Specification (Markdown):** [`QURAN_VISION_v6.2.2_SPECIFICATION.md`](QURAN_VISION_v6.2.2_SPECIFICATION.md) — Complete 26-step architecture, 5 macro phases, `V1–V16` verification gates, ISNAD 2 & APA 7/DOI standards.
 - 🕌 **33rd Document — ISNAD-2 Classical Arabic Digital Databases Guide (A4 PDF):** [`docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`](docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf) — Authored by Mehmet Yarıcı (2026, CC-BY-4.0).
 - 🎓 **34th Document — TYMM DKAB & IHL 15-Verse Lesson Design Guide (A4 PDF):** [`docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`](docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf) — Authored by Mehmet Yarıcı (2026, CC-BY-4.0).
 - 🛡️ **Official Methodological Linter Audit Report:** [`LINTER_AUDIT_REPORT.md`](LINTER_AUDIT_REPORT.md) — Complete 15-report verification table (`src/gem_lint.py` `BLOCK: 0, WARN: 0`, 26 steps, `Z-1..Z-5`, 51-record manual sample table, V16 regression assertions, external `.sha256` digests).
 - 🔒 **Cryptographic SHA-256 Master Ledger:** [`SHA256SUMS.txt`](SHA256SUMS.txt) — External cryptographic manifest (`sha256sum -c SHA256SUMS.txt`) covering all **34 A4 PDF** files, 30 Markdown monographs, and the portal.
-- 📄 **Full Master Instruction & Specification Text (`.txt`):** [`docs/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt`](docs/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt) — Single Source of Truth master specification document.
+- 📄 **Full Master Instruction & Specification Text (`.txt`):** [`docs/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt`](docs/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt) — Single Source of Truth master specification document.
 - 🧭 **Methodological Overview (EN / TR):** [`METHOD.md`](METHOD.md) &nbsp;|&nbsp; [`YONTEM.md`](YONTEM.md) &nbsp;|&nbsp; [`README.tr.md`](README.tr.md)
 
 ---
@@ -92,13 +95,13 @@ The **Quran Vision Corpus (`v6.2.2`)** is an open-access, bilingual (**Turkish &
 ```text
 quran-vision/
 ├── TALIMATNAME.md                        # Master Constitutional Directive (5 Immutable Standards for v6.2.2+)
-├── QURAN_VISION_v6.2.1_SPECIFICATION.md  # Canonical v6.2.2 Methodological Specification
+├── QURAN_VISION_v6.2.2_SPECIFICATION.md  # Canonical v6.2.2 Methodological Specification
 ├── data/
 │   └── sources_registry.yaml             # V16.2 Single Source of Truth (176 Verified Multi-Server Sources)
 ├── docs/
 │   ├── index.html                        # Interactive Bilingual (TR/EN) Strategic Cockpit & Reader (v6.2.2)
 │   ├── source_verification_manifest.json # Auto-generated read-only derivative manifest for UI startup audit
-│   ├── QURAN_VISION_v6.2.1_TAM_TALIMAT.txt # Master Specification & Instruction Text (.txt)
+│   ├── QURAN_VISION_v6.2.2_TAM_TALIMAT.txt # Master Specification & Instruction Text (.txt)
 │   ├── tr/                               # 15 Sealed Turkish 26-Step Markdown Reports + .sha256 manifests
 │   ├── en/                               # 15 Full English 26-Step Markdown Reports (*-en-v6.1.1.md)
 │   └── pdf/                              # 34 A4 PDFs (30 TR/EN Monographs + 2 Master Corpus Books v6.2.2 + 2 Guides)

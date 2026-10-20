@@ -185,13 +185,12 @@ scenarios:
 peer_review:
   status: "PRE-RELEASE"
   internal_linter_verified: true
-  linter_timestamp: "2026-10-16T07:30:00+03:00"
-  reviewer_name: "Mehmet Emin Koç"
-  reviewer_title: "Researcher / External Academic Reviewer"
-  reviewer_orcid: "0000-0002-1025-5643"
-  reviewer_institution: "Azerbaijan National Academy of Sciences (ANAS / AMEA), Institute of Philosophy and Sociology"
-  review_date: "2026-10-16"
-  review_notes: "Pre-release (PRE-RELEASE) monograph; internal algorithmic consistency (GemLinterV6 0 BLOCK) verified and submitted to Mehmet Emin Koç (ORCID: 0000-0002-1025-5643) for independent external peer review."
+  linter_timestamp: "2026-10-20T09:00:00+03:00"
+  internal_sample_auditor: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"
+  internal_sample_auditor_orcid: "0009-0003-0356-8582"
+  external_review_venue: "III. Maarif Congress (MOIJUB) Independent Peer-Review Process (Application Submitted)"
+  review_date: "2026-10-20"
+  review_notes: "Methodological Note (Principle 4 — Role Separation): The 51/176 (29.0%) manual sample audit (including the Ghazâlî Vol. 3 p. 186 -> 9472/932 cumulative volume offset correction) was conducted by the project lead as an internal audit (Internal Sample Audit); independent external peer review will be conducted within the scope of the III. Maarif Congress (MOIJUB) refereeing process (application submitted)."
 ---
 
 # QV-2026-015 — Surah Al-Ma'idah 5:32: The Inviolability of Human Life (Hifz al-Nafs), the Equation of Universal Humanity & the Ethic of Life-Saving (Ihya')
@@ -201,14 +200,14 @@ peer_review:
 ### STEP 00 — DOCUMENT METADATA & METHODOLOGICAL IDENTITY
 
 - **Case ID & Canonical Reference:** `QV-2026-015` — **Surah Al-Ma'idah 5:32** (*The Inviolability of Human Life (Hifz al-Nafs), the Equation of Universal Humanity & the Ethic of Life-Saving (Ihya')*)
-- **Schema & Linter Standard:** `Quran Vision v6.2.1` | **Methodological Layer:** `Layer 3 (Full Quantitative & Systemic Modeling)` | **H6 Protocol:** `Active (Complex Verse Protocol)`
+- **Schema & Linter Standard:** `Quran Vision v6.2.2` | **Methodological Layer:** `Layer 3 (Full Quantitative & Systemic Modeling)` | **H6 Protocol:** `Active (Complex Verse Protocol)`
 - **Document Status & Confidence Grade:** `PRE-RELEASE` | **Qualitative Confidence Grade:** `B (Medium-High Analytical Confidence)`
 - **Strategic Foresight Window:** `2026–2036 (10-Year Policy & Institutional Horizon)`
 - **Verified Classical Knowledge Base (*ISNAD 2nd Edition*):** İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (*Mu'cemü Makâyîsi'l-Lüğa*); Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (*el-Müfredât fî Garîbi'l-Kur'ân*); Ebû Ca'fer Muhammed b. Cerîr et-Taberî (*Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*); Fahreddîn er-Râzî, Muhammed b. Ömer (*Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*); Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî (*el-Câmi' li-Ahkâmi'l-Kur'ân*); Muhammed et-Tâhir İbn Âşûr (*et-Tahrîr ve't-Tenvîr*).
 - **Verified Empirical Datasets (*APA 7 / DOI*):** United Nations Office on Drugs and Crime (UNODC) (2025); World Health Organization (WHO) (2025); Institute for Economics & Peace (IEP) (2025); Uppsala Conflict Data Program (UCDP) (2025).
 - **Principal Author & Project Founder:** **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education [MEB], Bahçelievler Dede Korkut Anatolian High School, Istanbul, Türkiye).
-- **External Peer Reviewer (V11):** **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — Azerbaijan National Academy of Sciences [ANAS / AMEA], Institute of Philosophy and Sociology).
-- **Permanent CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Concept DOI) | `10.5281/zenodo.23410818` (v6.2.1 Version DOI)
+- **Internal Sample Audit & Role Separation (V11 / Principle 4):** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (`ORCID: 0009-0003-0356-8582`) • **External Peer-Review Process:** III. Maarif Congress (`MOIJUB`) Refereeing Process (Application Submitted).
+- **Permanent CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Concept DOI) | `10.5281/zenodo.23410818` (v6.2.2 Version DOI)
 
 ---
 
@@ -732,10 +731,10 @@ The institutional instructional design translating the **"Virtue-Value-Action" (
 | Field | Reviewer Metadata & Audit Record |
 | :--- | :--- |
 | **Evaluated Monograph** | `QV-2026-015` — Surah Al-Ma'idah 5:32 (*The Inviolability of Human Life (Hifz al-Nafs), the Equation of Universal Humanity & the Ethic of Life-Saving (Ihya')*) |
-| **Schema & Linter Version** | `v6.2.1` (`gem_lint.py` — 0 BLOCK / full (all-encompassing) Rule Compliance) |
-| **External Reviewer Name** | **Mehmet Emin Koç** |
-| **Academic Affiliation** | **Azerbaijan National Academy of Sciences (ANAS / AMEA), Institute of Philosophy and Sociology** |
-| **ORCID Identifier** | `0000-0002-1025-5643` |
+| **Schema & Linter Version** | `v6.2.2` (`gem_lint.py` — 0 BLOCK / full (all-encompassing) Rule Compliance) |
+| **Internal Sample Auditor** | **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (`ORCID: 0009-0003-0356-8582`) |
+| **External Peer-Review Venue** | **III. Maarif Congress (`MOIJUB`) Independent Refereeing Process (Application Submitted)** |
+| **Methodological Note (Principle 4)** | Methodological Note (Principle 4 — Role Separation): The 51/176 (29.0%) manual sample audit (including the Ghazâlî Vol. 3 p. 186 -> 9472/932 cumulative volume offset correction) was conducted by the project lead as an internal audit (Internal Sample Audit); independent external peer review will be conducted within the scope of the III. Maarif Congress (MOIJUB) refereeing process (application submitted). |
 | **Expertise Domains** | Sociology of Religion, Philosophy of Islamic Law (*Maqasid*), Strategic Foresight |
 | **Review Status** | `PRE-RELEASE` *(Submitted for Independent External Academic Peer Review)* |
 

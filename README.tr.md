@@ -66,9 +66,9 @@ Aşağıdaki 15 kurucu rapor (30 TR/EN monografi + 2 tam külliyat kitabı + 1 �
 ## Sürümler ve Rehberler
 
 - **Ana Talimatname Anayasası (`TALIMATNAME.md`):** [TALIMATNAME.md](TALIMATNAME.md) — `QV-2026-016+` için 4 sarsılmaz kural (Lafzî Şâmile iktibası, nokta atışı `page_id`, gövde tahrîc standardı, Adım 13 üçlü irfânî bütünlük).
-- **v6.2.2 (Kanonik Güncel Standart — Markdown):** [QURAN_VISION_v6.2.1_SPECIFICATION.md](QURAN_VISION_v6.2.1_SPECIFICATION.md) — 26 adım, 5 makro faz, İSNAD 2 + APA 7/DOI, Enfüs-Âfâk ve Kalp Fıkhı merceği, V1–V14 doğrulama modülleri.
+- **v6.2.2 (Kanonik Güncel Standart — Markdown):** [QURAN_VISION_v6.2.2_SPECIFICATION.md](QURAN_VISION_v6.2.2_SPECIFICATION.md) — 26 adım, 5 makro faz, İSNAD 2 + APA 7/DOI, Enfüs-Âfâk ve Kalp Fıkhı merceği, V1–V14 doğrulama modülleri.
 - **33. Belge — İSNAD-2 Klasik Arapça Veri Tabanları Rehberi (PDF):** [docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf](docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf) — Mehmet Yarıcı (2026, CC-BY-4.0).
-- **Tam Talimatname Metni (TXT):** [docs/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt](docs/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt) — Tek hakikat kaynağı (Single Source of Truth) tam şartname metni.
+- **Tam Talimatname Metni (TXT):** [docs/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt](docs/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt) — Tek hakikat kaynağı (Single Source of Truth) tam şartname metni.
 - **Akademik Hakem Rehberi:** [docs/tr/akademik-hakem-rehberi.md](docs/tr/akademik-hakem-rehberi.md) — 5 boyutlu hakemlik inceleme rubriği ve Z-5 formu.
 - **Linter Kuralları:** [docs/tr/linter-kurallari.md](docs/tr/linter-kurallari.md) — Biçimsel denetim kural rehberi.
 - **Değişiklik Kütüğü:** [CHANGELOG.md](CHANGELOG.md) — Sürüm tarihçesi.
@@ -80,8 +80,8 @@ Aşağıdaki 15 kurucu rapor (30 TR/EN monografi + 2 tam külliyat kitabı + 1 �
 | Dosya | Ne işe yarar |
 |---|---|
 | `TALIMATNAME.md` | Ana proje anayasası ve 4 sarsılmaz doğrulama standardı (v6.2.2) |
-| `QURAN_VISION_v6.2.1_SPECIFICATION.md` | Güncel v6.2.2 kanonik metodoloji ve uygulama şartnamesi |
-| `docs/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt` | v6.2.2 tam talimatname metni (.txt) |
+| `QURAN_VISION_v6.2.2_SPECIFICATION.md` | Güncel v6.2.2 kanonik metodoloji ve uygulama şartnamesi |
+| `docs/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt` | v6.2.2 tam talimatname metni (.txt) |
 | `YONTEM.md` | 26 adımlı yöntemin özeti ve 5 makro faz yapısı |
 | `src/gem_lint.py` | Biçimsel dil, şema, Şâmile `page_id` (Kontrol A), Adım 13 İrfânî bütünlük (Kontrol B) ve manifest denetçisi |
 | `docs/tr/05-ornek-rapor-v6.1.1.md` | Resmi rapor şablonu |

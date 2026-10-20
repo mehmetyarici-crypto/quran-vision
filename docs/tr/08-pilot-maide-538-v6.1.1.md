@@ -1,5 +1,5 @@
 ---
-gem_version: "6.2.1"
+gem_version: "6.2.2"
 case_id: "QV-2026-003"
 surah: "Mâide"
 verse: "5:38"
@@ -163,13 +163,12 @@ scenarios:
 peer_review:
   status: "PRE-RELEASE"
   internal_linter_verified: true
-  linter_timestamp: "2026-10-15T23:00:00+03:00"
-  reviewer_name: "Mehmet Emin Koç"
-  reviewer_title: "Akademik Danışman & Dış Hakem (Supervisor & External Peer-Reviewer)"
-  reviewer_orcid: "0000-0002-1025-5643"
-  reviewer_institution: "Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü"
+  linter_timestamp: "2026-10-20T09:00:00+03:00"
+  internal_sample_auditor: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"
+  internal_sample_auditor_orcid: "0009-0003-0356-8582"
+  external_review_venue: "III. Maarif Kongresi (MOIJUB) Bağımsız Hakem Süreci (Başvurusu Yapılmıştır)"
   review_date: null
-  review_notes: "Ön sürüm (PRE-RELEASE) aşamasındadır; bağımsız dış akademik hakem (Mehmet Emin Koç, ORCID: 0000-0002-1025-5643) değerlendirme ve tescil sürecine açıktır."
+  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır)."
 ---
 
 # Mâide Sûresi 5:38 Tahlili — Hırsızlık Suçu (Sirkat), Hırz ve Nisap Şartları, Zaruret Hali ve Sosyal Güvenlik Mimarisi
@@ -181,10 +180,10 @@ peer_review:
 - **Âyet:** Mâide Sûresi 5:38
 - **Konu Başlığı:** Hırsızlık Suçu (Sirkat), Hırz ve Nisap Şartları, Zaruret Hali ve Sosyal Güvenlik Mimarisi
 - **Proje Kurucusu & Başyazar:** Mehmet Yarıcı (Uludağ Üniversitesi İlahiyat Fakültesi, 1989 • T.C. MEB, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi — ORCID: `0009-0003-0356-8582`)
-- **Akademik Danışman & Dış Hakem:** Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi Felsefe ve Sosyoloji Enstitüsü — ORCID: `0000-0002-1025-5643`)
-- **Kalıcı CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23410818` (v6.2.1 Sürüm DOI)
+- **İç Denetim & Örneklem Kontrolü (İlke 4):** Mehmet Yarıcı (`Project Lead — Internal Sample Audit`, ORCID: `0009-0003-0356-8582`) • **Bağımsız Dış Hakem Süreci:** III. Maarif Kongresi (`MOIJUB`) Hakem Heyeti (Başvurusu Yapılmıştır)
+- **Kalıcı CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23410818` (v6.2.2 Sürüm DOI)
 - **Tarih:** 2026-10-14
-- **Sürüm:** v6.2.1 (Akademik Doğrulama Standartlı)
+- **Sürüm:** v6.2.2 (Akademik Doğrulama Standartlı)
 - **Katman:** 3 (26 Adımlı Tam Analiz Motoru + Z-1..Z-5 Zorunlu Ekler)
 - **H6 Durumu:** Evet (Zorlu Âyet Kapsamı)
 - **Dil:** Türkçe (TR)
@@ -646,7 +645,7 @@ Bu problematik şu derin adalet krizlerini doğurur:
 ### Z-4 · STANDART VE DÜRÜST SINIR İFADESİ [V10 ZORUNLU]
 
 > **METODOLOJİK VE EPİSTEMİK SINIR BEYANI:**
-> Bu rapor; Kur'an Temelli Gelecek Vizyonu (Quran Vision v6.2.1) mimarisi çerçevesinde üretilmiş analitik ve hermenötik bir modellemedir. Dini bir fetva, kesin kazi bir hüküm veya ilahi muradın eksiksiz ve yegâne tefsiri niteliği taşımaz. Raporda yer alan simülasyonlar, göstergeler ve politika kolları; analistin benimsediği usûl ekolünün ve ampirik varsayımların bir türevidir. Bu metin, kod tabanlı biçimsel iç tutarlılık denetiminden (gem_lint.py) geçmiş olup, bağımsız dış akademik hakem heyeti (peer-review) tarafından tescil edilmedikçe bilimsel kesinlik iddiası barındırmaz.
+> Bu rapor; Kur'an Temelli Gelecek Vizyonu (Quran Vision v6.2.2) mimarisi çerçevesinde üretilmiş analitik ve hermenötik bir modellemedir. Dini bir fetva, kesin kazi bir hüküm veya ilahi muradın eksiksiz ve yegâne tefsiri niteliği taşımaz. Raporda yer alan simülasyonlar, göstergeler ve politika kolları; analistin benimsediği usûl ekolünün ve ampirik varsayımların bir türevidir. Bu metin, kod tabanlı biçimsel iç tutarlılık denetiminden (gem_lint.py) geçmiş olup, bağımsız dış akademik hakem heyeti (peer-review) tarafından tescil edilmedikçe bilimsel kesinlik iddiası barındırmaz.
 
 ---
 
@@ -676,11 +675,11 @@ Bu problematik şu derin adalet krizlerini doğurur:
 
 ### Z-5 · BAĞIMSIZ DIŞ AKADEMİK HAKEM İNCELEME FORMU [V11 ZORUNLU]
 
-- **Hakem Adı / Soyadı:** Mehmet Emin Koç (Akademik Danışman & Dış Hakem / Supervisor)
-- **Akademik Kurumu:** Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü
-- **ORCID No:** `0000-0002-1025-5643`
+- **İç Denetim & Örneklem Kontrolü (Internal Sample Audit):** Mehmet Yarıcı (`Project Lead — Internal Sample Audit`, ORCID: `0009-0003-0356-8582`)
+- **Bağımsız Dış Hakem Değerlendirme Merci:** III. Maarif Kongresi (`MOIJUB`) Bağımsız Hakem Süreci (Başvurusu Yapılmıştır)
+- **Metodolojik Rol Ayrımı Notu (İlke 4):** Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).
 - **Değerlendirme Statüsü:** `ÖN SÜRÜM / BAĞIMSIZ DIŞ HAKEM İNCELEMESİNE AÇIK (PRE-RELEASE)`
-- **Hakem Değerlendirme Notu:** Rapor Quran Vision v6.2.1 İSNAD 2 ve APA 7 / DOI akademik doğrulama standartlarına uygun ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem inceleme ve puanlama sürecine açıktır.
+- **Hakem Değerlendirme Notu:** Rapor Quran Vision v6.2.2 İSNAD 2 ve APA 7 / DOI akademik doğrulama standartlarına uygun ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem inceleme ve puanlama sürecine açıktır.
 
 ```yaml
 hakem_degerlendirme_protokolu:
@@ -689,9 +688,9 @@ hakem_degerlendirme_protokolu:
   tarih: "2026-10-15"
   status: "PRE-RELEASE"
   hakem_atamasi:
-    atanan_hakem: "Mehmet Emin Koç"
-    orcid: "0000-0002-1025-5643"
-    kurum: "Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü"
+    ic_denetci: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"
+    orcid: "0009-0003-0356-8582"
+    dis_hakem_sureci: "III. Maarif Kongresi (MOIJUB) Bağımsız Hakem Süreci (Başvurusu Yapılmıştır)"
     uzmanlik_alani: "Hırsızlık Suçu (Sirkat), Hırz ve Nisap Şartları, Zaruret Hali ve Sosyal Güvenlik Mimarisi"
   rubrik_puanlamasi:
     boyut_1_metin_ve_tahkik: "— / 20"
@@ -701,5 +700,5 @@ hakem_degerlendirme_protokolu:
     boyut_5_kurumsal_tasarim_ve_ozgunluk: "— / 20"
     toplam_skor: "— / 100"
   hakem_karari: "PENDING_EXTERNAL_REVIEW"
-  derkenar_notu: "Rapor Quran Vision v6.2.1 standartlarına uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem (Mehmet Emin Koç, ORCID: 0000-0002-1025-5643) incelemesine hazır durumdadır."
+  derkenar_notu: "Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır)."
 ```

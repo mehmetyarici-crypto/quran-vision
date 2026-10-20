@@ -1,5 +1,5 @@
 {
-  "title": "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı) v6.2.2: Bilingual 26-Step Strategic Tafsir, Maqasid & Civilization Foresight Corpus (15 Foundational Reports & 34 A4 PDFs)",
+  "title": "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı) v6.2.2: Bilingual 26-Step Strategic Tafsir, Maqasid & Civilization Foresight Corpus (34 Corpus PDFs + 2 MOIJUB Congress PDFs = 36 PDFs)",
   "upload_type": "publication",
   "publication_type": "book",
   "publication_date": "2026-10-20",
@@ -11,19 +11,11 @@
     {
       "name": "Yarıcı, Mehmet",
       "orcid": "0009-0003-0356-8582",
-      "affiliation": "Kurucu & Başyazar (Founder & Principal Author) | Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi"
+      "affiliation": "Kurucu & Başyazar (Founder & Principal Author — Project Lead & Internal Sample Audit) | Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi"
     }
   ],
-  "contributors": [
-    {
-      "name": "Koç, Mehmet Emin",
-      "orcid": "0000-0002-1025-5643",
-      "type": "Supervisor",
-      "affiliation": "Akademik Danışman & Dış Hakem (Academic Advisor & External Peer-Reviewer) | Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü"
-    }
-  ],
-  "description": "<p><strong>Quran Vision Corpus (v6.2.2)</strong> is an open-access bilingual (Turkish / English) academic corpus and interactive foresight cockpit featuring <strong>15 foundational Quranic verse reports (QV-2026-001 to QV-2026-015)</strong> and <strong>34 A4 PDF</strong> documents. Every monograph integrates <strong>176 verified multi-server sources (127 Shamela + 15 Altafsir + 34 Institutional DOIs in data/sources_registry.yaml)</strong>, unified 3-part <strong>Step 13 Irfani/Sufi Hermeneutics (al-Qushayri, al-Ghazali, al-Muhasibi, Sahl al-Tustari, Ibn 'Ajibah)</strong>, <strong>45 contemporary empirical datasets (APA 7 / DOI: World Bank, UNDP, WJP, UNESCO, SIPRI, OECD, WHO)</strong>, 10-year Bayesian policy simulations (2026–2036), falsifiable early-warning thresholds, and 4-part 40-minute TYMM competency-based lesson plans (Step 20.1-20.4).</p><p><strong>Release Notes (v6.2.2):</strong> v6.2.2: V16.2 Multi-Server Source Verification Registry (176/176 verified sources with 29% manual sample audit), Complete Irfani/Sufi Hermeneutics Reform across 15 monographs (Step 13), Complete TYMM Pedagogical Reform across 15 monographs (Step 20), 33rd document (ISNAD-2 Classical Arabic Databases Guide), 34th document (TYMM DKAB 15-Verse Lesson Design Guide), and compiled master corpus books.</p>",
-  "notes": "v6.2.2: V16.2 Multi-Server Source Verification Registry (176/176 verified sources), Complete Irfani/Sufi Hermeneutics Reform (Step 13) & TYMM Pedagogical Reform (Step 20) across 15 monographs, 33rd document (ISNAD-2 Classical Arabic Databases Guide), 34th document (TYMM 15-Verse Lesson Design Guide), and compiled master corpus books.",
+  "description": "<p><strong>Quran Vision Corpus (v6.2.2)</strong> is an open-access bilingual (Turkish / English) academic corpus and interactive foresight cockpit featuring <strong>15 foundational Quranic verse reports (QV-2026-001 to QV-2026-015)</strong>. <strong>PDF Inventory:</strong> <strong>34 Külliyat PDF'i</strong> (15 Türkçe Monografi + 15 İngilizce Monografi + 2 Tam Külliyat Cildi [<code>Quran_Vision_Kulliyat_v6.2.2.pdf</code> &amp; <code>Quran_Vision_Corpus_EN_v6.2.2.pdf</code>] + 33. Belge [<code>ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf</code>] + 34. Belge [<code>TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf</code>]) <strong>+ 2 III. Maarif Kongresi (<code>MOIJUB</code>) Bildiri PDF'i</strong> (Özet ve Tam Metin [<code>III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf</code>]) — Toplam 36 PDF.</p><p><strong>Methodological Note (İlke 4 — Rol Ayrımı):</strong> 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -&gt; 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).</p>",
+  "notes": "34 Külliyat PDF'i (15 Türkçe Monografi + 15 İngilizce Monografi + 2 Tam Külliyat Cildi [Quran_Vision_Kulliyat_v6.2.2.pdf & Quran_Vision_Corpus_EN_v6.2.2.pdf] + 33. Belge [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 34. Belge [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet ve Tam Metin [III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf]) — Toplam 36 PDF.",
   "keywords": [
     "Quranic Studies",
     "Tafsir",
@@ -65,6 +57,12 @@
       "identifier": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf",
       "relation": "hasPart",
       "resource_type": "publication-technicalnote"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf",
+      "relation": "hasPart",
+      "resource_type": "publication-conferencepaper"
     }
   ]
 }

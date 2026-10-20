@@ -1334,7 +1334,7 @@ def generate_manifest(target_file: Path):
     content = target_file.read_bytes()
     digest = hashlib.sha256(content).hexdigest()
     manifest_name = target_file.with_suffix(target_file.suffix + ".sha256")
-    manifest_name.write_text(f"{digest}  {target_file.name}\n", encoding="utf-8")
+    manifest_name.write_bytes(f"{digest}  {target_file.name}\n".encode("utf-8"))
     print(f"✅ Manifest üretildi: {manifest_name}")
     print(f"   SHA-256: {digest}")
     return 0

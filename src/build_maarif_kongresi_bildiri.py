@@ -122,7 +122,7 @@ REFERENCES = [
     "Millî Eğitim Bakanlığı [MEB]. (2026a). İlkokul-ortaokul ve imam hatip ortaokulu Din Kültürü ve Ahlak Bilgisi dersi (4–8. sınıflar) öğretim programı (TTKB 03.03.2026 tarih ve 4 sayılı kararı). Ankara: MEB Yayınları.",
     "Millî Eğitim Bakanlığı [MEB]. (2026b). Ortaöğretim Din Kültürü ve Ahlak Bilgisi dersi (9–12. sınıflar) öğretim programı (TTKB 03.03.2026 tarih ve 5 sayılı kararı). Ankara: MEB Yayınları.",
     "Şâtıbî, İ. (1997). el-Muvâfakât fî usûli’ş-şerîa (M. H. Âl-i Selmân, Ed.; Cilt 1–6). Riyad: Dâru İbni Affân.",
-    "Yarıcı, M. (2026). Kur’ân Vizyonu (Quran Vision): 26 Adımlı Kanıta Dayalı Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı (Sürüm v6.2.2; 15 Monografi ve 34 A4 PDF). Zenodo. https://doi.org/10.5281/zenodo.23410818",
+    "Yarıcı, M. (2026). Kur’ân Vizyonu (Quran Vision): 26 Adımlı Kanıta Dayalı Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı (Sürüm v6.2.2; 15 Monografi, 34 Külliyat PDF'i + 2 III. Maarif Kongresi Bildiri PDF'i — Toplam 36 PDF). Zenodo. https://doi.org/10.5281/zenodo.23410818",
 ]
 
 
@@ -295,7 +295,7 @@ def build_full_paper_html(isra_step20_md: str) -> str:
     <div class="title">{TITLE}</div>
     <div class="meta-box">
       {"".join(f"<div><strong>{k}:</strong> {v}</div>" for k, v in APPLICATION_META)}
-      <div><strong>Külliyat ve Açık Bilim Envanteri:</strong> 15 Kurucu Âyet Monografisi (15 TR + 15 EN = 30 Rapor) • 34 A4 PDF • 176/176 Doğrulanmış Çoklu Sunucu Kaynağı (<code>127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL</code>)</div>
+      <div><strong>Külliyat ve Açık Bilim Envanteri:</strong> 15 Kurucu Âyet Monografisi (15 TR + 15 EN = 30 Rapor) • 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat + 1 Yönetici Özeti + 1 TYMM 15 Âyet Ders Tasarımı Rehberi) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF • 176/176 Doğrulanmış Çoklu Sunucu Kaynağı (<code>127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL</code>)</div>
     </div>
   </div>
 
@@ -344,7 +344,7 @@ def build_full_paper_html(isra_step20_md: str) -> str:
     <strong>Epistemik Doğrulama Beyanı (Sıfır İlke 3) ve Rol Ayrımı Şeffaflık Notu (İlke 4 — C ve D3 Şartları):</strong><br>
     • <em>"[2026-10-20] itibarıyla incelenen [176/176] kayıt (127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL), [Fihrist + Lafzî Eşleşme + &gt;=0.10 Manuel Örneklem (51/176 = 0.29)] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün."</em><br>
     • <strong>Türev Hiyerarşisi (D3 Şartı):</strong> Tek doğruluk kaynağı <code>data/sources_registry.yaml</code> dosyasıdır; <code>docs/source_verification_manifest.json</code> ise derleme anında otomatik üretilen salt-okunur arayüz türevidir.<br>
-    • <strong>Methodological Note (İlke 4 — C Şartı):</strong> Örneklem denetimi proje yürütücüsü (<code>Mehmet Yarıcı (Project Lead — Internal Sample Audit)</code>) tarafından gerçekleştirilmiş olup, bağımsız dış hakem değerlendirmesi III. Maarif Kongresi (<code>MOIJUB</code>) hakem süreci kapsamında yürütülmektedir.
+    • <strong>Metodolojik Not (İlke 4 — Rol Ayrımı):</strong> 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -&gt; 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü (<code>Mehmet Yarıcı (Project Lead — Internal Sample Audit)</code>) tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (<code>MOIJUB</code>) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).
   </div>
 
   <h2>BÖLÜM 3 — DİJİTAL TAHKİKTE REGRESYON VAKASI: KÜMÜLATİF CİLT OFSETİ VE PARAMETRE DENETİMİ</h2>
@@ -470,12 +470,43 @@ def main():
     isra_step20_md = m20.group(1).strip() if m20 else ""
 
     full_html = build_full_paper_html(isra_step20_md)
+    abstract_blocks = "".join(
+        f"<div class='sec-sub'>{h}</div><p>{b}</p>" for h, _, b in SECTIONS_WITHOUT_REF
+    )
+    refs_html = "".join(f"<p class='ref-item'>{r}</p>" for r in REFERENCES)
+    ek1_html = f"""<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>III. Maarif Kongresi Genişletilmiş Bildiri Özeti (MOIJUB — Ek-1 Şablonu)</title>
+<style>
+  @page {{ size: A4; margin: 2.2cm; }}
+  body {{ font-family: "Times New Roman", Times, serif; font-size: 11.5pt; line-height: 1.5; text-align: justify; color: #111827; margin: 0; }}
+  .title {{ font-size: 14pt; font-weight: bold; text-align: center; text-transform: uppercase; color: #064e3b; margin-bottom: 8pt; }}
+  .meta {{ font-size: 10pt; text-align: center; color: #334155; margin-bottom: 14pt; border-bottom: 1.5px solid #0f5132; padding-bottom: 8pt; }}
+  .sec-sub {{ font-weight: bold; color: #0f5132; margin-top: 9pt; margin-bottom: 3pt; }}
+  p {{ margin-top: 0; margin-bottom: 7pt; text-align: justify; }}
+  .ref-item {{ margin-bottom: 4pt; padding-left: 1cm; text-indent: -1cm; font-size: 10.5pt; }}
+</style>
+</head>
+<body>
+  <div class="title">{TITLE}</div>
+  <div class="meta">{" • ".join(f"<strong>{k}:</strong> {v}" for k, v in APPLICATION_META[:4])}</div>
+  {abstract_blocks}
+  <div class="sec-sub">KAYNAKÇA</div>
+  {refs_html}
+</body>
+</html>
+"""
     PDF_DIR.mkdir(parents=True, exist_ok=True)
     tmp_html = PDF_DIR / "_tmp_maarif_full_moijub.html"
+    tmp_ek1_html = PDF_DIR / "_tmp_maarif_ek1_moijub.html"
     full_pdf_repo = PDF_DIR / "III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf"
+    ek1_pdf_repo = PDF_DIR / "III_MAARIF_KONGRESI_BILDIRI_OZETI_EK1_SABLONU.pdf"
     full_pdf_desktop = DESKTOP / "III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf"
     ek1_pdf_desktop = DESKTOP / "III_MAARIF_KONGRESI_BILDIRI_OZETI_EK1_SABLONU.pdf"
     tmp_html.write_text(full_html, encoding="utf-8")
+    tmp_ek1_html.write_text(ek1_html, encoding="utf-8")
 
     edge_paths = [
         r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
@@ -483,25 +514,41 @@ def main():
     ]
     edge_exe = next((p for p in edge_paths if Path(p).exists()), None)
     if edge_exe:
-        subprocess.run(
-            [
-                edge_exe,
-                "--headless",
-                "--disable-gpu",
-                "--no-pdf-header-footer",
-                f"--print-to-pdf={full_pdf_repo}",
-                tmp_html.resolve().as_uri(),
-            ],
-            check=True,
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.DEVNULL,
-        )
+        for html_f, pdf_f in [(tmp_html, full_pdf_repo), (tmp_ek1_html, ek1_pdf_repo)]:
+            subprocess.run(
+                [
+                    edge_exe,
+                    "--headless",
+                    "--disable-gpu",
+                    "--no-pdf-header-footer",
+                    f"--print-to-pdf={pdf_f}",
+                    html_f.resolve().as_uri(),
+                ],
+                check=True,
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL,
+            )
+        try:
+            from build_portal import stamp_pdf_metadata
+            stamp_pdf_metadata(
+                full_pdf_repo,
+                title="III. Maarif Kongresi Tam Metin Bildirisi (MOIJUB) — Quran Vision v6.2.2",
+                subject="TYMM 2026 DKAB 26 Adımlı Öğretim Tasarımı ve V16.2 Çoklu Sunucu Doğrulama Sicili",
+            )
+            stamp_pdf_metadata(
+                ek1_pdf_repo,
+                title="III. Maarif Kongresi Genişletilmiş Bildiri Özeti (MOIJUB — Ek-1 Şablonu)",
+                subject="TYMM 2026 DKAB 26 Adımlı Öğretim Tasarımı Özeti (500-750 Kelime)",
+            )
+        except Exception:
+            pass
         shutil.copy2(full_pdf_repo, full_pdf_desktop)
-        shutil.copy2(full_pdf_repo, ek1_pdf_desktop)
-        print(f"Tam Metin MOIJUB PDF kaydedildi: {full_pdf_repo} ({full_pdf_repo.stat().st_size // 1024} KB)")
-        print(f"Masaüstü kopyası kaydedildi: {full_pdf_desktop}")
-    if tmp_html.exists():
-        tmp_html.unlink()
+        shutil.copy2(ek1_pdf_repo, ek1_pdf_desktop)
+        print(f"1. Kongre PDF (Özet Ek-1) kaydedildi: {ek1_pdf_repo} ({ek1_pdf_repo.stat().st_size // 1024} KB)")
+        print(f"2. Kongre PDF (Tam Metin) kaydedildi: {full_pdf_repo} ({full_pdf_repo.stat().st_size // 1024} KB)")
+    for f in (tmp_html, tmp_ek1_html):
+        if f.exists():
+            f.unlink()
 
 
 if __name__ == "__main__":

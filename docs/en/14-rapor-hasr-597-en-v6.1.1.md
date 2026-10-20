@@ -1,5 +1,5 @@
 ---
-gem_version: "6.2.1"
+gem_version: "6.2.2"
 case_id: "QV-2026-009"
 surah: "Haşr"
 verse: "59:7"
@@ -171,13 +171,12 @@ scenarios:
 peer_review:
   status: "PRE-RELEASE"
   internal_linter_verified: true
-  linter_timestamp: "2026-10-16T07:30:00+03:00"
-  reviewer_name: "Mehmet Emin Koç"
-  reviewer_title: "Researcher / External Academic Reviewer"
-  reviewer_orcid: "0000-0002-1025-5643"
-  reviewer_institution: "Azerbaijan National Academy of Sciences (ANAS / AMEA), Institute of Philosophy and Sociology"
-  review_date: "2026-10-16"
-  review_notes: "Pre-release (PRE-RELEASE) monograph; internal algorithmic consistency (GemLinterV6 0 BLOCK) verified and submitted to Mehmet Emin Koç (ORCID: 0000-0002-1025-5643) for independent external peer review."
+  linter_timestamp: "2026-10-20T09:00:00+03:00"
+  internal_sample_auditor: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"
+  internal_sample_auditor_orcid: "0009-0003-0356-8582"
+  external_review_venue: "III. Maarif Congress (MOIJUB) Independent Peer-Review Process (Application Submitted)"
+  review_date: "2026-10-20"
+  review_notes: "Methodological Note (Principle 4 — Role Separation): The 51/176 (29.0%) manual sample audit (including the Ghazâlî Vol. 3 p. 186 -> 9472/932 cumulative volume offset correction) was conducted by the project lead as an internal audit (Internal Sample Audit); independent external peer review will be conducted within the scope of the III. Maarif Congress (MOIJUB) refereeing process (application submitted)."
 ---
 
 # QV-2026-009 — Surah Al-Hashr 59:7: Distributive Justice (Kay La Yakuna Dulatan), Prevention of Plutocratic Oligarchy & Social Welfare Circulation
@@ -187,14 +186,14 @@ peer_review:
 ### STEP 00 — DOCUMENT METADATA & METHODOLOGICAL IDENTITY
 
 - **Case ID & Canonical Reference:** `QV-2026-009` — **Surah Al-Hashr 59:7** (*Distributive Justice (Kay La Yakuna Dulatan), Prevention of Plutocratic Oligarchy & Social Welfare Circulation*)
-- **Schema & Linter Standard:** `Quran Vision v6.2.1` | **Methodological Layer:** `Layer 3 (Full Quantitative & Systemic Modeling)` | **H6 Protocol:** `Active (Complex Verse Protocol)`
+- **Schema & Linter Standard:** `Quran Vision v6.2.2` | **Methodological Layer:** `Layer 3 (Full Quantitative & Systemic Modeling)` | **H6 Protocol:** `Active (Complex Verse Protocol)`
 - **Document Status & Confidence Grade:** `PRE-RELEASE` | **Qualitative Confidence Grade:** `B (Medium-High Analytical Confidence)`
 - **Strategic Foresight Window:** `2026–2036 (10-Year Policy & Institutional Horizon)`
 - **Verified Classical Knowledge Base (*ISNAD 2nd Edition*):** Zemahşerî, Mahmûd b. Ömer (*el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*); Râgıb el-İsfahânî, Hüseyin b. Muhammed (*el-Müfredât fî Garîbi'l-Kur'ân*); İbn Fâris, Ahmed b. Fâris (*Mu'cemü Makâyîsi'l-Lüğa*); İbn Manzûr, Muhammed b. Mükerrem (*Lisânü'l-Arab*); Ebû Bekr el-Cessâs, Ahmed b. Ali (*Ahkâmü'l-Kur'ân*).
 - **Verified Empirical Datasets (*APA 7 / DOI*):** World Bank Group (2024); Türkiye İstatistik Kurumu (TÜİK) (2024); World Inequality Lab (2024).
 - **Principal Author & Project Founder:** **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education [MEB], Bahçelievler Dede Korkut Anatolian High School, Istanbul, Türkiye).
-- **External Peer Reviewer (V11):** **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — Azerbaijan National Academy of Sciences [ANAS / AMEA], Institute of Philosophy and Sociology).
-- **Permanent CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Concept DOI) | `10.5281/zenodo.23410818` (v6.2.1 Version DOI)
+- **Internal Sample Audit & Role Separation (V11 / Principle 4):** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (`ORCID: 0009-0003-0356-8582`) • **External Peer-Review Process:** III. Maarif Congress (`MOIJUB`) Refereeing Process (Application Submitted).
+- **Permanent CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Concept DOI) | `10.5281/zenodo.23410818` (v6.2.2 Version DOI)
 
 ---
 
@@ -714,10 +713,10 @@ This institutional instructional design translates the **"Virtue–Value–Actio
 | Field | Reviewer Metadata & Audit Record |
 | :--- | :--- |
 | **Evaluated Monograph** | `QV-2026-009` — Surah Al-Hashr 59:7 (*Distributive Justice (Kay La Yakuna Dulatan), Prevention of Plutocratic Oligarchy & Social Welfare Circulation*) |
-| **Schema & Linter Version** | `v6.2.1` (`gem_lint.py` — 0 BLOCK / full (all-encompassing) Rule Compliance) |
-| **External Reviewer Name** | **Mehmet Emin Koç** |
-| **Academic Affiliation** | **Azerbaijan National Academy of Sciences (ANAS / AMEA), Institute of Philosophy and Sociology** |
-| **ORCID Identifier** | `0000-0002-1025-5643` |
+| **Schema & Linter Version** | `v6.2.2` (`gem_lint.py` — 0 BLOCK / full (all-encompassing) Rule Compliance) |
+| **Internal Sample Auditor** | **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (`ORCID: 0009-0003-0356-8582`) |
+| **External Peer-Review Venue** | **III. Maarif Congress (`MOIJUB`) Independent Refereeing Process (Application Submitted)** |
+| **Methodological Note (Principle 4)** | Methodological Note (Principle 4 — Role Separation): The 51/176 (29.0%) manual sample audit (including the Ghazâlî Vol. 3 p. 186 -> 9472/932 cumulative volume offset correction) was conducted by the project lead as an internal audit (Internal Sample Audit); independent external peer review will be conducted within the scope of the III. Maarif Congress (MOIJUB) refereeing process (application submitted). |
 | **Expertise Domains** | Sociology of Religion, Philosophy of Islamic Law (*Maqasid*), Strategic Foresight |
 | **Review Status** | `PRE-RELEASE` *(Submitted for Independent External Academic Peer Review)* |
 

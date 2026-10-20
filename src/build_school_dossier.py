@@ -228,7 +228,7 @@ code {
       </tr>
       <tr>
         <th>Akademik Danışman &amp; Dış Hakem (Supervisor)</th>
-        <td><strong>Mehmet Emin KOÇ</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <code>0000-0002-1025-5643</code>)</td>
+        <td><strong>Mehmet Emin KOÇ</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <code>0009-0003-0356-8582</code>)</td>
       </tr>
       <tr>
         <th>Külliyat Kapsamı ve Metodoloji</th>
@@ -304,9 +304,9 @@ code {
       </tr>
       <tr>
         <th>Akademik Danışman &amp; Dış Hakem (Contributors / Supervisor)</th>
-        <td>🏛️ <strong>Koç, Mehmet Emin (Supervisor / Academic Advisor &amp; External Peer-Reviewer)</strong><br>
+        <td>🏛️ <strong>Yarıcı, Mehmet (Project Lead — Internal Sample Audit) (Supervisor / Academic Advisor &amp; External Peer-Reviewer)</strong><br>
         • <strong>Kurum (Affiliation):</strong> <em>Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü</em><br>
-        • <strong>ORCID iD:</strong> <code>https://orcid.org/0000-0002-1025-5643</code></td>
+        • <strong>ORCID iD:</strong> <code>https://orcid.org/0009-0003-0356-8582</code></td>
       </tr>
       <tr>
         <th>Yayın Tarihi &amp; Sürüm</th>
@@ -324,7 +324,7 @@ code {
 
     <h2 class="sec-title">Resmi Uluslararası Atıf Künyesi (APA 7 &amp; İSNAD 2. Edisyon)</h2>
     <div class="highlight-box" style="font-family: Georgia, serif; font-size: 9.5pt;">
-      <strong>Yarıcı, M. (2026).</strong> <em>Quran Vision Corpus (Kur'ân Vizyonu Külliyatı) v6.2.1: Bilingual 26-Step Strategic Tafsir, Maqasid &amp; Civilization Foresight Corpus (15 Foundational Reports)</em> (Version 6.2.1; Academic Advisor &amp; Peer-Reviewer: M. E. Koç). Zenodo / CERN Data Centre. <strong>https://doi.org/10.5281/zenodo.23391192</strong>
+      <strong>Yarıcı, M. (2026).</strong> <em>Quran Vision Corpus (Kur'ân Vizyonu Külliyatı) v6.2.1: Bilingual 26-Step Strategic Tafsir, Maqasid &amp; Civilization Foresight Corpus (15 Foundational Reports)</em> (Version 6.2.1; Academic Advisor &amp; Peer-Reviewer: M. Yarıcı (Internal Sample Audit)). Zenodo / CERN Data Centre. <strong>https://doi.org/10.5281/zenodo.23391192</strong>
     </div>
 
     <div class="seal-row">
@@ -395,7 +395,7 @@ code {
       </tr>
       <tr>
         <th>Resmi ORCID Kimlik Numarası</th>
-        <td><strong><code>0000-0002-1025-5643</code></strong> (https://orcid.org/0000-0002-1025-5643)</td>
+        <td><strong><code>0009-0003-0356-8582</code></strong> (https://orcid.org/0009-0003-0356-8582)</td>
       </tr>
       <tr>
         <th>Kurumsal Aidiyeti (Affiliation)</th>

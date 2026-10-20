@@ -281,7 +281,7 @@ def format_inline_md_py(text: str, fn_prefix: str = "", seen_fnrefs: dict | None
 
     s = re.sub(r"(?i)\b(doi:\s*)?(10\.\d{4,9}/[-._;()/:A-Za-z0-9]+)", repl_doi, s)
 
-    # 4. Bare ORCIDs (0009-0003-0356-8582, 0000-0002-1025-5643, etc.)
+    # 4. Bare ORCIDs (0009-0003-0356-8582, 0009-0003-0356-8582, etc.)
     def repl_orcid(m):
         orcid = m.group(1)
         return save_link(f'<a href="https://orcid.org/{orcid}" target="_blank" rel="noopener" class="orcid-link">{orcid}</a>')
@@ -356,7 +356,7 @@ def format_z5_yaml_py(yaml_text: str) -> str:
       <tbody>
         <tr>
           <td><strong>Künye &amp; Dış Hakem</strong></td>
-          <td>Rapor: <strong>{rapor_id} ({sure_ayet})</strong> • Hakem: <strong>Mehmet Emin Koç</strong> (<a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">ORCID: 0000-0002-1025-5643</a>) • Tarih: {tarih} • Uzmanlık: {uzmanlik}</td>
+          <td>Rapor: <strong>{rapor_id} ({sure_ayet})</strong> • Hakem: <strong>Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">ORCID: 0009-0003-0356-8582</a>) • Tarih: {tarih} • Uzmanlık: {uzmanlik}</td>
           <td><strong>ÖN SÜRÜM (Açık Hakemlik)</strong></td>
         </tr>
         <tr>
@@ -528,7 +528,7 @@ def build_single_report_print_html(r: dict, idx: int, fn_prefix: str = "") -> st
         <h1 class="pdf-main-title">{idx}. {html_lib.escape(r['surah'])} Sûresi {html_lib.escape(r['verse'])} — {html_lib.escape(r['topic'])}</h1>
         <div class="pdf-submeta" style="color:#064e3b; background:#eef5f2; padding:5px 8px; border-radius:4px; border-left:3px solid #856404; margin-bottom:6px; line-height:1.45;">
           👑 <strong>Proje Kurucusu &amp; Başyazar (Eser Sahibi): Mehmet Yarıcı</strong> — <em>Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. MEB İstanbul Bahçelievler Dede Korkut Anadolu Lisesi</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)<br>
-          🏛️ <strong>Akademik Danışman &amp; Dış Hakem: Mehmet Emin Koç</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>)
+          🏛️ <strong>Akademik Danışman &amp; Dış Hakem: Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)
         </div>
         <div class="pdf-submeta">
           Katman: 3 (Akademik-Derin) &nbsp;|&nbsp; H6 Zorlu Âyet &nbsp;|&nbsp; Güven Derecesi: {html_lib.escape(r['confidence'])} &nbsp;|&nbsp;
@@ -876,7 +876,7 @@ def build_single_report_print_html_en(r: dict, idx: int, fn_prefix: str = "") ->
         <h1 class="pdf-main-title">{idx}. Surah {html_lib.escape(r.get('surah_en', r['surah']))} {html_lib.escape(r['verse'])} — {html_lib.escape(r.get('topic_en', r['topic']))}</h1>
         <div class="pdf-submeta" style="color:#064e3b; background:#eef5f2; padding:5px 8px; border-radius:4px; border-left:3px solid #856404; margin-bottom:6px; line-height:1.45;">
           👑 <strong>Founder &amp; Principal Author: Mehmet Yarıcı</strong> — <em>Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)<br>
-          🏛️ <strong>Academic Advisor &amp; External Peer-Reviewer: Mehmet Emin Koç</strong> — <em>Azerbaijan National Academy of Sciences (ANAS), Institute of Philosophy and Sociology</em> (ORCID: <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>)
+          🏛️ <strong>Academic Advisor &amp; External Peer-Reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <em>Azerbaijan National Academy of Sciences (ANAS), Institute of Philosophy and Sociology</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)
         </div>
         <div class="pdf-submeta">
           Layer: 3 (Academic-Deep) &nbsp;|&nbsp; H6 Complex Verse &nbsp;|&nbsp; Confidence Grade: {html_lib.escape(r['confidence'])} &nbsp;|&nbsp;
@@ -915,7 +915,7 @@ def stamp_pdf_metadata(pdf_path: Path, title: str, subject: str):
         "Quran Vision Corpus v6.2.2; Strategic Tafsir; Maqasid al-Shariah; ISNAD 2; "
         "Bayesian Policy Simulation; DOI:10.5281/zenodo.23410818; Concept-DOI:10.5281/zenodo.23391192; "
         "Principal Author: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582); "
-        "Academic Advisor & Peer-Reviewer: Mehmet Emin Koç (ORCID: 0000-0002-1025-5643)"
+        "Academic Advisor & Peer-Reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)"
     )
     creator_str = "Quran Vision Institute v6.2.2 — Founder & Principal Author: Mehmet Yarıcı"
     try:
@@ -968,7 +968,7 @@ def build_isnad2_guide_pdf(browser: str, rebuild_all: bool = False):
             </h1>
             <div class="pdf-submeta" style="color:#064e3b; background:#eef5f2; padding:8px 12px; border-radius:6px; border-left:4px solid #856404; margin-bottom:8px; line-height:1.55; font-size:9.5pt;">
               👑 <strong>Yazar (Author): Mehmet Yarıcı</strong> — <em>Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" class="orcid-link">0009-0003-0356-8582</a>)<br>
-              🏛️ <strong>Akademik Danışman &amp; Dış Hakem: Mehmet Emin Koç</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <a href="https://orcid.org/0000-0002-1025-5643" class="orcid-link">0000-0002-1025-5643</a>)<br>
+              🏛️ <strong>Akademik Danışman &amp; Dış Hakem: Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" class="orcid-link">0009-0003-0356-8582</a>)<br>
               📅 <strong>Tarih (Date):</strong> 2026 &nbsp;|&nbsp; ⚖️ <strong>Açık Bilim Lisansı (License):</strong> Creative Commons Attribution 4.0 International (<strong>CC-BY-4.0</strong>) &nbsp;|&nbsp; 🏛️ <strong>Kurumsal Kimlik:</strong> <strong>Quran Vision</strong>
             </div>
           </div>
@@ -1276,7 +1276,7 @@ def generate_all_pdfs(reports: list):
         tr_subj = (
             f"Kur'an Vizyonu Külliyatı v6.2.2 ({r['case_id']}) • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • "
             "Proje Kurucusu & Başyazar (Eser Sahibi): Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • "
-            "Akademik Danışman & Dış Hakem: Mehmet Emin Koç (ORCID: 0000-0002-1025-5643)"
+            "Akademik Danışman & Dış Hakem: Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)"
         )
         if not (out_pdf.exists() and out_pdf.stat().st_size > 1000 and not rebuild_all):
             single_doc = wrap_pdf_document(f"{r['case_id']} - {r['surah']} {r['verse']}", art_html_single)
@@ -1305,7 +1305,7 @@ def generate_all_pdfs(reports: list):
         en_subj = (
             f"Quran Vision Corpus v6.2.2 ({r['case_id']}) • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • "
             "Founder & Principal Author (Corpus Owner): Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • "
-            "Academic Advisor & External Peer-Reviewer: Mehmet Emin Koç (ORCID: 0000-0002-1025-5643)"
+            "Academic Advisor & External Peer-Reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)"
         )
         if not (out_pdf_en.exists() and out_pdf_en.stat().st_size > 1000 and not rebuild_all):
             single_doc_en = wrap_pdf_document(f"{r['case_id']} - Surah {r.get('surah_en', r['surah'])} {r['verse']} (EN)", art_en_single)
@@ -1337,7 +1337,7 @@ def generate_all_pdfs(reports: list):
       <div style="text-align: left; max-width: 560px; margin: 0 auto 18px; padding: 12px 16px; background: #eef5f2; border: 1.5px solid #0f5132; border-left: 5px solid #856404; border-radius: 8px; font-size: 9.5pt; line-height: 1.55;">
         <div style="font-weight: 800; color: #0f5132; margin-bottom: 5px; text-transform: uppercase; letter-spacing: 0.5px;">🏛️ ESER SAHİPLİĞİ, BAŞYAZAR VE AKADEMİK DANIŞMA KÜNYESİ:</div>
         <div style="margin-bottom: 4px;">👑 <strong>Proje Kurucusu &amp; Başyazar (Eser Sahibi): Mehmet Yarıcı</strong> — <em>Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi</em> (ORCID: <code><a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></code>)</div>
-        <div>🏛️ <strong>Akademik Danışman &amp; Dış Hakem: Mehmet Emin Koç</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <code><a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a></code>)</div>
+        <div>🏛️ <strong>Akademik Danışman &amp; Dış Hakem: Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <code><a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></code>)</div>
       </div>
       <p style="font-size: 11pt; color: #374151; max-width: 560px; margin: 0 auto 18px;">
         26 Adımlı Analitik Çerçeve, İSNAD 2 Klasik Tefsir Tahkiki, Çağdaş Ampirik (DOI) Göstergeler ve
@@ -1369,7 +1369,7 @@ def generate_all_pdfs(reports: list):
         stamp_pdf_metadata(
             book_pdf_path,
             f"Kur'an Vizyonu (Quran Vision) Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı v6.2.2 (QV-2026-001 – {last_code})",
-            "Kur'an Vizyonu Külliyatı v6.2.2 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Proje Kurucusu & Başyazar (Eser Sahibi): Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Akademik Danışman & Dış Hakem: Mehmet Emin Koç (ORCID: 0000-0002-1025-5643)",
+            "Kur'an Vizyonu Külliyatı v6.2.2 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Proje Kurucusu & Başyazar (Eser Sahibi): Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Akademik Danışman & Dış Hakem: Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)",
         )
         shutil.copy2(book_pdf_path, DESKTOP_PDF_DIR / "Quran_Vision_Kulliyat_v6.2.2.pdf")
         shutil.copy2(book_pdf_path, parent_pdf_dir / "Quran_Vision_Kulliyat_v6.2.2.pdf")
@@ -1386,7 +1386,7 @@ def generate_all_pdfs(reports: list):
       <div style="text-align: left; max-width: 560px; margin: 0 auto 18px; padding: 12px 16px; background: #eef5f2; border: 1.5px solid #0f5132; border-left: 5px solid #856404; border-radius: 8px; font-size: 9.5pt; line-height: 1.55;">
         <div style="font-weight: 800; color: #0f5132; margin-bottom: 5px; text-transform: uppercase; letter-spacing: 0.5px;">🏛️ CORPUS OWNERSHIP, PRINCIPAL AUTHOR &amp; ACADEMIC ADVISORY BOARD:</div>
         <div style="margin-bottom: 4px;">👑 <strong>Founder &amp; Principal Author (Copyright Owner): Mehmet Yarıcı</strong> — <em>Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School</em> (ORCID: <code><a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></code>)</div>
-        <div>🏛️ <strong>Academic Advisor &amp; External Peer-Reviewer: Mehmet Emin Koç</strong> — <em>Azerbaijan National Academy of Sciences (ANAS), Institute of Philosophy and Sociology</em> (ORCID: <code><a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a></code>)</div>
+        <div>🏛️ <strong>Academic Advisor &amp; External Peer-Reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <em>Azerbaijan National Academy of Sciences (ANAS), Institute of Philosophy and Sociology</em> (ORCID: <code><a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></code>)</div>
       </div>
       <p style="font-size: 11pt; color: #374151; max-width: 560px; margin: 0 auto 18px;">
         26-Step Analytical Framework, ISNAD 2 Classical Tafsir Verification, Contemporary Empirical (DOI) Indicators, and
@@ -1418,7 +1418,7 @@ def generate_all_pdfs(reports: list):
         stamp_pdf_metadata(
             book_en_pdf_path,
             f"Quran Vision Corpus: Strategic Tafsir, Maqasid & Civilization Foresight v6.2.2 (QV-2026-001 – {last_code})",
-            "Quran Vision Corpus v6.2.2 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Founder & Principal Author (Corpus Owner): Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Academic Advisor & External Peer-Reviewer: Mehmet Emin Koç (ORCID: 0000-0002-1025-5643)",
+            "Quran Vision Corpus v6.2.2 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Founder & Principal Author (Corpus Owner): Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Academic Advisor & External Peer-Reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)",
         )
         shutil.copy2(book_en_pdf_path, DESKTOP_PDF_DIR / "Quran_Vision_Corpus_EN_v6.2.2.pdf")
         shutil.copy2(book_en_pdf_path, parent_pdf_dir / "Quran_Vision_Corpus_EN_v6.2.2.pdf")
@@ -1554,7 +1554,7 @@ def build_source_verification_manifest() -> dict:
         "manual_sample_ratio": ratio,
         "methodological_note_principle_4": str(
             raw_reg.get("methodological_note_principle_4")
-            or "Methodological Note (İlke 4): Örneklem denetimi proje yürütücüsü tarafından gerçekleştirilmiş olup, bağımsız dış hakem değerlendirmesi III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülmektedir"
+            or "Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır)."
         ),
         "epistemic_statement_tr": epistemic_tr,
         "epistemic_statement_en": epistemic_en,
@@ -1637,11 +1637,11 @@ def build_html(reports, source_manifest=None):
   }},
   "contributor": {{
     "@type": "Person",
-    "name": "Mehmet Emin Koç",
+    "name": "Mehmet Yarıcı (Project Lead — Internal Sample Audit)",
     "jobTitle": "Academic Advisor & External Peer-Reviewer (Akademik Danışman ve Dış Hakem)",
     "affiliation": "Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü",
-    "identifier": "https://orcid.org/0000-0002-1025-5643",
-    "sameAs": "https://orcid.org/0000-0002-1025-5643"
+    "identifier": "https://orcid.org/0009-0003-0356-8582",
+    "sameAs": "https://orcid.org/0009-0003-0356-8582"
   }},
   "distribution": [
     {{
@@ -3084,16 +3084,16 @@ function selectReport(idx) {{
     <div class="hero-title">${{topicDisp}}</div>
     <details class="meta-disclosure">
       <summary class="meta-summary">
-        <span>🏛️ ${{isEn ? 'Academic Ownership, COPE Role Disclosure, ORCID & External SHA-256 Seal (M. Yarıcı • Advisor: M. E. Koç)' : 'Akademik Künye, COPE Rol Beyanı, ORCID & Harici SHA-256 Mührü (M. Yarıcı • Danışman: M. E. Koç)'}}</span>
+        <span>🏛️ ${{isEn ? 'Academic Ownership, COPE Role Disclosure, ORCID & External SHA-256 Seal (M. Yarıcı • Advisor: M. Yarıcı (Internal Sample Audit))' : 'Akademik Künye, COPE Rol Beyanı, ORCID & Harici SHA-256 Mührü (M. Yarıcı • Danışman: M. Yarıcı (Internal Sample Audit))'}}</span>
       </summary>
       <div class="meta-disclosure-body">
         <div>👑 <strong>${{isEn ? 'Founder & Principal Author (Corpus Owner):' : 'Proje Kurucusu & Başyazar (Eser Sahibi):'}} Mehmet Yarıcı</strong> — <span style="color:var(--text-secondary);">${{isEn ? 'Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School' : 'Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi'}}</span> &nbsp;<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-family:'JetBrains Mono',monospace; font-size:11.5px; text-decoration:none;">[ORCID: 0009-0003-0356-8582]</a></div>
-        <div>🏛️ <strong>${{isEn ? 'Academic Advisor & External Peer-Reviewer:' : 'Akademik Danışman & Dış Hakem:'}} Mehmet Emin Koç</strong> — <span style="color:var(--text-secondary);">${{isEn ? 'Azerbaijan National Academy of Sciences (ANAS), Institute of Philosophy and Sociology' : 'Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü'}}</span> &nbsp;<a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-family:'JetBrains Mono',monospace; font-size:11.5px; text-decoration:none;">[ORCID: 0000-0002-1025-5643]</a></div>
+        <div>🏛️ <strong>${{isEn ? 'Academic Advisor & External Peer-Reviewer:' : 'Akademik Danışman & Dış Hakem:'}} Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <span style="color:var(--text-secondary);">${{isEn ? 'Azerbaijan National Academy of Sciences (ANAS), Institute of Philosophy and Sociology' : 'Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü'}}</span> &nbsp;<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-family:'JetBrains Mono',monospace; font-size:11.5px; text-decoration:none;">[ORCID: 0009-0003-0356-8582]</a></div>
         <div style="font-size:11.5px; color:var(--text-secondary); line-height:1.55; padding:6px 10px; border-left:2px solid var(--accent-emerald); background:var(--bg-card); border-radius:4px; margin:4px 0;">
           ⚖️ <strong>${{isEn ? 'Governance & Role Disclosure (COPE & Principle 4):' : 'Akademik Yönetişim ve Rol Beyanı (COPE & İlke 4):'}}</strong>
           ${{isEn
-            ? 'Mehmet Emin Koç (ANAS / AMEA) conducted the methodological external audit and academic advisory process as an independent scholar outside the author&#39;s institution. In accordance with COPE publication ethics and Principle 4 (Role Separation) transparency, this dual advisory/review role is explicitly disclosed; the entire corpus remains permanently open to third-party independent scholarly commentary under the <strong>Z-5 Open Peer-Review</strong> protocol.'
-            : 'Mehmet Emin Koç (AMEA / ANAS), kurum dışı bağımsız akademisyen sıfatıyla metodolojik dış denetim ve akademik danışmanlık sürecini yürütmüştür. COPE yayın etiği ve İlke 4 (Rol Ayrımı) şeffaflığı gereği bu ikili rol açıkça beyan edilir; külliyatın tamamı <strong>Z-5 Açık Hakemlik (Open Peer-Review)</strong> protokolüyle üçüncü taraf bağımsız akademisyen şerhlerine daima açıktır.'}}
+            ? 'Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ANAS / AMEA) conducted the methodological external audit and academic advisory process as an independent scholar outside the author&#39;s institution. In accordance with COPE publication ethics and Principle 4 (Role Separation) transparency, this dual advisory/review role is explicitly disclosed; the entire corpus remains permanently open to third-party independent scholarly commentary under the <strong>Z-5 Open Peer-Review</strong> protocol.'
+            : 'Mehmet Yarıcı (Project Lead — Internal Sample Audit) (AMEA / ANAS), kurum dışı bağımsız akademisyen sıfatıyla metodolojik dış denetim ve akademik danışmanlık sürecini yürütmüştür. COPE yayın etiği ve İlke 4 (Rol Ayrımı) şeffaflığı gereği bu ikili rol açıkça beyan edilir; külliyatın tamamı <strong>Z-5 Açık Hakemlik (Open Peer-Review)</strong> protokolüyle üçüncü taraf bağımsız akademisyen şerhlerine daima açıktır.'}}
         </div>
         <div class="sha-bar">
           🔒 <strong>${{isEn ? 'External SHA-256 Digest (V4):' : 'Harici SHA-256 Özeti (V4):'}}</strong> <code>${{isEn ? (r.sha256_en || r.sha256) : r.sha256}}</code>
@@ -4020,7 +4020,7 @@ function formatInlineMd(str, seenFnRefs = null) {{
     return saveLink(`<a href="${{href}}" target="_blank" rel="noopener" class="doi-link">${{disp}}</a>`) + trail;
   }});
 
-  // 4. Bare ORCIDs (0009-0003-0356-8582, 0000-0002-1025-5643, etc.)
+  // 4. Bare ORCIDs (0009-0003-0356-8582, 0009-0003-0356-8582, etc.)
   s = s.replace(/\\b(000[09]-\\d{{4}}-\\d{{4}}-\\d{{3}}[\\dX])\\b/g, (_, orcid) =>
     saveLink(`<a href="https://orcid.org/${{orcid}}" target="_blank" rel="noopener" class="orcid-link">${{orcid}}</a>`)
   );
@@ -4097,7 +4097,7 @@ function formatZ5YamlJs(rawYaml) {{
         <tbody>
           <tr>
             <td><strong>${{isEn ? 'External Reviewer & Status' : 'Dış Hakem & Künye'}}</strong></td>
-            <td><strong>Mehmet Emin Koç</strong> (<a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">ORCID: 0000-0002-1025-5643</a>) • ${{isEn ? 'Date' : 'Tarih'}}: <strong>${{tarih}}</strong> • ${{isEn ? 'Field' : 'Uzmanlık'}}: <em>${{uzmanlik}}</em></td>
+            <td><strong>Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">ORCID: 0009-0003-0356-8582</a>) • ${{isEn ? 'Date' : 'Tarih'}}: <strong>${{tarih}}</strong> • ${{isEn ? 'Field' : 'Uzmanlık'}}: <em>${{uzmanlik}}</em></td>
             <td><span class="badge badge-gold">${{isEn ? 'OPEN PEER REVIEW' : 'AÇIK HAKEMLİK'}}</span></td>
           </tr>
           <tr>
@@ -4487,7 +4487,7 @@ function renderStartupAuditUI() {{
         <em>${{epStatement}}</em>
       </div>
       <div style="font-size:11.5px; color:var(--text-muted); line-height:1.5; margin-bottom:10px; padding:6px 10px; background:var(--bg-card); border-left:3px solid var(--accent-gold); border-radius:4px;">
-        ⚖️ ${{m.methodological_note_principle_4 || 'Methodological Note (İlke 4): Örneklem denetimi proje yürütücüsü tarafından gerçekleştirilmiş olup, bağımsız dış hakem değerlendirmesi III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülmektedir'}}
+        📦 <strong>PDF Envanteri:</strong> **34 Külliyat PDF'i** (15 Türkçe Monografi + 15 İngilizce Monografi + 2 Tam Külliyat Cildi [`Quran_Vision_Kulliyat_v6.2.2.pdf` & `Quran_Vision_Corpus_EN_v6.2.2.pdf`] + 33. Belge [`ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`] + 34. Belge [`TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`]) **+ 2 III. Maarif Kongresi (`MOIJUB`) Bildiri PDF'i** (Özet ve Tam Metin [`III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf`]) — Toplam 36 PDF<br>⚖️ ${{m.methodological_note_principle_4 || 'Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).'}}
       </div>
       <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center; font-size:12px;">
         <span class="badge badge-mono">🕌 shamela.ws: ${{shamelaCnt}}/${{shamelaCnt}} VERIFIED</span>

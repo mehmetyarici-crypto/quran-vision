@@ -3,7 +3,7 @@
 # Quran Vision — 26-Step Analytical Method and 5 Macro Phases
 
 > **Note:** This document provides a structural summary of the 26-step method and macro phases. For detailed methodological criteria, epistemic disclaimer standards, and V1–V12 validation modules, please see the current canonical specification:  
-> 🔗 **[Quran Vision v6.2.1 Canonical Specification (Markdown)](QURAN_VISION_v6.2.1_SPECIFICATION.md)** | **[Full Instruction Text (.txt)](docs/QURAN_VISION_v6.2.1_TAM_TALIMAT.txt)**
+> 🔗 **[Quran Vision v6.2.1 Canonical Specification (Markdown)](QURAN_VISION_v6.2.2_SPECIFICATION.md)** | **[Full Instruction Text (.txt)](docs/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt)**
 
 ---
 
@@ -63,6 +63,6 @@ The Quran Vision architecture organizes the 26 analysis steps under **5 Macro Ph
 ## Academic Governance & Role Disclosure (COPE & Principle 4)
 
 - **Founder & Principal Author (Corpus Owner):** **Mehmet Yarıcı** — *Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School* (`ORCID: 0009-0003-0356-8582`).
-- **Academic Advisor & External Peer-Reviewer:** **Mehmet Emin Koç** — *Azerbaijan National Academy of Sciences (ANAS / AMEA), Institute of Philosophy and Sociology* (`ORCID: 0000-0002-1025-5643`).
-- **COPE & Principle 4 (Role Separation) Disclosure:** **Mehmet Emin Koç** (ANAS / AMEA) conducted the methodological external audit and academic advisory process as an independent scholar external to the principal author's institution. In accordance with COPE publication ethics and **Principle 4 (Role Separation)** transparency, this dual advisory/review role is explicitly disclosed; the entire corpus remains permanently open to third-party independent scholarly commentary and falsification audits under the **Z-5 Open Peer-Review** protocol.
+- **Academic Advisor & External Peer-Reviewer:** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** — *Azerbaijan National Academy of Sciences (ANAS / AMEA), Institute of Philosophy and Sociology* (`ORCID: 0009-0003-0356-8582`).
+- **COPE & Principle 4 (Role Separation) Disclosure:** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (ANAS / AMEA) conducted the methodological external audit and academic advisory process as an independent scholar external to the principal author's institution. In accordance with COPE publication ethics and **Principle 4 (Role Separation)** transparency, this dual advisory/review role is explicitly disclosed; the entire corpus remains permanently open to third-party independent scholarly commentary and falsification audits under the **Z-5 Open Peer-Review** protocol.
 - **External Cryptographic Integrity (V4):** To prevent a *self-referential hash paradox*, SHA-256 digests are never embedded inside the report body; they are maintained in external `.sha256` manifests and the root [`SHA256SUMS.txt`](SHA256SUMS.txt) ledger (`sha256sum -c SHA256SUMS.txt`). Full catalog continuity across all 15 monographs is documented in [`LINTER_AUDIT_REPORT.md`](LINTER_AUDIT_REPORT.md).

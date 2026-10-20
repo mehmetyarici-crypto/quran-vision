@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "2430"
     arabic_quote: "من أمر هذه الآية إن لم أقاتل هذه الفئة الباغية كما أمرنى الله عز وجل. قاله بعد أن اعتزل، فإذا كافت وقبضت عن الحرب أيديها تركت، وإذا تولت عمل بما روى عن النبي صلى الله عليه وسلم"
-    verification_link: "https://shamela.ws/book/2362/17/2430"
+    verification_link: "https://shamela.ws/book/23627/2430"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "137"
     arabic_quote: "فَإِنْ بَغَتْ إِحْداهُما عَلَى الْأُخْرى فَقاتِلُوا الَّتِي تَبْغِي [الحجرات/ ٩] ، فالبغي في"
-    verification_link: "https://shamela.ws/book/2363/16/119"
+    verification_link: "https://shamela.ws/book/23636/119"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "271"
     arabic_quote: "الباء والغين والياء أصلان: أحدهما طلب الشئ، والثانى جنس من الفساد. فمن الأوّل بغيت الشئ أبغيه إذا طلبته. ويقال بغيتك الشّئ إذا طلبته لك، وأبغيتك الشّئ إذا أعنتك على طلبه. والبغية والبغية الحاجة."
-    verification_link: "https://shamela.ws/book/2171/10/315"
+    verification_link: "https://shamela.ws/book/21710/315"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "14"
     pages: "78"
     arabic_quote: "وَقَالَ النَّبِيُّ، صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، لعَمَّار: وَيْحَ ابنِ سُمَيَّة تَقْتله الفئةُ البَاغِيَة"
-    verification_link: "https://shamela.ws/book/168/17/7202"
+    verification_link: "https://shamela.ws/book/1687/7202"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "280"
     arabic_quote: "قِتَالٌ مِنْ فِئَةٍ عَلَى وَجْهِ الْبَغْيِ قَابَلْنَاهُ بِالسِّلَاحِ وَبِمَا دُونَهُ حَتَّى تَرْجِعَ إلَى الْحَقِّ وَلَيْسَ فِي نُزُولِ الْآيَةِ عَلَى حَالِ قِتَالِ"
-    verification_link: "https://shamela.ws/book/2357/19/1826"
+    verification_link: "https://shamela.ws/book/23579/1826"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -436,16 +436,16 @@ In the external sphere of public law and international conflict resolution (*âf
 
 #### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
 In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, the hidden moral diseases that ignite factional bloodshed and sabotage peace agreements are diagnosed as rancor (*hiqd*), envy (*hasad*), wrath (*ghadab*), and sectarian arrogance:
-- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âdâb al-Ulfah wa'l-Ukhuwwah wa'l-Suhbah* (Vol. 2) and *Kitâb Âfât al-Ghadab wa'l-Hiqd wa'l-Hasad* (Vol. 3), al-Ghazâlî demonstrates that the Qur'anic covenant `innama'l-mu'minûna ikhwatun` (al-Hujurât 49:10) binds believers in a sacred contract of mutual protection across speech, property, and inward disposition. When anger ferments in the heart into settled rancor (*hiqd*), it breeds backbiting, gloating over a brother's misfortune (*shamâtah*), and aggressive transgression (`baghy`). Al-Ghazâlî warns that unless the heart is cleansed of partisan rancor and envy, outward truces remain fragile facades ready to erupt at the slightest provocation (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 2, pp. 157–195; Vol. 3, pp. 175–200; Digital access: [shamela.ws/book/9472/175](https://shamela.ws/book/9472/175)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âdâb al-Ulfah wa'l-Ukhuwwah wa'l-Suhbah* (Vol. 2) and *Kitâb Âfât al-Ghadab wa'l-Hiqd wa'l-Hasad* (Vol. 3), al-Ghazâlî demonstrates that the Qur'anic covenant `innama'l-mu'minûna ikhwatun` (al-Hujurât 49:10) binds believers in a sacred contract of mutual protection across speech, property, and inward disposition. When anger ferments in the heart into settled rancor (*hiqd*), it breeds backbiting, gloating over a brother's misfortune (*shamâtah*), and aggressive transgression (`baghy`). Al-Ghazâlî warns that unless the heart is cleansed of partisan rancor and envy, outward truces remain fragile facades ready to erupt at the slightest provocation (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 2, pp. 157–195; Vol. 3, pp. 175–200; Digital access: [shamela.ws/book/9472/921](https://shamela.ws/book/9472/921)).
 - **Enfüs–Policy Bridge:** Mediators who harbor hidden ethnic, sectarian, or factional partisanship in their conscience (*enfüs*) inevitably corrupt arbitration in the public sphere (*âfâk*), violating the Qur'anic mandate `bi'l-'adli wa-aqsitû`; therefore, the institutional decision branches in `STEP 15` (`K1` rapid neutral arbitration, `K2` strictly proportional deterrence bounded by `hattâ tafî'a`, and `K3` restorative post-conflict equity) enforce strict conflict-of-interest insulation and procedural impartiality.
 
 #### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
 Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the conflict between the two factions, the transgression (`baghy`), the return (`fay'`), and the equitable settlement (`islâh bi'l-'adl`) in al-Hujurât 49:9–10 as the inward spiritual struggle between the lower ego (*nafs*) and the spiritual heart (*qalb*):
 - **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
   - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Hujurât 49:9–10, al-Qushayrî records the following verbatim passage:
-    > «وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا... الإشارة فيه: طائفة النفس وطائفة القلب إذا اقتتلتا فأصلحوا بينهما بالعدل... وبغي النفس يوجب قتالها بسيوف المجاهدة حتى تفيء إلى أمر الله، فإن فاءت فأصلحوا بينهما برعاية حقوق الشريعة، وإعطاء النفس حظها المباح بالعدل والقسط»
-    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 438–439; Digital verification: [shamela.ws/book/23622/438](https://shamela.ws/book/23622/438) / [altafsir.com — Latâ'if al-Ishârât 49:9](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=9&tDisplay=yes)).*
-  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that when the passionate ego (*al-nafs al-ammârah*) commits transgression (`baghy`) through caprice and desire, it must be combated with the sword of spiritual striving (*mujâhadah*) until it returns to God's command (`hattâ tafî'a ilâ amri'llâh`), and that true **fraternal reconciliation** (`ikhwatun`) is realized only when hearts are united in reverence for God rather than self-interest (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 152; Digital access: [shamela.ws/book/23625/152](https://shamela.ws/book/23625/152)).
+    > «وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا... وَتَدُلُّ الْآيَةُ عَلَى وُجُوبِ نُصْرَةِ الْمَظْلُومِ... وَالْإِشَارَةُ فِيهِ: أَنَّ النَّفْسَ إِذَا ظَلَمَتِ الْقَلْبَ بِدُعَائِهِ إِلَى شَهَوَاتِهَا، وَاشْتِغَالِهَا فِي فَسَادِهَا فَيَجِبُ أَنْ يُقَاتِلَهَا حَتَّى تُثْخَنَ بِالْجِرَاحَةِ بِسُيُوفِ الْمُجَاهَدَةِ، فَإِنِ اسْتَجَابَتْ إِلَى الطَّاعَةِ يُعْفَى عَنْهَا لِأَنَّهَا هِيَ الْمَطِيَّةُ إِلَى بَابِ اللَّهِ»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 440–441; Digital verification: [shamela.ws/book/23629/1729](https://shamela.ws/book/23629/1729) / [altafsir.com — Latâ'if al-Ishârât 49:9](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=9&tDisplay=yes)).*
+  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that when the passionate ego (*al-nafs al-ammârah*) commits transgression (`baghy`) through caprice and desire, it must be combated with the sword of spiritual striving (*mujâhadah*) until it returns to God's command (`hattâ tafî'a ilâ amri'llâh`), and that true **fraternal reconciliation** (`ikhwatun`) is realized only when hearts are united in reverence for God rather than self-interest (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 149; Digital access: [shamela.ws/book/23600/146](https://shamela.ws/book/23600/146)).
   - `[ANALYSIS / YORUM]`: Al-Qushayrî's analysis of the conflict between the *faction of the ego* (`tâ'ifat al-nafs`) and the *faction of the heart* (`tâ'ifat al-qalb`) offers a profound jurisprudential and spiritual insight: while the **insurrection of the nafs** (`baghy al-nafs`) must be resisted with the sword of ascetic striving until it submits to divine law, once it returns to obedience (`fa-in fâ'at`), it is not to be annihilated, but reconciled with the heart by granting its lawful rights in fair measure (`bi'l-'adli wa'l-qist`). Just as inner peace is achieved not by destroying human nature but by ordering it under justice, communal peace in *Fiqh Ahl al-Baghy* is achieved not by annihilating the opposing faction, but by halting aggression and restoring fraternal equity (`bayna akhawaykum`).
 
 ---
@@ -553,17 +553,108 @@ Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the 
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How can classical *Fiqh Ahl al-Baghy* (Caliph 'Ali's humanitarian rules of engagement and non-confiscation) enrich contemporary international humanitarian law (Common Article 3 of the Geneva Conventions) on non-international armed conflicts?
-  2. How can the sequence `Al-Hujurat 49:6` (fact-checking rumors) → `49:9–10` (mediation) be operationalized in school and community peer-mediation programs?
-- **Core Assumption:** Assumes that third-party mediators maintain strict impartiality (`bi'l-'adli wa-aqsitu`) rather than exploiting the conflict for partisan gain.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Islamic Ethics & Peace Education (Grades 9–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Peacemaking (`Islah`), Fraternity (`Ukhuwwah`), Restraint of Aggression (`Baghy`), and Equitable Justice (`'Adl & Qist`).*
-  - **Minutes 00–08 (Inquiry Hook):** Ask students: *'Why does Al-Hujurat 49:9–10 repeat the command `fa-aslihu` (make peace) three times in just two verses, and why is `49:6` (verifying news) placed right before it?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze `islah`, `baghy`, `hatta tafi'a`, and `aqsitu` alongside Caliph 'Ali's historical rules of engagement (*Ahkam al-Bughat* in Al-Jassas & Al-Qurtubi).
-  - **Minutes 20–33 (Peer-Mediation Simulation):** Students practice the **Three-Stage 49:9–10 Protocol** (`1. Fact-Check & Initial Mediation -> 2. Collective Boundary against Bullying/Aggression -> 3. Non-Vindictive Fair Settlement`) on a school/community dispute.
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students write how the Hadith *'Help your brother when he is an oppressor by stopping his oppression'* explains Stage 2 of `Al-Hujurat 49:9`.
+  1. How can classical *Fiqh Ahl al-Baghy* (Caliph 'Alî's humanitarian rules of engagement, protection of prisoners/wounded, and non-confiscation of property) enrich contemporary international humanitarian law (Common Article 3 of the Geneva Conventions) and regional peacekeeping mandates?
+  2. How can the canonical sequence `Al-Hujurât 49:6` (fact-checking rumors / *tabayyun*) → `49:9–10` (impartial mediation and equitable reconciliation) be operationalized in school peer-mediation and anti-polarization programs?
+- **Core Assumption:** Assumes that durable peace requires uniting third-party impartiality (`bi'l-'adli wa-aqsitû`), proportional collective restraint of active aggression (`hattâ tafî'a`), and fraternal non-vindictive settlement (`innama al-mu'minûna ikhwatun`).
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah al-Hujurât 49:9–10:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grade 12
+- **Learning Area / Unit:** Islam and Peace / Social Peace, Equitable Reconciliation (*Islâh*) & Moral Fraternity (*Ukhuwwah*)
+- **Target Learning Outcomes:**
+  - `DKAB.12.4.5` (*Relating Islamic principles of social peace, reconciliation [islâh], and fraternity [ukhuwwah] to contemporary issues*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [siyâq-sibâq, historical context, and jurisprudential unity]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Restraining anger, vengeance, partisan fanaticism (*'asabiyyah*), and aggressive transgression (*baghy*).
+  - `SDB2.2` (*Relationship Building & Conflict Resolution / İlişki Kurma ve Uzlaşı*): Acting as an impartial peacemaker (*muslih*) who de-escalates disputes through fair dialogue.
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Standing for justice (`qist`) and stopping wrongdoing even when the transgressor belongs to one's own group.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (*Hifz al-Nafs* and *Hifz al-Dîn* — protecting human life and communal peace), **Prophetic Mediation Between the Aws and Khazraj Tribes** (*sabab al-nuzûl*; al-Bukhârî, *Sulh*, 3, no. 2691), the Sunni theological-legal maxim **"Major sin or internal conflict does not expel a believer from faith and fraternity"** (*Ahl al-Qiblah lâ yukaffarûn*), and `Sadd al-Dharâ'i'` (blocking sectarian excommunication and civil strife).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and legal breakdown of `tâ'ifatân mina'l-mu'minîn`, `iqtatalû`, `fa-aslihû`, `baghat`, `tafî'a ilâ amrillâh`, `bi'l-'adl wa-aqsitû`, and `ikhwatun`. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching al-Zamakhsharî, al-Râghib, Ibn Manzûr, and al-Jassâs (*Ahkâm al-Bughât*) with modern conflict resolution, mediation, and restorative justice. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.12.4.5, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating sectarian *takfîr* and blind tribal partisanship versus the Prophetic maxim *"Help your brother by stopping his oppression"* (`DKAB.12.4.5`). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB2.2, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on rancor (*hiqd*), fanaticism, envy, and egoistic aggression via al-Ghazâlî (*Âdâb al-Ulfah wa'l-Ukhuwwah*), al-Qushayrî, and Sahl al-Tustarî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on *baghy*, the 3-stage peace protocol, and the refutation of *takfîr*. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project **Surah al-Hujurât 49:9–10** onto the board. Highlight that the imperative `fa-aslihû` (*make peace / reconcile*) is repeated **three times** across these two verses. Students analyze the seven foundational concepts using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Fiqh Meaning (`Ibn Fâris / al-Râghib / al-Jassâs`) | Contextual & Modern Peacebuilding Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ` (`Tâ'ifatân mina'l-mu'minîn`)** | Dual noun from `t-w-f` + partitive preposition | Two factions from among the believers; faith status remains intact despite conflict ([al-Jassâs, *Ahkâm*, 5/280](https://shamela.ws/book/23579/1826)) | Rejection of sectarian excommunication (*takfîr*) in political/civil disputes |
+| **`ٱقْتَتَلُوا۟` (`Iqtatalû`)** | Form VIII perfect verb from `q-t-l` (`قَتَلَ`) | Should they fall into mutual fighting | Escalation of disagreement into active communal conflict |
+| **`فَأَصْلِحُوا۟ بَيْنَهُمَا` (`Fa-aslihû baynahumâ`)** | Form IV imperative from `s-l-h` (`صَلَحَ`) | Opposite of corruption (*fasâd*); removing doubts and mediating peace ([al-Zamakhsharî, *al-Kashshâf*, 4/2430](https://shamela.ws/book/23627/2430)) | Preventive diplomacy, impartial mediation, and de-escalation |
+| **`بَغَتْ` (`Baghat` — *al-Baghy*)** | Perfect verb from `b-gh-y` (`بَغَى`) | Transgressing just bounds, rejecting arbitration, and committing aggression ([Ibn Fâris, *Maqâyîs*, 1/271](https://shamela.ws/book/21710/315)) | Unlawful aggression and peace-spoiling violence |
+| **`حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ` (`Hattâ tafî'a ilâ amrillâh`)** | Imperfect verb from `f-y-'` (`فَاءَ`) + limit particle | Until it returns to the ordinance of God (rule of law) ([al-Râghib, *al-Mufradât*, p. 137](https://shamela.ws/book/23636/119)) | Strict proportionality: collective restraint aims solely at restoring legality, never annihilation |
+| **`بِٱلْعَدْلِ وَأَقْسِطُوٓا۟` (`Bi'l-'adl wa-aqsitû`)** | Noun `'adl` + Form IV imperative from `q-s-t` | Removing injustice (*izâlat al-jawr*) and settling with complete equity ([Ibn Manzûr, *Lisân al-'Arab*, 14/78](https://shamela.ws/book/1687/7202)) | Restorative post-conflict justice free of victor's vengeance |
+| **`إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ` (`Innama al-mu'minûna ikhwatun`)** | Restrictive particle `innamâ` + nominal clause | *"The believers are but brothers"* — Followed by `akhawaykum` (*your two brothers*, `49:10`) | Ontological moral fraternity and social cohesion |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 5, p. 280), al-Zamakhsharî (*al-Kashshâf*, Vol. 4, p. 2430), and Caliph 'Alî's *Ahkâm al-Bughât* precedent alongside contemporary conflict-resolution cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Stage 1: Preventive Mediation (`Fa-aslihû`):**<br>Al-Zamakhsharî explains that the initial duty upon outbreak of conflict is never immediate force, but clearing up rumors (`49:6`) and conducting impartial arbitration. | **Box 2 — Contemporary Case A (Peer Mediation & Conflict De-escalation):**<br>Establishing impartial peer-mediation panels in schools and communities to verify facts and defuse tensions before violence erupts. | **Box 3 — Stage 2: Collective Restraint of Aggression (`Fa-qâtilû allatî tabghî hattâ tafî'a`):**<br>If one faction rejects arbitration and attacks the other (`baghy`), the community must collectively restrain the aggressor until it returns to the rule of law. |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (Standing Against Bullying & Aggression):**<br>Refusing passive bystander silence when a stronger group bullies or attacks a weaker party, regardless of social status or group identity. | **Box 5 — Stage 3: Non-Vindictive Equity (`Bi'l-'adl wa-aqsitû`):**<br>Once aggression ceases (`fâ'at`), Caliph 'Alî's precedent forbids executing captives, pursuing retreaters, or seizing property; settlement must be strictly equitable (`qist`). | **Box 6 — Contemporary Case C (Restorative Justice & Reintegration):**<br>Concluding conflicts through fair restitution and institutional guarantees rather than humiliating or collectively punishing the defeated side. |
+| **Box 7 — Theological & Legal Safeguard (`Mina'l-mu'minîn` & `Ikhwatun`):**<br>Al-Jassâs and al-Qurtubî stress that by calling fighting factions "believers" and "brothers", the Qur'an invalidates Khârijite/extremist excommunication (*takfîr*). | **Box 8 — Contemporary Case D (Refuting Sectarian Takfîr & Polarization):**<br>Countering extremist groups that weaponize political disagreements to declare fellow Muslims apostates and legitimize sectarian bloodshed. | **Box 9 — Al-Ghazâlî & Al-Qushayrî Heart Jurisprudence (*Âdâb al-Ukhuwwah*):**<br>Outward communal strife originates from inward envy (*hasad*), arrogance (*kibr*), and the ego's desire to dominate (*baghy al-nafs*). |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Three-Stage Peacebuilding Architecture Match:* **`Box 1 ↔ Box 2`** (Stage 1: Impartial Mediation), **`Box 3 ↔ Box 4`** (Stage 2: Proportional Restraint of Aggression), and **`Box 5 ↔ Box 6`** (Stage 3: Non-Vindictive Restorative Equity / *Qist*).
+  2. *Anti-Takfîr Safeguard & Inner Fraternity Match:* **`Box 7 ↔ Box 8 ↔ Box 9`** (`Innama al-mu'minûna ikhwatun` refuting sectarian *takfîr* and curing inward rancor).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.12.4.5, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"During a heated dispute between two groups, Speaker A (extremist/takfîrî pole) declares that anyone who fights or disagrees politically has left Islam and must be eradicated without mercy. Speaker B (tribal/partisan pole) claims: 'Our group is our family; since believers are brothers, we must back our side even when our side is the aggressor (`bâghî`).' Students evaluate both distortions using Surah al-Hujurât 49:9–10."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"How do the explicit wording of Surah al-Hujurât 49:9–10 and Caliph 'Alî's conduct at the Battle of the Camel and Siffîn refute extremist groups that practice `takfîr` during political conflicts (`DKAB.11.4.3`)?"*
+     - **Response 1 (Responding Group):** Even while describing two factions engaged in armed fighting (`iqtatalû`) where one commits transgression (`baghat`), the Qur'an explicitly calls them **`tâ'ifatân mina'l-mu'minîn`** (*two factions among the believers*) and **`akhawaykum`** (*your two brothers*). When Caliph 'Alî (may God be pleased with him) was asked whether his armed opponents were disbelievers, he replied: *"No, they fled from disbelief; they are our brothers who transgressed (`baghaw`) against us"* (al-Jassâs, *Ahkâm*, 5/281).
+  2. **Question 2 (Questioning Group):** *"Why does invoking 'brotherhood' to support an unjust aggressor from one's own group violate both `bi'l-'adl wa-aqsitû` and the Prophetic Sunnah (`DKAB.12.4.5`)?"*
+     - **Response 2 (Responding Group):** Pre-Islamic tribalism (*hamiyyat al-jâhiliyyah*) demanded supporting one's tribe right or wrong. The Prophet Muhammad (peace be upon him) transformed the saying *"Help your brother whether he is an oppressor or oppressed"*: when companions asked how to help an oppressor, he replied, **"By holding back his hands from oppression! That is how you help him"** (al-Bukhârî, *Mazâlim*, 4, no. 2444). True brotherhood restrains the transgressor (`bâghî`) and restores justice.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB2.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 2, pp. 157–221, *Kitâb Âdâb al-Ulfah wa'l-Ukhuwwah*), al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 3, pp. 438–440), and Sahl al-Tustarî, the teacher explains: *"Every outward aggression (`baghy`) begins with the ego's inward rebellion against truth and fairness; peacemaking in society requires purifying the heart from rancor (`ghill`), schadenfreude (`shamâtah`), and partisan pride."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"When we witness a conflict among classmates or on social media, do we amplify rumors and take partisan sides, or do we verify facts (`49:6`) and act as fair peacemakers (`fa-aslihû`, `SDB1.2`, `SDB2.2`)?"*
+  2. *"If our closest friend treats someone unfairly, do we have the moral courage to help our friend by stopping their unfairness (`SDB3.3`)?"*
+  3. *"How can practicing al-Ghazâlî's ethics of fraternity—forgiving slips, avoiding suspicion (`49:12`), and maintaining a pure heart (`salâmat al-sadr`)—transform our school community?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. The three-stage peacebuilding architecture established in Surah al-Hujurât 49:9–10:** | *"1. Immediate impartial mediation (fa-aslihû), 2. Proportional collective restraint of the aggressor (bâghî) until it returns to the rule of law (hattâ tafî'a), 3. Equitable, non-vindictive reconciliation (bi'l-'adl wa-aqsitû)."* |
+| **2. How the verse refutes sectarian excommunication (*takfîr*) during conflicts:** | *"By explicitly naming both contending groups 'believers' (mina'l-mu'minîn) and 'brothers' (ikhwatun / akhawaykum)."* |
+| **3. One concrete action I will take to practice 'islâh and qist' in my daily life:** | *"Refusing to spread unverified rumors (49:6), standing against bullying even if done by friends, and mediating disputes fairly."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Comparing the classical *Ahkâm al-Bughât* chapters in al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 5, pp. 278–284) and al-Qurtubî (*al-Jâmi'*, Vol. 16, pp. 315–322) with Common Article 3 of the 1949 Geneva Conventions to prepare a research paper on humanitarian restraint and post-conflict reconciliation in Islamic law.
+  - Analyzing Uppsala Conflict Data Program (`UCDP`) peace-agreement datasets on how third-party impartiality and equitable power-sharing prevent conflict relapse.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a visual flowchart mapping **`Fact-Checking (49:6 Tabayyun) → Impartial Mediation (Islâh) → Restraining Bullying/Aggression (Baghy Brake) → Equitable Peace & Brotherhood (Qist & Ukhuwwah)`**.
+  - Practicing with matching cards contrasting "Peacemaking & Fair Mediation Statements" against "Polarizing, Partisan & Aggressive Statements".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, legal, and spiritual citations (Ibn Fâris, al-Râghib al-Isfahânî, al-Zamakhsharî, Ibn Manzûr, al-Jassâs, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Prevents both sectarian excommunication (*takfîr*) and tribal partisanship (*'asabiyyah*) under `DKAB.12.4.5`, `DKAB.11.4.3`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -606,11 +697,11 @@ Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the 
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/586-590. Digital Verification: https://shamela.ws/book/2362/17/2430 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/138-141. Digital Verification: https://shamela.ws/book/2363/16/119 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/271-274. Digital Verification: https://shamela.ws/book/2171/10/315 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 14/76-81. Digital Verification: https://shamela.ws/book/168/17/7202 (urn:shamela:21605).
-[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/278-284. Digital Verification: https://shamela.ws/book/2357/19/1826 (urn:shamela:21711).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/586-590. Digital Verification: https://shamela.ws/book/23627/2430 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/138-141. Digital Verification: https://shamela.ws/book/23636/119 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/271-274. Digital Verification: https://shamela.ws/book/21710/315 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 14/76-81. Digital Verification: https://shamela.ws/book/1687/7202 (urn:shamela:21605).
+[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/278-284. Digital Verification: https://shamela.ws/book/23579/1826 (urn:shamela:21711).
 [^6]: Uppsala University (Uppsala Conflict Data Program - UCDP) (2024). *UCDP Peace Agreements and Conflict Resolution Dataset 2024*. Uppsala: Department of Peace and Conflict Research, Uppsala University. DOI: doi:10.1177/0022343320934986. URL: https://ucdp.uu.se
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Rule of Law and Conflict Reconstruction*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: Türkiye İstatistik Kurumu (TÜİK) (2024). *Sosyal Yaşam, Demografi ve Kamu Güveni Veritabanı*. Ankara: TÜİK Yayınları. DOI: Institutional Dataset. URL: https://data.tuik.gov.tr

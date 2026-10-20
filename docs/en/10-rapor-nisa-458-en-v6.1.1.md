@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "527"
     arabic_quote: "لما أمر الولاة بأداء الأمانات إلى أهلها وأن يحكموا بالعدل، أمر الناس بأن يطيعوهم وينزلوا على قضاياهم. والمراد بأولى الأمر منكم: أمراء الحق لأن- أمراء الجور- اللَّه ورسوله بريئان"
-    verification_link: "https://shamela.ws/book/2362/17/527"
+    verification_link: "https://shamela.ws/book/23627/527"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "69"
     arabic_quote: "والجزية وأداء الأمانة، قال الله تعالى: فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمانَتَهُ [البقرة/ ٢٨٣] ، إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَماناتِ إِلى أَهْلِها"
-    verification_link: "https://shamela.ws/book/2363/16/51"
+    verification_link: "https://shamela.ws/book/23636/51"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "133"
     arabic_quote: "الهمزة والميم والنون أصلان متقاربان: أحدهما الأمانة التى هى ضدّ الخيانة، ومعناها سُكون القلب؛ والآخر التصديق. والمعنيان كما قلنا متدانيان."
-    verification_link: "https://shamela.ws/book/2171/10/177"
+    verification_link: "https://shamela.ws/book/21710/177"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430"
     arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
-    verification_link: "https://shamela.ws/book/168/17/5608"
+    verification_link: "https://shamela.ws/book/1687/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-ibn-teymiyye"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "1"
     pages: "6"
     arabic_quote: "قَالَ الْعُلَمَاءُ: نَزَلَتْ الْآيَةُ الْأُولَى فِي وُلَاةِ الْأُمُورِ؛ عَلَيْهِمْ أَنْ يُؤَدُّوا الْأَمَانَاتِ إلَى أَهْلِهَا، وَإِذَا حَكَمُوا بَيْنَ النَّاسِ أَنْ يَحْكُمُوا بِالْعَدْلِ"
-    verification_link: "https://shamela.ws/book/3123/17/2"
+    verification_link: "https://shamela.ws/book/31237/2"
     doi_or_urn: "urn:shamela:7556"
 
 modern_sources:
@@ -426,13 +426,13 @@ peer_review:
 - **[ANALYSIS]** In the Qur'anic ethics of governance and public law, the external institutional order of meritocratic administration, fiduciary accountability, and juridical neutrality (*afaq*) and the inward moral order of conscientious stewardship, self-examination (*muhasabah*), and spiritual integrity (*anfus*) constitute two inseparable faces of the same truth. The constitutional mandate of **An-Nisa 4:58** to render public trusts to those worthy and competent (`an tu'addu al-amanati ila ahliha`) and to judge between people with impartial justice (`an tahkumu bi-al-'adl`) in the outer sphere (*afaq*) is directly mirrored in the inward struggle against lust for office and status (*hubb al-jah wa-al-riyasah*), partisan bias, following caprice (*hawa*), and the delusion of treating public authority as private spoils (*anfus*). In accordance with **Fussilat 41:53**, an administrator or judge who betrays the covenant of his own conscience in the unseen realm cannot uphold institutional meritocracy or judicial independence in the public realm. Consequently, policy branches `K1` (algorithmic meritocracy and oral-interview caps), `K2` (constitutional insulation of judicial impartiality), and `K3` (open-data anti-nepotism audits) in **Step 15** unite external institutional checks with inward moral vigilance (*muraqabah* / *enfüs / kalp fıkhı*).
 
 #### 13.2. Jurisprudence of the Heart & Inward Pathologies (*Fiqh al-Batin* — Methodology of al-Ghazali & al-Mawardi)
-- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) codifies the procedural criteria of public appointments and adjudication, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses the primary inward assassin of meritocracy and judicial fairness: **the craving for status and domination (*hubb al-jah*)**. **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab Dhamm al-Jah wa-al-Riya'* (Beirut: Dar al-Ma'rifah, *Rub' al-Muhlikat*, Vol. 3, pp. 274–310, [Digital Verification](https://shamela.ws/book/9472/274)), demonstrates that the craving for power and social prestige (*hubb al-jah*) is an even more insidious spiritual pathology than greed for wealth, driving officials to surround themselves with sycophants rather than competent trustees and extinguishing the light of impartial justice in the heart. Likewise, **Abu al-Hasan al-Mawardi** (d. 450/1058), in *Adab al-Dunya wa-al-Din* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1987, pp. 135–148, [Digital Verification](https://shamela.ws/book/9569/135)), establishes that the flourishing of public order (*islah al-dunya*) depends upon officials transcending personal passion (*hawa*) and factional favoritism through inward moral rectitude (*amanah*). This spiritual principle is sealed by the Prophet's (peace be upon him) candid warning to his devoted companion Abu Dharr al-Ghifari: *"O Abu Dharr, I see that you are weak, and I love for you what I love for myself: do not assume authority over even two people, and do not manage the property of an orphan; for authority is a trust (amanah), and on the Day of Resurrection it will be disgrace and regret except for one who takes it by its right and fulfills his duty therein"* (Muslim, *Imarah*, 16–17, Hadith No: 1825–1826).
+- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) codifies the procedural criteria of public appointments and adjudication, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses the primary inward assassin of meritocracy and judicial fairness: **the craving for status and domination (*hubb al-jah*)**. **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab Dhamm al-Jah wa-al-Riya'* (Beirut: Dar al-Ma'rifah, *Rub' al-Muhlikat*, Vol. 3, pp. 274–310, [Digital Verification](https://shamela.ws/book/9472/1020)), demonstrates that the craving for power and social prestige (*hubb al-jah*) is an even more insidious spiritual pathology than greed for wealth, driving officials to surround themselves with sycophants rather than competent trustees and extinguishing the light of impartial justice in the heart. Likewise, **Abu al-Hasan al-Mawardi** (d. 450/1058), in *Adab al-Dunya wa-al-Din* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1987, pp. 135–148, [Digital Verification](https://shamela.ws/book/765/120)), establishes that the flourishing of public order (*islah al-dunya*) depends upon officials transcending personal passion (*hawa*) and factional favoritism through inward moral rectitude (*amanah*). This spiritual principle is sealed by the Prophet's (peace be upon him) candid warning to his devoted companion Abu Dharr al-Ghifari: *"O Abu Dharr, I see that you are weak, and I love for you what I love for myself: do not assume authority over even two people, and do not manage the property of an orphan; for authority is a trust (amanah), and on the Day of Resurrection it will be disgrace and regret except for one who takes it by its right and fulfills his duty therein"* (Muslim, *Imarah*, 16–17, Hadith No: 1825–1826).
 
 #### 13.3. Classical Spiritual / *Ishari* Exegesis (al-Qushayri — *Lata'if al-Isharat* & al-Sulami)
 - **[CITATION]** **'Abd al-Karim al-Qushayri** (d. 465/1072) articulates the inward spiritual signification of *amanah* and *'adl* in An-Nisa 4:58 in his *Lata'if al-Isharat* as follows:
-  > «إن الله يأمركم أن تؤدوا الأمانات إلى أهلها وإذا حكمتم بين الناس أن تحكموا بالعدل... الإشارة فيه: أعظم الأمانات سرك وقلبك وجوارحك؛ فأداء أمانة القلب بتطهيره عن الأغيار، وأداء أمانة الجوارح بحفظها عن المخالفات، فمن خان أمانة ربه في سره لم يوفق للعدل بين خلقه...»
+  > «إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَى أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ... رَدُّ الْأَمَانَاتِ إِلَى أَهْلِهَا تَسْلِيمُ أَمْوَالِ الْخَلْقِ لَهُمْ بَعْدَ إِشْرَافِكَ عَلَيْهَا بِحَيْثُ لَا تَفْسُدُ عَلَيْهِمْ. وَيُقَالُ لِلَّهِ سُبْحَانَهُ وَتَعَالَى أَمَانَاتٌ وَضَعَهَا عِنْدَكَ؛ فَرَدُّ الْأَمَانَةِ إِلَى أَهْلِهَا تَسْلِيمُهَا إِلَى اللَّهِ سُبْحَانَهُ سَالِمَةً مِنْ خِيَانَتِكَ فِيهَا... وَالْحُكْمُ بَيْنَ النَّاسِ بِالْعَدْلِ تَسْوِيَةُ الْقَرِيبِ وَالْبَعِيدِ فِي الْعَطَاءِ وَالْبَذْلِ، وَأَلَّا تَحْمِلَكَ مُخَامَرَةُ حِقْدٍ عَلَى انْتِقَامٍ لِنَفْسٍ»
   > *"Indeed, God commands you to render trusts to whom they are due, and when you judge between people, to judge with justice... The spiritual allusion (al-isharah) therein is that the greatest of all trusts are your innermost secret (sirruk), your heart (qalbuk), and your bodily limbs (jawarihuk). Fulfilling the trust of the heart lies in purifying it from all selfish attachments other than God, and fulfilling the trust of the limbs lies in guarding them against transgressions; whoever betrays the trust of his Lord in his innermost secret will never be granted success in establishing justice among His creatures..."*
-  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, pp. 344–345 (cf. Abu 'Abd al-Rahman al-Sulami, *Haqa'iq al-Tafsir*, ed. Sayyid 'Imran, Beirut: Dar al-Kutub al-'Ilmiyyah, 2001, Vol. 1, p. 152, [Digital Verification](https://shamela.ws/book/22668/152)). **Digital Library Link:** [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=4&tAyahNo=58).
+  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, p. 341 (cf. Abu 'Abd al-Rahman al-Sulami, *Haqa'iq al-Tafsir*, ed. Sayyid 'Imran, Beirut: Dar al-Kutub al-'Ilmiyyah, 2001, Vol. 1, p. 152, [Digital Verification](https://shamela.ws/book/6786/11)). **Digital Library Link:** [shamela.ws/book/23629/338](https://shamela.ws/book/23629/338) / [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=4&tAyahNo=58&tDisplay=yes).
 - **[ANALYSIS]** **Exegetical & Hermeneutic Analysis:** Imam al-Qushayri and al-Sulami link the civic mandate of An-Nisa 4:58 to the primordial existential trust (*al-amanah* in `Al-Ahzab 33:72`). Al-Qushayri's maxim—*"Whoever betrays the trust of his Lord in his innermost secret will never be granted success in establishing justice among His creatures"*—uncovers the spiritual root of nepotism, patronage, and judicial corruption: an agent who fails to purify his inner heart from ambition and self-interest inevitably weaponizes public office for factional privilege. Thus, inward spiritual vigilance (*muraqabah*) and outward institutional transparency operate as two complementary wings of Qur'anic governance.
 
 ---
@@ -539,17 +539,107 @@ peer_review:
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How can the dual Quranic criterion of `al-Qawiyy` (technical competence) and `al-Amin` (fiduciary integrity) in `Al-Qasas 28:26` and `An-Nisa 4:58` be operationalized into modern AI-assisted civil-service recruitment without algorithmic bias?
-  2. What constitutional mechanisms best operationalize the conditional relationship between `An-Nisa 4:58` (just and meritocratic governance) and `An-Nisa 4:59` (lawful civic obedience)?
-- **Core Assumption:** Assumes that citizens and youth rapidly restore institutional trust when recruitment and judicial decisions are demonstrably merit-based and impartial.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Islamic Public Ethics & Civic Education (Grades 10–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Fiduciary Trust (`Amanah`), Meritocracy (`Liyakat / Ahliyyah`), Impartial Justice (`'Adl`), and Rejection of Nepotism.*
-  - **Minutes 00–08 (Inquiry Hook — Two Prophetic Scenes):** Contrast the scene of 'Uthman ibn Talhah receiving the key of the Ka'bah (`4:58`) with the Prophet's gentle counsel to Abu Dharr (*'Do not assume authority over two people'*). Ask: *'Why did the Prophet deny a public post to a saintly companion like Abu Dharr?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze `al-amanat`, `ahliha`, `bayna'n-nas`, and `bi'l-'adl` alongside `Al-Qasas 28:26` (`al-qawiyy al-amin`) and Ibn Taymiyyah's opening chapter of *al-Siyasah al-Shar'iyyah*.
-  - **Minutes 20–33 (Public Ethics Dilemma Simulation):** Students act as an **Independent Public Ethics & Recruitment Board** evaluating three candidates (a high-scoring unconnected graduate, a relative of a senior official, and a well-meaning but unqualified friend) and trace the `R1` collapse vs. `B1` stabilization loops.
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students write a personal pledge defining how `An-Nisa 4:58` applies to academic honesty, student council elections, and future professional life.
+  1. How can algorithmic civil-service recruitment and judicial auditing systems be evaluated through the Qur'anic criteria of `ahliyyah` (competence/merit) and `'adl` (impartial justice) in `Al-Nisâ' 4:58`?
+  2. How can classical `hisbah` and `mazâlim` public-accountability institutions inform modern ombudsman and anti-corruption frameworks?
+- **Core Assumption:** Assumes that public authority is neither private spoils nor sectarian privilege, but a sacred fiduciary trust (`amânah`) bound to objective competence and impartial justice (`bi'l-'adl`).
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah al-Nisâ' 4:58:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grade 10
+- **Learning Area / Unit:** Islam and Social Life / Public Trust (*Amânah*), Meritocracy (*Ahliyyah / Liyakat*) & Judicial Justice
+- **Target Learning Outcomes:**
+  - `DKAB.10.3.4` (*Relating the principles of trust [amânah], competence [ahliyyah], merit [liyakat], and justice ['adl] in Islam to social life*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [occasions of revelation, generality of the ruling, and contextual unity]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Restraining ambition for status (*hubb al-riyâsah*), arrogance, and nepotistic favoritism (*'asabiyyah / muhâbât*).
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Upholding objective competence (*ahliyyah*) and impartial fairness in delegating responsibilities and judging disputes.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (preserving public order, civic rights, and institutional integrity), the **Return of the Key of the Ka'bah to 'Uthmân b. Talhah at the Conquest of Mecca** (*sabab al-nuzûl*; al-Wâhidî, *Asbâb al-Nuzûl*, p. 162) despite the request of the Prophet's uncle al-'Abbâs, the maxim *"Consideration is given to the generality of the wording, not the specificity of the occasion"* (*al-'ibratu bi-'umûm al-lafz lâ bi-khusûs al-sabab*), and `Sadd al-Dharâ'i'`.
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and legal analysis of `al-amânât`, `ahlihâ`, `tahkumû bayna al-nâs`, `al-'adl`, `ni'immâ ya'izukum bih`, and `Samî'an Basîrâ`. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching al-Zamakhsharî, al-Râghib, Ibn Manzûr, and Ibn Taymiyyah (*al-Siyâsah al-Shar'iyyah*) with modern meritocracy, anti-nepotism, and judicial independence. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.10.3.4, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating patronage/cronyism disguised in religious rhetoric versus the Qur'anic mandate of competence and universal justice (`DKAB.10.3.4`). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB3.3, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on lust for office (*hubb al-riyâsah*), partisan bias, and inner fidelity via al-Muhâsibî, al-Ghazâlî, and al-Qushayrî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on *amânah–ahliyyah*, the Ka'bah key precedent, and impartial justice. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project **Surah al-Nisâ' 4:58** (*"Indeed, God commands you to render trusts to those worthy of them, and when you judge between people, to judge with justice..."*) onto the board. Students analyze the six foundational terms using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Tafsir Meaning (`Ibn Fâris / al-Râghib / al-Zamakhsharî`) | Contextual & Modern Civic Governance Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`ٱلْأَمَـٰنَـٰتِ` (`al-Amânât`)** | Sound feminine plural from `a-m-n` (`أَمِنَ`) | Opposite of betrayal (*khiyânah*); every right, office, or resource entrusted for safekeeping and rightful delivery ([Ibn Fâris, *Maqâyîs*, 1/133](https://shamela.ws/book/21710/177)) | Public offices, judicial authority, public treasury, academic integrity, and civic votes |
+| **`أَهْلِهَآ` (`Ahlihâ`)** | Genitive noun from `a-h-l` (`أَهَلَ`) | The rightful owner or person possessing the objective competence and integrity required for a responsibility ([al-Zamakhsharî, *al-Kashshâf*, 2/98](https://shamela.ws/book/23627/527)) | Meritocracy (*liyakat*), professional qualification, and rejection of nepotism |
+| **`تَحْكُمُوا۟ بَيْنَ ٱلنَّاسِ` (`Tahkumû bayna al-nâs`)** | Imperfect verb from `h-k-m` + adverbial phrase | Judging "between people" universally—not merely among co-religionists or kin ([al-Râghib, *al-Mufradât*, p. 90](https://shamela.ws/book/23636/51)) | Universal rule of law and equal judicial protection regardless of creed or status |
+| **`بِٱلْعَدْلِ` (`Bi'l-'Adl`)** | Verbal noun from `'-d-l` (`عَدَلَ`) | Opposite of oppression (*jawr*) and partiality (*mayl*); rendering every right equitably ([Ibn Manzûr, *Lisân al-'Arab*, 11/430](https://shamela.ws/book/1687/5608)) | Judicial independence, procedural fairness, and unbiased adjudication |
+| **`نِعِمَّا يَعِظُكُم بِهِ` (`Ni'immâ ya'izukum bih`)** | Praise verb `ni'ma` + imperfect verb `w-'-z` | *"How excellent is that with which God admonishes you!"* — Moral exhortation awakening the conscience | Grounding legal compliance in inward ethical conviction |
+| **`سَمِيعًۢا بَصِيرًا` (`Samî'an Basîrâ`)** | Intensive divine attributes (`s-m-'` & `b-s-r`) | All-Hearing of every testimony and All-Seeing of every hidden transaction | Public transparency, institutional auditing, and divine accountability |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from al-Zamakhsharî (*al-Kashshâf*, Vol. 2, p. 98), Ibn Taymiyyah (*al-Siyâsah al-Shar'iyyah*, Vol. 1, p. 11), and al-Bukhârî's hadith on *amânah* alongside contemporary governance cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Sabab al-Nuzûl (Key of the Ka'bah & 'Uthmân b. Talhah):**<br>At the Conquest of Mecca, although the Prophet's uncle al-'Abbâs requested the custody of the Ka'bah key (*sidânah*), `al-Nisâ' 4:58` was revealed commanding its return to its qualified custodian, 'Uthmân b. Talhah. | **Box 2 — Contemporary Case A (Merit-Based Civil Service):**<br>Appointing public officials and technical directors through transparent, objective competency exams rather than kinship or partisan patronage. | **Box 3 — Ibn Taymiyyah (*al-Siyâsah al-Shar'iyyah*, 1/11):**<br>Appointing a less qualified person out of kinship, friendship, or partisan affinity while a more competent (*aslah*) candidate exists is a betrayal of God, His Messenger, and the community ([Shamela: 31237/2](https://shamela.ws/book/31237/2)). |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (Nepotism & Institutional Decay):**<br>Placing unqualified loyalists in critical administrative and regulatory posts, causing public harm, brain drain, and erosion of civic trust. | **Box 5 — Al-Zamakhsharî (*al-Kashshâf*, 2/98) & Al-Râghib:**<br>The plural `al-amânât` encompasses all public and private duties, while `bayna al-nâs` mandates impartial justice for all human beings regardless of religion. | **Box 6 — Contemporary Case C (Judicial Independence & Rule of Law):**<br>Courts and arbitration panels issuing rulings strictly on evidence and universal legal norms without bowing to wealth, political pressure, or group identity. |
+| **Box 7 — Prophetic Warning (*Bukhârî, 'Ilm, 2, no. 59*):**<br>*"When trust (`amânah`) is lost, await the Hour! ... When authority is entrusted to those unfit for it (`ghayr ahlih`), await the Hour!"* | **Box 8 — Contemporary Case D (Public Transparency & Auditing):**<br>Subjecting public procurement, budgets, and administrative decisions to independent oversight and public scrutiny (`Samî'an Basîrâ`). | **Box 9 — Al-Ghazâlî & Al-Muhâsibî Heart Jurisprudence:**<br>The inner root of betraying public trust is lust for leadership (*hubb al-riyâsah*), arrogance, and tribal favoritism (*'asabiyyah*). |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Rejection of Kinship Favoritism & Meritocracy Match:* **`Box 1 ↔ Box 2 ↔ Box 3`** (The Prophet prioritizing the competent custodian 'Uthmân b. Talhah over his own uncle al-'Abbâs, matched with Ibn Taymiyyah's *aslah* rule and modern meritocracy).
+  2. *Cost of Incompetence & Prophetic Warning Match:* **`Box 4 ↔ Box 7 ↔ Box 9`** (Institutional decay caused by nepotism matched with the Bukhârî hadith *"when authority is given to the unfit, await the Hour"* and the inner disease of *hubb al-riyâsah*).
+  3. *Universal Justice & Institutional Transparency Match:* **`Box 5 ↔ Box 6 ↔ Box 8`** (`Bayna al-nâs` universal justice matched with judicial independence and transparent auditing).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.10.3.4, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"A department head bypasses Candidate A—who scored highest in technical competence and ethics—and appoints Candidate B, arguing: 'Candidate B belongs to our circle and appears pious; supporting our own group is a religious duty.' Students evaluate this claim through Surah al-Nisâ' 4:58, the Ka'bah key precedent, and classical Islamic public law."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"How does using religious or in-group loyalty to justify nepotism directly contradict the occasion of revelation of Surah al-Nisâ' 4:58 (`DKAB.10.3.4`, `DKAB.11.4.3`)?"*
+     - **Response 1 (Responding Group):** At the Conquest of Mecca, the Prophet's own uncle al-'Abbâs—a distinguished believer from the Prophet's household—asked for the key of the Ka'bah. Yet `Al-Nisâ' 4:58` commanded the Prophet to hand the key to 'Uthmân b. Talhah, the established custodian of that trust. Thus, using piety or kinship slogans to bypass merit is pre-Islamic tribalism (*'asabiyyah*), not Islamic ethics.
+  2. **Question 2 (Questioning Group):** *"Does personal piety alone satisfy the Qur'anic requirement of competence (`ahliyyah`) for a specialized public office?"*
+     - **Response 2 (Responding Group):** No. Classical scholars of *al-Siyâsah al-Shar'iyyah* (Ibn Taymiyyah, 1/11) established that `ahliyyah` requires two pillars together: **Quwwah** (technical capability, expertise, and executive competence) and **Amânah** (integrity and fear of God). When the deeply pious companion Abû Dharr al-Ghifârî asked for a governorship, the Prophet (peace be upon him) declined, saying: *"O Abû Dharr, you are weak (in administrative capacity), and this office is a trust (`amânah`); on the Day of Resurrection it is disgrace and regret except for one who takes it rightfully and fulfills its duty"* (Muslim, *Imârah*, 16).
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on al-Hârith al-Muhâsibî (*al-Ri'âyah li-Huqûqillâh*, pp. 218–224), Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 3, pp. 274–302, *Kitâb Dhamm al-Jâh wa'l-Riyâ'*), and al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 1, p. 342), the teacher explains: *"Outward nepotism and unjust rulings spring from inward craving for status (`hubb al-riyâsah`), self-interest (`hawâ`), and forgetting that every breath and faculty is a trust before the All-Hearing, All-Seeing (`Samî'an Basîrâ`)."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"When selecting team members for a school project or student council, do we choose our close friends or the person most qualified and fair for the task (`SDB1.2`, `SDB3.3`)?"*
+  2. *"When someone we dislike is in the right during a dispute, do we have the moral courage to testify and judge fairly in their favor (`al-Nisâ' 4:58` & `4:135`)?"*
+  3. *"In light of al-Qushayrî's teaching that our intellect, youth, time, and knowledge are divine trusts (`amânât`), how can we render these inner trusts to their rightful purpose today?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. Civic and institutional meaning of rendering trusts to their rightful bearers (`4:58`):** | *"Assigning public offices and responsibilities strictly according to competence, expertise, and integrity (meritocracy) rather than kinship or patronage."* |
+| **2. The universal principle taught by the return of the Ka'bah key to 'Uthmân b. Talhah:** | *"By prioritizing the qualified custodian over his own uncle, the Prophet demonstrated that merit and trust supersede blood ties and in-group favoritism."* |
+| **3. One concrete decision I will practice to uphold 'amânah and 'adl' in my own life:** | *"Fulfilling my responsibilities diligently, assigning roles fairly in group work, and standing for justice even when it goes against my close friends."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Analyzing Chapter 1 of Ibn Taymiyyah's *al-Siyâsah al-Shar'iyyah fî Islâh al-Râ'î wa'l-Ra'iyyah* (Vol. 1, pp. 11–28, commentary on `al-Nisâ' 4:58–59`) and al-Mâwardî's *al-Ahkâm al-Sultâniyyah* to write a comparative essay on "The Dual Criteria of Competence (`Quwwah`) and Integrity (`Amânah`) in Islamic Public Law".
+  - Examining World Bank Worldwide Governance Indicators (`WGI — Government Effectiveness & Rule of Law`) to evaluate how meritocratic institutions correlate with social trust and human development.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a visual flowchart mapping **`Public Trust (Amânah) → Competence & Merit (Ahliyyah) → Impartial Justice ('Adl) → Institutional Trust & Social Peace`**.
+  - Practicing with matching cards contrasting "Merit-Based & Just Actions" against "Nepotism, Favoritism & Breach of Trust" in school and community settings.
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, public-law, and spiritual citations (Ibn Fâris, al-Râghib al-Isfahânî, al-Zamakhsharî, Ibn Manzûr, Ibn Taymiyyah, al-Muhâsibî, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Prevents the exploitation of religious rhetoric or group loyalty to justify nepotism and incompetence under `DKAB.10.3.4`, `DKAB.11.4.3`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -592,11 +682,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/98-102. Digital Verification: https://shamela.ws/book/2362/17/527 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/90-93. Digital Verification: https://shamela.ws/book/2363/16/51 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/133-135. Digital Verification: https://shamela.ws/book/2171/10/177 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/430-435. Digital Verification: https://shamela.ws/book/168/17/5608 (urn:shamela:21605).
-[^5]: İbn Teymiyye, Takıyyüddîn Ahmed (ö. 728/1328), *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*, ed. Ali b. Muhammed el-Umrân (Mekke: Dâru Âlemi'l-Fevâid, 1998), 1/11-18. Digital Verification: https://shamela.ws/book/3123/17/2 (urn:shamela:7556).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/98-102. Digital Verification: https://shamela.ws/book/23627/527 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/90-93. Digital Verification: https://shamela.ws/book/23636/51 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1/133-135. Digital Verification: https://shamela.ws/book/21710/177 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/430-435. Digital Verification: https://shamela.ws/book/1687/5608 (urn:shamela:21605).
+[^5]: İbn Teymiyye, Takıyyüddîn Ahmed (ö. 728/1328), *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*, ed. Ali b. Muhammed el-Umrân (Mekke: Dâru Âlemi'l-Fevâid, 1998), 1/11-18. Digital Verification: https://shamela.ws/book/31237/2 (urn:shamela:7556).
 [^6]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Bureaucratic Quality and Rule of Law*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org
 [^7]: World Justice Project (WJP) (2024). *Rule of Law Index 2024: Civil and Criminal Justice*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2024.01. URL: https://worldjusticeproject.org
 

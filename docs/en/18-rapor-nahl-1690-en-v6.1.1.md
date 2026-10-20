@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "1328"
     arabic_quote: "تحت طاقتهم وَالْإِحْسانِ الندب، وإنما علق أمره بهما جميعاً، لأنّ الفرض لا بدّ من أن يقع فيه تفريط"
-    verification_link: "https://shamela.ws/book/2362/17/1328"
+    verification_link: "https://shamela.ws/book/23627/1328"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "552"
     arabic_quote: "النحل/ ٩٠] ، فإنّ العَدْلَ هو المساواة في المكافأة إن خيرا فخير، وإن شرّا فشرّ، والإحسان أن يقابل الخير بأكثر منه، والشرّ بأقلّ منه، ورجلٌ عَدْلٌ: عَادِلٌ، ورجالٌ عَدْلٌ، يقال في الواحد والجمع، قال الشاعر: ٣١١-"
-    verification_link: "https://shamela.ws/book/2363/16/534"
+    verification_link: "https://shamela.ws/book/23636/534"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "4"
     pages: "246"
     arabic_quote: "العين والدال واللام أصلان صحيحان، لكنَّهما متقابلان كالمتضادَّين: أحدُهما يدلُّ على استواء، والآخر يدلُّ على اعوجاج."
-    verification_link: "https://shamela.ws/book/2171/10/1787"
+    verification_link: "https://shamela.ws/book/21710/1787"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430"
     arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
-    verification_link: "https://shamela.ws/book/168/17/5608"
+    verification_link: "https://shamela.ws/book/1687/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "14"
     pages: "337"
     arabic_quote: "عن عامرٍ، عن شُتَيْرِ بنِ شَكَلٍ، قال: سَمِعْتُ عبدَ اللهِ يقولُ: إن أجمعَ آيةٍ في القرآنِ في سورةِ النحلِ: ﴿إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى﴾ إِلى آخرِ الآيةِ"
-    verification_link: "https://shamela.ws/book/779/18/9798"
+    verification_link: "https://shamela.ws/book/7798/9798"
     doi_or_urn: "urn:shamela:7798"
 
 modern_sources:
@@ -448,17 +448,17 @@ In the external constitutional, legal, and sociological order (*âfâk*), Surah 
 
 #### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
 In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, Surah al-Nahl 16:90—celebrated by Ibn Mas'ûd as the most comprehensive verse in the Qur'an (al-Tabarî, *Jâmi' al-Bayân*, 14/162)—is expounded as the ultimate interior scale balancing the virtues and vices of the heart:
-- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âdâb al-Ulfah wa'l-Ukhuwwah* (Vol. 2) and *Kitâb al-Murâqabah wa'l-Muhâsabah* (Vol. 4), al-Ghazâlî explains that while `'adl` consists in rendering to every person their strict legal due without diminution and aligning one's outward conduct with one's inward heart, `ihsân` consists in rising above mere legal minimalism to generous self-giving (*fadl*) and living in the Prophetic station of the Hadith of Jibril (al-Bukhârî, *Îmân*, 37, no. 50; Muslim, *Îmân*, 1, no. 8): *"To worship Allah as though you see Him; and if you cannot see Him, to know that He sees you."* Al-Ghazâlî warns that without the inward warmth of `ihsân`, formal legalism hardens into litigiousness and egoistic transgression (`baghy`) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 2, pp. 196–220; Vol. 4, pp. 391–410; Digital access: [shamela.ws/book/9472/391](https://shamela.ws/book/9472/391)).
-- **Ibn Qayyim al-Jawziyyah (d. 751/1350), *Madârij al-Sâlikîn*:** In *Manzilat al-Ihsân*, Ibn al-Qayyim demonstrates that `ihsân` is the lifeblood of faith and the summit of all spiritual stations; when the heart is illumined by the witnessing of Divine Presence (*mushâhadah* and *murâqabah*), it naturally recoils from secret indecencies (`fahshâ'`), moral ugliness (`munkar`), and haughty oppression of creatures (`baghy`) (Ibn Qayyim al-Jawziyyah, *Madârij al-Sâlikîn*, Beirut: Dâr al-Kitâb al-'Arabî, Vol. 3, pp. 224–235; Digital access: [shamela.ws/book/8370/224](https://shamela.ws/book/8370/224)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âdâb al-Ulfah wa'l-Ukhuwwah* (Vol. 2) and *Kitâb al-Murâqabah wa'l-Muhâsabah* (Vol. 4), al-Ghazâlî explains that while `'adl` consists in rendering to every person their strict legal due without diminution and aligning one's outward conduct with one's inward heart, `ihsân` consists in rising above mere legal minimalism to generous self-giving (*fadl*) and living in the Prophetic station of the Hadith of Jibril (al-Bukhârî, *Îmân*, 37, no. 50; Muslim, *Îmân*, 1, no. 8): *"To worship Allah as though you see Him; and if you cannot see Him, to know that He sees you."* Al-Ghazâlî warns that without the inward warmth of `ihsân`, formal legalism hardens into litigiousness and egoistic transgression (`baghy`) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 2, pp. 196–220; Vol. 4, pp. 393–410; Digital access: [shamela.ws/book/9472/1552](https://shamela.ws/book/9472/1552)).
+- **Ibn Qayyim al-Jawziyyah (d. 751/1350), *Madârij al-Sâlikîn*:** In *Manzilat al-Ihsân*, Ibn al-Qayyim demonstrates that `ihsân` is the lifeblood of faith and the summit of all spiritual stations; when the heart is illumined by the witnessing of Divine Presence (*mushâhadah* and *murâqabah*), it naturally recoils from secret indecencies (`fahshâ'`), moral ugliness (`munkar`), and haughty oppression of creatures (`baghy`) (Ibn Qayyim al-Jawziyyah, *Madârij al-Sâlikîn*, Beirut: Dâr al-Kitâb al-'Arabî, Vol. 3, pp. 224–235; Digital access: [shamela.ws/book/8370/1200](https://shamela.ws/book/8370/1200)).
 - **Enfüs–Policy Bridge:** Because officials who fail to internalize the hierarchy of `'adl` and `ihsân` in their conscience (*enfüs*) either conflate private kinship care (`îtâ'i dhi'l-qurbâ`) with public nepotism or abuse state authority (`baghy`) in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` strict separation of public meritocracy `'adl` from private family support, `K2` transparent *waqf* and social-care `ihsân` networks, and `K3` independent anti-`baghy` ombudsmanship) translate this **comprehensive ethical constitution** into enforceable governance.
 
 #### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
 Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the three commands and three prohibitions of al-Nahl 16:90 as the complete spiritual discipline governing the soul's relationship with the Creator and creation:
 - **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
   - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Nahl 16:90, al-Qushayrî records the following verbatim passage:
-    > «إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ... الإشارة فيه: العدل أداء الفرائض ومراعاة حدود الشرع، والإحسان شهود المنة وصدق المراقبة في الخلوات... وينهى عن الفحشاء وهي اتباع شهوات النفوس، والمنكر وهو الركون إلى الدنيا، والبغي وهو رؤية النفس والتعالي على الخلق»
-    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 2, pp. 305–306; Digital verification: [shamela.ws/book/23622/305](https://shamela.ws/book/23622/305) / [altafsir.com — Latâ'if al-Ishârât 16:90](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=16&tAyahNo=90&tDisplay=yes)).*
-  - **Abû 'Abd al-Rahmân al-Sulamî (d. 412/1021), *Haqâ'iq al-Tafsîr*:** The pioneering *ishârî* compiler al-Sulamî likewise transmits from the early spiritual masters: *"Justice (`al-'adl`) is rectitude in monotheism and subordinating the ego to truth; Benevolence (`al-ihsân`) is guarding the heart in vigilance before God; `al-fahshâ'` is following carnal desires; `al-munkar` is inclining toward whatever alienates the heart from truth; and `al-baghy` is self-regard and exalting oneself over creation"* (al-Sulamî, *Haqâ'iq al-Tafsîr*, ed. Sayyid 'Imrân, Beirut: Dâr al-Kutub al-'Ilmiyyah, Vol. 1, p. 368; Digital access: [shamela.ws/book/23624/368](https://shamela.ws/book/23624/368)).
+    > «إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ... الْعَدْلُ مَا هُوَ صَوَابٌ وَحَسَنٌ، وَهُوَ نَقِيضُ الْجَوْرِ وَالظُّلْمِ. أَمَرَ اللَّهُ الْإِنْسَانَ بِالْعَدْلِ فِيمَا بَيْنَهُ وَبَيْنَ نَفْسِهِ، وَفِيمَا بَيْنَهُ وَبَيْنَ رَبِّهِ، وَفِيمَا بَيْنَهُ وَبَيْنَ الْخَلْقِ؛ فَالْعَدْلُ الَّذِي بَيْنَهُ وَبَيْنَ نَفْسِهِ مَنْعُهَا عَمَّا فِيهِ هَلَاكُهَا... وَكَمَالُ عَدْلِهِ مَعَ نَفْسِهِ كَيُّ عُرُوقِ طَمَعِهِ»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 2, pp. 314–315; Digital verification: [shamela.ws/book/23629/953](https://shamela.ws/book/23629/953) / [altafsir.com — Latâ'if al-Ishârât 16:90](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=16&tAyahNo=90&tDisplay=yes)).*
+  - **Abû 'Abd al-Rahmân al-Sulamî (d. 412/1021), *Haqâ'iq al-Tafsîr*:** The pioneering *ishârî* compiler al-Sulamî likewise transmits from the early spiritual masters: *"Justice (`al-'adl`) is rectitude in monotheism and subordinating the ego to truth; Benevolence (`al-ihsân`) is guarding the heart in vigilance before God; `al-fahshâ'` is following carnal desires; `al-munkar` is inclining toward whatever alienates the heart from truth; and `al-baghy` is self-regard and exalting oneself over creation"* (al-Sulamî, *Haqâ'iq al-Tafsîr*, ed. Sayyid 'Imrân, Beirut: Dâr al-Kutub al-'Ilmiyyah, Vol. 1, p. 368; Digital access: [shamela.ws/book/12982/177](https://shamela.ws/book/12982/177)).
   - `[ANALYSIS / YORUM]`: Al-Qushayrî and al-Sulamî's definition of `al-baghy` as *"self-regard and exalting oneself over creation (`ru'yat al-nafs wa'l-ta'âlî 'alâ'l-khalq`)"* and of `al-ihsân` as *"witnessing Divine grace and sincere vigilance in solitude (`sidq al-murâqabah fi'l-khalawât`)"* illuminates the **dialectic of Ihsan and Baghy** at the heart of al-Nahl 16:90. A civilization flourishes (`hayâtan tayyibah`, 16:97) when constitutional justice (`'adl`) is animated by inward reverence and compassion (`ihsân`), leaving no room for the egoistic tyranny of `baghy`.
 
 ---
@@ -559,17 +559,108 @@ Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the 
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How can Ibn Ashur's mapping of `An-Nahl 16:90` (`'Adl = Daruriyyat`, `Ita'i Dhi'l-Qurba = Hajiyyat`, `Ihsan = Tahsiniyyat`) be used to structure national social-policy budgets?
-  2. How can Friday *khutbah* pedagogy be revitalized so the weekly recitation of `An-Nahl 16:90` serves as an active civic conscience check against corruption and `baghy`?
-- **Core Assumption:** Assumes that legal justice (`'adl`) and moral compassion (`ihsan`) are complementary wings of human civilization.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Islamic Ethics & Religious Culture (Grades 9–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Justice (`'Adl`), Beneficence/Excellence (`Ihsan`), Family Ties (`Silat al-Rahim`), and Rejection of Indecency, Evil & Tyranny (`Fahsha', Munkar, Baghy`).*
-  - **Minutes 00–08 (Inquiry Hook — The Friday Pulpit Question):** Ask students: *'Every single Friday for 1,300 years, millions of Muslims hear one specific verse at the end of the sermon. Which verse is it, who placed it there, and why?'* Introduce `An-Nahl 16:90` and 'Umar ibn 'Abd al-'Aziz.
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Contrast `'Adl` (giving full (all-encompassing) of what is due) with `Ihsan` (giving more than what is due and forgiving what is owed to you — Al-Raghib al-Isfahani), and map the 3 commands against the 3 prohibitions (`'Adl vs. Baghy`, `Ihsan vs. Fahsha'`, `Dhi'l-Qurba vs. Munkar`).
-  - **Minutes 20–33 (Case Study — Kinship Care vs. Nepotism):** Students analyze two scenarios involving a relative: (a) supporting a struggling relative from one's own pocket (`ita'i dhi'l-qurba`) vs. (b) hiring an unqualified relative into a public job (violating `'adl` and committing `baghy`).
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students write one concrete act of `'Adl` and one concrete act of `Ihsan` they will practice this week.
+  1. How can Ibn 'Âshûr's mapping of the three commands in `Al-Nahl 16:90` onto the three tiers of *Maqâsid al-Sharî'ah* (`al-'Adl = Darûriyyât`, `Îtâ'i dhi'l-qurbâ = Hâjiyyât`, `al-Ihsân = Tahsîniyyât`) inform contemporary constitutional rights and social-welfare architectures?
+  2. How can Caliph 'Umar ibn 'Abd al-'Azîz's historical pulpit reform—replacing partisan political curses with the weekly recitation of `Al-Nahl 16:90` while restoring unlawfully seized properties—inspire modern anti-polarization and civic-ethics education?
+- **Core Assumption:** Assumes that human civilization flourishes only when strict legal justice (`al-'adl`) is elevated by benevolent excellence (`al-ihsân`) and kinship/community solidarity (`îtâ'i dhi'l-qurbâ`), while simultaneously restraining moral indecency (`al-fahshâ'`), socially repugnant wrong (`al-munkar`), and tyrannical transgression (`al-baghy`).
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah al-Nahl 16:90:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grade 10
+- **Learning Area / Unit:** Islam and Social Life — Moral Principles / Justice (`'Adl`), Benevolent Excellence (`Ihsân`), Social Solidarity & Rejection of the Three Destructive Vices
+- **Target Learning Outcomes:**
+  - `DKAB.10.3.4` (*Relating Islamic principles of justice, ihsân, mutual assistance, and moral responsibility to social life*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [comprehensive muhkam principles / jawâmi' al-kalim, semantic counterpoints, and historical application]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Restraining the soul's three disordered impulses—unbridled appetite (`fahshâ'`), destructive anger (`munkar`), and arrogant domination (`baghy`).
+  - `SDB2.2` (*Empathy & Compassion / Empati ve Merhamet*): Rising above cold legal minimalism (`'adl`) to practice forgiveness, generosity, and moral beauty (`ihsân`).
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Practicing family and community care (`îtâ'i dhi'l-qurbâ`) from one's own lawful resources without ever crossing into public nepotism.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` across all three *Maqâsid* tiers (*Darûriyyât = 'Adl*, *Hâjiyyât = Îtâ'i dhi'l-qurbâ*, *Tahsîniyyât = Ihsân*), 'Abdullâh ibn Mas'ûd's maxim **"The most comprehensive verse in the Qur'an for good and evil (`ajma'u âyatin fi'l-Qur'ân`) is Surah al-Nahl 16:90"** (al-Tabarî, *Jâmi' al-Bayân*, 14/337), **Caliph 'Umar ibn 'Abd al-'Azîz's Friday Pulpit & Restitution (*Mazâlim*) Reform**, and `Sadd al-Dharâ'i'` (blocking the pathways to *fahshâ'*, *munkar*, and *baghy*).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and ethical breakdown of the 3 commands (`al-'adl`, `al-ihsân`, `îtâ'i dhi'l-qurbâ`) and 3 prohibitions (`al-fahshâ'`, `al-munkar`, `al-baghy`). |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching al-Tabarî, al-Zamakhsharî, al-Râghib, and Ibn Manzûr on *'Adl vs. Ihsân* and the 3 psychic vices with modern law-morality theory, *waqf* solidarity, and 'Umar II's reform. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.10.3.4, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating cold legalism devoid of `ihsân` and the misuse of `îtâ'i dhi'l-qurbâ` to justify public nepotism against `Al-Nahl 16:90` (`DKAB.10.3.4`). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB2.2, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on the Hadith of Jibrîl (*maqâm al-ihsân*), inward-outward balance (`'adl`), and curing egoistic `baghy` via al-Ghazâlî, Ibn Qayyim, and al-Qushayrî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on the *'Adl–Ihsân* distinction, the 3-command/3-prohibition symmetry, and 'Umar ibn 'Abd al-'Azîz's reform. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Open with the question: *"Which single verse has been recited at the conclusion of every Friday sermon across the Muslim world for 1,300 years, and why did Ibn Mas'ûd call it the most comprehensive verse in the Qur'an?"* Project **Surah al-Nahl 16:90** onto the board and guide students through the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Category (`Command / Prohibition`) | Classical Lexicon & Tafsir Meaning (`Ibn Fâris / al-Râghib / al-Zamakhsharî / al-Tabarî`) | Contextual & Modern Legal / Ethical Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`ٱلْعَدْلِ` (`al-'Adl` — Command 1)** | Verbal noun from `'-d-l` (`عَدَلَ`) | Straightness, equivalence, and giving every rightful claimant their exact due ([Ibn Fâris, *Maqâyîs*, 4/246](https://shamela.ws/book/21710/1787); [Ibn Manzûr, *Lisân al-'Arab*, 11/430](https://shamela.ws/book/1687/5608)) | Rule of law, equal rights, and mandatory civic floor (*fard / darûriyyât*) |
+| **`وَٱلْإِحْسَـٰنِ` (`Wa'l-Ihsân` — Command 2)** | Form IV verbal noun from `h-s-n` (`حَسُنَ`) | Giving more than what is strictly owed, taking less than what is owed, forgiving wrongs, and acting with moral beauty ([al-Râghib, *al-Mufradât*, p. 552](https://shamela.ws/book/23636/534); [al-Zamakhsharî, *al-Kashshâf*, 2/1328](https://shamela.ws/book/23627/1328)) | Moral excellence ceiling (*nadb / tahsîniyyât*), restorative mercy, *waqf* philanthropy, and professional mastery (*itqân*) |
+| **`وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ` (`Îtâ'i dhi'l-qurbâ` — Command 3)** | Form IV verbal noun from `'-t-y` + genitive phrase | Giving generous personal support to near relatives and upholding family ties ([al-Tabarî, *Jâmi' al-Bayân*, 14/337](https://shamela.ws/book/7798/9798)) | Family solidarity (*silat al-rahim*), primary social safety nets, and neighborly care |
+| **`ٱلْفَحْشَآءِ` (`al-Fahshâ'` — Prohibition 1)** | Extended noun from `f-h-sh` (`فَحُشَ`) | Grave moral indecency; transgression of the soul'setitive faculty (*quwwat al-shahwah*) | Indecency, violation of personal dignity/privacy, and moral corruption |
+| **`وَٱلْمُنكَرِ` (`Wa'l-Munkar` — Prohibition 2)** | Passive participle from `n-k-r` (`نَكِرَ`) | Every wrong rejected as repugnant by sound intellect (*'aql salîm*) and divine law | Publicly harmful misconduct, violence, and socially destructive acts |
+| **`وَٱلْبَغْىِ` (`Wa'l-Baghy` — Prohibition 3)** | Verbal noun from `b-gh-y` (`بَغَى`) | Arrogant oppression, bullying, and transgressing bounds against others | Tyranny, abuse of authority, workplace/school bullying, and unlawful aggression |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from al-Râghib al-Isfahânî (*al-Mufradât*, p. 552), al-Zamakhsharî (*al-Kashshâf*, Vol. 2, p. 1328), al-Tabarî (*Jâmi' al-Bayân*, Vol. 14, p. 337), and Caliph 'Umar ibn 'Abd al-'Azîz's constitutional reform alongside contemporary legal and social cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Al-Râghib al-Isfahânî (*al-Mufradât*, p. 552) — `'Adl` vs. `Ihsân`:**<br>`'Adl` is symmetrical equivalence: repaying good with equal good and wrong with proportional penalty. `Ihsân` is asymmetrical grace: repaying good with greater good and meeting wrong with pardon or leniency. | **Box 2 — Contemporary Case A (Legal Floor & Moral Ceiling):**<br>Enforcing strict equality before the law in courts (`'Adl`), while surrounding vulnerable citizens, orphans, the elderly, and repentant youth with compassionate support (`Ihsân`). | **Box 3 — Al-Zamakhsharî (*al-Kashshâf*, 2/1328):**<br>God paired mandatory duty (`'Adl`) with supererogatory excellence (`Ihsân`) because human beings inevitably fall short if they aim only at the bare minimum; `Ihsân` heals social fractures. |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (Personal Kinship Care vs. Public Nepotism):**<br>Supporting a needy relative from one's own private income fulfills `îtâ'i dhi'l-qurbâ`; handing a public job or state contract to a relative violates `'Adl` and commits `baghy`. | **Box 5 — Classical Moral Psychology (3 Faculties & 3 Prohibitions):**<br>Corrupting appetite produces `fahshâ'` (indecency), corrupting anger produces `munkar` (destructive wrong), and corrupting egoistic ambition produces `baghy` (tyrannical domination). | **Box 6 — Contemporary Case C (Holistic Prevention of Personal & Civic Harm):**<br>Addressing digital exploitation (`fahshâ'`), street/cyber violence (`munkar`), and institutional bullying/oppression (`baghy`) through integrated ethics. |
+| **Box 7 — Caliph 'Umar ibn 'Abd al-'Azîz's Pulpit & Restitution Reform (99 AH):**<br>He abolished partisan curses from the Friday sermon, instituted `Al-Nahl 16:90`, and returned properties unlawfully seized (*mazâlim*) by his own Umayyad relatives to their rightful owners. | **Box 8 — Contemporary Case D (Unifying Civic Discourse):**<br>Transforming public and religious communication from partisan hostility into a weekly conscience check on justice, beneficence, and anti-oppression (`ya'izukum la'allakum tadhakkarûn`). | **Box 9 — Al-Ghazâlî, Al-Qushayrî & Al-Sulamî Heart Jurisprudence:**<br>Sufyân ibn 'Uyaynah said: "`'Adl` is when your inward state equals your outward state; `Ihsân` is when your inward heart is even purer than your outward appearance." |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Legal Floor (`'Adl`) & Moral Ceiling (`Ihsân`) Architecture Match:* **`Box 1 ↔ Box 2 ↔ Box 3 ↔ Box 9`** (Al-Râghib and al-Zamakhsharî's synthesis matched with rule of law, restorative welfare, and inward *ihsân*).
+  2. *Private Kinship Care vs. Anti-Nepotism & 'Umar II's Reform Match:* **`Box 4 ↔ Box 7 ↔ Box 8`** (Distinguishing private *silat al-rahim* from public nepotism, verified by 'Umar ibn 'Abd al-'Azîz stripping unlawful privileges from his own dynasty).
+  3. *Triadic Moral Psychology & Anti-Corruption Match:* **`Box 5 ↔ Box 6`** (`Fahshâ' – Munkar – Baghy` mapped to individual, social, and institutional protections).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.10.3.4, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"Two contrasting distortions of Surah al-Nahl 16:90 are presented: In Case 1, a public official appoints an unqualified cousin to a municipal post and defends himself by saying: 'God commands `wa-îtâ'i dhi'l-qurbâ` (giving to relatives) in 16:90; I am fulfilling a Qur'anic command!' In Case 2, a rigid administrator refuses all mercy, accommodation, or charitable aid to struggling families, claiming: 'Justice (`'adl`) is enough; compassion (`ihsân`) weakens discipline.' Students evaluate both claims using Surah al-Nahl 16:90."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"Why is invoking `wa-îtâ'i dhi'l-qurbâ` (`16:90`) to justify nepotism and favoritism in public office a direct violation of the very same verse (`DKAB.10.3.4`, `DKAB.11.4.3`)?"*
+     - **Response 1 (Responding Group):** Because `Al-Nahl 16:90` begins with **`bi'l-'adl`** (*justice*) and concludes by prohibiting **`wa'l-baghy`** (*unjust transgression*)! Classical exegetes and jurists unanimously establish that `îtâ'i dhi'l-qurbâ` applies strictly to **private charity and personal kindness** from one's own lawful property. Diverting public offices or state funds (`amânât`, `4:58`) to relatives destroys `'adl` and constitutes `baghy`. Indeed, Caliph 'Umar ibn 'Abd al-'Azîz—who placed `16:90` into the Friday sermon—began his rule by confiscating the unlawful estates of his own Umayyad relatives and returning them to the public treasury.
+  2. **Question 2 (Questioning Group):** *"Why did God not stop at commanding `'Adl` (justice), but immediately conjoined it with `wa'l-Ihsân` (benevolent excellence)?"*
+     - **Response 2 (Responding Group):** As al-Râghib al-Isfahânî and Ibn 'Âshûr explain, a society governed solely by rigid legal symmetry (`'adl`) without generosity, pardon, and empathy (`ihsân`) becomes cold and brittle. `'Adl` prevents mutual wrong, while `Ihsân` builds mutual love, *waqf* institutions, and human flourishing.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB2.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 2, p. 280), Ibn Qayyim al-Jawziyyah (*Madârij al-Sâlikîn*, Vol. 2, p. 388, *Maqâm al-Ihsân*), and al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 2, pp. 316–318), the teacher shares the testimony of the Companion 'Uthmân ibn Maz'ûn (may God be pleased with him): *"Faith settled firmly in my heart when Surah al-Nahl 16:90 was revealed."* Connect `al-Ihsân` to the Hadith of Jibrîl (*"To worship God as though you see Him; and if you do not see Him, He surely sees you"*).
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"In our daily friendships and family life, do we only calculate strict tit-for-tat (`'adl`), or do we practice `ihsân` by forgiving mistakes and offering help without expecting a return (`SDB2.2`)?"*
+  2. *"Reflecting on Sufyân ibn 'Uyaynah's maxim that `'Adl` is equality between our inward heart and outward conduct while `Ihsân` is making our inward heart even better than our outward appearance, how can we purify our intentions today (`SDB1.2`)?"*
+  3. *"What concrete action can each of us take this week to practice `'Adl`, `Ihsân`, and `Îtâ'i dhi'l-qurbâ` while guarding against `fahshâ'`, `munkar`, and `baghy` (`SDB3.3`)?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. Distinction and complementarity between 'al-'Adl' and 'al-Ihsân' in Surah al-Nahl 16:90:** | *"Al-'Adl is giving everyone their exact legal right (the mandatory floor of justice), while al-Ihsân is going beyond duty through generosity, forgiveness, and moral excellence (the ethical ceiling)."* |
+| **2. Symmetrical pairing of the 3 commands and 3 prohibitions in the verse:** | *"Commands: Justice ('Adl), Benevolent Excellence (Ihsân), Giving to Relatives (Îtâ'i dhi'l-qurbâ). Prohibitions: Indecency (Fahshâ'), Socially Repugnant Wrong (Munkar), Tyrannical Oppression (Baghy)."* |
+| **3. Civic lesson of Caliph 'Umar ibn 'Abd al-'Azîz's Friday sermon and restitution reform:** | *"Replacing partisan division with the universal moral standard of 16:90 and proving that true justice ('Adl) overrides dynastic nepotism."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Comparing al-Tabarî (*Jâmi' al-Bayân*, Vol. 14, p. 337), al-Râghib al-Isfahânî (*al-Mufradât*, p. 552), and Ibn 'Âshûr (*al-Tahrîr wa'l-Tanwîr*, Vol. 14, pp. 254–262) on `Al-Nahl 16:90` to write a research paper on "The Dialectics of Justice (`'Adl`) and Beneficence (`Ihsân`) in Islamic Legal Philosophy and the *Waqf* Tradition".
+  - Analyzing World Justice Project (`WJP`) and OECD Social Cohesion indicators to evaluate how formal rule of law (`'Adl`) and informal social capital (`Ihsân`) reinforce each other.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a two-winged visual chart contrasting **`The 3 Constructive Pillars: 'Adl (Justice) + Ihsân (Excellence/Mercy) + Dhi'l-Qurbâ (Kinship Care)`** against **`The 3 Destructive Vices: Fahshâ' (Indecency) + Munkar (Harmful Wrong) + Baghy (Bullying/Tyranny)`**.
+  - Practicing with matching cards distinguishing "Private Family Charity (*Îtâ'i dhi'l-qurbâ*)" from "Unjust Public Favoritism (*Nepotism / Baghy*)".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, and spiritual citations (Ibn Fâris, al-Râghib al-Isfahânî, al-Zamakhsharî, Ibn Manzûr, al-Tabarî, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Prevents both the misuse of `îtâ'i dhi'l-qurbâ` to excuse public nepotism and the authoritarian misuse of moral policing to commit `baghy` under `DKAB.10.3.4`, `DKAB.11.4.3`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -612,11 +703,11 @@ Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the 
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/466-470. Digital Verification: https://shamela.ws/book/2362/17/1328 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/235-238. Digital Verification: https://shamela.ws/book/2363/16/534 (urn:shamela:8381).
-[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 4/246-248. Digital Verification: https://shamela.ws/book/2171/10/1787 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 11/430-436. Digital Verification: https://shamela.ws/book/168/17/5608 (urn:shamela:21605).
-[^5]: Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hicr, 2001), 14/338-346. Digital Verification: https://shamela.ws/book/779/18/9798 (urn:shamela:7798).
+[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/466-470. Digital Verification: https://shamela.ws/book/23627/1328 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/235-238. Digital Verification: https://shamela.ws/book/23636/534 (urn:shamela:8381).
+[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 4/246-248. Digital Verification: https://shamela.ws/book/21710/1787 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 11/430-436. Digital Verification: https://shamela.ws/book/1687/5608 (urn:shamela:21605).
+[^5]: Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hicr, 2001), 14/338-346. Digital Verification: https://shamela.ws/book/7798/9798 (urn:shamela:7798).
 [^6]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025: Equal Treatment, Civil Justice and Absence of Corruption*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2025.03. URL: https://worldjusticeproject.org
 [^7]: Organisation for Economic Co-operation and Development (OECD) (2025). *Society at a Glance 2025: Social Cohesion, Philanthropy and Welfare Indicators*. Paris: OECD Publishing. DOI: doi:10.1787/soc_glance-2025-en. URL: https://www.oecd.org
 [^8]: United Nations Development Programme (UNDP) (2025). *Human Development Report 2025: Equity, Agency and Institutional Trust*. New York: UNDP. DOI: doi:10.18356/9789210031028. URL: https://hdr.undp.org

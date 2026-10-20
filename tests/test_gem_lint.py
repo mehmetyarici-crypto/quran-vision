@@ -186,3 +186,192 @@ class TestGemLintCLI:
         res = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
         assert res.returncode == 0
         assert "Kullanım:" in res.stdout
+
+
+class TestGemLintV16SourceRegistry:
+    """V16 (L-2501..L-2506) Çoklu Sunucu Sicil, Fihrist/Cilt Eşleşmesi, Lafzî İktibas, Tazelik ve Rol Ayrımı Testleri."""
+
+    def test_l2502_ghazali_cumulative_offset_blocked(self, tmp_path):
+        """Gazzâlî C.3 s.186 (Rub'u'l-Mühlikât) yerine C.1 s.186 (Cuma Namazı: 9472/186) yazıldığında L-2502 BLOCK vermeli."""
+        md_file = tmp_path / "wrong_ghazali.md"
+        md_file.write_text(
+            """---
+gem_version: "6.2.2"
+case_id: "QV-2026-999"
+verse: "49:9"
+status: "PRE-RELEASE"
+sha256_hash: "1111111111111111111111111111111111111111111111111111111111111111"
+---
+### 13.2. Kalp Fıkhı ve Bâtınî İlletler
+- Ebû Hâmid el-Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn* (Cilt: 3, s. 186; [https://shamela.ws/book/9472/186](https://shamela.ws/book/9472/186)).
+""",
+            encoding="utf-8",
+        )
+        linter = GemLinterV6(md_file, katman=3, h6=True)
+        linter.load_file()
+        linter.check_v16_source_registry()
+
+        rules = [f["rule"] for f in linter.findings if f["level"] == BLOCK]
+        assert "L-2502" in rules, "Gazzâlî 9472/186 kümülatif sayfa ofset hatası L-2502 BLOCK üretmeli!"
+        assert "L-2501" in rules, "Sicilde olmayan 9472/186 bağlantısı L-2501 BLOCK üretmeli!"
+        assert "L-2505" in rules, "L-2501/L-2502 BLOCK varken mühürlü raporda L-2505 BLOCK üretmeli!"
+
+    def test_l2502_altafsir_wrong_tafsir_or_verse_blocked(self, tmp_path):
+        """Altafsir.com bağlantısında Kuşeyrî için tTafsirNo=30 (Sülemî) veya yanlış sûre/âyet yazıldığında L-2502 BLOCK vermeli."""
+        reg_file = tmp_path / "temp_registry.yaml"
+        wrong_url = "https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=9&tAyahNo=5&tDisplay=yes"
+        reg_file.write_text(
+            f"""schema_version: "16.2"
+sources:
+  - id: "ALT-WRONG"
+    server: "altafsir"
+    url: "{wrong_url}"
+    expected_breadcrumb: "Altafsir | Kuşeyrî"
+    verified_breadcrumb: "Altafsir | Kuşeyrî"
+    quote_matched: true
+    status: "VERIFIED"
+    verified_at: "2026-10-20"
+    reverify_period_days: 90
+    snapshot_sha256: "abcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789"
+    human_sample_audit:
+      sampled: true
+  - id: "SHM-9472-932"
+    url: "https://shamela.ws/book/9472/932"
+    expected_breadcrumb: "a"
+    verified_breadcrumb: "a"
+    status: "VERIFIED"
+    verified_at: "2026-10-20"
+    snapshot_sha256: "abcdef0123456789abcdef0123456789"
+    human_sample_audit: {{sampled: true}}
+  - id: "SHM-23629-647"
+    url: "https://shamela.ws/book/23629/647"
+    expected_breadcrumb: "b"
+    verified_breadcrumb: "b"
+    status: "VERIFIED"
+    verified_at: "2026-10-20"
+    snapshot_sha256: "abcdef0123456789abcdef0123456789"
+    human_sample_audit: {{sampled: true}}
+  - id: "SHM-10273-3482"
+    url: "https://shamela.ws/book/10273/3482"
+    expected_breadcrumb: "c"
+    verified_breadcrumb: "c"
+    status: "VERIFIED"
+    verified_at: "2026-10-20"
+    snapshot_sha256: "abcdef0123456789abcdef0123456789"
+    human_sample_audit: {{sampled: true}}
+  - id: "SHM-23600-90"
+    url: "https://shamela.ws/book/23600/90"
+    expected_breadcrumb: "d"
+    verified_breadcrumb: "d"
+    status: "VERIFIED"
+    verified_at: "2026-10-20"
+    snapshot_sha256: "abcdef0123456789abcdef0123456789"
+    human_sample_audit: {{sampled: true}}
+""",
+            encoding="utf-8",
+        )
+        md_file = tmp_path / "wrong_altafsir.md"
+        md_file.write_text(
+            f"""---
+gem_version: "6.2.2"
+case_id: "QV-2026-001"
+verse: "2:256"
+status: "PRE-RELEASE"
+---
+### 13.3. Klasik İşârî ve İrfânî Tahrîc
+- Abdülkerîm el-Kuşeyrî, *Letâ'ifü'l-İşârât* ({wrong_url})
+""",
+            encoding="utf-8",
+        )
+        linter = GemLinterV6(md_file, katman=3, h6=True, registry_path=reg_file)
+        linter.load_file()
+        linter.check_v16_source_registry()
+
+        l2502_msgs = [f["message"] for f in linter.findings if f["rule"] == "L-2502" and f["level"] == BLOCK]
+        assert len(l2502_msgs) >= 2, f"Hem yanlış müfessir (tTafsirNo=30) hem yanlış âyet (9:5 vs 2:256) L-2502 BLOCK vermeli! Bulunan: {l2502_msgs}"
+
+    def test_l2503_verbatim_quote_mismatch_blocked(self, tmp_path):
+        """classical_sources içindeki arabic_quote hedef sayfa verisiyle eşleşmediğinde L-2503 BLOCK vermeli."""
+        md_file = tmp_path / "wrong_quote.md"
+        md_file.write_text(
+            """---
+gem_version: "6.2.2"
+case_id: "QV-2026-001"
+verse: "9:5"
+status: "PRE-RELEASE"
+classical_sources:
+  - id: "cls-taberi"
+    author: "Taberî"
+    death_year: "ö. 310/923"
+    work: "Câmi'u'l-Beyân"
+    volume: "14"
+    pages: "142"
+    arabic_quote: "هذا نص مختلق تماما لا يوجد في الصفحة الأصلية مطلقا"
+    verification_link: "https://shamela.ws/book/23627/946"
+---
+Test gövdesi.
+""",
+            encoding="utf-8",
+        )
+        linter = GemLinterV6(md_file, katman=3, h6=True)
+        linter.load_file()
+        linter.check_v16_source_registry()
+
+        l2503_blocks = [f for f in linter.findings if f["rule"] == "L-2503" and f["level"] == BLOCK]
+        assert len(l2503_blocks) >= 1, "Sayfada bulunmayan uydurma/telhîs Arapça metin L-2503 BLOCK üretmeli!"
+
+    def test_l2504_stale_date_and_l2506_low_sample_ratio(self, tmp_path):
+        """90 günü aşmış doğrulama tarihi L-2504 WARN, %10 altı manuel örneklem oranı L-2506 BLOCK üretmeli."""
+        reg_file = tmp_path / "stale_registry.yaml"
+        reg_file.write_text(
+            """schema_version: "16.2"
+sources:
+  - id: "SHM-STALE"
+    server: "shamela"
+    url: "https://shamela.ws/book/7798/11532"
+    expected_breadcrumb: "Câmi'u'l-Beyân"
+    verified_breadcrumb: "Câmi'u'l-Beyân"
+    quote_matched: true
+    status: "VERIFIED"
+    verified_at: "2026-01-01"
+    reverify_period_days: 90
+    snapshot_sha256: "abcdef0123456789abcdef0123456789"
+    human_sample_audit:
+      sampled: false
+""",
+            encoding="utf-8",
+        )
+        md_file = tmp_path / "stale_doc.md"
+        md_file.write_text(
+            """---
+gem_version: "6.2.2"
+case_id: "QV-2026-001"
+verse: "9:5"
+status: "PRE-RELEASE"
+---
+Bağlantı: https://shamela.ws/book/7798/11532
+""",
+            encoding="utf-8",
+        )
+        linter = GemLinterV6(md_file, katman=3, h6=True, registry_path=reg_file)
+        linter.load_file()
+        linter.check_v16_source_registry()
+
+        warns = [f["rule"] for f in linter.findings if f["level"] == WARN]
+        blocks = [f["rule"] for f in linter.findings if f["level"] == BLOCK]
+        assert "L-2504" in warns, "90 günü aşan doğrulama tarihi L-2504 WARN üretmeli!"
+        assert "L-2506" in blocks, "%10 altı manuel örneklem oranı L-2506 BLOCK üretmeli!"
+
+    def test_all_30_founding_monographs_pass_v16_zero_block(self):
+        """Külliyattaki 30 kurucu monografinin (15 TR + 15 EN) tamamı V1..V16 (L-0100..L-2506) kapılarından 0 BLOCK ile geçmeli."""
+        tr_reps = [f for f in sorted((ROOT_DIR / "docs" / "tr").glob("[0-9][0-9]-*-v6.1.1.md")) if not f.name.startswith("05-")]
+        en_reps = [f for f in sorted((ROOT_DIR / "docs" / "en").glob("[0-9][0-9]-*-en-v6.1.1.md")) if not f.name.startswith("05-")]
+        all_reps = tr_reps + en_reps
+        assert len(all_reps) == 30
+
+        for rep in all_reps:
+            linter = GemLinterV6(rep, katman=3, h6=True)
+            linter.run_all()
+            blocks = [f for f in linter.findings if f["level"] == BLOCK]
+            assert len(blocks) == 0, f"{rep.name} içinde beklenmeyen BLOCK: {blocks}"
+

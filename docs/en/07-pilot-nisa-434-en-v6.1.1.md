@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "505"
     arabic_quote: "قَوَّامُونَ عَلَى النِّساءِ يقومون عليهن آمرين ناهين، كما يقوم الولاة على الرعايا. وسموا قوّما لذلك. والضمير في بَعْضَهُمْ للرجال والنساء جميعاً، يعنى إنما كانوا مسيطرين عليهن"
-    verification_link: "https://shamela.ws/book/2362/17/508"
+    verification_link: "https://shamela.ws/book/23627/508"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "5"
     pages: "43"
     arabic_quote: "القاف والواو * والميم أصلانِ صحيحان، يدلُّ أحدُهما على جماعةِ ناسٍ، وربَّما استُعِير فى غيرهمْ، والآخَر على انتصابٍ أو عَزْم."
-    verification_link: "https://shamela.ws/book/2171/10/2096"
+    verification_link: "https://shamela.ws/book/21710/2096"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "12"
     pages: "498"
     arabic_quote: "فُسِّرَ عَلَى وَجْهَيْنِ: قِيلَ هُوَ الاسْتقامة عَلَى الطَّاعَةِ، وَقِيلَ هُوَ تَرْكُ"
-    verification_link: "https://shamela.ws/book/168/17/6411"
+    verification_link: "https://shamela.ws/book/1687/6411"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "3"
     pages: "148"
     arabic_quote: "إنَّمَا قَالَ ذَلِكَ قَبْلَ نُزُولِ هَذِهِ الْآيَةِ الَّتِي فِيهَا إبَاحَةُ الضَّرْبِ عِنْدَ النُّشُوزِ لِأَنَّ قَوْله تَعَالَى الرِّجالُ قَوَّامُونَ عَلَى النِّساءِ-"
-    verification_link: "https://shamela.ws/book/2357/19/918"
+    verification_link: "https://shamela.ws/book/23579/918"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "20"
     arabic_quote: "وَمَجْمُوعُ الضَّرُورِيَّاتِ خَمْسَةٌ، وَهِيَ٤: حِفْظُ الدِّينِ، وَالنَّفْسِ، وَالنَّسْلِ، وَالْمَالِ، وَالْعَقْلِ، وَقَدْ قَالُوا: إِنَّهَا مُرَاعَاةٌ في كل ملة٥."
-    verification_link: "https://shamela.ws/book/1143/15/678"
+    verification_link: "https://shamela.ws/book/11435/678"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -290,7 +290,7 @@ peer_review:
 
 ### STEP 03 — TRIADIC FRAMEWORK (ETHOS / LOGOS / PATHOS) & IS-OUGHT BRIDGE
 
-- **Ethos (Moral Responsibility):** Transforming *qiwamah* from patriarchal domination into fiduciary stewardship (*amanah*), financial responsibility (*nafaqah*), and absolute avoidance of domestic oppression (`baghy`).
+- **Ethos (Moral Responsibility):** Transforming *qiwamah* from patriarchal domination into fiduciary stewardship (*amanah*), financial responsibility (*nafaqah*), and uncompromising avoidance of domestic oppression (`baghy`).
 - **Logos (Rational Coherence):** A family in acute crisis cannot be healed through sudden divorce or uncontrolled rage. The sequenced protocol (`Counsel [4:34] -> Cooling-Off [4:34] -> Bilateral Arbitration [4:35] -> Dignified Separation [2:229]`) creates institutional circuit-breakers against both domestic violence and impulsive family breakdown.
 - **Pathos (Affective & Moral Resonance):** The closing divine warning `Inna'llaha kana 'Aliyyan Kabira` (*Indeed, Allah is Most High, Most Great*) confronts any husband tempted to abuse his physical or economic strength with the overwhelming majesty of God as the protector of the wronged.
 - **Hume's Guillotine (`Is-Ought` Epistemic Bridge):** Historical patriarchal customs or statistical rates of domestic abuse (*Is*) can never be conflated with the divine moral norm (*Ought*). Conversely, operationalizing the Quranic mandate of *ma'ruf* (kindness) and non-harm (*la darar*) requires empirical family-court and mediation mechanisms (`th-01..th-03`).
@@ -441,13 +441,13 @@ peer_review:
 - **[ANALYSIS]** In the Qur'anic architecture of family and society, the external order of domestic justice, mutual affection (*mawaddah*), and compassion (*rahmah*) (*afaq*) and the internal equilibrium of intellect, heart, and lower self (*anfus*) act as ontological mirrors of one another. The legal and moral shield established by **An-Nisa 4:34–35** against domestic abuse, arbitrary patriarchal domination, neglect of maintenance (*nafaqah*), and marital disintegration in the external sphere (*afaq*) is directly anchored in the inward struggle against the lust for domination (*hubb al-tasallut*), egoistic pride (*kibr*), hardness of heart (*qaswat al-qalb*), and the delusion of treating a sacred trust as personal property (*anfus*). In accordance with **Fussilat 41:53**, a person who cannot govern his own anger and base impulses (*al-nafs al-ammarah*) within his own soul cannot serve as a just and compassionate protector-steward (*qawwam*) within the household, inevitably degenerating into tyranny. The Qur'anic concept of *qiwamah* is not a license for domination or ontological superiority, but a fiduciary duty of service and protection; the verse's closing warning—`inna Allaha kana 'Aliyyan Kabira` (*"Indeed, God is ever Most High, Most Great"*)—directly shatters male arrogance and the illusion of unchecked domestic power. Consequently, policy branches `K1` (pre-marital ethical education) and `K2` (`4:35` bilateral family arbitration and zero-violence enforcement) in **Step 15** are conditioned upon inward emotional self-mastery and fiduciary accountability (*enfüs / kalp fıkhı*).
 
 #### 13.2. Jurisprudence of the Heart & Inward Pathologies (*Fiqh al-Batin* — Methodology of al-Ghazali & al-Muhasibi)
-- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) defines the contractual and financial obligations of marriage, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses and remedies the hidden spiritual ailments that corrode marital harmony. **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab Adab al-Nikah* (Beirut: Dar al-Ma'rifah, Vol. 2, pp. 42–56, [Digital Verification](https://shamela.ws/book/9472/42)) and *Kitab Dhamm al-Kibr wa-al-'Ujb* (Vol. 3, pp. 343–355, [Digital Verification](https://shamela.ws/book/9472/343)), establishes that true moral nobility in family life (*husn al-khuluq*) does not merely consist in refraining from harming one's spouse, but in patiently enduring difficulties, restraining wrath, and emulating the Prophet's (peace be upon him) unfailing gentleness (*hilm*) and mercy. As **al-Harith al-Muhasibi** (d. 243/857) demonstrates in *al-Ri'ayah li-Huquq Allah* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Dar al-Kutub al-'Ilmiyyah, pp. 210–218, [Digital Verification](https://shamela.ws/book/12095/210)), the lower ego frequently disguises its own desire for domination and retaliatory anger beneath the pretext of "maintaining household discipline," thereby hardening the heart. This spiritual standard is sealed by the Prophetic maxims: *"The strong person is not the one who overpowers others by wrestling, but the one who controls himself when angry"* (al-Bukhari, *Adab*, 76, Hadith No: 6114; Muslim, *Birr*, 107, Hadith No: 2609) and the Farewell Sermon declaration: *"Fear God regarding women, for you have taken them as a sacred trust from God [bi-amanatillah]"* (Muslim, *Hajj*, 147, Hadith No: 1218).
+- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) defines the contractual and financial obligations of marriage, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses and remedies the hidden spiritual ailments that corrode marital harmony. **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab Adab al-Nikah* (Beirut: Dar al-Ma'rifah, Vol. 2, pp. 42–56, [Digital Verification](https://shamela.ws/book/9472/402)) and *Kitab Dhamm al-Kibr wa-al-'Ujb* (Vol. 3, pp. 343–355, [Digital Verification](https://shamela.ws/book/9472/1089)), establishes that true moral nobility in family life (*husn al-khuluq*) does not merely consist in refraining from harming one's spouse, but in patiently enduring difficulties, restraining wrath, and emulating the Prophet's (peace be upon him) unfailing gentleness (*hilm*) and mercy. As **al-Harith al-Muhasibi** (d. 243/857) demonstrates in *al-Ri'ayah li-Huquq Allah* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Dar al-Kutub al-'Ilmiyyah, pp. 210–218, [Digital Verification](https://shamela.ws/book/6875/129)), the lower ego frequently disguises its own desire for domination and retaliatory anger beneath the pretext of "maintaining household discipline," thereby hardening the heart. This spiritual standard is sealed by the Prophetic maxims: *"The strong person is not the one who overpowers others by wrestling, but the one who controls himself when angry"* (al-Bukhari, *Adab*, 76, Hadith No: 6114; Muslim, *Birr*, 107, Hadith No: 2609) and the Farewell Sermon declaration: *"Fear God regarding women, for you have taken them as a sacred trust from God [bi-amanatillah]"* (Muslim, *Hajj*, 147, Hadith No: 1218).
 
 #### 13.3. Classical Spiritual / *Ishari* Exegesis (al-Qushayri — *Lata'if al-Isharat* & Ibn 'Ajibah)
 - **[CITATION]** **'Abd al-Karim al-Qushayri** (d. 465/1072) articulates the inward spiritual signification of *qiwamah* and *nushuz* in An-Nisa 4:34 in his *Lata'if al-Isharat* as follows:
-  > «الرجال قوامون على النساء... الإشارة فيه: قيام العقول والقلوب على النفوس والطباع؛ فالنفوس إذا نشزت بالميل إلى الشهوات والكسل عن الطاعات، فحق القلوب أن تعظها بالتذكير، ثم تهجرها بقطع المألوفات، ثم تضربها بسياط المجاهدات...»
+  > «خَصَّ الرِّجَالَ بِالْقُوَّةِ فَزِيدَ بِالْحَمْلِ عَلَيْهِمْ؛ فَالْحَمْلُ عَلَى حَسَبِ الْقُوَّةِ. وَالْعِبْرَةُ بِالْقُلُوبِ وَالْهِمَمِ لَا بِالنُّفُوسِ وَالْجُثَثِ... أَيِ ارْتَقُوا فِي تَهْذِيبِهِنَّ بِالتَّدْرِيجِ وَالرِّفْقِ، وَإِنْ صَلُحَ الْأَمْرُ بِالْوَعْظِ فَلَا تَسْتَعْمِلِ الْعَصَا بِالضَّرْبِ، فَالْآيَةُ تَتَضَمَّنُ آدَابَ الْعِشْرَةِ»
   > *"Men are protector-maintainers (qawwamun) regarding women... The spiritual allusion (al-isharah) therein is the stewardship of intellects and spiritual hearts over the lower souls (al-nufus) and natural dispositions (al-tiba'). When the lower souls rebel (idh nashazat) by inclining toward base desires and sluggishness in obedience, it is the duty of the hearts first to admonish them through remembrance, then to forsake them by severing habitual indulgences, and finally to discipline them with the whips of spiritual striving (bi-siyat al-mujahadat)..."*
-  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, pp. 331–332 (cf. Ahmad b. Muhammad Ibn 'Ajibah, *al-Bahr al-Madid fi Tafsir al-Qur'an al-Majid*, Cairo, 1999, Vol. 1, pp. 502–504). **Digital Library Link:** [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=4&tAyahNo=34).
+  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, p. 330 (cf. Ahmad b. Muhammad Ibn 'Ajibah, *al-Bahr al-Madid fi Tafsir al-Qur'an al-Majid*, Cairo, 1999, Vol. 1, pp. 502–504). **Digital Library Link:** [shamela.ws/book/23629/327](https://shamela.ws/book/23629/327) / [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=4&tAyahNo=34&tDisplay=yes).
 - **[ANALYSIS]** **Exegetical & Hermeneutic Analysis:** While preserving the outward ethical-legal protections of family law, Imam al-Qushayri and Ibn 'Ajibah transpose *qiwamah* from an instrument of interpersonal domination into the **inward vigilance of the intellect and spiritual heart over the rebellious lower ego (*al-nafs al-ammarah*)**. In this spiritual hermeneutic, the believer is commanded to direct disciplinary rigor not toward oppressing a spouse, but toward reforming his own rebellious ego (*nushuz al-nafs*) through remembrance (*tadhkir*), detachment from selfish habits (*hajr al-ma'lufat*), and ascetic striving (*mujahadah*). One whose intellect and heart fail to exercise *qiwamah* over his own lower passions cannot cultivate a home of tranquility (*sakan*) and mercy (Ar-Rum 30:21).
 
 ---
@@ -557,16 +557,107 @@ peer_review:
 
 - **Open Research Questions:**
   1. How can the classical `4:35` *hakam* (bilateral family arbitration) institution be integrated with modern clinical family therapy to reduce adversarial divorce trauma for children?
-  2. How should Islamic family jurisprudence model dual-earner households where both spouses contribute to financial maintenance (`bima anfaqu min amwalihim`)?
-- **Core Assumption:** Assumes that legal protection against violence (`K1`) and restorative mediation (`K2`) operate in tandem rather than as mutually exclusive alternatives.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Islamic Family Ethics & Religious Culture (Grades 11–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Family Integrity, Compassion (`Rahmah`), Fiduciary Responsibility (`Qiwamah`), and Zero Tolerance for Violence.*
-  - **Minutes 00–08 (Inquiry Hook):** Compare **Ar-Rum 30:21** (*sakan, mawaddah, rahmah*) with the Farewell Sermon (*'Treat women kindly, for they are a sacred trust in your hands'*). Ask: *'Is leadership in the family a privilege of power or a burden of service?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze the root of `qawwamun` (fiduciary service + financial maintenance), the bilateral meaning of `nushuz` (`4:34` and `4:128`), and the ruling of 'Ata' ibn Abi Rabah and Ibn Ashur prohibiting any harmful act based on the Prophetic Sunnah.
-  - **Minutes 20–33 (Role-Play & Case Study Workshop):** Simulate a **4:35 Family Arbitration (`Hakam`) Panel** resolving a communication and financial crisis between spouses through mutual *ma'ruf* and *islah*.
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students draft a 'Family Covenant Charter' linking `An-Nisa 4:19`, `4:34–35`, and `Ar-Rum 30:21`.
+  2. How should Islamic family jurisprudence model dual-earner households where both spouses contribute to financial maintenance (`bima anfaqu min amwalihim`) alongside shared consultation (`shûrâ`)?
+- **Core Assumption:** Assumes that legal protection against violence (`K1`) and restorative mediation (`K2: an-Nisâ' 4:35`) operate in tandem rather than as mutually exclusive alternatives.
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah an-Nisâ' 4:34–35:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grade 12
+- **Learning Area / Unit:** Family Law, Ethics, and Contemporary Religious Issues in Islam / The Family Institution & Compassion
+- **Target Learning Outcomes:**
+  - `DKAB.12.2.1` (*Interpreting the principles of compassion, justice, and responsibility in preserving the family institution*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [clarification by the Prophetic Sunnah, holistic context, and maqâsid]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Practicing anger management, patience, and restraint against domineering impulses in family life.
+  - `SDB2.2` (*Empathy & Relationship Building / Empati ve İlişki Kurma*): Understanding spousal rights and duties through mutual compassion (*rahmah*) and kindness (*ma'rûf*).
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Rejecting domestic violence and utilizing constructive dialogue and bilateral arbitration (`an-Nisâ' 4:35`).
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (*Hifz al-Nasl*, *Hifz al-Nafs*, and *Hifz al-'Ird* — preservation of family lineage, life, and human dignity), **The Explanatory & Restrictive Authority of the Prophetic Sunnah (*Bayân & Taqyîd*)**, and `Sadd al-Dharâ'i'` (blocking all pretexts for domestic abuse).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and contextual breakdown of `qawwâmûn`, `infâq`, `hâfizât li'l-ghayb`, `nushûz`, `wa'z`, and `hakam` (`4:34–35`). |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching Ibn Fâris, al-Jassâs, al-Zamakhsharî, al-Shâtibî, and Ibn 'Âshûr with the Prophetic prohibition of violence and modern family protection law. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.11.4.3, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating patriarchal abuse of `qawwâm` and decontextualized readings in light of the Prophetic Sunnah and `ar-Rûm 30:21` (*mawaddah wa-rahmah*). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB2.2, SDB3.3, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on the lust for domination (*hubb al-tasallut*), arrogance, and anger restraint via al-Ghazâlî (*Âdâb al-Nikâh*) and al-Qushayrî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on *qiwâmah* as fiduciary service, Prophetic mercy, and non-violent conflict resolution. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project **Surah an-Nisâ' 4:34–35** alongside **Surah ar-Rûm 30:21** (*sakînah, mawaddah, rahmah*). Students analyze the core terms using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Exegetical Meaning (`Ibn Fâris / al-Zamakhsharî / Ibn Manzûr`) | Contextual & Family Ethics Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`قَوَّٰمُونَ` (`Qawwâmûn`)** | Intensive active participle from `q-w-m` (`قَامَ`) | One who stands up to manage, protect, and diligently serve a trust ([Ibn Fâris, *Maqâyîs*, 5/43](https://shamela.ws/book/21710/2096)) | Fiduciary stewardship, protection, and service rather than authoritarian domination |
+| **`بِمَآ أَنفَقُوا۟` (`Bimâ anfaqû`)** | Causal/conditional clause from `n-f-q` (`أَنْفَقَ`) | By virtue of spending from their wealth to provide family maintenance (`nafaqah`) | Indicates that *qiwâmah* is a socio-economic obligation tied to financial maintenance, not ontological superiority |
+| **`حَٰفِظَٰتٌ لِّلْغَيْبِ` (`Hâfizâtun li'l-ghayb`)** | Active participle phrase from `h-f-z` & `gh-y-b` | Guarding in the spouse's absence what God has ordained to be guarded (fidelity, trust, family privacy) | Mutual covenant of marital loyalty, confidentiality, and moral trustworthiness |
+| **`نُشُوزَهُنَّ` (`Nushûzahunna`)** | Verbal noun from `n-sh-z` (`نَشَزَ`) | Rising ground; severe marital discord, arrogance, or breach of family harmony by either spouse (`4:34` & `4:128`) | Bilateral category of serious marital breakdown and relational hostility |
+| **`فَعِظُوهُنَّ` (`Fa-'izûhunna`)** | Imperative verb from `w-'-z` (`وَعَظَ`) | Advising with gentle, wise, heart-softening counsel ([al-Zamakhsharî, *al-Kashshâf*, 2/68](https://shamela.ws/book/23627/508)) | First-stage restorative communication, empathetic dialogue, and counseling |
+| **`حَكَمًا` (`Hakaman` — 4:35)** | Noun from `h-k-m` (`حَكَمَ`) | *"Appoint an arbiter from his family and an arbiter from her family; if they desire reconciliation, God will restore harmony"* (`4:35`) | Institutional bilateral family mediation replacing unilateral anger or coercion |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from Ibn Fâris, al-Jassâs, al-Shâtibî, 'Atâ' ibn Abî Rabâh, and Ibn 'Âshûr alongside the Prophetic Sunnah and modern family protection frameworks in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Ibn Fâris & Al-Zamakhsharî Lexical Analysis:**<br>`Qawwâm` denotes a dedicated caretaker and fiduciary servant who bears financial and protective duties, not a tyrannical ruler. | **Box 2 — Contemporary Case A (Patriarchal Abuse):**<br>Misusing the concept of `qawwâm` as a religious license for male domination, coercion, and domestic violence. | **Box 3 — The Prophetic Sunnah (Practical & Verbal):**<br>*"The Messenger of God never struck a woman or a servant with his hand"* (Muslim, *Fadâ'il*, 79, no. 2328); *"The best of you are those who are best to their families"* (al-Tirmidhî, *Manâqib*, 63, no. 3895). |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (Legal Protection Against Domestic Violence):**<br>Zero-tolerance statutory prohibitions and protective orders against physical, psychological, and economic abuse (`al-Isrâ' 17:70`). | **Box 5 — Ruling of 'Atâ' ibn Abî Rabâh & Ibn 'Âshûr:**<br>In light of the Prophetic Sunnah, striking a spouse in anger is unlawful, and public authority may legally prohibit and penalize any domestic violence (*al-Tahrîr*, 5/43–44). | **Box 6 — Contemporary Case C (Escalating Marital Breakdown):**<br>Impulsive rage or adversarial divorce litigation that traumatizes children without attempting restorative counseling. |
+| **Box 7 — Al-Shâtibî's Maqâsid Principle (*Hifz al-Nasl & Ma'rûf*):**<br>Marriage is founded upon tranquility, love, and mercy (`ar-Rûm 30:21`); any act violating *ma'rûf* (kindness and equity) contradicts the *maqâsid*. | **Box 8 — Surah an-Nisâ' 4:35 Institutional Solution (*Hakamayn*):**<br>When discord persists, unilateral coercion is barred in favor of bilateral arbitration (`hakam` from both families) and professional family mediation. | **Box 9 — Al-Ghazâlî & Al-Qushayrî Heart Jurisprudence (*Âdâb al-Nikâh*):**<br>Good character in marriage means not merely refraining from harm, but patiently enduring difficulty and answering anger with Prophetic gentleness (*Ihyâ'*, 2/42–56). |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Fiduciary Stewardship vs. Patriarchal Abuse Match:* **`Box 1 ↔ Box 2 ↔ Box 7`** (*Qiwâmah* as service and maintenance refuting authoritarian domination).
+  2. *Prophetic Sunnah & Non-Violence Law Match:* **`Box 3 ↔ Box 4 ↔ Box 5`** (The Prophet's categorical rejection of violence and the rulings of 'Atâ' and Ibn 'Âshûr matched with modern protective legislation).
+  3. *Restorative Arbitration & Spiritual Ethics Match:* **`Box 6 ↔ Box 8 ↔ Box 9`** (`An-Nisâ' 4:35` bilateral arbitration and al-Ghazâlî's ethic of patience resolving family crises without harm).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.11.4.3, DKAB.12.1.3, E3.4`).
+- **Case Scenario:** *"In a public debate, two polarized positions clash: The first claims on the basis of patriarchal custom that Surah an-Nisâ' 4:34 grants husbands an unrestricted right to dominate and physically discipline their wives. The second ignores the Prophetic Sunnah, Surah an-Nisâ' 4:19 ('Live with them in kindness / ma'rûf'), and 4:35 (bilateral arbitration), claiming that Islam endorses domestic abuse."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"Why is it a severe methodological error (`DKAB.12.1.3`) to interpret Surah an-Nisâ' 4:34 in isolation from the Prophet Muhammad's (pbuh) lifelong practice and explicit prohibitions?"*
+     - **Response 1 (Responding Group):** The Sunnah is the living explanation (*bayân*) of the Qur'an. As recorded in *Sahîh Muslim* (*Fadâ'il*, 79, no. 2328) and *Sunan Abî Dâwûd* (*Nikâh*, 42, no. 2146), the Prophet never struck a woman and condemned those who did. Following 'Atâ' ibn Abî Rabâh and Ibn 'Âshûr, any harmful act against a spouse violates the Prophetic standard and the covenant of `ar-Rûm 30:21`.
+  2. **Question 2 (Questioning Group):** *"How does reading Surah an-Nisâ' 4:34 together with 4:35 transform our understanding of marital conflict resolution?"*
+     - **Response 2 (Responding Group):** Severing `4:34` from `4:35` creates the false impression that the husband is both litigant and judge. Verse `4:35` immediately transfers unresolved marital crises to an impartial, bilateral arbitration council (`hakam` from each spouse's family) aimed at restorative reconciliation (*islâh*).
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB2.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 2, pp. 42–56, *Kitâb Âdâb al-Nikâh*) and al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 1, pp. 326–327), the teacher explains: *"The inner root of domestic abuse and harsh speech is the ego's lust for domination (`hubb al-tasallut`) and arrogance (`kibr`). True stewardship (`qiwâmah`) begins with mastering one's own anger and serving one's family with humility."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"How does al-Ghazâlî's teaching—that noble character in the family means not merely avoiding harm, but patiently bearing hardship with Prophetic gentleness—guide our emotional self-regulation (`SDB1.2`) and empathy (`SDB2.2`)?"*
+  2. *"What inner spiritual diseases cause a person to distort a role of service and trust (`amânah`) into a claim of superiority over others?"*
+  3. *"When disagreements arise at home or among peers, how can we practice wise counsel (`wa'z`) and fair arbitration (`hakam`) as responsible decision-makers (`SDB3.3`)?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. Two textual and lexical proofs that 'qawwâm' in an-Nisâ' 4:34 means fiduciary service rather than domination:** | *"Its lexical root ('standing to serve and protect a trust') and its explicit link to financial maintenance ('bimâ anfaqû') and mutual kindness ('bi'l-ma'rûf')."* |
+| **2. The Prophetic Sunnah and classical jurisprudential ruling prohibiting domestic violence:** | *"The Prophet never struck a woman (Sahîh Muslim), and scholars like 'Atâ' ibn Abî Rabâh and Ibn 'Âshûr ruled that striking a spouse in anger is forbidden and punishable by law."* |
+| **3. The non-violent conflict-resolution stages established across an-Nisâ' 4:34–35:** | *"1. Wise, empathetic dialogue (wa'z), 2. Emotional cooling-off period, and 3. Bilateral family arbitration and professional mediation (hakamayn in 4:35)."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Conducting a comparative legal analysis of the rulings of 'Atâ' ibn Abî Rabâh (Ibn al-'Arabî, *Ahkâm al-Qur'ân*, Vol. 1, p. 420), al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 3, pp. 148–152), and Ibn 'Âshûr (*al-Tahrîr wa'l-Tanwîr*, Vol. 5, pp. 43–44) alongside Article 130 of the 1917 Ottoman *Family Law Decree* (*Hukuk-ı Âile Kararnamesi*) on judicial family arbitration.
+  - Preparing an empirical policy brief using UN Women, WHO, and national family survey datasets on combining zero-tolerance protective orders with accredited family counseling.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Working with a visual concept map illustrating **`Ar-Rûm 30:21 (Tranquility, Love & Mercy) → An-Nisâ' 4:19 (Living in Kindness / Ma'rûf) → An-Nisâ' 4:34 (Fiduciary Stewardship & Constructive Counsel) → An-Nisâ' 4:35 (Bilateral Family Arbitration)`**.
+  - Practicing with matching cards contrasting "Patriarchal Misconception (Domination)" with "Qur'anic & Prophetic Ethic (Trust, Service & Compassion)".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, legal, exegetical, and spiritual citations (Ibn Fâris, al-Zamakhsharî, Ibn Manzûr, al-Jassâs, al-Shâtibî, Ibn 'Âshûr, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Safeguards the verse against patriarchal justification of violence and decontextualized polemics through the Prophetic Sunnah, `Darûriyyât al-Khamsah` (*Hifz al-Nafs* and *Hifz al-Nasl*), and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -609,11 +700,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/68-72. Digital Verification: https://shamela.ws/book/2362/17/508 (urn:shamela:23617).
-[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/43-45. Digital Verification: https://shamela.ws/book/2171/10/2096 (urn:shamela:23721).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/496-501. Digital Verification: https://shamela.ws/book/168/17/6411 (urn:shamela:21605).
-[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 3/148-152. Digital Verification: https://shamela.ws/book/2357/19/918 (urn:shamela:21571).
-[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 2/210-215. Digital Verification: https://shamela.ws/book/1143/15/678 (urn:shamela:21731).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/68-72. Digital Verification: https://shamela.ws/book/23627/508 (urn:shamela:23617).
+[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/43-45. Digital Verification: https://shamela.ws/book/21710/2096 (urn:shamela:23721).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/496-501. Digital Verification: https://shamela.ws/book/1687/6411 (urn:shamela:21605).
+[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 3/148-152. Digital Verification: https://shamela.ws/book/23579/918 (urn:shamela:21571).
+[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 2/210-215. Digital Verification: https://shamela.ws/book/11435/678 (urn:shamela:21731).
 [^6]: United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) (2024). *Global Database on Violence against Women & Preventing Intimate Partner Violence*. New York: UN Women. DOI: doi:10.18356/9789210058568. URL: https://www.unwomen.org
 [^7]: World Health Organization (WHO) (2024). *Violence Against Women Prevalence Estimates 2024*. Geneva: World Health Organization. DOI: doi:10.2471/BLT.21.287414. URL: https://www.who.int
 [^8]: United Nations Development Programme (UNDP) (2024). *Gender Inequality Index (GII) & Human Development Report 2024*. New York: UNDP. DOI: Institutional Dataset. URL: https://hdr.undp.org

@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "432"
     arabic_quote: "وقرئ: وشاورهم في بعض الأمر فَإِذا عَزَمْتَ فإذا قطعت الرأى على شيء بعد الشورى فَتَوَكَّلْ عَلَى اللَّهِ في إمضاء أمرك على الأرشد الأصلح، فإن ما هو أصلح لك لا يعلمه إلا اللَّه لا أنت ولا من تشاور. وقرئ"
-    verification_link: "https://shamela.ws/book/2362/17/435"
+    verification_link: "https://shamela.ws/book/23627/435"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "470"
     arabic_quote: "والتَّشَاوُرُ والْمُشَاوَرَةُ والْمَشُورَةُ: استخراج الرّأي بمراجعة البعض إلى البعض، من قولهم:"
-    verification_link: "https://shamela.ws/book/2363/16/452"
+    verification_link: "https://shamela.ws/book/23636/452"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "226"
     arabic_quote: "الشين والواو والراء أصلان مطَّردان، الأوّل منهما إِبداء."
-    verification_link: "https://shamela.ws/book/2171/10/1294"
+    verification_link: "https://shamela.ws/book/21710/1294"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "437"
     arabic_quote: "المَشْوَرَة؛ وَتَقُولُ مِنْهُ: شَاوَرْتُه فِي الأَمر واسْتشرته بِمَعْنًى. وَفُلَانٌ خَيِّرٌ شَيِّرٌ أَي يصلُح لِلْمُشاورَة. وشاوَرَه مُشاوَرَة وشِوَاراً واسْتَشاره: طَلَب مِنْهُ المَشُورَة"
-    verification_link: "https://shamela.ws/book/168/17/2397"
+    verification_link: "https://shamela.ws/book/1687/2397"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "9"
     pages: "410"
     arabic_quote: "أَنَّ عُمَرَ كَانَ مِنَ الْمُنْهَزِمِينَ فَدَخَلَ تَحْتَ الْآيَةِ، إِلَّا أَنَّ أَبَا بَكْرٍ مَا كَانَ مِنْهُمْ فَكَيْفَ يَدْخُلُ تَحْتَ هَذِهِ الْآيَةِ"
-    verification_link: "https://shamela.ws/book/2363/15/1550"
+    verification_link: "https://shamela.ws/book/23635/1550"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -425,17 +425,17 @@ In the external institutional and constitutional realm (*âfâk*), Surah Âl-i �
 
 #### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
 Classical *kalp fıkhı* (*fiqh al-qulûb*) authorities diagnose the refusal of consultation (`shûrâ`) and harshness of heart (`ghilzah`) as symptoms of self-admiration of intellect (*'ujb bi'r-ra'y*), arrogance (*kibr*), and unbridled anger (*ghadab*):
-- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In his chapters on intellectual self-conceit and arrogance (*Bâb al-'Ujb wa'l-Kibr*), al-Muhâsibî demonstrates that an ego (*nafs*) captivated by its own infallibility perceives advice and consultation as humiliation, whereas genuine spiritual humility (*tawâdu'*) requires seeking the counsel of peers and treating those who err in times of crisis with restorative mercy rather than vengeful blame (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 210–238; Digital access: [shamela.ws/book/9683/210](https://shamela.ws/book/9683/210)).
-- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Ghadab wa'l-Hiqd wa'l-Hasad* and *Kitâb Dhamm al-Kibr wa'l-'Ujb* within the Quarter of Destructive Vices (*Rub' al-Muhlikât*), al-Ghazâlî explains that a ruler's callousness (`ghalîza'l-qalb`) and fault-finding wrath scatter competent minds and fracture the community, whereas the prophetic gentleness praised in `fa-bimâ rahmatin mina'llâhi linta lahum` (*lîn* and *hilm*) is the direct fruit of purifying the heart from arrogance and anger through divine grace (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 164–185, 343–365; Digital access: [shamela.ws/book/9472/164](https://shamela.ws/book/9472/164)).
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In his chapters on intellectual self-conceit and arrogance (*Bâb al-'Ujb wa'l-Kibr*), al-Muhâsibî demonstrates that an ego (*nafs*) captivated by its own infallibility perceives advice and consultation as humiliation, whereas genuine spiritual humility (*tawâdu'*) requires seeking the counsel of peers and treating those who err in times of crisis with restorative mercy rather than vengeful blame (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 210–238; Digital access: [shamela.ws/book/6875/122](https://shamela.ws/book/6875/122)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Ghadab wa'l-Hiqd wa'l-Hasad* and *Kitâb Dhamm al-Kibr wa'l-'Ujb* within the Quarter of Destructive Vices (*Rub' al-Muhlikât*), al-Ghazâlî explains that a ruler's callousness (`ghalîza'l-qalb`) and fault-finding wrath scatter competent minds and fracture the community, whereas the prophetic gentleness praised in `fa-bimâ rahmatin mina'llâhi linta lahum` (*lîn* and *hilm*) is the direct fruit of purifying the heart from arrogance and anger through divine grace (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 164–185, 343–365; Digital access: [shamela.ws/book/9472/910](https://shamela.ws/book/9472/910)).
 - **Enfüs–Policy Bridge:** Because leaders who fail to discipline inner arrogance (*kibr*) and callousness (*qaswah*) in their conscience (*enfüs*) cannot tolerate dissenting expertise in public governance (*âfâk*), the policy branches in `STEP 15` (`K1` blame-free psychological safety, `K2` multi-stakeholder consultation, and `K3` transparent executive resolution) institutionalize structural safeguards against autocratic egoism.
 
 #### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
 Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the sequence of *rahmah*, *lîn*, *'afw*, and *shûrâ* in Âl-i İmrân 3:159 as the spiritual station where divine witnessing softens the human heart toward creation:
 - **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
   - `[CITATION / NAKİL]`: In his *ishârî* commentary on Âl-i İmrân 3:159, al-Qushayrî records the following verbatim passage:
-    > «فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ... الإشارة فيه: لولا ما تداركهم من ألطاف الرحمة لجفوت عليهم... ومن غلظ قلبه عن قبول الحق غلظ على الخلق، ولين الجانب من ثمرات شهود الحق... وشاورهم في الأمر تطييباً لقلوبهم، واستجلاباً لمودتهم»
-    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 1, pp. 286–287; Digital verification: [shamela.ws/book/23622/286](https://shamela.ws/book/23622/286) / [altafsir.com — Latâ'if al-Ishârât 3:159](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=3&tAyahNo=159&tDisplay=yes)).*
-  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*) of the verse, Ibn 'Ajîbah emphasizes that true spiritual and civic leadership requires meeting human shortcoming with clemency rather than harshness (`fazz`), healing broken hearts through forgiveness (`fa-'fu 'anhum`), and honoring companions by drawing them into participatory consultation (`wa-shâwirhum`) before relying wholly upon God (`fa-tawakkal 'alâ'llâh`) (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 1, pp. 422–424; Digital access: [shamela.ws/book/11566/422](https://shamela.ws/book/11566/422)).
+    > «فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ... وَيُقَالُ إِنَّ مِنْ خَصَائِصِ رَحْمَتِهِ سُبْحَانَهُ عَلَيْهِ أَنْ قَوَّاهُ حَتَّى صَحِبَهُمْ، وَصَبَرَ عَلَى تَبْلِيغِ الرِّسَالَةِ إِلَيْهِمْ... وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ: أَيْ أَثْبِتْ لَهُمْ مَحَلًّا؛ فَإِنَّ الْمَعْفُوَّ عَنْهُ فِي صِدَارِ الْخَجْلَةِ لَا يَرَى لِنَفْسِهِ مَقَامَ الْكَرَامَةِ، فَإِذَا شَاوَرْتَهُمْ أَزَلْتَ عَنْهُمُ انْكِسَارَهُمْ، وَطَيَّبْتَ لَهُمْ قُلُوبَهُمْ»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 1, pp. 290–291; Digital verification: [shamela.ws/book/23629/287](https://shamela.ws/book/23629/287) / [altafsir.com — Latâ'if al-Ishârât 3:159](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=3&tAyahNo=159&tDisplay=yes)).*
+  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*) of the verse, Ibn 'Ajîbah emphasizes that true spiritual and civic leadership requires meeting human shortcoming with clemency rather than harshness (`fazz`), healing broken hearts through forgiveness (`fa-'fu 'anhum`), and honoring companions by drawing them into participatory consultation (`wa-shâwirhum`) before relying wholly upon God (`fa-tawakkal 'alâ'llâh`) (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 1, pp. 427–428; Digital access: [shamela.ws/book/10273/422](https://shamela.ws/book/10273/422)).
   - `[ANALYSIS / YORUM]`: Al-Qushayrî's maxim—*"Whoever has a heart hardened against receiving the Truth (`al-Haqq`) becomes harsh and callous toward creation (`al-khalq`), whereas gentleness of disposition (`lîn al-jânib`) is among the fruits of witnessing the Truth"*—reveals that authoritarian harshness is not strength, but spiritual blindness. In the *irfânî* horizon, authentic executive resolve (`'azm`) is born from **deliberative compassion**: uniting hearts through humility (`tatyîban li-qulûbihim`), pooling collective wisdom through consultation, and anchoring final action in serene trust in God (`tawakkul`).
 
 ---
@@ -542,17 +542,109 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How can Ibn 'Atiyyah's constitutional doctrine on the obligatory nature of `shura` (*wujub al-shura*) be integrated into contemporary administrative law on mandatory regulatory impact assessments?
-  2. What organizational design balances psychological safety (`fa-'fu 'anhum`) with high operational accountability in crisis-response agencies?
-- **Core Assumption:** Assumes that human capital retention (`preventing infidad`) and decision quality increase monotonically when leaders combine emotional gentleness (`lin`) with genuine consultation (`shura`).
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Prophetic Biography (*Sirah*) & Leadership Ethics (Grades 9–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Compassionate Communication (`Lin`), Forgiveness (`'Afw`), Participatory Consultation (`Shura`), and Responsible Resolve (`'Azm & Tawakkul`).*
-  - **Minutes 00–08 (Inquiry Hook — The Post-Uhud Paradox):** Ask students: *'If you were a leader and your team's majority vote led to a painful defeat, would you ever consult them again?'* Reveal that `Al-i 'Imran 3:159` was revealed right after Uhud commanding `fa-'fu 'anhum ... wa-shawirhum fi'l-amr`.
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze `lin` vs. `fazz / ghaliza'l-qalb`, the sociological law `la-nfaddu min hawlika` (Al-Zamakhshari), the etymology of `shura` ('extracting honey', Ibn Faris), and Ibn 'Atiyyah's constitutional ruling.
-  - **Minutes 20–33 (School Council *Shura* Simulation):** Students conduct a 4-stage `3:159` crisis workshop (`1. Pardon -> 2. Empathy -> 3. Consultation -> 4. Resolution`) to solve a real school or community conflict.
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students write how `tawakkul` in `3:159` comes *after* consultation (`shura`) and firm preparation (`'azm`), refuting passive fatalism.
+  1. How can the five-stage Prophetic crisis-leadership model of `Âl 'Imrân 3:159` (*gentleness → pardon → moral restoration → consultation → decisive resolve + tawakkul*) be operationalized in modern organizational governance and youth education?
+  2. How can classical exegetical debates over whether consultation is informative (*mu'limah*) or binding (*mulzimah*) inform contemporary constitutional and civic participation frameworks?
+- **Core Assumption:** Assumes that sustainable social cohesion and collective intelligence in times of crisis are built not through harshness (`fazzan ghalîz al-qalb`) or authoritarian unilateralism, but through mercy-grounded gentleness (`lînt`), restorative pardon (`'afw`), institutional consultation (`shûrâ`), and responsible resolve (`'azm + tawakkul`).
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah Âl 'Imrân 3:159:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grades 9 & 10
+- **Learning Area / Unit:** Prophet Muhammad and Youth — Islam and Social Life / Consultation (*Shûrâ*), Compassionate Leadership & Collective Wisdom
+- **Target Learning Outcomes:**
+  - `DKAB.10.3.3` (*Relating the principles of consultation [shûrâ], collective wisdom, and mercy in Islam to social relationships*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [historical context, occasions of revelation, and Prophetic practice]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Restraining anger (*ghadab*), hardness of heart (*qaswah*), and intellectual arrogance (*istibdâd bi'l-ra'y*) during disagreements and crises.
+  - `SDB2.1` (*Communication & Collaboration / İletişim ve İş Birliği*): Practicing empathetic listening, constructive dialogue, and shared decision-making (*shûrâ*).
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Translating collective deliberation into decisive action (*'azm*) and active trust in God (*tawakkul*).
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (*Hifz al-'Aql* and *Hifz al-Nafs* — cultivating collective intellect and preserving communal cohesion), **Post-Uhud Crisis Management** (*sabab al-nuzûl*: despite the tactical setback at Uhud where the Prophet had accepted the majority view of young companions to fight outside Medina, the verse commanded pardoning them and continuing to consult them), Ibn 'Atiyyah's constitutional maxim **"A ruler who does not consult people of knowledge and religion must be deposed"**, and `Sadd al-Dharâ'i'`.
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and rhetorical analysis of `rahmatin minallâh`, `linta lahum`, `fazzan ghalîz al-qalb`, `fa'fu 'anhum`, `wa-shâwirhum fi'l-amr`, `'azamta`, and `tawakkal`. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching al-Zamakhsharî, al-Râghib, Ibn Fâris, Fakhr al-Dîn al-Râzî, and Ibn 'Atiyyah with modern participatory governance and psychological safety. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.10.3.3, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating authoritarian unilateralism (*istibdâd*) and fatalistic passivity versus the Prophetic post-Uhud consultation model (`DKAB.10.3.3`). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB2.1, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on harshness (*qaswah*), self-sufficiency arrogance (*istighnâ'*), and restorative compassion via al-Ghazâlî, al-Muhâsibî, and al-Qushayrî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on *lînt–shûrâ*, the post-Uhud context, and the *'azm–tawakkul* sequence. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project **Surah Âl 'Imrân 3:159** onto the board. Students examine the seven foundational expressions using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Tafsir Meaning (`Ibn Fâris / al-Râghib / al-Râzî`) | Contextual & Modern Leadership / Governance Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`رَحْمَةٍ مِّنَ ٱللَّهِ` (`Rahmatin minallâh`)** | Verbal noun from `r-h-m` (`رَحِمَ`) + prepositional phrase | By a mercy from God; the metaphysical wellspring of Prophetic character ([al-Râzî, *Mafâtîh al-Ghayb*, 9/64](https://shamela.ws/book/23635/1550)) | Compassionate leadership rooted in authentic moral character rather than manipulation |
+| **`لِنتَ لَهُمْ` (`Linta lahum`)** | Perfect verb from `l-y-n` (`لَانَ`) | Opposite of roughness (*khushûnah*); gentle, approachable, and empathetic conduct | Empathetic communication and psychological safety in teams and communities |
+| **`فَظًّا غَلِيظَ ٱلْقَلْبِ` (`Fazzan ghalîz al-qalb`)** | Adjectival phrase from `f-z-z` & `gh-l-z` | Harsh in speech (*fazz*) and hard/callous of heart (*ghalîz al-qalb*) ([al-Zamakhsharî, *al-Kashshâf*, 1/444](https://shamela.ws/book/23627/435)) | Abrasive, authoritarian leadership that alienates people (`lanfaddû min hawlik`) |
+| **`فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ` (`Fa'fu 'anhum wa-staghfir lahum`)** | Imperative verbs from `'-f-w` & `gh-f-r` | Pardoning their slip-ups without vindictive blame and praying for their restoration | Restorative crisis management that heals trauma rather than scapegoating youth |
+| **`وَشَاوِرْهُمْ فِى ٱلْأَمْرِ` (`Wa-shâwirhum fi'l-amr`)** | Form III imperative from `sh-w-r` (`شَارَ`) | Extracting pure honey from the hive (*shawr al-'asal*); drawing out the best counsel through deliberation ([al-Râghib, *al-Mufradât*, p. 470](https://shamela.ws/book/23636/452)) | Institutional consultation (*shûrâ*), participatory governance, and collective intelligence |
+| **`فَإِذَا عَزَمْتَ` (`Fa-idhâ 'azamta`)** | Conditional clause from `'-z-m` (`عَزَمَ`) | Firmly resolving upon a course of action after thorough consultation ([Ibn Manzûr, *Lisân al-'Arab*, 4/434](https://shamela.ws/book/1687/2397)) | Executive decisiveness translating shared deliberation into timely action |
+| **`فَتَوَكَّلْ عَلَى ٱللَّهِ` (`Fa-tawakkal 'alallâh`)** | Form V imperative from `w-k-l` | Entrusting the outcome to God after completing consultation and preparation | Active trust in God that crowns—never replaces—deliberation and effort |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, Vol. 9, pp. 64–68), al-Zamakhsharî (*al-Kashshâf*, Vol. 1, p. 444), and Ibn 'Atiyyah's post-Uhud analysis alongside modern organizational cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Sabab al-Nuzûl (Post-Uhud Consultation Mandate):**<br>Before Uhud, the Prophet followed the majority view of young companions to march out; despite the archers' error and heavy losses, `Âl 'Imrân 3:159` commanded pardoning them and continuing to consult them (`wa-shâwirhum`). | **Box 2 — Contemporary Case A (Psychological Safety & Youth Inclusion):**<br>Creating an environment in schools, families, and institutions where young people who make mistakes are mentored and kept in decision-making rather than humiliated. | **Box 3 — Al-Râghib & Ibn Fâris (*Shawr al-'Asal* Metaphor):**<br>`Shûrâ` literally denotes extracting pure honey from the beehive ([Maqâyîs, 3/226](https://shamela.ws/book/21710/1294)); diverse minds filter and refine the soundest policy. |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (Authoritarian Harshness & Alienation):**<br>Coercive, abrasive leadership (*fazzan ghalîz al-qalb*) that silences feedback, driving away talent and fracturing institutional cohesion (`lanfaddû min hawlik`). | **Box 5 — Fakhr al-Dîn al-Râzî (*Mafâtîh*, 9/64) & Ibn 'Atiyyah:**<br>If even the divinely guided Prophet was commanded to consult, then *shûrâ* is a binding constitutional duty upon all subsequent leaders; one who abandons consultation must be removed. | **Box 6 — Contemporary Case C (Participatory Governance & Councils):**<br>Making public and institutional decisions through transparent deliberation, expert boards, and stakeholder participation rather than unilateral decrees. |
+| **Box 7 — The `Shûrâ → 'Azm → Tawakkul` Sequence (`3:159`):**<br>Reliance on God (`tawakkul`) is commanded strictly *after* consultation (`shûrâ`) and decisive planning (`'azm`), never as a substitute for them. | **Box 8 — Contemporary Case D (Strategic Planning vs. Fatalism):**<br>Rejecting passive fatalism (*tawâkul*) that neglects scientific research, expert consultation, and risk management under the guise of "piety". | **Box 9 — Al-Ghazâlî & Al-Qushayrî Heart Jurisprudence:**<br>Refusing consultation stems from inward arrogance (*kibr*), self-sufficiency (*istighnâ' bi'l-ra'y*), and unrestrained anger (*ghadab*). |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Post-Uhud Restorative Leadership & Youth Empowerment Match:* **`Box 1 ↔ Box 2 ↔ Box 4`** (The Prophet pardoning and consulting companions after Uhud matched with psychological safety and the rejection of abrasive authoritarianism).
+  2. *Collective Honey-Extraction (`Shawr`) & Constitutional Shûrâ Match:* **`Box 3 ↔ Box 5 ↔ Box 6`** (The beehive metaphor and al-Râzî/Ibn 'Atiyyah's binding *shûrâ* rule matched with participatory governance).
+  3. *Deliberation–Resolve–Tawakkul Sequence & Heart Purification Match:* **`Box 7 ↔ Box 8 ↔ Box 9`** (`Shûrâ → 'Azm → Tawakkul` refuting both lazy fatalism and arrogant unilateralism).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.10.3.3, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"An organization leader silences younger members who raise constructive criticisms after a failed project, claiming: 'In Islam, questioning the leader violates obedience; furthermore, Âl 'Imrân 3:159 says once you have resolved, rely on God—so questioning my unilateral decision shows a lack of tawakkul.' Students critique this claim using the exact textual sequence and historical context of 3:159."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"Why is isolating `'azamta fa-tawakkal` while ignoring the immediately preceding imperatives `fa'fu 'anhum` (pardon them) and `wa-shâwirhum fi'l-amr` (consult them in the affair) a severe distortion of the Qur'anic text (`DKAB.10.3.3`, `DKAB.11.4.3`)?"*
+     - **Response 1 (Responding Group):** The verse establishes an unbreakable five-step sequence: **(1) Gentleness** (`linta lahum`), **(2) Pardon** (`fa'fu 'anhum`), **(3) Moral support** (`wa-staghfir lahum`), **(4) Consultation** (`wa-shâwirhum fi'l-amr`), and only **after** consultation **(5) Resolve and Tawakkul** (`fa-idhâ 'azamta fa-tawakkal`). Invoking `'azm` and `tawakkul` to bypass `shûrâ` inverts the verse to justify authoritarian unilateralism (*istibdâd*).
+  2. **Question 2 (Questioning Group):** *"Why did the Qur'an command the Prophet to continue consulting his companions right after the setback at Uhud, even though their pre-battle majority decision had led to a painful trial?"*
+     - **Response 2 (Responding Group):** As Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, 9/66) explains, a decision reached through consultation that encounters a trial is still superior to unilateral autocracy, because *shûrâ* educates the community, preserves dignity, and builds long-term resilience. Repealing consultation after a mistake would destroy collective responsibility.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB2.1, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 3, pp. 164–182 on *Âfât al-Ghadab*; pp. 343–358 on *Dhamm al-Kibr*), al-Hârith al-Muhâsibî (*al-Ri'âyah*, pp. 245–252), and al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 1, pp. 292–293), the teacher explains: *"Harshness (`ghilzah`) and refusal to consult spring from egoistic self-sufficiency (`istighnâ'`) and pride; true strength lies in a gentle heart that welcomes counsel and covers faults."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"When a classmate or teammate makes a mistake that affects our group, is our first reaction harsh blame (`fazzan ghalîz al-qalb`) or restorative support (`fa'fu 'anhum`, `SDB1.2`, `SDB2.1`)?"*
+  2. *"Do we genuinely listen when someone younger or less experienced offers a better idea, or does inward pride prevent us from practicing `shûrâ`?"*
+  3. *"How does the Qur'anic order `wa-shâwirhum → fa-idhâ 'azamta → fa-tawakkal` reshape the way we prepare for exams, projects, and life decisions (`SDB3.3`)?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. The moral quality that prevents social fragmentation according to Âl 'Imrân 3:159:** | *"Mercy-grounded gentleness (lînt), avoiding harsh speech and hardness of heart, and practicing restorative pardon ('afw)."* |
+| **2. Why the command 'consult them in the affair' was revealed immediately after the Battle of Uhud:** | *"To affirm that mistakes in crisis must not lead to authoritarianism or youth exclusion; collective wisdom (shûrâ) remains a permanent principle."* |
+| **3. How I will apply the sequence 'Consultation → Resolve ('Azm) → Tawakkul' in my life:** | *"Seeking wise counsel and planning thoroughly before making decisions, working with determination, and then entrusting the result to God."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Comparing Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, Vol. 9, pp. 64–68), Ibn 'Atiyyah (*al-Muharrar al-Wajîz*, Vol. 1, p. 534), and Rashîd Ridâ (*Tafsîr al-Manâr*, Vol. 4, pp. 198–205) on `Âl 'Imrân 3:159` to write an analytical brief on constitutional *shûrâ* and accountability in Islamic political thought.
+  - Examining modern organizational psychology research on **Psychological Safety** (Amy Edmondson) alongside the five-stage Prophetic crisis-leadership sequence of `3:159`.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a 5-step visual staircase diagram mapping **`1. Gentleness (Lînt) → 2. Pardon & Restoration ('Afw) → 3. Consultation (Shûrâ) → 4. Decisive Resolve ('Azm) → 5. Trust in God (Tawakkul)`**.
+  - Practicing with matching cards contrasting "Compassionate & Consultative Leadership Statements" against "Harsh, Abrasive & Unilateral Statements (`Fazz / Ghalîz`)".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, and spiritual citations (Ibn Fâris, al-Râghib al-Isfahânî, al-Zamakhsharî, Ibn Manzûr, Fakhr al-Dîn al-Râzî, al-Muhâsibî, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Prevents the selective isolation of `'azm` and `tawakkul` to justify authoritarian unilateralism (*istibdâd*) or passive fatalism under `DKAB.10.3.3`, `DKAB.11.4.3`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -595,11 +687,11 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/444-448. Digital Verification: https://shamela.ws/book/2362/17/435 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/470-472. Digital Verification: https://shamela.ws/book/2363/16/452 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/226-228. Digital Verification: https://shamela.ws/book/2171/10/1294 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 4/434-439. Digital Verification: https://shamela.ws/book/168/17/2397 (urn:shamela:21605).
-[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 9/64-70. Digital Verification: https://shamela.ws/book/2363/15/1550 (urn:shamela:23603).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/444-448. Digital Verification: https://shamela.ws/book/23627/435 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/470-472. Digital Verification: https://shamela.ws/book/23636/452 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/226-228. Digital Verification: https://shamela.ws/book/21710/1294 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 4/434-439. Digital Verification: https://shamela.ws/book/1687/2397 (urn:shamela:21605).
+[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 9/64-70. Digital Verification: https://shamela.ws/book/23635/1550 (urn:shamela:23603).
 [^6]: Organization for Economic Co-operation and Development (OECD) (2024). *OECD Regulatory Policy Outlook & Stakeholder Engagement Indicators 2024*. Paris: OECD Publishing. DOI: doi:10.1787/9789264209015-en. URL: https://www.oecd.org
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Government Effectiveness & Participatory Governance*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org
 

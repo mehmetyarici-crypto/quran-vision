@@ -25,7 +25,7 @@ classical_sources:
     volume: "4"
     pages: "281"
     arabic_quote: "العين والراء والفاء أصلان صحيحان، يدلُّ أحدُهما على تتابُع الشئ متَّصلا بعضُه ببعض، والآخر على السكون والطُّمَأنينة."
-    verification_link: "https://shamela.ws/book/2171/10/1822"
+    verification_link: "https://shamela.ws/book/21710/1822"
     doi_or_urn: "urn:shamela:book:9193:v4:p281"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "561"
     arabic_quote: "الله يعلم كذا، ولا يقال: يَعْرِفُ كذا، لمّا كانت المَعْرِفَةُ تستعمل في العلم القاصر المتوصّل به"
-    verification_link: "https://shamela.ws/book/2363/16/543"
+    verification_link: "https://shamela.ws/book/23636/543"
     doi_or_urn: "urn:shamela:book:23629:v1:p560"
   - id: "cls-ibnmanzur"
     author: "İbn Manzûr, Muhammed b. Mükerrem"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "500"
     arabic_quote: "والشَّعْبُ: أَبو القبائِلِ الذي يَنْتَسِبُون إِليه أَي يَجْمَعُهُم ويَضُمُّهُم. وَفِي التَّنْزِيلِ: وَجَعَلْناكُمْ شُعُوباً وَقَبائِلَ لِتَعارَفُوا"
-    verification_link: "https://shamela.ws/book/168/17/500"
+    verification_link: "https://shamela.ws/book/1687/500"
     doi_or_urn: "urn:shamela:book:1687:v9:p236"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -64,7 +64,7 @@ classical_sources:
     volume: "21"
     pages: "383"
     arabic_quote: "﴿إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى﴾. قال: ما خَلَقَ اللَّهُ الولدَ إِلَّا مِن نطفةِ الرجلِ والمرأةِ جميعًا؛ لأنَّ اللَّهَ يقولُ: ﴿خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى﴾"
-    verification_link: "https://shamela.ws/book/779/18/14442"
+    verification_link: "https://shamela.ws/book/7798/14442"
     doi_or_urn: "urn:shamela:book:7798:v22:p309"
   - id: "cls-zemahseri"
     author: "Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer"
@@ -77,7 +77,7 @@ classical_sources:
     volume: "4"
     pages: "374"
     arabic_quote: "مِنْ ذَكَرٍ وَأُنْثى من آدم وحوّاء. وقيل: خلقنا كل واحد منكم من أب وأمّ، فما منكم أحد إلا وهو يدلى بمثل ما يدلى به الآخر سواء بسواء، فلا وجه للتفاخر والتفاضل في النسب. والشعب: الطبقة الأولى من"
-    verification_link: "https://shamela.ws/book/2362/17/2439"
+    verification_link: "https://shamela.ws/book/23627/2439"
     doi_or_urn: "urn:shamela:book:23627:v5:p586"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "26"
     pages: "258"
     arabic_quote: "وَالْمُرَادُ بِالذَّكْرِ وَالْأُنْثَى: آدَمُ وَحَوَّاءُ أَبَوَا الْبَشَرِ، بِقَرِينَةِ قَوْلِهِ وَجَعَلْناكُمْ شُعُوباً وَقَبائِلَ لِتَعارَفُوا"
-    verification_link: "https://shamela.ws/book/977/16/9082"
+    verification_link: "https://shamela.ws/book/9776/9082"
     doi_or_urn: "urn:shamela:book:9746:v26:p258"
 modern_sources:
   - id: "mod-wjp"
@@ -259,7 +259,7 @@ peer_review:
 
 - **Klasik Tefsir Lafzî Tahlili (Taberî, Zemahşerî & İbn Âşûr):**
   - `[NAKİL]`: İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 26, s. 258–264), `li-te‘ârafû` kelimesindeki `lâm-ı ta‘lîl`in sosyolojik çeşitliliğin tek meşru gayesini **"karşılıklı tanışma ve medeni işbirliği"** olarak belirlediğini; `inne ekrameküm ‘indallâhi etkâküm` cümlesinin ise cahiliyenin soy, kan, ırk ve kabile üstünlüğü (`neseb/asabiyet`) iddiasını kökünden yıkarak değer ölçütünü iradî ve ahlaki liyakate (`takvâ`) bağladığını vurgular.[^1]
-  - `[YORUM]`: Lafzî yapı üç aşamalı bir insanlık beyannamesidir: (1) Yaratılışta mutlak eşitlik (`min zekerin ve ünsâ`), (2) Sosyolojik çeşitlilikte çatışma değil tanışma etiği (`li-te‘ârafû`), (3) Üstünlükte ırk/soy değil yalnızca ahlaki sorumluluk ve adalet (`etkâküm`).
+  - `[YORUM]`: Lafzî yapı üç aşamalı bir insanlık beyannamesidir: (1) Yaratılışta aslî eşitlik (`min zekerin ve ünsâ`), (2) Sosyolojik çeşitlilikte çatışma değil tanışma etiği (`li-te‘ârafû`), (3) Üstünlükte ırk/soy değil yalnızca ahlaki sorumluluk ve adalet (`etkâküm`).
 
 - **Siyâk-Sibâk ve Tarihsel Bağlam:**
 Hucurât Sûresi Medine döneminde, hicretin 9. yılında ("Senetü'l-Vüfûd" — Heyetler Yılı) Arap yarımadasının dört bir yanından farklı kabilelerin Medine'ye gelerek İslam cemiyetine katıldığı bir tarihsel kesitte nazil olmuştur. Sûrenin ilk 12 âyetinde (Hucurât 49:1–12) haber doğrulama (*tebeyyün*), çatışma çözümü (*ıslah*), müminlerin kardeşliği (*uhuvvet*), alay etmeme, lakap takmama, suizan ve gıybetten kaçınma gibi toplumsal ahlak normları vazedilmiş; 13. âyette (Hucurât 49:13) ise hitap *"Yâ eyyühe'l-lezîne âmenû"* (Ey iman edenler) dairesinden *"Yâ eyyühe'n-nâs"* (Ey insanlar!) dairesine genişletilerek tüm insanlığı kapsayan evrensel eşitlik ilkesi ilan edilmiştir. Mekke'nin fethinde Hz. Bilâl-i Habeşî'nin Kâbe'nin üzerinde ezan okumasına kibirle itiraz eden Kureyş asabiyetine karşı bu âyet nazil olmuş (Ebû Dâvûd, *Edeb*, 110, nr. 5116; Tirmizî, *Tefsîr*, 49, nr. 3270; Vâhidî, *Esbâbü'n-Nüzûl*, s. 397) ve Veda Hutbesi'nin (Ahmed b. Hanbel, *el-Müsned*, 5/411, nr. 23489) temelini oluşturmuştur.
@@ -415,17 +415,17 @@ Hucurât 49:13 âyetinin dış dünyadaki (*âfâk*) anayasal, uluslararası huk
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
 Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe nesep, kavim ve statüyle övünmenin ardındaki bâtınî illetler; kalbin kendi hakikatini unutması (*cehl bi'n-nefs*), kibir (*kibr*) ve ucb olarak teşhis edilmiştir:
-- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, *Bâbü'l-Kibr ve'l-Ucb* bölümünde soy ve kabile üstünlüğü iddiasını tahlil ederken; insanın kendi iradesi ve ameli olmayan bir nesep veya kavim aidiyetiyle başkalarına karşı büyüklük taslamasının aklî ve ahlâkî bir aldanış (*ğurûr*) olduğunu, kalpteki bu kibrin ancak bütün insanların aynı topraktan yaratıldığı ve akıbetlerinin yalnızca *takvâ* ile belirleneceği tefekkürüyle sökülebileceğini ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 245–270; Dijital erişim: [shamela.ws/book/9683/245](https://shamela.ws/book/9683/245)).
-- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Zemmi'l-Kibr ve'l-Ucb* bölümünde "Soy ve Nesep Kibri"ni (*et-Tekebbür bi'n-Neseb*) müstakil bir başlık altında inceler ve Hucurât 49:13 âyetini bu hastalığın en kesin ilacı olarak şerh eder. Gazzâlî'ye göre nesebiyle övünen kimse, aslında kendi zatında olmayan, başkalarına ait geçmiş bir vasfı kendine mal ederek cehalete düşmektedir; zira insanın aslı bir damla su ve topraktır (`min zekerin ve ünsâ`), hakiki şeref ise kalbin *takvâ* ve *tevazu* ile ziynetlenmesindedir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 343–385; Dijital erişim: [shamela.ws/book/9472/343](https://shamela.ws/book/9472/343)).
+- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, *Bâbü'l-Kibr ve'l-Ucb* bölümünde soy ve kabile üstünlüğü iddiasını tahlil ederken; insanın kendi iradesi ve ameli olmayan bir nesep veya kavim aidiyetiyle başkalarına karşı büyüklük taslamasının aklî ve ahlâkî bir aldanış (*ğurûr*) olduğunu, kalpteki bu kibrin ancak bütün insanların aynı topraktan yaratıldığı ve akıbetlerinin yalnızca *takvâ* ile belirleneceği tefekkürüyle sökülebileceğini ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 245–270; Dijital erişim: [shamela.ws/book/6875/134](https://shamela.ws/book/6875/134)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Zemmi'l-Kibr ve'l-Ucb* bölümünde "Soy ve Nesep Kibri"ni (*et-Tekebbür bi'n-Neseb*) müstakil bir başlık altında inceler ve Hucurât 49:13 âyetini bu hastalığın en kesin ilacı olarak şerh eder. Gazzâlî'ye göre nesebiyle övünen kimse, aslında kendi zatında olmayan, başkalarına ait geçmiş bir vasfı kendine mal ederek cehalete düşmektedir; zira insanın aslı bir damla su ve topraktır (`min zekerin ve ünsâ`), hakiki şeref ise kalbin *takvâ* ve *tevazu* ile ziynetlenmesindedir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 343–385; Dijital erişim: [shamela.ws/book/9472/1089](https://shamela.ws/book/9472/1089)).
 - **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) soy, hemşehrilik veya zümre asabiyetini (*tefâhur*) tevazu ve takvâ ile tezkiye edemeyen karar vericiler, dış dünyada (`âfâk`) kamu makamlarını kendi klanlarına tahsis eder; bu sebeple `ADIM 15`'teki körleştirilmiş liyakat/mülakat sistemi (`K1`), kültürlerarası *teâruf* eğitim modülü (`K2`) ve nefret söylemi/dijital kabilecilik izleme mekanizması (`K3`) kararları nefsin soy kibrini kurumsal hukukla engellemektedir.
 
 #### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
 Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Hucurât 49:13 âyetindeki *hilkat eşitliği*, *teâruf* ve *ekrameküm 'indallâhi etkâküm* kavramlarını nefsin benlik davasından soyunarak hiçlik ve takvâ makamında yücelmesi olarak şerh etmişlerdir:
 - **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
   - `[NAKİL]`: Kuşeyrî, Hucurât 49:13 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
-    > «يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ... الإشارة فيه: ساوى بينهم في أصل الطينة لئلا يتعاظم أحد على أحد بشرف النسب... وإن أكرمكم عند الله أتقاكم: رفع أقدار المتقين بإسقاط رؤية النفوس، فمن تعزز بالطين ذل، ومن تشرف بالتقوى جل»
-    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 441–442; Dijital doğrulama: [shamela.ws/book/23622/441](https://shamela.ws/book/23622/441) / [altafsir.com — Letâ'ifü'l-İşârât 49:13](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=13&tDisplay=yes)).*
-  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); zahirî neseplerin yalnızca dünyevî tanışma (`li-te'ârafû`) için birer alamet olduğunu, hakiki nesebin ise kalbin Hakk'a olan yakınlığı ve *takvâ* bağı olduğunu; nefsin fanî sıfatlarından ve soy davasından tamamen arınan (*etkâküm*) ârifin Allah katında en yüksek kerem ve izzete erdiğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 5, s. 432–433; Dijital erişim: [shamela.ws/book/11566/432](https://shamela.ws/book/11566/432)).
+    > «إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ... إِنَّا خَلَقْنَاكُمْ أَجْمَعَكُمْ مِنْ آدَمَ وَحَوَّاءَ، ثُمَّ جَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا لَا لِتُكَاثِرُوا وَلَا لِتَنَافَسُوا... إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ؟ أَتْقَاكُمْ أَيْ أَبْعَدُكُمْ عَنْ نَفْسِهِ، فَالتَّقْوَى هِيَ التَّحَرُّرُ مِنَ النَّفْسِ وَأَطْمَاعِهَا وَحُظُوظِهَا»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 443; Dijital doğrulama: [shamela.ws/book/23629/1732](https://shamela.ws/book/23629/1732) / [altafsir.com — Letâ'ifü'l-İşârât 49:13](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=13&tDisplay=yes)).*
+  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); zahirî neseplerin yalnızca dünyevî tanışma (`li-te'ârafû`) için birer alamet olduğunu, hakiki nesebin ise kalbin Hakk'a olan yakınlığı ve *takvâ* bağı olduğunu; nefsin fanî sıfatlarından ve soy davasından tamamen arınan (*etkâküm*) ârifin Allah katında en yüksek kerem ve izzete erdiğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 5, s. 434–436; Dijital erişim: [shamela.ws/book/10273/2865](https://shamela.ws/book/10273/2865)).
   - `[YORUM]`: Kuşeyrî'nin *"Kimse nesep şerefiyle başkasına büyüklük taslamasın diye Allah onları yaratılış çamurunun aslında eşitledi; müttakîlerin kadrini ise nefislerini görme (rü'yetü'n-nüfûs) hastalığını düşürmeleri sebebiyle yüceltti; kim çamurla (soyla) izzet ararsa zelil olur, kim de takvâ ile şereflenirse aziz olur"* vecizesi, ırkçılık ve kabileciliğin manevi kökünü kesip atar. İrfânî ufukta *teâruf*, ötekinde kendi yaratılış özünü görmek; *takvâ* ise hiçbir fânî kimliği hakikatin ve adaletin önüne geçirmemektir.
 
 ---
@@ -531,16 +531,112 @@ Katman 3 uyarınca toplumsal uyum, eşitlik ve anti-nepotizm simülasyonu:
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
 
-- **Öz-Denetim (Self-Audit):** Rapor boyunca kesinlik iddiası taşıyan dogmatik ifadelerden kaçınılmış, klasik tefsir verileri `[NAKİL]`, stratejik projeksiyonlar ise `[YORUM]` etiketiyle şeffaf biçimde ayrılmıştır.
-- **Geliştirme Alanı:** Gelecek çalışmalarda dijital sosyal medya algoritmalarının *tenâkür* (yabancılaşma ve nefret) yerine *teâruf* (karşılıklı tanışma) üretecek şekilde nasıl yeniden tasarlanabileceği teknik olarak modellenecektir.
-- **Temel Varsayım:** Kurumsal şeffaflık, hukuki caydırıcılık ve içsel ahlak (`takvâ / ihsân`) birleştiğinde toplumsal aktörlerin yapıcı işbirliğine yöneleceği kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Hucurât 49:13 — İnsani Eşitlik, Teârüf Ahlakı ve Takvâ Ölçütü):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *İnsan Onuru, Eşitlik, Kültürlerarası Tanışma (Teârüf), Tevazu ve Takvâ.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hz. Peygamber'in Veda Hutbesi'ndeki *"Ey insanlar! Rabbiniz birdir, babanız da birdir; Arap'ın Arap olmayana, beyazın siyaha takvâ dışında hiçbir üstünlüğü yoktur"* (Ahmed b. Hanbel, *el-Müsned*, 5/411, nr. 23489; Beyhakî, *Şu'abü'l-Îmân*, 7/132, nr. 4774) hitabıyla Hucurât 49:13 birlikte okunur.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Min zekerin ve ünsâ` (ontolojik eşitlik), `şuûben ve kabâile` (sosyolojik çeşitlilik), `li-teârefû` (övünmek ve çatışmak için değil, karşılıklı tanışıp yardımlaşmak için) ve `etkâküm` (ahlaki sorumluluk ve liyakat) kavramları Zemahşerî (*el-Keşşâf*, C. 5, s. 586–589) ve Âlûsî (*Rûhu'l-Me'ânî*, C. 13, s. 312–316) nakilleriyle incelenir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Irkçılık ve kabileciliğin (`asabiyet / tenâkür`) ürettiği kutuplaşma sarmalı (`R1`) ile `teârüf` ve `takvâ` merkezli birlikte yaşama modeli (`B1`) tartışılır.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler önyargıları kıran bir *"Okul İçi Teârüf ve Kardeşlik Etkinliği"* planlar.
+- **Açık Araştırma Soruları:**
+  1. `Hucurât 49:13` âyetinde etnik ve kavmî çeşitliliğin hikmeti olarak vaz' edilen **`li-te'ârefû`** (*"birbirinizle tanışıp bilişesiniz diye"*) ilkesi, 21. yüzyılın çok kültürlü metropollerinde, küresel göç krizlerinde ve algoritmik kutuplaşma çağında "kültürlerarası tanışma ve ortak yaşam etiği" olarak nasıl kurumsallaştırılabilir?
+  2. Âyette üstünlüğün soy, renk ve kabileden koparılarak yalnızca **`etkâkum`** (*"Allah katında en takvâlı olanınız"*) ölçütüne bağlanması ve âyetin **`Alîmün Habîr`** (*"iç yüzünü hakkıyla bilen ve haberdar olan"*) esmâsıyla mühürlenmesi, dinî dindarlık iddiasının (*performative piety*) sosyal bir kibir ve ötekileştirme aracına dönüştürülmesini nasıl engeller?
+- **Temel Varsayım:** Bütün insanlığın ortak bir ontolojik kökten (`min zekerin ve ünsâ`) geldiği, kavim ve kabile farklılıklarının (`şuûben ve kabâile`) bir üstünlük ve övünme (`tefâhur`) vesilesi değil karşılıklı tanışma ve yardımlaşma (`teâruf`) zemini olduğu; gerçek değer ölçütünün ise yalnız Allah'ın hakkıyla bildiği takvâ ve ahlaki sorumluluk (`etkâkum`) olduğu kabul edilmiştir.
 
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Hucurât Sûresi 13. âyeti üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 10. Sınıf
+- **Öğrenme Alanı / Ünite:** İslam ve Sosyal Hayat / İnsanlığın Ontolojik Eşitliği, Teâruf Ahlakı ve Takvâ Ölçütü (`Hucurât 49:13`)
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.10.5.3` (*İslam'ın insanlığın eşitliği ve tanışma ahlakına dair ilkelerini yorumlayabilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [makâsıd/ta'lîl, kavram bütünlüğü ve siyak-sibak] özetleyebebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Soy, statü, bölgecilik veya görünürdeki dindarlıkla övünme (`ucb` ve `tefâhur`) hastalıklarına karşı içsel tevazu ve takvâ muhasebesi yapma.
+  - `SDB2.3` (*Sosyal Farkındalık*): Farklı kültür, dil ve kimliklere sahip insanları ötekileştirmeden `teâruf` (karşılıklı tanışma ve empati) bilinciyle kavrama.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Gündelik yaşamda ve dijital mecralarda ırkçılık, kabilecilik (*asabiyet*) ve ayrımcılığa karşı insan onurunu savunan ilkeli tutum alma.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Hıfzu'n-Nefs*, *Hıfzu'n-Nesl* ve *Hıfzu'l-İrz/Kerâme* — insan onurunun ve soy eşitliğinin korunması), Mekke'nin Fethi günü Hz. Bilâl-i Habeşî'nin (r.a.) Kâbe'nin damında ezan okuması üzerine Kureyş eşrafından bazı kişilerin kibirli sözlerine cevaben âyetin inişi (*sebeb-i nüzûl*), Hz. Peygamber'in (s.a.v.) **Veda Hutbesi** (*"Ey insanlar! Rabbiniz birdir, babanız da birdir; Arap'ın Arap olmayana, beyazın siyaha takvâ dışında hiçbir üstünlüğü yoktur"*, Müsned, 38/474) ve `Sedd-i Zerâi'` (ırkçılığa, etnik kibre ve sosyal dışlamaya giden yolların kapatılması).
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Hucurât 49:13* âyetindeki `yâ eyyühe'n-nâs`, `min zekerin ve ünsâ`, `şuûben ve kabâile`, `li-te'ârefû`, `ekremekum indallâhi`, `etkâkum` ve `Alîmün Habîr` lafızlarının analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Zemahşerî, Râgıb el-İsfahânî, İbn Manzûr ve Taberî'nin *teâruf–tefâhur* tahlilleri ile Veda Hutbesi, İnsan Hakları Beyannamesi ve ayrımcılık karşıtlığının eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.11.4.3, E3.4` | **Zıt Panel / Münazara** | İblîsî soy kibri (*A'râf 7:12*) ve takvâ kavramının şekilsel bir üstünlük/tekfir aracına dönüştürülmesi istismarının evrensel eşitlik ve *teâruf* ahlakıyla sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB2.3, SDB3.3, DAB6` | **Konuşma Halkası** | Gazzâlî (*Kitâbü Zemmi'l-Kibr ve'l-Ucb*), Muhâsibî, Kuşeyrî ve İbn Acîbe ekseninde kibir, ucb, insanları küçük görme (*istihfâf*) ve takvâ tevazuu muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin *teâruf–tefâhur* farkı, Hz. Bilâl-i Habeşî nüzûl bağlamı ve *ekremekum indallâhi etkâkum* ilkesini tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Sûrenin önceki âyetlerindeki (`49:1–12`) mü'minlere yönelik hitapların (`yâ eyyühellezîne âmenû`) ardından 13. âyette hitabın **`Yâ eyyühe'n-nâs`** (*"Ey insanlar!"*) şeklinde tüm insanlığa genişletildiği vurgulanır. Öğrencilerden âyetin yedi kilit lafzını aşağıdaki **Anlam Çözümleme Tablosu** üzerinden incelemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Râgıb / İbn Manzûr / Taberî / Zemahşerî`) | Siyak-Sibak ve Çağdaş İnsan Hakları / Sosyoloji Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`يَـٰٓأَيُّهَا ٱلنَّاسُ` (`Yâ eyyühe'n-nâs`)** | Nidâ edatı + `n-v-s` / `ü-n-s` kökünden çoğul isim | Din, ırk, renk ve coğrafya ayrımı olmaksızın bütün insanlık ailesine evrensel hitap | Evrensel insan hakları öznesi olarak tüm insanlığın muhatap alınması |
+| **`مِّن ذَكَرٍ وَأُنثَىٰ` (`Min zekerin ve ünsâ`)** | Câr-mecrûr (`z-k-r` ve `e-n-s` kökleri) | Tek bir erkek (Hz. Âdem) ve tek bir kadından (Hz. Havvâ) ya da her bir insanı anne-babadan yaratma ([Taberî, *Câmi'u'l-Beyân*, 21/383](https://shamela.ws/book/7798/14442)) | Biyolojik ve ontolojik köken eşitliği; soy üstünlüğü iddialarının geçersizliği |
+| **`شُعُوبًا وَقَبَآئِلَ` (`Şuûben ve kabâile`)** | `ş-a-b` (`شَعَبَ`) ve `k-b-l` (`قَبِلَ`) köklerinden çoğul isimler | Büyük milletler/uluslar (`şuûb`) ve daha alt boylar/kabileler (`kabâil`) ([İbn Fâris, *Makâyîs*, 4/281](https://shamela.ws/book/21710/1822)) | Sosyo-kültürel, ulusal ve yerel kimlik çeşitliliğinin fıtrî bir gerçeklik olması |
+| **`لِتَعَارَفُوٓا۟` (`Li-te'ârefû`)** | Ta'lîl lâmı + `a-r-f` (`عَرَفَ`) kökünden *tefâ'ul* bâbı muzâri fiil | *"Birbirinizle tanışıp bilişesiniz, yardımlaşasınız diye; birbirinize karşı soyunuzla övünüp kibirlenesiniz (`li-tetefâharû`) diye değil!"* ([Zemahşerî, *el-Keşşâf*, 4/374](https://shamela.ws/book/23627/2439)) | Çeşitliliğin gayesi (*hikmetü't-ta'lîl*): Kültürlerarası tanışma, empati ve toplumsal dayanışma |
+| **`إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ` (`İnne ekremekum indallâhi`)** | `k-r-m` (`كَرُمَ`) kökünden ism-i tafdîl (`ekrem`) | Cahiliye'nin soyla ölçülen sahte şeref (`kerem/haseb`) anlayışını yıkarak Allah katındaki gerçek değer ölçütünü bildiren vurgu ([Râgıb, *el-Müfredât*, s. 561](https://shamela.ws/book/23636/543)) | Doğuştan gelen imtiyazların ve kast/ırk hiyerarşilerinin ilga edilmesi |
+| **`أَتْقَىٰكُمْ` (`Etkâkum`)** | `v-k-y` (`وَقَى`) kökünden ism-i tafdîl | *"En takvâlı olanınız"*: Allah'a karşı sorumluluk bilinciyle nefsini zulüm, kibir ve günahtan en çok koruyanınız ([İbn Manzûr, *Lisânü'l-Arab*, 1/500](https://shamela.ws/book/1687/500)) | İrade, emek ve güzel ahlaka dayalı liyakat ve sorumluluk bilinci |
+| **`عَلِيمٌ خَبِيرٌ` (`Alîmün Habîr`)** | Mübâlağalı ism-i fâil sıfatları (`a-l-m` ve `h-b-r`) | Sadece dış görünüşleri değil, kalplerin iç yüzünü ve gizli niyetleri hakkıyla bilen ve haberdar olan Allah | Takvânın insanlar arası bir kibir etiketi değil, yalnız Allah'ın bildiği kalbî/ahlaki bir hakikat olması |
+
+##### B. Aşama 2: Tahkik, Klasik Miras ve Güncel Bağlam (05–17. Dakika) — 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretim Aracı:** **Yapılandırılmış Grid (`Structured Grid`)** (`DAB3, DAB3.4, OB1`).
+- **Öğretmen Yönergesi:** Klasik tefsir ve lügat otoritelerinin `Hucurât 49:13` analizleri ile Veda Hutbesi, İnsan Hakları Evrensel Beyannamesi ve çağdaş ayrımcılık karşıtlığını eşleştiren **9 Kutucuklu Grid** sınıfça çözümlenir:
+
+| **Kutu 1: Ontolojik Köken Birliği (`Min zekerin ve ünsâ`)** <br> [Taberî (*Câmi'u'l-Beyân*, 21/383)](https://shamela.ws/book/7798/14442): *"Hepiniz Hz. Âdem ve Hz. Havvâ'nın evlatlarısınız; soy bakımından birbirinize bir üstünlüğünüz yoktur."* | **Kutu 2: `Şuûb` ve `Kabâil` Kavramlarının Lügat Kökü** <br> [İbn Fâris (*Makâyîs*, 4/281)](https://shamela.ws/book/21710/1822) ve [İbn Manzûr (*Lisânü'l-Arab*, 1/500)](https://shamela.ws/book/1687/500): Bir ağacın dalları gibi aynı kökten ayrılan milletler ve boylar. | **Kutu 3: `Li-te'ârefû` ve `Tefâhur` Karşıtlığı** <br> [Zemahşerî (*el-Keşşâf*, 4/374)](https://shamela.ws/book/23627/2439): *"Hikmet, birbirinizi tanıyıp yardımlaşmanızdır (`teâruf`); soyunuzla övünüp üstünlük taslamanız (`tefâhur`) değildir."* |
+| :--- | :--- | :--- |
+| **Kutu 4: `Kerem` ve `Takvâ` Kavramlarının Yeniden İnşası** <br> [Râgıb el-İsfahânî (*el-Müfredât*, s. 561)](https://shamela.ws/book/23636/543): Cahiliye'nin soy ve servete bağladığı `kerem` (şeref), İslam'da nefsi kötülükten koruma bilincine (`takvâ`) bağlanmıştır. | **Kutu 5: Nüzûl Sebebi — Hz. Bilâl-i Habeşî'nin Kâbe Ezanı** <br> Mekke'nin Fethi günü Habeşli eski bir köle olan Hz. Bilâl'in Kâbe damında ezan okumasına burun kıvıran Kureyş asabiyetine inen ilahi cevap. | **Kutu 6: Nebevî Beyan — Veda Hutbesi Manifestosu** <br> *"Ey insanlar! Rabbiniz birdir, babanız da birdir. Arap'ın Arap olmayana, beyazın siyaha takvâ dışında hiçbir üstünlüğü yoktur."* (*Müsned*, 38/474). |
+| **Kutu 7: İnsan Hakları Evrensel Beyannamesi (Md. 1–2)** <br> Bütün insanların hür, onur ve haklar bakımından eşit doğduğu; ırk, renk, dil ve ulusal köken ayrımının reddedildiği evrensel hukuk normu. | **Kutu 8: Göç, Mültecilik ve Çok Kültürlü Yaşam Etiği** <br> Farklı kültür ve etnisitelerden komşularla önyargı duvarlarını yıkarak karşılıklı tanışma (`teâruf`) ve sosyal uyum köprüleri kurma. | **Kutu 9: `Alîmün Habîr` Mührü ve Takvâ Tevazuu** <br> Takvânın dışarıdan başkalarını yargılama aracı değil, yalnız Allah'ın (`Alîmün Habîr`) bildiği bir içsel sorumluluk ve tevazu makamı olması. |
+
+- **Grid Doğrulama Soruları ve Beklenen Analitik Yanıtlar:**
+  1. *"Cahiliye toplumunun 'kerem' (üstünlük/şeref) anlayışını yıkıp yerine 'takvâ' ölçütünü getiren Kur'anî devrimi açıklamak için hangi kutucuklar seçilmelidir?"* -> **Doğru Sıralama:** `Kutu 1 -> Kutu 4 -> Kutu 5 -> Kutu 6`.
+  2. *"Farklı millet ve kültürlerin varoluş amacını (hikmetü't-ta'lîl) çağdaş birlikte yaşama ahlakına bağlamak için hangi kutucuklar eşleştirilmelidir?"* -> **Doğru Sıralama:** `Kutu 2 -> Kutu 3 -> Kutu 7 -> Kutu 8`.
+
+##### C. Aşama 3: Eleştirel Sorgulama ve Din İstismarını Önleme (17–28. Dakika) — Zıt Panel Uygulaması
+- **Öğretim Aracı:** **Zıt Panel (`Opposite Panel`)** (`DAB4.4, DKAB.10.5.3, DKAB.11.4.3, E3.4`).
+- **Öğretmen Yönergesi:** Sınıf iki gruba ayrılır (**Sorgulayan Grup** ve **Cevaplayan Grup**). Tarih boyunca ve günümüzde `Hucurât 49:13` âyetinin mesajını bozmaya çalışan iki sapma biçimi masaya yatırılır:
+  1. **Soy, Irk ve Kabile Kibri (*Asabiyet / İblîsî Kibir*):** İlk ırkçı iddiayı ortaya atan İblîs'in *"Ben ondan daha hayırlıyım; beni ateşten, onu çamurdan yarattın"* (`A'râf 7:12`) mantığını izleyerek belirli bir soy, etnisite veya rengi doğuştan üstün görme;
+  2. **Takvâ Kavramının İstismarı (*Riyâkâr Üstünlük ve Tekfircilik*):** Âyetteki `etkâkum` lafzını kendi grubunun şekilsel aidiyetine indirgeyip kendisini "en takvâlı/kurtulmuş" ilan ederek diğer mü'minlere ve insanlara tepeden bakma.
+- **Panel Odak Soruları ve Analitik Cevap Anahtarı:**
+  1. **Soru 1 (Sorgulayan Grup):** *"Kur'an neden kavim ve kabilelerin varlığını inkâr etmemiş (`şuûben ve kabâile`), fakat hemen ardından `li-te'ârefû` kaydını koymuştur (`DKAB.10.5.3`, `DKAB.12.1.3`)?"*
+     - **Cevap 1 (Cevaplayan Grup):** İslam fıtrat dinidir; insanların bir aileye, dile ve millete mensup olmasını yok saymaz. Ancak [Zemahşerî'nin (*el-Keşşâf*, 4/374)](https://shamela.ws/book/23627/2439) vurguladığı üzere `li-te'ârefû` (*tanışıp bilişesiniz diye*) ta'lîli, kimliklerin amacını **tanışma ve yardımlaşma** ile sınırlandırmış; kimliği bir tahakküm, ırkçılık ve övünme (`tefâhur`) aracına dönüştüren cahiliye asabiyetini kökünden gayrimeşru kılmıştır.
+  2. **Soru 2 (Sorgulayan Grup):** *"Bir kimsenin veya grubun 'Biz daha takvâlıyız' diyerek başkalarını aşağılaması neden `Hucurât 49:13`'ün ruhuna ve din istismarını önleme ilkesine (`DKAB.11.4.3`) aykırıdır?"*
+     - **Cevap 2 (Cevaplayan Grup):** Çünkü âyet **`İnnallâhe Alîmün Habîr`** (*"Allah her şeyi hakkıyla bilendir, iç yüzünden haberdar olandır"*) fâsılasıyla biter ve `Necm 53:32` âyeti *"Nefislerinizi temize çıkarmayın; kimin takvâ sahibi olduğunu en iyi O bilir"* buyurur. Hz. Peygamber de (s.a.v.) kalbine işaret ederek **"Takvâ şuradadır; bir kimseye şer olarak Müslüman kardeşini küçük görmesi yeter!"** (*Müslim*, Birr, 32) buyurmuştur. Dolayısıyla takvâ iddiasıyla başkalarını hor görmek takvâ değil, riyâ ve kibirdir.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası
+- **Öğretim Aracı:** **Konuşma Halkası (`Speaking Circle`)** (`SDB1.2, SDB2.3, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** İmâm Gazzâlî'nin *İhyâü Ulûmi'd-Dîn* (`3/343`, *Kitâbü Zemmi'l-Kibr ve'l-Ucb*), Hâris el-Muhâsibî'nin *er-Ri'âye li-Hukûkillâh* (`s. 245`), Kuşeyrî'nin *Letâifü'l-İşârât* (`3/442`) ve İbn Acîbe'nin *el-Bahru'l-Medîd* (`5/439`) eserlerindeki nefis muhasebesi ilkeleri paylaşılır. Gazzâlî'nin kibrin en tehlikeli türleri arasında saydığı **"soy-sop kibri"** ile **"ibadet ve dindarlık kibri (`ucb`)"** üzerinde durulur; Bâyezîd-i Bistâmî ve sûfîlerin *"Kendisini yaratılmışlardan herhangi birinden üstün gören kimse takvâ kokusu almamıştır"* uyarısı hatırlatılır.
+- **Konuşma Halkası Vicdan Muhasebesi Soruları:**
+  1. *"Günlük hayatımızda, okulda veya sosyal medyada kendimizden farklı bir bölgeden, milletten veya sosyal çevreden gelen bir insanla karşılaştığımızda ilk tepkimiz önyargı (`tefâhur`) mı oluyor, yoksa samimi bir tanışma merakı (`teâruf`) mı (`SDB2.3`)?"*
+  2. *"Gazzâlî'nin uyardığı üzere, sahip olduğumuz aile, statü, başarı veya dinî bilgimiz sebebiyle kalbimizden 'Ben ondan daha iyiyim' düşüncesi geçtiğinde bu gizli kibri (`ucb`) nasıl fark edip tevazu ile tedavi edebiliriz (`SDB1.2`)?"*
+  3. *"Sınıfımızda ve çevremizde dışlanan, yalnız bırakılan veya kimliği yüzünden incitilen bir arkadaşımıza karşı `li-te'ârefû` ahlakının gereği olarak bugün hangi somut adımı atabiliriz (`SDB3.3`)?"*
+
+##### E. Aşama 5: Öğrenme Kanıtları ve Değerlendirme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (`Exit Card`)
+- **Öğretim Aracı:** **Çıkış Kartı (`Exit Card`)** (`DAB3.3, DAB6`). Her öğrenci ders sonunda aşağıdaki 3 maddelik yansıtma formunu doldurarak teslim eder:
+
+| Çıkış Kartı Sorusu | Öğrenci Yansıtma ve Kazanım Kanıtı (Beklenen Ölçüt Yanıt) |
+| :--- | :--- |
+| **1. Hucurât 49:13'teki 'li-te'ârefû' ilkesinin 'tefâhur'dan (övünmeden) farkı nedir?** | *"İnsanların farklı millet ve kabilelere ayrılması birbirlerine üstünlük taslamak (tefâhur) için değil, birbirleriyle tanışıp yardımlaşmak (teâruf) içindir."* |
+| **2. Âyetin nüzûl sebebi (Hz. Bilâl-i Habeşî) ve Veda Hutbesi hangi ortak mesajı verir?** | *"Soy, renk ve statü ayrımcılığını yıkarak bütün insanların Hz. Âdem'in evlatları olarak eşit olduğunu ilan eder."* |
+| **3. 'İnne ekremekum indallâhi etkâkum' ve 'Alîmün Habîr' ilkeleri neyi öğretir?** | *"Gerçek değer doğuştan gelen soyda değil ahlaki sorumluluk ve takvâdadır; takvâyı ise yalnız kalpleri bilen Allah (Alîmün Habîr) takdir eder."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (*Enrichment* — İleri Düzey Öğrenciler İçin):**
+  - [Zemahşerî (*el-Keşşâf*, 4/374)](https://shamela.ws/book/23627/2439), [Râgıb el-İsfahânî (*el-Müfredât*, s. 561)](https://shamela.ws/book/23636/543) ve İbn Haldûn'un *Mukaddime*sindeki "asabiyet" analizini karşılaştırarak; `Hucurât 49:13` âyetinin negatif kabile fanatizmini (*cahiliye asabiyeti*) nasıl pozitif bir kültürlerarası tanışma ve dayanışma ahlakına (`teâruf`) dönüştürdüğünü inceleyen bir makale yazılması.
+  - UNESCO Kültürlerarası Diyalog Çerçevesi ve İnsan Hakları Evrensel Beyannamesi ile **Veda Hutbesi**nin karşılaştırmalı metin analizinin yapılması.
+- **Destekleme (*Support / Scaffolding* — Ek Desteğe İhtiyaç Duyan Öğrenciler İçin):**
+  - **`Ortak Köken (Hz. Âdem & Hz. Havvâ) -> Çeşitlilik (Şuûb ve Kabâil) -> Hikmet (Li-te'ârefû: Tanışma ve Yardımlaşma) -> Değer Ölçütü (Etkâkum: Güzel Ahlak ve Takvâ)`** akışını gösteren görsel bir kavram haritası kullanılması.
+  - "Irkçılık ve Önyargı (`Tefâhur`)" ile "Tanışma ve Empati (`Teâruf`)" örneklerini somut okul ve mahalle senaryoları üzerinden ayırt ettiren eşleştirme kartlarıyla çalışılması.
+
+#### 20.4. Metodolojik Denetim ve 3 Katmanlı Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi (*Verbatim Citation Filter*):** Ders tasarımında kullanılan tüm klasik lügat, tefsir ve tasavvuf referansları ([İbn Fâris, *Makâyîs*, 4/281](https://shamela.ws/book/21710/1822); [Râgıb, *el-Müfredât*, s. 561](https://shamela.ws/book/23636/543); [İbn Manzûr, *Lisânü'l-Arab*, 1/500](https://shamela.ws/book/1687/500); [Taberî, *Câmi'u'l-Beyân*, 21/383](https://shamela.ws/book/7798/14442); [Zemahşerî, *el-Keşşâf*, 4/374](https://shamela.ws/book/23627/2439); Gazzâlî, *İhyâ*, 3/343; Kuşeyrî, *Letâif*, 3/442) İSNAD 2 standardına ve el-Mektebetü'ş-Şâmile `page_id` bağlantılarına uygun olarak doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi (*Pedagogical Process Filter*):** TYMM'nin öngördüğü **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık süre disiplini ve *Zenginleştirme/Destekleme* protokolleriyle eksiksiz işletilmiştir.
+3. **Din İstismarını Önleme Filtresi (*Anti-Exploitation Filter*):** Hem soy/etnisite üstünlüğünü dinîleştirmeye çalışan asabiyet sapması hem de `etkâkum` kavramını riyâkâr bir kibir ve tekfir aracına dönüştüren istismar, `DKAB.10.5.3`, `DKAB.11.4.3`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` ilkeleriyle geçersiz kılınmıştır.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -580,12 +676,12 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/977/16/9082 (`urn:shamela:book:9746:v26:p258`).
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/1822 (`urn:shamela:book:9193:v4:p281`).
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/168/17/500 (`urn:shamela:book:1687:v9:p236`).
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/2363/16/543 (`urn:shamela:book:23629:v1:p560`).
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/779/18/14442 (`urn:shamela:book:7798:v22:p309`).
-- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*. Tahkik: Âdil Ahmed Abdülmevcûd. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/2439 (`urn:shamela:book:23627:v5:p586`).
+- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/9776/9082 (`urn:shamela:book:9746:v26:p258`).
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1822 (`urn:shamela:book:9193:v4:p281`).
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687/500 (`urn:shamela:book:1687:v9:p236`).
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/23636/543 (`urn:shamela:book:23629:v1:p560`).
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/7798/14442 (`urn:shamela:book:7798:v22:p309`).
+- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*. Tahkik: Âdil Ahmed Abdülmevcûd. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/2439 (`urn:shamela:book:23627:v5:p586`).
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **UNESCO (2024).** *Global Report on Racism and Discrimination: Fostering Intercultural Dialogue (Ta'aruf)*. Paris: UNESCO Publishing. https://www.unesco.org

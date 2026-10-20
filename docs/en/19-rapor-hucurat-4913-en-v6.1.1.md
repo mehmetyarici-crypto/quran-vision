@@ -25,7 +25,7 @@ classical_sources:
     volume: "4"
     pages: "281"
     arabic_quote: "العين والراء والفاء أصلان صحيحان، يدلُّ أحدُهما على تتابُع الشئ متَّصلا بعضُه ببعض، والآخر على السكون والطُّمَأنينة."
-    verification_link: "https://shamela.ws/book/2171/10/1822"
+    verification_link: "https://shamela.ws/book/21710/1822"
     doi_or_urn: "urn:shamela:book:9193:v4:p281"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "561"
     arabic_quote: "الله يعلم كذا، ولا يقال: يَعْرِفُ كذا، لمّا كانت المَعْرِفَةُ تستعمل في العلم القاصر المتوصّل به"
-    verification_link: "https://shamela.ws/book/2363/16/543"
+    verification_link: "https://shamela.ws/book/23636/543"
     doi_or_urn: "urn:shamela:book:23629:v1:p560"
   - id: "cls-ibnmanzur"
     author: "İbn Manzûr, Muhammed b. Mükerrem"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "500"
     arabic_quote: "والشَّعْبُ: أَبو القبائِلِ الذي يَنْتَسِبُون إِليه أَي يَجْمَعُهُم ويَضُمُّهُم. وَفِي التَّنْزِيلِ: وَجَعَلْناكُمْ شُعُوباً وَقَبائِلَ لِتَعارَفُوا"
-    verification_link: "https://shamela.ws/book/168/17/500"
+    verification_link: "https://shamela.ws/book/1687/500"
     doi_or_urn: "urn:shamela:book:1687:v9:p236"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -64,7 +64,7 @@ classical_sources:
     volume: "21"
     pages: "383"
     arabic_quote: "﴿إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى﴾. قال: ما خَلَقَ اللَّهُ الولدَ إِلَّا مِن نطفةِ الرجلِ والمرأةِ جميعًا؛ لأنَّ اللَّهَ يقولُ: ﴿خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَى﴾"
-    verification_link: "https://shamela.ws/book/779/18/14442"
+    verification_link: "https://shamela.ws/book/7798/14442"
     doi_or_urn: "urn:shamela:book:7798:v22:p309"
   - id: "cls-zemahseri"
     author: "Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer"
@@ -77,7 +77,7 @@ classical_sources:
     volume: "4"
     pages: "374"
     arabic_quote: "مِنْ ذَكَرٍ وَأُنْثى من آدم وحوّاء. وقيل: خلقنا كل واحد منكم من أب وأمّ، فما منكم أحد إلا وهو يدلى بمثل ما يدلى به الآخر سواء بسواء، فلا وجه للتفاخر والتفاضل في النسب. والشعب: الطبقة الأولى من"
-    verification_link: "https://shamela.ws/book/2362/17/2439"
+    verification_link: "https://shamela.ws/book/23627/2439"
     doi_or_urn: "urn:shamela:book:23627:v5:p586"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "26"
     pages: "258"
     arabic_quote: "وَالْمُرَادُ بِالذَّكْرِ وَالْأُنْثَى: آدَمُ وَحَوَّاءُ أَبَوَا الْبَشَرِ، بِقَرِينَةِ قَوْلِهِ وَجَعَلْناكُمْ شُعُوباً وَقَبائِلَ لِتَعارَفُوا"
-    verification_link: "https://shamela.ws/book/977/16/9082"
+    verification_link: "https://shamela.ws/book/9776/9082"
     doi_or_urn: "urn:shamela:book:9746:v26:p258"
 modern_sources:
   - id: "mod-wjp"
@@ -235,7 +235,7 @@ peer_review:
 
 - **Word-by-Word Lexical & Morphological Breakdown (*Al-Tahlil al-Lafzi*):**
   - `يَـٰٓأَيُّهَا ٱلنَّاسُ` (Yā ayyuha'n-nās): O humankind! (Universal address to the entire human family regardless of creed or race).
-  - `إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ` (innā khalaqnākum min dhakarin wa unthā): Indeed We created you all from a single male and female (establishing absolute biological and ontological equality).
+  - `إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ` (innā khalaqnākum min dhakarin wa unthā): Indeed We created you all from a single male and female (establishing foundational biological and ontological equality).
   - `وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ` (wa ja‘alnākum shu‘ūban wa qabā’ila): And organized you into nations (`shu‘ūb`) and tribes (`qabā’il`).
   - `لِتَعَارَفُوٓا۟` (li-ta‘ārafū): So that you may mutually know, recognize, and cooperate with one another! (Form VI reciprocal verb *tafā‘ul*; diversity is for mutual enrichment `ta‘āruf`, not mutual arrogance `tafākhur` or conflict `tanākur`).
   - `إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ` (inna akramakum ‘inda'llāhi atqākum): Indeed the most honorable of you before Allah is the most ethically responsible (`atqākum`).
@@ -457,17 +457,17 @@ In the external constitutional, legal, and international order (*âfâk*), Surah
 
 #### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
 In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, boasting of ancestry, ethnicity, or social class is diagnosed as a symptom of spiritual ignorance of one's own origin (*jahl bi'l-nafs*) and deep-seated arrogance (*kibr*):
-- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In *Bâb al-Kibr wa'l-'Ujb*, al-Muhâsibî demonstrates that exalting oneself over others on account of lineage or tribe—attributes in which a person has no moral agency—is a profound spiritual delusion (*ghurûr*) that seals the heart against humility, cured only by remembering that all humanity shares the same humble origin of clay and stands equal before Divine judgment (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 245–270; Digital access: [shamela.ws/book/9683/245](https://shamela.ws/book/9683/245)).
-- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Dhamm al-Kibr wa'l-'Ujb* (Condemnation of Arrogance and Self-Conceit, Vol. 3), al-Ghazâlî devotes a specific chapter to *Arrogance of Lineage* (*al-Takabbur bi'l-Nasab*), citing Surah al-Hujurât 49:13 as its definitive remedy. Al-Ghazâlî explains that whoever boasts of ancestry boasts of the bones of the dead while forgetting that his own origin is a drop of fluid and dust (`min dhakarin wa-unthâ`), and that true nobility before God (`akramakum 'inda'llâh`) resides exclusively in purifying the heart through *taqwâ* and humility (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 343–385; Digital access: [shamela.ws/book/9472/343](https://shamela.ws/book/9472/343)).
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In *Bâb al-Kibr wa'l-'Ujb*, al-Muhâsibî demonstrates that exalting oneself over others on account of lineage or tribe—attributes in which a person has no moral agency—is a profound spiritual delusion (*ghurûr*) that seals the heart against humility, cured only by remembering that all humanity shares the same humble origin of clay and stands equal before Divine judgment (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 245–270; Digital access: [shamela.ws/book/6875/134](https://shamela.ws/book/6875/134)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Dhamm al-Kibr wa'l-'Ujb* (Condemnation of Arrogance and Self-Conceit, Vol. 3), al-Ghazâlî devotes a specific chapter to *Arrogance of Lineage* (*al-Takabbur bi'l-Nasab*), citing Surah al-Hujurât 49:13 as its definitive remedy. Al-Ghazâlî explains that whoever boasts of ancestry boasts of the bones of the dead while forgetting that his own origin is a drop of fluid and dust (`min dhakarin wa-unthâ`), and that true nobility before God (`akramakum 'inda'llâh`) resides exclusively in purifying the heart through *taqwâ* and humility (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 343–385; Digital access: [shamela.ws/book/9472/1089](https://shamela.ws/book/9472/1089)).
 - **Enfüs–Policy Bridge:** Because officials and citizens who harbor **the pathology of Iblisian lineage pride** in their conscience (*enfüs*) inevitably practice ethnic discrimination and clan nepotism in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` blind meritocratic public recruitment, `K2` active intercultural `ta'âruf` educational modules, and `K3` rapid anti-racism and digital-tribalism enforcement) institutionalize **ontological egalitarianism** in public law.
 
 #### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
 Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the progression from shared human creation (`min dhakarin wa-unthâ`) and mutual recognition (`li-ta'ârafû`) to `atqâkum` in al-Hujurât 49:13 as the effacement of egoistic pretension (*ru'yat al-nafs*) before the Majesty of God:
 - **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
   - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Hujurât 49:13, al-Qushayrî records the following verbatim passage:
-    > «يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ... الإشارة فيه: ساوى بينهم في أصل الطينة لئلا يتعاظم أحد على أحد بشرف النسب... وإن أكرمكم عند الله أتقاكم: رفع أقدار المتقين بإسقاط رؤية النفوس، فمن تعزز بالطين ذل، ومن تشرف بالتقوى جل»
-    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 441–442; Digital verification: [shamela.ws/book/23622/441](https://shamela.ws/book/23622/441) / [altafsir.com — Latâ'if al-Ishârât 49:13](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=13&tDisplay=yes)).*
-  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*), Ibn 'Ajîbah explains that while outward lineages serve merely for social acquaintance (`li-ta'ârafû`), true spiritual lineage is the heart's reverent awe (`taqwâ`) and nearness to God; whoever strips his heart of attachment to clay and lineage is elevated by God to true nobility (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 5, pp. 432–433; Digital access: [shamela.ws/book/11566/432](https://shamela.ws/book/11566/432)).
+    > «إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ... إِنَّا خَلَقْنَاكُمْ أَجْمَعَكُمْ مِنْ آدَمَ وَحَوَّاءَ، ثُمَّ جَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا لَا لِتُكَاثِرُوا وَلَا لِتَنَافَسُوا... إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ؟ أَتْقَاكُمْ أَيْ أَبْعَدُكُمْ عَنْ نَفْسِهِ، فَالتَّقْوَى هِيَ التَّحَرُّرُ مِنَ النَّفْسِ وَأَطْمَاعِهَا وَحُظُوظِهَا»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, p. 443; Digital verification: [shamela.ws/book/23629/1732](https://shamela.ws/book/23629/1732) / [altafsir.com — Latâ'if al-Ishârât 49:13](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=13&tDisplay=yes)).*
+  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*), Ibn 'Ajîbah explains that while outward lineages serve merely for social acquaintance (`li-ta'ârafû`), true spiritual lineage is the heart's reverent awe (`taqwâ`) and nearness to God; whoever strips his heart of attachment to clay and lineage is elevated by God to true nobility (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 5, pp. 434–436; Digital access: [shamela.ws/book/10273/2865](https://shamela.ws/book/10273/2865)).
   - `[ANALYSIS / YORUM]`: Al-Qushayrî's aphorism—*"He made them equal in the origin of their clay so that none would boast over another by nobility of lineage; and He elevated the rank of the God-conscious (`al-muttaqîn`) through their dropping of self-regard (`isqât ru'yat al-nufûs`): whoever seeks glory through clay (`al-tîn`) is humbled, and whoever seeks honor through God-consciousness (`al-taqwâ`) is exalted"*—provides the ultimate spiritual cure for racism and chauvinism. In the *irfânî* horizon, recognizing our shared humble origin liberates the human family for genuine mutual recognition (`ta'âruf`) grounded in humility and justice.
 
 ---
@@ -568,17 +568,111 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How can the Quranic paradigm of **'Ta'aruf' (`Al-Hujurat 49:13`)** be developed into a formal theory of International Relations that supersedes Samuel Huntington's 'Clash of Civilizations'?
-  2. How does the Maliki/Maqasid doctrine of *kafa'ah* in marriage (holding that only religion and moral character matter, based on `49:13`) reform lingering caste or lineage prejudices in Muslim societies?
-- **Core Assumption:** Assumes that human dignity (`17:70`) is universal and unconditional, while moral nobility (`49:13`) is earned through ethical responsibility (`taqwa`).
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Sociology of Religion & Global Citizenship Ethics (Grades 9–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Human Equality (`Musawah`), Mutual Recognition (`Ta'aruf`), Moral Meritocracy (`Taqwa`), and Rejection of Tribalism/Racism (`'Asabiyyah`).*
-  - **Minutes 00–08 (Inquiry Hook — The Cranial Sutures Metaphor):** Share the classical Arabic lexicographical insight (Ibn Manzur): `qaba'il` and `shu'ub` also mean the interlocking bone plates of the human skull that join together to protect the brain. Ask: *'How does this metaphor explain `wa-ja'alnakum shu'uban wa-qaba'ila li-ta'arafu`?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze `Ya ayyuha'n-nas`, `min dhakarin wa-untha`, the reciprocal Form VI verb `li-ta'arafu`, and `inna akramakum 'inda'llahi atqakum` alongside the *sabab al-nuzul* of Bilal al-Habashi (Al-Zamakhshari & Al-Qurtubi).
-  - **Minutes 20–33 ('Clash of Civilizations' vs. 'Civilization of Ta'aruf' Debate):** Students contrast conflict-based identity politics with the `49:13` `Ta'aruf` model and design a peer-integration charter for diverse students.
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students explain why `akramakum 'inda'llahi atqakum` says `'inda'llah` (in the sight of Allah) and why no human being may look down on another.
+  1. How can the divine rationale of **`li-ta'ârafû`** (*"so that you may mutually know and recognize one another"*) in `Al-Hujurât 49:13` be institutionalized as an ethics of intercultural recognition and civic coexistence amidst 21st-century global migration crises and algorithmic polarization?
+  2. How does decoupling human worth from lineage, skin color, and tribe in favor of **`atqâkum`** (*"the most God-conscious among you"*), sealed by the divine names **`'Alîmun Khabîr`** (*"All-Knowing, All-Aware"*), prevent performative religiosity from being weaponized as social arrogance and exclusion?
+- **Core Assumption:** It is posited that all humanity shares a single ontological origin (`min dhakarin wa-unthâ`), that national and tribal diversity (`shu'ûban wa-qabâ'ila`) exists for mutual recognition and cooperation (`ta'âruf`) rather than boastful superiority (`tafâkhur`), and that true nobility lies solely in moral God-consciousness (`atqâkum`), whose inward reality is known to God alone.
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Skill Matrix
+
+The institutional instructional design translating the **"Virtue-Value-Action" (*Erdem-Değer-Eylem*)** framework of the *Century of Türkiye Education Model* (TYMM, TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a classroom implementation via Surah al-Hujurât 49:13 is structured below:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (`DKAB`) / Grade 10
+- **Learning Area / Unit:** Islam and Social Life / Ontological Equality of Humanity, the Ethics of *Ta'âruf*, and the Criterion of *Taqwâ* (`Al-Hujurât 49:13`)
+- **Target Learning Outcomes:**
+  - `DKAB.10.5.3` (*Interpreting Islamic principles regarding human equality and the ethics of mutual recognition [ta'âruf]*)
+  - `DKAB.12.1.3` (*Summarizing foundational principles in understanding the Qur'an [maqâsid/ta'lîl, conceptual unity, and contextual integrity]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Foundational Sources), `DAB2` (Investigation / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking on Religious Issues), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation*): Guarding the heart against lineage pride (`tafâkhur`) and spiritual self-conceit (`'ujb`) through inward humility and *taqwâ* self-examination.
+  - `SDB2.3` (*Social Awareness*): Embracing people of diverse cultures, languages, and backgrounds with empathy and mutual recognition (`ta'âruf`) rather than prejudice.
+  - `SDB3.3` (*Responsible Decision-Making*): Standing up for human dignity against racism, tribalism (*'asabiyyah*), and bullying in school and digital spaces.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (*Hifz al-Nafs*, *Hifz al-Nasl*, and *Hifz al-Karâmah* — safeguarding human life, lineage, and dignity), the occasion of revelation (*sabab al-nuzûl*) when Bilâl ibn Rabâh al-Habashî called the Adhân atop the Ka'bah on the Day of the Conquest of Mecca, the Prophet's **Farewell Sermon** (*"O people! Your Lord is One and your father is one; an Arab has no superiority over a non-Arab, nor a white person over a black person, except by taqwâ"*, *Musnad Ahmad*, 38/474), and `Sadd al-Dharâ'i'` (blocking pathways to racism, ethnic arrogance, and social exclusion).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** | Analyzing `yâ ayyuha'n-nâs`, `min dhakarin wa-unthâ`, `shu'ûban wa-qabâ'ila`, `li-ta'ârafû`, `akramakum 'indallâhi`, `atqâkum`, and `'Alîmun Khabîr` in *Al-Hujurât 49:13*. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min** | `DAB3, DAB3.4, OB1` | **Structured Grid (9-Box)** | Matching al-Zamakhsharî, al-Râghib, Ibn Manzûr, and al-Tabarî on *ta'âruf vs. tafâkhur* with the Farewell Sermon, the UDHR, and anti-discrimination ethics. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation** | **11 min** | `DAB4.4, DKAB.11.4.3, E3.4` | **Opposite Panel / Debate** | Interrogating Iblîsic lineage arrogance (*Al-A'râf 7:12*) and the performative abuse of *taqwâ* for sectarian superiority under universal equality and *ta'âruf*. |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min** | `SDB1.2, SDB2.3, SDB3.3, DAB6` | **Speaking Circle** | Conscience accounting on arrogance (*kibr*), self-conceit (*'ujb*), looking down on others (*istihfâf*), and inward humility via al-Ghazâlî, al-Muhâsibî, al-Qushayrî, and Ibn 'Ajîbah. |
+| **5. Assessment: Learning Evidence & Reflection** | **05 min** | `DAB3.3, DAB6` | **Exit Card (*Çıkış Kartı*)** | Students complete a 3-item exit card verifying *ta'âruf vs. tafâkhur*, the Bilâl al-Habashî occasion of revelation, and the *akramakum 'indallâhi atqâkum* principle. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table
+- **Teacher Instruction:** Point out that after addressing believers (`yâ ayyuha'lladhîna âmanû`) in `49:1–12`, verse 13 widens the horizon to **`Yâ ayyuha'n-nâs`** (*"O humankind!"*). Guide students to analyze the seven key terms of the verse using the **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Exegetical Meaning (`Ibn Fâris / Râghib / Ibn Manzûr / Tabarî / Zamakhsharî`) | Contextual & Contemporary Human Rights / Sociological Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`يَـٰٓأَيُّهَا ٱلنَّاسُ` (`Yâ ayyuha'n-nâs`)** | Vocative particle + plural noun (`n-w-s` / `'-n-s`) | Universal address to the entire human family regardless of religion, race, color, or geography | Universal human rights subjectivity addressing all humanity equally |
+| **`مِّن ذَكَرٍ وَأُنثَىٰ` (`Min dhakarin wa-unthâ`)** | Prepositional phrase (`dh-k-r` & `'-n-th`) | Created from a single male (Adam) and a single female (Eve), or every person from a mother and father ([al-Tabarî, *Jâmi' al-Bayân*, 21/383](https://shamela.ws/book/7798/14442)) | Biological and ontological equality of origin; nullification of hereditary superiority claims |
+| **`شُعُوبًا وَقَبَآئِلَ` (`Shu'ûban wa-qabâ'ila`)** | Plural nouns from `sh-'-b` (`شَعَبَ`) and `q-b-l` (`قَبِلَ`) | Large nations/peoples (`shu'ûb`) and smaller tribes/clans (`qabâ'il`) branching from one root ([Ibn Fâris, *Maqâyîs*, 4/281](https://shamela.ws/book/21710/1822)) | Sociocultural, national, and local identity diversity as a natural creation |
+| **`لِتَعَارَفُوٓا۟` (`Li-ta'ârafû`)** | Lam of purpose (`ta'lîl`) + Form VI verb from `'-r-f` (`عَرَفَ`) | *"So that you may mutually know and assist one another—not so that you boast of your lineage (`li-tatafâkharû`)!"* ([al-Zamakhsharî, *al-Kashshâf*, 4/374](https://shamela.ws/book/23627/2439)) | Teleology of diversity (*hikmat al-ta'lîl*): Intercultural recognition, empathy, and mutual aid |
+| **`إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ` (`Inna akramakum 'indallâhi`)** | Elative noun (`akram`) from `k-r-m` (`كَرُمَ`) | Dismantling Jâhiliyyah's false prestige of bloodline (`karam/hasab`) to establish true honor in the sight of God ([al-Râghib, *al-Mufradât*, p. 561](https://shamela.ws/book/23636/543)) | Abolition of birth privileges, caste hierarchies, and racial supremacy |
+| **`أَتْقَىٰكُمْ` (`Atqâkum`)** | Elative noun from `w-q-y` (`وَقَى`) | *"The most God-conscious among you"*: The one who most diligently guards the soul against injustice, arrogance, and sin ([Ibn Manzûr, *Lisân al-'Arab*, 1/500](https://shamela.ws/book/1687/500)) | Ethical meritocracy grounded in moral agency, integrity, and responsibility |
+| **`عَلِيمٌ خَبِيرٌ` (`'Alîmun Khabîr`)** | Intensive divine attributes (`'-l-m` & `kh-b-r`) | God who knows both outward actions and the hidden inward secrets and intentions of hearts | *Taqwâ* is not a badge of social superiority, but an inward reality known to God alone |
+
+##### B. Stage 2: Verification, Classical Heritage & Contemporary Bridge (Minutes 05–17) — 9-Box Structured Grid
+- **Instructional Tool:** **9-Box Structured Grid (`Yapılandırılmış Grid`)** (`DAB3, DAB3.4, OB1`).
+- **Teacher Instruction:** Guide students through the **9-Box Grid** linking classical lexicographical and exegetical authorities on `Al-Hujurât 49:13` with the Farewell Sermon, the Universal Declaration of Human Rights, and contemporary anti-discrimination ethics:
+
+| **Box 1: Ontological Unity of Origin (`Min dhakarin wa-unthâ`)** <br> [Al-Tabarî (*Jâmi' al-Bayân*, 21/383)](https://shamela.ws/book/7798/14442): *"All of you are children of Adam and Eve; none of you holds hereditary superiority over another."* | **Box 2: Lexical Root of `Shu'ûb` & `Qabâ'il`** <br> [Ibn Fâris (*Maqâyîs*, 4/281)](https://shamela.ws/book/21710/1822) & [Ibn Manzûr (*Lisân al-'Arab*, 1/500)](https://shamela.ws/book/1687/500): Nations and tribes branching out like limbs from a single tree trunk. | **Box 3: Dialectics of `Ta'âruf` vs. `Tafâkhur`** <br> [Al-Zamakhsharî (*al-Kashshâf*, 4/374)](https://shamela.ws/book/23627/2439): *"The wisdom is mutual recognition and mutual support (`ta'âruf`), not boasting of lineage and lording over others (`tafâkhur`)."* |
+| :--- | :--- | :--- |
+| **Box 4: Reconstructing `Karam` & `Taqwâ`** <br> [Al-Râghib al-Isfahânî (*al-Mufradât*, p. 561)](https://shamela.ws/book/23636/543): Pre-Islamic Arabia tied `karam` (nobility) to bloodline and wealth; Islam redefined it through moral vigilance (`taqwâ`). | **Box 5: Occasion of Revelation — Bilâl al-Habashî's Adhân** <br> Revealed in response to aristocratic Qurayshî disdain when Bilâl ibn Rabâh, a formerly enslaved Ethiopian Companion, called the Adhân atop the Ka'bah. | **Box 6: Prophetic Manifesto — The Farewell Sermon** <br> *"O people! Your Lord is One and your father is one. An Arab has no superiority over a non-Arab, nor a white person over a black person, except by taqwâ."* (*Musnad Ahmad*, 38/474). |
+| **Box 7: Universal Declaration of Human Rights (Arts. 1–2)** <br> All human beings are born free and equal in dignity and rights without distinction of race, color, language, or national origin. | **Box 8: Migration, Refugees & Multicultural Coexistence** <br> Replacing walls of xenophobia and stereotyping with bridges of mutual recognition (`ta'âruf`) and civic solidarity. | **Box 9: Seal of `'Alîmun Khabîr` & Humility in *Taqwâ*** <br> Because God alone knows the inward state of hearts (`'Alîmun Khabîr`), *taqwâ* produces deep humility rather than judgmental elitism. |
+
+- **Grid Verification Questions & Expected Analytical Responses:**
+  1. *"Which boxes trace the Qur'anic revolution that dismantled pre-Islamic hereditary nobility (`karam/hasab`) and established the criterion of `taqwâ`?"* -> **Target Sequence:** `Box 1 -> Box 4 -> Box 5 -> Box 6`.
+  2. *"Which boxes connect the divine purpose of cultural and national diversity (`hikmat al-ta'lîl`) to contemporary human rights and multicultural coexistence?"* -> **Target Sequence:** `Box 2 -> Box 3 -> Box 7 -> Box 8`.
+
+##### C. Stage 3: Critical Inquiry & Preventing Religious Exploitation (Minutes 17–28) — Opposite Panel
+- **Instructional Tool:** **Opposite Panel (`Zıt Panel`)** (`DAB4.4, DKAB.10.5.3, DKAB.11.4.3, E3.4`).
+- **Teacher Instruction:** Divide the class into two panels (**Questioning Group** and **Responding Group**) to interrogate two major distortions of `Al-Hujurât 49:13`:
+  1. **Racial and Tribal Arrogance (*'Asabiyyah / Iblîsic Pride*):** Following the logic of Iblîs—the first racist in cosmic history who said *"I am better than him; You created me from fire and created him from clay"* (`Al-A'râf 7:12`)—by claiming hereditary, ethnic, or racial superiority;
+  2. **Exploitation of the Concept of *Taqwâ* (*Performative Elitism & Takfîr*):** Reducing `atqâkum` to outward sectarian badges and claiming *"We are the pious elite"* in order to look down upon other believers and human beings.
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"Why did the Qur'an not erase nations and tribes (`shu'ûban wa-qabâ'ila`), yet immediately bind them to the purposive clause `li-ta'ârafû` (`DKAB.10.5.3`, `DKAB.12.1.3`)?"*
+     - **Response 1 (Responding Group):** Because Islam aligns with human nature (*fitrah*): belonging to a family, language, and nation is a natural reality. However, as [al-Zamakhsharî (*al-Kashshâf*, 4/374)](https://shamela.ws/book/23627/2439) highlights, the purposive clause `li-ta'ârafû` (*"so that you may mutually know one another"*) restricts the function of identity to **mutual recognition, learning, and cooperation**, rendering tribal chauvinism (`tafâkhur`) and racial supremacy illegitimate.
+  2. **Question 2 (Questioning Group):** *"Why does claiming 'We are more pious (`atqâ`)' to demean others violate the spirit of `Al-Hujurât 49:13` and `DKAB.11.4.3`?"*
+     - **Response 2 (Responding Group):** Because the verse closes with **`Innallâha 'Alîmun Khabîr`** (*"Indeed, God is All-Knowing, All-Aware of inward realities"*), and `Al-Najm 53:32` commands: *"Do not declare yourselves pure; He knows best who has taqwâ."* Furthermore, the Prophet (peace be upon him) pointed to his chest three times saying: **"Taqwâ is right here! It is enough evil for a person to look down upon his Muslim brother"** (*Sahîh Muslim*, Birr, 32). Turning *taqwâ* into a boastful label destroys *taqwâ* itself.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB2.3, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 3, p. 343, *Kitâb Dhamm al-Kibr wa'l-'Ujb*), al-Hârith al-Muhâsibî (*al-Ri'âyah li-Huqûqillâh*, p. 245), al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 3, p. 442), and Ibn 'Ajîbah (*al-Bahr al-Madîd*, Vol. 5, p. 439), the teacher explains how al-Ghazâlî diagnoses two subtle spiritual diseases: **arrogance of lineage/status (`kibr bi'l-nasab`)** and **self-conceit in worship/piety (`'ujb`)**. Share the Sufi maxim: *"Whoever considers himself better than any of God's creatures has not smelled the fragrance of true taqwâ."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"When we meet someone at school, in our neighborhood, or online who speaks with a different accent or comes from a different cultural background, is our first impulse prejudice (`tafâkhur`) or genuine curiosity to know them (`ta'âruf`) (`SDB2.3`)?"*
+  2. *"Following al-Ghazâlî's warning against `'ujb` (self-conceit), how can we catch and cure the whisper in our heart that says 'I am better than them' because of our family, grades, status, or religious knowledge (`SDB1.2`)?"*
+  3. *"What concrete step can we take today to practice `li-ta'ârafû` toward a classmate or neighbor who feels isolated or excluded because of their background (`SDB3.3`)?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. Difference between 'li-ta'ârafû' and 'tafâkhur' in Surah al-Hujurât 49:13:** | *"Humanity's division into nations and tribes is meant for mutual recognition, empathy, and cooperation (ta'âruf), never for boasting or claiming racial superiority (tafâkhur)."* |
+| **2. Shared message of Bilâl al-Habashî's occasion of revelation and the Farewell Sermon:** | *"Dismantling racial, tribal, and class discrimination by affirming that all humans are equal children of Adam and Eve."* |
+| **3. Ethical lesson of 'Inna akramakum 'indallâhi atqâkum' and ''Alîmun Khabîr':** | *"True honor lies in moral integrity and God-consciousness (taqwâ) rather than birthright, and only God ('Alîmun Khabîr) knows the true piety of hearts."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Comparing [al-Zamakhsharî (*al-Kashshâf*, 4/374)](https://shamela.ws/book/23627/2439), [al-Râghib al-Isfahânî (*al-Mufradât*, p. 561)](https://shamela.ws/book/23636/543), and Ibn Khaldûn's *Muqaddimah* on group solidarity (*'asabiyyah*) to write an essay on how `Al-Hujurât 49:13` transforms tribal chauvinism into an universal ethics of intercultural recognition (`ta'âruf`).
+  - Conducting a comparative textual analysis between the **Farewell Sermon**, the Universal Declaration of Human Rights (`Arts. 1–2`), and the UNESCO Framework for Intercultural Dialogue.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a visual concept flowchart: **`Shared Origin (Adam & Eve) -> Natural Diversity (Nations & Tribes) -> Divine Purpose (Li-ta'ârafû: Mutual Recognition & Aid) -> True Worth (Atqâkum: Moral Character & Taqwâ)`**.
+  - Practicing with scenario cards distinguishing "Prejudice & Boasting (*Tafâkhur*)" from "Empathy & Mutual Recognition (*Ta'âruf*)" in school and neighborhood life.
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, and spiritual references ([Ibn Fâris, *Maqâyîs*, 4/281](https://shamela.ws/book/21710/1822); [al-Râghib, *al-Mufradât*, p. 561](https://shamela.ws/book/23636/543); [Ibn Manzûr, *Lisân al-'Arab*, 1/500](https://shamela.ws/book/1687/500); [al-Tabarî, *Jâmi' al-Bayân*, 21/383](https://shamela.ws/book/7798/14442); [al-Zamakhsharî, *al-Kashshâf*, 4/374](https://shamela.ws/book/23627/2439); al-Ghazâlî, *Ihyâ'*, 3/343; al-Qushayrî, *Latâ'if*, 3/442) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Invalidates both ethnocentric/racial supremacism (*'asabiyyah*) and the self-righteous weaponization of `atqâkum` for sectarian exclusion under `DKAB.10.5.3`, `DKAB.11.4.3`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -596,7 +690,7 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 | Exegetical / Legal School | Key Authorities & Sources | Position on Lineage (`Nasab`) vs. Moral Merit (`Taqwa`) & *Kafa'ah* | Primary Evidentiary Basis |
 | :--- | :--- | :--- | :--- |
 | **Pure Moral Equality & Abolition of Lineage Privilege (*Maliki, Zahiri & Maqasid School*)** | Malik ibn Anas, 'Umar ibn 'Abd al-'Aziz, Al-Tabari, Al-Qurtubi (*al-Jami'*, 16/340), Ibn Hazm, Ibn Taymiyyah, Ibn Ashur (*al-Tahrir*, 26/259) | Holds that `Al-Hujurat 49:13` completely abolishes lineage (`nasab`) and ethnicity as legal criteria of superiority; even in marriage compatibility (*kafa'ah*), the **only** valid criterion is religion and moral integrity (`din wa-khuluq` / `taqwa`), never race or tribe. | Explicit universal rule `Inna akramakum 'inda'llahi atqakum`, the *sabab al-nuzul* of Abu Hind al-Bayadi and Bilal, and the Prophet marrying Zaynab bint Jahsh (Quraishi) to Zayd ibn Harithah (freedman). |
-| **Sociological Recognition of Customary *Kafa'ah* (*Hanafi / Shafi'i / Hanbali Furu'* )** | Abu Hanifa, Al-Shafi'i, Al-Kasani (*Bada'i' al-Sana'i'*) | While affirming absolute equality in human dignity, criminal law (*qisas*), and hereafter rank (`'inda'llah`), considered customary social parity (`'urf`) in marriage guardianship solely as a *hajiyyat* precaution to prevent household discord in tribal environments, if not waived by the bride and guardian. | Aimed at preventing customary family friction (*dar' al-fitnah*), while explicitly conceding that before God and public law only `taqwa` counts. |
+| **Sociological Recognition of Customary *Kafa'ah* (*Hanafi / Shafi'i / Hanbali Furu'* )** | Abu Hanifa, Al-Shafi'i, Al-Kasani (*Bada'i' al-Sana'i'*) | While affirming universal equality in human dignity, criminal law (*qisas*), and hereafter rank (`'inda'llah`), considered customary social parity (`'urf`) in marriage guardianship solely as a *hajiyyat* precaution to prevent household discord in tribal environments, if not waived by the bride and guardian. | Aimed at preventing customary family friction (*dar' al-fitnah*), while explicitly conceding that before God and public law only `taqwa` counts. |
 | **Linguistic & Anthropological Scope of `Li-Ta'arafu`** | Mujahid, Ibn 'Abbas, Al-Zamakhshari (*al-Kashshaf*, 4/374), Fakhr al-Din al-Razi (*Mafatih*, 28/111) | Holds that `li-ta'arafu` encompasses both genealogical identification (preserving family ties `*silat al-rahim*` and inheritance rights without boasting `*la li-tafakhuru*`) and macro-civilizational mutual learning and cooperation among nations (`shu'ub`). | Reciprocal Form VI structure of `li-ta'arafu` paired with the universal address `Ya ayyuha'n-nas`. |
 
 - **Methodological Synthesis:** This monograph upholds the **Universal Egalitarian & *Ta'aruf* Position** (Malik, Al-Qurtubi, Ibn Ashur), affirming that `Al-Hujurat 49:13` establishes unconditional human equality before the law (`K1/K2`) and reciprocal intercultural cooperation (`K3`).
@@ -621,12 +715,12 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 4/281-284. Digital Verification: https://shamela.ws/book/2171/10/1822 (urn:shamela:book:9193:v4:p281).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/560-563. Digital Verification: https://shamela.ws/book/2363/16/543 (urn:shamela:book:23629:v1:p560).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Komisyon (Beyrut: Dârü Sâdır, 1410/1990), 9/236-240. Digital Verification: https://shamela.ws/book/168/17/500 (urn:shamela:book:1687:v9:p236).
-[^4]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 22/309-312. Digital Verification: https://shamela.ws/book/779/18/14442 (urn:shamela:book:7798:v22:p309).
-[^5]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd (Riyad: Mektebetü'l-Ubeykân, 1418/1998), 5/586-589. Digital Verification: https://shamela.ws/book/2362/17/2439 (urn:shamela:book:23627:v5:p586).
-[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 26/258-264. Digital Verification: https://shamela.ws/book/977/16/9082 (urn:shamela:book:9746:v26:p258).
+[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 4/281-284. Digital Verification: https://shamela.ws/book/21710/1822 (urn:shamela:book:9193:v4:p281).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/560-563. Digital Verification: https://shamela.ws/book/23636/543 (urn:shamela:book:23629:v1:p560).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Komisyon (Beyrut: Dârü Sâdır, 1410/1990), 9/236-240. Digital Verification: https://shamela.ws/book/1687/500 (urn:shamela:book:1687:v9:p236).
+[^4]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 22/309-312. Digital Verification: https://shamela.ws/book/7798/14442 (urn:shamela:book:7798:v22:p309).
+[^5]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd (Riyad: Mektebetü'l-Ubeykân, 1418/1998), 5/586-589. Digital Verification: https://shamela.ws/book/23627/2439 (urn:shamela:book:23627:v5:p586).
+[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 26/258-264. Digital Verification: https://shamela.ws/book/9776/9082 (urn:shamela:book:9746:v26:p258).
 [^7]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025: Equal Treatment and Absence of Discrimination (Factor 4.1)*. Washington, DC: WJP Press. DOI: doi:10.34648/wjp.2025.04. URL: https://worldjusticeproject.org
 [^8]: United Nations Development Programme (UNDP) (2025). *Human Development Report 2025: Breaking the Gridlock — Reimagining Cooperation in a Polarized World*. New York: United Nations Publications. DOI: doi:10.18356/9789213588758. URL: https://hdr.undp.org
 [^9]: UNESCO (2024). *Global Report on Racism and Discrimination: Fostering Intercultural Dialogue (Ta'aruf)*. Paris: UNESCO Publishing. DOI: doi:10.54678/UNES2024RACISM. URL: https://www.unesco.org

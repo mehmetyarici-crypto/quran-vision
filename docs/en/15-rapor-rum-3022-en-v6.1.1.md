@@ -23,7 +23,7 @@ classical_sources:
     volume: "3"
     pages: "473"
     arabic_quote: "الألسنة: اللغات. أو أجناس النطق وأشكاله. خالف عزّ وعلا بين هذه الأشياء حتى لا تكاد تسمع منطقين متفقين في همس واحد، ولا جهارة، ولا حدّة، ولا رخاوة، ولا فصاحة، ولا لكنة، ولا نظم"
-    verification_link: "https://shamela.ws/book/2362/17/1921"
+    verification_link: "https://shamela.ws/book/23627/1921"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "294"
     arabic_quote: "والمخالفة: أن يأخذ كلّ واحد طريقا غير طريق الآخر في حاله أو قوله، والخِلَاف أعمّ من الضّدّ، لأنّ كلّ ضدّين مختلفان، وليس كلّ مختلفين ضدّين، ولمّا كان الاختلاف بين النّاس في"
-    verification_link: "https://shamela.ws/book/2363/16/276"
+    verification_link: "https://shamela.ws/book/23636/276"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "210"
     arabic_quote: "الخاء واللام والفاء أصولٌ ثلاثة: أحدُها أن يجئَ شئٌ شئِ يقومُ مقامَه، والثانى خِلاف قُدَّام، والثالث التغيُّر"
-    verification_link: "https://shamela.ws/book/2171/10/770"
+    verification_link: "https://shamela.ws/book/21710/770"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "13"
     pages: "385"
     arabic_quote: "وَشَاهِدُ أَلْسِنَةٍ الْجَمْعِ فِيمَنْ ذَكَّرَ قَوْلُهُ تَعَالَى: وَاخْتِلافُ أَلْسِنَتِكُمْ وَأَلْوانِكُمْ"
-    verification_link: "https://shamela.ws/book/168/17/6946"
+    verification_link: "https://shamela.ws/book/1687/6946"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "25"
     pages: "92"
     arabic_quote: "لَمَّا بَيَّنَ دَلَائِلَ الْأَنْفُسِ ذَكَرَ دَلَائِلَ الْآفَاقِ وَأَظْهَرُهَا خلق السموات وَالْأَرْضِ، فَإِنَّ بَعْضَ الْكُفَّارِ يَقُولُ فِي خَلْقِ الْبَشَرِ وَغَيْرِهِ مِنَ"
-    verification_link: "https://shamela.ws/book/2363/15/4497"
+    verification_link: "https://shamela.ws/book/23635/4497"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -433,17 +433,17 @@ In the external constitutional, sociological, and civilizational order (*âfâk*
 
 #### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
 In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, the inability to revere divine signs in human diversity and the impulse to demean other peoples are diagnosed as fruits of the **veil of habitual perception** (*hijâb al-ulfah*) and primordial arrogance (*kibr*):
-- **Abû Tâlib al-Makkî (d. 386/996), *Qût al-Qulûb*:** In his exposition of contemplative knowledge (*ma'rifah*) and reflection (*tafakkur*), al-Makkî explains that while heedless hearts pass by the marvels of creation and human diversity blinded by familiarity (*ulfah*), the people of spiritual knowledge (`al-'âlimîn`) behold in every distinct language, voice, and complexion the inimitable artistry of the Wise Creator (*Sun'ullâh*), which deepens their humility and reverence toward all creation (Abû Tâlib al-Makkî, *Qût al-Qulûb fî Mu'âmalat al-Mahbûb*, Beirut: Dâr al-Kutub al-'Ilmiyyah, Vol. 1, pp. 310–335; Digital access: [shamela.ws/book/9682/310](https://shamela.ws/book/9682/310)).
-- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb al-Tafakkur* and *Kitâb al-Shukr* (Vol. 4), al-Ghazâlî analyzes Surah al-Rûm 30:22 as a supreme proof of Divine Omnipotence: although billions of human beings are fashioned from simple anatomical elements, no two individuals share an identical voice, articulatory timbre (`alsinatikum`), or facial feature (`alwânikum`). Al-Ghazâlî warns that whoever looks upon this miraculous diversity with ethnic arrogance rather than contemplative wonder remains trapped behind the **veil of habitual perception** and reenacts Iblis's primordial sin of material superiority (*"I am better than him"*, 7:12) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 4, pp. 81–120, 423–448; Digital access: [shamela.ws/book/9472/81](https://shamela.ws/book/9472/81)).
+- **Abû Tâlib al-Makkî (d. 386/996), *Qût al-Qulûb*:** In his exposition of contemplative knowledge (*ma'rifah*) and reflection (*tafakkur*), al-Makkî explains that while heedless hearts pass by the marvels of creation and human diversity blinded by familiarity (*ulfah*), the people of spiritual knowledge (`al-'âlimîn`) behold in every distinct language, voice, and complexion the inimitable artistry of the Wise Creator (*Sun'ullâh*), which deepens their humility and reverence toward all creation (Abû Tâlib al-Makkî, *Qût al-Qulûb fî Mu'âmalat al-Mahbûb*, Beirut: Dâr al-Kutub al-'Ilmiyyah, Vol. 1, pp. 302–335; Digital access: [shamela.ws/book/482/296](https://shamela.ws/book/482/296)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb al-Tafakkur* and *Kitâb al-Shukr* (Vol. 4), al-Ghazâlî analyzes Surah al-Rûm 30:22 as a supreme proof of Divine Omnipotence: although billions of human beings are fashioned from simple anatomical elements, no two individuals share an identical voice, articulatory timbre (`alsinatikum`), or facial feature (`alwânikum`). Al-Ghazâlî warns that whoever looks upon this miraculous diversity with ethnic arrogance rather than contemplative wonder remains trapped behind the **veil of habitual perception** and reenacts Iblis's primordial sin of material superiority (*"I am better than him"*, 7:12) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 4, pp. 81–120, 423–448; Digital access: [shamela.ws/book/9472/1240](https://shamela.ws/book/9472/1240)).
 - **Enfüs–Policy Bridge:** Because policymakers whose consciences (*enfüs*) are contracted by ethnocentric pride and habitual blindness inevitably treat linguistic and cultural minorities as threats in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` anti-discrimination enforcement, `K2` linguistic and cultural heritage recognition, and `K3` pluralist civic education) anchor **ontological pluralism** in binding constitutional law.
 
 #### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
 Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the diversity of tongues (`alsinah`) and colors (`alwân`) in al-Rûm 30:22 both as outward anthropological signs and as inward stations of spiritual gnosis (*ma'rifah*):
 - **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
   - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Rûm 30:22, al-Qushayrî records the following verbatim passage:
-    > «وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّلْعَالِمِينَ... الإشارة فيه: اختلاف الألسنة باختلاف مراتب القلوب في المعرفة، واختلاف الألوان باختلاف أحوال السالكين في إرادة الحق... فمن وقف مع الأشكال حُجب عن المعاني، ومن شهد الحكمة في التنوع اتسع قلبه للخلائق»
-    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 111–112; Digital verification: [shamela.ws/book/23622/111](https://shamela.ws/book/23622/111) / [altafsir.com — Latâ'if al-Ishârât 30:22](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=30&tAyahNo=22&tDisplay=yes)).*
-  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual commentary (*al-Ishârah*), Ibn 'Ajîbah explains that just as the outward variation of human languages and complexions manifests the limitless power of the One Creator, the inward diversity of spiritual temperaments reflects the diverse manifestations (*tajalliyyât*) of the Divine Names; the gnostic (*'ârif*) beholds unity within multiplicity and honors every human being as a locus of divine wisdom (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 4, pp. 327–328; Digital access: [shamela.ws/book/11566/327](https://shamela.ws/book/11566/327)).
+    > «وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّلْعَالِمِينَ... وَمِنْ آيَاتِهِ اخْتِلَافُ لُغَاتِ أَهْلِ الْأَرْضِ، وَاخْتِلَافُ تَسْبِيحَاتِ الْمَلَائِكَةِ الَّذِينَ هُمْ سُكَّانُ السَّمَاءِ. وَإِنَّ اخْتِصَاصَ كُلِّ شَيْءٍ مِنْهَا بِحُكْمٍ شَاهِدُ عَدْلٍ، وَدَلِيلُ صِدْقٍ عَلَى أَنَّهَا تُنَاجِي أَفْكَارَ الْمُتَيَقِّظِينَ، وَتُنَادِي عَلَى أَنْفُسِهَا أَنَّهَا جَمِيعَهَا مِنْ تَقْدِيرِ الْعَزِيزِ الْعَلِيمِ»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, p. 113; Digital verification: [shamela.ws/book/23629/1403](https://shamela.ws/book/23629/1403) / [altafsir.com — Latâ'if al-Ishârât 30:22](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=30&tAyahNo=22&tDisplay=yes)).*
+  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual commentary (*al-Ishârah*), Ibn 'Ajîbah explains that just as the outward variation of human languages and complexions manifests the limitless power of the One Creator, the inward diversity of spiritual temperaments reflects the diverse manifestations (*tajalliyyât*) of the Divine Names; the gnostic (*'ârif*) beholds unity within multiplicity and honors every human being as a locus of divine wisdom (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 4, pp. 333–334; Digital access: [shamela.ws/book/10273/2148](https://shamela.ws/book/10273/2148)).
   - `[ANALYSIS / YORUM]`: Al-Qushayrî's maxim—*"Whoever stops at outward forms (`al-ashkâl`) is veiled from inner meanings (`al-ma'ânî`), whereas whoever witnesses the Divine Wisdom in diversity (`al-tanawwu'`), his heart expands toward all creatures (`ittasa'a qalbuhu li'l-khalâ'iq`)"*—articulates the highest spiritual foundation for **ontological pluralism**. When the heart transcends superficial prejudice to witness Divine Artistry in every tongue and color, cultural diversity ceases to be a source of division and becomes a sacred symposium of mutual recognition (`li-ta'ârafû`).
 
 ---
@@ -550,17 +550,108 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How does the Quranic theology of linguistic diversity as a divine sign (`Ar-Rum 30:22`) compare with the biblical Babel narrative in shaping historical attitudes toward vernacular languages and translation?
-  2. How can AI natural-language processing (`NLP`) be utilized by `al-'alimin` (`30:22`) to preserve endangered human languages and dialects?
-- **Core Assumption:** Assumes that recognizing cultural and linguistic dignity under equal law strengthens rather than weakens civic solidarity.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Sociology of Religion & Human Rights Ethics (Grades 9–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Respect for Human Diversity, Anti-Racism, Scientific Curiosity (`Li'l-'Alimin`), and Universal Brotherhood.*
-  - **Minutes 00–08 (Inquiry Hook):** Point out that `Ar-Rum 30:22` places the creation of the heavens and earth (`khalku's-samawati wa'l-ard`) in the same sentence as the diversity of human languages and skin colors (`ikhtilafu alsinatikum wa-alwanikum`). Ask: *'What does it mean that a person's skin color and mother tongue are called an `Ayah` (verse/sign) of Allah just like the stars?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Examine `alsinah` (languages & voiceprints), `alwan` (complexions), the two canonical readings `li'l-'ālimīn` vs. `li'l-'ālamīn` (Al-Zamakhshari & Al-Qurtubi), and the Farewell Sermon.
-  - **Minutes 20–33 (Comparative Civilization Workshop):** Compare the **Prophetic Companions Circle** (Bilal, Salman, Suhayb) and `Ar-Rum 30:22` with modern UNESCO anti-racism declarations to design a school-wide 'Zero Racism & Mutual Respect Campaign.'
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students write why mocking someone's accent, language, or skin color is an offense against a sign (*ayah*) of the Creator.
+  1. How does the Qur'anic ontology of linguistic and phenotypic diversity as a cosmic divine sign (`wa-min âyâtihî`, `Al-Rûm 30:22`) inform contemporary constitutional pluralism and cultural heritage protection?
+  2. How can artificial-intelligence speech recognition (`NLP`) and biometric systems be audited by `al-'âlimîn` (`30:22`) to eliminate racial and dialectal bias while preserving endangered human languages?
+- **Core Assumption:** Assumes that honoring linguistic and ethnic diversity as sacred divine signs (`âyât`) within a framework of equal citizenship strengthens civic trust and social cohesion.
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah al-Rûm 30:22:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grade 10
+- **Learning Area / Unit:** Islam, Culture and Civilization — Islam and Social Life / Diversity of Languages and Complexions, Ontological Pluralism & Contemplation (*Tafakkur*)
+- **Target Learning Outcomes:**
+  - `DKAB.10.5.3` (*Interpreting Islamic principles regarding human equality, cultural diversity, and the ethics of peaceful coexistence*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [integration of cosmic and human signs, canonical qirâ'ât richness, and Prophetic exposition]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4` (Contemplating Religious Issues / *Tafakkur*), `DAB4.4` (Analytical Thinking), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Overcoming ethnic/linguistic arrogance (*kibr*) and the veil of habitual heedlessness (*hijâb al-ulfah*).
+  - `SDB2.3` (*Social Awareness & Cultural Empathy / Sosyal Farkındalık*): Honoring speakers of diverse languages, accents, and complexions as living signs (*âyât*) of the Creator.
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Rejecting racism, bullying, and xenophobia while defending human dignity and pluralist coexistence.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (*Hifz al-Nafs*, *Hifz al-Nasl*, and *Hifz al-'Aql* — protecting human dignity, lineage/identity, and contemplative intellect), the `Al-Rûm 30:20–27` sequence of inner (*anfusî*) and cosmic (*âfâqî*) signs, the theological maxim **"Natural diversity (*ikhtilâf*) is a divinely willed norm (*sunnatullâh*) and a sacred sign"**, the **Farewell Sermon** (*"No Arab has superiority over a non-Arab, nor white over black, except by piety"*; Ahmad b. Hanbal, *Musnad*, 5/411), and `Sadd al-Dharâ'i'` (blocking racism, forced assimilation, and ethnic supremacism).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and theological breakdown of `âyâtihî`, `khalq al-samâwât wa'l-ard`, `ikhtilâf alsinatikum`, `alwânikum`, and `li'l-'âlimîn / li'l-'âlamîn`. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching al-Zamakhsharî, al-Râghib, Ibn Fâris, and Fakhr al-Dîn al-Râzî with the UNESCO Cultural Diversity Declaration, biometric science, and the Farewell Sermon. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.10.5.3, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating racial supremacism and forced assimilation versus tawhîdî pluralism that reveres human diversity as divine signs (`DKAB.10.5.3`). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB2.3, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on piercing the veil of familiarity (*hijâb al-ulfah*), curing ethnic pride, and reading wisdom in diversity via al-Ghazâlî, al-Makkî, and al-Qushayrî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on *ikhtilâf*, the *'âlimîn / 'âlamîn* readings, and anti-racist contemplation. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project **Surah al-Rûm 30:22** (*"And among His signs is the creation of the heavens and the earth, and the diversity of your languages and your colors. Indeed, in that are signs for those of knowledge"*) onto the board. Students analyze why human languages and complexions are placed side by side with the creation of the cosmos using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Tafsir Meaning (`Ibn Fâris / al-Râghib / al-Zamakhsharî / al-Râzî`) | Contextual & Modern Pluralism Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`ءَايَـٰتِهِۦ` (`Âyâtihî`)** | Plural noun (`âyah`) from `'-y-y` | Clear sign, wondrous proof, and locus of contemplation ([al-Râzî, *Mafâtîh al-Ghayb*, 25/92](https://shamela.ws/book/23635/4497)) | Ontological sanctity of cosmic and human diversity as "verses of creation" |
+| **`خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ` (`Khalqu al-samâwât wa'l-ard`)** | Verbal noun from `kh-l-q` + genitive phrase | Origination of the heavens and earth in balanced harmony (cosmic sign) | Parity between cosmic ecological order and human cultural-biological diversity |
+| **`ٱخْتِلَـٰفُ` (`Ikhtilâfu`)** | Form VIII verbal noun from `kh-l-f` (`خَلَفَ`) | Complementary variation and diversity, broader than contradiction (*diddiyyah*) ([al-Râghib, *al-Mufradât*, p. 294](https://shamela.ws/book/23636/276); [Ibn Fâris, *Maqâyîs*, 2/210](https://shamela.ws/book/21710/770)) | Rejection of forced homogenization; linguistic, acoustic, and phenotypic diversity |
+| **`أَلْسِنَتِكُمْ` (`Alsinatikum`)** | Plural of `lisân` from `l-s-n` | Human languages, dialects, and unique individual voice timbres ([al-Zamakhsharî, *al-Kashshâf*, 3/473](https://shamela.ws/book/23627/1921)) | Mother-tongue dignity, preservation of linguistic heritage, and acoustic uniqueness |
+| **`وَأَلْوَٰنِكُمْ` (`Wa-alwânikum`)** | Plural of `lawn` from `l-w-n` | Diverse skin complexions, facial features, and temperaments arising from single human parents ([Ibn Manzûr, *Lisân al-'Arab*, 13/385](https://shamela.ws/book/1687/6946)) | Theological and scientific refutation of racism and color hierarchy |
+| **`لِّلْعَـٰلِمِينَ / لِّلْعَـٰلَمِينَ` (`Li'l-'âlimîn / Li'l-'âlamîn`)** | Two *mutawâtir* canonical readings | *With kasrah:* For scholars/scientists (`'âlimîn`); *With fathah (Hafs):* For all worlds/peoples (`'âlamîn`) | Universal sign witnessed by all humanity and investigated by linguistic/biological sciences |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, Vol. 25, p. 92), al-Zamakhsharî (*al-Kashshâf*, Vol. 3, p. 473), and Hanafî-Mâturîdî jurisprudence alongside contemporary scientific and human-rights cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, 25/92):**<br>That human beings sharing identical vocal cords and descending from one pair speak thousands of distinct languages and display unique complexions refutes blind chance and points to the Wise Creator. | **Box 2 — Contemporary Case A (Biometrics, Acoustics & Population Genetics):**<br>Modern forensic acoustics and genetics confirming that every individual possesses a unique voiceprint and facial geometry while sharing 99.9% common human DNA (`li'l-'âlimîn`). | **Box 3 — Al-Zamakhsharî (*al-Kashshâf*, 3/473) & Dual Qirâ'ât Synthesis:**<br>Combining the two canonical readings `li'l-'âlimîn` (for scholars) and `li'l-'âlamîn` (for all worlds) shows that human diversity is both a public moral sign for all nations and a deep field of scientific inquiry. |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (UNESCO Cultural & Linguistic Heritage):**<br>Safeguarding mother tongues and cultural expressions as the common heritage of humanity under the UNESCO Universal Declaration on Cultural Diversity. | **Box 5 — Al-Râghib al-Isfahânî (*al-Mufradât*, p. 294):**<br>`Ikhtilâf` (diversity) is distinct from `didd` (hostile opposition): two things may differ without being enemies. Linguistic and ethnic diversity is complementary harmony, not clash. | **Box 6 — Contemporary Case C (Combating Racism, Bullying & Xenophobia):**<br>Enforcing legal and educational safeguards against racial discrimination, accent-mocking, and xenophobic hate speech in schools and digital spaces. |
+| **Box 7 — Prophetic Sunnah & The Farewell Sermon:**<br>The Prophet uniting Bilâl al-Habashî (Africa), Salmân al-Fârisî (Persia), and Suhayb al-Rûmî (Anatolia/Byzantium), rebuking racial slurs as *Jâhiliyyah*, and proclaiming universal equality in the Farewell Sermon. | **Box 8 — Hanafî-Mâturîdî Jurisprudence on Languages:**<br>Imâm Abû Hanîfah and Imâm al-Mâturîdî affirming that all human languages are divine creations (`30:22`) worthy of expressing sacred truth, pioneering Persian and Turkic interlinear Qur'an translations. | **Box 9 — Al-Ghazâlî & Al-Makkî Heart Jurisprudence (*Hijâb al-Ulfah*):**<br>Becoming numb to the miracle of diverse voices and faces is the veil of familiarity (*hijâb al-ulfah*); looking down on another's tongue or color is Iblîsic arrogance. |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Scientific Contemplation & Dual Qirâ'ât Match:* **`Box 1 ↔ Box 2 ↔ Box 3`** (Al-Râzî and al-Zamakhsharî's anatomical/acoustic insights matched with modern biometrics/linguistics and the *'âlimîn / 'âlamîn* synthesis).
+  2. *Complementary Diversity (`Ikhtilâf`) & Anti-Racism Match:* **`Box 4 ↔ Box 5 ↔ Box 6`** (Al-Râghib's distinction between *ikhtilâf* and *didd* matched with UNESCO heritage protection and anti-discrimination).
+  3. *Prophetic Fraternity, Linguistic Dignity & Spiritual Awakening Match:* **`Box 7 ↔ Box 8 ↔ Box 9`** (The Bilâl–Salmân–Suhayb companionship, Mâturîdî translation ethics, and piercing *hijâb al-ulfah*).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.10.5.3, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"In a public forum, Speaker A argues that ethnic and linguistic diversity weakens society and that minority languages and cultures should be erased through forced assimilation. Speaker B misuses religious rhetoric to claim that only one ethnicity or language is spiritually superior while others are inferior. Students critique both positions using Surah al-Rûm 30:22, Surah Ibrâhîm 14:4, and the Farewell Sermon."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"According to Surah al-Rûm 30:22, why is mocking, discriminating against, or attempting to erase human languages and skin colors an offense against the signs (`âyât`) of God (`DKAB.10.5.3`, `DKAB.11.4.3`)?"*
+     - **Response 1 (Responding Group):** Because `Al-Rûm 30:22` explicitly classifies `ikhtilâfu alsinatikum wa-alwânikum` (*the diversity of your languages and your colors*) as **`wa-min âyâtihî`** (*among His signs*), placing them on the exact same ontological level as the creation of the heavens and the earth. Just as desecrating a written verse (*âyah*) of revelation is a grave transgression, demeanoring the living cosmic verses of God—human tongues and complexions—is an assault on Divine wisdom.
+  2. **Question 2 (Questioning Group):** *"How do Surah Ibrâhîm 14:4 and the Prophet's Farewell Sermon refute those who use religion to claim ethnic or linguistic supremacy?"*
+     - **Response 2 (Responding Group):** Surah Ibrâhîm `14:4` declares: *"And We did not send any messenger except in the language of his people (`bi-lisâni qawmihî`) that he might make things clear for them"*, honoring every human language as a vessel of divine guidance. And in the Farewell Sermon, the Prophet Muhammad (peace be upon him) abolished all ethnic supremacism: **"Your Lord is One and your father is one: an Arab has no superiority over a non-Arab, nor a non-Arab over an Arab, nor white over black, nor black over white, except by piety (`taqwâ`) and good action."**
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB2.3, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 4, pp. 423–445, *Kitâb al-Tafakkur*; pp. 81–125, *Kitâb al-Shukr*), Abû Tâlib al-Makkî (*Qût al-Qulûb*, Vol. 1, pp. 312–318), and al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 3, pp. 113–114), the teacher explains: *"The greatest inward veil is `hijâb al-ulfah` (the blindness of familiarity): because we hear voices and see faces every day, we forget the miracle behind them. When the heart awakens in contemplation (`tafakkur`), prejudice turns into wonder and gratitude."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"When we hear someone speak with a different accent, dialect, or mother tongue at school or online, do we react with mockery and prejudice, or do we recognize an `âyah` of God worthy of respect (`SDB1.2`, `SDB2.3`)?"*
+  2. *"How can piercing the veil of familiarity (`hijâb al-ulfah`) help us appreciate our own gift of speech and use our tongue for truth and kindness rather than hurtful words (`SDB3.3`)?"*
+  3. *"What can we learn from the Prophet's companionship circle—uniting Bilâl, Salmân, and Suhayb—about building an inclusive school environment today?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. Significance of pairing the creation of the heavens and earth with the diversity of languages and colors in 30:22:** | *"Human linguistic and phenotypic diversity is not a flaw or cause for conflict, but a sacred cosmic sign (âyah) of God's creative power and wisdom."* |
+| **2. Complementary meaning of the two canonical readings 'li'l-'âlimîn' and 'li'l-'âlamîn':** | *"Diversity is both a universal sign witnessed by all peoples ('âlamîn) and a profound phenomenon studied by scientists and scholars ('âlimîn)."* |
+| **3. One personal commitment I will practice toward people of different languages, accents, or backgrounds:** | *"Rejecting all forms of racism and accent/appearance mockery, and treating every person's identity with empathy and dignity."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Comparing Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, Vol. 25, pp. 92–96), al-Zamakhsharî (*al-Kashshâf*, Vol. 3, p. 473), and Ibn 'Âshûr (*al-Tahrîr wa'l-Tanwîr*, Vol. 21, pp. 68–72) on `Al-Rûm 30:22` to write a research paper on "Linguistic Diversity as a Cosmic Sign and the Multilingual Civilization of the Hanafî-Mâturîdî Tradition".
+  - Analyzing UNESCO Atlas of the World's Languages in Danger and World Bank Social Inclusion indicators to evaluate how linguistic dignity supports social peace.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a visual concept map connecting **`Cosmic Signs (Heavens & Earth) + Human Signs (Languages & Colors) → Contemplation & Science (Li'l-'Âlimîn) → Mutual Respect & Coexistence`**.
+  - Practicing with matching cards contrasting "Statements of Wonder, Empathy & Equal Dignity" against "Statements of Racism, Mockery & Prejudice".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, and spiritual citations (Ibn Fâris, al-Râghib al-Isfahânî, al-Zamakhsharî, Ibn Manzûr, Fakhr al-Dîn al-Râzî, al-Ghazâlî, Abû Tâlib al-Makkî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Prevents both racist/ethnocentric supremacism and forced cultural erasure under `DKAB.10.5.3`, `DKAB.11.4.3`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -603,11 +694,11 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 4/445-450. Digital Verification: https://shamela.ws/book/2362/17/1921 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/294-297. Digital Verification: https://shamela.ws/book/2363/16/276 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/210-213. Digital Verification: https://shamela.ws/book/2171/10/770 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 9/82-88. Digital Verification: https://shamela.ws/book/168/17/6946 (urn:shamela:21605).
-[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 25/102-108. Digital Verification: https://shamela.ws/book/2363/15/4497 (urn:shamela:23603).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 4/445-450. Digital Verification: https://shamela.ws/book/23627/1921 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/294-297. Digital Verification: https://shamela.ws/book/23636/276 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/210-213. Digital Verification: https://shamela.ws/book/21710/770 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 9/82-88. Digital Verification: https://shamela.ws/book/1687/6946 (urn:shamela:21605).
+[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 25/102-108. Digital Verification: https://shamela.ws/book/23635/4497 (urn:shamela:23603).
 [^6]: UNESCO Institute for Statistics (2024). *World Atlas of Languages & Indicators of Cultural Diversity 2024*. Paris: UNESCO Publishing. DOI: doi:10.1007/978-981-19-1456-7. URL: https://uis.unesco.org
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators & Social Inclusion Platform 2024*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: Türkiye İstatistik Kurumu (TÜİK) (2024). *Nüfus ve Demografi ile Kültürel Yaşam İstatistikleri 2024*. Ankara: TÜİK Yayınları. DOI: Institutional Dataset. URL: https://data.tuik.gov.tr

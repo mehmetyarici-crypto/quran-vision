@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "2546"
     arabic_quote: "إلا والحديد آلة فيها، أو ما يعمل بالحديد وَلِيَعْلَمَ اللَّهُ مَنْ يَنْصُرُهُ وَرُسُلَهُ باستعمال السيوف والرماح وسائر السلاح في مجاهدة أعداء الدين بِالْغَيْبِ غائبا عنهم، قال ابن"
-    verification_link: "https://shamela.ws/book/2362/17/2546"
+    verification_link: "https://shamela.ws/book/23627/2546"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "222"
     arabic_quote: "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ [الحديد/ ٢٥] ، وحَدَّدْتُ السكّين: رقّقت حدّه، وأَحْدَدْتُهُ:"
-    verification_link: "https://shamela.ws/book/2363/16/204"
+    verification_link: "https://shamela.ws/book/23636/204"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "4"
     arabic_quote: "الحديدُ حديداً لامتناعه وصلابته وشدّته. والاستحداد: استعمال الحديد. ويقال حَدَّت المرأة على"
-    verification_link: "https://shamela.ws/book/2171/10/564"
+    verification_link: "https://shamela.ws/book/21710/564"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "1"
     pages: "109"
     arabic_quote: "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ. وصَدْآءُ: عَيْنٌ عَذْبَةُ الْمَاءِ، أَو بِئْرٌ. وَفِي الْمَثَلِ: ماءٌ وَلَا كَصَدْآءَ. قَالَ أَبو عُبَيْدٍ: مَنْ أَمثالهم فِي"
-    verification_link: "https://shamela.ws/book/168/17/109"
+    verification_link: "https://shamela.ws/book/1687/109"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "29"
     pages: "470"
     arabic_quote: "وَهُوَ زَاجِرٌ لِلْخَلْقِ عَمَّا لَا يَنْبَغِي، وَالْحَاصِلُ أَنَّ الْكِتَابَ إِشَارَةٌ إِلَى الْقُوَّةِ النَّظَرِيَّةِ، وَالْمِيزَانَ إِلَى الْقُوَّةِ الْعَمَلِيَّةِ، وَالْحَدِيدَ"
-    verification_link: "https://shamela.ws/book/2363/15/5548"
+    verification_link: "https://shamela.ws/book/23635/5548"
     doi_or_urn: "urn:shamela:23635"
 
 modern_sources:
@@ -447,17 +447,17 @@ In the external constitutional, geopolitical, and technological order (*âfâk*)
 
 #### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
 In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, the abuse of coercive power and technological superiority is diagnosed as the fruit of a hardened heart (*qaswat al-qalb*), wrath (*ghadab*), and arrogant ingratitude for strength (*بطر / tughyân*):
-- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Ghadab wa'l-Hiqd* (Vol. 3) and *Kitâb al-Shukr wa'l-Sabr* (Vol. 4), al-Ghazâlî explains that material capability and authority (`ba'sun shadîd`) are among the most perilous trials of the soul: if the possessor of power lacks the inward Scale of equity (`Mîzân`) and clemency (*hilm*), wrath and arrogance transform strength into an engine of oppression, whereas true gratitude (*shukr*) for power consists in subordinating it to moral restraint and public benefit (`manâfi'u li'n-nâs`) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 164–175; Vol. 4, pp. 81–110; Digital access: [shamela.ws/book/9472/81](https://shamela.ws/book/9472/81)).
-- **Ibn Qayyim al-Jawziyyah (d. 751/1350), *Madârij al-Sâlikîn*:** In his analysis of spiritual rectitude (*istiqâmah*) and the remedies for hardened hearts (*qaswah*), Ibn al-Qayyim highlights the profound thematic link between al-Hadîd 57:16 (which condemns hearts hardened against God's remembrance) and 57:25 (the sending down of `al-Kitâb`, `al-Mîzân`, and `al-Hadîd`): whoever refuses to soften his heart before the truth of the Book and the equity of the Scale must be restrained from transgressing against creation by the deterrent discipline of Iron (Ibn Qayyim al-Jawziyyah, *Madârij al-Sâlikîn*, Beirut: Dâr al-Kitâb al-'Arabî, Vol. 2, pp. 285–295; Digital access: [shamela.ws/book/8370/285](https://shamela.ws/book/8370/285)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Ghadab wa'l-Hiqd* (Vol. 3) and *Kitâb al-Shukr wa'l-Sabr* (Vol. 4), al-Ghazâlî explains that material capability and authority (`ba'sun shadîd`) are among the most perilous trials of the soul: if the possessor of power lacks the inward Scale of equity (`Mîzân`) and clemency (*hilm*), wrath and arrogance transform strength into an engine of oppression, whereas true gratitude (*shukr*) for power consists in subordinating it to moral restraint and public benefit (`manâfi'u li'n-nâs`) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 164–175; Vol. 4, pp. 81–110; Digital access: [shamela.ws/book/9472/1240](https://shamela.ws/book/9472/1240)).
+- **Ibn Qayyim al-Jawziyyah (d. 751/1350), *Madârij al-Sâlikîn*:** In his analysis of spiritual rectitude (*istiqâmah*) and the remedies for hardened hearts (*qaswah*), Ibn al-Qayyim highlights the profound thematic link between al-Hadîd 57:16 (which condemns hearts hardened against God's remembrance) and 57:25 (the sending down of `al-Kitâb`, `al-Mîzân`, and `al-Hadîd`): whoever refuses to soften his heart before the truth of the Book and the equity of the Scale must be restrained from transgressing against creation by the deterrent discipline of Iron (Ibn Qayyim al-Jawziyyah, *Madârij al-Sâlikîn*, Beirut: Dâr al-Kitâb al-'Arabî, Vol. 2, pp. 285–295; Digital access: [shamela.ws/book/8370/779](https://shamela.ws/book/8370/779)).
 - **Enfüs–Policy Bridge:** Because commanders, engineers, and executives who lack unseen moral accountability (`bi'l-ghayb`) in their conscience (*enfüs*) inevitably weaponize technology against human dignity in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` mandatory constitutional and judicial `Mîzân` oversight of strategic technologies, `K2` dual-use civilian benefit transfer under `manâfi'u li'n-nâs`, and `K3` ethical R&D governance) bind coercive capacity to objective legal restraint.
 
 #### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
 Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the triad of `al-Kitâb`, `al-Mîzân`, and `al-Hadîd` in al-Hadîd 57:25 as the three interior instruments by which the spiritual seeker disciplines the lower ego (*al-nafs al-ammârah*) and establishes justice within the soul:
 - **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
   - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Hadîd 57:25, al-Qushayrî records the following verbatim passage:
-    > «وَأَنزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ... الإشارة فيه: الكتاب لحفظ الشرائع، والميزان لإنصاف المعاملات ومراقبة أحوال القلوب، والحديد لقمع النفس الأمارة بسلاسل المجاهدة ورياضة الصدق... فمن لم يؤدبه ميزان العدل أُدب بحديد القهر»
-    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 542–543; Digital verification: [shamela.ws/book/23622/542](https://shamela.ws/book/23622/542) / [altafsir.com — Latâ'if al-Ishârât 57:25](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=57&tAyahNo=25&tDisplay=yes)).*
-  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*), Ibn 'Ajîbah explains that outwardly the Book preserves sacred law, the Scale upholds transactional justice, and Iron deters aggressors; inwardly, the Book illuminates the spirit with gnosis, the Scale weighs the subtle states of the heart (*murâqabat ahwâl al-qulûb*), and the Iron of spiritual striving (*mujâhadah*) subdues the rebellious ego (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 6, pp. 68–70; Digital access: [shamela.ws/book/11566/68](https://shamela.ws/book/11566/68)).
+    > «لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ... أَيْ أَرْسَلْنَاهُمْ مُؤَيَّدِينَ بِالْحُجَجِ اللَّائِحَةِ وَالْبَرَاهِينِ الْوَاضِحَةِ... وَأَنزَلْنَا مَعَهُمُ الْكُتُبَ الْمُنَزَّلَةَ... أَيِ الْحُكْمَ بِالْقُرْآنِ، وَاعْتِبَارَ الْعَدْلِ وَالتَّسْوِيَةِ بَيْنَ النَّاسِ. لِيَقُومَ النَّاسُ بِالْقِسْطِ: فَلَا يَظْلِمُ أَحَدٌ أَحَدًا»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 544–545; Digital verification: [shamela.ws/book/23629/1833](https://shamela.ws/book/23629/1833) / [altafsir.com — Latâ'if al-Ishârât 57:25](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=57&tAyahNo=25&tDisplay=yes)).*
+  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*), Ibn 'Ajîbah explains that outwardly the Book preserves sacred law, the Scale upholds transactional justice, and Iron deters aggressors; inwardly, the Book illuminates the spirit with gnosis, the Scale weighs the subtle states of the heart (*murâqabat ahwâl al-qulûb*), and the Iron of spiritual striving (*mujâhadah*) subdues the rebellious ego (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 7, pp. 329–330; Digital access: [shamela.ws/book/10273/3029](https://shamela.ws/book/10273/3029)).
   - `[ANALYSIS / YORUM]`: Al-Qushayrî's synthesis—*"The Book is for preserving the laws, the Scale is for fairness in transactions and vigilance over the states of the heart, and Iron is for subduing the commanding ego (`al-nafs al-ammârah`) with the chains of spiritual striving; whoever is not disciplined by the Scale of justice is disciplined by the Iron of restraint"*—illuminates the deepest harmony of **instrument of deterrence vs moral restraint**. A civilization that first subdues its own egoistic tyranny through the inward Scale of conscience wields external Iron (`al-Hadîd`) solely as a guardian of universal equity (`bi'l-qist`) and human flourishing (`manâfi'u li'n-nâs`).
 
 ---
@@ -559,17 +559,108 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How can the triadic paradigm of `Al-Hadid 57:25` (`Kitab` = normative constitution, `Mizan` = algorithmic/judicial fairness audit, `Hadid` = hardware/compute capability) serve as a governance framework for Artificial General Intelligence (AGI)?
-  2. Why does `Al-Hadid 57:25` formulate `li-yaquma'n-nasu bi'l-qist` with `'the people'` (`al-nas`) as the active subject rather than `'the rulers'`?
-- **Core Assumption:** Assumes that sustainable civilization is impossible if either justice (`Mizan`) or scientific-industrial capacity (`Hadid`) is sacrificed.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Philosophy of Science/Technology & Civic Ethics (Grades 10–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Justice (`Qist & Mizan`), Responsible Science & Technology (`Manafi'u li'n-Nas`), Rule of Law (`Al-Kitab`), and Sincerity in the Unseen (`Bi'l-Ghayb`).*
-  - **Minutes 00–08 (Inquiry Hook — The Three Pillars Equation):** Draw three pillars on the board: **`Al-Kitab` (Law/Truth)**, **`Al-Mizan` (Justice Scale)**, and **`Al-Hadid` (Technology/Power)**. Ask students: *'What happens to a country that has `Hadid` (weapons/technology) without `Mizan` (justice)? And what happens to a country that has `Mizan` (good intentions) without `Hadid` (science/industry)?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze `al-bayyinat`, `al-kitab`, `al-mizan`, `li-yaquma'n-nasu bi'l-qist`, and the dual nature of `al-hadid` (`ba'sun shadid` vs. `manafi'u li'n-nas`) using Al-Maturidi and Fakhr al-Din al-Razi.
-  - **Minutes 20–33 (AI & Technology Ethics Design Lab):** Students act as a **`57:25` Mizan Ethics Board** evaluating a modern dual-use technology (e.g., drones, facial recognition, or AI) to ensure it serves `qist` and `manafi'u li'n-nas`.
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students explain why studying STEM fields (`Al-Hadid`) with moral conscience (`Al-Mizan`) is an act of supporting God's messengers (`man yansuruhu wa-rusulahu bi'l-ghayb`).
+  1. How can the triadic architecture of `Al-Hadîd 57:25` (`al-Kitâb` = normative constitutional law, `al-Mîzân` = algorithmic/judicial fairness audit, `al-Hadîd` = material/technological capability) serve as a governance framework for Artificial General Intelligence (`AGI`) and dual-use technologies?
+  2. Why does `Al-Hadîd 57:25` formulate `li-yaqûma al-nâsu bi'l-qist` with *"the people"* (`al-nâs`) as the active subject upholding equity rather than rulers alone?
+- **Core Assumption:** Assumes that sustainable civilization requires subordinating technological and coercive power (`al-Hadîd`) to constitutional truth (`al-Kitâb`) and impartial justice (`al-Mîzân`) while directing industry toward human welfare (`manâfi'u li'n-nâs`).
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah al-Hadîd 57:25:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grade 11
+- **Learning Area / Unit:** Law, Ethics and Civilization in Islamic Thought / The Book (`Kitâb`), the Balance (`Mîzân`), and Iron (`Hadîd`): Equilibrium of Law, Justice & Power
+- **Target Learning Outcomes:**
+  - `DKAB.11.4.4` (*Evaluating the balance between law, justice, and public order in Islam*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [teleological ratio legis / ta'lîl, conceptual unity, and siyâq-sibâq]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Restraining the intoxication of power (*tughyân*), arrogance of force, and hardness of heart (*qaswat al-qulûb*, `al-Hadîd 57:16`).
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Directing scientific, technological, and physical capability (`al-hadîd`) toward equity (`qist`) and human benefit (`manâfi'u li'n-nâs`).
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (protecting the five foundational necessities through legitimate law and proportional deterrence), **`li-yaqûma al-nâsu bi'l-qist`** (universal purpose of prophetic revelation as civic equity), the classical constitutional maxim of al-Mâwardî and Ibn Taymiyyah (**"The foundation of religion is the Book and the Balance, while Iron serves as their guardian"**), and `Sadd al-Dharâ'i'` (preventing both lawless tyranny and defenseless anarchy).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and legal-philosophical breakdown of `al-bayyinât`, `al-Kitâb`, `al-Mîzân`, `li-yaqûma al-nâsu bi'l-qist`, `al-Hadîd`, `ba'sun shadîd`, `manâfi'u li'n-nâs`, and `bi'l-ghayb`. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching al-Zamakhsharî, al-Râghib, Ibn Fâris, and Fakhr al-Dîn al-Râzî's *Kitâb–Mîzân–Hadîd* triad with modern rule of law, separation of powers, and technology ethics. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.11.4.4, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating militant extremism that severs `al-Hadîd` from `al-Kitâb` and `al-Mîzân` versus utopian pacifism that neglects legitimate public deterrence (`DKAB.11.4.4`). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB3.3, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on power intoxication (*tughyân*), heart hardness (`57:16`), and unseen sincerity (`bi'l-ghayb`) via al-Ghazâlî, Ibn Qayyim, and al-Qushayrî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on the *Kitâb–Mîzân–Hadîd* hierarchy, *ba's–manâfi'* equilibrium, and *bi'l-ghayb* integrity. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project **Surah al-Hadîd 57:25** onto the board and draw three columns: **`1. al-Kitâb`**, **`2. al-Mîzân`**, **`3. al-Hadîd`**. Students analyze why revelation orders these three pillars in this exact sequence using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Tafsir Meaning (`Ibn Fâris / al-Râghib / al-Zamakhsharî / al-Râzî`) | Contextual & Modern Constitutional / Tech Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`ٱلْبَيِّنَـٰتِ` (`al-Bayyinât`)** | Plural noun from `b-y-n` (`بَانَ`) | Clear proofs, rational demonstrations, and evident signs | Transparent evidence, rational justification, and due process |
+| **`ٱلْكِتَـٰبَ` (`al-Kitâb`)** | Generic noun from `k-t-b` (`كَتَبَ`) | Revealed scripture, codified law, and normative principles ([al-Râzî, *Mafâtîh al-Ghayb*, 29/470](https://shamela.ws/book/23635/5548)) | Constitutional law, human rights charters, and statutory legality |
+| **`وَٱلْمِيزَانَ` (`Wa'l-Mîzân`)** | Instrumental noun from `w-z-n` (`وَزَنَ`) | The scale of justice, equity, and proportional measure | Independent judiciary, proportionality principle, and ethical auditing |
+| **`لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ` (`Li-yaqûma al-nâsu bi'l-qist`)** | Particle of purpose + subjunctive clause | *"So that the people themselves may uphold equity and justice"* | Supreme teleology of revelation: active civic responsibility for social justice |
+| **`وَأَنزَلْنَا ٱلْحَدِيدَ` (`Wa-anzalnâ al-Hadîd`)** | Noun from `h-d-d` (`حَدَّ` = boundary/sharpness) | Iron—named for its strength and boundary-setting resilience ([Ibn Fâris, *Maqâyîs*, 2/4](https://shamela.ws/book/21710/564); [al-Râghib, *al-Mufradât*, p. 222](https://shamela.ws/book/23636/204)) | Industrial engineering, material science, and legitimate deterrent enforcement |
+| **`فِيهِ بَأْسٌ شَدِيدٌ وَمَنَـٰفِعُ لِلنَّاسِ` (`Ba'sun shadîd wa-manâfi'u li'n-nâs`)** | Nominal clause (`ba's` = might; `manâfi'` = benefits) | In it is formidable deterrent strength as well as civil benefits for humanity's crafts and livelihood ([al-Zamakhsharî, *al-Kashshâf*, 4/2546](https://shamela.ws/book/23627/2546)) | Dual-use technology: defensive deterrence paired with civilian industrial, medical, and infrastructural benefit |
+| **`بِٱلْغَيْبِ` (`Bi'l-ghayb`)** | Prepositional phrase of state from `gh-y-b` | In the unseen / with sincere devotion when unobserved ([Ibn Manzûr, *Lisân al-'Arab*, 1/109](https://shamela.ws/book/1687/109)) | Inward moral accountability when wielding power without external cameras |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, Vol. 29, p. 470), al-Zamakhsharî (*al-Kashshâf*, Vol. 4, p. 2546), and Ibn Taymiyyah's *Kitâb–Mîzân–Hadîd* synthesis alongside modern rule-of-law and technology-ethics cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, 29/470):**<br>`Al-Kitâb` represents theoretical/normative law, `al-Mîzân` represents practical equity, and `al-Hadîd` represents deterrent enforcement protecting justice from aggressors; `Hadîd` must never precede `Kitâb` and `Mîzân`. | **Box 2 — Contemporary Case A (Rule of Law & Constitutional Oversight):**<br>Subordinating military, police, and executive power (`Hadîd`) strictly to constitutional law (`Kitâb`) and independent judicial review (`Mîzân`). | **Box 3 — Al-Zamakhsharî (*al-Kashshâf*, 4/2546) & Civilian Industry (`Manâfi'u li'n-nâs`):**<br>Every human craft—agriculture, construction, weaving, surgery, and transport—depends upon iron tools and metallurgy (`manâfi'u li'n-nâs`). |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (STEM Innovation & Human Welfare):**<br>Developing metallurgy, robotics, medical devices, renewable infrastructure, and AI to serve public welfare (`manâfi'u li'n-nâs`). | **Box 5 — Civic Mandate (`Li-yaqûma al-nâsu bi'l-qist`):**<br>The verse names *the people* (`al-nâs`) as the active agents who stand up for equity (`qist`), establishing that justice requires an engaged, principled citizenry. | **Box 6 — Contemporary Case C (Civic Accountability & Public Ethics):**<br>Citizens, courts, and civil society actively defending fair laws and preventing corruption or abuse of power. |
+| **Box 7 — Legitimate Deterrence (`Ba'sun shadîd`) vs. Tyranny:**<br>Ibn Taymiyyah and Ibn 'Âshûr emphasize that coercive force (`ba's`) is legitimate solely to deter aggression and protect the oppressed; force divorced from `Mîzân` is tyranny. | **Box 8 — Contemporary Case D (Proportional Defense & AI Governance):**<br>Auditing autonomous weapons, cyber capabilities, and surveillance systems under international humanitarian law and ethical scales (`Mîzân`). | **Box 9 — Al-Ghazâlî & Al-Qushayrî Heart Jurisprudence (`57:16` & `Bi'l-Ghayb`):**<br>While iron softens in fire, arrogant hearts harden (`fa-qasat qulûbuhum`, `57:16`); true integrity is upholding justice in the unseen (`bi'l-ghayb`). |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Constitutional Hierarchy (`Kitâb → Mîzân → Hadîd`) & Civic Equity Match:* **`Box 1 ↔ Box 2 ↔ Box 5 ↔ Box 6`** (Subordinating power to law/justice and empowering civic equity).
+  2. *Civilian STEM Benefit (`Manâfi'`) & Proportional Deterrence (`Ba's`) Match:* **`Box 3 ↔ Box 4 ↔ Box 7 ↔ Box 8`** (Balancing industrial human benefit with ethically bounded defense).
+  3. *Inward Softness of Heart & Unseen Accountability Match:* **`Box 9 ↔ Box 1`** (`Al-Hadîd 57:16` warning against hard-heartedness paired with `57:25` `bi'l-ghayb` sincerity).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.11.4.4, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"In a debate on religion, law, and power, Speaker A isolates the phrase `wa-anzalnâ al-hadîda fîhi ba'sun shadîd` (We sent down iron, wherein is mighty force) to argue that might makes right and that violent groups may disregard legal and moral limits (`Mîzân`). Speaker B claims that religion is purely spiritual and has no concern with scientific industry, defense capability, or institutional enforcement. Students critique both positions using Surah al-Hadîd 57:25."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"Why does Surah al-Hadîd 57:25 place `al-Kitâb`, `al-Mîzân`, and `li-yaqûma al-nâsu bi'l-qist` before `al-Hadîd`, and how does this order refute extremist or Machiavellian glorification of raw force (`DKAB.11.4.4`, `DKAB.11.4.3`)?"*
+     - **Response 1 (Responding Group):** The textual architecture establishes a strict normative hierarchy: **Law (`al-Kitâb`)** and **Justice (`al-Mîzân`)** are the primary ends (`li-yaqûma al-nâsu bi'l-qist`), whereas **Iron (`al-Hadîd`)** is an instrumental means (`wa-anzalnâ`). As Fakhr al-Dîn al-Râzî and Ibn Taymiyyah explain, wielding `al-Hadîd` without `al-Kitâb` and `al-Mîzân` is lawless banditry and tyranny (*zulm*).
+  2. **Question 2 (Questioning Group):** *"Why does the Qur'an explicitly highlight both `ba'sun shadîd` (deterrent strength) and `manâfi'u li'n-nâs` (civilian benefits for humanity) within `al-Hadîd`?"*
+     - **Response 2 (Responding Group):** Because justice without deterrent capacity leaves innocent societies defenseless against aggressors, while neglecting industrial and scientific mastery (`manâfi'u li'n-nâs`) condemns a society to dependency and poverty. Thus, cultivating ethical science, engineering, and rule-bound security is a civilizational duty.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on Imâm al-Ghazâlî (*al-Maqsad al-Asnâ*, pp. 112–116), Ibn Qayyim al-Jawziyyah (*Madârij al-Sâlikîn*, Vol. 2, p. 462), and al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 3, pp. 542–544), the teacher explains: *"In Surah al-Hadîd 57:16, God warns against hearts becoming hard like stone (`fa-qasat qulûbuhum`), and in 57:25 He speaks of Iron (`al-Hadîd`). Iron in the hand is safe only when the heart is soft with mercy and governed by the inward scale (`Mîzân`) in the unseen (`bi'l-ghayb`)."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"When we gain strength, knowledge, digital skills, or leadership in a group, do we use that power to dominate others or to stand up for fairness (`li-yaqûma al-nâsu bi'l-qist`, `SDB1.2`, `SDB3.3`)?"*
+  2. *"How does the clause `bi'l-ghayb` (supporting truth in the unseen) guide our conduct when we have the power to cheat or harm someone online without being caught?"*
+  3. *"How can we ensure that our future careers in science, technology, law, or arts serve `manâfi'u li'n-nâs` (benefit for humanity)?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. Civilizational hierarchy of 'al-Kitâb – al-Mîzân – al-Hadîd' in Surah al-Hadîd 57:25:** | *"Al-Kitâb (constitutional law) and al-Mîzân (impartial justice) govern and bound al-Hadîd (deterrent power and technology) so that humanity upholds equity (qist)."* |
+| **2. Dual meaning of 'ba'sun shadîd wa-manâfi'u li'n-nâs' regarding technology and power:** | *"Material and technological capacity must provide both lawful defensive deterrence against aggression (ba's) and constructive civilian benefits for humanity (manâfi')."* |
+| **3. Ethical significance of 'bi'l-ghayb' (in the unseen) when wielding power or technology:** | *"Upholding the scale of justice (Mîzân) out of sincere conscience before God even when no human authority is watching."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Comparing Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, Vol. 29, p. 470), al-Mâwardî (*Adab al-Dunyâ wa'l-Dîn*, p. 135), and Ibn Taymiyyah (*al-Siyâsah al-Shar'iyyah*, p. 168) on `Al-Hadîd 57:25` to draft a policy brief on "The `Kitâb–Mîzân–Hadîd` Framework for Auditing Artificial Intelligence and Dual-Use Technologies".
+  - Investigating how classical Muslim scientists (al-Bîrûnî, Ibn al-Haytham, al-Jazarî) operationalized `al-Mîzân` and `manâfi'u li'n-nâs` in precision instruments and public engineering.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a visual balance-scale diagram mapping **`1. Al-Kitâb (Law & Moral Truth) + 2. Al-Mîzân (Scale of Justice) → Governing 3. Al-Hadîd (Protective Strength & Beneficial Technology)`**.
+  - Practicing with matching cards contrasting "Technology & Power Guided by Justice (`Mîzân & Manâfi'`)" against "Power & Technology Abused for Bullying or Harm".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, and spiritual citations (Ibn Fâris, al-Râghib al-Isfahânî, al-Zamakhsharî, Ibn Manzûr, Fakhr al-Dîn al-Râzî, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Prevents the isolation of `al-Hadîd` and `ba'sun shadîd` from `al-Kitâb` and `al-Mîzân` to justify lawless violence under `DKAB.11.4.4`, `DKAB.11.4.3`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -612,11 +703,11 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 6/50-55. Digital Verification: https://shamela.ws/book/2362/17/2546 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/222-224. Digital Verification: https://shamela.ws/book/2363/16/204 (urn:shamela:8381).
-[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/34-37. Digital Verification: https://shamela.ws/book/2171/10/564 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 3/140-145. Digital Verification: https://shamela.ws/book/168/17/109 (urn:shamela:21605).
-[^5]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Heyet (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 29/470-475. Digital Verification: https://shamela.ws/book/2363/15/5548 (urn:shamela:23635).
+[^1]: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 6/50-55. Digital Verification: https://shamela.ws/book/23627/2546 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/222-224. Digital Verification: https://shamela.ws/book/23636/204 (urn:shamela:8381).
+[^3]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/34-37. Digital Verification: https://shamela.ws/book/21710/564 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1990), 3/140-145. Digital Verification: https://shamela.ws/book/1687/109 (urn:shamela:21605).
+[^5]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Heyet (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 29/470-475. Digital Verification: https://shamela.ws/book/23635/5548 (urn:shamela:23635).
 [^6]: Stockholm International Peace Research Institute (SIPRI) (2025). *SIPRI Yearbook 2025: Armaments, Disarmament and International Security*. Stockholm / Oxford: Oxford University Press. DOI: doi:10.55163/sipri.2025.01. URL: https://www.sipri.org
 [^7]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025: Constraints on Government Powers and Regulatory Enforcement*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2025.02. URL: https://worldjusticeproject.org
 [^8]: United Nations Industrial Development Organization (UNIDO) (2025). *Industrial Development Report 2024-2025: Strategic Metallurgy, Dual-Use Technologies and Sustainable Infrastructure*. Vienna: UNIDO Publications. DOI: doi:10.18356/unido.2025.04. URL: https://www.unido.org

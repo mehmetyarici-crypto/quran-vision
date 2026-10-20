@@ -4,7 +4,7 @@
 - **Sürüm:** `v6.2.2` (Külliyat, İSNAD 2 + Lafzî Şâmile İktibası + Nokta Atışı `page_id` + Adım 13 Üçlü İrfânî Reform, Çift Dilli A4 PDF, XMP ve CERN/Zenodo Tescil Sürümü)
 - **Tarih:** 20 Ekim 2026
 - **Önceki Sürümler:** `v5.1.3` $\rightarrow$ `v5.2.0` $\rightarrow$ `v6.0.0` $\rightarrow$ `v6.1.0` $\rightarrow$ `v6.1.1` $\rightarrow$ `v6.2.0` $\rightarrow$ `v6.2.1` $\rightarrow$ `v6.2.2`
-- **Kapsam:** Katman 3 (Akademik-Derin); 5 Makro Faz, 26 Analiz Adımı, `Z-1..Z-5` Zorunlu/Koşullu Ekler (`Z-4.5` Çift Katmanlı Bibliyografya dahil), 40 Dakikalık TYMM Pedagojik Ders Planı ve Çift Dilli (TR/EN) Yayın Hattı (33 A4 PDF)
+- **Kapsam:** Katman 3 (Akademik-Derin); 5 Makro Faz, 26 Analiz Adımı, `Z-1..Z-5` Zorunlu/Koşullu Ekler (`Z-4.5` Çift Katmanlı Bibliyografya dahil), 40 Dakikalık TYMM Pedagojik Ders Planı ve Çift Dilli (TR/EN) Yayın Hattı (34 A4 PDF)
 - **Kalıcı CERN/Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23410818` (Sürüm DOI)
 - **Canlı Külliyat Portalı:** https://mehmetyarici-crypto.github.io/quran-vision/
 - **Açık Bilim Lisansı:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (`CC BY-NC-SA 4.0`)
@@ -12,18 +12,25 @@
 
 ---
 
-## 🛡️ GELECEK TÜM ÂYET MONOGRAFİLERİ (`QV-2026-016` VE SONRASI) İÇİN SARSILMAZ ANAYASAL STANDARTLAR (BAĞLAYICI MADDELER)
+## 🛡️ GELECEK TÜM ÂYET MONOGRAFİLERİ (`QV-2026-016` VE SONRASI) İÇİN 5 SARSILMAZ ANAYASAL STANDART (BAĞLAYICI MADDELER)
 
-Gelecekte Quran Vision külliyatına eklenecek tüm âyet monografilerinde (`QV-2026-016` ve sonrası) aşağıdaki **4 bağlayıcı anayasal kural** istisnasız uygulanır ve `src/gem_lint.py` tarafından **KESİCİ HATA (`BLOCK`)** seviyesinde denetlenir:
+Gelecekte Quran Vision külliyatına eklenecek tüm âyet monografilerinde (`QV-2026-016` ve sonrası) ve mevcut 15 kurucu monografinin revizyonlarında aşağıdaki **5 bağlayıcı anayasal standart** istisnasız uygulanır ve `src/gem_lint.py` tarafından **KESİCİ HATA (`BLOCK`)** seviyesinde denetlenir:
 
-1. **Madde 1 — Lafzî İktibas İlkesi (*nakl bi'l-lafz*):**
-   `classical_sources` altındaki `arabic_quote` alanına asla özet/telhîs (*nakl bi'l-ma'nâ*) metin yazılamaz; alıntı doğrudan **el-Mektebetü'ş-Şâmile**'deki (`shamela.ws`) orijinal metinden harfi harfine alınmalı ve tarayıcıda `Ctrl+F` yapıldığında **%100** bulunmalıdır.
-2. **Madde 2 — Nokta Atışı Sayfa ID Bağlantısı (`page_id`):**
-   Genel kitap kapağı linkleri (`https://shamela.ws/book/<book_id>`) kesinlikle yasaktır; bağlantı mutlaka `https://shamela.ws/book/<book_id>/<page_id>` formatında cümlenin fiilen geçtiği sayfayı göstermelidir (`src/gem_lint.py` **Kontrol A — `L-0107` BLOCK**).
-3. **Madde 3 — Gövde Metni Tahrîc ve Parantez Standardı:**
-   Metin içindeki tüm hadisler **Kütüb-i Sitte** tahrîciyle (*Buhârî, Müslim, Ebû Dâvûd, Tirmizî, Nesâî, İbn Mâce* vb. bâb ve hadis numarasıyla), âyetler standart `(Sûre Adı Sûre No/Âyet No)` veya `(Sûre Adı Sûre No:Âyet No)` paranteziyle, ulemâ ve sahâbe kavilleri ise **İSNAD 2** matbu cilt/sayfa ve doğrulanabilir dijital bağlantısıyla belgelenmelidir.
-4. **Madde 4 — Adım 13 Üçlü Bütünlük (*Enfüsî-Âfâkî Diyalektik ve Kalp Fıkhı*):**
-   `### ADIM 13` (ve İngilizce eşleniğinde `### STEP 13`) mutlaka **13.1 (Enfüsî-Âfâkî Diyalektik)**, **13.2 (Kalp Fıkhı ve Bâtınî İlletler)** ve **13.3 (Klasik İşârî ve İrfânî Tahrîc — Kuşeyrî, Gazzâlî, Muhâsibî, Sehl et-Tüsterî, İbn Acîbe veya Râgıb el-İsfahânî metni ve orijinal Arapça iktibası)** alt başlıklarıyla birleşik olarak yazılmalıdır (`src/gem_lint.py` **Kontrol B — `L-2301..L-2303` BLOCK**).
+1. **Standart 1 — Lafzî İktibas İlkesi (*nakl bi'l-lafz*):**
+   `classical_sources` altındaki `arabic_quote` alanına ve `ADIM 13.3` işârî tefsir nakillerine özet/telhîs (*nakl bi'l-ma'nâ*) Arapça metin yazılamaz; alıntı doğrudan **el-Mektebetü'ş-Şâmile** (`shamela.ws`) veya **Altafsir** (`altafsir.com`) üzerindeki orijinal metinden harfi harfine alınmalı ve tarayıcıda `Ctrl+F` / `normalize_arabic` denetiminde birebir lafzî eşleşme sağlamalıdır (`src/gem_lint.py` **Kapı V16 — `L-2503` BLOCK**).
+2. **Standart 2 — Nokta Atışı Sayfa ID Bağlantısı (`page_id`) ve Çoklu Sunucu Sicil Doğrulaması:**
+   Genel kitap kapağı linkleri (`https://shamela.ws/book/<book_id>`) ve fihrist/cilt/bâb ofseti kaymış bağlantılar yasaktır; Şâmile adresleri `https://shamela.ws/book/<book_id>/<page_id>` formatında cümlenin fiilen geçtiği sayfayı göstermeli, `altafsir.com` bağlantıları doğru `tMadhNo`/`tTafsirNo`/`tSoraNo`/`tAyahNo` parametreleriyle eşleşmeli ve tüm bağlantılar tek doğruluk kaynağı olan [`data/sources_registry.yaml`](data/sources_registry.yaml) sicilinde `VERIFIED` statüsüyle kayıtlı olmalıdır (`src/gem_lint.py` **Kapı A — `L-0107` ve Kapı V16 — `L-2501..L-2506` BLOCK**).
+   > **Epistemik Doğrulama Beyanı (Sıfır İlke 3):** `[2026-10-20] itibarıyla incelenen [176/176] kayıt (127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL), [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem (51/176 = 0.29)] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün.`
+3. **Standart 3 — Gövde Metni Tahrîc ve Parantez Standardı:**
+   Gövde metnindeki her hadis **Kütüb-i Sitte** tahrîciyle (*Buhârî, Müslim, Ebû Dâvûd, Tirmizî, Nesâî, İbn Mâce* vb. bâb ve hadis numarasıyla), her âyet standart `(Sûre Adı Sûre No/Âyet No)` veya `(Sûre Adı Sûre No:Âyet No)` paranteziyle, her sahâbe ve ulemâ kavli ise **İSNAD 2** matbu cilt/sayfa ve doğrulanabilir dijital bağlantısıyla belgelenmelidir.
+4. **Standart 4 — Adım 13 Üçlü İrfânî Bütünlük (*Enfüsî-Âfâkî Diyalektik ve Kalp Fıkhı*):**
+   `### ADIM 13` (ve İngilizce eşleniğinde `### STEP 13`) bölümü mutlaka **13.1 (Enfüsî-Âfâkî Diyalektik)**, **13.2 (Kalp Fıkhı ve Bâtınî İlletler — Muhâsibî/Gazzâlî)** ve **13.3 (Klasik İşârî ve İrfânî Tahrîc — Kuşeyrî, Tüsterî, İbn Acîbe, Bursevî veya Âlûsî lafzî Arapça metni ve İSNAD 2 künyesi)** alt başlıklarıyla birleşik olarak yapılandırılmalıdır (`src/gem_lint.py` **Kapı B — `L-2301..L-2303` BLOCK**).
+5. **Standart 5 — Adım 20 Dörtlü TYMM Kurumsal Ders Tasarımı:**
+   `### ADIM 20` (ve İngilizce eşleniğinde `### STEP 20`) bölümü en az 500–700 kelime derinliğinde aşağıdaki 4 kurumsal alt başlıkla yapılandırılmalıdır (`src/gem_lint.py` **Kapı C / V15 — `L-2401..L-2403` BLOCK**):
+   - **20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi:** Sınıf seviyesi, öğrenme alanı/ünite, `DKAB.` öğrenme çıktısı kodları, Alan Becerileri (`DAB1–DAB6`), Sosyal-Duygusal Öğrenme Becerileri (`SDB1.2`, `SDB3.3` vb.), Okuryazarlık (`OB1`), Eğilimler (`E3.4`) ile `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` usûl ilkeleri.
+   - **20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları:** `05 + 12 + 11 + 07 + 05 = 40 dk` akış tablosu ve her aşama için **doldurulmuş** sınıf içi araçlar: *Anlam Çözümleme Tablosu* (*Semantic Analysis Table*), *9 Kutucuklu Yapılandırılmış Grid* (*Structured Grid*), *Zıt Panel / Münazara Vaka Senaryosu* (*Opposite Panel / Debate*), *Konuşma Halkası Muhasebe Soruları* (*Speaking Circle*) ve *3 Maddelik Öğrenci Çıkış Kartı* (*Exit Card*).
+   - **20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme):** İleri düzey öğrenciler için *Zenginleştirme* (*Enrichment*) ve öğrenme desteğine ihtiyaç duyan öğrenciler için *Destekleme* (*Support / Scaffolding*) uygulamaları.
+   - **20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi:** *Lafzî İktibas ve Kaynak Filtresi*, *Pedagojik Süreç Filtresi* ve *Din İstismarını Önleme Filtresi*.
 
 ---
 
@@ -57,14 +64,14 @@ Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.2**), Kur'an âyetleri üz
 
 1. **Otorite Sınırı:** Çıktı analitik ve beşerî bir içtihat/yorumdur; dinî fetva veya adli kaza hükmü yerine geçmez.
 2. **Determinizm Sınırı:** Toplumsal sonuçlar kaçınılmaz kader kabul edilmez; insan iradesi (sünnetullah), kurumlar ve bağlam birlikte değerlendirilir.
-3. **Epistemik Tevazu:** Mutlak kesinlik ve kusursuzluk iddiaları (*"kesinlikle kanıtlanmıştır"*, *"şüphesiz tek doğru"* vb.) kullanılmaz. Doğrudan kaynak nakli (`[NAKİL]`), tercüme (`[TERCÜME]`), analistin çıkarımı (`[YORUM]`), varsayım ve belirsizlik birbirinden kesin olarak ayrılır.
-4. **Rol Ayrımı:** Analiz, Red Team karşı okuma, algoritmik iç kalite kontrol (`src/gem_lint.py`) ve bağımsız dış akademik hakemlik (`Z-5`) farklı işlevlerdir. Algoritmik iç denetim testleri dış hakem onayı gibi sunulamaz.
+3. **Epistemik Tevazu:** Aşkın kesinlik veya yanılmazlık iddiaları yerine tarihli, kapsamlı ve yöntemli doğrulama dili kullanılır (*"[Tarih] itibarıyla incelenen [X/X] kayıt, [Yöntem] ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün"*). Doğrudan kaynak nakli (`[NAKİL]`), tercüme (`[TERCÜME]`), analistin çıkarımı (`[YORUM]`), varsayım ve belirsizlik birbirinden açıkça ayrılır.
+4. **Rol Ayrımı:** Analiz, Red Team karşı okuma, algoritmik iç kalite kontrol (`src/gem_lint.py` / `src/verify_all_servers.py`) ve bağımsız dış akademik hakemlik (`Z-5`) ile `>= 0.10` manuel örneklem denetimi (`human_sample_audit`) farklı işlevlerdir. Algoritmik iç denetim testleri dış hakem onayı gibi sunulamaz.
 5. **Olgu-Değer Ayrımı (Hume Giyotini):** Ampirik bulgular (*"olan / is"*) normatif öncülleri (*"olması gereken / ought"*) tek başına üretmez; aradaki normatif köprü aksiyomu açıkça yazılır. Popperci yanlışlanabilirlik (*falsifiabilite*) Kur'an âyetinin ilahî hakikatine değil, yalnızca dünyevi politika hipotezlerine ve kurumsal modellere uygulanır.
-6. **Orantılı Yöntem:** Bir alt alan âyet veya araştırma sorusu için uygulanabilir değilse yapay içerik uydurulmaz; *"uygulanamaz"* gerekçesi kaydedilir. Ebced, cifir veya numerolojik çıkarımlar analitik kanıt olarak kesinlikle kullanılmaz.
+6. **Orantılı Yöntem:** Bir alt alan âyet veya araştırma sorusu için uygulanabilir değilse yapay içerik uydurulmaz; *"uygulanamaz"* gerekçesi kaydedilir. Ebced, cifir veya numerolojik çıkarımlar analitik kanıt olarak kullanılmaz.
 
 ---
 
-## 2. On Dört Doğrulama Modülü (V1–V14)
+## 2. On Altı Doğrulama Modülü (V1–V16)
 
 - **V1 — İki Katmanlı Kaynak Künyesi, Lafzî İktibas ve Nokta Atışı `page_id` (`L-0100..L-0107`):**
   - `classical_sources`: Klasik İslami kaynaklarda İSNAD 2. Edisyon standardında müellif (`author`), hicrî/milâdî vefat tarihi (`death_year: "ö. H/M"`), eser adı (`work`), muhakkik (`editor`), yayınevi (`publisher`), basım yeri (`publication_place`), basım yılı (`publication_year`), cilt (`volume`), sayfa (`pages`), Şâmile'den harfi harfine lafzî Arapça ibare (`arabic_quote`), nokta atışı sayfa ID'li doğrulama bağlantısı (`verification_link: "https://shamela.ws/book/<book_id>/<page_id>"`) ve URN/DOI (`doi_or_urn`) zorunludur. Genel kitap kapağı linkleri (`shamela.ws/book/\d+` sayfa ID'siz) `L-0107` kuralıyla `BLOCK` verir.
@@ -81,7 +88,16 @@ Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.2**), Kur'an âyetleri üz
 - **V11 — Değerlendirme ve Açık Hakemlik Kaydı (`Z-5`):** Algoritmik iç kontrol (`internal_linter_verified: true`) ile bağımsız dış akademik hakem incelemesi (`status: "PRE-RELEASE"` / `"EXTERNALLY-REVIEWED"`) birbirinden ayrılır.
 - **V12 — `ADIM 01` İçerik Yoğunluğu ve Lafzî Derinlik Doğrulaması (*Content-Depth Assertion* — `L-2101..L-2108`):** `ADIM 01` bölümünün harekeli Arapça blok alıntı, bütüncül meal, en az 6 maddelik kelime-kelime lafzî çözümleme, klasik tefsir `[NAKİL]`/`[YORUM]` tahkiki ve asgari kelime hacmi kriterlerini karşıladığı algoritmik olarak denetlenir.
 - **V13 — `ADIM 07` Sistem Haritası (CLD) Doğrulaması (`L-2201..L-2207`):** Pekiştirici (`R1`) ve Dengeleyici (`B1`) geri besleme döngüleri, `→` nedensel zincirleri, sistemik gecikme, kaldıraç noktası, kırılma noktası (`Tipping Point`) ve erken uyarı (`N4`) sinyalleri denetlenir.
-- **V14 — `ADIM 13` Üçlü İrfânî Bütünlük ve Klasik İşârî Tahrîc Doğrulaması (`L-2301..L-2303`):** `### ADIM 13` (veya `### STEP 13`) altında `13.1`, `13.2` ve `13.3` alt başlıklarının eksiksiz yer aldığı ve klasik tasavvuf/irfân otoritelerine (Kuşeyrî, Gazzâlî, Muhâsibî, Sehl et-Tüsterî, İbn Acîbe, Râgıb el-İsfahânî) İSNAD 2 atfı yapıldığı kesin kesici (`BLOCK`) kural olarak denetlenir.
+- **V14 — `ADIM 13` Üçlü İrfânî Bütünlük ve Klasik İşârî Tahrîc Doğrulaması (`L-2301..L-2303`):** `### ADIM 13` (veya `### STEP 13`) altında `13.1`, `13.2` ve `13.3` alt başlıklarının eksiksiz yer aldığı ve klasik tasavvuf/irfân otoritelerine (Kuşeyrî, Gazzâlî, Muhâsibî, Sehl et-Tüsterî, İbn Acîbe, Râgıb el-İsfahânî) İSNAD 2 atfı yapıldığı kesici (`BLOCK`) kural olarak denetlenir.
+- **V15 — `ADIM 20` Dörtlü TYMM Kurumsal Ders Tasarımı ve Pedagojik Uyum Doğrulaması (`L-2401..L-2403`):** `### ADIM 20` (veya `### STEP 20`) altında `DKAB.` öğrenme çıktısı, `DAB` alan becerisi ve `SDB` sosyal-duygusal öğrenme becerisi kodlarının (`L-2401`), `20.1.`, `20.2.`, `20.3.`, `20.4.` alt başlıkları ile 5 aşamalı 40 dakikalık ders araçlarının (*Anlam Çözümleme Tablosu, Yapılandırılmış Grid, Zıt Panel, Konuşma Halkası, Çıkış Kartı* / *Semantic Analysis Table, Structured Grid, Opposite Panel, Speaking Circle, Exit Card* — `L-2402`) ve *Zenginleştirme / Destekleme* (*Enrichment / Support-Scaffolding* — `L-2403`) farklılaştırma basamaklarının eksiksiz yer aldığı denetlenir.
+- **V16 — Çoklu Sunucu Doğrulama, Tek Doğruluk Sicili (`data/sources_registry.yaml`), Rol Ayrımı ve Tazelik Denetimi (`L-2501..L-2506`):**
+  - **Tek Doğruluk Kaynağı ve Türev Hiyerarşisi (Şart D3):** Tek doğruluk kaynağı [`data/sources_registry.yaml`](data/sources_registry.yaml) dosyasıdır; [`docs/source_verification_manifest.json`](docs/source_verification_manifest.json) ise derleme anında (`src/build_portal.py`) otomatik üretilen salt-okunur arayüz türevidir ve elle düzenlenemez.
+  - **`L-2501` (`BLOCK` — Sicil Kilidi):** Raporlarda geçen her `shamela.ws`, `altafsir.com` ve kurumsal veri bağlantısı [`data/sources_registry.yaml`](data/sources_registry.yaml) içinde `VERIFIED` statüsüyle yer almak zorundadır.
+  - **`L-2502` (`BLOCK` — Fihrist/Bölüm Eşleşme Kilidi):** Atfedilen fihrist, cilt, sûre/âyet veya müfessir ile hedef sayfanın doğrulanmış başlığı (`verified_breadcrumb`) ve URL parametreleri (`tMadhNo=3`, `tTafsirNo=31` vb.) uyuşmuyorsa `BLOCK` üretir.
+  - **`L-2503` (`BLOCK` — Lafzî İktibas Kilidi):** `arabic_quote` veya `ADIM 13.3` içindeki `[NAKİL]` Arapça metin hedef sayfa verisiyle (`quote_matched: true` / `expected_quote_norm`) eşleşmiyorsa `BLOCK` üretir.
+  - **`L-2504` (`WARN` — Tazelik Denetimi):** Doğrulama tarihi (`verified_at`) 90 günü aşmış veya `snapshot_sha256` özeti eksik kayıtlar için yeniden doğrulama uyarısı verir.
+  - **`L-2505` (`BLOCK` — Mühür Kilidi):** `L-2501`, `L-2502` ve `L-2503` kapılarından sıfır `BLOCK` alınmadan `.sha256` manifest mühürlemesi yapılamaz.
+  - **`L-2506` (`BLOCK` — Rol Ayrımı ve Manuel Örneklem Kilidi):** Sicildeki kayıtların en az `%10`'unda (`>= 0.10`) `human_sample_audit.sampled: true` alanı doldurulmamışsa `BLOCK` üretir. *Metodolojik Not (İlke 4): Örneklem denetimi (`51/176 = 0.29`) proje yürütücüsü (**Mehmet Yarıcı**) tarafından gerçekleştirilmiş olup, bağımsız dış hakem değerlendirmesi III. Maarif Kongresi (`MOIJUB`) hakem süreci kapsamında yürütülmektedir.*
 
 ---
 
@@ -168,7 +184,11 @@ peer_review:
 - **ADIM 18 — Bilgi Tabanı, Risk ve Azaltma Matrisi**
 - **ADIM 18.1 — Dil Güvenliği Beyanı**
 - **ADIM 19 — İzleme, Yol Haritası (1., 3., 5. Yıl KPI) ve Geriye Dönük Sınama (*Retrodiction*)**
-- **ADIM 20 — Açık Araştırma Soruları ve Varsayımlar**
+- **ADIM 20 — Açık Araştırma Soruları, Varsayımlar ve 40 Dakikalık TYMM Kurumsal Ders Tasarımı (V15 Zorunlu — 4'lü Bütünlük):**
+  - **20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi (`DKAB.`, `DAB1–DAB6`, `SDB`, `OB1`, `E3.4`)**
+  - **20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları (Anlam Çözümleme Tablosu, 9'lu Yapılandırılmış Grid, Zıt Panel, Konuşma Halkası, Çıkış Kartı)**
+  - **20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)**
+  - **20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi**
 
 ---
 
@@ -183,7 +203,7 @@ peer_review:
 
 ---
 
-## 6. Külliyat Envanteri (15 Kurucu Monografik Rapor: `QV-2026-001` – `QV-2026-015` ve 33 A4 PDF)
+## 6. Külliyat Envanteri (15 Kurucu Monografik Rapor: `QV-2026-001` – `QV-2026-015` ve 34 A4 PDF)
 
 | Rapor Kodu | Sûre ve Âyet | Konu Başlığı | Türkçe Rapor | İngilizce Rapor |
 | :--- | :--- | :--- | :--- | :--- |
@@ -203,3 +223,4 @@ peer_review:
 | **QV-2026-014** | Hucurât 49:13 | İnsani Eşitlik, Çoğulcu Tanışma (Teârüf) Etiği ve Ahlaki Sorumluluk (Takvâ) | [TR](docs/tr/19-rapor-hucurat-4913-v6.1.1.md) | [EN](docs/en/19-rapor-hucurat-4913-en-v6.1.1.md) |
 | **QV-2026-015** | Mâide 5:32 | Yaşam Hakkının Evrensel Dokunulmazlığı, İhyâ (Can Kurtarma) Etiği ve Fesadın Önlenmesi | [TR](docs/tr/20-rapor-maide-532-v6.1.1.md) | [EN](docs/en/20-rapor-maide-532-en-v6.1.1.md) |
 | **REHBER (33. PDF)** | İSNAD-2 Rehberi | Klasik Arapça Dijital Veri Tabanları ve Tahkik Rehberi (Mehmet Yarıcı, 2026) | [PDF](docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf) | [PDF](docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf) |
+| **REHBER (34. PDF)** | TYMM DKAB Rehberi | TTKB 2026 Uyumlu 15 Kurucu Âyet 40 Dakikalık Ders Tasarımı Rehberi (Mehmet Yarıcı, 2026) | [PDF](docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf) | [PDF](docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf) |

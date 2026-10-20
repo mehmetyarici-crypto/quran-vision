@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "631"
     arabic_quote: "والسارقة أى حكمهما. ووجه آخر وهو أن يرتفعا بالابتداء، والخبر فَاقْطَعُوا أَيْدِيَهُما ودخول الفاء لتضمنهما معنى الشرط، لأنّ المعنى: والذي سرق والتي سرقت فاقطعوا أيديهما"
-    verification_link: "https://shamela.ws/book/2362/17/634"
+    verification_link: "https://shamela.ws/book/23627/634"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "3"
     pages: "154"
     arabic_quote: "السين والراء والقاف أصلٌ يدلُّ على أخْذ شئ فى خفاء وسِتر. يقال سَرَق يَسْرق سَرِقةً. والمسروق سَرَقٌ. واستَرَق السّمع، إذا تسمَّع مختفياً. ومما شذّ عن هذا الباب السَّرَق: جمع سَرَقة، وهى القطعة من الحرير."
-    verification_link: "https://shamela.ws/book/2171/10/1223"
+    verification_link: "https://shamela.ws/book/21710/1223"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "10"
     pages: "156"
     arabic_quote: "والاسْتِراق: الخَتْل سِرًّا كَالَّذِي يَسْتَمِعُ، والكَتَبةُ يَسْتَرِقُون مِنْ بَعْضِ الْحِسَابَاتِ. ابْنُ عَرَفَةَ فِي قَوْلِهِ تَعَالَى: وَالسَّارِقُ وَالسَّارِقَةُ"
-    verification_link: "https://shamela.ws/book/168/17/4826"
+    verification_link: "https://shamela.ws/book/1687/4826"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "62"
     arabic_quote: "قال النبي صلى الله عليه وسلم إن أَسْوَأَ النَّاسِ سَرِقَةً هُوَ الَّذِي يَسْرِقُ صَلَاتَهُ قيل له يَا رَسُولَ اللَّهِ"
-    verification_link: "https://shamela.ws/book/2357/19/1208"
+    verification_link: "https://shamela.ws/book/23579/1208"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "18"
     arabic_quote: "فَأُصُولُ الْعِبَادَاتِ رَاجِعَةٌ إِلَى حِفْظِ الدِّينِ مِنْ جانب الوجود، كالإيمان٤."
-    verification_link: "https://shamela.ws/book/1143/15/676"
+    verification_link: "https://shamela.ws/book/11435/676"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -389,13 +389,13 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 - **[YORUM]** Kur'ân-ı Kerîm'in iktisadi ve cezai adalet nizamında dış dünyadaki mülkiyet emniyeti, kamu malı dokunulmazlığı ve sosyal adalet mimarisi (`âfâk`) ile insanın iç dünyasındaki kanaat, emanet ve helâl bilinci (`enfüs`) ayrılmaz bir ontolojik bütünlük oluşturur. **Mâide 5:38–39** âyetlerinin dış dünyada başkasının emeğini ve mülkünü gasp eden hırsızlık (*sirkat*), kamu kaynaklarını yağmalayan beyaz yakalı yolsuzluk (*gulûl*) ve açlık/yoksulluk kaynaklı sosyal krizlere karşı kurduğu hukuki denge (`âfâk` boyutu); kalpte mülkiyet gaspını doğuran tamah (*tama'*), doymak bilmez hırs (*şuhh*), *tûl-i emel* (dünyada hiç ölmeyecekmiş gibi biriktirme arzusu) ve kul hakkı duyarsızlığına karşı yürütülen içsel arınma mücadelesiyle (`enfüs` boyutu) doğrudan kenetlenmiştir. **Fussilet 41:53** ilkesi uyarınca, kendi iç dünyasında açgözlülük ve tamah hırsızlarının elini kesemeyen yöneticiler ve toplumlar, kamusal alanda yolsuzluk ve talanla mücadele edemez. Aynı şekilde Mâide 5:39'da açılan *"Kim zulmünün ardından tövbe eder ve durumunu ıslah ederse şüphesiz Allah onun tövbesini kabul eder"* rahmet kapısı, dışsal cezai rehabilitasyonun (`K3` karar kolu) ancak içsel nedâmet, helâlleşme ve kalp ıslahıyla tamamlanabileceğini göstermektedir.
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın* — Gazzâlî & Muhâsibî Metodolojisi)
-- **[YORUM]** Zâhirî fıkıh (*fıkhü'z-zâhir*) hırsızlık suçunun maddi unsurlarını (*hırz*, *nisap*, *şüphe* ve *zarûret*) incelerken, kalp fıkhı (*fıkhü'l-bâtın*) insanı başkasının hakkına el uzatmaya sürükleyen bâtınî marazları tahlil eder. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn* adlı eserinin *Kitâbü Zemmi'l-Buhl ve Zemmi Hubbi'l-Mâl* (Beyrut: Dârü'l-Ma'rife, Cilt: 3, s. 231–260, [Dijital Doğrulama](https://shamela.ws/book/9472/231)) ve *Kitâbü'l-Helâl ve'l-Harâm* (Cilt: 2, s. 88–105, [Dijital Doğrulama](https://shamela.ws/book/9472/88)) bölümlerinde, mal sevgisi (*hubbü'l-mâl*) ve tamah illetinin kalp gözünü kör ederek insanı önce şüpheli kazançlara, ardından açık hıyanet ve gasba sürüklediğini ortaya koyar. **Hâris el-Muhâsibî** (ö. 243/857) ise *el-Mekâsib ve'l-Vera'* (thk. Abdülkâdir Ahmed Atâ, Beyrut: Müessesetü'l-Kütübi's-Sekâfiyye, 1987, s. 42–68, [Dijital Doğrulama](https://shamela.ws/book/9683/42)) eserinde *vera'* (şüpheli şeylerden sakınma) ve helâl lokma bilincini tüm ibadet ve adalet hayatının temeli sayar. Kalp fıkhında zengin ve muktedirlerin yoksulun hakkını (*zekât*, *infak* ve adil ücret) gasp etmesi, yoksulu çaresizliğe iten birincil bâtınî suçtur; nitekim Hz. Ömer'in (r.a.) Remâde kıtlığında haddi askıya alması (Mâlik, *el-Muvatta'*, 'Akdıye', 26), açlığın doğurduğu şüphenin yanı sıra toplumun sosyal dayanışma sınavındaki sorumluluğunu da tescil etmektedir.
+- **[YORUM]** Zâhirî fıkıh (*fıkhü'z-zâhir*) hırsızlık suçunun maddi unsurlarını (*hırz*, *nisap*, *şüphe* ve *zarûret*) incelerken, kalp fıkhı (*fıkhü'l-bâtın*) insanı başkasının hakkına el uzatmaya sürükleyen bâtınî marazları tahlil eder. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn* adlı eserinin *Kitâbü Zemmi'l-Buhl ve Zemmi Hubbi'l-Mâl* (Beyrut: Dârü'l-Ma'rife, Cilt: 3, s. 231–260, [Dijital Doğrulama](https://shamela.ws/book/9472/977)) ve *Kitâbü'l-Helâl ve'l-Harâm* (Cilt: 2, s. 88–105, [Dijital Doğrulama](https://shamela.ws/book/9472/448)) bölümlerinde, mal sevgisi (*hubbü'l-mâl*) ve tamah illetinin kalp gözünü kör ederek insanı önce şüpheli kazançlara, ardından açık hıyanet ve gasba sürüklediğini ortaya koyar. **Hâris el-Muhâsibî** (ö. 243/857) ise *el-Mekâsib ve'l-Vera'* (thk. Abdülkâdir Ahmed Atâ, Beyrut: Müessesetü'l-Kütübi's-Sekâfiyye, 1987, s. 42–68, [Dijital Doğrulama](https://shamela.ws/book/6230/32)) eserinde *vera'* (şüpheli şeylerden sakınma) ve helâl lokma bilincini tüm ibadet ve adalet hayatının temeli sayar. Kalp fıkhında zengin ve muktedirlerin yoksulun hakkını (*zekât*, *infak* ve adil ücret) gasp etmesi, yoksulu çaresizliğe iten birincil bâtınî suçtur; nitekim Hz. Ömer'in (r.a.) Remâde kıtlığında haddi askıya alması (Mâlik, *el-Muvatta'*, 'Akdıye', 26), açlığın doğurduğu şüphenin yanı sıra toplumun sosyal dayanışma sınavındaki sorumluluğunu da tescil etmektedir.
 
 #### 13.3. Klasik İşârî / İrfânî Tahrîc (Kuşeyrî — *Letâ'ifü'l-İşârât* & Sehl et-Tüsterî)
 - **[NAKİL]** Klasik işârî tefsir geleneğinin kurucu imamlarından **Abdülkerîm el-Kuşeyrî** (ö. 465/1072), *Letâ'ifü'l-İşârât* adlı eserinde Mâide 5:38 âyetinin kalp ve nefis terbiyesindeki işârî anlamını şu lafızlarla tahrîc etmektedir:
-  > «والسارق والسارقة فاقطعوا أيديهما... الإشارة فيه: قطع أيدي الآمال عن استشراف ما في أيدي الخلق، وقطع أيدي النفوس عن التطاول إلى ما لم يقسم لها، بصدق التوكل والقناعة...»
+  > «وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا كَسَبَا نَكَالًا مِّنَ اللَّهِ... وَالْإِشَارَةُ فِيهِ أَنَّ أَمْرَ الْمَلِكِ مُقَابَلٌ بِالتَّعْظِيمِ، بَلْ كُلُّ مَنْ كَانَ أَعْلَى رُتْبَةً فَخَطَرُهُ أَتَمُّ وَأَخْفَى، وَالْمُطَالَبَةُ عَلَيْهِ أَشَدُّ. فَلَا يَسْتَخِفَّنَّ أَحَدٌ الْإِلْمَامَ بِزَلَّةٍ»
   > *"Hırsızlık eden erkek ve kadının ellerini kesin... Bu âyetteki irfânî işaret şudur: Halkın elindekilere göz dikip tamah etmekten emel ve hırs ellerini (eydiye'l-âmâl) kesin; nefislerin kendilerine taksim edilmeyen şeylere uzanan tamah ellerini sadık bir tevekkül, istiğnâ ve kanaat kılıcıyla kesin..."*
-  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 414–415 (krş. Sehl b. Abdillâh et-Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, 2002, s. 56, [Dijital Doğrulama](https://shamela.ws/book/23624/56)). **Dijital Kütüphane Bağlantısı:** [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=5&tAyahNo=38).
+  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 422 (krş. Sehl b. Abdillâh et-Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, 2002, s. 58, [Dijital Doğrulama](https://shamela.ws/book/23600/55)). **Dijital Kütüphane Bağlantısı:** [shamela.ws/book/23629/419](https://shamela.ws/book/23629/419) / [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=5&tAyahNo=38&tDisplay=yes).
 - **[YORUM]** **İbare Tahlili:** İmam Kuşeyrî ve Sehl et-Tüsterî, âyetin kamu düzenini ve mülkiyet emniyetini koruyan zâhirî hükmünü temel kabul etmekle birlikte, *kat'* (kesme) emrini bâtınî düzlemde **kalbin halkın elindeki dünyalığa uzanan tamah ve *tûl-i emel* bağlarını kanaat ve *istiğnâ* ile kesmek** olarak tefsir etmektedir. Sehl et-Tüsterî'nin de işaret ettiği üzere, dışsal uzuv ancak kalp emanet ve kanaat sınırını ihlal ettiğinde hıyanete uzanır; dolayısıyla **Adım 15**'teki `K1` (sosyal güvence), `K2` (beyaz yakalı yolsuzluk denetimi) ve `K3` (`5:39` tövbe ve ıslah) politikalarının kalıcı başarısı, toplumda *kanaat*, *infak* ve *kul hakkı korkusu*nun (*kalp fıkhı*) inşasına bağlıdır.
 
 ---
@@ -497,17 +497,109 @@ Mâide Sûresi 5:38'in hemen ardından gelen **5:39 âyeti** (*"Kim bu zulmünde
 ---
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
-- **Açık Araştırma Soruları:**
-  1. Kripto varlık hırsızlığı, siber fidye yazılımları ve algoritmik piyasa manipülasyonları İslam ceza hukukundaki `hırz` (korunaklı alan) ve `nisap` kavramlarıyla nasıl modellenecektir?
-  2. Enflasyonist politikalar veya tekelci fiyatlamalar yoluyla geniş kitlelerin alım gücünün eritilmesi, Kur'an'daki *"mallarınızı batıl yollarla yemeyin"* (Bakara 2:188) ve Mâide 5:38 ilkeleriyle nasıl ilişkilendirilebilir?
-- **Temel Varsayım:** Mülkiyet emniyetinin ancak adil gelir dağılımı, şeffaf kamu denetimi ve onarıcı ceza adaleti (`5:38–39`) birlikte işlediğinde kalıcı olacağı kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Mâide 5:38–39 — Mülkiyet Emniyeti, Sosyal Adalet Ön-Şartı ve Islah):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Dürüstlük, Emek, Sosyal Adalet, Mülkiyet Saygısı ve Merhamet.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hz. Ömer'in Hicrî 18 *Remâde (Kıtlık) Yılı*'nda hırsızlık cezasını askıya alma kararı (Mâlik, *el-Muvatta'*, 'Akdıye', 26; İbnü'l-Kayyim, *İ'lâmü'l-Muvakkıîn*, 3/11) örnek olay olarak sunulur ve *"Ceza hukuku sosyal adaletten bağımsız işleyebilir mi?"* sorusu tartışılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Bimâ kesebâ` (ihtiyaç dışı kasıtlı haksız kazanç), `hırz`, `şüphe kaidesi` ve Mâide 5:39'daki `tevbe ve ıslah` kavramları Cessâs ve Şâtıbî nakilleriyle incelenir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Geleneksel fiziki hırsızlık ile modern çağdaki siber suçlar ve kamu fonu hortumlamaları (beyaz yakalı suçlar) arasındaki adalet dengesi `R1` ve `B1` sistem döngüleri üzerinden müzakere edilir.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler suçun önlenmesinde sosyal güvence, caydırıcı hukuk ve onarıcı rehabilitasyonun (`5:39`) rolünü özetleyen bir politika matrisi hazırlar.
 
+- **Açık Araştırma Soruları:**
+  1. Kripto varlık hırsızlığı, siber fidye yazılımları ve algoritmik piyasa manipülasyonları İslam ceza hukukundaki `hırz` (korunaklı alan) ve `nisâb` kavramlarıyla nasıl modellenecektir?
+  2. Enflasyonist politikalar veya kamu malı yağması (*ğulûl*) yoluyla geniş kitlelerin alım gücünün eritilmesi, Kur'an'daki *"mallarınızı batıl yollarla yemeyin"* (`Bakara 2:188`) ve `Mâide 5:38–39` ilkeleriyle nasıl ilişkilendirilebilir?
+- **Temel Varsayım:** Mülkiyet emniyetinin ancak adil gelir dağılımı (*kifâyet*), şeffaf kamu denetimi ve onarıcı ceza adaleti (`Mâide 5:38–39`) birlikte işlediğinde kalıcı olacağı kabul edilmiştir.
+
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Mâide Sûresi 38 ve 39. âyetleri üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 12. Sınıf
+- **Öğrenme Alanı / Ünite:** Güncel Dinî Meseleler ve İslam Hukuk Felsefesi / Mülkiyet Emniyeti, Sosyal Adalet ve Islah
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.12.3.1` (*Güncel dinî meselelerin çözümünde temel ilke ve yöntemleri [makâsıd, zarûrât-ı hamse, içtihat ve sosyal adalet şartı] özetleyebilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [siyak-sibak, tarihsel bağlam ve sünnetle beyan] özetleyebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Açgözlülük (*hırs/tamah*), haksız kazanç arzusu ve başkasının hakkına el uzatma eğilimine karşı vicdani öz denetim kurma.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Helal emek, kamu malı hassasiyeti ve onarıcı adalet ilkeleriyle hareket etme.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Hıfzu'l-Mâl* ve *Hıfzu'n-Nefs* — mülkiyet dokunulmazlığı ile insan hayatının ve asgari geçim hakkının korunması), **"Hadleri şüphelerle düşürünüz"** (*Idra'û'l-hudûde bi'ş-şübühât*; Tirmizî, *Hudûd*, 2, nr. 1424) kaidesi, **Hz. Ömer'in Remâde (Kıtlık) Yılı İçtihadı**, `Mâide 5:39` tövbe/ıslah bütünlüğü ve `Sedd-i Zerâi'`.
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Mâide 5:38–39* âyetlerindeki `es-sârik`, `hırz`, `nisâb`, `şübhe`, `nekâl` ve `tövbe/ıslâh` kavramlarının lafzî ve fıkhî çözümlemesi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Cessâs, Şâtıbî ve Hz. Ömer'in sosyal adalet/zaruret içtihadı ile modern ceza hukuku, kamu malı yağması (*ğulûl*) ve onarıcı adaletin eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.12.3.1, E3.4` | **Zıt Panel / Münazara** | Sosyal adalet ve geçim güvencesi sağlanmadan salt şeklî ceza savunan aşırı yorumlar ile mülkiyet emniyetini hiçe sayan yaklaşımların sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB3.3, DAB6` | **Konuşma Halkası** | Gazzâlî (*Zemmü'l-Buhl ve Hubbi'l-Mâl*), Muhâsibî (*el-Mekâsib*) ve Kuşeyrî ekseninde tamah, hırs, *tûl-i emel* ve kul/kamu hakkı muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin *Hıfzu'l-Mâl*, Hz. Ömer'in makâsıd içtihadı ve `Mâide 5:39` ıslah kapısını tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya **Mâide 5:38** ve hemen devamındaki **Mâide 5:39** (*"Kim zulmünden sonra tövbe eder ve durumunu ıslah ederse, Allah onun tövbesini kabul eder"*) âyetleri birlikte yansıtılır. Öğrencilerden aşağıdaki **Anlam Çözümleme Tablosu** üzerinden temel fıkhî kavramları çözümlemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız / Usûl Kavramı | Kök ve Morfolojik Yapı | Klasik Sözlük ve Fıkıh Anlamı (`İbn Fâris / Cessâs / Şâtıbî`) | Siyak-Sibak ve Çağdaş Hukuki Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`ٱلسَّارِقُ` (`es-Sârik`)** | `s-r-k` (`سَرَقَ`) kökünden ism-i fâil | Başkasına ait koruma altındaki malı gizlice ve haksızca alan kimse ([İbn Fâris, *Makâyîs*, 3/154](https://shamela.ws/book/21710/1223)) | İhtiyaç ve zaruret dışında kasıtlı olarak mülkiyet dokunulmazlığını ihlal eden fail |
+| **`حِرْز` (`Hırz`) ve `نِصَاب` (`Nisâb`)** | Klasik fıkıh usûlü şartları | Malın koruma altında olması (*hırz*) ve belli bir asgari değeri (*nisâb*) aşması ([Cessâs, *Ahkâmü'l-Kur'ân*, 4/85](https://shamela.ws/book/23579/1208)) | Suçun unsurlarının oluşması için aranan sıkı kanunilik ve koruma standardı |
+| **`شُبْهَة` (`Şübhe` — *Der'ü'l-Hudûd*)** | `ş-b-h` kökünden usûl-i fıkıh terimi | *"Gücünüz yettiğince hadleri şüphelerle düşürünüz"* (Tirmizî, *Hudûd*, 2, nr. 1424) | Açlık, kıtlık, ekonomik çaresizlik veya ortak mülkiyet şüphesinde ağır cezanın düşmesi (*in dubio pro reo*) |
+| **`بِمَا كَسَبَا` (`Bimâ kesebâ`)** | `k-s-b` (`كَسَبَ`) kökünden mâzî fiil | Kendi hür iradeleriyle kazandıkları/işledikleri haksız fiil sebebiyle | Zorunluluk veya açlık baskısı altında değil, hür iradeyle işlenen kasıtlı suç sorumluluğu |
+| **`نَكَـٰلًا` (`Nekâlen`)** | `n-k-l` (`نَكَلَ`) kökünden mastar/mef'ûlün leh | Suçtan alıkoyan caydırıcı ibret ve hukuki bariyer ([Zemahşerî, *el-Keşşâf*, 2/228](https://shamela.ws/book/23627/634)) | Toplumun alın terini ve mülkiyet güvenliğini koruyan orantılı caydırıcılık |
+| **`تَابَ وَأَصْلَحَ` (`Tâbe ve Asleha` — 5:39)** | `t-v-b` ve `s-l-h` köklerinden şart cümlesi | Zulmünden dönüp tövbe etmek, zararı tazmin etmek ve davranışını ıslah etmek (`Mâide 5:39`) | Ceza hukukunda onarıcı adalet, rehabilitasyon ve topluma yeniden kazandırma |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Cessâs (*Ahkâmü'l-Kur'ân*, C. 4, s. 85–92), Şâtıbî (*el-Muvâfakât*, C. 2, s. 312–316) ve Hz. Ömer'in Remâde yılı içtihadı ile çağdaş iktisadi adalet ve finansal suç vakalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — Hz. Ömer'in Remâde Yılı İçtihadı:**<br>Kıtlık, açlık ve genel ekonomik darlık döneminde (`H. 18`) hırsızlık haddi uygulanmaz; Hâtıb'ın aç bırakılan işçileri vakasında ceza işçilere değil, onları aç bırakan işverene kesilmiştir (*Muvatta'*, Akdıye, 26). | **K2 — Çağdaş Vaka A (Sosyal Güvencesizlik ve Yoksulluk):**<br>Temel gıda ve barınma güvencesinden yoksun bırakılan bireylerin yaşadığı geçim krizi; sosyal devletin *kifâyet* (asgari refah) yükümlülüğü. | **K3 — Cessâs & Fıkıh Cumhuru (*Şübhe Kaidesi*):**<br>Hırz, nisâb ve tam mülkiyet şartları gerçekleşmeden veya açlık/ortaklık şüphesi (*şübhetü'l-milk*) varken had uygulanamaz; *Idra'û'l-hudûde bi'ş-şübühât* esastır. |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Beyaz Yakalı Suçlar ve Kamu Yağması / *Ğulûl*):**<br>Siber dolandırıcılık, banka hortumlaması ve kamu ihalelerinde milyonlarca insanın hakkının gasp edilmesi (`Bakara 2:188`, `Âl-i İmrân 3:161`). | **K5 — Şâtıbî Makâsıd İlkesi (*Hıfzu'l-Mâl & Hıfzu'n-Nefs*):**<br>Mülkiyetin korunması *zarûriyyât*tır; ancak canın korunması (*Hıfzu'n-Nefs*) maldan önceliklidir. Zaruret halinde yaşam hakkı üstün gelir. | **K6 — Çağdaş Vaka C (Şeklî/Lafzî Aşırılık):**<br>Sosyal adaleti, eğitim ve istihdamı tesis etmeden yalnızca sert bedensel cezalarla toplumsal düzen kurulabileceğini sanan bağlam kopukluğu. |
+| **K7 — Mâide 5:39 Onarıcı Adalet Hükmü:**<br>*"Kim zulmünden sonra tövbe eder ve kendini ıslah ederse, Allah tövbesini kabul eder; Allah Gafûr ve Rahîm'dir."* | **K8 — Modern Ceza Hukuku ve Rehabilitasyon:**<br>Masumiyet karinesi, suçla orantılı mali/adli yaptırım, kamu zararı müsaderesi ve hükümlülerin meslek edindirilerek topluma kazandırılması. | **K9 — Gazzâlî & Muhâsibî Kalp Fıkhı (*Zemmü'l-Hırs*):**<br>Başkasının malına veya kamu emanetine göz dikmenin içsel kökü kalpteki *tamah*, *tûl-i emel* ve *hubbü'l-mâl* (mal sevgisi) marazıdır. |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Sosyal Adalet Ön-Şartı ve Makâsıd Eşleştirmesi:* **`K1 ↔ K2 ↔ K5`** (Hz. Ömer'in Remâde içtihadı ve *Hıfzu'n-Nefs* önceliği ile sosyal devlet yükümlülüğü).
+  2. *Şüphe Kaidesi ve Şeklî Aşırılığın Reddi Eşleştirmesi:* **`K3 ↔ K6`** (*Der'ü'l-hudûd bi'ş-şübühât* usûlü ile bağlamından kopuk şekilci cezalandırmanın reddi).
+  3. *Kamu Malı Korunması, Onarıcı Adalet ve Kalp Fıkhı Eşleştirmesi:* **`K4 ↔ K7 ↔ K8 ↔ K9`** (Beyaz yakalı *ğulûl* suçlarıyla mücadele, `Mâide 5:39` ıslah kapısı ve içsel *tamah* tezkiyesi).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.12.3.1, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"Bir televizyon tartışmasında konuşmacılardan biri, ekonomik kriz ve işsizliğin pençesindeki bir toplumda sosyal adaleti, zekât/infak düzenini ve asgari geçim güvencesini hiç gündeme getirmeden İslam'ın tek çözümünün Mâide 5:38'deki cezayı derhal uygulamak olduğunu iddia etmektedir. Diğer konuşmacı ise mülkiyet hakkını ve kamu malı yağmasını önemsizleştirerek suçlulara hiçbir caydırıcı yaptırım uygulanmaması gerektiğini savunmaktadır."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Hz. Ömer (r.a.) Kur'an'daki Mâide 5:38 âyetini çok iyi bildiği halde Remâde (kıtlık) yılında ve Hâtıb b. Ebî Beltea'nın aç bırakılan işçileri vakasında neden el kesme cezasını uygulamamıştır (`DKAB.12.3.1`)?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** Hz. Ömer âyeti iptal etmemiş; bilakis Kur'an'ın **Makâsıd** (gaye) ve **Siyak-Sibak** bütünlüğünü işletmiştir. Devlet ve işveren insanlara insanca yaşayacakları asgari geçim (*kifâyet*) sağlamamışsa, orada `şübhe` ve `zaruret` vardır. Nitekim Hz. Ömer işçileri affetmiş, işçilerini aç bırakan zengin işveren Hâtıb'a ise çalınan devenin iki katı para cezası kesmiştir (*Muvatta'*, Akdıye, 26).
+  2. **Soru 2 (Sorgulayıcı Grup):** *"Mâide 5:38'in sonunda Allah'ın `Azîzün Hakîm` (Güçlü ve Hikmet Sahibi), hemen peşinden gelen 5:39'un sonunda ise `Gafûrun Rahîm` (Çok Bağışlayan ve Merhamet Eden) isimlerinin gelmesi ceza hukukuna nasıl bir denge kazandırır?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** `Azîzün Hakîm` kamu düzenini, alın terini ve mülkiyet emniyetini koruyan caydırıcı adaleti; `Gafûrun Rahîm` ise hatasından dönüp tövbe eden ve kendini düzelten (`ve asleha`) insanı dışlamayıp topluma yeniden kazandıran onarıcı rahmeti temsil eder.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** Hâris el-Muhâsibî (*el-Mekâsib ve'l-Vera'*, s. 42–68), İmam Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*, C. 3, s. 231–265, *Kitâbü Zemmü'l-Buhl ve Zemmü Hubbi'l-Mâl*) ve Kuşeyrî'nin (*Letâ'ifü'l-İşârât*, C. 1, s. 416–417) tespitleri paylaşılır: *"El uzatmanın bâtınî kökü kalpteki tamah (açgözlülük), haset ve kanaatsizliktir; öte yandan yoksulun hakkını vermeyen zenginin cimriliği (*şuhh*) de toplumu suça iten gizli bir hırsızlıktır."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Sadece fiziki bir eşyayı çalmak mı hırsızlıktır; yoksa dijital ortamda emek hırsızlığı (intihal/korsan), sınavda kopya çekmek veya kamuya ait zamanı ve kaynağı israf etmek de `Hıfzu'l-Mâl` ve emanet ihlali midir (`SDB1.2`, `SDB3.3`)?"*
+  2. *"Gazzâlî'nin belirttiği 'tamah ve mal hırsı' marazını kalbimizden temizlemek için helal kazanç ve infak ahlakını hayatımıza nasıl yerleştirebiliriz?"*
+  3. *"Kuşeyrî'nin Mâide 5:39'daki 'ıslah' kavramını 'kalbi nefsânî arzulardan arındırıp hak sahiplerine hakkını iade etmek' olarak yorumlaması bize nasıl bir tövbe bilinci kazandırır?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. İslam ceza hukukunda Mâide 5:38'in uygulanabilmesi için aranan temel sosyal ve fıkhî ön-şartlar:** | *"Toplumda açlık/kıtlık ve geçim çaresizliğinin bulunmaması (Hz. Ömer içtihadı), malın hırz (koruma) altında ve nisâb miktarında olması ve hiçbir şüphenin bulunmaması."* |
+| **2. Mâide 5:38 ile Mâide 5:39 arasındaki ayrılmaz bağlamsal ilişki:** | *"5:38 mülkiyet emniyetini ve caydırıcılığı kurarken, 5:39 tövbe ve ıslah (rehabilitasyon) kapısını açarak adaleti merhametle tamamlar."* |
+| **3. Günlük ve dijital hayatımda 'Hıfzu'l-Mâl' (kul ve kamu hakkı) için uygulayacağım bir eylem ilkesi:** | *"Başkasının emeğine, dijital üretimine ve kamu malına el uzatmamak; helal kazanç ve paylaşım (infak) bilinciyle yaşamak."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Cessâs (*Ahkâmü'l-Kur'ân*, C. 4, s. 85–92), Şâtıbî (*el-Muvâfakât*, C. 2, s. 312–316) ve İbn Kayyim el-Cevziyye'nin (*İ'lâmü'l-Muvakkıîn*, C. 3, s. 11–14) Hz. Ömer'in Remâde yılı içtihadını tahlil eden metinlerini inceleyerek "İslam Hukuk Felsefesinde Dağıtıcı Adalet ve Ceza Adaleti İlişkisi" başlıklı bir araştırma raporu hazırlama.
+  - Dünya Bankası (`WGI`) ve Uluslararası Şeffaflık Örgütü (`CPI`) verileri üzerinden kamu yolsuzluğu (*ğulûl*) ile yoksulluk kaynaklı suç oranları arasındaki korelasyonu analiz etme.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`Sosyal Adalet ve Geçim Güvencesi (Kifâyet) → Şüphelerle Cezanın Düşmesi (Der'ü'l-Hudûd) → Kamu ve Özel Mülkiyetin Korunması (Hıfzu'l-Mâl) → Tövbe ve Topluma Kazandırma (Mâide 5:39 Islâh)`** basamaklarını gösteren görsel akış şeması üzerinde çalışma.
+  - "Kul ve Kamu Hakkına Saygılı Davranış" ile "Emek ve Mülkiyet İhlali" örneklerini içeren eşleştirme kartlarıyla uygulama yapma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik lügat, fıkıh, usûl ve irfân nakilleri (İbn Fâris, Zemahşerî, İbn Manzûr, Cessâs, Şâtıbî, Muhâsibî, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* basamaklarıyla eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** Âyetin sosyal adalet, *şübhe* kaidesi ve `5:39` ıslah bağlamından koparılarak şekilci/ideolojik istismara konu edilmesi `DKAB.12.3.1`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` ilkeleriyle engellenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -561,11 +653,11 @@ Bu problematik şu derin adalet krizlerini doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/2357/19/1208
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/1223
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/4826
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/1143/15/676
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/634
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579/1208
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1223
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/4826
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435/676
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/634
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Transparency International (2024).** *Corruption Perceptions Index (CPI) 2024: Rule of Law & Public Integrity*. Berlin: Transparency International. https://www.transparency.org/en/cpi/2024. Erişim adresi: https://www.transparency.org

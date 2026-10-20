@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "2430"
     arabic_quote: "من أمر هذه الآية إن لم أقاتل هذه الفئة الباغية كما أمرنى الله عز وجل. قاله بعد أن اعتزل، فإذا كافت وقبضت عن الحرب أيديها تركت، وإذا تولت عمل بما روى عن النبي صلى الله عليه وسلم"
-    verification_link: "https://shamela.ws/book/2362/17/2430"
+    verification_link: "https://shamela.ws/book/23627/2430"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "137"
     arabic_quote: "فَإِنْ بَغَتْ إِحْداهُما عَلَى الْأُخْرى فَقاتِلُوا الَّتِي تَبْغِي [الحجرات/ ٩] ، فالبغي في"
-    verification_link: "https://shamela.ws/book/2363/16/119"
+    verification_link: "https://shamela.ws/book/23636/119"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "271"
     arabic_quote: "الباء والغين والياء أصلان: أحدهما طلب الشئ، والثانى جنس من الفساد. فمن الأوّل بغيت الشئ أبغيه إذا طلبته. ويقال بغيتك الشّئ إذا طلبته لك، وأبغيتك الشّئ إذا أعنتك على طلبه. والبغية والبغية الحاجة."
-    verification_link: "https://shamela.ws/book/2171/10/315"
+    verification_link: "https://shamela.ws/book/21710/315"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "14"
     pages: "78"
     arabic_quote: "وَقَالَ النَّبِيُّ، صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، لعَمَّار: وَيْحَ ابنِ سُمَيَّة تَقْتله الفئةُ البَاغِيَة"
-    verification_link: "https://shamela.ws/book/168/17/7202"
+    verification_link: "https://shamela.ws/book/1687/7202"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "280"
     arabic_quote: "قِتَالٌ مِنْ فِئَةٍ عَلَى وَجْهِ الْبَغْيِ قَابَلْنَاهُ بِالسِّلَاحِ وَبِمَا دُونَهُ حَتَّى تَرْجِعَ إلَى الْحَقِّ وَلَيْسَ فِي نُزُولِ الْآيَةِ عَلَى حَالِ قِتَالِ"
-    verification_link: "https://shamela.ws/book/2357/19/1826"
+    verification_link: "https://shamela.ws/book/23579/1826"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -404,16 +404,16 @@ Hucurât 49:9–10 âyetlerinin dış dünyadaki (*âfâk*) kamu hukuku ve ulusl
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
 Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) kaynaklarında toplumsal çatışmaları körükleyen ve sulh teşebbüslerini akamete uğratan bâtınî illetler; kardeşlik bağını kemiren öfke (*gadab*), kin (*hıkd*), haset (*hased*) ve grup taassubu olarak tahlil edilmiştir:
-- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Âdât* cildindeki *Kitâbü Âdâbi'l-Ülfe ve'l-Uhuvve ve's-Suhbe* ile *Rub'u'l-Mühlikât* cildindeki *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased* bölümlerinde; `inneme'l-mü'minûne ihvetün` (Hucurât 49:10) hükmünün müminler arasında mal, dil ve kalp düzeyinde hukuk doğuran manevi bir akid olduğunu, öfkenin kalpte mayalanmasıyla oluşan kinin (*hıkd*) ise insanı kardeşinin hakkını çiğnemeye (`bağy`), gıybete ve şemâtete (kardeşinin felaketine sevinmeye) sürüklediğini ayrıntılarıyla ortaya koyar. Gazzâlî'ye göre kalpteki kin ve taassup temizlenmedikçe zahirî barış anlaşmaları ilk kıvılcımda bozulmaya mahkûmdur (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 2, s. 157–195; C. 3, s. 175–200; Dijital erişim: [shamela.ws/book/9472/175](https://shamela.ws/book/9472/175)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Âdât* cildindeki *Kitâbü Âdâbi'l-Ülfe ve'l-Uhuvve ve's-Suhbe* ile *Rub'u'l-Mühlikât* cildindeki *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased* bölümlerinde; `inneme'l-mü'minûne ihvetün` (Hucurât 49:10) hükmünün müminler arasında mal, dil ve kalp düzeyinde hukuk doğuran manevi bir akid olduğunu, öfkenin kalpte mayalanmasıyla oluşan kinin (*hıkd*) ise insanı kardeşinin hakkını çiğnemeye (`bağy`), gıybete ve şemâtete (kardeşinin felaketine sevinmeye) sürüklediğini ayrıntılarıyla ortaya koyar. Gazzâlî'ye göre kalpteki kin ve taassup temizlenmedikçe zahirî barış anlaşmaları ilk kıvılcımda bozulmaya mahkûmdur (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 2, s. 157–195; C. 3, s. 175–200; Dijital erişim: [shamela.ws/book/9472/921](https://shamela.ws/book/9472/921)).
 - **Enfüs–Karar Köprüsü:** Kalbinde mezhebî, etnik veya hizbî asabiyet (`enfüs`) taşıyan arabulucuların dış dünyada (`âfâk`) verdikleri hükümler `bi'l-'adl` (adaletle) ve `aksitû` (hakkaniyetle) emrini ihlal ederek çatışmayı derinleştirir; bu sebeple `ADIM 15`'teki bağımsız tahkim (`K1`), `hattâ tefîe` sınırına bağlı caydırıcı güç (`K2`) ve onarıcı adalet (`K3`) mekanizmaları karar vericilerin kişisel ve hizbî çıkar çatışmalarından yalıtılmasını zorunlu kılar.
 
 #### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
 Tasavvufî ve işârî tefsir geleneğinin büyük müfessirleri, Hucurât 49:9–10 âyetlerindeki *iki mümin tâifenin çarpışması*, *bağy*, *fey'* ve *ıslah* kavramlarını insanın iç dünyasındaki **nefis** ile **kalp/ruh** arasındaki manevi mücadele olarak şerh etmişlerdir:
 - **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
   - `[NAKİL]`: Kuşeyrî, Hucurât 49:9–10 âyetlerinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
-    > «وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا... الإشارة فيه: طائفة النفس وطائفة القلب إذا اقتتلتا فأصلحوا بينهما بالعدل... وبغي النفس يوجب قتالها بسيوف المجاهدة حتى تفيء إلى أمر الله، فإن فاءت فأصلحوا بينهما برعاية حقوق الشريعة، وإعطاء النفس حظها المباح بالعدل والقسط»
-    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 438–439; Dijital doğrulama: [shamela.ws/book/23622/438](https://shamela.ws/book/23622/438) / [altafsir.com — Letâ'ifü'l-İşârât 49:9](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=9&tDisplay=yes)).*
-  - **Sehl b. Abdillâh et-Tüsterî (ö. 283/896), *Tefsîru't-Tüsterî*:** Erken dönem irfânî tefsirin kurucu imamı Sehl et-Tüsterî de âyetin bâtınî manasında, hevâ ve şehvetiyle haddi aşan (*bâğî*) nefsin ilahî emre dönünceye (`hattâ tefîe ilâ emrillâh`) kadar riyâzet ve hakikat kılıcıyla terbiye edilmesi gerektiğini, müminlerin kardeşliğinin (`ihvetün`) ise ancak nefsin bencilliğinden kurtulup Allah için birbirine şefkat duymakla tamamlanacağını belirtir (Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 152; Dijital erişim: [shamela.ws/book/23625/152](https://shamela.ws/book/23625/152)).
+    > «وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا... وَتَدُلُّ الْآيَةُ عَلَى وُجُوبِ نُصْرَةِ الْمَظْلُومِ... وَالْإِشَارَةُ فِيهِ: أَنَّ النَّفْسَ إِذَا ظَلَمَتِ الْقَلْبَ بِدُعَائِهِ إِلَى شَهَوَاتِهَا، وَاشْتِغَالِهَا فِي فَسَادِهَا فَيَجِبُ أَنْ يُقَاتِلَهَا حَتَّى تُثْخَنَ بِالْجِرَاحَةِ بِسُيُوفِ الْمُجَاهَدَةِ، فَإِنِ اسْتَجَابَتْ إِلَى الطَّاعَةِ يُعْفَى عَنْهَا لِأَنَّهَا هِيَ الْمَطِيَّةُ إِلَى بَابِ اللَّهِ»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 440–441; Dijital doğrulama: [shamela.ws/book/23629/1729](https://shamela.ws/book/23629/1729) / [altafsir.com — Letâ'ifü'l-İşârât 49:9](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=9&tDisplay=yes)).*
+  - **Sehl b. Abdillâh et-Tüsterî (ö. 283/896), *Tefsîru't-Tüsterî*:** Erken dönem irfânî tefsirin kurucu imamı Sehl et-Tüsterî de âyetin bâtınî manasında, hevâ ve şehvetiyle haddi aşan (*bâğî*) nefsin ilahî emre dönünceye (`hattâ tefîe ilâ emrillâh`) kadar riyâzet ve hakikat kılıcıyla terbiye edilmesi gerektiğini, müminlerin kardeşliğinin (`ihvetün`) ise ancak nefsin bencilliğinden kurtulup Allah için birbirine şefkat duymakla tamamlanacağını belirtir (Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 149; Dijital erişim: [shamela.ws/book/23600/146](https://shamela.ws/book/23600/146)).
   - `[YORUM]`: Kuşeyrî'nin iç dünyadaki `tâifetü'n-nefs` (nefis kuvvetleri) ile `tâifetü'l-kalb` (kalp ve ruh kuvvetleri) arasındaki çarpışmayı tahlil ederken; nefsin azgınlığına (*bağyü'n-nefs*) karşı mücâhede kılıcıyla direnilmesini, fakat nefis ilahî emre boyun eğdiğinde (`fe-in fâet`) onu tamamen yok etmek yerine şerîatın çizdiği meşru haklarını *adl* ve *kıst* ile vererek kalple nefsin arasını bulmayı emretmesi, dış dünyadaki *ehl-i bağy* hukukuyla birebir örtüşen muazzam bir hikmettir. İrfânî ufukta nasıl ki içsel barış nefsi imha etmekle değil adaletle ıslah etmekle kurulursa, toplumsal barış da hasmı yok etmekle değil; zulmü durdurup kardeşlik hukukunu (`beyne ehaveyküm`) hakkaniyetle ihya etmekle gerçekleşir.
 
 ---
@@ -523,16 +523,109 @@ Katman 3 gereğince, ampirik çatışma verileri simüle edilmiştir:
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
 
-- **Öz-Denetim (Self-Audit):** Rapor boyunca hiçbir kesinlik vehmettiren yasaklı ifade kullanılmamıştır.
-- **Geliştirme Alanı:** Gelecek çalışmalarda siber savaş ve otonom silah sistemlerinin bağy hukuku çerçevesinde modellenmesi hedeflenmektedir.
-- **Temel Varsayım:** Kurumsal şeffaflık, hukuki caydırıcılık ve içsel ahlak (`takvâ / ihsân`) birleştiğinde toplumsal aktörlerin yapıcı işbirliğine yöneleceği kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Hucurât 49:9–10 — Arabuluculuk, Bağy Freni ve Kardeşlik Hukuku):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Barış Yapıcılık (Islah), Hakkaniyet (Kıst), Kardeşlik (Uhuvvet) ve Adalet.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Akran zorbalığı veya toplumsal gruplar arası bir çatışma senaryosu verilerek *"Tarafsız üçüncü taraf çatışmayı nasıl durdurur?"* sorusuyla derse başlanır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Islah` (arabuluculuk), `bağy` (haddi aşma/saldırganlık), `fey'` (hukuka dönüş), `adl / kıst` (onarıcı hakkaniyet) ve `ihvetün` (kardeşlik) kavramları Kurtubî (*el-Câmi'*, C. 16, s. 315–322) ve Cessâs (*Ahkâmü'l-Kur'ân*, C. 5, s. 280) nakilleriyle incelenir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Hucurât 49:9–10'un 3 aşamalı barış mimarisi (`1. Sulh -> 2. Mütecavizi Hukuka Döndürme -> 3. Rövanşizmsiz Kıst`) `R1` ve `B1` döngüleri üzerinden tartışılır.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Sınıf içi "Akran Arabuluculuğu ve Adil Uzlaşı Yönergesi" kaleme alınır.
+- **Açık Araştırma Soruları:**
+  1. Klasik fıkıhtaki `Ahkâmü'l-Buğât` (Hz. Ali'nin Cemel ve Sıffîn'de uyguladığı esir, yaralı ve mülkiyet dokunulmazlığı ilkeleri), modern uluslararası insancıl hukuk (Cenevre Sözleşmeleri Ortak 3. Madde) ve bölgesel barış gücü operasyonlarına nasıl entegre edilebilir?
+  2. `Hucurât 49:6` (haber doğrulama / *tebeyyün*) ile `Hucurât 49:9–10` (arabuluculuk ve adil ıslah) dizilimi, dijital kutuplaşma ve akran zorbalığını önleyici eğitim modellerine nasıl dönüştürülebilir?
+- **Temel Varsayım:** Çatışma çözümünde üçüncü taraf arabulucuların kabilevi veya ideolojik tarafgirlikten (*asabiyet*) uzak durarak tam hakkaniyetle (`bi'l-adli ve aksitû`) hareket etmeleri ve mütecavizi (`bâğî`) yalnızca hukuka döndürecek orantılı caydırıcılığı işletmeleri halinde kalıcı barışın sağlanacağı kabul edilmiştir.
 
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Hucurât Sûresi 9 ve 10. âyetleri üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 12. Sınıf
+- **Öğrenme Alanı / Ünite:** İslam ve Barış / Toplumsal Barış, Hakkaniyetli Islah (Arabuluculuk) ve Mü'min Kardeşliği
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.12.4.5` (*İslam'ın toplumsal barış, uzlaşı [ıslah] ve kardeşlik [uhuvvet] ilkelerini güncel sorunlarla ilişkilendirebilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [siyak-sibak, tarihsel bağlam ve fıkhî bütünlük] özetleyebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Öfke, intikam arzusu, grup taassubu (*asabiyet*) ve haddi aşma (*bağy*) dürtülerini dizginleme.
+  - `SDB2.2` (*İlişki Kurma ve Uzlaşı*): Anlaşmazlık anlarında kavgayı körükleyen değil, adaletle arabuluculuk (*ıslâh*) yapan yapıcı iletişim kurma.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Yakını veya grubu haksız olduğunda dahi zalimin karşısında, hak ve hakkaniyetin (`kıst`) yanında durma.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Hıfzu'n-Nefs* ve *Hıfzu'd-Dîn* — masum canların ve toplumsal barışın korunması), **Evs ve Hazrec Kabileleri Arasındaki Kavganın Hz. Peygamber Tarafından Sulh İle Yatıştırılması** (*sebeb-i nüzûl*; Buhârî, *Sulh*, 3, nr. 2691), **"Büyük günah ve çatışma mü'mini iman ve kardeşlik dairesinden çıkarmaz"** (Ehl-i Sünnet kelâm ve fıkıh kaidesi) ve `Sedd-i Zerâi'` (mezhepçilik, tekfircilik ve iç çatışma yollarının kapatılması).
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Hucurât 49:9–10* âyetlerindeki `tâifetân mine'l-mü'minîn`, `iktetelû`, `fe-aslihû`, `bağat`, `tefîe ilâ emrillâh`, `bi'l-adl ve aksitû` ve `ihvetün` kavramlarının analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Zemahşerî, Râgıb, İbn Manzûr ve Cessâs'ın *ehl-i bağy* / adil sulh tahlilleri ile modern çatışma çözümü, arabuluculuk (*mediation*) ve onarıcı adaletin eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.12.4.5, E3.4` | **Zıt Panel / Münazara** | Siyasi/mezhebî ihtilaflarda karşı tarafı tekfir eden Hâricî zihniyet ve kör grup asabiyeti ile Hz. Peygamber'in *"Zalime yardım onu zulümden alıkoymaktır"* ilkesinin sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB2.2, DAB6` | **Konuşma Halkası** | Gazzâlî (*Kitâbü Âdâbi'l-Ülfe ve'l-Uhuvve*), Kuşeyrî ve Sehl et-Tüsterî ekseninde kalpteki husumet, taassup, haset ve nefsin *bağy*ını kırma muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin *bağy* kavramı, adil sulh (*kıst*) şartı ve tekfirciliğe karşı `Hucurât 49:9–10` güvencesini tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya **Hucurât 49:9–10** âyetleri yansıtılır. Öğrencilerin dikkati iki âyette tam **üç kez** tekrarlanan `fe-aslihû` (aralarını düzeltin/barıştırın) emrine çekilir ve aşağıdaki **Anlam Çözümleme Tablosu** üzerinden yedi anahtar kavram çözümlenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Fıkıh Anlamı (`İbn Fâris / Râgıb / Cessâs`) | Siyak-Sibak ve Çağdaş Barış Hukuku Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ` (`Tâifetân mine'l-mü'minîn`)** | `t-v-f` kökünden tesniye isim + beyâniyye harf-i cer | Müminlerden iki zümre / topluluk; çatışmaya rağmen iman vasfı korunmuştur ([Cessâs, *Ahkâm*, 5/280](https://shamela.ws/book/23579/1826)) | Siyasi veya toplumsal çatışmanın tarafları dinden çıkarmadığı (tekfirin reddi) |
+| **`ٱقْتَتَلُوا۟` (`İktetelû`)** | `k-t-l` (`قَتَلَ`) kökünden ifti'âl bâbı mâzî fiil | Birbirleriyle fiilî kavgaya ve çatışmaya girerlerse | Fikir ayrılığını aşıp sıcak çatışmaya dönüşen toplumsal kriz |
+| **`فَأَصْلِحُوا۟ بَيْنَهُمَا` (`Fe-aslihû beynehümâ`)** | `s-l-h` (`صَلَحَ`) kökünden if'âl bâbı emir | Fesadın zıddı; şüpheleri giderip öğüt ve tahkimle derhal aralarını barıştırmak ([Zemahşerî, *el-Keşşâf*, 4/2430](https://shamela.ws/book/23627/2430)) | Önleyici diplomasi, tarafsız arabuluculuk (*mediation*) ve uzlaştırma |
+| **`بَغَتْ` (`Bağat` — *el-Bağy*)** | `b-ğ-y` (`بَغَى`) kökünden mâzî fiil | Meşru sınırı aşmak, sulhu reddederek haksız saldırı ve tahakküme kalkışmak ([İbn Fâris, *Makâyîs*, 1/271](https://shamela.ws/book/21710/315)) | Hukuku ve hakemliği reddeden saldırganlık (*aggression / spoiler*) |
+| **`حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ` (`Hattâ tefîe ilâ emrillâh`)** | `f-y-'` (`فَاءَ`) kökünden muzâri + gâye edatı | Gölgenin aslına dönmesi gibi saldırganın Allah'ın hükmüne (hukuka) rücû etmesi ([Râgıb, *el-Müfredât*, s. 137](https://shamela.ws/book/23636/119)) | Meşru müdahalenin imha için değil, yalnızca hukuka döndürmekle sınırlı olması |
+| **`بِٱلْعَدْلِ وَأَقْسِطُوٓا۟` (`Bi'l-adl ve aksitû`)** | `a-d-l` mastarı ve `k-s-t` if'âl bâbı emir | İntikam ve tarafgirliği kaldırıp tam adalet ve hakkaniyetle sulh kurmak ([İbn Manzûr, *Lisânü'l-Arab*, 14/78](https://shamela.ws/book/1687/7202)) | Çatışma sonrası galip-mağlup rövanşizmini yasaklayan onarıcı adalet |
+| **`إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ` (`İnneme'l-mü'minûne ihvetün`)** | Hasr edatı (`innemâ`) + isim cümlesi | *"Müminler ancak kardeştirler"* — Devamında `ehaveyküm` (iki öz kardeşiniz) denmiştir (`49:10`) | Nefret ve kutuplaşmayı eriten ontolojik kardeşlik ve toplumsal dayanışma |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Cessâs (*Ahkâmü'l-Kur'ân*, C. 5, s. 280), Zemahşerî (*el-Keşşâf*, C. 4, s. 2430) ve Hz. Ali'nin *Ahkâmü'l-Buğât* uygulaması ile çağdaş çatışma çözümü ve akran arabuluculuğu vakalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — 1. Basamak: Önleyici Sulh (`Fe-aslihû`):**<br>Zemahşerî'ye göre çatışma çıktığında ilk vazife hemen silaha sarılmak değil; yanlış anlaşılmaları (`49:6` tebeyyün) gidererek tarafsız arabuluculuk yapmaktır. | **K2 — Çağdaş Vaka A (Okulda ve Toplumda Akran Arabuluculuğu):**<br>İki öğrenci grubu veya komşu topluluk arasında gerilim çıktığında dedikoduyu kesip tarafsız dinleme ve uzlaştırma masası kurma. | **K3 — 2. Basamak: Saldırganı Durdurma (`Fe-kâtilü'lletî tebğî hattâ tefîe`):**<br>Sulhu reddedip mazluma saldıran (`bâğî`) grup, hukuka dönünceye kadar kolektif meşru güçle engellenir; zulme seyirci kalınmaz. |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Zorbalığa Karşı Ortak Duruş ve Hukuki Müdahale):**<br>Fiziksel/siber zorbalıkta veya uluslararası saldırganlıkta saldırganın "güçlü veya bizden" olmasına bakmadan mağduru koruma. | **K5 — 3. Basamak: Rövanşizmsiz Hakkaniyet (`Bi'l-adl ve aksitû`):**<br>Saldırgan hukuka döndüğünde (`fâet`), Hz. Ali'nin içtihadı uyarınca esiri öldürülmez, malı ganimet alınmaz; barış tam hakkaniyetle (`kıst`) yapılır. | **K6 — Çağdaş Vaka C (Onarıcı Adalet ve Toplumsal Uzlaşı):**<br>Kriz bittikten sonra kaybeden tarafı aşağılamadan, hakları iade ederek ve kalıcı barış kuralları koyarak toplumsal yaraları sarma. |
+| **K7 — Kelâmî ve Fıkhî Kaide (`Mina'l-mü'minîn` & `İhvetün`):**<br>Cessâs ve Kurtubî'ye göre âyet, birbirleriyle savaşan grupları hâlâ "mümin" ve "kardeş" sayarak Hâricîlerin ve radikal grupların *tekfir* (kâfir ilan etme) ideolojisini kökünden yıkar. | **K8 — Çağdaş Vaka D (Mezhepçi ve İdeolojik Tekfirciliğin Reddi):**<br>Farklı siyasi veya mezhebî görüşteki Müslümanları "dinden çıktı" diyerek hedef gösteren ayrıştırıcı nefret söylemlerinin Kur'an'a aykırılığı. | **K9 — Gazzâlî & Kuşeyrî Kalp Fıkhı (*Âdâbü'l-Uhuvve*):**<br>Toplumsal kavgaların bâtınî kökü kalpteki *haset*, *kibir*, *suizan* ve nefsin tahakküm arzusu (*bağyü'n-nefs*) marazıdır. |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Üç Aşamalı Barış Mimarisi Eşleştirmesi:* **`K1 ↔ K2`** (1. Aşama: Tarafsız Arabuluculuk), **`K3 ↔ K4`** (2. Aşama: Saldırgan Zorbalığı Orantılı Durdurma) ve **`K5 ↔ K6`** (3. Aşama: İntikamsız ve Onarıcı Hakkaniyet / *Kıst*).
+  2. *Tekfirciliğin Reddi ve Kalp Kardeşliği Eşleştirmesi:* **`K7 ↔ K8 ↔ K9`** (`İnneme'l-mü'minûne ihvetün` ilkesiyle tekfirciliğin reddi ve kalpteki *bağy/haset* hastalıklarının tezkiyesi).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.12.4.5, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"Toplumsal veya siyasi bir anlaşmazlıkta iki aşırı uç ortaya çıkmıştır: Birinci uç (radikal/tekfirci söylem), kendisi gibi düşünmeyen ve çatışmaya giren diğer Müslüman grubu 'dinden çıkmış mürtedler' ilan ederek mallarının ve canlarının helal olduğunu iddia etmektedir. İkinci uç (kabileci/partizan söylem) ise 'O bizim grubumuzdandır, mümin müminin kardeşidir, haksız ve saldırgan (bâğî) olsa bile kendi kardeşimizin yanında durmalıyız' diyerek zulmü savunmaktadır."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Hucurât 49:9–10 âyetlerindeki lafızlar ve Hz. Ali'nin (r.a.) Cemel/Sıffîn uygulaması, Müslüman gruplar arasındaki çatışmaları bahane ederek insanları tekfir eden (kâfir sayan) istismarcı zihniyeti nasıl çürütmektedir (`DKAB.11.4.3`)?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** Allah Teâlâ birbirleriyle fiilen vuruşan (`iktetelû`) ve hatta biri diğerine zulmeden (`bağat`) iki grubu açıkça **`tâifetân mine'l-mü'minîn`** (müminlerden iki grup) ve **`ehaveyküm`** (iki öz kardeşiniz) olarak adlandırmıştır. Hz. Ali'ye (r.a.) kendisiyle savaşanlar hakkında *"Onlar kâfir mi?"* diye sorulduğunda *"Hayır, küfürden kaçtılar; onlar bize karşı bağy eden (haddi aşan) kardeşlerimizdir"* (Cessâs, *Ahkâm*, 5/281) cevabını vermiştir.
+  2. **Soru 2 (Sorgulayıcı Grup):** *"'Kardeşlik' kavramını kullanarak kendi grubunun yaptığı zulmü ve saldırganlığı (`bağy`) savunmak, Kur'an'ın `bi'l-adl ve aksitû` emrine ve Hz. Peygamber'in sünnetine neden aykırıdır (`DKAB.12.4.5`)?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** Câhiliye döneminde "Kardeşine zalim de olsa mazlum da olsa yardım et" sözü, zalim akrabayı kayırmak için kullanılırdı. Hz. Peygamber (s.a.v.) bu sözün içini Kur'an'ın `fe-kâtilü'lletî tebğî` ilkesiyle değiştirmiştir: Sahâbe *"Yâ Resûlallah! Mazluma yardımı anladık, peki zalime nasıl yardım edeceğiz?"* diye sorduğunda, **"Onun ellerini zulümden tutarak ve onu saldırganlıktan engelleyerek! İşte bu ona yapacağınız gerçek yardımdır"** (Buhârî, *Mezâlim*, 4, nr. 2444) buyurmuştur.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB2.2, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** İmam Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*, C. 2, s. 157–221, *Kitâbü Âdâbi'l-Ülfe ve'l-Uhuvve*), Kuşeyrî (*Letâ'ifü'l-İşârât*, C. 3, s. 438–440) ve Sehl et-Tüsterî'nin tespitleri paylaşılır: *"Dış dünyadaki her `bağy` (saldırganlık), önce insanın kendi kalbindeki öfke, haset ve kibir nefsinin aklına ve vicdanına karşı `bağy` etmesiyle başlar. Kalbindeki kini ıslah edemeyen, toplumun arasını ıslah edemez."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Arkadaş ortamında veya sosyal medyada iki kişinin tartıştığını gördüğümüzde, yangına körükle gidenlerden mi oluyoruz, yoksa `fe-aslihû` emrine uyup ortamı yatıştıran bir barış elçisi mi (`SDB1.2`, `SDB2.2`)?"*
+  2. *"En yakın arkadaşımız bir başkasına haksızlık veya zorbalık yaptığında, arkadaşlık hatırı için susuyor muyuz; yoksa onu tatlı dille ve kararlılıkla haksızlıktan vazgeçirerek ona gerçek kardeşlik mi yapıyoruz (`SDB3.3`)?"*
+  3. *"Gazzâlî'nin kardeşlik hukuku olarak saydığı 'kusurları örtmek, özrü kabul etmek ve kalpte kin tutmamak (`selâmetü's-sadr`)' ilkelerini sınıfımızda nasıl yaşatabiliriz?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Hucurât 49:9–10'un çatışma çözümünde öngördüğü 3 aşamalı barış süreci:** | *"1. Derhal tarafsız arabuluculuk yapmak (fe-aslihû), 2. Uzlaşıyı reddeden saldırganı (bâğî) hukuka dönene kadar durdurmak, 3. Döndüğünde intikam almadan adalet ve hakkaniyetle (kıst) barıştırmak."* |
+| **2. Âyetin müminler arası çatışmalarda 'tekfirciliği' (kâfir ilan etmeyi) önleyen delili:** | *"Çatışan grupları hâlâ 'müminlerden iki grup' ve 'kardeşler (ihvetün)' olarak isimlendirmesi."* |
+| **3. Okulda ve sosyal çevremde 'ıslah ve kardeşlik' için uygulayacağım somut bir ilke:** | *"Kutuplaştırıcı dedikoduları yaymamak (49:6), zorbalığa karşı mağdurun yanında durmak ve küs arkadaşları adaletle barıştırmak."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Cessâs (*Ahkâmü'l-Kur'ân*, C. 5, s. 278–284) ve Kurtubî'nin (*el-Câmi'*, C. 16, s. 315–322) `Hucurât 49:9–10` tefsirlerinde yer alan **Ahkâmü'l-Buğât** kurallarını 1949 Cenevre Sözleşmeleri ile karşılaştırarak "İslam Kamu Hukukunda Çatışma Sınırlandırması ve Onarıcı Barış" başlıklı bir araştırma makalesi hazırlama.
+  - Uppsala Çatışma Veri Programı (`UCDP`) verileri üzerinden üçüncü taraf arabuluculuğun tarafsızlığı ile barış anlaşmalarının kalıcılığı arasındaki ilişkiyi inceleme.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`Haberi Doğrulama (49:6 Tebeyyün) → Tarafsız Arabuluculuk (Islah) → Zorbalığı Durdurma (Bağy Freni) → Adil Uzlaşı ve Kardeşlik (Kıst & Uhuvvet)`** basamaklarını gösteren görsel akış şeması üzerinde çalışma.
+  - "Yapıcı Arabulucu Davranışları" ile "Kutuplaştırıcı ve Zorba (`Bâğî`) Davranışları" örneklerini içeren eşleştirme kartlarıyla uygulama yapma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik lügat, tefsir, ahkâm ve irfân nakilleri (İbn Fâris, Râgıb el-İsfahânî, Zemahşerî, İbn Manzûr, Cessâs, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* basamaklarıyla eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** Siyasi veya mezhebî ihtilafların tekfircilik (Hâricîlik) ya da zalimi kayıran kör grup taassubu (*asabiyet*) amacıyla istismar edilmesi `DKAB.12.4.5`, `DKAB.11.4.3`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` ilkeleriyle engellenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -573,11 +666,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/2357/19/1826
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/315
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/7202
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/119
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/2430
+- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/23579/1826
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/315
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/7202
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/119
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/2430
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Sosyal Yaşam, Demografi ve Kamu Güveni Veritabanı*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr

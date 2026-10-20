@@ -25,7 +25,7 @@ classical_sources:
     volume: "2"
     pages: "122"
     arabic_quote: "الحاء والياء والحرف المعتل أصلان: أحدهما خِلاف المَوْت، والآخر الاستحياء الذى [هو] ضِدُّ الوقاحة"
-    verification_link: "https://shamela.ws/book/2171/10/682"
+    verification_link: "https://shamela.ws/book/21710/682"
     doi_or_urn: "urn:shamela:book:9193:v2:p122"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "269"
     arabic_quote: "من يريد الإقدام على القتل، فيكون في ذلك حياة الناس. وقال عزّ وجلّ: وَمَنْ أَحْياها فَكَأَنَّما أَحْيَا النَّاسَ جَمِيعاً [المائدة/ ٣٢] ، أي: من نجّاها من الهلاك، وعلى هذا قوله"
-    verification_link: "https://shamela.ws/book/2363/16/251"
+    verification_link: "https://shamela.ws/book/23636/251"
     doi_or_urn: "urn:shamela:book:23629:v1:p268"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "8"
     pages: "349"
     arabic_quote: "حدَّثني محمدُ بنُ سعدٍ، قال: ثنى أبي، قال: ثنى عمي، قال: ثنى أبي، عن أبيه، عن ابن عباسٍ في قولِه: ﴿مِنْ أَجْلِ ذَلِكَ كَتَبْنَا عَلَى بَنِي إِسْرَائِيلَ أَنَّهُ مَنْ قَتَلَ"
-    verification_link: "https://shamela.ws/book/779/18/5636"
+    verification_link: "https://shamela.ws/book/7798/5636"
     doi_or_urn: "urn:shamela:book:7798:v10:p233"
   - id: "cls-razi"
     author: "Fahreddîn er-Râzî, Muhammed b. Ömer"
@@ -64,7 +64,7 @@ classical_sources:
     volume: "11"
     pages: "344"
     arabic_quote: "فِي الْأَرْضِ، وَإِنَّمَا قَالَ تَعَالَى ذَلِكَ لِأَنَّ الْقَتْلَ يَحِلُّ لِأَسْبَابٍ كَثِيرَةٍ، مِنْهَا الْقَصَاصُ وَهُوَ الْمُرَادُ بِقَوْلِهِ مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسادٍ فِي الْأَرْضِ"
-    verification_link: "https://shamela.ws/book/2363/15/2009"
+    verification_link: "https://shamela.ws/book/23635/2009"
     doi_or_urn: "urn:shamela:book:23635:v11:p342"
   - id: "cls-kurtubi"
     author: "Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî"
@@ -77,7 +77,7 @@ classical_sources:
     volume: "6"
     pages: "2243"
     arabic_quote: "بِكَسْرِ النُّونِ وَحَذْفِ الْهَمْزَةِ وَهِيَ لُغَةٌ، وَالْأَصْلُ"
-    verification_link: "https://shamela.ws/book/2085/15/2243"
+    verification_link: "https://shamela.ws/book/20855/2243"
     doi_or_urn: "urn:shamela:book:21795:v7:p429"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "6"
     pages: "175"
     arabic_quote: "هُنَا مَجَازِيٌّ، شَبَّهَ سَبَبَ الشَّيْءِ بِابْتِدَاءِ صُدُورِهِ، وَهُوَ مَثَارُ قَوْلِهِمْ: إِنَّ مِنْ مَعَانِي"
-    verification_link: "https://shamela.ws/book/977/16/2272"
+    verification_link: "https://shamela.ws/book/9776/2272"
     doi_or_urn: "urn:shamela:book:9746:v6:p176"
 modern_sources:
   - id: "mod-unodc"
@@ -414,17 +414,17 @@ Mâide 5:32 âyetinin dış dünyadaki (*âfâk*) evrensel ceza hukuku, biyoetik
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
 Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe masum cana kastetmenin ve yeryüzünde fesat çıkarmanın ardındaki bâtınî illetler; haset (*hased*), kin (*hıkd*), gazap ve nefsin tezvîrâtı (kötülüğü süsleyip meşru göstermesi) olarak teşhis edilmiştir:
-- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, *Bâbü'l-Hased ve'l-Bağy* (Haset ve Zulüm/Taşkınlık) bölümünde yeryüzünde işlenen ilk cinayet olan Kâbil vakasını tahlil ederken; hasedin kalpteki iman ve merhamet nurunu söndüren en zehirli maraz olduğunu, hasetçi nefsin ilahî taksime razı olmayıp kardeşinin varlığını kendi benliğine tehdit gördüğünü ve bu içsel zulmün en sonunda el ve dil ile fiilî cinayete (`katl`) dönüştüğünü ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 280–305; Dijital erişim: [shamela.ws/book/9683/280](https://shamela.ws/book/9683/280)).
-- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased* bölümünde; öfke ve hasedin kalbi körleştirerek insanı yırtıcı bir canavara dönüştürdüğünü, oysa müminin kalbinin bütün yaratılmışlara karşı şefkat ve *ihyâ* (hayat verme ve koruma) merkezi olması gerektiğini açıklar. Gazzâlî'ye göre bir insanın bedenini ölümden kurtarmak zahirî *ihyâ*, kalbini cehalet ve haset ateşinden kurtarmak ise bâtınî *ihyâ*'dır (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 186–210; Dijital erişim: [shamela.ws/book/9472/186](https://shamela.ws/book/9472/186)).
+- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, *Bâbü'l-Hased ve'l-Bağy* (Haset ve Zulüm/Taşkınlık) bölümünde yeryüzünde işlenen ilk cinayet olan Kâbil vakasını tahlil ederken; hasedin kalpteki iman ve merhamet nurunu söndüren en zehirli maraz olduğunu, hasetçi nefsin ilahî taksime razı olmayıp kardeşinin varlığını kendi benliğine tehdit gördüğünü ve bu içsel zulmün en sonunda el ve dil ile fiilî cinayete (`katl`) dönüştüğünü ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 280–305; Dijital erişim: [shamela.ws/book/6875/140](https://shamela.ws/book/6875/140)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased* bölümünde; öfke ve hasedin kalbi körleştirerek insanı yırtıcı bir canavara dönüştürdüğünü, oysa müminin kalbinin bütün yaratılmışlara karşı şefkat ve *ihyâ* (hayat verme ve koruma) merkezi olması gerektiğini açıklar. Gazzâlî'ye göre bir insanın bedenini ölümden kurtarmak zahirî *ihyâ*, kalbini cehalet ve haset ateşinden kurtarmak ise bâtınî *ihyâ*'dır (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 186–210; Dijital erişim: [shamela.ws/book/9472/932](https://shamela.ws/book/9472/932)).
 - **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) tek bir insan hayatının bütün insanlığa bedel olduğu (`ke'ennemâ ahye'n-nâse cemî'â`) *ihyâ* bilincini taşımayan ve maddi kâr hırsına kapılan karar vericiler, dış dünyada (`âfâk`) depreme dayanıksız binalara, iş cinayetlerine ve sivil kayıplara göz yumar; bu sebeple `ADIM 15`'teki sıfır önlenebilir can kaybı/yapı ve iş güvenliği denetimi (`K1`), zorunlu ilk yardım ve yaşam etiği eğitimi (`K2`) ve biyoetik/insani koridor diplomasisi (`K3`) kararları içsel *ihyâ* ahlâkını kurumsal yaptırıma dönüştürmektedir.
 
 #### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
 Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Mâide 5:32 âyetindeki *katl* (öldürme) ve *ihyâ* (diriltme/yaşatma) kavramlarını maddi hayatın korunmasının yanı sıra, ruhların ve kalplerin manevi ölümü ve dirilişi olarak şerh etmişlerdir:
 - **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
   - `[NAKİL]`: Kuşeyrî, Mâide 5:32 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
-    > «مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا... الإشارة فيه: من أضل نفساً أو أهلكها بالبدعة والظلم فكأنما أهلك الناس جميعاً، ومن استنقذ قلباً من ظلمة الغفلة والجهل إلى نور الإيمان والمعرفة فكأنما أحيا الناس جميعاً»
-    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 1, s. 410–411; Dijital doğrulama: [shamela.ws/book/23622/410](https://shamela.ws/book/23622/410) / [altafsir.com — Letâ'ifü'l-İşârât 5:32](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=5&tAyahNo=32&tDisplay=yes)).*
-  - **Sehl b. Abdillâh et-Tüsterî (ö. 283/896), *Tefsîru't-Tüsterî*:** Erken dönem irfânî tefsirin kurucu imamı Sehl et-Tüsterî de âyetin bâtınî tefsirinde; bir nefsi öldürmenin onu hakikatten saptırıp helâke sürüklemek, bir nefsi diriltmenin (`ve men ahyâhâ`) ise gafletle ölmüş bir kalbi tevhid, zikir ve adalet nuruyla yeniden hayata kavuşturmak olduğunu belirtir (Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 55; Dijital erişim: [shamela.ws/book/23625/55](https://shamela.ws/book/23625/55)).
+    > «مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا... هَذَا قَرِيبٌ مِمَّا قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: مَنْ سَنَّ حَسَنَةً فَلَهُ أَجْرُهَا وَأَجْرُ مَنْ عَمِلَ بِهَا... وَمَنْ سَنَّ سَيِّئَةً فَعَلَيْهِ وِزْرُهَا وَوِزْرُ مَنْ عَمِلَ بِهَا إِلَى يَوْمِ الْقِيَامَةِ»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 1, s. 420; Dijital doğrulama: [shamela.ws/book/23629/417](https://shamela.ws/book/23629/417) / [altafsir.com — Letâ'ifü'l-İşârât 5:32](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=5&tAyahNo=32&tDisplay=yes)).*
+  - **Sehl b. Abdillâh et-Tüsterî (ö. 283/896), *Tefsîru't-Tüsterî*:** Erken dönem irfânî tefsirin kurucu imamı Sehl et-Tüsterî de âyetin bâtınî tefsirinde; bir nefsi öldürmenin onu hakikatten saptırıp helâke sürüklemek, bir nefsi diriltmenin (`ve men ahyâhâ`) ise gafletle ölmüş bir kalbi tevhid, zikir ve adalet nuruyla yeniden hayata kavuşturmak olduğunu belirtir (Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 58; Dijital erişim: [shamela.ws/book/23600/55](https://shamela.ws/book/23600/55)).
   - `[YORUM]`: Kuşeyrî ve Tüsterî'nin *"Bir kalbi gaflet, cehalet ve zulüm karanlığından iman, marifet ve adalet nuruna kurtaran kimse bütün insanlığı diriltmiş gibidir"* tespiti, *hıfzu'n-nefs* (canın korunması) ilkesinin hem maddi hem de manevi ufkunu bütünleştirir. İslam medeniyeti, bir yandan hekimlik, mühendislik, arama-kurtarma ve adil yargı ile her bir insan bedenini korurken (`zahirî ihyâ`), diğer yandan ilim, irfan ve şefkatle kalpleri kin ve cehalet ölümünden kurtararak (`bâtınî ihyâ`) yeryüzünde hayatı çoğaltan bir *ihyâ* medeniyetidir.
 
 ---
@@ -530,16 +530,111 @@ Katman 3 uyarınca yaşam hakkı, sivil koruma ve kurumsal *ihyâ* simülasyonu:
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
 
-- **Öz-Denetim (Self-Audit):** Klasik tefsir nakilleri `[NAKİL]`, çağdaş biyoetik, halk sağlığı ve güvenlik modellemeleri ise `[YORUM]` etiketiyle ayrılmıştır.
-- **Geliştirme Alanı:** Gelecek çalışmalarda yapay zekâ tabanlı otonom silah sistemlerinin (*LAWS*) uluslararası insancıl hukukta Mâide 5:32 perspektifiyle nasıl sınırlandırılacağı müstakil olarak incelenecektir.
-- **Temel Varsayım:** Kurumsal şeffaflık, hukuki caydırıcılık ve içsel ahlak (`takvâ / ihsân`) birleştiğinde toplumsal aktörlerin yapıcı işbirliğine yöneleceği kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Mâide 5:32 — İnsan Hayatının Dokunulmazlığı ve Evrensel İhyâ Ahlakı):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Yaşam Hakkı, Merhamet, Yardımseverlik (İhyâ), Barış ve İnsanlık Onuru.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** `"Kim bir canı kurtarırsa (ve men ahyâhâ) bütün insanlığı yaşatmış gibi olur"` âyeti üzerinden *"Neden tek bir masum insan bütün insanlığa eşdeğerdir?"* sorusuyla felsefi ve ahlaki sorgulama başlatılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Bi-ğayri nefsin ev fesâdin fi'l-arz` (haksız yere cana kıyma), `fe-ke'ennemâ katele'n-nâse cemî'â` (evrensel masumiyet kalkanının delinmesi) ve `ihyâ` (affetmek, boğulanı/yıkım altındakini kurtarmak, tedavi ve açlığı gidermek) kavramları Râzî (*Mefâtîhu'l-Gayb*, C. 11, s. 342–346) ve Kurtubî (*el-Câmi'*, C. 6, s. 146–149) nakilleriyle incelenir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Şiddetin sıradanlaşması ve sivil kayıpların istatistiğe indirgenmesi (`R1`) ile afet hazırlığı, ilk yardım, iş güvenliği ve insani koridorları kapsayan kurumsal `İhyâ` seferberliği (`B1`) tartışılır.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler ilk yardım, kan/organ bağışı, afet gönüllülüğü ve sivil koruma bilincini içeren *"Bir Can Kurtar, İnsanlığı Yaşat (İhyâ) Taahhütnamesi"* hazırlar.
+- **Açık Araştırma Soruları:**
+  1. `Mâide 5:32` âyetinde vaz' edilen **"Masum bir insanı öldürmek bütün insanlığı öldürmek gibidir; bir insanın hayatını kurtarmak/ihyâ etmek ise bütün insanlığı ihyâ etmek gibidir"** (`fe-ke-ennemâ katele'n-nâse cemî'an / fe-ke-ennemâ ahye'n-nâse cemî'an`) ontolojik denklemi, modern biyoetik, iş sağlığı ve güvenliği, afet yönetimi ve uluslararası insancıl hukukta nasıl normatif bir üst ilke olarak modellenebilir?
+  2. Âyetteki **`men ahyâhâ`** (*"kim bir canı diriltirse / yaşatırsa"*) ifadesinin yalnız biyolojik ölümden kurtarmayı değil, aynı zamanda onurlu yaşam şartlarını sağlamayı ve kalpleri cehalet/ümitsizlikten kurtarmayı kapsayan şümullü anlamı ([Râgıb, *el-Müfredât*, s. 269](https://shamela.ws/book/23636/251); [Râzî, *Mefâtîhu'l-Gayb*, 11/344](https://shamela.ws/book/23635/2009)), çağdaş "İhyâ Etiği" çerçevesinde nasıl yapılandırılabilir?
+- **Temel Varsayım:** Her bir masum insan ferdinin, yaşam hakkı ve ontolojik saygınlık bakımından bütün insanlık türünü (`en-nâse cemî'an`) temsil ettiği; tek bir masum cana kastetmenin tüm insanlığın yaşam dokunulmazlığı ilkesini yıkmak, tek bir canı yaşatmanın ise bütün insanlık onurunu ayakta tutmak olduğu kabul edilmiştir.
 
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Mâide Sûresi 32. âyeti üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 8. ve 12. Sınıf
+- **Öğrenme Alanı / Ünite:** İslam'da Temel Haklar, Ahlak ve Güncel Meseleler / Yaşam Hakkının Dokunulmazlığı ve İhyâ Etiği (`Mâide 5:32`)
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.8.3.1` (*İslam'ın koruma altına aldığı beş temel hakkı [canın korunması / hıfzu'n-nefs] analiz edebilme*)
+  - `DKAB.12.3.5` (*Yaşam hakkının kutsallığı ve biyoetik meseleleri İslam ahlakı açısından değerlendirebilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [siyak-sibak, makâsıd ve kavram bütünlüğü] özetleyebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): İnsanlık tarihinin ilk cinayetine (`Hâbil ile Kâbil`, `Mâide 5:27–31`) yol açan haset, kin ve öfke patlamasına karşı nefsi dizginleme ve Hâbil'in şiddetsizlik/takvâ duruşunu içselleştirme.
+  - `SDB3.2` (*Sosyal Farkındalık ve Empati*): Tek bir insanın acısını ve yaşam hakkını bütün insanlığın ortak emaneti olarak görme; kalp katılığına (*kasvet-i kalb*) karşı merhamet geliştirme.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Fiziksel, psikolojik veya dijital şiddete karşı sıfır tolerans göstererek hayatı koruyan, iyileştiren ve yaşatan (`ihyâ`) bir özne olma.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse`nin en temel halkası olan **`Hıfzu'n-Nefs`** (*Canın Korunması*), `Mâide 5:27–31` Hâbil–Kâbil kıssası ile `5:32` arasındaki doğrudan nedensellik bağı (**`Min ecli zâlike`** = *"İşte bu yüzdendir ki..."*), `1 Masum Can = Bütün İnsanlık` ontolojik eşitliği ve `Sedd-i Zerâi'` (şiddet, terör, kan davası, iş cinayetleri ve intihara giden tüm yolların kapatılması).
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Mâide 5:32* âyetindeki `men katele nefsen`, `bi-ğayri nefsin`, `fesâdin fi'l-ard`, `fe-ke-ennemâ katele'n-nâse cemî'an`, `men ahyâhâ`, `ahye'n-nâse cemî'an` ve `müsrifûn` lafızlarının analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Taberî, Zemahşerî, Râgıb, Fahreddîn er-Râzî ve Kurtubî'nin *katl–ihyâ* analizleri ile yaşam hakkı, iş güvenliği, halk sağlığı/biyoetik ve afet kurtarmanın eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.11.4.3, E3.4` | **Zıt Panel / Münazara** | *Fesâd fi'l-ard* istisnasını sivillere şiddet ve yargısız infaz için istismar eden Hâricî/radikal sapma ile *ihyâ* kavramını daraltan yaklaşımların sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB3.2, SDB3.3, DAB6` | **Konuşma Halkası** | Gazzâlî (*Âfâtü'l-Gadab ve'l-Hıkd ve'l-Hased*), Râgıb, Kuşeyrî ve Sehl et-Tüsterî ekseninde "Kâbil sendromu" (haset/öfke), kalp katılığı ve bir gönlü/hayatı ihyâ etme muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin Hâbil–Kâbil bağlamı, *1 Can = Bütün İnsanlık* denklemi ve *ihyâ* etiğinin boyutlarını tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Âyetin başındaki **`Min ecli zâlike`** (*"İşte bu sebeple..."*) ifadesiyle bir önceki pasajdaki (`Mâide 5:27–31`) Hâbil ve Kâbil kıssasına atıf yapıldığı gösterilir. Öğrencilerden âyetin yedi kilit lafzını aşağıdaki **Anlam Çözümleme Tablosu** üzerinden incelemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Râgıb / Taberî / Râzî / Kurtubî`) | Siyak-Sibak ve Çağdaş Hukuk / Biyoetik Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`مَن قَتَلَ نَفْسًۢا` (`Men katele nefsen`)** | Şart edatı + mazi fiil + nekire/belirsiz isim (`nefsen`) | Usûl kaidesi gereği şart siyâkındaki nekire (`nefsen`) umûm ifade eder: Din, ırk, statü farkı olmaksızın **herhangi bir masum insan canı** ([Râzî, *Mefâtîhu'l-Gayb*, 11/344](https://shamela.ws/book/23635/2009)) | Evrensel yaşam hakkı öznesi olarak her bir insan bireyi |
+| **`بِغَيْرِ نَفْسٍ` (`Bi-ğayri nefsin`)** | İstisnâ/kayıt terkibi | Bir cana karşılık (meşru mahkemece hükmedilen kısas) olmaksızın, haksız yere ([Taberî, *Câmi'u'l-Beyân*, 8/349](https://shamela.ws/book/7798/5636)) | Keyfî öldürme, cinayet, kan davası ve yargısız infaz yasağı |
+| **`أَوْ فَسَادٍ فِى ٱلْأَرْضِ` (`Ev fesâdin fi'l-ard`)** | `f-s-d` (`فَسَدَ`) kökünden mastar | Yeryüzünde silahlı eşkıyalık, yol kesme ve kamu güvenliğini yıkma suçu olmaksızın ([İbn Fâris, *Makâyîs*, 2/122](https://shamela.ws/book/21710/682); [Kurtubî, *el-Câmi'*, 6/2243](https://shamela.ws/book/20855/2243)) | Kamu düzeninin ve sivil emniyetin yalnız meşru yargı eliyle korunması |
+| **`فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا` (`Fe-ke-ennemâ katele'n-nâse cemî'an`)** | Teşbîh-i belîğ / ontolojik özdeşlik cümlesi | *"Sanki bütün insanları öldürmüş gibidir"*: Çünkü yaşam hakkının hürmetini yıkmış ve bütün insanlığa karşı suç işlemiştir ([Râzî, *Mefâtîhu'l-Gayb*, 11/344](https://shamela.ws/book/23635/2009)) | İnsanlığa karşı suç (*crime against humanity*) doktrininin teolojik temeli |
+| **`وَمَنْ أَحْيَاهَا` (`Ve men ahyâhâ`)** | `h-y-y` (`حَيِيَ`) kökünden *if'âl* bâbı (`ahyâ`) | *"Kim de bir canı diriltirse / yaşatırsa"*: Ölüm tehlikesinden (yangın, boğulma, hastalık, açlık veya zulümden) kurtarırsa ([Râgıb, *el-Müfredât*, s. 269](https://shamela.ws/book/23636/251)) | Tıp, acil kurtarma, insani yardım, iş güvenliği ve onurlu yaşam sağlama (*İhyâ Etiği*) |
+| **`فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا` (`Fe-ke-ennemâ ahye'n-nâse cemî'an`)** | Teşbîh-i belîğ / ontolojik özdeşlik cümlesi | *"Sanki bütün insanlara hayat vermiş gibidir"*: Çünkü insanlık onurunu ve yaşam dokunulmazlığını ihya etmiştir | Hayat kurtarmanın ve koruyucu sağlık/güvenlik hizmetlerinin en yüce salih amel olması |
+| **`لَمُسْرِفُونَ` (`Le-müsrifûn`)** | `s-r-f` kökünden ism-i fâil çoğulu | Peygamberlerin apaçık delillerine (`bi'l-beyyinât`) rağmen haddi aşanlar, kan dökücülükte sınır tanımayanlar | Şiddet, savaş suçları ve doğa/insan kıyımıyla ilahi sınırı çiğneyen aşırılık |
+
+##### B. Aşama 2: Tahkik, Klasik Miras ve Güncel Bağlam (05–17. Dakika) — 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretim Aracı:** **Yapılandırılmış Grid (`Structured Grid`)** (`DAB3, DAB3.4, OB1`).
+- **Öğretmen Yönergesi:** Klasik tefsir ve fıkıh otoritelerinin `Mâide 5:32` tahlilleri ile modern yaşam hakkı, biyoetik, iş güvenliği ve afet kurtarma etiğini eşleştiren **9 Kutucuklu Grid** sınıfça çözümlenir:
+
+| **Kutu 1: Hâbil ve Kâbil Bağlamı (`Min ecli zâlike`, `5:27–32`)** <br> [Taberî (*Câmi'u'l-Beyân*, 8/349)](https://shamela.ws/book/7798/5636): İlk cinayette Kâbil'in hasetle kardeşini öldürmesi ve pişmanlık kargasından bile aciz kalması üzerine inen evrensel yasa. | **Kutu 2: `1 Masum Can = Bütün İnsanlık` Denklemi** <br> [Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, 11/344)](https://shamela.ws/book/23635/2009): Tek bir masum insanı öldüren, bütün insanlığın yaşam dokunulmazlığı ilkesini (*ta'zîmü'r-rûh*) yıkmıştır. | **Kutu 3: `İhyâ` Kavramının Çok Katmanlı Anlamı** <br> [Râgıb el-İsfahânî (*el-Müfredât*, s. 269)](https://shamela.ws/book/23636/251): `İhyâ` hem bedeni ölümden/hastalıktan kurtarmak hem de ruhu cehalet ve ümitsizlikten diriltmektir. |
+| :--- | :--- | :--- |
+| **Kutu 4: `Hıfzu'n-Nefs` ve Hukuki Güvence** <br> [Kurtubî (*el-Câmi'*, 6/2243)](https://shamela.ws/book/20855/2243): Can güvenliği şahısların keyfine veya intikamına bırakılamaz; meşru yargı ve kamu düzeniyle korunur. | **Kutu 5: İslam Medeniyetinde Bîmâristan ve Vakıf Geleneği** <br> `Ve men ahyâhâ` ilhamıyla kurulan darüşşifalar, ücretsiz hastaneler, aşevleri ve can kurtarma vakıfları. | **Kutu 6: Çağdaş Tıp, Biyoetik ve Organ/Kan Bağışı** <br> Doktorların, sağlık çalışanlarının ve kan/organ bağışıyla bir hastaya hayat olanların *"bütün insanlığı yaşatma"* müjdesine mazhar olması. |
+| **Kutu 7: Afet Yönetimi, Arama-Kurtarma ve Deprem Direnci** <br> Depremde sağlam bina inşa eden mühendisin ve enkazdan bir can çıkaran arama-kurtarma görevlisinin `ihyâ` amelini bilfiil gerçekleştirmesi. | **Kutu 8: İş Sağlığı, Trafik Güvenliği ve Önleyici Tedbir** <br> İş kazalarını ve trafik ölümlerini önleyen her güvenlik tedbirinin `Hıfzu'n-Nefs` ve `men ahyâhâ` emrinin parçası olması. | **Kutu 9: Manevi ve Psikolojik İhyâ** <br> Zorbalığa uğrayan, yalnızlaşan veya ümidini kaybeden bir gencin elinden tutarak onu hayata bağlamanın kalbî bir `ihyâ` olması. |
+
+- **Grid Doğrulama Soruları ve Beklenen Analitik Yanıtlar:**
+  1. *"Kur'an'ın tek bir cinayeti neden bütün insanlığa karşı işlenmiş bir suç saydığını ve bunun hukuki karşılığını açıklamak için hangi kutucuklar seçilmelidir?"* -> **Doğru Sıralama:** `Kutu 1 -> Kutu 2 -> Kutu 4`.
+  2. *"`Ve men ahyâhâ` (bir canı yaşatmak) ilkesinin tarihsel vakıf geleneğinden bugünkü tıp, mühendislik ve psikolojik desteğe uzanan boyutlarını göstermek için hangi kutucuklar eşleştirilmelidir?"* -> **Doğru Sıralama:** `Kutu 3 -> Kutu 5 -> Kutu 6 -> Kutu 7 -> Kutu 8 -> Kutu 9`.
+
+##### C. Aşama 3: Eleştirel Sorgulama ve Din İstismarını Önleme (17–28. Dakika) — Zıt Panel Uygulaması
+- **Öğretim Aracı:** **Zıt Panel (`Opposite Panel`)** (`DAB4.4, DKAB.8.3.1, DKAB.12.3.5, DKAB.11.4.3, E3.4`).
+- **Öğretmen Yönergesi:** Sınıf iki gruba ayrılır (**Sorgulayan Grup** ve **Cevaplayan Grup**). Tarihte Hâricîler ve günümüzde radikal şiddet örgütleri tarafından `Mâide 5:32` âyetindeki **`ev fesâdin fi'l-ard`** (*"veya yeryüzünde bozgunculuk karşılığı olmaksızın"*) ibaresinin bağlamından koparılarak sivillere yönelik terör eylemlerini ve yargısız infazları meşrulaştırmak için istismar edilmesi; ayrıca `ihyâ` kavramının daraltılması sorgulanır.
+- **Panel Odak Soruları ve Analitik Cevap Anahtarı:**
+  1. **Soru 1 (Sorgulayan Grup):** *"Radikal grupların kendileri gibi düşünmeyen insanları 'yeryüzünde fesat çıkaranlar' ilan edip canlarına kastetmesi neden `Mâide 5:32`'nin açık ihlalidir (`DKAB.11.4.3`)?"*
+     - **Cevap 1 (Cevaplayan Grup):** Çünkü [Taberî (*Câmi'u'l-Beyân*, 8/349)](https://shamela.ws/book/7798/5636) ve [Kurtubî (*el-Câmi'*, 6/2243)](https://shamela.ws/book/20855/2243) başta olmak üzere bütün klasik müfessir ve fakihler, `fesâd fi'l-ard` kavramının hukuki tanımının bizzat **masum insanlara karşı silahlı terör ve eşkıyalık yapmak** olduğunu; suç ve cezanın ise asla fertlerin veya örgütlerin keyfî iddiasıyla değil, yalnız meşru ve bağımsız yargı mercilerince tespit edilebileceğini belirtmiştir. Masum sivillere saldıranlar fesadı önleyenler değil, âyetin sonunda kınanan **`müsrifûn`** (*haddi aşan kan dökücüler*) ve gerçek müfsidlerdir!
+  2. **Soru 2 (Sorgulayan Grup):** *"İş güvenliği önlemlerini ihmal ederek işçilerin ölümüne veya çürük bina yaparak depremde insanların hayatını kaybetmesine sebep olmak `Mâide 5:32` açısından nasıl değerlendirilir (`DKAB.8.3.1`, `DKAB.12.3.5`)?"*
+     - **Cevap 2 (Cevaplayan Grup):** İslam fıkhında ve `Zarûrât-ı Hamse` (*Hıfzu'n-Nefs*) ilkesinde, öngörülebilir ve önlenebilir bir ölüm tehlikesine karşı tedbir almamak ağır bir kusur ve kul hakkı ihlalidir. Sağlam bina yapmak, iş güvenliği sağlamak ve trafik kurallarına uymak doğrudan **`ve men ahyâhâ`** (*bir canı yaşatmak*) emrinin çağdaş tatbikidir.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası
+- **Öğretim Aracı:** **Konuşma Halkası (`Speaking Circle`)** (`SDB1.2, SDB3.2, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** İmâm Gazzâlî'nin *İhyâü Ulûmi'd-Dîn* (`3/164`, *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased*), Râgıb el-İsfahânî'nin *ez-Zerî'a ilâ Mekârimi'ş-Şerî'a* (`s. 295`), Kuşeyrî'nin *Letâifü'l-İşârât* (`1/402`) ve Sehl et-Tüsterî'nin *Tefsîru'l-Kur'âni'l-Azîm* (`s. 54`) eserlerindeki kalp fıkhı ilkeleri paylaşılır. Gazzâlî'nin, Kâbil'i kardeş katili yapan sürecin bir anda başlamadığını; önce kalpte **haset** (*kıskançlık*), ardından **hıkd** (*kin*) ve nihayet **gadab** (*öfke patlaması*) olarak büyüdüğünü anlattığı tahlili ile Hâbil'in *"Sen beni öldürmek için elini uzatsan bile ben seni öldürmek için elimi uzatacak değilim; ben âlemlerin Rabbi olan Allah'tan korkarım"* (`Mâide 5:28`) cevabı karşılaştırılır.
+- **Konuşma Halkası Vicdan Muhasebesi Soruları:**
+  1. *"İçimizde bir arkadaşımıza veya kardeşimize karşı kıskançlık (`hased`) ve öfke (`gadab`) uyandığında, Kâbil'in karanlık yoluna düşmemek için Hâbil'in takvâ ve öz denetim duruşunu nasıl kuşanabiliriz (`SDB1.2`)?"*
+  2. *"Sehl et-Tüsterî ve Kuşeyrî'nin işaret ettiği üzere, bir insanın sadece bedenini değil, kırılmış kalbini ve sönmüş ümidini diriltmek de `men ahyâhâ` kapsamındadır; çevremizde gönlü kırık bir insanı nasıl ihyâ edebiliriz (`SDB3.2`)?"*
+  3. *"Gelecekte hangi mesleği seçersek seçelim (doktor, mühendis, öğretmen, yazılımcı, esnaf), mesleğimizi `fe-ke-ennemâ ahye'n-nâse cemî'an` (bütün insanlığı yaşatmak) bilinciyle icra etmek için bugün kendimize hangi sözü verebiliriz (`SDB3.3`)?"*
+
+##### E. Aşama 5: Öğrenme Kanıtları ve Değerlendirme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (`Exit Card`)
+- **Öğretim Aracı:** **Çıkış Kartı (`Exit Card`)** (`DAB3.3, DAB6`). Her öğrenci ders sonunda aşağıdaki 3 maddelik yansıtma formunu doldurarak teslim eder:
+
+| Çıkış Kartı Sorusu | Öğrenci Yansıtma ve Kazanım Kanıtı (Beklenen Ölçüt Yanıt) |
+| :--- | :--- |
+| **1. Mâide 5:27–31 Hâbil–Kâbil kıssası ile 5:32 âyeti arasındaki bağ nedir?** | *"Haset ve öfkenin ilk cinayete (Kâbil) yol açtığını gösterir ve 'Min ecli zâlike' (İşte bu yüzden) diyerek masum cana kıymanın evrensel yasağını vaz' eder."* |
+| **2. 'Bir masumu öldürmek bütün insanlığı öldürmek; bir canı yaşatmak bütün insanlığı yaşatmak gibidir' ilkesi ne demektir?** | *"Her masum insan yaşam hakkı ve onuru bakımından bütün insanlığı temsil eder; bir canı kurtarmak bütün insanlık onurunu korumaktır."* |
+| **3. Çağımızda 've men ahyâhâ' (bir canı yaşatmak/ihyâ etmek) ilkesinin 3 somut örneği nedir?** | *"1) Tıp, ilk yardım ve kan/organ bağışı, 2) Depreme dayanıklı bina ve iş güvenliği, 3) Ümidini kaybetmiş bir insana moral, eğitim ve destek vermek."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (*Enrichment* — İleri Düzey Öğrenciler İçin):**
+  - [Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, 11/344)](https://shamela.ws/book/23635/2009), [Râgıb el-İsfahânî (*el-Müfredât*, s. 269)](https://shamela.ws/book/23636/251) ve [Kurtubî'nin (*el-Câmi'*, 6/2243)](https://shamela.ws/book/20855/2243) `Mâide 5:32` tefsirlerini karşılaştırarak; âyetteki ontolojik eşitlik ilkesinin İslam medeniyetindeki *bîmâristan* (hastane) vakıflarına ve modern biyoetik/insancıl hukuk normlarına etkisini inceleyen bir araştırma raporu hazırlanması.
+  - Afet etiği ve iş sağlığı güvenliği mevzuatının `Hıfzu'n-Nefs` ve `ve men ahyâhâ` ilkeleri açısından vaka analiziyle değerlendirilmesi.
+- **Destekleme (*Support / Scaffolding* — Ek Desteğe İhtiyaç Duyan Öğrenciler İçin):**
+  - **`Kâbil Yolu (Haset + Öfke -> Yıkım / Katl)`** ile **`Hâbil ve İhyâ Yolu (Takvâ + Merhamet -> Hayat Verme / İhyâ)`** karşıtlığını gösteren iki sütunlu görsel şema kullanılması.
+  - Günlük hayatta "Hayatı Koruyan ve Yaşatan (`İhyâ`) Davranışlar" (emniyet kemeri takmak, ilk yardım öğrenmek, akran zorbalığını engellemek, kan bağışı yapmak) üzerine eşleştirme kartlarıyla çalışılması.
+
+#### 20.4. Metodolojik Denetim ve 3 Katmanlı Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi (*Verbatim Citation Filter*):** Ders tasarımında kullanılan tüm klasik lügat, tefsir ve tasavvuf referansları ([İbn Fâris, *Makâyîs*, 2/122](https://shamela.ws/book/21710/682); [Râgıb, *el-Müfredât*, s. 269](https://shamela.ws/book/23636/251); [Taberî, *Câmi'u'l-Beyân*, 8/349](https://shamela.ws/book/7798/5636); [Fahreddîn er-Râzî, *Mefâtîhu'l-Gayb*, 11/344](https://shamela.ws/book/23635/2009); [Kurtubî, *el-Câmi'*, 6/2243](https://shamela.ws/book/20855/2243); Gazzâlî, *İhyâ*, 3/164; Kuşeyrî, *Letâif*, 1/402) İSNAD 2 standardına ve el-Mektebetü'ş-Şâmile `page_id` bağlantılarına uygun olarak doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi (*Pedagogical Process Filter*):** TYMM'nin öngördüğü **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık süre disiplini ve *Zenginleştirme/Destekleme* protokolleriyle eksiksiz işletilmiştir.
+3. **Din İstismarını Önleme Filtresi (*Anti-Exploitation Filter*):** `Fesâd fi'l-ard` istisnasını bağlamından kopararak masum sivillere yönelik şiddeti ve yargısız infazı meşrulaştırmaya çalışan Hâricî/radikal istismar, `DKAB.8.3.1`, `DKAB.12.3.5`, `DKAB.11.4.3`, `Hıfzu'n-Nefs` ve `Sedd-i Zerâi'` ilkeleriyle geçersiz kılınmıştır.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -578,12 +673,12 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/2363/15/2009 (`urn:shamela:book:23635:v11:p342`).
-- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/977/16/2272 (`urn:shamela:book:9746:v6:p176`).
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/682 (`urn:shamela:book:9193:v2:p122`).
-- **Kurtubî, Ebû Abdillâh Muhammed b. Ahmed (ö. 671/1273).** *el-Câmi' li-Ahkâmi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1427/2006. Erişim: https://shamela.ws/book/2085/15/2243 (`urn:shamela:book:21795:v7:p429`).
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/2363/16/251 (`urn:shamela:book:23629:v1:p268`).
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/779/18/5636 (`urn:shamela:book:7798:v10:p233`).
+- **Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/2009 (`urn:shamela:book:23635:v11:p342`).
+- **İbn Âşûr, Muhammed et-Tâhir (ö. 1393/1973).** *et-Tahrîr ve't-Tenvîr*. 30 Cilt. Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984. Erişim: https://shamela.ws/book/9776/2272 (`urn:shamela:book:9746:v6:p176`).
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/682 (`urn:shamela:book:9193:v2:p122`).
+- **Kurtubî, Ebû Abdillâh Muhammed b. Ahmed (ö. 671/1273).** *el-Câmi' li-Ahkâmi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1427/2006. Erişim: https://shamela.ws/book/20855/2243 (`urn:shamela:book:21795:v7:p429`).
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992. Erişim: https://shamela.ws/book/23636/251 (`urn:shamela:book:23629:v1:p268`).
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Ahmed Muhammed Şâkir. 24 Cilt. Beyrut: Müessesetü'r-Risâle, 1420/2000. Erişim: https://shamela.ws/book/7798/5636 (`urn:shamela:book:7798:v10:p233`).
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Institute for Economics & Peace [IEP] (2025).** *Global Peace Index 2025: Measuring Societal Safety, Security and Civilian Protection*. Sydney: IEP Publications. https://www.economicsandpeace.org

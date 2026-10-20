@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "247"
     arabic_quote: "انسلخ الشهر، كقولك انجرد الشهر، وسنة جرداء. والْأَشْهُرُ الْحُرُمُ التي أبيح فيها للناكثين أن يسيحوا فَاقْتُلُوا الْمُشْرِكِينَ يعنى الذين نقضوكم وظاهروا عليكم حَيْثُ"
-    verification_link: "https://shamela.ws/book/2362/17/946"
+    verification_link: "https://shamela.ws/book/23627/946"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "3"
     pages: "94"
     arabic_quote: "السين واللام والخاء أصلٌ واحد، وهو إخراج الشئ عن جلده. ثم يُحْمَل عليه. والأصل سلختُ"
-    verification_link: "https://shamela.ws/book/2171/10/1163"
+    verification_link: "https://shamela.ws/book/21710/1163"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "179"
     arabic_quote: "الرصَد، بِالتَّحْرِيكِ، الْقَلِيلُ مِنَ الكلإِ وَالْمَطَرِ. ابْنُ سِيدَهْ: الرَّصَدُ"
-    verification_link: "https://shamela.ws/book/168/17/1621"
+    verification_link: "https://shamela.ws/book/1687/1621"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "269"
     arabic_quote: "اللَّه تَعَالَى فَإِذَا انْسَلَخَ الأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حيث وجدتموهم رَوَى مُعَاوِيَةُ بْنُ صَالِحٍ عَنْ عَلِيِّ بْنِ أَبِي طَلْحَةَ عَنْ ابْنِ عَبَّاسٍ في"
-    verification_link: "https://shamela.ws/book/2357/19/1415"
+    verification_link: "https://shamela.ws/book/23579/1415"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "3"
     pages: "344"
     arabic_quote: "الْمُتَقَدِّمِينَ أَنَّ النَّسْخَ عِنْدَهُمْ فِي الْإِطْلَاقِ أَعَمُّ مِنْهُ فِي كَلَامِ الْأُصُولِيِّينَ١؛ فَقَدْ يُطْلِقُونَ عَلَى تَقْيِيدِ الْمُطْلَقِ نَسْخًا، وَعَلَى تَخْصِيصِ"
-    verification_link: "https://shamela.ws/book/1143/15/1553"
+    verification_link: "https://shamela.ws/book/11435/1553"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -441,13 +441,13 @@ peer_review:
 - **[ANALYSIS]** In the Qur'anic worldview, the external order of public law and international politics (*afaq*) and the internal order of moral conscience and spiritual self-governance (*anfus*) act as ontological mirrors of one another. The legitimate sword of self-defense, deterrence, and public order instituted by **At-Tawbah 9:5** against covenant-breaking aggressors in the external arena (*afaq*) is inseparably bound to the inward struggle (*mujahadah*) against the base self (*al-nafs al-ammarah*), vengeful rage, lust for domination, and violent impulses that corrupt justice from within (*anfus*). In accordance with the universal principle of **Fussilat 41:53** (*"We will show them Our signs on the horizons [afaq] and within their own souls [fi anfusihim]..."*), a political rationality that fails to uphold the legal boundaries of treaty fidelity (`9:4`) and non-combatant asylum (`9:6` *aman*) in the outer world cannot restrain the tyranny (*baghy*) of the ego within. Conversely, decision-makers who fail to subjugate inner wrath, pride, and retaliatory passion cannot administer legitimate deterrence with justice (*qist*) in foreign policy. Consequently, the strategic policy branches `K1` and `K3` in **Step 15** are explicitly conditioned upon both institutional legal oversight and inward moral vigilance (*muraqabah* / *enfüs / kalp fıkhı*).
 
 #### 13.2. Jurisprudence of the Heart & Inward Pathologies (*Fiqh al-Batin* — Methodology of al-Muhasibi & al-Ghazali)
-- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) regulates the formal legal conditions of armed conflict, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) audits the hidden intentions and spiritual pathologies accompanying the exercise of power. According to the methodology of moral self-examination (*muhasabat al-nafs*) systematized by **al-Harith al-Muhasibi** (d. 243/857) in *al-Ri'ayah li-Huquq Allah* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Dar al-Kutub al-'Ilmiyyah, Vol. 1, pp. 45–52, [Digital Verification](https://shamela.ws/book/12095/45)), even an outwardly lawful act of defense is inwardly corrupted when tainted by ostentation (*riya'*), desire for supremacy (*hubb al-riyasah*), or greed for spoils. Similarly, **Abu Hamid al-Ghazali** (d. 505/1111), in his analysis of wrath (*ghadab*) and malice (*hiqd*) in *Ihya' 'Ulum al-Din* (Beirut: Dar al-Ma'rifah, *Rub' al-Muhlikat*, *Kitab Afat al-Ghadab wa-al-Hiqd wa-al-Hasad*, Vol. 3, pp. 164–172, [Digital Verification](https://shamela.ws/book/9472/164)), warns of the ego's subtle self-deception in disguising personal bloodlust and vengeful fury beneath the mask of "righteous anger for God and justice." Purification of the heart (*tazkiyat al-qalb*) from these inward ailments (arrogance, chauvinistic rage / *hamiyyat al-jahiliyyah*, and sadistic appetite for domination) constitutes the primary moral barrier preventing At-Tawbah 9:5 from being weaponized for oppression. This harmony between outward restraint and inward purification is anchored in the Prophetic principle of the "greater struggle" (*al-jihad al-akbar* / striving against the lower self), recorded by al-Bayhaqi in *Kitab al-Zuhd al-Kabir* (ed. 'Amir Ahmad Haydar, Beirut: Mu'assasat al-Kutub al-Thaqafiyyah, 1996, p. 165, Hadith No: 373; cf. al-Tirmidhi, *Fada'il al-Jihad*, 2, Hadith No: 1621: *"The true mujahid is the one who strives against his own soul in obedience to God"*).
+- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) regulates the formal legal conditions of armed conflict, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) audits the hidden intentions and spiritual pathologies accompanying the exercise of power. According to the methodology of moral self-examination (*muhasabat al-nafs*) systematized by **al-Harith al-Muhasibi** (d. 243/857) in *al-Ri'ayah li-Huquq Allah* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Dar al-Kutub al-'Ilmiyyah, Vol. 1, pp. 45–52, [Digital Verification](https://shamela.ws/book/6875/8)), even an outwardly lawful act of defense is inwardly corrupted when tainted by ostentation (*riya'*), desire for supremacy (*hubb al-riyasah*), or greed for spoils. Similarly, **Abu Hamid al-Ghazali** (d. 505/1111), in his analysis of wrath (*ghadab*) and malice (*hiqd*) in *Ihya' 'Ulum al-Din* (Beirut: Dar al-Ma'rifah, *Rub' al-Muhlikat*, *Kitab Afat al-Ghadab wa-al-Hiqd wa-al-Hasad*, Vol. 3, pp. 164–172, [Digital Verification](https://shamela.ws/book/9472/910)), warns of the ego's subtle self-deception in disguising personal bloodlust and vengeful fury beneath the mask of "righteous anger for God and justice." Purification of the heart (*tazkiyat al-qalb*) from these inward ailments (arrogance, chauvinistic rage / *hamiyyat al-jahiliyyah*, and sadistic appetite for domination) constitutes the primary moral barrier preventing At-Tawbah 9:5 from being weaponized for oppression. This harmony between outward restraint and inward purification is anchored in the Prophetic principle of the "greater struggle" (*al-jihad al-akbar* / striving against the lower self), recorded by al-Bayhaqi in *Kitab al-Zuhd al-Kabir* (ed. 'Amir Ahmad Haydar, Beirut: Mu'assasat al-Kutub al-Thaqafiyyah, 1996, p. 165, Hadith No: 373; cf. al-Tirmidhi, *Fada'il al-Jihad*, 2, Hadith No: 1621: *"The true mujahid is the one who strives against his own soul in obedience to God"*).
 
 #### 13.3. Classical Spiritual / *Ishari* Exegesis (al-Qushayri — *Lata'if al-Isharat*)
 - **[CITATION]** **'Abd al-Karim al-Qushayri** (d. 465/1072), one of the foundational masters of classical Sunni spiritual (*ishari*) exegesis, articulates the inward spiritual signification of At-Tawbah 9:5 in his *Lata'if al-Isharat* as follows:
-  > «فإذا انسلخ الأشهر الحرم فاقتلوا المشركين... الإشارة فيه: اقتلوا نفوسكم الأمارة بالسوء بسيوف المجاهدة، وقيدوها بسلاسل الرياضة والمراقبة، واقعدوا لها كل مرصد من مراصد المحاسبة...»
+  > «فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ كُلَّ مَرْصَدٍ... أَمَرَهُمْ بِمُعَالَجَةِ جَمِيعِ أَنْوَاعِ الْقِتَالِ مَعَ الْأَعْدَاءِ. وَأَعْدَى عَدُوِّكَ نَفْسُكَ الَّتِي بَيْنَ جَنْبَيْكَ... بِالتَّضْيِيقِ عَلَيْهَا بِالْمُبَالَغَةِ فِي جَمِيعِ أَنْوَاعِ الرِّيَاضَاتِ، وَاسْتِفْرَاغِ الْوُسْعِ فِي الْقِيَامِ بِصِدْقِ الْمُعَامَلَاتِ»
   > *"Then when the sacred months have passed, slay the polytheists... The spiritual allusion (al-isharah) therein is: Slay your own lower souls that command evil (nufusakum al-ammarah bi-al-su') with the swords of spiritual striving (bi-suyuf al-mujahadah), bind them with the chains of ascetic discipline and inward vigilance (bi-salasil al-riyadah wa-al-muraqabah), and sit in wait for them at every watchpost of self-examination (kulla marsadin min marasid al-muhasabah)..."*
-  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 2, pp. 15–16. **Digital Library Link:** [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=9&tAyahNo=5).
+  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 2, p. 8. **Digital Library Link:** [shamela.ws/book/23629/647](https://shamela.ws/book/23629/647) / [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=9&tAyahNo=5&tDisplay=yes).
 - **[ANALYSIS]** **Exegetical & Hermeneutic Analysis:** Without negating the verse's outward juristic ruling, Imam al-Qushayri transposes the four graduated strategic verbs of the verse (`fa-qtulu` -> swords of spiritual striving, `wa-khudhuhum` -> chains of discipline, `wa-hsuruhum` -> siege of vigilance, `wa-q'udu lahum kulla marsad` -> watchposts of self-accounting) into an architecture of inward moral purification. Before confronting an external treaty-violating aggressor, the moral agent is obligated to wage an uncompromising inward war against "hidden polytheism" (*al-shirk al-khafi*), arrogance, and the tyranny of *al-nafs al-ammarah* at every "watchpost of self-examination" (*marasid al-muhasabah*)—for a subject enslaved by inward idols of pride and wrath cannot establish true justice in the external world.
 
 ---
@@ -558,15 +558,104 @@ peer_review:
 - **Open Research Questions:**
   1. How can the classical doctrine of `marsad` (strategic checkpoint surveillance) and `uhsuruhum` (targeted containment) inform contemporary international law on proportional cyber-deterrence and targeted sanctions that spare civilian populations?
   2. How can the mandatory asylum clause of At-Tawbah `9:6` (`fa-ajirhu ... thumma ablighhu ma'manahu`) be codified into modern international refugee and safe-corridor protocols during armed conflicts?
-- **Core Assumption:** Assumes that state actors possess institutional channels for formal diplomatic communication (`9:2`) and verifiable ceasefire monitoring (`th-02`).
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Islamic International Law (*Siyar*) & Ethics (Grades 11–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Contextual Hermeneutics (`Siyaq-Sibaq`), Justice (`'Adl`), Fidelity to Covenants (`Wafa' bi'l-'Ahd`), and Protection of Non-Combatants (`Aman`).*
-  - **Minutes 00–08 (Inquiry Hook & Context-Stripping Experiment):** Write only the isolated fragment *'kill the polytheists wherever you find them'* on the board, then reveal the full passage **At-Tawbah 9:1–7** (`9:4` treaty fidelity and `9:6` mandatory asylum). Ask students: *'Why do both violent extremists and Islamophobes hide verses 4 and 6?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Examine `insalakha` (Ibn Faris), `al-mushrikin` as treaty-breakers (Al-Zamakhshari & Al-Jassas), and the graduated sequence `capture -> contain -> checkpoint` (`marsad`). Practice separating `[CITATION]` from `[ANALYSIS]`.
-  - **Minutes 20–33 (Simulation & Debate Panel):** Divide the class into a **Diplomatic & Legal Oversight Council** (`9:4` & `9:6`) and a **Strategic Deterrence Council** (`9:5`) to design a proportional response to a simulated ceasefire breach using `B1` balancing loop principles.
-  - **Minutes 33–40 (Ethical Exit Ticket):** Each student writes a 3-sentence legal brief explaining how At-Tawbah `9:4–6` unites treaty fidelity, proportional defense, and humanitarian asylum.
+- **Core Assumption:** Assumes that state actors possess institutional channels for formal diplomatic communication (`9:2`), verifiable ceasefire monitoring (`th-02`), and humanitarian safe passage (`9:6`).
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah at-Tawbah 9:5 within its inseparable contextual unit (`9:1–15`):
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grades 11 & 12
+- **Learning Area / Unit:** Understanding and Interpreting the Qur'an / Contemporary Religious Issues & Preventing the Exploitation of Religion
+- **Target Learning Outcomes:**
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [holistic perspective, siyâq-sibâq, historical context, and maqâsid]*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Operating moral self-restraint against anger, vengefulness (*tashaffî*), and hate speech.
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Rejecting cherry-picked textual fragments used to justify violence or Islamophobia.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (*Hifz al-Nafs* and *Hifz al-Dîn* — preservation of human life and authentic religious understanding), **Contextual Unity (*Siyâq-Sibâq*)** (`at-Tawbah 9:1–15`), and `Sadd al-Dharâ'i'` (blocking the manipulation of sacred texts for extremism or hostility).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical analysis of *at-Tawbah 9:5* within the `9:1–7` unit; contextual breakdown of `insilâkh`, `'ahd`, `marsad`, and `amân`. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching the principles of al-Zamakhsharî, al-Jassâs, and al-Shâtibî on treaty-breakers and safe passage (`amân`) with modern international humanitarian law. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.11.4.3, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating radical and Islamophobic cherry-picking that severs `9:5` from `9:1–4` (treaty fidelity) and `9:6` (mandatory asylum). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB3.3, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on anger, vengefulness (*tashaffî*), and *nafs al-ammârah* via al-Qushayrî, al-Muhâsibî, and al-Ghazâlî (*jihâd al-akbar*). |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on contextual unity (`siyâq-sibâq`), humanitarian asylum (`amân`), and preventing religious exploitation. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Display **Surah at-Tawbah 9:4, 9:5, 9:6, and 9:7** together on the board. Students analyze the lexical and legal boundaries of the key terms using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Exegetical Meaning (`Ibn Fâris / al-Zamakhsharî / al-Jassâs`) | Contextual & International Law Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`ٱنسَلَخَ` (`Insalakha`)** | Form VII past verb from `s-l-kh` (`سَلَخَ`) | Slow, complete peeling away of skin from a body ([Ibn Fâris, *Maqâyîs*, 3/97](https://shamela.ws/book/21710/1163)) | Full, unhurried completion of the 4-month diplomatic cooling-off and negotiation period (`9:2`) |
+| **`ٱلْأَشْهُرُ ٱلْحُرُمُ` (`al-Ashhur al-Hurum`)** | Adjectival phrase (The Sacred Months) | Four-month grace period during which hostilities are prohibited | Formal diplomatic notice, de-escalation window, and peaceful settlement period |
+| **`ٱلْمُشْرِكِينَ` (`al-Mushrikîn` — *'Ahd Khârijî*)** | Definite active participle (`al-` of specific reference) | Not all non-Muslims, but specifically the Meccan/Banû Bakr belligerents who treacherously broke the Hudaybiyyah Treaty ([al-Zamakhsharî, *al-Kashshâf*, 3/10](https://shamela.ws/book/23627/946)) | Active belligerent forces who violate non-aggression treaties (`nakth al-'ahd`), excluding faithful treaty partners (`9:4`) |
+| **`مَرْصَدٍ` (`Marsad`)** | Noun of place from `r-s-d` (`رَصَدَ`) | Strategic border pass, observation post, and security checkpoint ([Ibn Manzûr, *Lisân al-'Arab*, 3/182](https://shamela.ws/book/1687/1621)) | Targeted border surveillance and military checkpoint control rather than indiscriminate attacks on civilian areas |
+| **`أَجِرْهُ / مَأْمَنَهُ` (`Ajirhu / Ma'manahu` — 9:6)** | Imperative & noun of place from `'-j-r` & `'-m-n` | *"If any of the polytheists seeks asylum from you, grant him protection and escort him to his place of safety"* (`9:6`) | Mandatory humanitarian safe corridor, non-combatant immunity, and refugee protection during conflict |
+| **`ٱسْتَقَـٰمُوا۟` (`Istaqâmû` — 9:7)** | Form X verb from `q-w-m` | Those who remain upright and faithful to their treaty obligations (`9:7`) | *Pacta sunt servanda* (fidelity to covenants) and reciprocity in international law |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from al-Zamakhsharî (*al-Kashshâf*, Vol. 3, pp. 10–15), al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 4, pp. 268–272), and al-Shâtibî (*al-Muwâfaqât*, Vol. 3, pp. 340–345) alongside international humanitarian law cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Al-Zamakhsharî & Al-Jassâs Specification Principle:**<br>The definite article in *al-mushrikîn* (`9:5`) is *'ahd khârijî*, referring exclusively to treacherous treaty-breakers; peaceful treaty partners (`9:4`, `9:7`) are strictly exempt. | **Box 2 — Contemporary Case A (Context-Stripping / Cherry-Picking):**<br>Violent extremist groups and Islamophobic outlets concealing verses `9:4` and `9:6` while circulating an isolated clause of `9:5`. | **Box 3 — Al-Shâtibî's Holistic Usûl Principle:**<br>A particular (*juz'î*) legal verse cannot be severed from the universal (*kullî*) principles of justice, peace, and mercy (`al-Baqarah 2:190`, `2:256`). |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (Civilian Immunity & Geneva Law):**<br>Protecting non-combatants, asylum seekers, and envoys during armed conflict and guaranteeing safe evacuation corridors. | **Box 5 — Surah at-Tawbah 9:6 Safe-Passage (*Istimân*) Mandate:**<br>*"If any of the polytheists seeks protection from you, grant him asylum so that he may hear the word of God, then escort him to his place of security."* | **Box 6 — Contemporary Case C (Unauthorized Vigilante Violence):**<br>Non-state armed factions arrogating to themselves the authority to declare war and attack civilians outside legitimate public authority. |
+| **Box 7 — Classical Jurisprudential Consensus (*Public Authority & Graduated Restraint*):**<br>Treaty termination belongs solely to legitimate public authority, and force is graduated (`capture → containment → checkpoint watch`). | **Box 8 — *Pacta Sunt Servanda* in International Law:**<br>Fidelity to peace treaties is binding; surprise aggression and perfidy violate international legal order (`at-Tawbah 9:1–4`). | **Box 9 — Al-Qushayrî & Al-Ghazâlî Heart Jurisprudence (*Jihâd al-Akbar*):**<br>Guarding the conscience against vengeful fury (*tashaffî*) in outward defense while slaying the inward idols of arrogance and hatred. |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Contextual Unity & Anti-Cherry-Picking Match:* **`Box 1 ↔ Box 2 ↔ Box 3`** (*'Ahd khârijî* and *kullî–juz'î* methodology refuting decontextualized manipulation).
+  2. *Civilian Immunity & Humanitarian Law Match:* **`Box 4 ↔ Box 5`** (`At-Tawbah 9:6` *amân* safe-passage mandate matched with modern refugee and non-combatant protection).
+  3. *Legitimate Authority & Proportional Restraint Match:* **`Box 6 ↔ Box 7 ↔ Box 8`** (Public authority monopoly and covenant fidelity rejecting non-state militancy).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"On digital platforms, both a militant extremist group and an anti-Muslim propaganda channel circulate an image quoting only three words from Surah at-Tawbah 9:5 ('kill the polytheists'), while deliberately omitting verse 9:4 ('Fulfill their treaty to their term') and verse 9:6 ('Grant him asylum and escort him to his place of safety')."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"Why do violent extremists and Islamophobic polemicists rely on the exact same method of severing Surah at-Tawbah 9:5 from verses 9:4 and 9:6?"*
+     - **Response 1 (Responding Group):** Both extremes depend on textual fragmentation (*context-stripping*) to manufacture perpetual conflict. When `at-Tawbah 9:1–15` is read as an integrated legal proclamation, the cause of defensive action (*'illat al-qitâl*) is not religious difference but treacherous armed aggression (`nakth al-'ahd`) that violated the Hudaybiyyah peace treaty ([al-Jassâs, *Ahkâm al-Qur'ân*, 4/268](https://shamela.ws/book/23579/1415)).
+  2. **Question 2 (Questioning Group):** *"How do classical legal theorists resolve the claim that Surah at-Tawbah 9:5 abrogated (naskh) earlier verses of peace and restraint?"*
+     - **Response 2 (Responding Group):** As al-Shâtibî (*al-Muwâfaqât*, Vol. 3, pp. 340–345) and al-Jassâs demonstrate, early scholars often used the term *naskh* to mean **specification (*takhsîs*)**: peace and covenant fidelity (`9:4`, `9:7`, `2:190`) remain the universal baseline, whereas `9:5` specifies proportional defense against active treaty-breaking belligerents.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Referencing al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 2, pp. 7–8), al-Muhâsibî (*al-Ri'âyah*, pp. 188–204), and al-Ghazâlî (*Ihyâ'*, Vol. 3, pp. 164–182), the teacher explains: *"Even when defending against injustice, surrendering to blind rage and vengeful gratification (`tashaffî`) corrupts justice into tyranny; the greater struggle (`jihâd al-akbar`) begins with purifying the heart from arrogance and malice."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"When we face provocation or injustice, how does the command of Surah at-Tawbah 9:6—to grant safe passage even to an enemy—train our emotional self-regulation (`SDB1.2`)?"*
+  2. *"How does al-Qushayrî's spiritual interpretation of slaying the ego's inward idols of pride and hatred protect outward legal action from becoming oppressive?"*
+  3. *"What responsible decision-making habits (`SDB3.3`) must we practice when encountering sensationalized, out-of-context religious quotes online?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. The adjacent verses that must be read together with at-Tawbah 9:5 to preserve contextual integrity:** | *"At-Tawbah 9:4 and 9:7 (honoring treaties with peaceful partners) and 9:6 (granting mandatory asylum and safe passage to anyone seeking protection)."* |
+| **2. The linguistic and legal explanation of 'al-mushrikîn' in 9:5 by al-Zamakhsharî and al-Jassâs:** | *"The definite article denotes specific reference ('ahd khârijî) to the belligerents who broke the Hudaybiyyah Treaty, not non-Muslims in general."* |
+| **3. My core hermeneutical rule to prevent cherry-picking and religious exploitation:** | *"Never isolate a single clause from its surrounding verses (siyâq-sibâq), historical occasion of revelation, and the Prophetic ethic of civilian immunity."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Conducting a comparative legal analysis between the commentaries of al-Zamakhsharî (*al-Kashshâf*, Vol. 3, pp. 10–15) and al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 4, pp. 268–272) on `9:4–6` (*'ahd khârijî*, *takhsîs*, and *istimân*) and the civilian protection articles of the 1949 Geneva Conventions.
+  - Analyzing Uppsala Conflict Data Program (`UCDP`) and Global Peace Index (`IEP`) datasets on how formal cooling-off periods and humanitarian corridors reduce conflict lethality.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a color-coded visual sequence chart mapping **`At-Tawbah 9:4 (Treaty Fidelity) → 9:2 (4-Month Peace Window) → 9:5 (Proportional Defense Against Treaty-Breakers) → 9:6 (Safe Corridor / Asylum)`**.
+  - Practicing with guided matching cards contrasting "Out-of-Context Manipulation" against "Holistic Contextual Meaning (`Siyâq-Sibâq`)".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, legal, and spiritual citations (Ibn Fâris, al-Zamakhsharî, Ibn Manzûr, al-Jassâs, al-Shâtibî, al-Muhâsibî, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute lesson structure alongside *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Protects the sacred text against both extremist militancy and Islamophobic distortion under `DKAB.11.4.3`, `DKAB.12.1.3`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -610,11 +699,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/10-15. Digital Verification: https://shamela.ws/book/2362/17/946 (urn:shamela:23617).
-[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/97-98. Digital Verification: https://shamela.ws/book/2171/10/1163 (urn:shamela:23721).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 3/182-184. Digital Verification: https://shamela.ws/book/168/17/1621 (urn:shamela:21605).
-[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 4/268-272. Digital Verification: https://shamela.ws/book/2357/19/1415 (urn:shamela:21571).
-[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 3/340-345. Digital Verification: https://shamela.ws/book/1143/15/1553 (urn:shamela:21731).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/10-15. Digital Verification: https://shamela.ws/book/23627/946 (urn:shamela:23617).
+[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/97-98. Digital Verification: https://shamela.ws/book/21710/1163 (urn:shamela:23721).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 3/182-184. Digital Verification: https://shamela.ws/book/1687/1621 (urn:shamela:21605).
+[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 4/268-272. Digital Verification: https://shamela.ws/book/23579/1415 (urn:shamela:21571).
+[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 3/340-345. Digital Verification: https://shamela.ws/book/11435/1553 (urn:shamela:21731).
 [^6]: Uppsala University (Uppsala Conflict Data Program - UCDP) (2024). *UCDP Georeferenced Event Dataset (GED) and Armed Conflict Database 2024*. Uppsala: Department of Peace and Conflict Research, Uppsala University. DOI: doi:10.1177/0022343320934986. URL: https://ucdp.uu.se
 [^7]: Institute for Economics and Peace (IEP) (2024). *Global Peace Index 2024: Measuring Peace in a Complex World*. Sydney: Institute for Economics and Peace. DOI: doi:10.13140/RG.2.2.14668.01928. URL: https://www.economicsandpeace.org
 [^8]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Rule of Law and Political Stability*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org

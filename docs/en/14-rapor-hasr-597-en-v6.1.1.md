@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "502"
     arabic_quote: "قوله تعالى: كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ كيلا يكون الفيء الذي حقه أن يعطى الفقراء ليكون لهم بلغة يعيشون بها جدا بين الأغنياء يتكاثرون به. أو كيلا يكون دولة جاهلية بينهم"
-    verification_link: "https://shamela.ws/book/2362/17/2567"
+    verification_link: "https://shamela.ws/book/23627/2567"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "322"
     arabic_quote: "اسم الشيء الذي يتداول بعينه، والدَّوْلَة المصدر. قال تعالى: كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ [الحشر/ ٧] ، وتداول القوم كذا، أي: تناولوه من"
-    verification_link: "https://shamela.ws/book/2363/16/304"
+    verification_link: "https://shamela.ws/book/23636/304"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "314"
     arabic_quote: "الدال والواو واللام أصلان: أحدُهما يدلُّ على تحوُّل شئِ من مكان إلى مكان، والآخَر يدلُّ على ضَعْفٍ واستِرخاء."
-    verification_link: "https://shamela.ws/book/2171/10/874"
+    verification_link: "https://shamela.ws/book/21710/874"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "252"
     arabic_quote: "جَمْعُ دُولة، بِالضَّمِّ، وَهُوَ مَا يُتداوَل مِنَ الْمَالِ فَيَكُونُ لِقَوْمٍ دُونَ قَوْمٍ. الأَزهري: قَالَ الْفَرَّاءُ فِي قَوْلِهِ تَعَالَى: كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ"
-    verification_link: "https://shamela.ws/book/168/17/5432"
+    verification_link: "https://shamela.ws/book/1687/5432"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "319"
     arabic_quote: "كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ وقوله وَالَّذِينَ جاؤُ مِنْ بَعْدِهِمْ وَقَالَ لَوْ قَسَمْتهَا بَيْنَهُمْ لَصَارَتْ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنْكُمْ"
-    verification_link: "https://shamela.ws/book/2357/19/1865"
+    verification_link: "https://shamela.ws/book/23579/1865"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -435,17 +435,17 @@ In the external macroeconomic, fiscal, and constitutional order (*âfâk*), Sura
 
 #### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
 In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, oligarchic wealth concentration (`dûlah`), monopolistic hoarding (*ihtikâr*), and indifference to poverty are traced to the inward maladies of love of wealth (*hubb al-mâl*), miserliness (*bukhl*), and possessive greed (*shuhh*):
-- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In his analysis of worldly covetousness and delusion (*ghurûr*), al-Muhâsibî demonstrates that when the ego (*nafs*) regards wealth as personal sovereignty rather than a divine trust (*amânah*), it deadens empathy for the poor and breeds tyrannical arrogance, a pathology cured only through ascetic detachment of the heart (*zuhd*) and conscientious spending in God's path (*infâq*) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 295–325; Digital access: [shamela.ws/book/9683/295](https://shamela.ws/book/9683/295)).
-- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Dhamm al-Bukhl wa Dhamm Hubb al-Mâl* (Condemnation of Miserliness and Love of Wealth, Vol. 3), al-Ghazâlî explains that currency and wealth were created to circulate through society like blood in a living body or an impartial magistrate bridging human needs; those who lock wealth in closed circuits (`dûlah` and `kanz`) commit treason against the divine wisdom of circulation and enslave their own hearts to metal. Al-Ghazâlî identifies the supreme remedy for `shuhh al-nafs` as the station of *îthâr* (altruistic preference, al-Hashr 59:9), the pinnacle of generosity (*sakhâ'*) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 231–273; Digital access: [shamela.ws/book/9472/231](https://shamela.ws/book/9472/231)).
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In his analysis of worldly covetousness and delusion (*ghurûr*), al-Muhâsibî demonstrates that when the ego (*nafs*) regards wealth as personal sovereignty rather than a divine trust (*amânah*), it deadens empathy for the poor and breeds tyrannical arrogance, a pathology cured only through ascetic detachment of the heart (*zuhd*) and conscientious spending in God's path (*infâq*) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 295–325; Digital access: [shamela.ws/book/6875/108](https://shamela.ws/book/6875/108)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Dhamm al-Bukhl wa Dhamm Hubb al-Mâl* (Condemnation of Miserliness and Love of Wealth, Vol. 3), al-Ghazâlî explains that currency and wealth were created to circulate through society like blood in a living body or an impartial magistrate bridging human needs; those who lock wealth in closed circuits (`dûlah` and `kanz`) commit treason against the divine wisdom of circulation and enslave their own hearts to metal. Al-Ghazâlî identifies the supreme remedy for `shuhh al-nafs` as the station of *îthâr* (altruistic preference, al-Hashr 59:9), the pinnacle of generosity (*sakhâ'*) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 231–273; Digital access: [shamela.ws/book/9472/977](https://shamela.ws/book/9472/977)).
 - **Enfüs–Policy Bridge:** Because policymakers and financial elites who remain captive to inward covetousness (`shuhh`) in their conscience (*enfüs*) design regressive tax codes and rentier bailouts in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` sovereign public-resource redistribution, `K2` anti-monopoly and asset-backed real-economy finance, and `K3` institutional *zakâh* and *waqf* circulation) establish binding structural checks against oligarchic hoarding.
 
 #### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
 Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the transition from `kay lâ yakûna dûlatan` (59:7) to `wa-man yûqa shuhha nafsihî` and `yu'thirûna 'alâ anfusihim` (59:9) as the liberation of the spiritual heart from the bondage of material possession into the radiance of divine generosity:
 - **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
   - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Hashr 59:7–9, al-Qushayrî records the following verbatim passage:
-    > «كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ... الإشارة فيه: لئلا تكون الدنيا محصورة في أيدي أهل الغفلة والحرص، بل تفرق على أهل الحاجة والفقر... وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُولَئِكَ هُمُ الْمُفْلِحُونَ: فمن وقي شح نفسه فاز بكرامة الإيثار، وبذل الفضل في رضا الحق»
-    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, pp. 566–567; Digital verification: [shamela.ws/book/23622/566](https://shamela.ws/book/23622/566) / [altafsir.com — Latâ'if al-Ishârât 59:7](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=59&tAyahNo=7&tDisplay=yes)).*
-  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that true deliverance (*falâh*) lies in purifying the soul from possessive greed (`shuhh al-nafs`) by recognizing that all property belongs solely to God, transforming material goods from a veil of heedlessness into a vehicle of fraternal service and *îthâr* (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 168; Digital access: [shamela.ws/book/23625/168](https://shamela.ws/book/23625/168)).
+    > «كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ... ذَلِكَ لِأَنَّ تَحَرُّرَ الْقَلْبِ مِنَ الْأَعْوَاضِ وَالْأَمْلَاكِ صِفَةُ السَّادَةِ وَالْأَكَابِرِ، وَمَنْ أَسَرَتْهُ الْأَخْطَارُ وَبَقِيَ فِي شُحِّ نَفْسِهِ فَهُوَ فِي تَضْيِيقِهِ وَتَدْنِيقِهِ»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 3, p. 559; Digital verification: [shamela.ws/book/23629/1848](https://shamela.ws/book/23629/1848) / [altafsir.com — Latâ'if al-Ishârât 59:7](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=59&tAyahNo=7&tDisplay=yes)).*
+  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that true deliverance (*falâh*) lies in purifying the soul from possessive greed (`shuhh al-nafs`) by recognizing that all property belongs solely to God, transforming material goods from a veil of heedlessness into a vehicle of fraternal service and *îthâr* (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 165; Digital access: [shamela.ws/book/23600/162](https://shamela.ws/book/23600/162)).
   - `[ANALYSIS / YORUM]`: Al-Qushayrî's insight—*"So that worldly wealth is not locked in the hands of the people of heedlessness and greed (`ahl al-ghaflah wa'l-hirs`), but distributed to those in need; and whoever is protected from the greed of his ego attains the nobility of altruistic preference (`karâmat al-îthâr`)"*—illuminates the spiritual core of **circulatory wealth ethics**. When the heart witnesses God as the sole true Owner (`al-Mâlik`), wealth ceases to be an idol of oligarchic domination (`dûlah`) and becomes a life-giving stream of justice and compassion across society.
 
 ---
@@ -552,17 +552,110 @@ Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the 
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How can Ibn Ashur's concept of *rawaj* (mandatory broad circulation of wealth derived from `Al-Hashr 59:7`) be mathematically integrated into modern central-bank monetary policy and sovereign wealth fund mandates?
-  2. How can digital `waqf` crowdfunding and institutional `zakah` be structured to finance tech startups and vocational ownership for orphaned and low-income youth?
-- **Core Assumption:** Assumes that broad-based purchasing power and human capital investment generate higher long-term GDP stability than rentier concentration.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Islamic Economics & Social Justice Ethics (Grades 10–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Social Justice, Generosity & Altruism (`Ithar`), Protection of the Vulnerable, and Prevention of Hoarding (`Dulah / Kanz`).*
-  - **Minutes 00–08 (Inquiry Hook — The Blood Circulation Metaphor):** Ask students: *'What happens to the human body if blood stops circulating to the hands and feet and pools only in one organ?'* Connect this directly to `kay la yakuna dulatan bayna'l-aghniya'i minkum` (`59:7`).
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze `fay'`, `dulah` (Ibn Manzur & Al-Zamakhshari), `shuhh` vs. `ithar` (`59:9`), and Caliph 'Umar's speech on `Al-Hashr 59:7–10`.
-  - **Minutes 20–33 (Economic Policy & Waqf Design Workshop):** Students design a **Youth & Orphan Productive Waqf Project** that turns passive charity into sustainable education and employment (`K3`).
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students contrast `shuhh` (possessive greed) with `ithar` (altruistic solidarity) in a 3-sentence reflection.
+  1. How can Ibn 'Âshûr's macroeconomic principle of *rawâj* (broad, unobstructed circulation of wealth derived from `Al-Hashr 59:7`) be integrated into modern fiscal policy, anti-trust regulation, and sovereign wealth fund governance?
+  2. How can digital *waqf* crowdfunding and institutional *zakâh / fay'* instruments be structured to finance vocational ownership (*tamlîk*) and entrepreneurship for orphans and low-income youth?
+- **Core Assumption:** Assumes that broad-based purchasing power, anti-monopoly regulation (`kay lâ yakûna dûlatan`), and altruistic solidarity (`îthâr`, `59:9`) generate far greater long-term economic stability and social cohesion than oligarchic wealth concentration.
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah al-Hashr 59:7–9:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grades 10 & 12
+- **Learning Area / Unit:** Islam and Socio-Economic Life / Equitable Circulation of Wealth, Prevention of Oligarchic Monopoly (*Dûlah*) & Ethics of Giving (*Infâq / Îthâr*)
+- **Target Learning Outcomes:**
+  - `DKAB.10.3.5` (*Analyzing Islamic principles of economic life, property stewardship, and equitable distribution*)
+  - `DKAB.12.3.5` (*Evaluating Islamic principles of infâq, zakâh, and social justice in resolving contemporary socioeconomic challenges*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [legal ratio legis / ta'lîl, historical context, and contextual unity]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Restraining possessive greed (*shuhh al-nafs*, `59:9`), hoarding (*kanz*), and ostentatious rivalry (*takâthur*).
+  - `SDB3.2` (*Social Responsibility & Solidarity / Sosyal Sorumluluk ve Yardımlaşma*): Upholding the rightful share of orphans, the needy, and wayfarers in public prosperity and practicing altruism (*îthâr*).
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Practicing ethical consumption, productive stewardship, and fair sharing.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (*Hifz al-Mâl* and *Hifz al-Nafs* — safeguarding broad wealth circulation and human livelihood), **Allocation of the Banû al-Nadîr Public Revenue (*Fay'*)** (*sabab al-nuzûl*), **Caliph 'Umar's Historic Ruling on the Lands of *Sawâd al-'Irâq* Based on Al-Hashr 59:7–10**, the *usûl* maxim *"The ruling revolves with its effective cause (`'illah`: `kay lâ yakûna dûlatan`)"* (*ta'lîl*), and `Sadd al-Dharâ'i'` (preventing cartels, hoarding/*ihtikâr*, and plutocracy).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and economic analysis of `al-fay'`, `dûlatan`, `al-aghniyâ'`, `al-yatâmâ wa'l-masâkîn`, `ibn al-sabîl`, `shuhha nafsihî`, and `îthâr`. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching al-Zamakhsharî, al-Râghib, Ibn Fâris, al-Jassâs, and Caliph 'Umar's *Sawâd* precedent with modern Gini inequality metrics, social transfers, and *waqf* institutions. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.10.3.5, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating plutocratic hoarding disguised as property rights versus confiscatory collectivism in light of `Al-Hashr 59:7–9` (`DKAB.10.3.5`). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB3.2, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on avarice (*shuhh al-nafs*), acquisitive rivalry (*takâthur*), and altruism (*îthâr*) via al-Ghazâlî, al-Muhâsibî, and al-Qushayrî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on *dûlah*, Caliph 'Umar's intergenerational ijtihâd, and the *shuhh–îthâr* contrast. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project **Surah al-Hashr 59:7** alongside **59:9** onto the board. Open with the physiological analogy: *"What happens to the human body if blood stops circulating to the limbs and clots inside a single vessel?"* Connect this directly to `dûlatan` (wealth clotting within a privileged circle) and guide students through the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Tafsir Meaning (`Ibn Fâris / al-Râghib / al-Zamakhsharî`) | Contextual & Modern Political Economy Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`مَّآ أَفَآءَ ٱللَّهُ` (`al-Fay'`)** | Form IV perfect verb from `f-y-'` (`فَاءَ`) | Returning shade; public revenue acquired peacefully that returns to serve public welfare ([al-Râghib, *al-Mufradât*, p. 322](https://shamela.ws/book/23636/304)) | Public treasury revenues, natural resource rents, and national commons |
+| **`دُولَةًۢ` (`Dûlatan`)** | Noun with *dammah* from `d-w-l` (`دَالَ`) | Wealth that circulates exclusively hand-to-hand within a closed elite, excluding the poor ([Ibn Manzûr, *Lisân al-'Arab*, 11/252](https://shamela.ws/book/1687/5432)) | Oligarchic wealth concentration, cartel monopoly, and rentier capitalism |
+| **`كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ` (`Kay lâ yakûna dûlatan...`)** | Particle of purpose (`kay`) + subjunctive clause | *"So that it does not become a perpetual monopoly among the rich from among you!"* ([al-Zamakhsharî, *al-Kashshâf*, 4/502](https://shamela.ws/book/23627/2567)) | Foundational *Maqâsid* mandate of distributive justice and anti-monopoly policy |
+| **`ٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ` (`al-Yatâmâ wa'l-Masâkîn`)** | Plural nouns (`y-t-m` & `s-k-n`) | Orphans deprived of support and the destitute experiencing livelihood hardship | Priority beneficiaries of public social safety nets, scholarships, and fiscal transfers |
+| **`ٱبْنِ ٱلسَّبِيلِ` (`Ibn al-Sabîl`)** | Genitive compound ("son of the road") | Stranded traveler or displaced person cut off from resources | Refugees, disaster victims, and students studying away from home |
+| **`شُحَّ نَفْسِهِۦ` (`Shuhha nafsihî` — 59:9)** | Verbal noun from `sh-h-h` (`شَحَّ`) | Extreme possessive avarice that both hoards one's own wealth and covets others' shares | Predatory greed, hoarding (*kanz*), and monopolistic profiteering (*ihtikâr*) |
+| **`يُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ` (`Îthâr` — 59:9)** | Form IV imperfect verb from `'-th-r` (`آثَرَ`) | Preferring others over oneself even while experiencing personal need (`khasâsah`) | Altruistic solidarity, *waqf* philanthropy, and civic fraternity |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from al-Zamakhsharî (*al-Kashshâf*, Vol. 4, p. 502), al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 5, p. 319), and Caliph 'Umar's *Sawâd* land assembly alongside modern macroeconomic inequality cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Al-Zamakhsharî (*al-Kashshâf*, 4/502) & Abolition of Jâhilî Privilege:**<br>In pre-Islamic Arabia, chieftains seized a fourth of all spoils (*mirbâ'*) and left nothing for the weak; `Al-Hashr 59:7` abolished elite capture and assigned public revenues to orphans, the poor, and wayfarers. | **Box 2 — Contemporary Case A (Wealth Inequality & Gini Concentration):**<br>Extreme concentration of global wealth in the top 1% (`dûlah`), erosion of middle-class purchasing power, and rising working poverty (World Inequality Report data). | **Box 3 — Caliph 'Umar's *Sawâd al-'Irâq* Ijtihâd (Al-Jassâs, *Ahkâm*, 5/319):**<br>Refusing pressure to divide Iraq's fertile lands among the army, Caliph 'Umar recited `Al-Hashr 59:7–10`: *"If I divide them, wealth will become a `dûlah` among the rich and nothing will remain for future generations (`59:10`)"*, dedicating the lands as a permanent public *waqf* ([Shamela: 23579/1865](https://shamela.ws/book/23579/1865)). |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (Intergenerational Justice & Public Wealth Funds):**<br>Managing natural resources and public budgets to fund universal education, healthcare, and future generations rather than privatizing rents to oligarchs. | **Box 5 — Ibn Fâris (*Maqâyîs*, 2/314) & Ibn 'Âshûr (*Rawâj* Principle):**<br>Root `d-w-l` signifies circulation ([Shamela: 21710/874](https://shamela.ws/book/21710/874)). Ibn 'Âshûr demonstrates that Islamic law mandates broad circulation (*rawâj*) of wealth through real production and prohibits idle hoarding (*kanz*). | **Box 6 — Contemporary Case C (Anti-Trust Regulation & Productive Economy):**<br>Enforcing competition laws against price-gouging cartels (*ihtikâr*) and channeling credit toward SMEs, employment, and youth innovation. |
+| **Box 7 — Surah al-Hashr 59:9 Dialectics of *Shuhh* and *Îthâr*:**<br>*"Whoever is protected from the avarice of his soul (`shuhha nafsihî`)—it is they who are the successful."* The Ansâr practiced *îthâr* toward the Muhâjirûn. | **Box 8 — Contemporary Case D (*Waqf* Endowments, *Zakâh* & Social Solidarity):**<br>Combining mandatory fiscal redistribution (*zakâh* and fair taxation) with voluntary *waqf* endowments to empower vulnerable households. | **Box 9 — Al-Ghazâlî & Al-Muhâsibî Heart Jurisprudence (*Dhamm al-Bukhl*):**<br>The inner root of economic monopoly is avarice (*shuhh*), love of wealth (*hubb al-mâl*), and forgetting that God is the true Owner (`al-Malik`, `59:23`). |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Anti-Oligarchy (`Anti-Dûlah`) & Intergenerational Public Finance Match:* **`Box 1 ↔ Box 2 ↔ Box 3 ↔ Box 4`** (Abolition of elite capture and Caliph 'Umar's `59:7–10` precedent matched with Gini reduction and intergenerational public trusts).
+  2. *Healthy Wealth Circulation (`Rawâj`) & Anti-Monopoly Match:* **`Box 5 ↔ Box 6`** (Ibn Fâris's circulation root and Ibn 'Âshûr's *rawâj* principle matched with anti-cartel regulation).
+  3. *Purification from Avarice (`Shuhh`) to Altruism (`Îthâr`) Match:* **`Box 7 ↔ Box 8 ↔ Box 9`** (`Al-Hashr 59:9` *shuhh–îthâr* ethics matched with *waqf* institutions and al-Ghazâlî's heart jurisprudence).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.10.3.5, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"In an economic ethics debate, Speaker A claims: 'Islam protects private property; therefore, cartels, hoarding essential goods (`ihtikâr`), and extreme wealth concentration in a tiny elite are completely legitimate.' Speaker B counters: 'Surah al-Hashr 59:7 condemns wealth among the rich; therefore, Islam abolishes private property and individual entrepreneurship altogether.' Students evaluate both extremes through Surah al-Hashr 59:7–9."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"How does invoking 'private property rights' to justify monopolies, price-fixing cartels (`ihtikâr`), and oligarchic concentration violate the explicit Qur'anic ratio legis `kay lâ yakûna dûlatan bayna al-aghniyâ'i minkum` (`DKAB.10.3.5`, `DKAB.11.4.3`)?"*
+     - **Response 1 (Responding Group):** In Islamic law, ownership is a socially responsible stewardship (*amânah*), never a license for predatory monopoly. `Al-Hashr 59:7` establishes a universal constitutional *'illah*: economic policies and market structures must prevent wealth from becoming a closed circuit (`dûlah`) among the wealthy. Furthermore, hoarding (`kanz`, `al-Tawbah 9:34`) and monopolistic price-gouging (`ihtikâr`; Muslim, *Musâqât*, 129: *"No one hoards / monopolizes except a sinner"*) are strictly prohibited.
+  2. **Question 2 (Questioning Group):** *"Does Surah al-Hashr 59:7 abolish legitimate private ownership, lawful commerce, and productive entrepreneurship?"*
+     - **Response 2 (Responding Group):** Not at all. Immediately following `59:7`, verses `59:8–9` praise the Ansâr for generously sharing their legitimately owned homes and properties (`îthâr`). Without rightful ownership, neither *zakâh*, *infâq*, *waqf*, nor *îthâr* could exist. What `59:7` prohibits is not productive ownership, but oligarchic monopoly (`dûlah`) and the exclusion of orphans, the poor, and wayfarers from economic circulation.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB3.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 3, pp. 231–265, *Kitâb Dhamm al-Bukhl wa-Dhamm Hubb al-Mâl*), al-Hârith al-Muhâsibî (*al-Makâsib*, pp. 54–70), and al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 3, pp. 565–567), the teacher explains: *"While `59:7` diagnoses outward economic monopoly (`dûlah`), `59:9` diagnoses its inward spiritual root: `shuhh al-nafs` (possessive avarice). True liberation occurs when the heart moves from `shuhh` to `îthâr` (altruistic preference of others)."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"Do we keep our blessings—our knowledge, study notes, time, and resources—circulating only within a closed circle of friends (`dûlah`), or do we share them with classmates and neighbors in need (`SDB1.2`, `SDB3.2`)?"*
+  2. *"How does consumerist status competition on social media feed inward avarice (`shuhh`), and how can practicing gratitude and generosity protect our hearts (`SDB3.3`)?"*
+  3. *"What practical project—such as a school book-sharing endowment or peer-tutoring circle—can we launch to practice `îthâr` (`59:9`) today?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. Macroeconomic meaning of the Qur'anic clause 'kay lâ yakûna dûlatan bayna al-aghniyâ'i minkum' (`59:7`):** | *"Preventing public revenues and wealth from becoming a closed monopoly circulating solely among the rich while excluding the vulnerable."* |
+| **2. Why Caliph 'Umar dedicated the fertile lands of Iraq (*Sawâd*) as a public trust (*waqf*) using 59:7–10:** | *"To prevent land and wealth from concentrating in a military elite and to safeguard public revenue for orphans, the poor, and future generations (59:10)."* |
+| **3. Personal ethical lesson drawn from the contrast between 'shuhh' and 'îthâr' in 59:9:** | *"Overcoming selfish greed and hoarding (shuhh) by practicing generous sharing and social solidarity (îthâr) in daily life."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Analyzing al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 5, p. 319), Abû Yûsuf (*Kitâb al-Kharâj*, pp. 24–38), and Ibn 'Âshûr (*al-Tahrîr wa'l-Tanwîr*, Vol. 28, pp. 84–91) on `Al-Hashr 59:7–10` to write a research paper on "From Caliph 'Umar's *Sawâd* Precedent to Modern Sovereign Wealth Funds: Intergenerational Distributive Justice in Islamic Political Economy".
+  - Using World Bank (`WGI`) and World Inequality Report (`WIR`) datasets to examine the relationship between Gini inequality, monopoly concentration, and social cohesion.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a visual flowchart mapping **`Public Revenue & National Wealth (Fay') → Preventing Oligarchic Monopoly (Anti-Dûlah) → Supporting Orphans, the Poor & Wayfarers → Altruistic Solidarity (Îthâr)`**.
+  - Practicing with matching cards contrasting "Productive Circulation, Waqf & Îthâr Examples" against "Hoarding (*Kanz*), Cartel Monopoly (*Dûlah*) & Avarice (*Shuhh*) Examples".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, legal, and spiritual citations (Ibn Fâris, al-Râghib al-Isfahânî, al-Zamakhsharî, Ibn Manzûr, al-Jassâs, al-Muhâsibî, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Prevents both the plutocratic misuse of property rights to justify monopolies (`dûlah`) and the confiscatory abolition of lawful ownership under `DKAB.10.3.5`, `DKAB.12.3.5`, `DKAB.11.4.3`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -605,11 +698,11 @@ Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the 
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/748-752. Digital Verification: https://shamela.ws/book/2362/17/2567 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/332-335. Digital Verification: https://shamela.ws/book/2363/16/304 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/314-317. Digital Verification: https://shamela.ws/book/2171/10/874 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/250-255. Digital Verification: https://shamela.ws/book/168/17/5432 (urn:shamela:21605).
-[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/345-352. Digital Verification: https://shamela.ws/book/2357/19/1865 (urn:shamela:21711).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 5/748-752. Digital Verification: https://shamela.ws/book/23627/2567 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/332-335. Digital Verification: https://shamela.ws/book/23636/304 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 2/314-317. Digital Verification: https://shamela.ws/book/21710/874 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 11/250-255. Digital Verification: https://shamela.ws/book/1687/5432 (urn:shamela:21605).
+[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 5/345-352. Digital Verification: https://shamela.ws/book/23579/1865 (urn:shamela:21711).
 [^6]: World Bank Group (2024). *Worldwide Governance Indicators & Poverty and Inequality Platform 2024*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^7]: Türkiye İstatistik Kurumu (TÜİK) (2024). *Gelir ve Yaşam Koşulları ile Yoksulluk ve Yaşam Kalitesi Araştırması 2024*. Ankara: TÜİK Yayınları. DOI: Institutional Dataset. URL: https://data.tuik.gov.tr
 [^8]: World Inequality Lab (2024). *World Inequality Report 2024: Global Wealth Concentration and Oligarchy*. Paris: World Inequality Lab / Harvard University Press. DOI: doi:10.4159/9780674276597. URL: https://wid.world

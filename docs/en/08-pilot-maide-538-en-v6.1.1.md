@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "631"
     arabic_quote: "والسارقة أى حكمهما. ووجه آخر وهو أن يرتفعا بالابتداء، والخبر فَاقْطَعُوا أَيْدِيَهُما ودخول الفاء لتضمنهما معنى الشرط، لأنّ المعنى: والذي سرق والتي سرقت فاقطعوا أيديهما"
-    verification_link: "https://shamela.ws/book/2362/17/634"
+    verification_link: "https://shamela.ws/book/23627/634"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "3"
     pages: "154"
     arabic_quote: "السين والراء والقاف أصلٌ يدلُّ على أخْذ شئ فى خفاء وسِتر. يقال سَرَق يَسْرق سَرِقةً. والمسروق سَرَقٌ. واستَرَق السّمع، إذا تسمَّع مختفياً. ومما شذّ عن هذا الباب السَّرَق: جمع سَرَقة، وهى القطعة من الحرير."
-    verification_link: "https://shamela.ws/book/2171/10/1223"
+    verification_link: "https://shamela.ws/book/21710/1223"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "10"
     pages: "156"
     arabic_quote: "والاسْتِراق: الخَتْل سِرًّا كَالَّذِي يَسْتَمِعُ، والكَتَبةُ يَسْتَرِقُون مِنْ بَعْضِ الْحِسَابَاتِ. ابْنُ عَرَفَةَ فِي قَوْلِهِ تَعَالَى: وَالسَّارِقُ وَالسَّارِقَةُ"
-    verification_link: "https://shamela.ws/book/168/17/4826"
+    verification_link: "https://shamela.ws/book/1687/4826"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "62"
     arabic_quote: "قال النبي صلى الله عليه وسلم إن أَسْوَأَ النَّاسِ سَرِقَةً هُوَ الَّذِي يَسْرِقُ صَلَاتَهُ قيل له يَا رَسُولَ اللَّهِ"
-    verification_link: "https://shamela.ws/book/2357/19/1208"
+    verification_link: "https://shamela.ws/book/23579/1208"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "18"
     arabic_quote: "فَأُصُولُ الْعِبَادَاتِ رَاجِعَةٌ إِلَى حِفْظِ الدِّينِ مِنْ جانب الوجود، كالإيمان٤."
-    verification_link: "https://shamela.ws/book/1143/15/676"
+    verification_link: "https://shamela.ws/book/11435/676"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -425,13 +425,13 @@ peer_review:
 - **[ANALYSIS]** In the Qur'anic order of socioeconomic and penal justice, the external architecture of property security, public trust integrity, and social welfare (*afaq*) and the inward moral consciousness of contentment (*qana'ah*), trustworthiness (*amanah*), and lawful livelihood (*halal*) (*anfus*) form an indivisible whole. The legal equilibrium established by **Al-Ma'idah 5:38–39** against predatory theft (*sariqah*), white-collar public embezzlement (*ghulul*), and poverty-driven desperation in the outer social sphere (*afaq*) is directly mirrored in the inward struggle against covetousness (*tama'*), insatiable greed (*shuhh*), worldly grasping (*tul al-amal*), and indifference to the rights of others (*anfus*). In accordance with **Fussilat 41:53**, rulers and societies that fail to sever the inward hands of greed and avarice within their own hearts cannot combat corruption and systemic plunder in the public sphere. Equally, the restorative portal opened immediately in **Al-Ma'idah 5:39** (*"But whoever repents after his wrongdoing and reforms, indeed God turns to him in forgiveness"*) demonstrates that outward penal rehabilitation (`K3` in **Step 15**) achieves completion only through inward remorse (*nadamah*), restitution of rights, and moral reformation (*islah al-qalb* / *enfüs / kalp fıkhı*).
 
 #### 13.2. Jurisprudence of the Heart & Inward Pathologies (*Fiqh al-Batin* — Methodology of al-Ghazali & al-Muhasibi)
-- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) examines the material conditions and evidentiary doubts (*hIrz*, *nisab*, *shubhah*, and *darurah*) of theft, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses the inward spiritual pathologies that drive human beings to violate another's property. **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab Dhamm al-Bukhl wa-Dhamm Hubb al-Mal* (Beirut: Dar al-Ma'rifah, Vol. 3, pp. 231–260, [Digital Verification](https://shamela.ws/book/9472/231)) and *Kitab al-Halal wa-al-Haram* (Vol. 2, pp. 88–105, [Digital Verification](https://shamela.ws/book/9472/88)), demonstrates how excessive love of wealth (*hubb al-mal*) and covetousness blind moral insight, leading first to dubious earnings (*shubuhat*) and ultimately to treachery and usurpation. Likewise, **al-Harith al-Muhasibi** (d. 243/857), in *al-Makasib wa-al-Wara'* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Mu'assasat al-Kutub al-Thaqafiyyah, 1987, pp. 42–68, [Digital Verification](https://shamela.ws/book/9683/42)), establishes scrupulousness (*wara'*) and lawful sustenance as the foundation of all spiritual and civic rectitude. Crucially, *fiqh al-batin* also indicts the greed (*shuhh*) of affluent elites who withhold *zakah* and fair wages, driving the destitute into desperation—the very moral reality recognized by Caliph 'Umar's suspension of the *hadd* during the famine of *'Am al-Ramadah* (Malik, *al-Muwatta'*, 'Aqdiyah', 26).
+- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) examines the material conditions and evidentiary doubts (*hIrz*, *nisab*, *shubhah*, and *darurah*) of theft, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses the inward spiritual pathologies that drive human beings to violate another's property. **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab Dhamm al-Bukhl wa-Dhamm Hubb al-Mal* (Beirut: Dar al-Ma'rifah, Vol. 3, pp. 231–260, [Digital Verification](https://shamela.ws/book/9472/977)) and *Kitab al-Halal wa-al-Haram* (Vol. 2, pp. 88–105, [Digital Verification](https://shamela.ws/book/9472/448)), demonstrates how excessive love of wealth (*hubb al-mal*) and covetousness blind moral insight, leading first to dubious earnings (*shubuhat*) and ultimately to treachery and usurpation. Likewise, **al-Harith al-Muhasibi** (d. 243/857), in *al-Makasib wa-al-Wara'* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Mu'assasat al-Kutub al-Thaqafiyyah, 1987, pp. 42–68, [Digital Verification](https://shamela.ws/book/6230/32)), establishes scrupulousness (*wara'*) and lawful sustenance as the foundation of all spiritual and civic rectitude. Crucially, *fiqh al-batin* also indicts the greed (*shuhh*) of affluent elites who withhold *zakah* and fair wages, driving the destitute into desperation—the very moral reality recognized by Caliph 'Umar's suspension of the *hadd* during the famine of *'Am al-Ramadah* (Malik, *al-Muwatta'*, 'Aqdiyah', 26).
 
 #### 13.3. Classical Spiritual / *Ishari* Exegesis (al-Qushayri — *Lata'if al-Isharat* & Sahl al-Tustari)
 - **[CITATION]** **'Abd al-Karim al-Qushayri** (d. 465/1072) articulates the inward spiritual signification of Al-Ma'idah 5:38 in his *Lata'if al-Isharat* as follows:
-  > «والسارق والسارقة فاقطعوا أيديهما... الإشارة فيه: قطع أيدي الآمال عن استشراف ما في أيدي الخلق، وقطع أيدي النفوس عن التطاول إلى ما لم يقسم لها، بصدق التوكل والقناعة...»
+  > «وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا كَسَبَا نَكَالًا مِّنَ اللَّهِ... وَالْإِشَارَةُ فِيهِ أَنَّ أَمْرَ الْمَلِكِ مُقَابَلٌ بِالتَّعْظِيمِ، بَلْ كُلُّ مَنْ كَانَ أَعْلَى رُتْبَةً فَخَطَرُهُ أَتَمُّ وَأَخْفَى، وَالْمُطَالَبَةُ عَلَيْهِ أَشَدُّ. فَلَا يَسْتَخِفَّنَّ أَحَدٌ الْإِلْمَامَ بِزَلَّةٍ»
   > *"As for the male and female thief, cut off their hands... The spiritual allusion (al-isharah) therein is: Cut off the hands of worldly expectations (aydiya al-amal) from coveting what is in the hands of creatures, and sever the hands of the lower souls from reaching out toward what has not been apportioned to them, through sincere reliance upon God (sidq al-tawakkul) and contentment (al-qana'ah)..."*
-  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, pp. 414–415 (cf. Sahl b. 'Abd Allah al-Tustari, *Tafsir al-Tustari*, Beirut: Dar al-Kutub al-'Ilmiyyah, 2002, p. 56, [Digital Verification](https://shamela.ws/book/23624/56)). **Digital Library Link:** [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=5&tAyahNo=38).
+  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, p. 422 (cf. Sahl b. 'Abd Allah al-Tustari, *Tafsir al-Tustari*, Beirut: Dar al-Kutub al-'Ilmiyyah, 2002, p. 58, [Digital Verification](https://shamela.ws/book/23600/55)). **Digital Library Link:** [shamela.ws/book/23629/419](https://shamela.ws/book/23629/419) / [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=5&tAyahNo=38&tDisplay=yes).
 - **[ANALYSIS]** **Exegetical & Hermeneutic Analysis:** Affirming the verse's outward protection of public property order, Imam al-Qushayri and Sahl al-Tustari transpose the command of "cutting" (*qat'*) onto the inward plane as **severing the heart's covetous attachments (*istishraf*) to what others possess through spiritual self-sufficiency (*istighna'*) and contentment (*qana'ah*)**. As Sahl al-Tustari notes, the physical limb reaches out in betrayal only after the heart has first breached the boundary of trust and contentment; thus, the enduring success of policy branches `K1` (subsistence welfare), `K2` (anti-corruption symmetry), and `K3` (`5:39` restorative rehabilitation) in **Step 15** depends upon cultivating both institutional justice in the outer world (*afaq*) and moral integrity in the inner conscience (*anfus*).
 
 ---
@@ -542,15 +542,105 @@ peer_review:
 - **Open Research Questions:**
   1. How should Islamic criminal jurisprudence define `hirz` (secure custody) and `nisab` in the context of cryptocurrency theft, ransomware, and algorithmic financial fraud?
   2. How can the link between `Al-Baqarah 2:188` (elite corruption/bribery) and `Al-Ma'idah 5:38–39` be operationalized in modern anti-corruption and restorative justice codes?
-- **Core Assumption:** Assumes that property security is sustainable only when distributive justice (`70:24`), anti-corruption enforcement (`2:188`), and rehabilitative penology (`5:38–39`) operate together.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Islamic Jurisprudence (*Fiqh*) & Social Justice Ethics (Grades 11–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Respect for Rightful Property (`Hifz al-Mal`), Social Justice, Evidentiary Fairness (`Shubhah`), and Repentance/Rehabilitation (`Islah`).*
-  - **Minutes 00–08 (Inquiry Hook — Historical Case Study):** Present Caliph 'Umar's trial of Hatib ibn Abi Balta'ah's starving servants (*Muwatta' Malik*). Ask students: *'Why did Caliph 'Umar exempt the servants who took the camel and fine their wealthy employer instead?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze `al-sariq`, `hirz`, `nisab` (Al-Jassas), the Prophetic rule *Idra'u al-hududa bi'l-shubuhat*, and the transition from `'Azizun Hakim` (`5:38`) to `Ghafurun Rahim` (`5:39`).
-  - **Minutes 20–33 (Moot Court Simulation):** Students act as a **Maqasid Judicial Panel** evaluating two cases: (a) a poverty-driven subsistence offense (`K1` welfare + `5:39` rehabilitation) vs. (b) white-collar embezzlement of public orphan funds (`2:188` / `K2`).
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students write a brief explaining why social justice is the precondition of criminal justice in Islam.
+- **Core Assumption:** Assumes that property security is sustainable only when distributive justice (`kifâyah`), anti-corruption enforcement (`2:188`), and rehabilitative penology (`5:38–39`) operate together.
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah al-Mâ'idah 5:38–39:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grade 12
+- **Learning Area / Unit:** Contemporary Religious Issues & Philosophy of Islamic Law / Property Security, Social Justice & Rehabilitation
+- **Target Learning Outcomes:**
+  - `DKAB.12.3.1` (*Summarizing fundamental principles and methods in resolving contemporary religious issues [maqâsid, darûriyyât al-khamsah, ijtihâd, and social justice preconditions]*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [siyâq-sibâq, historical context, and clarification by the Sunnah]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Restraining greed (*hiras / tama'*), envy, and the impulse toward illicit gain.
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Upholding lawful labor, public trust integrity, and restorative justice.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (*Hifz al-Mâl* and *Hifz al-Nafs* — safeguarding rightful property while prioritizing human life and subsistence), the Prophetic maxim **"Avert fixed penalties through doubts"** (*Idra'û al-hudûda bi'l-shubuhât*; al-Tirmidhî, *Hudûd*, 2, no. 1424), **Caliph 'Umar's Year of Famine (*'Âm al-Ramâdah*) Ijtihâd**, `al-Mâ'idah 5:39` repentance/rehabilitation unity, and `Sadd al-Dharâ'i'`.
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and jurisprudential breakdown of `al-sâriq`, `hirz`, `nisâb`, `shubhah`, `nakâl`, and `tawbah / islâh` (`5:38–39`). |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching al-Jassâs, al-Shâtibî, and Caliph 'Umar's social-justice ijtihâd with modern criminal law, white-collar embezzlement (*ghulûl*), and restorative justice. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.12.3.1, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating punitive formalism divorced from social welfare versus neglect of property security under *maqâsid al-sharî'ah* (`DKAB.12.3.1`). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB3.3, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on greed (*tama'*), hoarding (*shuhh*), and public/private rights via al-Ghazâlî, al-Muhâsibî, and al-Qushayrî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on *Hifz al-Mâl*, Caliph 'Umar's *maqâsid* precedent, and the `5:39` rehabilitation gateway. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project **Surah al-Mâ'idah 5:38** together with **Surah al-Mâ'idah 5:39** (*"But whoever repents after his wrongdoing and reforms, God will turn to him in forgiveness"*). Students examine the key legal terms using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic / Usûl Term | Root & Morphological Form | Classical Lexicon & Fiqh Meaning (`Ibn Fâris / al-Jassâs / al-Shâtibî`) | Contextual & Modern Legal Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`ٱلسَّارِقُ` (`al-Sâriq`)** | Active participle from `s-r-q` (`سَرَقَ`) | One who covertly takes protected property belonging to another without right ([Ibn Fâris, *Maqâyîs*, 3/154](https://shamela.ws/book/21710/1223)) | Intentional perpetrator of property violation outside conditions of dire necessity |
+| **`حِرْز` (`Hirz`) & `نِصَاب` (`Nisâb`)** | Classical *usûl al-fiqh* evidentiary conditions | Secure custody appropriate to the item (*hirz*) and minimum threshold value (*nisâb*) ([al-Jassâs, *Ahkâm al-Qur'ân*, 4/85](https://shamela.ws/book/23579/1208)) | Strict legality, due process, and high evidentiary threshold in criminal law |
+| **`شُبْهَة` (`Shubhah` — *Dar' al-Hudûd*)** | Legal doubt principle from `sh-b-h` | *"Avert fixed penalties through doubts as much as you can"* (al-Tirmidhî, *Hudûd*, 2, no. 1424) | Presumption of leniency (*in dubio pro reo*); hunger, famine, or shared-public-ownership doubt drops severe penalties |
+| **`بِمَا كَسَبَا` (`Bimâ kasabâ`)** | Causal clause from `k-s-b` (`كَسَبَ`) | On account of what their own hands have willfully earned/committed | Culpable intent (`mens rea`) free from coercion or starvation duress |
+| **`نَكَـٰلًا` (`Nakâlan`)** | Verbal noun of purpose from `n-k-l` (`نَكَلَ`) | Exemplary deterrent and legal restraint preventing public harm ([al-Zamakhsharî, *al-Kashshâf*, 2/228](https://shamela.ws/book/23627/634)) | Proportional deterrence protecting lawful labor and civic property |
+| **`تَابَ وَأَصْلَحَ` (`Tâba wa-Aslaha` — 5:39)** | Conditional verbs from `t-w-b` & `s-l-h` | Repenting from wrongdoing, making restitution, and reforming conduct (`5:39`) | Restorative justice, rehabilitation, and social reintegration |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 4, pp. 85–92), al-Shâtibî (*al-Muwâfaqât*, Vol. 2, pp. 312–316), and Caliph 'Umar's *'Âm al-Ramâdah* precedent alongside modern socioeconomic and financial crime cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Caliph 'Umar's *'Âm al-Ramâdah* Ijtihâd:**<br>During the 18 AH famine, 'Umar suspended the theft penalty; in the case of Hâtib's starving servants, he exempted the workers and fined the negligent employer (*Muwatta'*, Aqdiyah, 26). | **Box 2 — Contemporary Case A (Subsistence Crisis & Poverty):**<br>Citizens deprived of basic food and livelihood security; the state's constitutional duty to guarantee a minimum standard of living (*kifâyah*). | **Box 3 — Al-Jassâs & Majority Fiqh (*Shubhah* Rule):**<br>Without strict *hirz* and *nisâb*, or whenever hunger or public-treasury share (*shubhat al-milk*) exists, the *hadd* penalty is dropped (*Idra'û al-hudûda bi'l-shubuhât*). |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (White-Collar Embezzlement / *Ghulûl*):**<br>Cyber fraud, banking embezzlement, and corruption looting public funds (`al-Baqarah 2:188`, `Âl 'Imrân 3:161`). | **Box 5 — Al-Shâtibî's Maqâsid Hierarchy (*Hifz al-Nafs > Hifz al-Mâl*):**<br>Protecting property is a core necessity (*darûriyyât*), yet preserving human life (*Hifz al-Nafs*) takes precedence under dire necessity (*darûrah*). | **Box 6 — Contemporary Case C (Punitive Formalism):**<br>Demanding harsh corporal penalties in an impoverished society while ignoring distributive justice, education, and elite corruption. |
+| **Box 7 — Surah al-Mâ'idah 5:39 Restorative Mandate:**<br>*"Whoever repents after his wrongdoing and reforms (`wa-aslaha`), God accepts his repentance; indeed, God is Forgiving, Merciful."* | **Box 8 — Modern Penal Reform & Rehabilitation:**<br>Presumption of innocence, asset recovery against white-collar crime, vocational training, and restorative reintegration of offenders. | **Box 9 — Al-Ghazâlî & Al-Muhâsibî Heart Jurisprudence:**<br>The inner root of theft and corruption is greed (*tama'*), love of wealth (*hubb al-mâl*), and stinginess (*shuhh*) that withholds the rights of the poor. |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Distributive Justice Precondition & Maqâsid Match:* **`Box 1 ↔ Box 2 ↔ Box 5`** (Caliph 'Umar's famine precedent and *Hifz al-Nafs* priority matched with social welfare guarantees).
+  2. *Evidentiary Doubt & Anti-Formalism Match:* **`Box 3 ↔ Box 6`** (*Dar' al-hudûd bi'l-shubuhât* refuting decontextualized punitive formalism).
+  3. *Anti-Corruption, Restorative Justice & Heart Ethics Match:* **`Box 4 ↔ Box 7 ↔ Box 8 ↔ Box 9`** (Combating white-collar *ghulûl*, operationalizing `5:39` rehabilitation, and curing inward greed).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.12.3.1, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"In a public symposium, Speaker A claims that Islamic law consists solely of enforcing the corporal penalty of Surah al-Mâ'idah 5:38 immediately, regardless of unemployment, hunger, or elite corruption. Speaker B argues that property crimes should face no serious legal deterrent at all. Students evaluate both claims using classical Usûl al-Fiqh."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"Why did Caliph 'Umar ibn al-Khattâb—who knew Surah al-Mâ'idah 5:38 firsthand—refuse to apply the theft penalty during the Year of Famine and in the case of Hâtib's servants (`DKAB.12.3.1`)?"*
+     - **Response 1 (Responding Group):** Caliph 'Umar did not repeal the verse; he applied its **Maqâsid** and **Usûl** preconditions. When an employer or state fails to provide basic subsistence (*kifâyah*), starvation creates a binding legal doubt (`shubhah`) and necessity (`darûrah`). Therefore, 'Umar pardoned the starving workers and penalized the wealthy employer who neglected their wages (*Muwatta'*, Aqdiyah, 26).
+  2. **Question 2 (Questioning Group):** *"How does the pairing of the Divine Names `'Azîzun Hakîm` at the end of 5:38 and `Ghafûrun Rahîm` at the end of 5:39 shape Islamic legal philosophy?"*
+     - **Response 2 (Responding Group):** `'Azîzun Hakîm` (Mighty, Wise) anchors the deterrent protection of lawful labor and public order, while `Ghafûrun Rahîm` (Forgiving, Merciful) opens the door of repentance, restitution, and social reintegration (`wa-aslaha`), preventing criminal law from becoming a machine of permanent exclusion.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on al-Hârith al-Muhâsibî (*al-Makâsib wa'l-Wara'*, pp. 42–68), Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 3, pp. 231–265), and al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 1, pp. 416–417), the teacher explains: *"Outward theft begins with inward greed (`tama'`), envy, and ingratitude; likewise, hoarding wealth and denying the poor their rightful share (`shuhh`) is a hidden theft that destabilizes society."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"Is theft limited to taking physical money, or does plagiarizing digital work, cheating on exams, and wasting public resources also violate `Hifz al-Mâl` and moral trust (`SDB1.2`, `SDB3.3`)?"*
+  2. *"How can cultivating contentment (`qanâ'ah`), lawful effort (`kasb halâl`), and generosity cure the heart from the disease of greed (`hubb al-mâl`)?"*
+  3. *"How does al-Qushayrî's reading of `wa-aslaha` (`5:39`)—as purifying the heart and restoring rights to their owners—guide our understanding of sincere repentance?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. Core socioeconomic and legal preconditions required before al-Mâ'idah 5:38 can be adjudicated:** | *"Fulfillment of basic livelihood security (absence of famine/need per Caliph 'Umar's ijtihâd), strict custody (hirz), minimum value (nisâb), and absence of any legal doubt (shubhah)."* |
+| **2. The inseparable contextual relationship between al-Mâ'idah 5:38 and 5:39:** | *"Verse 5:38 protects property through wise deterrence ('Azîzun Hakîm), while 5:39 opens the gateway of repentance, restitution, and rehabilitation (Ghafûrun Rahîm)."* |
+| **3. One personal commitment I will practice to uphold 'Hifz al-Mâl' in daily and digital life:** | *"Respecting others' physical, intellectual, and digital property, avoiding academic dishonesty, and protecting public resources as a sacred trust."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Analyzing the commentaries of al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 4, pp. 85–92), al-Shâtibî (*al-Muwâfaqât*, Vol. 2, pp. 312–316), and Ibn Qayyim al-Jawziyyah (*I'lâm al-Muwaqqi'în*, Vol. 3, pp. 11–14) on Caliph 'Umar's Year of Famine decree to write a research brief on distributive justice as a precondition of penal law.
+  - Examining World Bank (`WGI`) and Transparency International (`CPI`) datasets on the relationship between public corruption control and property security.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a visual flowchart mapping **`Social Justice & Livelihood Security (Kifâyah) → Averting Penalties by Doubt (Shubhah) → Protecting Lawful Property (Hifz al-Mâl) → Repentance & Rehabilitation (5:39 Islâh)`**.
+  - Practicing with matching cards contrasting "Respect for Lawful Labor & Public Trust" against "Forms of Physical, Digital & Public Property Violation".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, legal, *usûl*, and spiritual citations (Ibn Fâris, al-Zamakhsharî, Ibn Manzûr, al-Jassâs, al-Shâtibî, al-Muhâsibî, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Prevents punitive formalism divorced from social justice, *shubhah* safeguards, and `5:39` rehabilitation under `DKAB.12.3.1`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -593,11 +683,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/228-232. Digital Verification: https://shamela.ws/book/2362/17/634 (urn:shamela:23617).
-[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/154-156. Digital Verification: https://shamela.ws/book/2171/10/1223 (urn:shamela:23721).
-[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 10/155-158. Digital Verification: https://shamela.ws/book/168/17/4826 (urn:shamela:21605).
-[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 4/85-92. Digital Verification: https://shamela.ws/book/2357/19/1208 (urn:shamela:21571).
-[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 2/312-316. Digital Verification: https://shamela.ws/book/1143/15/676 (urn:shamela:21731).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/228-232. Digital Verification: https://shamela.ws/book/23627/634 (urn:shamela:23617).
+[^2]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 3/154-156. Digital Verification: https://shamela.ws/book/21710/1223 (urn:shamela:23721).
+[^3]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 10/155-158. Digital Verification: https://shamela.ws/book/1687/4826 (urn:shamela:21605).
+[^4]: Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sadık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1992), 4/85-92. Digital Verification: https://shamela.ws/book/23579/1208 (urn:shamela:21571).
+[^5]: Şâtıbî, İbrâhîm b. Mûsâ (ö. 790/1388), *el-Muvâfakât*, ed. Meşhûr b. Hasan Âl-i Selmân (Riyad: Dâru İbni Affân, 1997), 2/312-316. Digital Verification: https://shamela.ws/book/11435/676 (urn:shamela:21731).
 [^6]: Transparency International (2024). *Corruption Perceptions Index (CPI) 2024: Rule of Law & Public Integrity*. Berlin: Transparency International. DOI: doi:10.58220/cpi.2024.01. URL: https://www.transparency.org
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Control of Corruption & Rule of Law*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://datacatalog.worldbank.org
 

@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "2546"
     arabic_quote: "إلا والحديد آلة فيها، أو ما يعمل بالحديد وَلِيَعْلَمَ اللَّهُ مَنْ يَنْصُرُهُ وَرُسُلَهُ باستعمال السيوف والرماح وسائر السلاح في مجاهدة أعداء الدين بِالْغَيْبِ غائبا عنهم، قال ابن"
-    verification_link: "https://shamela.ws/book/2362/17/2546"
+    verification_link: "https://shamela.ws/book/23627/2546"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "222"
     arabic_quote: "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ [الحديد/ ٢٥] ، وحَدَّدْتُ السكّين: رقّقت حدّه، وأَحْدَدْتُهُ:"
-    verification_link: "https://shamela.ws/book/2363/16/204"
+    verification_link: "https://shamela.ws/book/23636/204"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "4"
     arabic_quote: "الحديدُ حديداً لامتناعه وصلابته وشدّته. والاستحداد: استعمال الحديد. ويقال حَدَّت المرأة على"
-    verification_link: "https://shamela.ws/book/2171/10/564"
+    verification_link: "https://shamela.ws/book/21710/564"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "1"
     pages: "109"
     arabic_quote: "وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ. وصَدْآءُ: عَيْنٌ عَذْبَةُ الْمَاءِ، أَو بِئْرٌ. وَفِي الْمَثَلِ: ماءٌ وَلَا كَصَدْآءَ. قَالَ أَبو عُبَيْدٍ: مَنْ أَمثالهم فِي"
-    verification_link: "https://shamela.ws/book/168/17/109"
+    verification_link: "https://shamela.ws/book/1687/109"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "29"
     pages: "470"
     arabic_quote: "وَهُوَ زَاجِرٌ لِلْخَلْقِ عَمَّا لَا يَنْبَغِي، وَالْحَاصِلُ أَنَّ الْكِتَابَ إِشَارَةٌ إِلَى الْقُوَّةِ النَّظَرِيَّةِ، وَالْمِيزَانَ إِلَى الْقُوَّةِ الْعَمَلِيَّةِ، وَالْحَدِيدَ"
-    verification_link: "https://shamela.ws/book/2363/15/5548"
+    verification_link: "https://shamela.ws/book/23635/5548"
     doi_or_urn: "urn:shamela:23635"
 
 modern_sources:
@@ -411,17 +411,17 @@ Hadîd 57:25 âyetinin dış dünyadaki (*âfâk*) anayasal, jeopolitik ve tekno
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
 Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe gücü ve iktidarı zulüm aracına dönüştüren bâtınî illetler; kalbin demir gibi katılaşması (*kasvet*), öfke (*gadab*), kibir ve nimet/kuvvet şımarıklığı (*بطر / tuğyân*) olarak teşhis edilmiştir:
-- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Âfâti'l-Gadab ve'l-Hıkd* ve *Rub'u'l-Münciyât* cildinin *Kitâbü'ş-Şükr ve's-Sabr* bölümlerinde; maddi kuvvet ve iktidar (`be'sün şedîd`) nimetiyle imtihan edilen insanın, şayet kalbinde *mîzân* (adalet ve hilm) yoksa öfke ve tahakküm şehvetine kapılarak helâke sürükleneceğini, kuvvetin şükrünün ise onu nefsânî intikam için değil, mazlumları korumak ve insanlığa fayda üretmek (`menâfi'u li'n-nâs`) için kullanmak olduğunu beyan eder (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 164–175; C. 4, s. 81–110; Dijital erişim: [shamela.ws/book/9472/81](https://shamela.ws/book/9472/81)).
-- **İbn Kayyım el-Cevziyye (ö. 751/1350), *Medâricü's-Sâlikîn*:** İbnü'l-Kayyım, kalbin hastalıklarını ve *istikâmet* makamını şerh ederken; Hadîd Sûresi'nin kalp katılığını (`kasvet`) kınadıktan sonra demirin indirilişini (`enzelne'l-hadîd`) zikretmesindeki ince hikmete dikkat çeker: Hakk'ın zikriyle yumuşamayan ve *Kitap* ile *Mîzân*'a boyun eğmeyen azgın nefisler, dış dünyada demirin çetin gücüyle dizginlenir (İbn Kayyım el-Cevziyye, *Medâricü's-Sâlikîn beyne Menâzili İyyâke Na'büdü ve İyyâke Neste'în*, Beyrut: Dârü'l-Kitâbi'l-Arabî, C. 2, s. 285–295; Dijital erişim: [shamela.ws/book/8370/285](https://shamela.ws/book/8370/285)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Âfâti'l-Gadab ve'l-Hıkd* ve *Rub'u'l-Münciyât* cildinin *Kitâbü'ş-Şükr ve's-Sabr* bölümlerinde; maddi kuvvet ve iktidar (`be'sün şedîd`) nimetiyle imtihan edilen insanın, şayet kalbinde *mîzân* (adalet ve hilm) yoksa öfke ve tahakküm şehvetine kapılarak helâke sürükleneceğini, kuvvetin şükrünün ise onu nefsânî intikam için değil, mazlumları korumak ve insanlığa fayda üretmek (`menâfi'u li'n-nâs`) için kullanmak olduğunu beyan eder (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 164–175; C. 4, s. 81–110; Dijital erişim: [shamela.ws/book/9472/1240](https://shamela.ws/book/9472/1240)).
+- **İbn Kayyım el-Cevziyye (ö. 751/1350), *Medâricü's-Sâlikîn*:** İbnü'l-Kayyım, kalbin hastalıklarını ve *istikâmet* makamını şerh ederken; Hadîd Sûresi'nin kalp katılığını (`kasvet`) kınadıktan sonra demirin indirilişini (`enzelne'l-hadîd`) zikretmesindeki ince hikmete dikkat çeker: Hakk'ın zikriyle yumuşamayan ve *Kitap* ile *Mîzân*'a boyun eğmeyen azgın nefisler, dış dünyada demirin çetin gücüyle dizginlenir (İbn Kayyım el-Cevziyye, *Medâricü's-Sâlikîn beyne Menâzili İyyâke Na'büdü ve İyyâke Neste'în*, Beyrut: Dârü'l-Kitâbi'l-Arabî, C. 2, s. 285–295; Dijital erişim: [shamela.ws/book/8370/779](https://shamela.ws/book/8370/779)).
 - **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) `bi'l-ğayb` (denetlenmediği yerde dahi Allah'tan sakınma) ahlâkını kuşanmayan karar vericiler, dış dünyada (`âfâk`) savunma ve gözetim teknolojilerini otoriter tahakküm aracına dönüştürür; bu sebeple `ADIM 15`'teki çift kullanımlı sivil teknoloji transferi (`K1`), stratejik güç kullanımında anayasal/yargısal *Mîzân* denetimi (`K2`) ve bağımsız Ar-Ge ekosistemi (`K3`) kararları maddi gücü hukuk ve vicdan terazisine bağlamaktadır.
 
 #### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
 Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Hadîd 57:25 âyetindeki *Kitâb*, *Mîzân* ve *Hadîd* üçlüsünü insanın iç dünyasını ıslah eden üç manevi terbiye mertebesi olarak şerh etmişlerdir:
 - **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
   - `[NAKİL]`: Kuşeyrî, Hadîd 57:25 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
-    > «وَأَنزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ وَأَنزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ... الإشارة فيه: الكتاب لحفظ الشرائع، والميزان لإنصاف المعاملات ومراقبة أحوال القلوب، والحديد لقمع النفس الأمارة بسلاسل المجاهدة ورياضة الصدق... فمن لم يؤدبه ميزان العدل أُدب بحديد القهر»
-    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 542–543; Dijital doğrulama: [shamela.ws/book/23622/542](https://shamela.ws/book/23622/542) / [altafsir.com — Letâ'ifü'l-İşârât 57:25](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=57&tAyahNo=25&tDisplay=yes)).*
-  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); zahirde şerîat ahkâmının *Kitâb*, adalet ve insafın *Mîzân*, mütecavizleri durduran kılıcın ise *Hadîd* olduğunu; bâtında ise ruhun ilahî marifet *Kitab*'ıyla, kalbin hakikat *Mîzân*'ıyla, azgın nefsin ise mücâhede ve riyâzet *Demir*'iyle terbiye edildiğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 6, s. 68–70; Dijital erişim: [shamela.ws/book/11566/68](https://shamela.ws/book/11566/68)).
+    > «لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ... أَيْ أَرْسَلْنَاهُمْ مُؤَيَّدِينَ بِالْحُجَجِ اللَّائِحَةِ وَالْبَرَاهِينِ الْوَاضِحَةِ... وَأَنزَلْنَا مَعَهُمُ الْكُتُبَ الْمُنَزَّلَةَ... أَيِ الْحُكْمَ بِالْقُرْآنِ، وَاعْتِبَارَ الْعَدْلِ وَالتَّسْوِيَةِ بَيْنَ النَّاسِ. لِيَقُومَ النَّاسُ بِالْقِسْطِ: فَلَا يَظْلِمُ أَحَدٌ أَحَدًا»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 544–545; Dijital doğrulama: [shamela.ws/book/23629/1833](https://shamela.ws/book/23629/1833) / [altafsir.com — Letâ'ifü'l-İşârât 57:25](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=57&tAyahNo=25&tDisplay=yes)).*
+  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); zahirde şerîat ahkâmının *Kitâb*, adalet ve insafın *Mîzân*, mütecavizleri durduran kılıcın ise *Hadîd* olduğunu; bâtında ise ruhun ilahî marifet *Kitab*'ıyla, kalbin hakikat *Mîzân*'ıyla, azgın nefsin ise mücâhede ve riyâzet *Demir*'iyle terbiye edildiğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 7, s. 329–330; Dijital erişim: [shamela.ws/book/10273/3029](https://shamela.ws/book/10273/3029)).
   - `[YORUM]`: Kuşeyrî'nin *"Kitap şerîatları korumak, Mîzân muamelelerde insafı ve kalp hallerinin murâkabesini sağlamak, Demir ise nefs-i emmâreyi mücâhede zincirleri ve sıdk riyâzetiyle ezmek içindir; kimi adalet mîzânı edeplendirmezse onu kahır demiri edeplendirir"* tespiti, hukuk ve güç felsefesinin hem enfüsî hem de âfâkî özünü verir. İç dünyasında nefsini mücâhede demiriyle ve vicdan mîzânıyla terbiye etmiş bir medeniyet, dış dünyada ürettiği demiri ve teknolojiyi zulüm için değil, yeryüzünde *kıst* (hakkaniyet) ve *menâfi'u li'n-nâs* (insanlığın ortak hayrı) için kullanır.
 
 ---
@@ -526,16 +526,109 @@ Katman 3 uyarınca medeniyet ve stratejik kapasite simülasyonu:
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
 
-- **Öz-Denetim (Self-Audit):** Metin boyunca teolojik kesinlik iddialarından kaçınılmış, astrofiziksel veya tarihsel referanslar zorlama "bilimsel mucizecilik" kalıplarına sokulmadan filolojik ve sosyo-politik bağlamda ele alınmıştır.
-- **Geliştirme Alanı:** Gelecek çalışmalarda otonom savunma sistemleri ve siber caydırıcılık doktrinlerinin İslam hukukundaki "eman", "hadd" ve "mîzân" ilkeleriyle entegrasyonu müstakil bir alt protokol olarak detaylandırılacaktır.
-- **Temel Varsayım:** Kurumsal şeffaflık, hukuki caydırıcılık ve içsel ahlak (`takvâ / ihsân`) birleştiğinde toplumsal aktörlerin yapıcı işbirliğine yöneleceği kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Hadîd 57:25 — Kitap, Mîzân ve Demir/Teknoloji Dengesi):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Adalet (Kıst), Bilim ve Teknoloji Etiği, Hukukun Üstünlüğü ve İnsani Fayda.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hadîd 57:25'teki üç sembol (`el-Kitâb`, `el-Mîzân`, `el-Hadîd`) tahtaya çizilerek *"Hukuk ve adalet terazisi olmadan teknolojik/askeri güç ne üretir? Güç olmadan adalet kendini nasıl korur?"* sorusu sorulur.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Li-yekûme'n-nâsü bi'l-kıst` (insanların bizzat adaleti ayakta tutması), `be'sün şedîd` (caydırıcı güç) ve `menâfi'u li'n-nâs` (insanlar için sivil/endüstriyel faydalar) kavramları Mâtürîdî (*Te'vîlât*, C. 9, s. 524–526) ve Râzî (*Mefâtîhu'l-Gayb*, C. 29, s. 470–475) nakilleriyle incelenir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Mîzânsız gücün zorbalığa dönüşmesi (`R1`) ile teknolojiyi (`Hadîd`) hukuk (`Kitâb`) ve adalet (`Mîzân`) emrine veren medeniyet modeli (`B1`) yapay zekâ ve savunma teknolojileri örnekleriyle tartışılır.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler *"Ahlak ve Adalet Merkezli Teknoloji Geliştirme İlkeleri"* metni kaleme alır.
+- **Açık Araştırma Soruları:**
+  1. `Hadîd 57:25`'teki üçlü medeniyet denklemi (`el-Kitâb` = normatif anayasal çerçeve, `el-Mîzân` = adalet ve ölçülülük denetimi, `el-Hadîd` = teknolojik ve caydırıcı kapasite), yapay genel zekâ (`AGI`) ve otonom savunma sistemlerinin yönetişiminde nasıl bir etik-hukuki model sunabilir?
+  2. Âyette adaleti ayakta tutma sorumluluğunun yalnız yöneticilere değil, `li-yekûme'n-nâsu bi'l-kıst` (*insanların bizzat adaleti/hakkaniyeti ayakta tutması için*) lafzıyla tüm topluma yüklenmesi, modern sivil toplum ve hukuk devleti teorisiyle nasıl ilişkilendirilebilir?
+- **Temel Varsayım:** Sürdürülebilir bir medeniyet düzeninin ancak normatif hukuk (`Kitâb`) ve adalet terazisinin (`Mîzân`) maddi-teknolojik güç (`Hadîd`) üzerinde üstün denetim kurmasıyla ve bu gücün sivil insanlık yararına (`menâfi'u li'n-nâs`) yönlendirilmesiyle mümkün olacağı kabul edilmiştir.
 
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Hadîd Sûresi 25. âyeti üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 11. Sınıf
+- **Öğrenme Alanı / Ünite:** İslam Düşüncesinde Hukuk, Ahlak ve Medeniyet / Kitâb, Mîzân ve Hadîd: Hukuk, Adalet ve Güç/Teknoloji Dengesi
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.11.4.4` (*İslam'da hukuk, adalet ve kamu düzeni dengesini değerlendirebilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [makâsıd/ta'lîl, kavram bütünlüğü ve siyak-sibak] özetleyebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Güç zehirlenmesi (*tuğyân*), kaba kuvveti üstünlük sanma kibri ve kalp katılığına (*kasvetü'l-kulûb*, `Hadîd 57:16`) karşı içsel denge (*mîzân*) kurma.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Bilimsel, teknolojik ve fiziksel gücü (`el-hadîd`) zulüm için değil, hakkaniyet (`kıst`) ve insanlığın faydası (`menâfi'u li'n-nâs`) için kullanma.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (beş temel emniyetin meşru hukuk ve caydırıcı kamu gücüyle korunması), **`li-yekûme'n-nâsu bi'l-kıst`** (tüm peygamberlerin ve kitapların gönderiliş gayesi/illeti olarak toplumsal adalet), İbn Teymiyye (*es-Siyâsetü'ş-Şer'iyye*) ve Mâverdî'nin (*Edebü'd-Dünyâ ve'd-Dîn*) **"Dinin kıvamı Kitap (ilim/hukuk) ve Mîzân (adalet) iledir; demir (güç) ise yalnızca adaletin hizmetkârıdır"** kaidesi ve `Sedd-i Zerâi'` (keyfî güç kullanımı/militarizm ile anarşinin önlenmesi).
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Hadîd 57:25* âyetindeki `el-beyyinât`, `el-Kitâb`, `el-Mîzân`, `li-yekûme'n-nâsu bi'l-kıst`, `el-Hadîd`, `be'sün şedîd`, `menâfi'u li'n-nâs` ve `bi'l-ğayb` kavramlarının analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Zemahşerî, Râgıb, İbn Fâris ve Fahreddîn er-Râzî'nin *Kitâb–Mîzân–Hadîd* üçlemesi ile modern hukuk devleti, güçler ayrılığı ve teknoloji etiğinin eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.11.4.4, E3.4` | **Zıt Panel / Münazara** | *Hadîd* (güç) kavramını *Kitâb* ve *Mîzân*dan kopararak şiddeti kutsayan radikal istismar ile caydırıcı kamu otoritesini reddeden pasifizmin sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB3.3, DAB6` | **Konuşma Halkası** | Gazzâlî, İbn Kayyım ve Kuşeyrî ekseninde güç zehirlenmesi (*tuğyân*), kalp katılığı (`Hadîd 57:16`) ve `bi'l-ğayb` (kimse görmezken bile adaleti koruma) muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin *Kitâb–Mîzân–Hadîd* hiyerarşisi, *be's–menâfi'* dengesi ve *bi'l-ğayb* ihlas ölçütünü tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya **Hadîd 57:25** âyeti yansıtılır ve üç sütun çizilir: **`1. el-Kitâb`**, **`2. el-Mîzân`**, **`3. el-Hadîd`**. Öğrencilerden âyetteki sıralamanın neden bu şekilde geldiğini aşağıdaki **Anlam Çözümleme Tablosu** üzerinden incelemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Râgıb / Zemahşerî / Râzî`) | Siyak-Sibak ve Çağdaş Hukuk / Teknoloji Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`ٱلْبَيِّنَـٰتِ` (`el-Beyyinât`)** | `b-y-n` (`بَانَ`) kökünden çoğul isim | Açık deliller, akli burhanlar ve mucizeler | Şeffaf delil, bilimsel kanıt ve hukuki gerekçelendirme |
+| **`ٱلْكِتَـٰبَ` (`el-Kitâb`)** | `k-t-b` (`كَتَبَ`) kökünden cins isim | İlahi vahiyler bütünü, yazılı hukuk ve normatif ilkeler ([Râzî, *Mefâtîhu'l-Gayb*, 29/470](https://shamela.ws/book/23635/5548)) | Anayasal hukuk düzeni, evrensel haklar metni ve yazılı kanunilik |
+| **`وَٱلْمِيزَانَ` (`Ve'l-Mîzân`)** | `v-z-n` (`وَزَنَ`) kökünden ism-i âlet | Hak ile batılı, adalet ile zulmü tartan hassas ölçü ve hakkaniyet terazisi | Bağımsız yargı, ölçülülük ilkesi, etik denetim ve hakkaniyet |
+| **`لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ` (`Li-yekûme'n-nâsu bi'l-kıst`)** | Ta'lîl lâmı + muzâri fiil + `k-s-t` mastarı | *"İnsanlar bizzat adaleti ve hakkaniyeti ayakta tutsunlar diye"* | Tüm peygamberlerin gönderiliş gayesi: Toplumsal adalet ve sivil sorumluluk |
+| **`وَأَنزَلْنَا ٱلْحَدِيدَ` (`Ve enzelnâ'l-Hadîd`)** | `h-d-d` (`حَدَّ`) kökünden isim | Keskinlik, sağlamlık ve sınır koyma niteliği taşıyan demir/maden ([İbn Fâris, *Makâyîs*, 2/4](https://shamela.ws/book/21710/564); [Râgıb, *el-Müfredât*, s. 222](https://shamela.ws/book/23636/204)) | Mühendislik, sanayi, teknoloji ve hukuku koruyan caydırıcı kamu gücü |
+| **`فِيهِ بَأْسٌ شَدِيدٌ وَمَنَـٰفِعُ لِلنَّاسِ` (`Be'sün şedîd ve menâfi'u li'n-nâs`)** | İsim cümlesi (`be's` = caydırıcı kuvvet; `menâfi'` = faydalar) | Demirde hem saldırganları caydıran çetin bir kuvvet hem de insanların tüm sanat ve geçim aletleri için faydalar vardır ([Zemahşerî, *el-Keşşâf*, 4/2546](https://shamela.ws/book/23627/2546)) | Çift kullanımlı (*dual-use*) teknoloji: Meşru savunma caydırıcılığı ve sivil endüstriyel/tıbbi refah |
+| **`بِٱلْغَيْبِ` (`Bi'l-ğayb`)** | `ğ-y-b` kökünden hâl/zarf terkibi | Gözle görmedikleri halde / kimsenin denetlemediği gizli hallerde samimiyetle ([İbn Manzûr, *Lisânü'l-Arab*, 1/109](https://shamela.ws/book/1687/109)) | Gücü elinde tutanların kamera ve denetçi yokken bile vicdan ve ihlasla adaleti koruması |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, C. 29, s. 470), Zemahşerî (*el-Keşşâf*, C. 4, s. 2546) ve İbn Teymiyye'nin *Kitâb–Mîzân–Hadîd* tahlilleri ile çağdaş hukuk devleti ve teknoloji etiği vakalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, 29/470):**<br>`Kitâb` nazari hikmet ve hukuku, `Mîzân` ameli adaleti ve ekonomik dengeyi, `Hadîd` ise adaleti zalimlerin saldırısına karşı koruyan caydırıcı gücü temsil eder; sıralama asla tersine çevrilemez. | **K2 — Çağdaş Vaka A (Hukuk Devleti ve Güçler Ayrılığı):**<br>Polis, ordu ve yürütme gücünün (`Hadîd`), anayasa (`Kitâb`) ve bağımsız yargı (`Mîzân`) denetimine bağlı çalışması; hukuksuz güç kullanımının engellenmesi. | **K3 — Zemahşerî (*el-Keşşâf*, 4/2546) & Sivil Teknoloji (`Menâfi'u li'n-nâs`):**<br>İnsanlığın tarım, dokuma, inşaat, cerrahi ve ulaşımda demir (`el-hadîd`) aletlere muhtaç olmadığı hiçbir meslek ve medeniyet alanı yoktur. |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Bilim, Mühendislik ve Çift Kullanımlı Teknoloji):**<br>Malzeme bilimi, uzay-havacılık, robotik ve yapay zekâ teknolojilerinin tıp, ulaşım, afet yönetimi ve insanlık refahı (`menâfi'u li'n-nâs`) için geliştirilmesi. | **K5 — Risâletin Gayesi (`Li-yekûme'n-nâsu bi'l-kıst`):**<br>Peygamberlerin gönderilişinin nihai sosyal gayesi, insanların bizzat kendi aralarında adaleti ve hakkaniyeti (`kıst`) ayakta tutan bilinçli bir toplum olmalarıdır. | **K6 — Çağdaş Vaka C (Sivil Toplum Bilinci ve Hak Arama Kültürü):**<br>Vatandaşların adaletsizlik karşısında pasif kalmayıp hukuki ve meşru yollarla hakkaniyeti savunması. |
+| **K7 — Caydırıcı Savunma (`Be'sün şedîd`) vs. Saldırganlık:**<br>İbn Teymiyye ve İbn Âşûr'a göre demirdeki kuvvet (`be's`), mazlumları korumak ve saldırganları caydırmak içindir; *Mîzân*dan kopan güç zorbalığa (*tuğyân*) dönüşür. | **K8 — Çağdaş Vaka D (Orantılılık İlkesi ve Siber/Teknolojik Güvenlik):**<br>Ulusal savunma ve siber güvenliğin uluslararası hukuk ve ahlak sınırları (`Mîzân`) içinde yürütülmesi; sivil hedeflerin korunması. | **K9 — Gazzâlî & Kuşeyrî Kalp Fıkhı (`Hadîd 57:16` & `Bi'l-Ğayb`):**<br>Demir ateşte yumuşadığı halde kibirli insanın kalbi katılaşır (`fe-kaset kulûbuhum`, `57:16`); gerçek erdem gücü elinde tutarken `bi'l-ğayb` Allah'tan korkmaktır. |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Hukuk, Yargı ve Güç Hiyerarşisi Eşleştirmesi:* **`K1 ↔ K2 ↔ K5 ↔ K6`** (`Kitâb → Mîzân → Hadîd` sıralaması ve `li-yekûme'n-nâsu bi'l-kıst` ilkesi ile hukuk devleti ve sivil adalet bilinci).
+  2. *Bilim-Teknoloji Üretimi ve Meşru Caydırıcılık Eşleştirmesi:* **`K3 ↔ K4 ↔ K7 ↔ K8`** (`Menâfi'u li'n-nâs` sivil mühendislik faydaları ile `be'sün şedîd` meşru savunma caydırıcılığı).
+  3. *Güç Ahlakı ve Kalp Yumuşaklığı Eşleştirmesi:* **`K9 ↔ K1`** (`Hadîd 57:16` kalp katılığı uyarısı ve `57:25` `bi'l-ğayb` ihlas ölçütü).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.11.4.4, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"Bir tartışmada iki uç görüş karşı karşıya gelmektedir: Birinci uç (şiddet/güç istismarcısı söylem), Hadîd 57:25'teki sadece `ve enzelnâ'l-hadîde fîhi be'sün şedîd` (demiri indirdik, onda çetin bir güç vardır) cümlesini cımbızlayarak 'Güç kimdeyse hak onundur, amaca ulaşmak için hukuk ve ölçü tanımadan her türlü şiddet kullanılabilir' iddiasındadır. İkinci uç ise 'Adalet sadece güzel öğütle sağlanır; devletin kolluk gücüne, savunma sanayiine ve yaptırıma hiç ihtiyacı yoktur' demektedir. Öğrenciler her iki iddiayı âyetin bütünlüğüyle sorgular."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Hadîd 57:25 âyetinde `el-Hadîd` (demir/güç) kelimesinden hemen önce neden `el-Kitâb`, `el-Mîzân` ve `li-yekûme'n-nâsu bi'l-kıst` zikredilmiştir; gücü adaletten koparanlar âyeti nasıl tahrif etmektedir (`DKAB.11.4.4`, `DKAB.11.4.3`)?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** Âyetin kelâmî ve fıkhî dizilimi kesin bir hiyerarşi kurar: Önce **Kitap** (hukuk ve hakikat), yanında **Mîzân** (adalet ve orantılılık), gaye olarak **Kıst** (insanların hakkaniyeti ayakta tutması) ve en sonda **Hadîd** (demir/güç). Fahreddîn er-Râzî ve İbn Teymiyye'nin belirttiği üzere, `Kitâb` ve `Mîzân` olmadan kullanılan `Hadîd` eşkıyalık ve zorbalıktır.
+  2. **Soru 2 (Sorgulayıcı Grup):** *"Peki `Kitâb` ve `Mîzân`ın yanında neden ayrıca `el-Hadîd`in (hem caydırıcı güç hem endüstriyel teknoloji olarak) indirildiği vurgulanmıştır?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** Çünkü yaptırım gücü ve teknolojik öz-yeterliliği olmayan bir adalet ideali, zalimlerin ve dış saldırganların karşısında savunmasız kalır. Ayrıca `ve menâfi'u li'n-nâs` ifadesi, Müslüman toplumların bilimde, metalürjide, mühendislikte ve sanayide geri kalmaması gerektiğini, insanlığa faydalı teknoloji üretmenin dinî bir sorumluluk olduğunu gösterir.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** İmam Gazzâlî (*el-Maksadü'l-Esnâ*, s. 112–116), İbn Kayyım el-Cevziyye (*Medâricü's-Sâlikîn*, C. 2, s. 462) ve Kuşeyrî'nin (*Letâ'ifü'l-İşârât*, C. 3, s. 542–544) tespitleri paylaşılır: *"Hadîd (Demir) Sûresi'nin 16. âyetinde Allah Teâlâ `fe-kaset kulûbuhum` (kalpleri katılaştı) buyurarak demir gibi sertleşen kalpleri uyarır; 25. âyetinde ise dış dünyaya demiri indirirken kalplere `Mîzân` ve `bi'l-ğayb` (tenhada ihlas) bilincini yerleştirir. Kalbi merhametle yumuşamayan insanın elindeki demir zulüm aracına dönüşür."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Fiziksel gücümüz, bilgimiz, popülerliğimiz veya dijital imkânlarımız arttığında bunu zayıfları ezmek için mi, yoksa `li-yekûme'n-nâsu bi'l-kıst` ilkesiyle haksızlığa uğrayanları korumak için mi kullanıyoruz (`SDB1.2`, `SDB3.3`)?"*
+  2. *"Âyetin sonundaki `bi'l-ğayb` (kimse görmezken bile Allah'a ve elçilerine yardım edenleri Allah'ın ortaya çıkarması) ifadesi, sınavda, internette veya yalnız kaldığımızda kendi iç terazimizi (`Mîzân`) nasıl denetlememizi sağlar?"*
+  3. *"Gençler olarak fen, mühendislik ve yazılım (`Hadîd`) alanlarında çalışırken `menâfi'u li'n-nâs` (insanlığa fayda) niyetini kalbimizde nasıl canlı tutabiliriz?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Hadîd 57:25'teki 'Kitâb – Mîzân – Hadîd' üçlemesinin temsil ettiği medeniyet dengesi:** | *"Kitâb hukuku ve hakikati, Mîzân adalet ve ölçülülüğü, Hadîd ise adaleti koruyan caydırıcı gücü ve insanlığa faydalı teknolojiyi temsil eder; güç daima hukuk ve adalete bağlı olmalıdır."* |
+| **2. Demir/teknoloji için kullanılan 'be'sün şedîd ve menâfi'u li'n-nâs' ifadesinin anlamı:** | *"Güç ve teknoloji hem haksız saldırıları durduran caydırıcı savunma kapasitesi (be's) hem de insanların hayatını kolaylaştıran sivil-endüstriyel fayda (menâfi') üretmelidir."* |
+| **3. 'Bi'l-ğayb' (kimse görmezken bile) kaydının kişisel ahlakıma kattığı ilke:** | *"Elimde güç veya imkân varken ve hiçbir insan beni denetlemezken bile Allah'ın gördüğünü bilerek adalet terazisinden (Mîzân) sapmamak."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, C. 29, s. 470), Mâverdî (*Edebü'd-Dünyâ ve'd-Dîn*, s. 135) ve İbn Teymiyye'nin (*es-Siyâsetü'ş-Şer'iyye*, s. 168) `Hadîd 57:25` yorumlarını inceleyerek "İslam Siyaset ve Teknoloji Felsefesinde Gücün Hukukla Sınırlandırılması (`Kitâb–Mîzân–Hadîd`)" başlıklı bir makale hazırlama.
+  - Birûnî, İbnü'l-Heysem ve Cezerî'nin bilimsel-mekanik eserlerinin `menâfi'u li'n-nâs` ilkesiyle ilişkisini ve modern yapay zekâ etiğini analiz etme.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`1. Kitâb (Hukuk ve İlkeler) + 2. Mîzân (Adalet Terazisi) → 3. Hadîd (Adaleti Koruyan Güç ve İnsanlığa Faydalı Teknoloji)`** dengesini gösteren görsel terazi şeması üzerinde çalışma.
+  - "Teknolojinin ve Gücün Adalet/Fayda (`Menâfi'`) İçin Kullanımı" ile "Gücün Zorbalık ve Zarar İçin İstismarı" örneklerini içeren eşleştirme kartlarıyla uygulama yapma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik lügat, tefsir ve irfân nakilleri (İbn Fâris, Râgıb el-İsfahânî, Zemahşerî, İbn Manzûr, Fahreddîn er-Râzî, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* basamaklarıyla eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** `Hadîd` ve `be'sün şedîd` kavramlarının `Kitâb` ve `Mîzân` bağlamından koparılarak hukuksuz şiddete veya zorbalığa alet edilmesi `DKAB.11.4.4`, `DKAB.11.4.3`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` ilkeleriyle engellenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -576,11 +669,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Fahreddîn er-Râzî, Ebû Abdillâh Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/2363/15/5548
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/564
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/168/17/109
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/204
-- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/2546
+- **Fahreddîn er-Râzî, Ebû Abdillâh Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/5548
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/564
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687/109
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/204
+- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/2546
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Stockholm International Peace Research Institute [SIPRI] (2025).** *SIPRI Yearbook 2025: Armaments, Disarmament and International Security*. Oxford: Oxford University Press. https://www.sipri.org

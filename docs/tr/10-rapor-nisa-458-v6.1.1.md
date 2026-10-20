@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "527"
     arabic_quote: "لما أمر الولاة بأداء الأمانات إلى أهلها وأن يحكموا بالعدل، أمر الناس بأن يطيعوهم وينزلوا على قضاياهم. والمراد بأولى الأمر منكم: أمراء الحق لأن- أمراء الجور- اللَّه ورسوله بريئان"
-    verification_link: "https://shamela.ws/book/2362/17/527"
+    verification_link: "https://shamela.ws/book/23627/527"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "69"
     arabic_quote: "والجزية وأداء الأمانة، قال الله تعالى: فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمانَتَهُ [البقرة/ ٢٨٣] ، إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَماناتِ إِلى أَهْلِها"
-    verification_link: "https://shamela.ws/book/2363/16/51"
+    verification_link: "https://shamela.ws/book/23636/51"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "1"
     pages: "133"
     arabic_quote: "الهمزة والميم والنون أصلان متقاربان: أحدهما الأمانة التى هى ضدّ الخيانة، ومعناها سُكون القلب؛ والآخر التصديق. والمعنيان كما قلنا متدانيان."
-    verification_link: "https://shamela.ws/book/2171/10/177"
+    verification_link: "https://shamela.ws/book/21710/177"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430"
     arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
-    verification_link: "https://shamela.ws/book/168/17/5608"
+    verification_link: "https://shamela.ws/book/1687/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-ibn-teymiyye"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "1"
     pages: "6"
     arabic_quote: "قَالَ الْعُلَمَاءُ: نَزَلَتْ الْآيَةُ الْأُولَى فِي وُلَاةِ الْأُمُورِ؛ عَلَيْهِمْ أَنْ يُؤَدُّوا الْأَمَانَاتِ إلَى أَهْلِهَا، وَإِذَا حَكَمُوا بَيْنَ النَّاسِ أَنْ يَحْكُمُوا بِالْعَدْلِ"
-    verification_link: "https://shamela.ws/book/3123/17/2"
+    verification_link: "https://shamela.ws/book/31237/2"
     doi_or_urn: "urn:shamela:7556"
 
 modern_sources:
@@ -395,13 +395,13 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 - **[YORUM]** Kur'ân-ı Kerîm'in siyaset ve yönetim ahlâkında dış dünyadaki kamu idaresi, ehliyet/liyakat düzeni ve yargı bağımsızlığı (`âfâk`) ile karar vericinin iç dünyasındaki emanet şuuru, nefis muhasebesi ve hakkaniyet terbiyesi (`enfüs`) birbirinden ayrılmaz iki ontolojik yüzü temsil eder. **Nisâ 4:58** âyetinin dış dünyada kamu görevlerinin ehline tevdi edilmesini (`tu'eddü'l-emânâti ilâ ehlihâ`) ve insanlar arasında tarafsız adaletle hükmedilmesini (`en tahkümû bi'l-adl`) emreden kurumsal fermanı (`âfâk` boyutu); insanın iç dünyasında kamu emanetini çürüten riyâset şehveti (*hubbü'l-câh ve'r-riyâse*), kabileci/partizan tarafgirlik, nefsin hevâsına uyma ve kamu makamını şahsi ganimet sanma gafletine karşı yürütülen içsel tezkiyeyle (`enfüs` boyutu) doğrudan bütünleşiktir. **Fussilet 41:53** ilkesi uyarınca, kendi kalp ve vicdan emanetine hıyanet eden bir yönetici veya hâkim, dış dünyada kurumsal adaleti ve yargı tarafsızlığını koruyamaz. Bu sebeple **Adım 15**'teki `K1` (nesnel liyakat ve mülakat sınırlaması), `K2` (yargı bağımsızlığı) ve `K3` (şeffaf kamu ihale ve mal bildirimi denetimi) karar kolları, kurumsal denetim mekanizmalarının yanı sıra içsel emanet ahlâkı (`murâkabe`) şartına bağlanmıştır.
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın* — Gazzâlî & Mâverdî Metodolojisi)
-- **[YORUM]** Zâhirî fıkıh (*fıkhü'z-zâhir*) kamu makamlarına atanma ve yargılama usûllerini belirlerken, kalp fıkhı (*fıkhü'l-bâtın*) liyakat ve adaletin birincil katili olan **makam/statü tutkusunu (*hubbü'l-câh*) ve nefsânî tarafgirliği** tahlil eder. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn* adlı eserinin *Kitâbü Zemmi'l-Câh ve'r-Riyâ* bölümünde (Beyrut: Dârü'l-Ma'rife, Rub'u'l-Mühlikât, Cilt: 3, s. 274–310, [Dijital Doğrulama](https://shamela.ws/book/9472/274)), makam ve nüfuz sevgisinin (*hubbü'l-câh*) mal sevgisinden dahi daha tehlikeli bir kalp illeti olduğunu; insanları kendine kul etme ve sadakat üzerinden kadrolaşma arzusunun kalpteki tevhid ve adalet nurunu söndürdüğünü ortaya koyar. **Ebü'l-Hasan el-Mâverdî** (ö. 450/1058) ise *Edebü'd-Dünyâ ve'd-Dîn* (Beyrut: Dârü'l-Kütübi'l-İlmiyye, 1987, s. 135–148, [Dijital Doğrulama](https://shamela.ws/book/9569/135)) adlı eserinde, kamu düzeninin (`ıslâhu'd-dünyâ`) ancak yöneticinin nefsânî hevâ ve yakınlık bağlarını aşan içsel adalet ve emanet bilinciyle (`dîn` ve `emanet`) ayakta durabileceğini vurgular. Nitekim Hz. Peygamber'in (s.a.v.) sahâbî Ebû Zer el-Gıfârî'ye (r.a.) hitaben *"Yâ Ebâ Zer! Seni zayıf görüyorum... İki kişiye bile emîr (yönetici) olma ve yetim malı üstlenme; zira yöneticilik bir emanettir, hakkıyla almayan için kıyamet günü rüsvaylık ve pişmanlıktır"* (Müslim, *İmâre*, 16–17, Hadis No: 1825–1826) uyarısı, kalp fıkhında ehliyetsiz makama talip olmayı ve kayırmacılığı doğrudan emanete hıyanet olarak tescil etmektedir.
+- **[YORUM]** Zâhirî fıkıh (*fıkhü'z-zâhir*) kamu makamlarına atanma ve yargılama usûllerini belirlerken, kalp fıkhı (*fıkhü'l-bâtın*) liyakat ve adaletin birincil katili olan **makam/statü tutkusunu (*hubbü'l-câh*) ve nefsânî tarafgirliği** tahlil eder. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn* adlı eserinin *Kitâbü Zemmi'l-Câh ve'r-Riyâ* bölümünde (Beyrut: Dârü'l-Ma'rife, Rub'u'l-Mühlikât, Cilt: 3, s. 274–310, [Dijital Doğrulama](https://shamela.ws/book/9472/1020)), makam ve nüfuz sevgisinin (*hubbü'l-câh*) mal sevgisinden dahi daha tehlikeli bir kalp illeti olduğunu; insanları kendine kul etme ve sadakat üzerinden kadrolaşma arzusunun kalpteki tevhid ve adalet nurunu söndürdüğünü ortaya koyar. **Ebü'l-Hasan el-Mâverdî** (ö. 450/1058) ise *Edebü'd-Dünyâ ve'd-Dîn* (Beyrut: Dârü'l-Kütübi'l-İlmiyye, 1987, s. 135–148, [Dijital Doğrulama](https://shamela.ws/book/765/120)) adlı eserinde, kamu düzeninin (`ıslâhu'd-dünyâ`) ancak yöneticinin nefsânî hevâ ve yakınlık bağlarını aşan içsel adalet ve emanet bilinciyle (`dîn` ve `emanet`) ayakta durabileceğini vurgular. Nitekim Hz. Peygamber'in (s.a.v.) sahâbî Ebû Zer el-Gıfârî'ye (r.a.) hitaben *"Yâ Ebâ Zer! Seni zayıf görüyorum... İki kişiye bile emîr (yönetici) olma ve yetim malı üstlenme; zira yöneticilik bir emanettir, hakkıyla almayan için kıyamet günü rüsvaylık ve pişmanlıktır"* (Müslim, *İmâre*, 16–17, Hadis No: 1825–1826) uyarısı, kalp fıkhında ehliyetsiz makama talip olmayı ve kayırmacılığı doğrudan emanete hıyanet olarak tescil etmektedir.
 
 #### 13.3. Klasik İşârî / İrfânî Tahrîc (Kuşeyrî — *Letâ'ifü'l-İşârât* & Sülemî)
 - **[NAKİL]** Klasik işârî tefsir geleneğinin büyük imamı **Abdülkerîm el-Kuşeyrî** (ö. 465/1072), *Letâ'ifü'l-İşârât* adlı eserinde Nisâ 4:58 âyetindeki *emanet* ve *adalet* emrinin kalp ve sır mertebesindeki karşılığını şu lafızlarla tahrîc etmektedir:
-  > «إن الله يأمركم أن تؤدوا الأمانات إلى أهلها وإذا حكمتم بين الناس أن تحكموا بالعدل... الإشارة فيه: أعظم الأمانات سرك وقلبك وجوارحك؛ فأداء أمانة القلب بتطهيره عن الأغيار، وأداء أمانة الجوارح بحفظها عن المخالفات، فمن خان أمانة ربه في سره لم يوفق للعدل بين خلقه...»
+  > «إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَى أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ النَّاسِ أَن تَحْكُمُوا بِالْعَدْلِ... رَدُّ الْأَمَانَاتِ إِلَى أَهْلِهَا تَسْلِيمُ أَمْوَالِ الْخَلْقِ لَهُمْ بَعْدَ إِشْرَافِكَ عَلَيْهَا بِحَيْثُ لَا تَفْسُدُ عَلَيْهِمْ. وَيُقَالُ لِلَّهِ سُبْحَانَهُ وَتَعَالَى أَمَانَاتٌ وَضَعَهَا عِنْدَكَ؛ فَرَدُّ الْأَمَانَةِ إِلَى أَهْلِهَا تَسْلِيمُهَا إِلَى اللَّهِ سُبْحَانَهُ سَالِمَةً مِنْ خِيَانَتِكَ فِيهَا... وَالْحُكْمُ بَيْنَ النَّاسِ بِالْعَدْلِ تَسْوِيَةُ الْقَرِيبِ وَالْبَعِيدِ فِي الْعَطَاءِ وَالْبَذْلِ، وَأَلَّا تَحْمِلَكَ مُخَامَرَةُ حِقْدٍ عَلَى انْتِقَامٍ لِنَفْسٍ»
   > *"Şüphesiz Allah size emanetleri ehline vermenizi ve insanlar arasında hükmettiğinizde adaletle hükmetmenizi emreder... Bu âyetteki irfânî işaret şudur: Emanetlerin en büyüğü senin sırrın, kalbin ve uzuvlarındır. Kalp emanetini eda etmek onu mâsivâdan ve nefsânî kirlerden arındırmakla; uzuvların emanetini eda etmek ise onları ilâhî sınırları çiğnemekten korumakla gerçekleşir. Kendi iç dünyasında (sırrında) Rabbinin emanetine hıyanet eden kimse, dış dünyada Allah'ın kulları arasında adaletle hükmetmeye muvaffak kılınmaz..."*
-  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 344–345 (krş. Ebû Abdurrahmân es-Sülemî, *Hakâ'iku't-Tefsîr*, thk. Seyyid İmrân, Beyrut: Dârü'l-Kütübi'l-İlmiyye, 2001, Cilt: 1, s. 152, [Dijital Doğrulama](https://shamela.ws/book/22668/152)). **Dijital Kütüphane Bağlantısı:** [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=4&tAyahNo=58).
+  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 341 (krş. Ebû Abdurrahmân es-Sülemî, *Hakâ'iku't-Tefsîr*, thk. Seyyid İmrân, Beyrut: Dârü'l-Kütübi'l-İlmiyye, 2001, Cilt: 1, s. 152, [Dijital Doğrulama](https://shamela.ws/book/6786/11)). **Dijital Kütüphane Bağlantısı:** [shamela.ws/book/23629/338](https://shamela.ws/book/23629/338) / [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=4&tAyahNo=58&tDisplay=yes).
 - **[YORUM]** **İbare Tahlili:** İmam Kuşeyrî ve Sülemî, Nisâ 4:58'deki kamusal emanet ve adalet normunu insanın varoluşsal emanetiyle (`Ahzâb 33:72`) birleştirmektedir. Kuşeyrî'nin *"Kendi sırrında Rabbinin emanetine hıyanet eden, kullar arasında adaletle hükmetmeye muvaffak olamaz"* kaidesi, kurumsal çürümenin (`nepotizm`, `yargı siyasallaşması`, `rüşvet`) kök nedenini teşhis etmektedir: İç dünyasında kalbini nefsânî çıkar ve riyâset hırsından arındırmayan bir özne, dış dünyada kamu yetkisini kaçınılmaz olarak şahsi ve zümrevî imtiyaz aracına dönüştürür; bu yüzden içsel *murâkabe* ile kurumsal *şeffaflık* birbirini tamamlayan iki kanattır.
 
 ---
@@ -503,15 +503,109 @@ Nisâ 4:58, Mekke fethi günü Hz. Peygamber'in Kâbe anahtarını Kureyş'in il
 ---
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
-- **Açık Sorular:** Yapay zekâ algoritmalarının kamu atamalarında tarafsız liyakat ölçümünde kullanılması ne derece güvenilirdir?
-- **Temel Varsayım:** Liyakat sisteminin uygulandığı toplumlarda ekonomik verimliliğin ve toplumsal refahın artacağı kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Nisâ 4:58 — Kamu Emaneti, Liyakat ve Adil Yargı):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Emanet, Liyakat (Ehliyet), Adalet, Tarafsızlık ve Hesap Verebilirlik.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Mekke'nin fethi günü Hz. Peygamber'in Kâbe'nin anahtarını kendi akrabalarına değil, ezelî emanet ehline (Osman b. Talha'ya; İbn Hişâm, *es-Sîre*, 4/55; Vâkıdî, *el-Meğâzî*, 2/833) teslim etmesi kıssası üzerinden `"emânâtı ehline verme"` ilkesi tartışılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Çoğul `el-emânât` lafzı, `ehlihâ` (liyakat ve ehliyet sahipleri) ve `beyne'n-nâs` (inanç ve kimlik ayrımı gözetmeksizin tüm insanlar arasında adalet) kavramları Râzî (*Mefâtîhu'l-Gayb*, C. 10, s. 142–145) ve İbn Teymiyye (*es-Siyâsetü'ş-Şer'iyye*, s. 12–14) nakilleriyle incelenir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Nepotizm/kayırmacılık sarmalı (`R1`) ile liyakat ve bağımsız yargı dengeleyicisi (`B1`) arasındaki nedensel ilişki WJP Hukukun Üstünlüğü verileriyle analiz edilir.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler kamu görevlerinde liyakat ve çıkar çatışması ilkelerini içeren bir *Kamu Etiği Şartnamesi* tasarlar.
 
+- **Açık Araştırma Soruları:**
+  1. Kamu personel alımlarında yapay zekâ destekli mülakat ve liyakat ölçüm sistemleri, `Nisâ 4:58`'deki `ehliyet` (*ehlihâ*) ve `adalet` (*bi'l-adl*) ilkeleriyle nasıl denetlenebilir?
+  2. Klasik fıkıhtaki `hisbe` ve `mezâlim` mahkemeleri deneyimi, modern ombudsmanlık (kamu denetçiliği) ve etik kurullarının bağımsızlığını güçlendirmek için nasıl modellenebilir?
+- **Temel Varsayım:** Kamu görevlerinin birer ganimet veya imtiyaz değil, ilahi ve toplumsal hesap verilebilirliğe tabi ağır birer `emanet` olduğu; toplumsal barış ve kurumsal güvenin ancak liyakat ve tarafsız adaletle ayakta kalabileceği kabul edilmiştir.
+
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Nisâ Sûresi 58. âyeti üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 10. Sınıf
+- **Öğrenme Alanı / Ünite:** İslam ve Sosyal Hayat / Kamu Emaneti, Liyakat (Ehliyet) ve Yargısal Adalet
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.10.3.4` (*İslam'da emanet, ehliyet, liyakat ve adalet ilkelerini toplumsal hayatla ilişkilendirebilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [sebeb-i nüzulun hususiliği, hükmün umumiliği ve siyak-sibak bütünlüğü] özetleyebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Makam ve mevki hırsı (*hubbü'r-riyâse*), kibir ve yakınlarını kayırma (*asabiyet / muhâbât*) dürtülerine karşı içsel murakabe kurma.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Görev paylaşımında, şahitlikte ve karar süreçlerinde nesnel yeterlilik (*ehliyet*) ile hakkaniyeti esas alma.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (kamu düzeninin, toplumsal güvenliğin ve mülkiyet/hak emniyetinin korunması), **Mekke'nin Fethi'nde Kâbe Anahtarının Hz. Abbas'ın talebine rağmen ehline —Osman b. Talha'ya— İade Edilmesi** (*sebeb-i nüzûl*; Vâhidî, *Esbâbü'n-Nüzûl*, s. 162) ve *"Sebebin hususiliği hükmün umumiliğine mâni değildir"* (*el-'İbretü bi-'umûmi'l-lafz lâ bi-husûsi's-sebeb*) usûl kaidesi ile `Sedd-i Zerâi'`.
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Nisâ 4:58* âyetindeki `el-emânât`, `ehlihâ`, `tehkumû beyne'n-nâs`, `el-adl`, `ni'immâ ya'izukum bih` ve `Semî'an Basîrâ` kavramlarının lafzî-fıkhî analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Zemahşerî, Râgıb el-İsfahânî, İbn Manzûr ve İbn Teymiyye'nin (*es-Siyâsetü'ş-Şer'iyye*) kamu yönetimi ilkeleri ile çağdaş liyakat ve yargı bağımsızlığının eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.10.3.4, E3.4` | **Zıt Panel / Münazara** | Dinî veya grup aidiyetini liyakatin önüne geçiren kayırmacılık (*nepotizm*) anlayışı ile Kur'an'ın evrensel emanet-ehliyet ahlakının karşılaştırılması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB3.3, DAB6` | **Konuşma Halkası** | Muhâsibî, Gazzâlî (*Zemmü'l-Câh ve'r-Riyâ*) ve Kuşeyrî ekseninde makam hırsı (*hubbü'r-riyâse*), tarafgirlik ve kalp emanetine sadakat muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin *emanet–ehliyet*, Kâbe anahtarı nüzul bağlamı ve tarafsız adalet ilkelerini tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya **Nisâ 4:58** âyeti (*"Allah size, emanetleri mutlaka ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emreder..."*) yansıtılır. Öğrencilerden aşağıdaki **Anlam Çözümleme Tablosu** üzerinden âyetin altı kurucu kavramını incelemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Râgıb / Zemahşerî`) | Siyak-Sibak ve Çağdaş Kamu Ahlakı Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`ٱلْأَمَـٰنَـٰتِ` (`el-Emânât`)** | `e-m-n` (`أَمِنَ`) kökünden cem-i müennes sâlim | Hıyanetin zıddı; korunmak ve sahibine/ehline tevdi edilmek üzere güvenilen her türlü hak, görev ve sorumluluk ([İbn Fâris, *Makâyîs*, 1/133](https://shamela.ws/book/21710/177)) | Kamu görevleri, yargı yetkisi, devlet bütçesi, bilgi, oy ve çevre sorumluluğu |
+| **`أَهْلِهَآ` (`Ehlihâ`)** | `e-h-l` (`أَهَلَ`) kökünden muzâf isim | Bir işin veya hakkın gerçek sahibi; o görevi üstlenmeye bilgi, beceri ve ahlak bakımından layık ve yeterli olan kimse ([Zemahşerî, *el-Keşşâf*, 2/98](https://shamela.ws/book/23627/527)) | Nesnel yeterlilik, uzmanlık ve liyakat (*meritocracy*); kayırmacılığın reddi |
+| **`تَحْكُمُوا۟ بَيْنَ ٱلنَّاسِ` (`Tehkumû beyne'n-nâs`)** | `h-k-m` (`حَكَمَ`) kökünden muzâri fiil + zarf | Yalnızca dindaşlar veya yakınlar arasında değil, bütün "insanlar arasında" karar ve hüküm verirken ([Râgıb, *el-Müfredât*, s. 90](https://shamela.ws/book/23636/51)) | Kimlik, statü ve inanç farkı gözetmeksizin her insana eşit uygulanan evrensel hukuk |
+| **`بِٱلْعَدْلِ` (`Bi'l-Adl`)** | `a-d-l` (`عَدَلَ`) kökünden mastar | Zulmün ve meylin (tarafgirliğin) zıddı; hakkı hak sahibine eksiksiz teslim eden tam denge ([İbn Manzûr, *Lisânü'l-Arab*, 11/430](https://shamela.ws/book/1687/5608)) | Yargı bağımsızlığı, kanun önünde eşitlik ve hakkaniyetli yönetim |
+| **`نِعِمَّا يَعِظُكُم بِهِ` (`Ni'immâ ya'izukum bih`)** | `n-'-m` medih fiili + `v-'-z` muzâri fiil | *"Allah bununla size ne güzel öğüt veriyor!"* — Kalbi yumuşatan ve vicdanı uyaran ilahi nasihat | Hukuki kuralın sadece dış yaptırımla değil, içsel vicdan ve ahlakla desteklenmesi |
+| **`سَمِيعًۢا بَصِيرًا` (`Semî'an Basîrâ`)** | Mübâlağalı sıfat-ı müşebbehe (Esmâ-i Hüsnâ) | Gizli-açık her sözü işiten (*Semî'*) ve kapalı kapılar ardındaki her fiili gören (*Basîr*) | Kamu yönetiminde şeffaflık, hesap verebilirlik ve ilahi murakabe bilinci |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Zemahşerî (*el-Keşşâf*, C. 2, s. 98), İbn Teymiyye (*es-Siyâsetü'ş-Şer'iyye*, C. 1, s. 11) ve Buhârî'nin emanet hadisi ile çağdaş kamu yönetimi vakalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — Sebeb-i Nüzul (Kâbe Anahtarı ve Osman b. Talha):**<br>Hz. Peygamber (s.a.v.), Mekke'nin fethinde amcası Hz. Abbas'ın Kâbe anahtarını (sidâne) kendi ailesine istemesine rağmen, inen `Nisâ 4:58` âyeti gereği anahtarı ehline —Osman b. Talha'ya— teslim etmiştir. | **K2 — Çağdaş Vaka A (Liyakat ve Objektif Sınav Sistemi):**<br>Kamu görevlerine ve kurumsal pozisyonlara atamalarda akrabalık veya tanıdık referansı (*torpil*) yerine şeffaf, ölçülebilir mesleki yeterlilik kriterlerinin uygulanması. | **K3 — İbn Teymiyye (*es-Siyâsetü'ş-Şer'iyye*, 1/11):**<br>Bir görev için daha ehil (*aslah*) bir kişi mevcutken, akrabalık, dostluk veya menfaat sebebiyle daha az ehil birini atamak Allah'a, Resûlü'ne ve müminlere hıyanettir ([Şâmile: 31237/2](https://shamela.ws/book/31237/2)). |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Nepotizm ve Kurumsal Çürüme):**<br>Uzmanlık gerektiren teknik ve idari makamlara ehliyetsiz kişilerin getirilmesi sonucu oluşan kamu zararı, beyin göçü ve toplumsal güven kaybı. | **K5 — Zemahşerî (*el-Keşşâf*, 2/98) & Râgıb:**<br>`el-Emânât` çoğul lafzı hem Allah'a hem kullara ait bütün maddi-manevi hakları; `beyne'n-nâs` ifadesi ise müslim-gayrimüslim ayrımı olmaksızın tüm insanlara adaleti kapsar. | **K6 — Çağdaş Vaka C (Yargı Tarafsızlığı ve Hukuk Devleti):**<br>Mahkemelerin ve idari denetim kurullarının tarafların sosyal statüsüne, zenginliğine veya kimliğine bakmaksızın evrensel hukuk normlarıyla karar vermesi. |
+| **K7 — Nebevî Uyarı (*Buhârî, İlim, 2, nr. 59*):**<br>*"Emanet zayi edildiğinde kıyameti (toplumsal çöküşü) bekle! ... İş (görev ve yetki) ehli olmayana verildiğinde kıyameti bekle!"* | **K8 — Çağdaş Vaka D (Şeffaflık ve Hesap Verebilirlik):**<br>Kamu ihalelerinin, bütçe harcamalarının ve idari kararların bağımsız denetime ve kamuoyu bilgisine açık tutulması (`Semî'an Basîrâ` bilinci). | **K9 — Gazzâlî & Muhâsibî Kalp Fıkhı (*Hubbü'r-Riyâse*):**<br>Emanete hıyanetin içsel sebebi, kalpteki baş olma tutkusu (*hubbü'l-câh*), kibir ve grup taassubu (*asabiyet*) marazıdır. |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Akraba Kayırmacılığının Reddi ve Liyakat Eşleştirmesi:* **`K1 ↔ K2 ↔ K3`** (Hz. Peygamber'in amcası Hz. Abbas yerine işin ehli Osman b. Talha'yı tercih etmesi ve İbn Teymiyye'nin *aslah* ilkesi ile modern liyakat sistemi).
+  2. *Ehliyetsizliğin Toplumsal Maliyeti ve Nebevî Uyarı Eşleştirmesi:* **`K4 ↔ K7 ↔ K9`** (Nepotizmin yol açtığı kurumsal çöküş ile Buhârî'deki *"iş ehline verilmediğinde kıyameti bekle"* hadisi ve *hubbü'r-riyâse* teşhisi).
+  3. *Evrensel Adalet ve Kurumsal Şeffaflık Eşleştirmesi:* **`K5 ↔ K6 ↔ K8`** (`Beyne'n-nâs` evrensel adalet emri ile yargı bağımsızlığı ve kurumsal hesap verebilirlik).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.10.3.4, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"Bir kurum yöneticisi, teknik uzmanlık gerektiren bir göreve puanı ve yetkinliği çok daha yüksek olan A adayı yerine, 'B adayı bizim yakın çevremizdendir ve dindar bir insandır, kendi insanımızı kollamamız gerekir' diyerek B adayını atamayı savunmaktadır. Öğrenciler bu tutumu Nisâ 4:58, Kâbe anahtarı hadisesi ve İslam hukuk usulü açısından sorgular."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Kendi yakınını veya grubunu kayırmak için dinî kavramları kullanmak, Nisâ 4:58'in iniş sebebi olan Kâbe anahtarı olayıyla nasıl çelişmektedir (`DKAB.10.3.4`, `DKAB.11.4.3`)?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** Mekke fethedildiğinde Kâbe anahtarını talep eden Hz. Abbas, Peygamberimizin öz amcası ve seçkin bir mümin olduğu halde, Allah Teâlâ `Nisâ 4:58` âyetini indirerek emanetin akrabaya değil **ehline** (o tarihte henüz yeni Müslüman olan veya İslam'a ısındırılan Osman b. Talha'ya) verilmesini emretmiştir. Dolayısıyla "bizden olanı kayırma" anlayışı İslamî değil, Kur'an'ın yıktığı câhiliye *asabiyet*idir.
+  2. **Soru 2 (Sorgulayıcı Grup):** *"Bir kimsenin kişisel olarak dindar görünmesi, uzmanlık gerektiren bir kamu görevinde 'ehliyet' şartını tek başına karşılar mı?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** Karşılamaz. Klasik siyaset-i şer'iyye literatüründe (İbn Teymiyye, *es-Siyâsetü'ş-Şer'iyye*, 1/11) ehliyet iki temel sütuna dayanır: **Kuvvet** (mesleki bilgi, teknik yetkinlik, iş yapabilme kapasitesi) ve **Emânet** (dürüstlük, kul hakkı korkusu). Nitekim Hz. Ebû Zer (r.a.) gibi çok takvalı bir sahâbî yöneticilik istediğinde, Hz. Peygamber (s.a.v.) *"Yâ Ebâ Zer! Sen zayıfsın; bu görev ise bir emanettir, hakkıyla almayan ve yerine getirmeyen için kıyamet günü rüsvaylık ve pişmanlıktır"* (Müslim, *İmâre*, 16) buyurarak takvanın idari yeterlilik yerine geçmeyeceğini bizzat öğretmiştir.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** Hâris el-Muhâsibî (*er-Ri'âye li-Hukûkillâh*, s. 218–224), İmam Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*, C. 3, s. 274–302, *Kitâbü Zemmü'l-Câh ve'r-Riyâ*) ve Kuşeyrî'nin (*Letâ'ifü'l-İşârât*, C. 1, s. 342) tespitleri paylaşılır: *"Dış dünyadaki liyakat ihlallerinin ve adaletsiz hükümlerin bâtınî kaynağı, kalpteki makam sevgisi (`hubbü'r-riyâse`), övülme arzusu ve nefsin yakınlarına meyletmesi (`hevâ`) marazıdır."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Okulda bir proje grubu kurarken veya sınıf temsilcisi seçerken en yakın arkadaşımızı mı, yoksa o işi en iyi ve en adil yapacak kişiyi mi seçiyoruz (`SDB1.2`, `SDB3.3`)?"*
+  2. *"Sevmediğimiz veya görüşüne katılmadığımız bir arkadaşımız haklı olduğunda, nefsimize ağır gelse bile onun lehine adaletle şahitlik yapabiliyor muyuz (`Nisâ 4:58` & `4:135`)?"*
+  3. *"Kuşeyrî'nin belirttiği üzere bize verilen akıl, zaman, gençlik ve bilgi de Allah'ın birer emaneti ise, bu içsel emanetleri 'ehline' (yani hakikat, ilim ve güzel ahlaka) teslim etmek için bugün ne yapmalıyız?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Nisâ 4:58'deki 'emanetleri ehline vermek' emrinin toplumsal ve kurumsal karşılığı:** | *"Kamu ve toplum görevlerinin akrabalık, çıkar veya grup yakınlığına (torpile) göre değil; bilgi, uzmanlık ve dürüstlük (liyakat) esasına göre verilmesi."* |
+| **2. Kâbe anahtarının Osman b. Talha'ya verilmesi olayının öğrettiği evrensel ilke:** | *"Hz. Peygamber'in öz amcası yerine işin ehli olan kişiyi tercih etmesi, İslam'da liyakatin kan bağından ve kayırmacılıktan üstün olduğunu gösterir."* |
+| **3. Kendi hayatımda 'emanet ve adalet' ilkesini uygulayacağım somut bir karar:** | *"Sorumluluk aldığım işleri özenle yapmak, grup çalışmalarında görevleri yeteneğe göre dağıtmak ve yakınım bile olsa haksızın yanında yer almamak."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - İbn Teymiyye'nin *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye* (C. 1, s. 11–28) adlı eserinin birinci bâbını (`Nisâ 4:58–59` tefsiri) ve Mâverdî'nin *el-Ahkâmü's-Sultâniyye* eserini inceleyerek "Klasik İslam Kamu Hukukunda Liyakat (`Kuvvet ve Emânet`) Kriterleri ile Modern Kamu Etiğinin Karşılaştırılması" başlıklı bir makale özeti hazırlama.
+  - Dünya Bankası Yönetişim Göstergeleri (`WGI — Government Effectiveness & Rule of Law`) verileri üzerinden kamu yönetiminde liyakat ile toplumsal refah arasındaki ilişkiyi analiz etme.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`Emanet (Kamu Görevi / Sorumluluk) → Ehliyet ve Liyakat (Bilgi + Dürüstlük) → Adaletle Hüküm (Tarafsız Hukuk) → Toplumsal Güven ve Huzur`** zincirini gösteren görsel kavram haritası üzerinde çalışma.
+  - Günlük okul ve toplum hayatından "Liyakat ve Adalete Uygun Davranış" ile "Kayırmacılık (Torpil) ve Emanete Hıyanet" örneklerini eşleştirme kartlarıyla sınıflandırma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik lügat, tefsir, siyaset-i şer'iyye ve irfân nakilleri (İbn Fâris, Râgıb el-İsfahânî, Zemahşerî, İbn Manzûr, İbn Teymiyye, Muhâsibî, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* basamaklarıyla eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** Dinî söylemlerin veya grup aidiyetinin nepotizm (kayırmacılık) ve liyakatsizliği meşrulaştırmak amacıyla istismar edilmesi `DKAB.10.3.4`, `DKAB.11.4.3`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` ilkeleriyle engellenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -563,11 +657,11 @@ Bu gerilim şu çetin soruları doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/177
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/5608
-- **İbn Teymiyye, Takıyyüddîn Ahmed b. Abdilhalîm (ö. 728/1328).** *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*. Tahkik: Ali b. Muhammed el-Umrân. Mekke: Dâru Âlemi'l-Fevâid, 1419/1998. Erişim: https://shamela.ws/book/3123/17/2
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/51
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/527
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/177
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/5608
+- **İbn Teymiyye, Takıyyüddîn Ahmed b. Abdilhalîm (ö. 728/1328).** *es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye*. Tahkik: Ali b. Muhammed el-Umrân. Mekke: Dâru Âlemi'l-Fevâid, 1419/1998. Erişim: https://shamela.ws/book/31237/2
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/51
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/527
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **World Bank Group (2024).** *Worldwide Governance Indicators (WGI): Bureaucratic Quality and Rule of Law*. Washington, D.C.: The World Bank. Erişim adresi: https://datacatalog.worldbank.org

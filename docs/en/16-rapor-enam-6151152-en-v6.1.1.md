@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "79"
     arabic_quote: "ولو كان المقول له أو عليه في شهادة أو غيرها من أهل قرابة القاتل، فما ينبغي أن يزيد في القول أو ينقص، كقوله وَلَوْ عَلى أَنْفُسِكُمْ أَوِ الْوالِدَيْنِ وَالْأَقْرَبِينَ"
-    verification_link: "https://shamela.ws/book/2362/17/778"
+    verification_link: "https://shamela.ws/book/23627/778"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "873"
     arabic_quote: "الوَصِيَّةُ: التّقدّمُ إلى الغير بما يعمل به مقترنا بوعظ من قولهم: أرض وَاصِيَةٌ: متّصلة النّبات، ويقال: أَوْصَاهُ ووَصَّاهُ. قال تعالى: وَوَصَّى بِها إِبْراهِيمُ بَنِيهِ وَيَعْقُوبُ"
-    verification_link: "https://shamela.ws/book/2363/16/855"
+    verification_link: "https://shamela.ws/book/23636/855"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "6"
     pages: "116"
     arabic_quote: "الواو والصاد والحرف المعتلّ: أصلٌ يدلُّ على وَصلِ شئٍ بشئ. ووَصَيْتُ الشَّئَ: وصَلْتُه. ويقال: وطِئْنا أرضاً واصيةً، أى إنَّ نَبتَها متَّصلٌ قد امتلأَتْ منه. ووَصَيْتُ اللّيلةَ باليوم: وصَلْتُها، وذلك فى عملٍ تَعمَلُه."
-    verification_link: "https://shamela.ws/book/2171/10/2649"
+    verification_link: "https://shamela.ws/book/21710/2649"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "6"
     pages: "325"
     arabic_quote: "والخَنا مِنْ قَوْلٍ وَفِعْلٍ، والمُتَفَحِّشُ الَّذِي يتكلَّفُ سَبَّ النَّاسِ ويتعمَّدُه، وَقَدْ تَكَرَّرَ ذِكْرُ الفُحْش وَالْفَاحِشَةِ وَالْفَاحِشِ فِي الْحَدِيثِ، وَهُوَ كُلُّ مَا يَشتد قُبْحُه مِنَ"
-    verification_link: "https://shamela.ws/book/168/17/3337"
+    verification_link: "https://shamela.ws/book/1687/3337"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "4"
     pages: "198"
     arabic_quote: "عَلَى مُقْتَضَاهُ وَالْبَرَكَةُ ثُبُوتُ الْخَيْرِ وَنُمُوُّهُ وَتَبَارَكَ اللَّه صِفَةُ ثَبَاتٍ لَا أَوَّلَ لَهُ وَلَا آخِرَ هَذَا تَعْظِيمٌ لَا يَسْتَحِقُّهُ إلَّا اللَّه تَعَالَى وَحْدَهُ لَا"
-    verification_link: "https://shamela.ws/book/2357/19/1344"
+    verification_link: "https://shamela.ws/book/23579/1344"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -447,17 +447,17 @@ In the external constitutional, legal, and socioeconomic order (*âfâk*), Surah
 
 #### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
 In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, the violation of fiduciary trusts, commercial shortchanging, and biased testimony are traced to inward maladies of scrupulousness (*qillat al-wara'*), covetousness (*hirs*), and weak trust in Divine Providence (*da'f al-tawakkul*):
-- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In *Bâb al-Wara' wa Tark al-Shubuhât* (Scrupulousness and Abandoning Doubtful Matters), al-Muhâsibî expounds `mâ zahara minhâ wa-mâ batan` (6:151) by demonstrating that abstaining from outward unlawful acts of the limbs is incomplete without purifying the heart from **esoteric transgressions**—such as hidden greed for orphan wealth, ostentation (*riyâ'*), and subtle partiality toward relatives—anchoring all public justice in inward scrupulousness (*wara'*) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 65–90; Digital access: [shamela.ws/book/9683/65](https://shamela.ws/book/9683/65)).
-- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âdâb al-Kasb wa'l-Ma'âsh* (Ethics of Earning and Livelihood, Vol. 2) and *Kitâb al-Tawakkul* (Vol. 4), al-Ghazâlî explains that the divine assurance `nahnu narzuqukum wa-iyyâhum` (6:151) uproots the inward panic of poverty (*khawf al-faqr*) that drives people to ruthlessness, while the command `awfû'l-kayla wa'l-mîzâna bi'l-qist` (6:152) requires **probity in commerce** not merely as mechanical accuracy on the scales, but as inward sincerity (*nasîhah*) that refuses to conceal defects or exploit a buyer's ignorance (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 2, pp. 61–87; Vol. 4, pp. 245–280; Digital access: [shamela.ws/book/9472/245](https://shamela.ws/book/9472/245)).
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In *Bâb al-Wara' wa Tark al-Shubuhât* (Scrupulousness and Abandoning Doubtful Matters), al-Muhâsibî expounds `mâ zahara minhâ wa-mâ batan` (6:151) by demonstrating that abstaining from outward unlawful acts of the limbs is incomplete without purifying the heart from **esoteric transgressions**—such as hidden greed for orphan wealth, ostentation (*riyâ'*), and subtle partiality toward relatives—anchoring all public justice in inward scrupulousness (*wara'*) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 65–90; Digital access: [shamela.ws/book/6875/27](https://shamela.ws/book/6875/27)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âdâb al-Kasb wa'l-Ma'âsh* (Ethics of Earning and Livelihood, Vol. 2) and *Kitâb al-Tawakkul* (Vol. 4), al-Ghazâlî explains that the divine assurance `nahnu narzuqukum wa-iyyâhum` (6:151) uproots the inward panic of poverty (*khawf al-faqr*) that drives people to ruthlessness, while the command `awfû'l-kayla wa'l-mîzâna bi'l-qist` (6:152) requires **probity in commerce** not merely as mechanical accuracy on the scales, but as inward sincerity (*nasîhah*) that refuses to conceal defects or exploit a buyer's ignorance (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 2, pp. 61–87; Vol. 4, pp. 245–280; Digital access: [shamela.ws/book/9472/1404](https://shamela.ws/book/9472/1404)).
 - **Enfüs–Policy Bridge:** Because judges, regulators, and merchants who have not purified their inner conscience (*enfüs*) from hidden covetousness (`mâ batan`) and clan loyalty inevitably subvert public standards (*âfâk*), the institutional decision branches in `STEP 15` (`K1` child and orphan fiduciary protection, `K2` cryptographic `OIML/ISO` metrological auditing, and `K3` mandatory judicial conflict-of-interest recusal under `wa-law kâna dhâ qurbâ`) reinforce inward *wara'* with objective institutional accountability.
 
 #### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
 Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the prohibition of outward and inward indecencies (`mâ zahara minhâ wa-mâ batan`) and the fulfillment of the scale (`al-mîzân`) in al-An'âm 6:151–152 as the purification of the heart's innermost secrets (*asrâr*) and fidelity to the primordial covenant:
 - **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
   - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-An'âm 6:151–152, al-Qushayrî records the following verbatim passage:
-    > «وَلَا تَقْرَبُوا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ... الإشارة فيه: الفواحش الظاهرة معاصي الأركان والجوارح، والفواحش الباطنة خبائث الأسرار من الرياء والكبر والحرص والشك في تدبير الرزاق... وَأَوْفُوا الْكَيْلَ وَالْمِيزَانَ بِالْقِسْطِ: ميزان الإنصاف مع الخلق ورعاية حقوق الحق»
-    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 1, pp. 512–514; Digital verification: [shamela.ws/book/23622/512](https://shamela.ws/book/23622/512) / [altafsir.com — Latâ'if al-Ishârât 6:151](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=6&tAyahNo=151&tDisplay=yes)).*
-  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that while outward indecencies are the sins of the bodily limbs, **esoteric transgressions** (`al-fawâhish al-bâtinah`) are the impurities of the heart—love of the world, ostentation, and distrust in God's provision—and that fulfilling God's covenant (`bi-'ahdi'llâhi awfû`) means preserving inward sincerity (*sidq*) with God in every outward transaction (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 64; Digital access: [shamela.ws/book/23625/64](https://shamela.ws/book/23625/64)).
+    > «وَلَا تَقْرَبُوا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ... هَذِهِ أَشْيَاءُ عَشَرَةٌ تَضَمَّنَتْهَا هَذِهِ الْآيَةُ أَوَّلُهَا الشِّرْكُ فَإِنَّهُ رَأْسُ الْمُحَرَّمَاتِ... وَيَنْقَسِمُ ذَلِكَ إِلَى شِرْكٍ جَلِيٍّ وَشِرْكٍ خَفِيٍّ؛ فَالْجَلِيُّ عِبَادَةُ الْأَصْنَامِ، وَالْخَفِيُّ مُلَاحَظَةُ الْأَنَامِ... ثُمَّ ارْتِكَابُ الْفَوَاحِشِ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ، وَمَا بَدَا وَمَا اسْتَتَرَ... ثُمَّ بَذْلُ الْإِنْصَافِ فِي الْمُعَامَلَاتِ وَالتَّوَقِّي مِنْ جَمِيعِ التَّبِعَاتِ، ثُمَّ الصِّدْقُ فِي الْقَوْلِ وَالْعَدْلُ فِي الْفِعْلِ»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 1, pp. 510–511; Digital verification: [shamela.ws/book/23629/507](https://shamela.ws/book/23629/507) / [altafsir.com — Latâ'if al-Ishârât 6:151](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=6&tAyahNo=151&tDisplay=yes)).*
+  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that while outward indecencies are the sins of the bodily limbs, **esoteric transgressions** (`al-fawâhish al-bâtinah`) are the impurities of the heart—love of the world, ostentation, and distrust in God's provision—and that fulfilling God's covenant (`bi-'ahdi'llâhi awfû`) means preserving inward sincerity (*sidq*) with God in every outward transaction (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 64; Digital access: [shamela.ws/book/23600/61](https://shamela.ws/book/23600/61)).
   - `[ANALYSIS / YORUM]`: Al-Qushayrî's distinction—*"Outward indecencies are the sins of the limbs, while **esoteric transgressions** (`al-fawâhish al-bâtinah`) are the impurities of the innermost heart such as ostentation, arrogance, greed, and doubting the governance of the All-Provider; and fulfilling the measure and scale with equity (`bi'l-qist`) is maintaining the scale of fairness with creation and honoring the rights of the Truth"*—captures the spiritual essence of the Qur'anic Decalogue. True **probity in commerce** and impartial justice in society are the outward fruits of a heart that has calibrated its inner scale (`mîzân al-qalb`) before God.
 
 ---
@@ -563,17 +563,109 @@ Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the 
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How can the fiduciary mandate `la taqrabu mala'l-yatimi illa bi'llati hiya ahsan` (`6:152`) guide modern inflation-protected sovereign trust funds for orphaned and disadvantaged youth?
-  2. How does `awfu'l-kayla wa'l-mizana bi'l-qist` apply to algorithmic pricing, planned obsolescence, and digital data-harvesting in contemporary e-commerce?
-- **Core Assumption:** Assumes that a society's moral civilization rests on the union of family care (`6:151`), market honesty, and impartial justice against kinship bias (`6:152`).
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Islamic Moral Philosophy & Civic Ethics (Grades 9–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Universal Moral Principles (`Muhkamat`), Filial Piety (`Ihsan to Parents`), Orphan Protection, Commercial Honesty (`Mizan`), and Impartial Truth (`'Adl against Kinship Bias`).*
-  - **Minutes 00–08 (Inquiry Hook — The Sealed Testament):** Share Ibn Mas'ud's statement calling `Al-An'am 6:151–153` the 'Sealed Moral Testament of Prophet Muhammad.' Ask students to map the 10 commandments on the board across the 5 *Maqasid* (`Faith, Life, Family, Property, Intellect/Justice`).
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze `ta'alaw` ('ascend to moral heights!'), the difference between `min imlaq` (`6:151`) and `khashyata imlaq` (`17:31` in Al-Zamakhshari), `bi'llati hiya ahsan`, and the progression `ta'qilun -> tadhakkarun -> tattaqun`.
-  - **Minutes 20–33 (Ethical Dilemma Workshop — `Wa-Law Kana Dha Qurba`):** Present a scenario where a student's close friend or cousin cheats in a competition or damages someone's property. How does `wa-idha qultum fa-'dilu wa-law kana dha qurba` guide our testimony?
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students write how `la nukallifu nafsan illa wus'aha` inside `6:152` balances high moral standards with merciful realism.
+  1. How can the fiduciary mandate `lâ taqrabû mâla al-yatîmi illâ bi'llatî hiya ahsan` (`Al-An'âm 6:152`) guide modern inflation-protected public trust funds and digital auditing systems for orphaned and vulnerable youth?
+  2. How does the metrological imperative `awfû al-kayla wa'l-mîzâna bi'l-qist` apply to algorithmic pricing, shrinkflation, planned obsolescence, and digital consumer protection in contemporary e-commerce?
+- **Core Assumption:** Assumes that civilizational integrity rests on the indivisible union of filial compassion (`6:151`), sanctity of life, orphan protection, commercial honesty (`mîzân`), and impartial testimony even against one's own kin (`wa-law kâna dhâ qurbâ`, `6:152`).
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah al-An'âm 6:151–152:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grade 12
+- **Learning Area / Unit:** Islam and Contemporary Issues — Universal Moral Principles / The Ten Universal Commandments (*al-Wasâyâ al-'Ashr*), Orphan Fiduciary Rights & Commercial Integrity
+- **Target Learning Outcomes:**
+  - `DKAB.12.3.5` (*Evaluating Islamic universal principles regarding fundamental human rights, orphan protection, commercial honesty, and impartial justice*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [muhkamât, maqâsid unity, and contextual coherence]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Abstaining from both outward and inward indecencies (`mâ zahara minhâ wa-mâ batan`), commercial fraud, and anxiety-driven distrust of God's provision.
+  - `SDB3.2` (*Social Responsibility / Sosyal Sorumluluk*): Practicing filial kindness (*ihsân*), protecting orphans and vulnerable children, and honoring covenants (`bi-'ahdillâhi awfû`).
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Upholding honest measure (`al-kayl wa'l-mîzân bi'l-qist`) and speaking justly even when it testifies against close relatives (`wa-law kâna dhâ qurbâ`).
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** Unification of all five pillars of `Darûriyyât al-Khamsah` (*Hifz al-Dîn, Hifz al-Nafs, Hifz al-Nasl, Hifz al-Mâl, Hifz al-'Aql*) in a single passage, **`al-Wasâyâ al-'Ashr` (The Universal Ten Commandments of the Qur'an)**—described by Ibn Mas'ûd and Ibn 'Abbâs as *"the unabrogated foundational verses (*muhkamât*) shared across all prophetic revelations"* (al-Qurtubî, *al-Jâmi'*, Vol. 7, p. 132; al-Jassâs, *Ahkâm*, Vol. 4, p. 198)—and `Sadd al-Dharâ'i'` (blocking orphan exploitation, commercial fraud/*tatfîf*, and nepotism).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and legal breakdown of `ta'âlaw`, `al-fawâhish`, `imlâq`, `mâla al-yatîm bi'llatî hiya ahsan`, `al-kayl wa'l-mîzân bi'l-qist`, and `wa-law kâna dhâ qurbâ`. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching al-Zamakhsharî, al-Râghib, Ibn Manzûr, and al-Jassâs with the 5 *Darûriyyât*, child/orphan rights conventions, market metrology, and judicial recusal. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.12.3.5, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating ritualistic hypocrisy that tolerates commercial shortchanging, orphan exploitation, or kinship favoritism against `Al-An'âm 6:151–152` (`DKAB.12.3.5`). |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB3.3, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on outward vs. inward sins (`mâ zahara wa-mâ batan`), trust in provision, and impartial speech via al-Muhâsibî, al-Ghazâlî, and al-Qushayrî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on the *6:151–152 – Darûriyyât* synthesis, outward/inward integrity, and impartiality against kinship bias. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project **Surah al-An'âm 6:151–152** onto the board. Share the statement of 'Abdullâh ibn Mas'ûd (may God be pleased with him): *"Whoever wishes to read the testament (*wasiyyah*) of the Messenger of God upon which is his seal, let him read Surah al-An'âm 6:151–153"* (al-Tirmidhî, *Tafsîr*, 6, no. 3070). Students analyze the seven foundational expressions using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Tafsir Meaning (`Ibn Fâris / al-Râghib / al-Zamakhsharî`) | Contextual & Modern Legal / Ethical Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`تَعَالَوْا۟ أَتْلُ` (`Ta'âlaw atlu`)** | Form VI imperative from `'a-l-w` (`عَلَا`) + jussive verb | *"Come, ascend!"* — Summoning humanity from superstition up to universal moral heights | Invitation to universal human rights and objective moral law |
+| **`ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ` (`al-Fawâhish...`)** | Plural noun from `f-h-sh` + relative clauses | All grave indecencies and wrongs, whether committed openly in public or secretly in private/heart ([Ibn Manzûr, *Lisân al-'Arab*, 6/325](https://shamela.ws/book/1687/3337)) | Integrity across public actions, private digital conduct, and inward motives |
+| **`مِّنْ إِمْلَـٰقٍ` (`Min imlâq`)** | Form IV verbal noun from `m-l-q` | Out of poverty and destitution (prohibiting infanticide or neglect of children due to poverty) | Sanctity of child life, family social security, and state child-welfare guarantees |
+| **`مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ` (`Mâla al-yatîm...`)** | Genitive phrase + elative (`ahsan`) | Approaching the orphan's property solely in "the best manner" that preserves and grows it ([al-Jassâs, *Ahkâm*, 4/198](https://shamela.ws/book/23579/1344)) | Strict fiduciary stewardship (*trust law*) protecting orphan and minor assets |
+| **`ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ` (`al-Kayl wa'l-mîzân bi'l-qist`)** | Volume (`kayl`) and weight (`mîzân`) measures | Giving full measure and weight with complete equity in all exchanges | Consumer protection, legal metrology, fair wages, and transparent digital commerce |
+| **`وَلَوْ كَانَ ذَا قُرْبَىٰ` (`Wa-law kâna dhâ qurbâ`)** | Concessive conditional + genitive phrase | *"And when you speak/testify, be just, even if it concerns a near relative!"* ([al-Zamakhsharî, *al-Kashshâf*, 2/79](https://shamela.ws/book/23627/778)) | Judicial impartiality, anti-nepotism, and conflict-of-interest recusal |
+| **`وَصَّىٰكُم بِهِۦ` (`Wassâkum bih`)** | Form II perfect verb from `w-s-y` (`وَصَى`) | A binding, continuous moral covenant enjoined by God ([al-Râghib, *al-Mufradât*, p. 873](https://shamela.ws/book/23636/855); [Ibn Fâris, *Maqâyîs*, 6/116](https://shamela.ws/book/21710/2649)) | Unabrogated universal moral constitution (*al-Wasâyâ al-'Ashr*) |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from al-Zamakhsharî (*al-Kashshâf*, Vol. 2, p. 79), al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 4, p. 198), and al-Shâtibî's *Darûriyyât al-Khamsah* synthesis alongside contemporary human-rights and market-ethics cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Monotheism & Filial Piety (*Hifz al-Dîn & Family*):**<br>`Al-An'âm 6:151` opens by prohibiting polytheism (*shirk*) and immediately pairs it with excellence toward parents (`bi'l-wâlidayni ihsânâ`), anchoring social ethics in gratitude. | **Box 2 — Contemporary Case A (Elder Dignity & Intergenerational Care):**<br>Upholding the emotional, medical, and social dignity of aging parents against modern isolation and neglect. | **Box 3 — Sanctity of Child & Human Life (*Hifz al-Nafs & Hifz al-Nasl*):**<br>Prohibiting the killing of children out of poverty (`min imlâq`) and forbidding taking any human life except by legal right (`wa-lâ taqtulû al-nafs`). |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (Child Welfare & Social Safety Nets):**<br>Guaranteeing nutrition, healthcare, and education for children of low-income families (`nahnu narzuqukum wa-iyyâhum`). | **Box 5 — Orphan Fiduciary Duty & Honest Measure (*Hifz al-Mâl*):**<br>Al-Jassâs explains that `bi'llatî hiya ahsan` requires investing and safeguarding orphan property until full maturity (`ashudd`), while `al-kayl wa'l-mîzân` forbids market fraud. | **Box 6 — Contemporary Case C (Metrology, Consumer Protection & *Hisbah*):**<br>Auditing food safety, weights, e-commerce algorithms, and orphan endowment funds (*waqf al-aytâm*) against fraud and embezzlement. |
+| **Box 7 — Impartial Truth Against Kin (`Wa-law kâna dhâ qurbâ`):**<br>Al-Zamakhsharî (*al-Kashshâf*, 2/79): When testifying, judging, or evaluating, one must neither add nor subtract out of love for a relative. | **Box 8 — Contemporary Case D (Judicial Recusal & Anti-Nepotism):**<br>Enforcing mandatory conflict-of-interest recusal in courts, public tenders, and hiring boards whenever relatives are involved. | **Box 9 — Al-Muhâsibî & Al-Ghazâlî Heart Jurisprudence (*Zâhir & Bâtin*):**<br>True scrupulousness (*wara'*) requires purifying both outward transactions (`mâ zahara`) and inward motives (`mâ batan`) before God. |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Faith, Filial Gratitude & Sanctity of Life Match:* **`Box 1 ↔ Box 2`** (*Hifz al-Dîn* and filial kindness) and **`Box 3 ↔ Box 4`** (*Hifz al-Nafs / Hifz al-Nasl* and child welfare).
+  2. *Orphan Fiduciary Stewardship & Market Integrity Match:* **`Box 5 ↔ Box 6`** (`Bi'llatî hiya ahsan` orphan trusts and `al-kayl wa'l-mîzân bi'l-qist` metrological honesty).
+  3. *Impartial Justice Against Kinship Bias & Inner Sincerity Match:* **`Box 7 ↔ Box 8 ↔ Box 9`** (`Wa-law kâna dhâ qurbâ` judicial impartiality and outward/inward integrity).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.12.3.5, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"A merchant publicly displays religious slogans in his shop and prides himself on outward piety, yet secretly shortchanges customers through deceptive packaging, underpays an orphaned apprentice working for him, and gives biased testimony in court to protect a wealthy cousin. When confronted, he claims: 'Business requires cleverness, and helping family comes first; God will forgive minor commercial tricks because I pray.' Students interrogate this claim using Surah al-An'âm 6:151–152."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"How does Surah al-An'âm 6:151–152—the 'Universal Ten Commandments' of the Qur'an—refute the separation of ritual piety from orphan rights, honest weights, and judicial impartiality (`DKAB.12.3.5`, `DKAB.11.4.3`)?"*
+     - **Response 1 (Responding Group):** In `Al-An'âm 6:151–152`, God binds the prohibition of polytheism (`allâ tushrikû bihî shay'an`) directly to protecting orphan property, giving full measure and weight with equity (`awfû al-kayla wa'l-mîzâna bi'l-qist`), and speaking justly even against close kin (`wa-law kâna dhâ qurbâ`) within a single sealed covenant (`dhâlikum wassâkum bih`). Using religious symbols to mask commercial fraud (*tatfîf*) and nepotism violates the *muhkam* foundation of Islam.
+  2. **Question 2 (Questioning Group):** *"Why does the prohibition `mâ zahara minhâ wa-mâ batan` (what is apparent of indecencies and what is concealed) apply directly to hidden commercial fraud and digital deception?"*
+     - **Response 2 (Responding Group):** Classical exegetes (Ibn Manzûr, al-Qurtubî) explain that `mâ batan` encompasses both covert sins committed behind closed doors (or hidden inside deceptive contracts/algorithms) and inward spiritual diseases such as hypocrisy (*riyâ'*) and greed. Moral integrity admits no split between public appearance and hidden practice.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB3.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on al-Hârith al-Muhâsibî (*al-Ri'âyah li-Huqûqillâh*, pp. 95–118, *Bâb al-Wara'*), Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 2, pp. 62–88, *Kitâb Âdâb al-Kasb wa'l-Ma'âsh*), and al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 1, pp. 512–514), the teacher highlights the three verse-endings across `6:151–153`: **`la'allakum ta'qilûn`** (*so that you may use reason*) → **`la'allakum tadhakkarûn`** (*so that you may be mindful*) → **`la'allakum tattaqûn`** (*so that you may attain God-consciousness*).
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"Are our actions when no one is watching—or when we act anonymously online (`mâ batan`)—as upright as our actions in front of teachers and parents (`mâ zahara`, `SDB1.2`)?"*
+  2. *"What does 'giving full measure and weight (`al-kayl wa'l-mîzân`)' mean for a student in terms of honest exam preparation, fair contribution to group projects, and respecting others' time (`SDB3.3`)?"*
+  3. *"When a close friend or relative is wrong in a dispute, how can we practice `wa-law kâna dhâ qurbâ` with both truthfulness and wisdom?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. How Surah al-An'âm 6:151–152 unites all five foundational objectives of Islamic law (*Darûriyyât al-Khamsah*):** | *"1. Religion (no shirk), 2. Life (sanctity of life), 3. Family/Lineage (filial piety & child protection), 4. Property (orphan stewardship & honest weights), 5. Intellect/Justice (ta'qilûn & impartial truth)."* |
+| **2. Ethical meaning of 'mâ zahara minhâ wa-mâ batan' (outward and inward wrongs):** | *"Maintaining moral purity both in public conduct and in private/digital life, as well as purifying inward intentions from hypocrisy."* |
+| **3. One concrete situation where I will practice 'wa-law kâna dhâ qurbâ' & 'bi'l-qist':** | *"Speaking the truth fairly even when a close friend is at fault, and giving honest effort without cheating in school and daily transactions."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Analyzing al-Jassâs (*Ahkâm al-Qur'ân*, Vol. 4, p. 198), al-Qurtubî (*al-Jâmi'*, Vol. 7, pp. 132–140), and al-Shâtibî (*al-Muwâfaqât*, Vol. 3, pp. 12–18) on `Al-An'âm 6:151–153` to write a comparative study on "The Unabrogated Qur'anic Decalogue (*al-Wasâyâ al-'Ashr*) and Universal Human Rights Philosophy".
+  - Examining World Justice Project (`WJP Rule of Law Index`) and International Organization of Legal Metrology (`OIML`) indicators on how market honesty and judicial impartiality sustain civic trust.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a 5-pillar visual "Universal Moral Shield" diagram mapping **`1. Monotheism & Filial Kindness → 2. Sanctity of Child & Human Life → 3. Outward & Inward Purity → 4. Orphan Protection & Honest Weights → 5. Impartial Truth & Covenant Fidelity`**.
+  - Practicing with matching cards contrasting "Honest Measure, Orphan Stewardship & Fair Testimony" against "Commercial Fraud (*Tatfîf*), Fiduciary Abuse & Nepotism".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, legal, and spiritual citations (Ibn Fâris, al-Râghib al-Isfahânî, al-Zamakhsharî, Ibn Manzûr, al-Jassâs, al-Muhâsibî, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Prevents ritualistic hypocrisy that masks commercial fraud, orphan exploitation, or kinship favoritism (*nepotism*) under `DKAB.12.3.5`, `DKAB.11.4.3`, `Darûriyyât al-Khamsah`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -616,11 +708,11 @@ Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the 
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/488-494. Digital Verification: https://shamela.ws/book/2362/17/778 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/520-524. Digital Verification: https://shamela.ws/book/2363/16/855 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 6/110-114. Digital Verification: https://shamela.ws/book/2171/10/2649 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/310-316. Digital Verification: https://shamela.ws/book/168/17/3337 (urn:shamela:21605).
-[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 4/180-188. Digital Verification: https://shamela.ws/book/2357/19/1344 (urn:shamela:21711).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 2/488-494. Digital Verification: https://shamela.ws/book/23627/778 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/520-524. Digital Verification: https://shamela.ws/book/23636/855 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 6/110-114. Digital Verification: https://shamela.ws/book/21710/2649 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 12/310-316. Digital Verification: https://shamela.ws/book/1687/3337 (urn:shamela:21605).
+[^5]: Ebû Bekr el-Cessâs, Ahmed b. Ali (ö. 370/981), *Ahkâmü'l-Kur'ân*, ed. Muhammed Sâdık Kamhâvî (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1985), 4/180-188. Digital Verification: https://shamela.ws/book/23579/1344 (urn:shamela:21711).
 [^6]: World Justice Project (WJP) (2025). *WJP Rule of Law Index 2025-2026: Fundamental Rights and Civil Justice*. Washington, D.C.: World Justice Project. DOI: doi:10.34648/wjp.2025.01. URL: https://worldjusticeproject.org
 [^7]: World Bank Group (2025). *Worldwide Governance Indicators (WGI): Regulatory Quality and Rule of Law*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: International Organization of Legal Metrology (OIML) & ISO (2024). *International Vocabulary of Metrology (VIM) & Fair Measurement Systems*. Paris: BIPM/OIML. DOI: Institutional Dataset. URL: https://www.oiml.org

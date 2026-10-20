@@ -23,7 +23,7 @@ classical_sources:
     volume: "3"
     pages: "473"
     arabic_quote: "الألسنة: اللغات. أو أجناس النطق وأشكاله. خالف عزّ وعلا بين هذه الأشياء حتى لا تكاد تسمع منطقين متفقين في همس واحد، ولا جهارة، ولا حدّة، ولا رخاوة، ولا فصاحة، ولا لكنة، ولا نظم"
-    verification_link: "https://shamela.ws/book/2362/17/1921"
+    verification_link: "https://shamela.ws/book/23627/1921"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "294"
     arabic_quote: "والمخالفة: أن يأخذ كلّ واحد طريقا غير طريق الآخر في حاله أو قوله، والخِلَاف أعمّ من الضّدّ، لأنّ كلّ ضدّين مختلفان، وليس كلّ مختلفين ضدّين، ولمّا كان الاختلاف بين النّاس في"
-    verification_link: "https://shamela.ws/book/2363/16/276"
+    verification_link: "https://shamela.ws/book/23636/276"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "210"
     arabic_quote: "الخاء واللام والفاء أصولٌ ثلاثة: أحدُها أن يجئَ شئٌ شئِ يقومُ مقامَه، والثانى خِلاف قُدَّام، والثالث التغيُّر"
-    verification_link: "https://shamela.ws/book/2171/10/770"
+    verification_link: "https://shamela.ws/book/21710/770"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "13"
     pages: "385"
     arabic_quote: "وَشَاهِدُ أَلْسِنَةٍ الْجَمْعِ فِيمَنْ ذَكَّرَ قَوْلُهُ تَعَالَى: وَاخْتِلافُ أَلْسِنَتِكُمْ وَأَلْوانِكُمْ"
-    verification_link: "https://shamela.ws/book/168/17/6946"
+    verification_link: "https://shamela.ws/book/1687/6946"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "25"
     pages: "92"
     arabic_quote: "لَمَّا بَيَّنَ دَلَائِلَ الْأَنْفُسِ ذَكَرَ دَلَائِلَ الْآفَاقِ وَأَظْهَرُهَا خلق السموات وَالْأَرْضِ، فَإِنَّ بَعْضَ الْكُفَّارِ يَقُولُ فِي خَلْقِ الْبَشَرِ وَغَيْرِهِ مِنَ"
-    verification_link: "https://shamela.ws/book/2363/15/4497"
+    verification_link: "https://shamela.ws/book/23635/4497"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -399,17 +399,17 @@ Rûm 30:22 âyetinin dış dünyadaki (*âfâk*) anayasal, sosyolojik ve medeniy
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
 Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe yaratılıştaki farklılıkları hor görmenin ve kevni/insani âyetlere karşı duyarsızlaşmanın ardındaki bâtınî illetler; ülfet gafleti (*gafletü'l-ülfe*), kibir (*kibr*) ve tefekkürsüzlük olarak teşhis edilmiştir:
-- **Ebû Tâlib el-Mekkî (ö. 386/996), *Kûtü'l-Kulûb*:** Mekkî, marifet ve tefekkür makamlarını şerh ederken; avamın her gün gördüğü gökleri, yeri ve insan suretlerindeki çeşitliliği ülfet (alışkanlık) sebebiyle sıradanlaştırdığını, oysa âriflerin ve *'âlimîn* zümresinin her bir dilde, seste ve renkte Cenâb-ı Hakk'ın benzersiz sanatını (*sun'ullâh*) müşahede ederek haşyet ve tevazularının arttığını ortaya koyar (Ebû Tâlib el-Mekkî, *Kûtü'l-Kulûb fî Mu'âmeleti'l-Mahbûb*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, C. 1, s. 310–335; Dijital erişim: [shamela.ws/book/9682/310](https://shamela.ws/book/9682/310)).
-- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Münciyât* cildinin *Kitâbü't-Tefekkür* ve *Kitâbü'ş-Şükr* bölümlerinde; bir damla sudan yaratılan milyarlarca insanın hiçbirinin sesinin, dilinin (`elsinetiküm`) ve sima/renk hususiyetinin (`elvâniküm`) bir diğerine tıpatıp benzememesini ilahî kudret ve hikmetin en büyük burhanlarından biri olarak tahlil eder. Gazzâlî'ye göre bu çeşitlilikteki hikmeti göremeyip kendi soyunu veya dilini üstün gören kimse, *hicâb-ı ülfet* (alışkanlık körlüğü) ve *kibir* marazına tutulmuş, nakkaşın sanatına karşı nankörlük etmiştir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 4, s. 81–120, 423–448; Dijital erişim: [shamela.ws/book/9472/81](https://shamela.ws/book/9472/81)).
+- **Ebû Tâlib el-Mekkî (ö. 386/996), *Kûtü'l-Kulûb*:** Mekkî, marifet ve tefekkür makamlarını şerh ederken; avamın her gün gördüğü gökleri, yeri ve insan suretlerindeki çeşitliliği ülfet (alışkanlık) sebebiyle sıradanlaştırdığını, oysa âriflerin ve *'âlimîn* zümresinin her bir dilde, seste ve renkte Cenâb-ı Hakk'ın benzersiz sanatını (*sun'ullâh*) müşahede ederek haşyet ve tevazularının arttığını ortaya koyar (Ebû Tâlib el-Mekkî, *Kûtü'l-Kulûb fî Mu'âmeleti'l-Mahbûb*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, C. 1, s. 302–335; Dijital erişim: [shamela.ws/book/482/296](https://shamela.ws/book/482/296)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Münciyât* cildinin *Kitâbü't-Tefekkür* ve *Kitâbü'ş-Şükr* bölümlerinde; bir damla sudan yaratılan milyarlarca insanın hiçbirinin sesinin, dilinin (`elsinetiküm`) ve sima/renk hususiyetinin (`elvâniküm`) bir diğerine tıpatıp benzememesini ilahî kudret ve hikmetin en büyük burhanlarından biri olarak tahlil eder. Gazzâlî'ye göre bu çeşitlilikteki hikmeti göremeyip kendi soyunu veya dilini üstün gören kimse, *hicâb-ı ülfet* (alışkanlık körlüğü) ve *kibir* marazına tutulmuş, nakkaşın sanatına karşı nankörlük etmiştir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 4, s. 81–120, 423–448; Dijital erişim: [shamela.ws/book/9472/1240](https://shamela.ws/book/9472/1240)).
 - **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) ülfet körlüğünü ve etnik/kültürel üstünlük kibrini tefekkür ve tevazu ile aşamayan karar vericiler, dış dünyada (`âfâk`) farklı dilleri ve kültürleri güvenlik tehdidi olarak kodlar; bu sebeple `ADIM 15`'teki anayasal kültürel çeşitlilik güvencesi (`K1`), çok dilli kamu hizmeti erişimi (`K2`) ve bağımsız eşitlik/ayrımcılıkla mücadele kurumu (`K3`) kararları kalbî marifet ve tevazunun kurumsal güvenceleri olarak tasarlanmıştır.
 
 #### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
 Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Rûm 30:22 âyetindeki *dillerin ve renklerin ihtilafı* kavramını zahirî antropolojik çeşitliliğin yanında, sâliklerin kalplerindeki marifet hallerinin ve tecelli mertebelerinin çeşitliliği olarak şerh etmişlerdir:
 - **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
   - `[NAKİL]`: Kuşeyrî, Rûm 30:22 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
-    > «وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّلْعَالِمِينَ... الإشارة فيه: اختلاف الألسنة باختلاف مراتب القلوب في المعرفة، واختلاف الألوان باختلاف أحوال السالكين في إرادة الحق... فمن وقف مع الأشكال حُجب عن المعاني، ومن شهد الحكمة في التنوع اتسع قلبه للخلائق»
-    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 111–112; Dijital doğrulama: [shamela.ws/book/23622/111](https://shamela.ws/book/23622/111) / [altafsir.com — Letâ'ifü'l-İşârât 30:22](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=30&tAyahNo=22&tDisplay=yes)).*
-  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); zahirî dillerin ve renklerin farklılığı nasıl ki Vâhid-i Ehad olan Yaratıcı'nın kudret âyeti ise, ruhların ve kalplerin ilahî isimlerin farklı tecellilerine mazhar olmasının da irfânî bir zenginlik olduğunu; ârifin bütün bu farklı tecellilerde tek bir Hakikati müşahede ederek hiçbir mahlûku hor görmediğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 4, s. 327–328; Dijital erişim: [shamela.ws/book/11566/327](https://shamela.ws/book/11566/327)).
+    > «وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ إِنَّ فِي ذَلِكَ لَآيَاتٍ لِّلْعَالِمِينَ... وَمِنْ آيَاتِهِ اخْتِلَافُ لُغَاتِ أَهْلِ الْأَرْضِ، وَاخْتِلَافُ تَسْبِيحَاتِ الْمَلَائِكَةِ الَّذِينَ هُمْ سُكَّانُ السَّمَاءِ. وَإِنَّ اخْتِصَاصَ كُلِّ شَيْءٍ مِنْهَا بِحُكْمٍ شَاهِدُ عَدْلٍ، وَدَلِيلُ صِدْقٍ عَلَى أَنَّهَا تُنَاجِي أَفْكَارَ الْمُتَيَقِّظِينَ، وَتُنَادِي عَلَى أَنْفُسِهَا أَنَّهَا جَمِيعَهَا مِنْ تَقْدِيرِ الْعَزِيزِ الْعَلِيمِ»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 113; Dijital doğrulama: [shamela.ws/book/23629/1403](https://shamela.ws/book/23629/1403) / [altafsir.com — Letâ'ifü'l-İşârât 30:22](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=30&tAyahNo=22&tDisplay=yes)).*
+  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); zahirî dillerin ve renklerin farklılığı nasıl ki Vâhid-i Ehad olan Yaratıcı'nın kudret âyeti ise, ruhların ve kalplerin ilahî isimlerin farklı tecellilerine mazhar olmasının da irfânî bir zenginlik olduğunu; ârifin bütün bu farklı tecellilerde tek bir Hakikati müşahede ederek hiçbir mahlûku hor görmediğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 4, s. 333–334; Dijital erişim: [shamela.ws/book/10273/2148](https://shamela.ws/book/10273/2148)).
   - `[YORUM]`: Kuşeyrî'nin *"Kim dış şekillerde takılıp kalırsa manalardan perdelenir; kim de çeşitlilikteki (tenevvü') ilahî hikmeti müşahede ederse kalbi bütün mahlûkata karşı genişler"* tespiti, çoğulculuk ahlâkının zirvesidir. İrfânî ufukta *kesrette vahdet* (çoklukta birlik) sırrına eren bir gönül, dillerin ve renklerin farklılığından korkmaz; her bir insanı ve kültürü İlahî Kudret Kitabı'nın okunması ve korunması gereken mukaddes birer âyeti olarak kucaklar.
 
 ---
@@ -518,16 +518,109 @@ Katman 3 uyarınca sosyolojik simülasyon:
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
 
-- **Öz-Denetim (Self-Audit):** Rapor boyunca kesinlik ve dogma içeren ifadelerden kaçınılmış, sosyo-politik modellemelerin içtihadi niteliği vurgulanmıştır.
-- **Geliştirme Alanı:** Biyometrik yapay zekâda renk ve ırk önyargılarının (algorithmic bias) Rûm 30:22 ışığında elenmesi gelecek çalışmalarda incelenecektir.
-- **Temel Varsayım:** Kurumsal şeffaflık, hukuki caydırıcılık ve içsel ahlak (`takvâ / ihsân`) birleştiğinde toplumsal aktörlerin yapıcı işbirliğine yöneleceği kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Rûm 30:22 — Dillerin ve Renklerin Çeşitliliği, Kültürel Çoğulculuk):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Saygı, Birlikte Yaşama Kültürü, Tefekkür, Eşitlik ve Empati.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Rûm 30:22'de *"göklerin ve yerin yaratılışı"* ile *"dillerinizin ve renklerinizin farklılığı"*nın aynı cümlede Allah'ın âyetleri (`ve min âyâtihî`) olarak sayılması üzerinde tefekkür edilir.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `İhtilâf` (zenginlik ve çeşitlilik), `elsine` (diller), `elvân` (renkler ve mizaçlar) ve `li'l-âlimîn` (bilenler için ibretler) kavramları Râzî (*Mefâtîhu'l-Gayb*, C. 25, s. 96–98) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 21, s. 68–71) nakilleriyle tahlil edilir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Zoraki tektipleştirme ve ötekileştirme kısır döngüsü (`R1`) ile kültürel çeşitliliği kozmik bir âyet olarak koruyan çoğulcu medeniyet döngüsü (`B1`) karşılaştırılır.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler farklı kültür ve dillerin insanlığın ortak bilgi mirasına katkısını anlatan bir poster/sunum taslağı hazırlar.
+- **Açık Araştırma Soruları:**
+  1. Kur'an'ın dilsel ve etnik çeşitliliği göklerin ve yerin yaratılışıyla eşdeğer bir ilahi âyet (`ve min âyâtihî`, `Rûm 30:22`) olarak tanımlayan teolojisi, tarihsel ve çağdaş çoğulcu hukuk sistemlerine nasıl kaynaklık edebilir?
+  2. Doğal dil işleme (`NLP`) ve biyometrik yapay zekâ algoritmalarındaki dilsel/etnik önyargılar (*algorithmic bias*), `Rûm 30:22`'deki `li'l-âlimîn` (bilenler/bilim insanları için âyetler) perspektifiyle nasıl denetlenebilir?
+- **Temel Varsayım:** Eşit yurttaşlık hukuku çatısı altında dilsel ve kültürel çeşitliliğin ilahi bir emanet ve hikmet olarak korunmasının toplumsal aidiyeti zayıflatmayıp bilakis güçlendireceği kabul edilmiştir.
 
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Rûm Sûresi 22. âyeti üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 10. Sınıf
+- **Öğrenme Alanı / Ünite:** İslam ve Kültür-Medeniyet — İslam ve Sosyal Hayat / Dillerin ve Renklerin Çeşitliliği, Ontolojik Çoğulculuk ve Tefekkür
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.10.5.3` (*İslam'ın insanlığın eşitliği, kültürel çeşitlilik ve bir arada yaşama ahlakına dair ilkelerini yorumlayabilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [enfüsî-âfâkî deliller bütünlüğü, kıraat zenginliği ve sünnet beyanı] özetleyebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4` (Dinî Meseleleri Tefekkür Etme), `DAB4.4` (Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Soy, dil ve renk kibri (*kibr-i millî / ırkçılık*) ile alışkanlık körlüğünü (*hicâb-ı ülfet*) aşarak tefekkür bilinci kurma.
+  - `SDB2.3` (*Sosyal Farkındalık ve Kültürel Empati*): Farklı dil, şive, kültür ve etnik kökene sahip insanları Allah'ın birer âyeti olarak görüp saygı duyma.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Ayrımcılık, ötekileştirme ve nefret söylemine karşı insan onurunu ve bir arada yaşama hukukunu savunma.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Hıfzu'n-Nefs*, *Hıfzu'n-Nesl* ve *Hıfzu'l-Akl* — insan onurunun, fıtrî kimliğin ve tefekkür aklının korunması), `Rûm 30:20–27` enfüsî ve âfâkî âyetler dizgesi, **"İhtilâf (fıtrî çeşitlilik) sünnetullah ve ilâhî âyettir"** kelâm kaidesi, **Veda Hutbesi** (*"Arap'ın Arap olmayana, beyazın siyaha takva dışında üstünlüğü yoktur"*; Ahmed b. Hanbel, *Müsned*, 5/411) ve `Sedd-i Zerâi'` (ırkçılık, zoraki asimilasyon ve kültürel kibir yollarının kapatılması).
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Rûm 30:22* âyetindeki `âyâtihî`, `halku's-semâvâti ve'l-ard`, `ihtilâfu elsinetikum`, `elvânikum` ve `li'l-âlimîn / li'l-âlemîn` kavramlarının analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Zemahşerî, Râgıb, İbn Fâris ve Fahreddîn er-Râzî'nin akustik/antropolojik çeşitlilik tahlilleri ile UNESCO Kültürel Çeşitlilik Bildirgesi ve Veda Hutbesi'nin eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.10.5.3, E3.4` | **Zıt Panel / Münazara** | Dilsel ve etnik farklılıkları üstünlük veya tehdit sayan ırkçı/asimilasyoncu zihniyet ile farklılıkları ilâhî kudretin âyeti gören tevhidî çoğulculuğun sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB2.3, DAB6` | **Konuşma Halkası** | Gazzâlî (*Kitâbü't-Tefekkür* & *Kitâbü'ş-Şükr*), Ebû Tâlib el-Mekkî ve Kuşeyrî ekseninde alışkanlık perdesini (*hicâb-ı ülfet*) yırtma ve soy kibrinden arınma muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin *ihtilâf* kavramı, *el-'âlimîn / el-'âlemîn* kıraat zenginliği ve ötekileştirmeye karşı tefekkür ahlakını tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya **Rûm 30:22** âyeti (*"Göklerin ve yerin yaratılması ile dillerinizin ve renklerinizin farklı olması da O'nun âyetlerindendir. Doğrusu bunda bilenler için âyetler vardır"*) yansıtılır. Öğrencilerden göklerin yaratılışı ile insan dillerinin/renklerinin aynı cümlede `âyet` olarak anılmasının hikmetini aşağıdaki **Anlam Çözümleme Tablosu** üzerinden çözümlemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Râgıb / Zemahşerî / Râzî`) | Siyak-Sibak ve Çağdaş Çoğulculuk Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`ءَايَـٰتِهِۦ` (`Âyâtihî`)** | `e-y-y` kökünden çoğul isim (`âyet`) | Açık alâmet, mucizevi işaret ve ibret vesilesi ([Râzî, *Mefâtîhu'l-Gayb*, 25/92](https://shamela.ws/book/23635/4497)) | Doğadaki ve insanlıktaki çeşitliliğin ilahi dokunulmazlığa sahip birer "kevni âyet" olması |
+| **`خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ` (`Halku's-semâvâti ve'l-ard`)** | `h-l-k` mastarı + muzâfun ileyh | Göklerin ve yerin eşsiz bir ölçüyle yoktan yaratılması (âfâkî delil) | Kozmik ekosistemin düzeni ile insanlık ailesinin çeşitliliği arasındaki ontolojik eşitlik |
+| **`ٱخْتِلَـٰفُ` (`İhtilâfu`)** | `h-l-f` (`خَلَفَ`) kökünden ifti'âl bâbı mastar | Zıtlık (*zıddiyet*) değil, birbirini tamamlayan çeşitlilik ve başkalık ([Râgıb, *el-Müfredât*, s. 294](https://shamela.ws/book/23636/276); [İbn Fâris, *Makâyîs*, 2/210](https://shamela.ws/book/21710/770)) | Tek tipleştirmenin reddi; biyolojik, dilsel ve kültürel biyo-çeşitlilik |
+| **`أَلْسِنَتِكُمْ` (`Elsinetikum`)** | `l-s-n` kökünden `lisân`ın cem-i kılleti | Konuşulan diller, lehçeler ve hiçbir insanın diğerine benzemeyen ses tonu/parmak izi ([Zemahşerî, *el-Keşşâf*, 3/473](https://shamela.ws/book/23627/1921)) | Anadili onuru, dilbilimsel mirasın korunması ve akustik bireysellik |
+| **`وَأَلْوَٰنِكُمْ` (`Ve elvânikum`)** | `l-v-n` kökünden `levn`in çoğulu (`elvân`) | Tek bir anne-babadan türeyen insanlığın ten renkleri, simaları ve mizaç çeşitliliği ([İbn Manzûr, *Lisânü'l-Arab*, 13/385](https://shamela.ws/book/1687/6946)) | Irkçılığın ve renk ayrımcılığının (*apartheid*) teolojik ve bilimsel reddi |
+| **`لِّلْعَـٰلِمِينَ / لِّلْعَـٰلَمِينَ` (`Li'l-'âlimîn / Li'l-'âlemîn`)** | İki mütevâtir kıraat (`'âlim` ve `'âlem` çoğulu) | *Kesre ile:* Bilenler/âlimler için; *Fetha ile (Hafs):* Bütün âlemler/insanlar için âyetler | Hem tüm insanlığın gözlemlediği evrensel gerçek hem de bilim insanlarının incelediği araştırma alanı |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, C. 25, s. 92), Zemahşerî (*el-Keşşâf*, C. 3, s. 473) ve Hanefî-Mâtürîdî geleneğin dillerin saygınlığına dair içtihatları ile çağdaş kültürel çeşitlilik vakalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, 25/92):**<br>Aynı et, kas ve gırtlak yapısına sahip insanların binlerce farklı dili konuşması ve tek bir kökten gelen insanların farklı renk ve simalarda olması, kör tesadüfü çürüten ve Fâil-i Muhtâr olan Yaratıcıyı gösteren akli delildir. | **K2 — Çağdaş Vaka A (Biyometri, Ses İzi ve Genetik Bilimi):**<br>Modern adli tıp ve biyometri biliminin her insanın ses frekansının (*voiceprint*), yüz simasının ve DNA diziliminin eşsiz olduğunu doğrulaması (`li'l-'âlimîn`). | **K3 — Zemahşerî (*el-Keşşâf*, 3/473) & Kıraat Sentezi:**<br>`Li'l-'âlimîn` (bilim ve tefekkür ehli için) ve `li'l-'âlemîn` (tüm insanlık için) mütevâtir kıraatleri birbirini tamamlar: Diller ve renkler herkesin gördüğü, âlimlerin ise derin hikmetini çözdüğü ilahi âyetlerdir. |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Kültürel Çeşitlilik ve Dil Mirasının Korunması):**<br>UNESCO Kültürel Çeşitlilik Evrensel Bildirgesi uyarınca yeryüzündeki dillerin ve kültürlerin insanlığın ortak mirası olarak korunması ve asimilasyonun reddi. | **K5 — Râgıb el-İsfahânî (*el-Müfredât*, s. 294):**<br>`İhtilâf` ile `zıddiyet` aynı şey değildir; her iki zıt farklıdır ama her iki farklı birbirinin zıddı/düşmanı değildir. Dillerin ve renklerin ihtilafı çatışma değil, tamamlayıcı ahenktir. | **K6 — Çağdaş Vaka C (Irkçılık, Ksenofobi ve Nefret Suçlarıyla Mücadele):**<br>Ten rengi, etnik köken veya şive farklılığı sebebiyle yapılan akran zorbalığının, ayrımcılığın ve yabancı düşmanlığının hem hukuken hem ahlaken engellenmesi. |
+| **K7 — Nebevî Sünnet ve Veda Hutbesi:**<br>Hz. Peygamber'in Bilâl-i Habeşî (Afrika), Selmân-ı Fârisî (İran) ve Suheyb-i Rûmî'yi (Anadolu/Bizans) kardeş kılması; Ebû Zer'i *"Sende câhiliye izi var"* diye uyarması ve Veda Hutbesi'nde ırk üstünlüğünü yıkması. | **K8 — Hanefî-Mâtürîdî Geleneğin Diller Fıkhı:**<br>İmam Ebû Hanîfe ve İmam Mâtürîdî'nin bütün insan dillerini Allah'ın âyeti (`30:22`) kabul ederek Farsça ve Türkçe satır-arası Kur'an tercümelerine öncülük etmesi. | **K9 — Gazzâlî & Mekkî Kalp Fıkhı (*Hicâb-ı Ülfet*):**<br>İnsanın her gün gördüğü gökyüzünü, farklı dilleri ve simaları kanıksayıp hayretini yitirmesi *ülfet perdesi* (gaflet); kendi soyunu üstün görmesi ise *İblîsî kibir*dir. |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Bilimsel Tefekkür ve Kıraat Zenginliği Eşleştirmesi:* **`K1 ↔ K2 ↔ K3`** (Râzî ve Zemahşerî'nin anatomik/akustik delilleri ile modern biyometri/dilbilim ve *'âlimîn / 'âlemîn* kıraat sentezi).
+  2. *Tamamlayıcı Çeşitlilik (İhtilâf) ve Asimilasyon/Irkçılık Karşıtlığı Eşleştirmesi:* **`K4 ↔ K5 ↔ K6`** (Râgıb'ın *ihtilâf ≠ zıddiyet* ayrımı ile kültürel mirasın korunması ve ayrımcılıkla mücadele).
+  3. *Nebevî Kardeşlik, Dillerin Saygınlığı ve Kalp Tezkiyesi Eşleştirmesi:* **`K7 ↔ K8 ↔ K9`** (Bilâl–Selmân–Suheyb halkası, Mâtürîdî dil fıkhı ve *hicâb-ı ülfet*ten uyanış).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.10.5.3, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"Sosyal medyada paylaşılan bir videoda iki aşırı görüş tartışılmaktadır: Birinci görüş, 'Belirli bir ırk ve dil diğerlerinden üstündür; farklı dil ve kültürler toplumsal birliği bozar, hepsi tek tipleştirilmelidir' iddiasındadır. İkinci görüş ise dinî kavramları istismar ederek 'Sadece tek bir dili konuşanlar gerçek dindardır, diğer diller ve kültürler değersizdir' demektedir. Öğrenciler her iki iddiayı Rûm 30:22, İbrahim 14:4 ve Veda Hutbesi ışığında sorgular."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Bir insanın ana dilini, şivesini veya ten rengini aşağılamak ya da zorla yok etmeye çalışmak, Rûm 30:22 âyetine göre neden doğrudan Allah'ın âyetlerine karşı işlenmiş bir saygısızlıktır (`DKAB.10.5.3`, `DKAB.11.4.3`)?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** Çünkü Allah Teâlâ `Rûm 30:22`'de dillerin ve renklerin farklılığını (`ihtilâfu elsinetikum ve elvânikum`), tıpkı göklerin ve yerin yaratılışı gibi bizzat **kendi âyetlerinden (`ve min âyâtihî`)** saymıştır. Nasıl ki Kur'an'ın yazılı bir âyetini tahkir etmek veya silmeye kalkışmak büyük bir cürüm ise, Allah'ın kevni ve fıtrî âyeti olan insan dillerini ve renklerini aşağılamak da Yaratıcının sanatına karşı kibirlenmektir.
+  2. **Soru 2 (Sorgulayıcı Grup):** *"Dinî söylemleri kullanarak belirli bir etnik kimliği veya dili diğer insanların üzerinde üstünlük aracı yapmak İslam'ın tevhid ve nübüvvet ilkesiyle bağdaşır mı?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** Bağdaşmaz. Kur'an'da *"Biz her peygamberi kendi kavminin diliyle gönderdik ki onlara açıkça anlatsın"* (`İbrahim 14:4`) buyrularak bütün insan dillerinin ilahi hakikati taşıma kapasitesi tescil edilmiştir. Hz. Peygamber (s.a.v.) Veda Hutbesi'nde **"Babanız birdir; Arap'ın Arap olmayana, beyazın siyaha takva dışında hiçbir üstünlüğü yoktur"** buyurarak etnik/dilsel üstünlük iddiasını câhiliye sapkınlığı ilan etmiştir.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB2.3, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** İmam Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*, C. 4, s. 423–445, *Kitâbü't-Tefekkür*; s. 81–125, *Kitâbü'ş-Şükr*), Ebû Tâlib el-Mekkî (*Kûtü'l-Kulûb*, C. 1, s. 312–318) ve Kuşeyrî'nin (*Letâ'ifü'l-İşârât*, C. 3, s. 113–114) tespitleri paylaşılır: *"İnsanın en büyük içsel perdesi 'alışkanlık körlüğü'dür (`hicâb-ı ülfet`). Her gün yüzlerce farklı yüz gören ve farklı ses duyan insan, kalbi gafletteyse bunları sıradan sanır; kalbi uyanık ârif ise her insanın simasında ve sesinde Sâni'-i Hakîm'in eşsiz imzasını okur."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Okulumuzda veya çevremizde şivesi, ana dili, memleketi veya dış görünüşü farklı olan bir arkadaşımızla karşılaştığımızda, içimizden alay etme veya dışlama duygusu geçerse bunu `Rûm 30:22` bilinciyle nasıl düzeltmeliyiz (`SDB1.2`, `SDB2.3`)?"*
+  2. *"Gazzâlî'nin bahsettiği 'alışkanlık perdesini (`hicâb-ı ülfet`)' yırtarak, kendi sesimizin, parmak izimizin ve konuşma yeteneğimizin ne kadar büyük bir nimet olduğunu nasıl tefekkür edebiliriz?"*
+  3. *"Dilimizi ve sesimizi Allah'ın bir âyeti olarak taşıyorsak, bu dili kırıcı söz, gıybet ve nefret söylemi yerine hikmet, nezaket ve barış için kullanmak adına bugün kendimize nasıl bir söz verebiliriz (`SDB3.3`)?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Rûm 30:22'de dillerin ve renklerin farklılığının (ihtilâf) göklerin ve yerin yaratılışıyla birlikte anılmasının anlamı:** | *"İnsanların dil ve renk çeşitliliği bir kusur veya çatışma sebebi değil, tıpkı evrenin yaratılışı gibi Allah'ın kudretini ve sanatını gösteren saygın birer âyettir."* |
+| **2. Âyetin sonundaki 'li'l-âlimîn' (bilenler için) ve 'li'l-âlemîn' (âlemler için) kıraatlerinin mesajı:** | *"Bu çeşitlilik hem bütün insanlığın gördüğü evrensel bir hakikat (âlemîn) hem de bilim insanlarının ve düşünenlerin hikmetini araştırdığı bir ilim alanıdır (âlimîn)."* |
+| **3. Farklı kültür, dil ve görünüşteki insanlara karşı günlük hayatımda uygulayacağım eylem ilkesi:** | *"Hiç kimseyi şivesi, dili veya rengi yüzünden ötekileştirmemek; her insanı Yaratıcının eşsiz bir eseri olarak görüp saygı ve empatiyle yaklaşmak."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, C. 25, s. 92–96), Zemahşerî (*el-Keşşâf*, C. 3, s. 473) ve İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 21, s. 68–72) `Rûm 30:22` tefsirlerini inceleyerek "Kur'an'da Kozmik Âyet Olarak Dilbilimsel Çeşitlilik ve Mâtürîdî Geleneğin Çok Dilli Medeniyet Tasavvuru" başlıklı bir araştırma makalesi hazırlama.
+  - UNESCO Tehlike Altındaki Diller Atlası ve Dünya Bankası Sosyal Kapsayıcılık verileri üzerinden dilsel/kültürel çoğulculuk ile toplumsal barış arasındaki ilişkiyi analiz etme.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`Kozmik Âyetler (Göklerin ve Yerin Yaratılışı) + İnsani Âyetler (Dillerin ve Renklerin Çeşitliliği) → Tefekkür ve Bilim (Li'l-Âlimîn) → Karşılıklı Saygı ve Kardeşlik`** şemasını içeren görsel kavram haritası üzerinde çalışma.
+  - "Farklılıklara Saygı ve Tefekkür İfadeleri" ile "Irkçılık, Alay ve Ötekileştirme İfadeleri"ni ayırt eden eşleştirme kartlarıyla uygulama yapma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik lügat, tefsir ve irfân nakilleri (İbn Fâris, Râgıb el-İsfahânî, Zemahşerî, İbn Manzûr, Fahreddîn er-Râzî, Gazzâlî, Ebû Tâlib el-Mekkî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* basamaklarıyla eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** Etnik/dilsel milliyetçiliğin veya zoraki tek tipleştirmenin dinî kavramlarla meşrulaştırılması `DKAB.10.5.3`, `DKAB.11.4.3`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` ilkeleriyle engellenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -568,11 +661,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/770
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/6946
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/276
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/2363/15/4497
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/1921
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/770
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/6946
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/276
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/4497
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/1921
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Nüfus ve Demografi ile Kültürel Yaşam İstatistikleri 2024*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr

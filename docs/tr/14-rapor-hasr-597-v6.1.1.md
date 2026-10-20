@@ -23,7 +23,7 @@ classical_sources:
     volume: "4"
     pages: "502"
     arabic_quote: "قوله تعالى: كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ كيلا يكون الفيء الذي حقه أن يعطى الفقراء ليكون لهم بلغة يعيشون بها جدا بين الأغنياء يتكاثرون به. أو كيلا يكون دولة جاهلية بينهم"
-    verification_link: "https://shamela.ws/book/2362/17/2567"
+    verification_link: "https://shamela.ws/book/23627/2567"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "322"
     arabic_quote: "اسم الشيء الذي يتداول بعينه، والدَّوْلَة المصدر. قال تعالى: كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ [الحشر/ ٧] ، وتداول القوم كذا، أي: تناولوه من"
-    verification_link: "https://shamela.ws/book/2363/16/304"
+    verification_link: "https://shamela.ws/book/23636/304"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "2"
     pages: "314"
     arabic_quote: "الدال والواو واللام أصلان: أحدُهما يدلُّ على تحوُّل شئِ من مكان إلى مكان، والآخَر يدلُّ على ضَعْفٍ واستِرخاء."
-    verification_link: "https://shamela.ws/book/2171/10/874"
+    verification_link: "https://shamela.ws/book/21710/874"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "252"
     arabic_quote: "جَمْعُ دُولة، بِالضَّمِّ، وَهُوَ مَا يُتداوَل مِنَ الْمَالِ فَيَكُونُ لِقَوْمٍ دُونَ قَوْمٍ. الأَزهري: قَالَ الْفَرَّاءُ فِي قَوْلِهِ تَعَالَى: كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ"
-    verification_link: "https://shamela.ws/book/168/17/5432"
+    verification_link: "https://shamela.ws/book/1687/5432"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "5"
     pages: "319"
     arabic_quote: "كَيْ لا يَكُونَ دُولَةً بَيْنَ الْأَغْنِياءِ مِنْكُمْ وقوله وَالَّذِينَ جاؤُ مِنْ بَعْدِهِمْ وَقَالَ لَوْ قَسَمْتهَا بَيْنَهُمْ لَصَارَتْ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنْكُمْ"
-    verification_link: "https://shamela.ws/book/2357/19/1865"
+    verification_link: "https://shamela.ws/book/23579/1865"
     doi_or_urn: "urn:shamela:21711"
 
 modern_sources:
@@ -401,17 +401,17 @@ Haşr 59:7 âyetinin dış dünyadaki (*âfâk*) makro-iktisadi, mali ve anayasa
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
 Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe servet tekelleşmesinin (`dûle`), ihtikârın ve yoksulun hakkını gasp etmenin ardındaki bâtınî illetler; mal sevgisi (*hubbü'l-mâl*), nefsânî cimrilik (*buhl* ve *şuhh*) ve tûl-i emel olarak teşhis edilmiştir:
-- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, servet biriktirme hırsını ve dünyevî tamahı tahlil ederken; malı ilahî bir emanet ve imtihan aracı olarak değil de şahsi kudret ve üstünlük vesilesi olarak gören nefsin, kalpteki merhamet ve kardeşlik duygusunu öldürdüğünü, bu bâtınî marazın ise ancak *zühd*, *infak* ve hakiki tevekkül ile tedavi edilebileceğini ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 295–325; Dijital erişim: [shamela.ws/book/9683/295](https://shamela.ws/book/9683/295)).
-- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Zemmi'l-Buhl ve Zemmi Hubbi'l-Mâl* (Cimriliğin ve Mal Sevgisinin Kınanması) bölümünde; paranın ve servetin tıpkı toplum bedeninde dolaşan kan veya tarafsız bir hakem gibi tedavül etmek için yaratıldığını, onu *kenz* ve *dûle* yoluyla hapsedenlerin hem toplumsal nizama ihanet ettiğini hem de kendi kalplerini malın kölesi kıldığını beyan eder. Gazzâlî, *şuhh-i nefs* hastalığının panzehiri olarak cömertliğin (*sehâ*) en üst mertebesi olan *îsâr* ahlâkını (Haşr 59:9) gösterir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 231–273; Dijital erişim: [shamela.ws/book/9472/231](https://shamela.ws/book/9472/231)).
+- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, servet biriktirme hırsını ve dünyevî tamahı tahlil ederken; malı ilahî bir emanet ve imtihan aracı olarak değil de şahsi kudret ve üstünlük vesilesi olarak gören nefsin, kalpteki merhamet ve kardeşlik duygusunu öldürdüğünü, bu bâtınî marazın ise ancak *zühd*, *infak* ve hakiki tevekkül ile tedavi edilebileceğini ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 295–325; Dijital erişim: [shamela.ws/book/6875/108](https://shamela.ws/book/6875/108)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildinin *Kitâbü Zemmi'l-Buhl ve Zemmi Hubbi'l-Mâl* (Cimriliğin ve Mal Sevgisinin Kınanması) bölümünde; paranın ve servetin tıpkı toplum bedeninde dolaşan kan veya tarafsız bir hakem gibi tedavül etmek için yaratıldığını, onu *kenz* ve *dûle* yoluyla hapsedenlerin hem toplumsal nizama ihanet ettiğini hem de kendi kalplerini malın kölesi kıldığını beyan eder. Gazzâlî, *şuhh-i nefs* hastalığının panzehiri olarak cömertliğin (*sehâ*) en üst mertebesi olan *îsâr* ahlâkını (Haşr 59:9) gösterir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 231–273; Dijital erişim: [shamela.ws/book/9472/977](https://shamela.ws/book/9472/977)).
 - **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) *şuhh-i nefs* ve rant tamahını terbiye edemeyen iktisadi ve siyasi karar vericiler, dış dünyada (`âfâk`) vergi ve teşvik politikalarını dar bir sermaye oligarşisinin (`beyne'l-ağniyâi minküm`) çıkarına tahsis eder; bu sebeple `ADIM 15`'teki ulusal fey' ve refah fonu (`K1`), reel ortaklık finansmanı (`K2`) ve atıl servet/kenz vergisi (`K3`) kararları nefsânî biriktirme hırsını kamusal hukuk eliyle sınırlandırmaktadır.
 
 #### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
 Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Haşr 59:7–9 âyetlerindeki *dûle*, *şuhh-i nefs* ve *îsâr* kavramlarını kalbin dünya esaretinden kurtularak ilahî cömertlik ahlâkıyla (*el-Cevâd* ve *el-Kerîm* tecellisiyle) buluşması olarak şerh etmişlerdir:
 - **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
   - `[NAKİL]`: Kuşeyrî, Haşr 59:7–9 âyetlerinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
-    > «كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ... الإشارة فيه: لئلا تكون الدنيا محصورة في أيدي أهل الغفلة والحرص، بل تفرق على أهل الحاجة والفقر... وَمَن يُوقَ شُحَّ نَفْسِهِ فَأُولَئِكَ هُمُ الْمُفْلِحُونَ: فمن وقي شح نفسه فاز بكرامة الإيثار، وبذل الفضل في رضا الحق»
-    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 566–567; Dijital doğrulama: [shamela.ws/book/23622/566](https://shamela.ws/book/23622/566) / [altafsir.com — Letâ'ifü'l-İşârât 59:7](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=59&tAyahNo=7&tDisplay=yes)).*
-  - **Sehl b. Abdillâh et-Tüsterî (ö. 283/896), *Tefsîru't-Tüsterî*:** Erken dönem irfânî tefsirin büyük imamı Sehl et-Tüsterî de Haşr 59:7–9 âyetlerinin tefsirinde; takvânın ve felâha ermenin sırrını, kulun mülkü nefsine nispet etmeyip Allah'ın emaneti bilmesi ve kalbini *şuhh* (cimrilik ve hırs) karanlığından *îsâr* nuruna çıkarması olarak açıklar (Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 168; Dijital erişim: [shamela.ws/book/23625/168](https://shamela.ws/book/23625/168)).
+    > «كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ... ذَلِكَ لِأَنَّ تَحَرُّرَ الْقَلْبِ مِنَ الْأَعْوَاضِ وَالْأَمْلَاكِ صِفَةُ السَّادَةِ وَالْأَكَابِرِ، وَمَنْ أَسَرَتْهُ الْأَخْطَارُ وَبَقِيَ فِي شُحِّ نَفْسِهِ فَهُوَ فِي تَضْيِيقِهِ وَتَدْنِيقِهِ»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 3, s. 559; Dijital doğrulama: [shamela.ws/book/23629/1848](https://shamela.ws/book/23629/1848) / [altafsir.com — Letâ'ifü'l-İşârât 59:7](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=59&tAyahNo=7&tDisplay=yes)).*
+  - **Sehl b. Abdillâh et-Tüsterî (ö. 283/896), *Tefsîru't-Tüsterî*:** Erken dönem irfânî tefsirin büyük imamı Sehl et-Tüsterî de Haşr 59:7–9 âyetlerinin tefsirinde; takvânın ve felâha ermenin sırrını, kulun mülkü nefsine nispet etmeyip Allah'ın emaneti bilmesi ve kalbini *şuhh* (cimrilik ve hırs) karanlığından *îsâr* nuruna çıkarması olarak açıklar (Tüsterî, *Tefsîru't-Tüsterî*, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 165; Dijital erişim: [shamela.ws/book/23600/162](https://shamela.ws/book/23600/162)).
   - `[YORUM]`: Kuşeyrî'nin *"Dünya nimetleri gaflet ve hırs ehlinin ellerinde hapsolmasın, bilakis ihtiyaç ve fakr ehline dağıtılsın; kim nefsinin cimriliğinden korunursa îsâr kerametine ve Hakk'ın rızası uğrunda infak şerefine erişir"* tespiti, İslam iktisat ahlâkının hem kurumsal hem de irfânî ruhunu özetler. Mülkün hakiki sahibinin Allah olduğu (`el-Mülkü lillâh`) şuhûduna eren bir kalp, serveti bir tahakküm ve tekelleşme (`dûle`) aracına dönüştürmez; bilakis onu toplumsal bünyeyi dirilten bir rahmet ve *îsâr* dolaşımına dönüştürür.
 
 ---
@@ -519,16 +519,111 @@ Katman 3 uyarınca makroekonomik simülasyon:
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
 
-- **Öz-Denetim (Self-Audit):** Rapor boyunca kesinlik ve dogma içeren ifadelerden kaçınılmış, iktisadi önermelerin beşerî ictihad sınırları vurgulanmıştır.
-- **Geliştirme Alanı:** Gelecekte merkez bankası dijital para birimleri (CBDC) ve algoritmik vergilendirmenin dûle doktriniyle entegrasyonu modellenecektir.
-- **Temel Varsayım:** Kurumsal şeffaflık, hukuki caydırıcılık ve içsel ahlak (`takvâ / ihsân`) birleştiğinde toplumsal aktörlerin yapıcı işbirliğine yöneleceği kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Haşr 59:7 — Servetin Tabana Yayılması ve İktisadi Adalet):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Paylaşma, İktisadi Adalet, Dayanışma, Cömertlik ve Kamu Yararı.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** `"Key lâ yekûne dûleten beyne'l-ağniyâi minküm"` (Servet yalnızca içinizdeki zenginler arasında dönüp duran bir tekel olmasın!) ilkesi tahtaya yazılarak gelir dağılımı adaletsizliğinin toplumsal etkileri sorulur.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Fey'` (kamu kaynağı), `dûle` (kapalı devre servet tekeli) ve âyette sayılan kırılgan gruplar (yetimler, yoksullar, yolda kalmışlar) İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 28, s. 84–91) makâsıd (ta'lîl) tahliliyle incelenir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Servetin oligarşik tekelleşmesi (`R1`) ile zekât, vakıf, adil vergi ve üretken yatırım yoluyla tabana yayılması (`B1`) Gini katsayısı verileriyle tartışılır.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler okul veya mahalle ölçeğinde bir *Sosyal Dayanışma ve Vakıf Projesi* tasarlar.
+- **Açık Araştırma Soruları:**
+  1. İbn Âşûr'un `Haşr 59:7`'den türettiği `revâc` (servetin toplumun tüm kesimleri arasında kesintisiz ve adil dolaşımı) makâsıd ilkesi, modern kamu maliyesi, merkez bankası politikaları ve kamusal varlık fonu mimarilerine nasıl entegre edilebilir?
+  2. Dijital vakıf (*crowdfunding waqf*) ve kurumsal zekât/fey' fonları, yetim ve dar gelirli gençlerin teknoloji girişimlerine ve mesleki mülkiyete (*temlîk*) erişimini sağlamak için nasıl yapılandırılabilir?
+- **Temel Varsayım:** Geniş tabanlı satın alma gücünün, üretken istihdamın ve sosyal koruma ağlarının (`key lâ yekûne dûleten`) rantiyer servet tekelleşmesine kıyasla çok daha yüksek uzun vadeli toplumsal huzur ve iktisadi istikrar ürettiği kabul edilmiştir.
 
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Haşr Sûresi 7–9. âyetleri üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 10. ve 12. Sınıf
+- **Öğrenme Alanı / Ünite:** İslam ve Sosyal-İktisadi Hayat / Servetin Adil Dolaşımı, Tekelleşmenin (`Dûle`) Önlenmesi ve İnfak Etiği
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.10.3.5` (*İslam'ın iktisadi hayat, mülkiyet emaneti ve adil paylaşım ilkelerini analiz edebilme*)
+  - `DKAB.12.3.5` (*Güncel iktisadi ve sosyal sorunların çözümünde İslam'ın infak, zekât ve sosyal adalet ilkelerini değerlendirebilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [hükmün illeti / ta'lîl, tarihsel bağlam ve siyak-sibak] özetleyebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Açgözlü cimrilik (*şuhh-i nefs*, `Haşr 59:9`), mal biriktirme tutkusu (*tekâsür / kenz*) ve bencilliğe karşı nefsi terbiye etme.
+  - `SDB3.2` (*Sosyal Sorumluluk ve Yardımlaşma*): Yetimlerin, yoksulların ve yolda kalmışların toplumsal refahtaki öz hakkını gözetme ve *îsâr* (diğerkâmlık) bilinci geliştirme.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Tüketim, tasarruf ve paylaşımda israftan ve istifçilikten kaçınarak kamu yararını gözetme.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Hıfzu'l-Mâl* ve *Hıfzu'n-Nefs* — servetin adil dolaşımı ve insanca yaşam hakkının korunması), **Benî Nadîr Fey' Gelirlerinin Taksimi** (*sebeb-i nüzûl*), **Hz. Ömer'in Irak Sevâd Arazilerini Haşr 59:7–10 Deliliyle Kamu Vakfı Olarak Bırakma İçtihadı**, *"Hüküm illete (`key lâ yekûne dûleten`) bağlıdır"* (*ta'lîl* kaidesi) ve `Sedd-i Zerâi'` (kartelleşme, *ihtikâr*/karaborsa ve servet oligarşisinin önlenmesi).
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Haşr 59:7–9* âyetlerindeki `el-fey'`, `dûleten`, `el-ağniyâ`, `el-yetâmâ ve'l-mesâkîn`, `ibnü's-sebîl`, `şuhha nefsihî` ve `îsâr` kavramlarının analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Zemahşerî, Râgıb, İbn Fâris, Cessâs ve Hz. Ömer'in *Sevâd* içtihadı ile modern gelir dağılımı (Gini), sosyal devlet transferleri ve vakıf kurumlarının eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.10.3.5, E3.4` | **Zıt Panel / Münazara** | Sınırsız tekelleşmeyi ve istifçiliği (*kenz*) mülkiyet hakkı kisvesiyle meşrulaştıran anlayış ile özel mülkiyeti tamamen ilga eden uçların `Haşr 59:7–9` ışığında sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB3.2, DAB6` | **Konuşma Halkası** | Gazzâlî (*Kitâbü Zemmi'l-Buhl ve Zemmi Hubbi'l-Mâl*), Muhâsibî ve Kuşeyrî ekseninde *şuhh-i nefs* (açgözlü cimrilik), *tekâsür* ve *îsâr* (diğerkâmlık) muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin *dûle* kavramı, Hz. Ömer'in gelecek nesilleri gözeten içtihadı ve *şuhh–îsâr* karşıtlığını tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya **Haşr 59:7** ve devamındaki **59:9** âyetleri yansıtılır. Öğretmen *"İnsan vücudunda kan, el ve ayaklara gitmeyip sadece tek bir organda toplanırsa ne olur?"* sorusuyla `dûle` (servetin tek elde pıhtılaşması) metaforunu kurar ve öğrencilerden aşağıdaki **Anlam Çözümleme Tablosu**nu incelemelerini ister (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Râgıb / Zemahşerî`) | Siyak-Sibak ve Çağdaş İktisat / Maliye Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`مَّآ أَفَآءَ ٱللَّهُ` (`el-Fey'`)** | `f-y-'` (`فَاءَ`) kökünden if'âl bâbı mâzî fiil | Gölgenin dönmesi; savaşsız elde edilen ve asıl sahibi olan kamu yararına dönen kaynak ([Râgıb, *el-Müfredât*, s. 322](https://shamela.ws/book/23636/304)) | Kamu hazinesi gelirleri, doğal kaynaklar, vergiler ve milli servet |
+| **`دُولَةًۢ` (`Dûleten`)** | `d-v-l` (`دَالَ`) kökünden zamme ile isim | Yoksulları dışlayarak yalnızca belirli eller arasında dönüp duran kapalı devre servet ([İbn Manzûr, *Lisânü'l-Arab*, 11/252](https://shamela.ws/book/1687/5432)) | Oligarşik servet tekelleşmesi, kartelleşme ve rant ekonomisi |
+| **`كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ` (`Key lâ yekûne dûleten...`)** | `key` ta'lîl (gerekçe) edatı + nefy-i istikbâl | *"Ta ki servet yalnızca zenginler arasında dönüp duran bir tekel olmasın!"* ([Zemahşerî, *el-Keşşâf*, 4/502](https://shamela.ws/book/23627/2567)) | İslam iktisadının kurucu *Makâsıd* ilkesi: Gelir dağılımı adaleti ve anti-tekel regülasyonu |
+| **`ٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ` (`el-Yetâmâ ve'l-Mesâkîn`)** | Çoğul isimler (`y-t-m` ve `s-k-n`) | Desteksiz kalan yetimler ve geçim darlığı içindeki yoksullar | Sosyal devlet transferlerinin, bursların ve kamu bütçesinin öncelikli hak sahipleri |
+| **`ٱبْنِ ٱلسَّبِيلِ` (`İbni's-Sebîl`)** | İzâfet terkibi (yol oğlu / yolcu) | Yurdundan uzakta kalmış, barınma ve geçim imkânı kesilmiş yolcu/muhacir | Göçmenler, sığınmacılar, afetzedeler ve şehir dışındaki ihtiyaç sahibi öğrenciler |
+| **`شُحَّ نَفْسِهِۦ` (`Şuhha nefsihî` — 59:9)** | `ş-h-h` (`شَحَّ`) kökünden mastar | Sıradan cimrilikten (*buhl*) daha ağır olan, başkasının elindekine de göz diken açgözlü hırs | Bencillik, istifçilik (*kenz*), karaborsacılık (*ihtikâr*) ve empati yoksunluğu |
+| **`يُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ` (`Îsâr` — 59:9)** | `e-s-r` (`آثَرَ`) kökünden if'âl bâbı muzâri | Kendisi ihtiyaç içindeyken (`hasâsah`) dahi kardeşini kendi nefsine tercih etmek | Diğerkâmlık, gönüllü paylaşım, vakıf medeniyeti ve toplumsal kardeşlik zirvesi |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Zemahşerî (*el-Keşşâf*, C. 4, s. 502), Cessâs (*Ahkâmü'l-Kur'ân*, C. 5, s. 319) ve Hz. Ömer'in *Sevâd* arazileri içtihadı ile çağdaş iktisadi eşitsizlik ve sosyal devlet uygulamalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — Zemahşerî (*el-Keşşâf*, 4/502) & Câhiliye Reddi:**<br>Câhiliye döneminde kamu gelirleri ve ganimetler yalnızca kabile reisleri arasında paylaştırılır, zayıflar mahrum bırakılırdı; `Haşr 59:7` bu oligarşik düzeni yıkarak kırılgan kesimleri bütçenin merkezine yerleştirdi. | **K2 — Çağdaş Vaka A (Gelir Dağılımı Eşitsizliği ve Gini Katsayısı):**<br>Küresel servetin dar bir finansal elit elinde toplanması (`dûle`), orta sınıfın erimesi ve çalışan yoksulluğunun derinleşmesi (Dünya Eşitsizlik Raporu / `WIR` verileri). | **K3 — Hz. Ömer'in Irak Sevâd Arazileri İçtihadı (Cessâs, *Ahkâm*, 5/319):**<br>Hz. Ömer, fethedilen verimli Irak arazilerini komutanlar arasında bölmeyi reddetmiş; `Haşr 59:7–10` âyetlerini okuyarak *"Bölersem servet zenginler arasında dûle olur ve gelecek nesillere (`59:10`) bir şey kalmaz"* diyerek arazileri kamu vakfı yapmıştır ([Şâmile: 23579/1865](https://shamela.ws/book/23579/1865)). |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Kuşaklararası Adalet ve Kamu Varlık Fonları):**<br>Doğal kaynakların, madenlerin ve kamusal alanların dar bir gruba devredilmeyip eğitim, sağlık, altyapı ve gelecek nesillerin refahı için korunması. | **K5 — İbn Fâris (*Makâyîs*, 2/314) & İbn Âşûr (*Revâc* İlkesi):**<br>`D-v-l` kökü tedavül/dolaşım demektir ([Şâmile: 21710/874](https://shamela.ws/book/21710/874)). İbn Âşûr'a göre İslam iktisadının gayesi servetin atıl biriktirilmesi (*kenz*) değil, üretim ve ticaretle tüm toplumda adil dolaşımıdır (*revâc*). | **K6 — Çağdaş Vaka C (Anti-Tekel Regülasyonu ve Üretken Ekonomi):**<br>Kartelleşme, stokçuluk (*ihtikâr*) ve spekülatif rant yerine reel üretimin, KOBİ'lerin ve genç girişimciliğin desteklenmesi. |
+| **K7 — Haşr 59:9 Şuhh ve Îsâr Diyalektiği:**<br>*"Kim nefsinin açgözlü cimriliğinden (`şuhh`) korunursa, işte onlar kurtuluşa erenlerdir."* Medineli Ensâr, Muhacir kardeşlerini kendi nefislerine tercih etmiştir (`îsâr`). | **K8 — Çağdaş Vaka D (Vakıf Medeniyeti, Zekât ve Sosyal Dayanışma):**<br>Zorunlu mali yükümlülüklerin (zekât ve adil vergi) gönüllü vakıf, burs ve sosyal girişim ağlarıyla tamamlanarak toplumsal uçurumun kapatılması. | **K9 — Gazzâlî & Muhâsibî Kalp Fıkhı (*Zemmü'l-Buhl*):**<br>Servet tekelleşmesinin bâtınî sebebi, kalpteki *şuhh* (açgözlü cimrilik), *tekâsür* (çoğaltma yarışı) ve mülkün gerçek sahibinin Allah olduğunu unutmaktır. |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Oligarşik Tekelleşmenin (Dûle) Reddi ve Kuşaklararası Kamu Maliyesi Eşleştirmesi:* **`K1 ↔ K2 ↔ K3 ↔ K4`** (Câhiliye elitizminin yıkılması ve Hz. Ömer'in `59:7–10` içtihadı ile modern gelir dağılımı adaleti ve gelecek nesillerin hakkı).
+  2. *Servetin Üretken Dolaşımı (Revâc) ve Anti-Tekel Eşleştirmesi:* **`K5 ↔ K6`** (`D-v-l` tedavül kökü ve İbn Âşûr'un *revâc* ilkesi ile stokçuluk/kartelleşmenin önlenmesi).
+  3. *Kalp Tezkiyesi (Şuhh'tan Îsâr'a) ve Vakıf Ahlakı Eşleştirmesi:* **`K7 ↔ K8 ↔ K9`** (`Haşr 59:9` *şuhh–îsâr* dengesi ile vakıf medeniyeti ve Gazzâlî'nin cömertlik fıkhı).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.10.3.5, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"İktisadi bir tartışmada Konuşmacı A, 'İslam özel mülkiyeti kutsal sayar; dolayısıyla piyasada tekelleşmek, temel gıda ve konutları stoklayıp fiyatları yükseltmek ve servetin küçük bir azınlıkta toplanması mülkiyet özgürlüğünün doğal sonucudur' iddiasında bulunmaktadır. Konuşmacı B ise 'Haşr 59:7 servetin zenginlerde olmasını yasaklamıştır; öyleyse İslam'da bireysel mülkiyet ve ticaret tamamen yasaklanmalıdır' demektedir. Öğrenciler her iki iddiayı Haşr 59:7–9 ve fıkıh usulüyle sorgular."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Mülkiyet hakkını bahane ederek tekelleşmeyi, karaborsacılığı (*ihtikâr*) ve servetin dar bir zümrede toplanmasını meşru görmek, Haşr 59:7'deki `key lâ yekûne dûleten beyne'l-ağniyâi minküm` (içinizden yalnız zenginler arasında dönüp duran bir tekel olmasın) illetini nasıl ihlal etmektedir (`DKAB.10.3.5`, `DKAB.11.4.3`)?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** İslam'da mülkiyet sınırsız ve sorumsuz bir tahakküm hakkı değil, toplumsal haklarla kayıtlı bir **emanet**tir. Serveti dolaşımdan çekip yoksulları dışlayan tekelleşme (`dûle`), istifçilik (`kenz`, `Tevbe 9:34`) ve karaborsacılık (`ihtikâr`; Müslim, *Müsâkât*, 129: *"Karaborsacılık yapan ancak günahkârdır"*) açıkça haram kılınmıştır.
+  2. **Soru 2 (Sorgulayıcı Grup):** *"Peki Haşr 59:7 âyeti meşru ticareti, alın teriyle kazanılan özel mülkiyeti ve girişimciliği ortadan kaldırır mı?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** Kaldırmaz; bilakis hemen devamındaki `Haşr 59:8–9` âyetlerinde Ensâr'ın kendi mülklerini ve evlerini gönüllü olarak Muhacir kardeşleriyle paylaşması (`îsâr`) övülmektedir. Mülkiyet olmasaydı zekât, infak, vakıf ve `îsâr` da olmazdı. Kur'an'ın yasakladığı şey meşru mülkiyet ve üretim değil; kamu kaynaklarının ve piyasanın dar bir oligarşi tarafından tekelleştirilmesidir (`dûle`).
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB3.2, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** İmam Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*, C. 3, s. 231–265, *Kitâbü Zemmi'l-Buhl ve Zemmi Hubbi'l-Mâl*), Hâris el-Muhâsibî (*el-Mekâsib*, s. 54–70) ve Kuşeyrî'nin (*Letâ'ifü'l-İşârât*, C. 3, s. 565–567) tespitleri paylaşılır: *"Haşr 59:7 dış dünyadaki servet tekelleşmesini (`dûle`) yasaklarken, 59:9 bunun kalpteki kökünü teşhis eder: `Şuhh-i nefs` (tutkulu ve bencil cimrilik). Kalp `şuhh`tan arınmadıkça `îsâr` (kardeşini kendine tercih etme) ahlakına ulaşamaz."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Günlük hayatımızda sahip olduğumuz imkânları (bilgimizi, zamanımızı, harçlığımızı, eşyalarımızı) sadece kendimiz ve yakın çevremiz için mi saklıyoruz (`dûle`), yoksa ihtiyaç sahibi arkadaşlarımızla paylaşıyor muyuz (`SDB1.2`, `SDB3.2`)?"*
+  2. *"Sosyal medyadaki gösterişçi tüketim ve 'daha fazlasına sahip olma' yarışı (*tekâsür*), kalbimizde `şuhh` (açgözlülük) duygusunu nasıl tetikliyor ve buna karşı nasıl öz denetim kurabiliriz (`SDB3.3`)?"*
+  3. *"Medineli Ensâr'ın kendileri darlık içindeyken bile Muhacir kardeşlerini kendilerine tercih etmeleri (`îsâr`), bugün bizim okul ve mahalle dayanışmamıza nasıl ilham verebilir?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Haşr 59:7'deki 'key lâ yekûne dûleten beyne'l-ağniyâi minküm' ilkesinin iktisadi anlamı:** | *"Servetin ve kamu kaynaklarının yoksulları dışlayarak yalnızca zenginler arasında elden ele dolaşan bir tekel haline gelmesinin önlenmesi."* |
+| **2. Hz. Ömer'in Irak (Sevâd) arazilerini Haşr 59:7–10 deliliyle kamu vakfı bırakmasının hikmeti:** | *"Toprak ve servetin küçük bir zümrede tekelleşmesini önlemek ve gelecek nesillerin de kamu gelirlerinden yararlanmasını güvenceye almak."* |
+| **3. Haşr 59:9'daki 'Şuhh' (açgözlü cimrilik) ile 'Îsâr' (diğerkâmlık) kavramlarından çıkardığım ders:** | *"Bencillik ve gösterişçi biriktirme hırsından (şuhh) korunup, ihtiyaç sahiplerini gözeterek paylaşma (îsâr) bilinciyle yaşamak."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Cessâs (*Ahkâmü'l-Kur'ân*, C. 5, s. 319), Ebû Yûsuf (*Kitâbü'l-Harâc*, s. 24–38) ve İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 28, s. 84–91) `Haşr 59:7–10` tahlillerini inceleyerek "Hz. Ömer'in Sevâd İçtihadından Modern Kamu Varlık Fonlarına: İslam İktisadında Kuşaklararası Dağıtıcı Adalet" başlıklı bir araştırma raporu hazırlama.
+  - Dünya Bankası (`WGI`) ve Dünya Eşitsizlik Raporu (`WIR`) verileri üzerinden Gini katsayısı yüksek olan ülkelerdeki sosyal kırılganlıkları `dûle` kavramıyla analiz etme.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`Kamu Kaynakları ve Milli Servet (Fey') → Tekelleşmenin Önlenmesi (Anti-Dûle) → Yetim, Yoksul ve Yolcunun Korunması → Diğerkâmlık ve Paylaşım (Îsâr)`** basamaklarını gösteren görsel akış şeması üzerinde çalışma.
+  - "Paylaşım, Vakıf ve Îsâr Örnekleri" ile "İstifçilik (`Kenz`), Tekelcilik (`Dûle`) ve Cimrilik (`Şuhh`) Örnekleri"ni içeren eşleştirme kartlarıyla uygulama yapma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik lügat, tefsir, ahkâm ve irfân nakilleri (İbn Fâris, Râgıb el-İsfahânî, Zemahşerî, İbn Manzûr, Cessâs, Muhâsibî, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* basamaklarıyla eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** Mülkiyet kavramının oligarşik tekelleşmeyi (`dûle`) ve karaborsacılığı meşrulaştırmak için istismar edilmesi veya tersine meşru mülkiyetin ilga edilmesi `DKAB.10.3.5`, `DKAB.12.3.5`, `DKAB.11.4.3`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` ilkeleriyle engellenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -569,11 +664,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/2357/19/1865
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/874
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/5432
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/304
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/2567
+- **Cessâs, Ebû Bekr Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sâdık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1405/1985. Erişim: https://shamela.ws/book/23579/1865
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/874
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/5432
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/304
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/2567
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Türkiye İstatistik Kurumu [TÜİK] (2024).** *Gelir ve Yaşam Koşulları ile Yoksulluk ve Yaşam Kalitesi Araştırması 2024*. Ankara: TÜİK Yayınları. Erişim adresi: https://data.tuik.gov.tr

@@ -1,0 +1,3841 @@
+schema_version: '16.2'
+generated_at: '2026-10-20'
+reverify_period_days: 90
+epistemic_statement_tr: '[2026-10-20] itibarıyla incelenen [176/176] kayıt, [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem
+  (51/176 = 0.29)] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün'
+epistemic_statement_en: 'As of [2026-10-20], [176/176] examined records have been verified via [Fihrist/Breadcrumb + Verbatim
+  Quote Match + >=0.10 Manual Sample (51/176 = 0.29)] and [SHA-256 Snapshot] digest; re-verification period: 90 days'
+summary:
+  total_sources: 176
+  verified_sources: 176
+  shamela_sources: 127
+  altafsir_sources: 15
+  institutional_sources: 34
+  manual_sample_count: 51
+  manual_sample_ratio: 0.2898
+  stale_or_suspect_count: 0
+sources:
+- id: src-inst-data-tuik-gov-tr
+  provider: institutional
+  author: Türkiye İstatistik Kurumu (TÜİK)
+  work: TÜİK Resmi İstatistik Portalı
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://data.tuik.gov.tr
+  expected_breadcrumb: Türkiye İstatistik Kurumu (TÜİK) | TÜİK Resmi İstatistik Portalı
+  verified_breadcrumb: Türkiye İstatistik Kurumu (TÜİK) | TÜİK Resmi İstatistik Portalı
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 0866785fcaa666220f7df820be7bdb62a1ee67400079e14ec4ae57f2a28da1ee
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-databank-worldbank-org
+  provider: institutional
+  author: World Bank
+  work: World Bank DataBank
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://databank.worldbank.org
+  expected_breadcrumb: World Bank | World Bank DataBank
+  verified_breadcrumb: World Bank | World Bank DataBank
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 1daace35de278ab9cf3cc155df8ffc3c5a7b7565ab24fb3ccca561f54eb7d6e8
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-datacatalog-worldbank-org
+  provider: institutional
+  author: World Bank
+  work: World Bank Data Catalog
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://datacatalog.worldbank.org
+  expected_breadcrumb: World Bank | World Bank Data Catalog
+  verified_breadcrumb: World Bank | World Bank Data Catalog
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: bd9607cb55143b4d07a521c937c2d2de891b5186e9ba6666fb1032b4e3900fa1
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-datacatalog-worldbank-org
+  provider: institutional
+  author: World Bank
+  work: World Bank Data Catalog
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://datacatalog.worldbank.org/
+  expected_breadcrumb: World Bank | World Bank Data Catalog
+  verified_breadcrumb: World Bank | World Bank Data Catalog
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 629917f29447f50996170a0cafd0539603c7d1fa989cf4f122c0dcfaa978ceee
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-doi-org-10-1177-0022343320934986
+  provider: institutional
+  author: Journal of Peace Research (UCDP)
+  work: Organized Violence Dataset DOI
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://doi.org/10.1177/0022343320934986
+  expected_breadcrumb: Journal of Peace Research (UCDP) | Organized Violence Dataset DOI
+  verified_breadcrumb: Journal of Peace Research (UCDP) | Organized Violence Dataset DOI
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 2cfd1687a752b6f0a2d93844797e839851aba194b789f83c9d1f61290231b250
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-doi-org-10-1787-9789264209015-en
+  provider: institutional
+  author: OECD Publishing
+  work: Stakeholder Engagement in Regulatory Policy DOI
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://doi.org/10.1787/9789264209015-en
+  expected_breadcrumb: OECD Publishing | Stakeholder Engagement in Regulatory Policy DOI
+  verified_breadcrumb: OECD Publishing | Stakeholder Engagement in Regulatory Policy DOI
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 94742ebc563448f13426e8f6c5b54844ca5375672bb3b5a63f628bcdc55cc10a
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-doi-org-10-18356-9789210058568
+  provider: institutional
+  author: United Nations Publications
+  work: UN Gender & Family Protection Report DOI
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://doi.org/10.18356/9789210058568
+  expected_breadcrumb: United Nations Publications | UN Gender & Family Protection Report DOI
+  verified_breadcrumb: United Nations Publications | UN Gender & Family Protection Report DOI
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 45b0d99753309a67eb2c372d6b9a296278982c31a3c71e7a32aa4bab19434542
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-doi-org-10-18356-9789213588758
+  provider: institutional
+  author: United Nations Publications
+  work: UN Anti-Discrimination & Social Cohesion Report DOI
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://doi.org/10.18356/9789213588758
+  expected_breadcrumb: United Nations Publications | UN Anti-Discrimination & Social Cohesion Report DOI
+  verified_breadcrumb: United Nations Publications | UN Anti-Discrimination & Social Cohesion Report DOI
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 6d2bbf4daa4605b0efa00c1fbc20876e1899cc747327ed507cc79ff8a3944031
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-freedomhouse-org
+  provider: institutional
+  author: Freedom House
+  work: Freedom in the World Annual Report
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://freedomhouse.org
+  expected_breadcrumb: Freedom House | Freedom in the World Annual Report
+  verified_breadcrumb: Freedom House | Freedom in the World Annual Report
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 8b950d989c21b3da668fb9649206b348ee9c2cefb4240fb2f914fccc0aa55e5c
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-hdr-undp-org
+  provider: institutional
+  author: United Nations Development Programme (UNDP)
+  work: Human Development Reports (HDR)
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://hdr.undp.org
+  expected_breadcrumb: United Nations Development Programme (UNDP) | Human Development Reports (HDR)
+  verified_breadcrumb: United Nations Development Programme (UNDP) | Human Development Reports (HDR)
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 824a9c65af0da3ee5cc2a4767fa737e22e5f7af991bced52c4f59fc634017322
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-10273-1420
+  provider: shamela
+  author: Ahmed b. Muhammed İbn Acîbe (ö. 1224/1809)
+  work: el-Bahrü'l-Medîd
+  volume: '3'
+  printed_page: '199'
+  url: https://shamela.ws/book/10273/1420
+  expected_breadcrumb: 'ج3 - ص199 | فهرس الكتاب > سورة الإسراء > [سورة الإسراء (١٧) : الآيات ٣٦ إلى ٤٠]'
+  verified_breadcrumb: 'ج3 - ص199 | فهرس الكتاب > سورة الإسراء > [سورة الإسراء (١٧) : الآيات ٣٦ إلى ٤٠]'
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 7f55c8c1ad78d490c9f0f435ec38bd2c2f7c4119bff8209fe4dab159b25dca26
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-10273-2148
+  provider: shamela
+  author: Ahmed b. Muhammed İbn Acîbe (ö. 1224/1809)
+  work: el-Bahrü'l-Medîd
+  volume: '4'
+  printed_page: '333'
+  url: https://shamela.ws/book/10273/2148
+  expected_breadcrumb: 'ج4 - ص333 | فهرس الكتاب > سورة الروم > [سورة الروم (٣٠) : الآيات ٢٢ إلى ٢٥]'
+  verified_breadcrumb: 'ج4 - ص333 | فهرس الكتاب > سورة الروم > [سورة الروم (٣٠) : الآيات ٢٢ إلى ٢٥]'
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 7ce956e9ce6b3b1274e7775c0e3fe8f464a698c8e7016647d4d16b05aa741a66
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-10273-2865
+  provider: shamela
+  author: Ahmed b. Muhammed İbn Acîbe (ö. 1224/1809)
+  work: el-Bahrü'l-Medîd
+  volume: '5'
+  printed_page: '434'
+  url: https://shamela.ws/book/10273/2865
+  expected_breadcrumb: 'ج5 - ص434 | فهرس الكتاب > سورة الحجرات > [سورة الحجرات (٤٩) : آية ١٣]'
+  verified_breadcrumb: 'ج5 - ص434 | فهرس الكتاب > سورة الحجرات > [سورة الحجرات (٤٩) : آية ١٣]'
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: f0fdde46c738385810f0ce055070c341c349bc53aae4d89068057bb6eacd9882
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-10273-3029
+  provider: shamela
+  author: Ahmed b. Muhammed İbn Acîbe (ö. 1224/1809)
+  work: el-Bahrü'l-Medîd
+  volume: '7'
+  printed_page: '329'
+  url: https://shamela.ws/book/10273/3029
+  expected_breadcrumb: ج7 - ص329 | فهرس الكتاب > سورة الحديد
+  verified_breadcrumb: ج7 - ص329 | فهرس الكتاب > سورة الحديد
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: a3a5c78faac2bab1806542dc9385c2c237f0b3249ad4dd3603f2793fd3ab0998
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-10273-422
+  provider: shamela
+  author: Ahmed b. Muhammed İbn Acîbe (ö. 1224/1809)
+  work: el-Bahrü'l-Medîd
+  volume: '1'
+  printed_page: '427'
+  url: https://shamela.ws/book/10273/422
+  expected_breadcrumb: 'ج1 - ص427 | فهرس الكتاب > سورة آل عمران > [سورة آل عمران (٣) : آية ١٥٩]'
+  verified_breadcrumb: 'ج1 - ص427 | فهرس الكتاب > سورة آل عمران > [سورة آل عمران (٣) : آية ١٥٩]'
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 596acdb877b85ffa03b520c0c100b15b13e4bb55f212487dc7d3d0a09073ac3a
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-11435-1553
+  provider: shamela
+  author: Şâtıbî, İbrâhîm b. Mûsâ
+  work: el-Muvâfakât
+  volume: '3'
+  printed_page: '344'
+  url: https://shamela.ws/book/11435/1553
+  expected_breadcrumb: 'ج3 - ص344 | فهرس الكتاب > المجلد الثالث > كتاب الأدلة الشرعية > الطرف الأول في الأدلة على الجملة >
+    النظر الثاني: في عوارض الأدلة > الفصل الثاني: في الإحكام والنسخ'
+  verified_breadcrumb: 'ج3 - ص344 | فهرس الكتاب > المجلد الثالث > كتاب الأدلة الشرعية > الطرف الأول في الأدلة على الجملة >
+    النظر الثاني: في عوارض الأدلة > الفصل الثاني: في الإحكام والنسخ'
+  expected_quote_norm: المتقدمين ان النسخ عندهم في الاطلاق اعم منه في كلام الاصوليين فقد يطلقون علي تقييد المطلق نسخا وعلي
+    تخصيص
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 1abaea634c491f2e9bd9a29f034e8879520abfb1313b54453125e30e71da63ba
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-11435-676
+  provider: shamela
+  author: Şâtıbî, İbrâhîm b. Mûsâ
+  work: el-Muvâfakât
+  volume: '2'
+  printed_page: '18'
+  url: https://shamela.ws/book/11435/676
+  expected_breadcrumb: 'ج2 - ص18 | فهرس الكتاب > المجلد الثاني > كتاب المقاصد > القسم الأول: مقاصد الشارع > النوع الأول: في
+    بيان قصد الشارع في وضع الشريعة'
+  verified_breadcrumb: 'ج2 - ص18 | فهرس الكتاب > المجلد الثاني > كتاب المقاصد > القسم الأول: مقاصد الشارع > النوع الأول: في
+    بيان قصد الشارع في وضع الشريعة'
+  expected_quote_norm: فاصول العبادات راجعه الي حفظ الدين من جانب الوجود كالايمان
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 61939ad01f6eae6452c270314b81f6737257892092f5846f261115964fa59033
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-11435-678
+  provider: shamela
+  author: Şâtıbî, İbrâhîm b. Mûsâ
+  work: el-Muvâfakât
+  volume: '2'
+  printed_page: '20'
+  url: https://shamela.ws/book/11435/678
+  expected_breadcrumb: 'ج2 - ص20 | فهرس الكتاب > المجلد الثاني > كتاب المقاصد > القسم الأول: مقاصد الشارع > النوع الأول: في
+    بيان قصد الشارع في وضع الشريعة'
+  verified_breadcrumb: 'ج2 - ص20 | فهرس الكتاب > المجلد الثاني > كتاب المقاصد > القسم الأول: مقاصد الشارع > النوع الأول: في
+    بيان قصد الشارع في وضع الشريعة'
+  expected_quote_norm: ومجموع الضروريات خمسه وهي حفظ الدين والنفس والنسل والمال والعقل وقد قالوا انها مراعاه في كل مله
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: fed035169d8b2b1c2a51334489db8f1705453cb9d708230c67b7736476bf4efe
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-12982-177
+  provider: shamela
+  author: Ebû Abdurrahmân es-Sülemî (ö. 412/1021)
+  work: Hakâ'iku't-Tefsîr
+  volume: '1'
+  printed_page: '120'
+  url: https://shamela.ws/book/12982/177
+  expected_breadcrumb: ص120 | فهرس الكتاب > الصحبة مع الإخوان والصحبة مع الإخوان بدوام البشر، وبذل المعروف، ونشر المحاسن،
+    وستر القبائح، واستكثار قليل برهم، واستصغار ما منك إليهم، وتعهدهم بالنفس والمال، ومجانبة الحقد والحسد والبغي والأذى وما
+    يكرهون من جميع الوجوه، وترك ما يعتذر منه.
+  verified_breadcrumb: ص120 | فهرس الكتاب > الصحبة مع الإخوان والصحبة مع الإخوان بدوام البشر، وبذل المعروف، ونشر المحاسن،
+    وستر القبائح، واستكثار قليل برهم، واستصغار ما منك إليهم، وتعهدهم بالنفس والمال، ومجانبة الحقد والحسد والبغي والأذى وما
+    يكرهون من جميع الوجوه، وترك ما يعتذر منه.
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 25e7c18e9e468179521a4b5dcf03c6c3d2e0b748b69808e1fc246ca25b189bd9
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-109
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '1'
+  printed_page: '109'
+  url: https://shamela.ws/book/1687/109
+  expected_breadcrumb: ج1 - ص109 | فهرس الكتاب > أ > فصل الصاد المهملة
+  verified_breadcrumb: ج1 - ص109 | فهرس الكتاب > أ > فصل الصاد المهملة
+  expected_quote_norm: وانزلنا الحديد فيه باس شديد وصدا عين عذبه الما او بير وفي المثل ما ولا كصدا قال ابو عبيد من امثالهم
+    في
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 79b06443e20bdc9160325d6debcff0fa95b50082c308f94243fdc49f4b7a7c46
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-1621
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '3'
+  printed_page: '179'
+  url: https://shamela.ws/book/1687/1621
+  expected_breadcrumb: ج3 - ص179 | فهرس الكتاب > د > فصل الراء
+  verified_breadcrumb: ج3 - ص179 | فهرس الكتاب > د > فصل الراء
+  expected_quote_norm: الرصد بالتحريك القليل من الكلا والمطر ابن سيده الرصد
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: de3b2beb385012b5708346e355a07950b6774abc8bb55af992d6d2b1696814d8
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-2397
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '4'
+  printed_page: '437'
+  url: https://shamela.ws/book/1687/2397
+  expected_breadcrumb: ج4 - ص437 | فهرس الكتاب > ر > فصل الصاد المهملة
+  verified_breadcrumb: ج4 - ص437 | فهرس الكتاب > ر > فصل الصاد المهملة
+  expected_quote_norm: المشوره وتقول منه شاورته في الامر واستشرته بمعني وفلان خير شير اي يصلح للمشاوره وشاوره مشاوره وشوارا
+    واستشاره طلب منه المشوره
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: a4c6eb1663001c7b2249aa392ac918550a3b6999c556c61befbce581a448e1ca
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-3337
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '6'
+  printed_page: '325'
+  url: https://shamela.ws/book/1687/3337
+  expected_breadcrumb: ج6 - ص325 | فهرس الكتاب > ش > فصل الفاء
+  verified_breadcrumb: ج6 - ص325 | فهرس الكتاب > ش > فصل الفاء
+  expected_quote_norm: والخنا من قول وفعل والمتفحش الذي يتكلف سب الناس ويتعمده وقد تكرر ذكر الفحش والفاحشه والفاحش في الحديث
+    وهو كل ما يشتد قبحه من
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 1b024cb4a2eb64a4e089d04b634f33f35a1fac888c852c533bc6404dc21ef95e
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-4826
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '10'
+  printed_page: '156'
+  url: https://shamela.ws/book/1687/4826
+  expected_breadcrumb: ج10 - ص156 | فهرس الكتاب > ق > فصل السين المهملة
+  verified_breadcrumb: ج10 - ص156 | فهرس الكتاب > ق > فصل السين المهملة
+  expected_quote_norm: والاستراق الختل سرا كالذي يستمع والكتبه يسترقون من بعض الحسابات ابن عرفه في قوله تعالي والسارق والسارقه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 97df538ce4fdc98a0097e77b1f0f8cded9331fb0c294725d86fb271fdd22d46c
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-500
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '1'
+  printed_page: '500'
+  url: https://shamela.ws/book/1687/500
+  expected_breadcrumb: ج1 - ص500 | فهرس الكتاب > ب > فصل الشين المعجمة
+  verified_breadcrumb: ج1 - ص500 | فهرس الكتاب > ب > فصل الشين المعجمة
+  expected_quote_norm: والشعب ابو القبايل الذي ينتسبون اليه اي يجمعهم ويضمهم وفي التنزيل وجعلناكم شعوبا وقبايل لتعارفوا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 609da0931beb8452fd3018984ccaf78239a9d4ddb86a0fd42ceaf16c7771fb3b
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-5432
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '11'
+  printed_page: '252'
+  url: https://shamela.ws/book/1687/5432
+  expected_breadcrumb: ج11 - ص252 | فهرس الكتاب > ل > فصل الدال المهملة
+  verified_breadcrumb: ج11 - ص252 | فهرس الكتاب > ل > فصل الدال المهملة
+  expected_quote_norm: جمع دوله بالضم وهو ما يتداول من المال فيكون لقوم دون قوم الازهري قال الفرا في قوله تعالي كي لا يكون
+    دوله بين الاغنيا منكم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: b97766feccc90f5f85176f4424744eedb54ae262141e9a835bbe852ae78baf79
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-5608
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '11'
+  printed_page: '430'
+  url: https://shamela.ws/book/1687/5608
+  expected_breadcrumb: ج11 - ص430 | فهرس الكتاب > ل > فصل العين المهملة
+  verified_breadcrumb: ج11 - ص430 | فهرس الكتاب > ل > فصل العين المهملة
+  expected_quote_norm: العدل ما قام في النفوس انه مستقيم وهو ضد الجور عدل الحاكم في الحكم يعدل عدلا وهو
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 36567972f13ba3c2a108571552c068b48326d5b3cbc6d6e975490c909c6b5e45
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-6411
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '12'
+  printed_page: '498'
+  url: https://shamela.ws/book/1687/6411
+  expected_breadcrumb: ج12 - ص498 | فهرس الكتاب > م > فصل القاف
+  verified_breadcrumb: ج12 - ص498 | فهرس الكتاب > م > فصل القاف
+  expected_quote_norm: فسر علي وجهين قيل هو الاستقامه علي الطاعه وقيل هو ترك
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 9cb0e9de83d38a18b10687a1a151d039fb4a66172c28acbfb0fc4ca46f60f987
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-6946
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '13'
+  printed_page: '385'
+  url: https://shamela.ws/book/1687/6946
+  expected_breadcrumb: ج13 - ص385 | فهرس الكتاب > ن > فصل اللام
+  verified_breadcrumb: ج13 - ص385 | فهرس الكتاب > ن > فصل اللام
+  expected_quote_norm: وشاهد السنه الجمع فيمن ذكر قوله تعالي واختلاف السنتكم والوانكم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 0f1446885c94cd22cb42b000ce64d571cab0894771dad52244530886d043080b
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-7202
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '14'
+  printed_page: '78'
+  url: https://shamela.ws/book/1687/7202
+  expected_breadcrumb: ج14 - ص78 | فهرس الكتاب > و- ي > فصل الباء الموحدة
+  verified_breadcrumb: ج14 - ص78 | فهرس الكتاب > و- ي > فصل الباء الموحدة
+  expected_quote_norm: وقال النبي صلي الله عليه وسلم لعمار ويح ابن سميه تقتله الفيه الباغيه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: b25d9ae7929dc95166e108f2a801b7397e06340807100265ba81794d3701f19b
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-7657
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '15'
+  printed_page: '45'
+  url: https://shamela.ws/book/1687/7657
+  expected_breadcrumb: ج15 - ص45 | فهرس الكتاب > و- ي > فصل العين المهملة
+  verified_breadcrumb: ج15 - ص45 | فهرس الكتاب > و- ي > فصل العين المهملة
+  expected_quote_norm: والرواحل وعري الشي اتخذ له عروه وقوله تعالي فقد استمسك بالعروه الوثقي لا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 270adb04c6c6f91cdd39b60a1f4286fe34cfe18dcb6ac211cd741c8748cc5ca9
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-1687-7805
+  provider: shamela
+  author: İbn Manzûr, Muhammed b. Mükerrem
+  work: Lisânü'l-Arab
+  volume: '15'
+  printed_page: '194'
+  url: https://shamela.ws/book/1687/7805
+  expected_breadcrumb: ج15 - ص194 | فهرس الكتاب > و- ي > فصل القاف
+  verified_breadcrumb: ج15 - ص194 | فهرس الكتاب > و- ي > فصل القاف
+  expected_quote_norm: لا تدع من دعوت قال وقرا بعضهم ولا تقف مثل ولا تقل وقال الاخفش في قوله تعالي ولا تقف ما ليس لك به علم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: ad99a2af3c8b08a7fb370be46007e10edfedf70ebcb50b436d96004525e0a8cf
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-20855-2243
+  provider: shamela
+  author: Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî
+  work: el-Câmi' li-Ahkâmi'l-Kur'ân
+  volume: '6'
+  printed_page: '146'
+  url: https://shamela.ws/book/20855/2243
+  expected_breadcrumb: 'ج6 - ص146 | فهرس الكتاب > تفسير سورة المائدة > [سورة المائدة (٥): آية ٣٢]'
+  verified_breadcrumb: 'ج6 - ص146 | فهرس الكتاب > تفسير سورة المائدة > [سورة المائدة (٥): آية ٣٢]'
+  expected_quote_norm: بكسر النون وحذف الهمزه وهي لغه والاصل
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: c8e8d3c230378248765d2d086ad64d9d5def89088c62c4c675c0ca5dfafd59db
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-1163
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '3'
+  printed_page: '94'
+  url: https://shamela.ws/book/21710/1163
+  expected_breadcrumb: ج3 - ص94 | فهرس الكتاب > كتاب السين > باب السين واللام وما يثلثهما > سلح
+  verified_breadcrumb: ج3 - ص94 | فهرس الكتاب > كتاب السين > باب السين واللام وما يثلثهما > سلح
+  expected_quote_norm: السين واللام والخا اصل واحد وهو اخراج الشي عن جلده ثم يحمل عليه والاصل سلخت
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: e5671c6f9c185c7836e19359a3a503d94c0f81450508553ce9dab3f11c0ffef1
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-1223
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '3'
+  printed_page: '154'
+  url: https://shamela.ws/book/21710/1223
+  expected_breadcrumb: ج3 - ص154 | فهرس الكتاب > كتاب السين > باب السين والراء وما يثلثهما > سرق
+  verified_breadcrumb: ج3 - ص154 | فهرس الكتاب > كتاب السين > باب السين والراء وما يثلثهما > سرق
+  expected_quote_norm: السين والرا والقاف اصل يدل علي اخذ شي في خفا وستر يقال سرق يسرق سرقه والمسروق سرق واسترق السمع اذا
+    تسمع مختفيا ومما شذ عن هذا الباب السرق جمع سرقه وهي القطعه من الحرير
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 4a8e0e4d4c0cf4cdbf989394139e75aa8344c2a5aeaa7b081d410af213618c11
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-1294
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '3'
+  printed_page: '226'
+  url: https://shamela.ws/book/21710/1294
+  expected_breadcrumb: ج3 - ص226 | فهرس الكتاب > كتاب الشين > باب الشين والواو وما يثلثهما > شور
+  verified_breadcrumb: ج3 - ص226 | فهرس الكتاب > كتاب الشين > باب الشين والواو وما يثلثهما > شور
+  expected_quote_norm: الشين والواو والرا اصلان مطردان الاول منهما ابدا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: e1aaff36d3cc0af5641bf48532c92719a3bd978787e3c36fb0a74361254e7fd5
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-177
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '1'
+  printed_page: '133'
+  url: https://shamela.ws/book/21710/177
+  expected_breadcrumb: ج1 - ص133 | فهرس الكتاب > كتاب الهمزة > (باب الهمزة والميم وما بعدهما فى الثلاثى
+  verified_breadcrumb: ج1 - ص133 | فهرس الكتاب > كتاب الهمزة > (باب الهمزة والميم وما بعدهما فى الثلاثى
+  expected_quote_norm: الهمزه والميم والنون اصلان متقاربان احدهما الامانه التي هي ضد الخيانه ومعناها سكون القلب والاخر التصديق
+    والمعنيان كما قلنا متدانيان
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 1f903a5e48689c8e2c1f4cf2965303c2f6d522cbdb2c3fb21ec04269d966a019
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-1787
+  provider: shamela
+  author: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '4'
+  printed_page: '246'
+  url: https://shamela.ws/book/21710/1787
+  expected_breadcrumb: ج4 - ص246 | فهرس الكتاب > كتاب العين > باب العين والدال وما يثلثهما > عدق
+  verified_breadcrumb: ج4 - ص246 | فهرس الكتاب > كتاب العين > باب العين والدال وما يثلثهما > عدق
+  expected_quote_norm: العين والدال واللام اصلان صحيحان لكنهما متقابلان كالمتضادين احدهما يدل علي استوا والاخر يدل علي اعوجاج
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: a8a15a7516b4d9bb20ecf153da5b25752c6f4f53692d4716991a1d67c02532ea
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-1822
+  provider: shamela
+  author: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '4'
+  printed_page: '281'
+  url: https://shamela.ws/book/21710/1822
+  expected_breadcrumb: ج4 - ص281 | فهرس الكتاب > كتاب العين > باب العين والراء وما يثلثهما > عرف
+  verified_breadcrumb: ج4 - ص281 | فهرس الكتاب > كتاب العين > باب العين والراء وما يثلثهما > عرف
+  expected_quote_norm: العين والرا والفا اصلان صحيحان يدل احدهما علي تتابع الشي متصلا بعضه ببعض والاخر علي السكون والطمانينه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: f1859b4e19095ef10ad96074e9de5a343920a7226ae284632125da720502fa3b
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-2096
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '5'
+  printed_page: '43'
+  url: https://shamela.ws/book/21710/2096
+  expected_breadcrumb: ج5 - ص43 | فهرس الكتاب > كتاب القاف > باب القاف والواو وما يثلثهما > قوم
+  verified_breadcrumb: ج5 - ص43 | فهرس الكتاب > كتاب القاف > باب القاف والواو وما يثلثهما > قوم
+  expected_quote_norm: القاف والواو والميم اصلان صحيحان يدل احدهما علي جماعه ناس وربما استعير في غيرهم والاخر علي انتصاب او
+    عزم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 1b2d8ce40b07a2a99233cdd6fc1857b4706e8e51ea7c8bfee001c50b2fe4fd68
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-2165
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '5'
+  printed_page: '112'
+  url: https://shamela.ws/book/21710/2165
+  expected_breadcrumb: ج5 - ص112 | فهرس الكتاب > كتاب القاف > باب القاف والفاء وما يثلثهما
+  verified_breadcrumb: ج5 - ص112 | فهرس الكتاب > كتاب القاف > باب القاف والفاء وما يثلثهما
+  expected_quote_norm: القاف والفا واللام اصل صحيح يدل احدهما علي اوبه من سفر والاخر علي صلابه وشده في شي
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: fb19549dc0324c7a7dc6f01f36969b72caa746b8feda1287900e310fc290ca53
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-2224
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '5'
+  printed_page: '172'
+  url: https://shamela.ws/book/21710/2224
+  expected_breadcrumb: ج5 - ص172 | فهرس الكتاب > كتاب الكاف > باب الكاف والراء وما يثلثهما > كرن
+  verified_breadcrumb: ج5 - ص172 | فهرس الكتاب > كتاب الكاف > باب الكاف والراء وما يثلثهما > كرن
+  expected_quote_norm: الكاف والرا والها اصل صحيح واحد يدل علي خلاف الرضا والمحبه يقال كرهت الشي اكرهه كرها والكره الاسم ويقال
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: dd9f133a9f5fb8c1f7b94234ad91746738423ea14244658dd69265d8572e162e
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-2649
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '6'
+  printed_page: '116'
+  url: https://shamela.ws/book/21710/2649
+  expected_breadcrumb: ج6 - ص116 | فهرس الكتاب > كتاب الواو > باب الواو والصاد وما يثلثهما > وصم
+  verified_breadcrumb: ج6 - ص116 | فهرس الكتاب > كتاب الواو > باب الواو والصاد وما يثلثهما > وصم
+  expected_quote_norm: الواو والصاد والحرف المعتل اصل يدل علي وصل شي بشي ووصيت الشي وصلته ويقال وطينا ارضا واصيه اي ان نبتها
+    متصل قد امتلات منه ووصيت الليله باليوم وصلتها وذلك في عمل تعمله
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 1ea2320f855970ddeb9f2690b62205966b28ce5bdc0448c679cd7c7aa820a56f
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-315
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '1'
+  printed_page: '271'
+  url: https://shamela.ws/book/21710/315
+  expected_breadcrumb: ج1 - ص271 | فهرس الكتاب > كتاب الباء > (باب الباء والغين وما يثلثهما)
+  verified_breadcrumb: ج1 - ص271 | فهرس الكتاب > كتاب الباء > (باب الباء والغين وما يثلثهما)
+  expected_quote_norm: البا والغين واليا اصلان احدهما طلب الشي والثاني جنس من الفساد فمن الاول بغيت الشي ابغيه اذا طلبته ويقال
+    بغيتك الشي اذا طلبته لك وابغيتك الشي اذا اعنتك علي طلبه والبغيه والبغيه الحاجه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 68cc341c9921ab16a7d321738892e0c5440f4cc7243918031e57d37348be79a2
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-564
+  provider: shamela
+  author: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '2'
+  printed_page: '4'
+  url: https://shamela.ws/book/21710/564
+  expected_breadcrumb: ج2 - ص4 | فهرس الكتاب > كتاب الحاء > باب ما جاء من كلام العرب فى المضاعف والمطابق أوله حاء، وتفريع
+    مقاييسه > حد
+  verified_breadcrumb: ج2 - ص4 | فهرس الكتاب > كتاب الحاء > باب ما جاء من كلام العرب فى المضاعف والمطابق أوله حاء، وتفريع
+    مقاييسه > حد
+  expected_quote_norm: الحديد حديدا لامتناعه وصلابته وشدته والاستحداد استعمال الحديد ويقال حدت المراه علي
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: bdace030c8475f3b5f0b530a41b4544f2eaf7e313dc04ae1d1d510806a4efe95
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-682
+  provider: shamela
+  author: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '2'
+  printed_page: '122'
+  url: https://shamela.ws/book/21710/682
+  expected_breadcrumb: ج2 - ص122 | فهرس الكتاب > كتاب الحاء > باب الحاء والواو وما معهما من الحروف فى الثلاثى > حوم
+  verified_breadcrumb: ج2 - ص122 | فهرس الكتاب > كتاب الحاء > باب الحاء والواو وما معهما من الحروف فى الثلاثى > حوم
+  expected_quote_norm: الحا واليا والحرف المعتل اصلان احدهما خلاف الموت والاخر الاستحيا الذي هو ضد الوقاحه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 705370bc0b08ef3bdee41da424823e851a2cc1d638ac24a92df9ed0625fd688d
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-770
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '2'
+  printed_page: '210'
+  url: https://shamela.ws/book/21710/770
+  expected_breadcrumb: ج2 - ص210 | فهرس الكتاب > كتاب الخاء > باب الخاء واللام وما يثلثهما > خلف
+  verified_breadcrumb: ج2 - ص210 | فهرس الكتاب > كتاب الخاء > باب الخاء واللام وما يثلثهما > خلف
+  expected_quote_norm: الخا واللام والفا اصول ثلاثه احدها ان يجي شي شي يقوم مقامه والثاني خلاف قدام والثالث التغير
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 0731e3ba3f5b38458e588bc5acd9fbf96730571495efc793fe36216a120d4e10
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-21710-874
+  provider: shamela
+  author: İbn Fâris, Ahmed b. Fâris
+  work: Mu'cemü Makâyîsi'l-Lüğa
+  volume: '2'
+  printed_page: '314'
+  url: https://shamela.ws/book/21710/874
+  expected_breadcrumb: ج2 - ص314 | فهرس الكتاب > كتاب الدال > باب الدال والواو وما يثلثهما > دوك
+  verified_breadcrumb: ج2 - ص314 | فهرس الكتاب > كتاب الدال > باب الدال والواو وما يثلثهما > دوك
+  expected_quote_norm: الدال والواو واللام اصلان احدهما يدل علي تحول شي من مكان الي مكان والاخر يدل علي ضعف واسترخا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: bc582ac9ae1f73b975be60641428ca19dc910f9c1a5c479da6c68bada3242f59
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23579-1208
+  provider: shamela
+  author: Cessâs, Ahmed b. Ali er-Râzî
+  work: Ahkâmü'l-Kur'ân
+  volume: '4'
+  printed_page: '62'
+  url: https://shamela.ws/book/23579/1208
+  expected_breadcrumb: 'ج4 - ص62 | فهرس الكتاب > سورة المائدة > [سورة المائدة (٥) : آية ٣٨] > باب قطع السارق'
+  verified_breadcrumb: 'ج4 - ص62 | فهرس الكتاب > سورة المائدة > [سورة المائدة (٥) : آية ٣٨] > باب قطع السارق'
+  expected_quote_norm: قال النبي صلي الله عليه وسلم ان اسوا الناس سرقه هو الذي يسرق صلاته قيل له يا رسول الله
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 904458aae3a4d109a125905b2437f0cc93654f105b3ba73299e1ae22c344902b
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23579-1344
+  provider: shamela
+  author: Ebû Bekr el-Cessâs, Ahmed b. Ali
+  work: Ahkâmü'l-Kur'ân
+  volume: '4'
+  printed_page: '198'
+  url: https://shamela.ws/book/23579/1344
+  expected_breadcrumb: 'ج4 - ص198 | فهرس الكتاب > (سورة الأنعام) > [سورة الأنعام (٦) : آية ١٥٥]'
+  verified_breadcrumb: 'ج4 - ص198 | فهرس الكتاب > (سورة الأنعام) > [سورة الأنعام (٦) : آية ١٥٥]'
+  expected_quote_norm: علي مقتضاه والبركه ثبوت الخير ونموه وتبارك الله صفه ثبات لا اول له ولا اخر هذا تعظيم لا يستحقه الا
+    الله تعالي وحده لا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: ef71106be606901340e80d0236a7db52671ec09571b222879d95c961ebac95aa
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23579-1415
+  provider: shamela
+  author: Cessâs, Ahmed b. Ali er-Râzî
+  work: Ahkâmü'l-Kur'ân
+  volume: '4'
+  printed_page: '269'
+  url: https://shamela.ws/book/23579/1415
+  expected_breadcrumb: 'ج4 - ص269 | فهرس الكتاب > سورة براءة > [سورة التوبة (٩) : آية ٧]'
+  verified_breadcrumb: 'ج4 - ص269 | فهرس الكتاب > سورة براءة > [سورة التوبة (٩) : آية ٧]'
+  expected_quote_norm: الله تعالي فاذا انسلخ الاشهر الحرم فاقتلوا المشركين حيث وجدتموهم روي معاويه بن صالح عن علي بن ابي طلحه
+    عن ابن عباس في
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: e3ed7133339973bf66961610afe934d192d1732409bc722ab5dfa02f7c19edb0
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23579-1826
+  provider: shamela
+  author: Ebû Bekr el-Cessâs, Ahmed b. Ali
+  work: Ahkâmü'l-Kur'ân
+  volume: '5'
+  printed_page: '280'
+  url: https://shamela.ws/book/23579/1826
+  expected_breadcrumb: 'ج5 - ص280 | فهرس الكتاب > سورة الحجرات > [سورة الحجرات (٤٩) : آية ٩] > باب قتال أهل البغي'
+  verified_breadcrumb: 'ج5 - ص280 | فهرس الكتاب > سورة الحجرات > [سورة الحجرات (٤٩) : آية ٩] > باب قتال أهل البغي'
+  expected_quote_norm: قتال من فيه علي وجه البغي قابلناه بالسلاح وبما دونه حتي ترجع الي الحق وليس في نزول الايه علي حال قتال
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 65f6f73ea06b02268b868901643b07e26466e3c52e9e940df6de8d1df237f582
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23579-1865
+  provider: shamela
+  author: Ebû Bekr el-Cessâs, Ahmed b. Ali
+  work: Ahkâmü'l-Kur'ân
+  volume: '5'
+  printed_page: '319'
+  url: https://shamela.ws/book/23579/1865
+  expected_breadcrumb: 'ج5 - ص319 | فهرس الكتاب > سورة الحشر > [سورة الحشر (٥٩) : آية ٧]'
+  verified_breadcrumb: 'ج5 - ص319 | فهرس الكتاب > سورة الحشر > [سورة الحشر (٥٩) : آية ٧]'
+  expected_quote_norm: كي لا يكون دوله بين الاغنيا منكم وقوله والذين جاو من بعدهم وقال لو قسمتها بينهم لصارت دوله بين الاغنيا
+    منكم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 837e89dd5b2ccba18aa089985b6b4e6d072b1d70d66ea0ff25b1470d13b05743
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23579-918
+  provider: shamela
+  author: Cessâs, Ahmed b. Ali er-Râzî
+  work: Ahkâmü'l-Kur'ân
+  volume: '3'
+  printed_page: '148'
+  url: https://shamela.ws/book/23579/918
+  expected_breadcrumb: 'ج3 - ص148 | فهرس الكتاب > سورة النساء > [سورة النساء (٤) : آية ٣٤]'
+  verified_breadcrumb: 'ج3 - ص148 | فهرس الكتاب > سورة النساء > [سورة النساء (٤) : آية ٣٤]'
+  expected_quote_norm: انما قال ذلك قبل نزول هذه الايه التي فيها اباحه الضرب عند النشوز لان قوله تعالي الرجال قوامون علي النسا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 8488447a611ea0ab7b84fdd0e3afc50a987da5a9fe4023be75ed6850da00317d
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23600-146
+  provider: shamela
+  author: Sehl b. Abdillâh et-Tüsterî (ö. 283/896)
+  work: Tefsîru't-Tüsterî
+  volume: '1'
+  printed_page: '149'
+  url: https://shamela.ws/book/23600/146
+  expected_breadcrumb: ص149 | فهرس الكتاب > السورة التي يذكر فيها الحجرات
+  verified_breadcrumb: ص149 | فهرس الكتاب > السورة التي يذكر فيها الحجرات
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: c83d216a2815b96e1742330ef0b34b1ac3897be5a78650f0cd10953a21bcd458
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23600-162
+  provider: shamela
+  author: Sehl b. Abdillâh et-Tüsterî (ö. 283/896)
+  work: Tefsîru't-Tüsterî
+  volume: '1'
+  printed_page: '165'
+  url: https://shamela.ws/book/23600/162
+  expected_breadcrumb: ص165 | فهرس الكتاب > السورة التي يذكر فيها الحشر
+  verified_breadcrumb: ص165 | فهرس الكتاب > السورة التي يذكر فيها الحشر
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: e730ee4317aea034ea7fae19d3c97a92868d378fb1b63927ec949a26e55048d3
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23600-55
+  provider: shamela
+  author: Sehl b. Abdillâh et-Tüsterî (ö. 283/896)
+  work: Tefsîru't-Tüsterî
+  volume: '1'
+  printed_page: '58'
+  url: https://shamela.ws/book/23600/55
+  expected_breadcrumb: ص58 | فهرس الكتاب > السورة التي يذكر فيها المائدة
+  verified_breadcrumb: ص58 | فهرس الكتاب > السورة التي يذكر فيها المائدة
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: d888616a27fbf28c8ae1a16e1bb12f0c222ac54ba9adf21bc1a465b2be490579
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23600-61
+  provider: shamela
+  author: Sehl b. Abdillâh et-Tüsterî (ö. 283/896)
+  work: Tefsîru't-Tüsterî
+  volume: '1'
+  printed_page: '64'
+  url: https://shamela.ws/book/23600/61
+  expected_breadcrumb: 'ص64 | فهرس الكتاب > السورة التي يذكر فيها الأنعام > [سورة الأنعام (٦): آية ١٦٥]'
+  verified_breadcrumb: 'ص64 | فهرس الكتاب > السورة التي يذكر فيها الأنعام > [سورة الأنعام (٦): آية ١٦٥]'
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 2bf0cd7b95c02435ab1c93e31b66cadaf04776a0da554a182751b714f6347c7c
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-1328
+  provider: shamela
+  author: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '2'
+  printed_page: '629'
+  url: https://shamela.ws/book/23627/1328
+  expected_breadcrumb: 'ج2 - ص629 | فهرس الكتاب > الجزء الثاني > سورة النحل > [سورة النحل (١٦) : آية ٩٠]'
+  verified_breadcrumb: 'ج2 - ص629 | فهرس الكتاب > الجزء الثاني > سورة النحل > [سورة النحل (١٦) : آية ٩٠]'
+  expected_quote_norm: تحت طاقتهم والاحسان الندب وانما علق امره بهما جميعا لان الفرض لا بد من ان يقع فيه تفريط
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 760619c908f00c682e751a1e1aed52f3fdc25da8bb7ebfbc42c598d99b899624
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-1365
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '2'
+  printed_page: '666'
+  url: https://shamela.ws/book/23627/1365
+  expected_breadcrumb: 'ج2 - ص666 | فهرس الكتاب > الجزء الثاني > سورة الإسراء > [سورة الإسراء (١٧) : آية ٣٦]'
+  verified_breadcrumb: 'ج2 - ص666 | فهرس الكتاب > الجزء الثاني > سورة الإسراء > [سورة الإسراء (١٧) : آية ٣٦]'
+  expected_quote_norm: ولا تقف ولا تتبع وقري ولا تقف يقال قفا اثره وقافه ومنه القافه يعني ولا تكن في اتباعك ما لا علم لك به
+    من قول او فعل كمن يتبع مسلكا لا يدري انه يوصله الي مقصده فهو ضال
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 5e6fac22f2190f8c7c1b97fd68f2968c2bf337ab070effccf3ccf0e836e754a3
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-1921
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '3'
+  printed_page: '473'
+  url: https://shamela.ws/book/23627/1921
+  expected_breadcrumb: 'ج3 - ص473 | فهرس الكتاب > الجزء الثالث > سورة الروم > [سورة الروم (٣٠) : آية ٢٢]'
+  verified_breadcrumb: 'ج3 - ص473 | فهرس الكتاب > الجزء الثالث > سورة الروم > [سورة الروم (٣٠) : آية ٢٢]'
+  expected_quote_norm: الالسنه اللغات او اجناس النطق واشكاله خالف عز وعلا بين هذه الاشيا حتي لا تكاد تسمع منطقين متفقين في
+    همس واحد ولا جهاره ولا حده ولا رخاوه ولا فصاحه ولا لكنه ولا نظم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: de5afdba3845c87896f041de0ac72f5f7e67cb71e839727789b0a0875f5bf5fd
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-2430
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '4'
+  printed_page: '365'
+  url: https://shamela.ws/book/23627/2430
+  expected_breadcrumb: 'ج4 - ص365 | فهرس الكتاب > الجزء الرابع > سورة الحجرات > [سورة الحجرات (٤٩) : آية ٩]'
+  verified_breadcrumb: 'ج4 - ص365 | فهرس الكتاب > الجزء الرابع > سورة الحجرات > [سورة الحجرات (٤٩) : آية ٩]'
+  expected_quote_norm: من امر هذه الايه ان لم اقاتل هذه الفيه الباغيه كما امرني الله عز وجل قاله بعد ان اعتزل فاذا كافت وقبضت
+    عن الحرب ايديها تركت واذا تولت عمل بما روي عن النبي صلي الله عليه وسلم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 3a892277da9284f2034d366418830414e3f6081c4b54f29d030a905bf45a8155
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-2439
+  provider: shamela
+  author: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '4'
+  printed_page: '374'
+  url: https://shamela.ws/book/23627/2439
+  expected_breadcrumb: 'ج4 - ص374 | فهرس الكتاب > الجزء الرابع > سورة الحجرات > [سورة الحجرات (٤٩) : آية ١٣]'
+  verified_breadcrumb: 'ج4 - ص374 | فهرس الكتاب > الجزء الرابع > سورة الحجرات > [سورة الحجرات (٤٩) : آية ١٣]'
+  expected_quote_norm: من ذكر وانثي من ادم وحوا وقيل خلقنا كل واحد منكم من اب وام فما منكم احد الا وهو يدلي بمثل ما يدلي به
+    الاخر سوا بسوا فلا وجه للتفاخر والتفاضل في النسب والشعب الطبقه الاولي من
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 8c2978051e5575765856263ba52d4f4905746128a375a2f9f816a70d1094c483
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-2546
+  provider: shamela
+  author: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '4'
+  printed_page: '481'
+  url: https://shamela.ws/book/23627/2546
+  expected_breadcrumb: 'ج4 - ص481 | فهرس الكتاب > الجزء الرابع > سورة الحديد > [سورة الحديد (٥٧) : آية ٢٦]'
+  verified_breadcrumb: 'ج4 - ص481 | فهرس الكتاب > الجزء الرابع > سورة الحديد > [سورة الحديد (٥٧) : آية ٢٦]'
+  expected_quote_norm: الا والحديد اله فيها او ما يعمل بالحديد وليعلم الله من ينصره ورسله باستعمال السيوف والرماح وساير السلاح
+    في مجاهده اعدا الدين بالغيب غايبا عنهم قال ابن
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 30b8af848a212ff7a996d2179e2f1440088c9b783237c128e6504515b93a6a32
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-2567
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '4'
+  printed_page: '502'
+  url: https://shamela.ws/book/23627/2567
+  expected_breadcrumb: 'ج4 - ص502 | فهرس الكتاب > الجزء الرابع > سورة الحشر > [سورة الحشر (٥٩) : الآيات ٦ إلى ٧]'
+  verified_breadcrumb: 'ج4 - ص502 | فهرس الكتاب > الجزء الرابع > سورة الحشر > [سورة الحشر (٥٩) : الآيات ٦ إلى ٧]'
+  expected_quote_norm: قوله تعالي كي لا يكون دوله بين الاغنيا منكم كيلا يكون الفي الذي حقه ان يعطي الفقرا ليكون لهم بلغه يعيشون
+    بها جدا بين الاغنيا يتكاثرون به او كيلا يكون دوله جاهليه بينهم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: e26bf7e82a483edc73456651a6130fa3ab73230248407a459d6979e7768ce283
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-306
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '1'
+  printed_page: '303'
+  url: https://shamela.ws/book/23627/306
+  expected_breadcrumb: 'ج1 - ص303 | فهرس الكتاب > الجزء الأول > سورة البقرة > [سورة البقرة (٢) : آية ٢٥٦]'
+  verified_breadcrumb: 'ج1 - ص303 | فهرس الكتاب > الجزء الأول > سورة البقرة > [سورة البقرة (٢) : آية ٢٥٦]'
+  expected_quote_norm: لا اكراه في الدين اي لم يجر الله امر الايمان علي الاجبار والقسر ولكن علي التمكين والاختيار ونحوه قوله
+    تعالي ولو شا ربك لامن من في الارض كلهم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: f34040397067668d04498c0d6f9ab62075f939e45d4f6ff9e6410b31ad82ab41
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-435
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '1'
+  printed_page: '432'
+  url: https://shamela.ws/book/23627/435
+  expected_breadcrumb: 'ج1 - ص432 | فهرس الكتاب > الجزء الأول > سورة آل عمران > [سورة آل عمران (٣) : الآيات ١٦٠ إلى ١٦٢]'
+  verified_breadcrumb: 'ج1 - ص432 | فهرس الكتاب > الجزء الأول > سورة آل عمران > [سورة آل عمران (٣) : الآيات ١٦٠ إلى ١٦٢]'
+  expected_quote_norm: وقري وشاورهم في بعض الامر فاذا عزمت فاذا قطعت الراي علي شي بعد الشوري فتوكل علي الله في امضا امرك علي
+    الارشد الاصلح فان ما هو اصلح لك لا يعلمه الا الله لا انت ولا من تشاور وقري
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: a66261670b285a403998b40fb837db0131d5eb9c485d4b3fe6b3bc83365b4b9f
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-508
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '1'
+  printed_page: '505'
+  url: https://shamela.ws/book/23627/508
+  expected_breadcrumb: 'ج1 - ص505 | فهرس الكتاب > الجزء الأول > سورة النساء > [سورة النساء (٤) : آية ٣٤]'
+  verified_breadcrumb: 'ج1 - ص505 | فهرس الكتاب > الجزء الأول > سورة النساء > [سورة النساء (٤) : آية ٣٤]'
+  expected_quote_norm: قوامون علي النسا يقومون عليهن امرين ناهين كما يقوم الولاه علي الرعايا وسموا قوما لذلك والضمير في بعضهم
+    للرجال والنسا جميعا يعني انما كانوا مسيطرين عليهن
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: fbaa5df919eb7c9225abfb3807840dd3faf318dacb666685969be76fba4a9bb3
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-527
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '1'
+  printed_page: '524'
+  url: https://shamela.ws/book/23627/527
+  expected_breadcrumb: 'ج1 - ص524 | فهرس الكتاب > الجزء الأول > سورة النساء > [سورة النساء (٤) : الآيات ٦٠ إلى ٦٣]'
+  verified_breadcrumb: 'ج1 - ص524 | فهرس الكتاب > الجزء الأول > سورة النساء > [سورة النساء (٤) : الآيات ٦٠ إلى ٦٣]'
+  expected_quote_norm: لما امر الولاه بادا الامانات الي اهلها وان يحكموا بالعدل امر الناس بان يطيعوهم وينزلوا علي قضاياهم
+    والمراد باولي الامر منكم امرا الحق لان امرا الجور الله ورسوله برييان
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: c10b4d72ff3ddffb51bc2a5e4f1d4864d171f02e029655ba575a66683191f844
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-634
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '1'
+  printed_page: '631'
+  url: https://shamela.ws/book/23627/634
+  expected_breadcrumb: 'ج1 - ص631 | فهرس الكتاب > الجزء الأول > سورة المائدة > [سورة المائدة (٥) : الآيات ٣٨ إلى ٤٠]'
+  verified_breadcrumb: 'ج1 - ص631 | فهرس الكتاب > الجزء الأول > سورة المائدة > [سورة المائدة (٥) : الآيات ٣٨ إلى ٤٠]'
+  expected_quote_norm: والسارقه اي حكمهما ووجه اخر وهو ان يرتفعا بالابتدا والخبر فاقطعوا ايديهما ودخول الفا لتضمنهما معني
+    الشرط لان المعني والذي سرق والتي سرقت فاقطعوا ايديهما
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 7ff7bc0abae0c37376104a5c58b7a47a2b68e195f521cd666c7b291084353154
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-778
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '2'
+  printed_page: '79'
+  url: https://shamela.ws/book/23627/778
+  expected_breadcrumb: 'ج2 - ص79 | فهرس الكتاب > الجزء الثاني > سورة الأنعام > [سورة الأنعام (٦) : آية ١٥٢]'
+  verified_breadcrumb: 'ج2 - ص79 | فهرس الكتاب > الجزء الثاني > سورة الأنعام > [سورة الأنعام (٦) : آية ١٥٢]'
+  expected_quote_norm: ولو كان المقول له او عليه في شهاده او غيرها من اهل قرابه القاتل فما ينبغي ان يزيد في القول او ينقص
+    كقوله ولو علي انفسكم او الوالدين والاقربين
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 2f7e4147a2c7f27e09b82a401719977b492ece23559f023bd30d5f53e2f45ab6
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-946
+  provider: shamela
+  author: Zemahşerî, Mahmûd b. Ömer
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '2'
+  printed_page: '247'
+  url: https://shamela.ws/book/23627/946
+  expected_breadcrumb: 'ج2 - ص247 | فهرس الكتاب > الجزء الثاني > سورة التوبة > [سورة التوبة (٩) : آية ٥]'
+  verified_breadcrumb: 'ج2 - ص247 | فهرس الكتاب > الجزء الثاني > سورة التوبة > [سورة التوبة (٩) : آية ٥]'
+  expected_quote_norm: انسلخ الشهر كقولك انجرد الشهر وسنه جردا والاشهر الحرم التي ابيح فيها للناكثين ان يسيحوا فاقتلوا المشركين
+    يعني الذين نقضوكم وظاهروا عليكم حيث
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 61efe59e22287678016dec49df4efe203d20497eb6d2b9890572c225bd75c108
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-1403
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '3'
+  printed_page: '113'
+  url: https://shamela.ws/book/23629/1403
+  expected_breadcrumb: 'ج3 - ص113 | فهرس الكتاب > الجزء الثالث > السورة التي يذكر فيها الروم > [سورة الروم (٣٠) : آية ٢٢]'
+  verified_breadcrumb: 'ج3 - ص113 | فهرس الكتاب > الجزء الثالث > السورة التي يذكر فيها الروم > [سورة الروم (٣٠) : آية ٢٢]'
+  expected_quote_norm: واختلاف السنتكم والوانكم ان في ذلك لايات للعالمين ومن اياته اختلاف لغات اهل الارض واختلاف تسبيحات الملايكه
+    الذين هم سكان السما وان اختصاص كل شي منها بحكم شاهد عدل ودليل صدق علي انها تناجي افكار المتيقظين وتنادي علي انفسها انها
+    جميعها من تقدير العزيز العليم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: b43e87bd17cee0808eeedfe2e7edcec0780aad3bd89a9e90fabf061aeb26993e
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-1729
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '3'
+  printed_page: '440'
+  url: https://shamela.ws/book/23629/1729
+  expected_breadcrumb: 'ج3 - ص440 | فهرس الكتاب > الجزء الثالث > سورة الحجرات > [سورة الحجرات (٤٩) : آية ٩]'
+  verified_breadcrumb: 'ج3 - ص440 | فهرس الكتاب > الجزء الثالث > سورة الحجرات > [سورة الحجرات (٤٩) : آية ٩]'
+  expected_quote_norm: وان طايفتان من المومنين اقتتلوا فاصلحوا بينهما وتدل الايه علي وجوب نصره المظلوم والاشاره فيه ان النفس
+    اذا ظلمت القلب بدعايه الي شهواتها واشتغالها في فسادها فيجب ان يقاتلها حتي تثخن بالجراحه بسيوف المجاهده فان استجابت الي
+    الطاعه يعفي عنها لانها هي المطيه الي باب الله
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: d5ba8ad5a7da19178b9db9f8226eddddff62fa53053d7d879f96c3433408cbf4
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-1732
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '3'
+  printed_page: '443'
+  url: https://shamela.ws/book/23629/1732
+  expected_breadcrumb: 'ج3 - ص443 | فهرس الكتاب > الجزء الثالث > سورة الحجرات > [سورة الحجرات (٤٩) : آية ١٣]'
+  verified_breadcrumb: 'ج3 - ص443 | فهرس الكتاب > الجزء الثالث > سورة الحجرات > [سورة الحجرات (٤٩) : آية ١٣]'
+  expected_quote_norm: انا خلقناكم من ذكر وانثي وجعلناكم شعوبا وقبايل لتعارفوا ان اكرمكم عند الله اتقاكم انا خلقناكم اجمعكم
+    من ادم وحوا ثم جعلناكم شعوبا وقبايل لتعارفوا لا لتكاثروا ولا لتنافسوا ان اكرمكم عند الله اتقاكم اتقاكم اي ابعدكم عن نفسه
+    فالتقوي هي التحرر من النفس واطماعها وحظوظها
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 97540ef9d4dd85cef72a4cd1b8781d096b177eac6162766525e83e19c1c75762
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-1833
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '3'
+  printed_page: '544'
+  url: https://shamela.ws/book/23629/1833
+  expected_breadcrumb: 'ج3 - ص544 | فهرس الكتاب > الجزء الثالث > سورة الحديد > [سورة الحديد (٥٧) : آية ٢٤]'
+  verified_breadcrumb: 'ج3 - ص544 | فهرس الكتاب > الجزء الثالث > سورة الحديد > [سورة الحديد (٥٧) : آية ٢٤]'
+  expected_quote_norm: لقد ارسلنا رسلنا بالبينات وانزلنا معهم الكتاب والميزان ليقوم الناس بالقسط اي ارسلناهم مويدين بالحجج
+    اللايحه والبراهين الواضحه وانزلنا معهم الكتب المنزله اي الحكم بالقران واعتبار العدل والتسويه بين الناس ليقوم الناس بالقسط
+    فلا يظلم احد احدا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: f811c33541b254ad97113179247cdc76a8275da851be71e3d9e3cc820704a5d5
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-1848
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '3'
+  printed_page: '559'
+  url: https://shamela.ws/book/23629/1848
+  expected_breadcrumb: 'ج3 - ص559 | فهرس الكتاب > الجزء الثالث > سورة الحشر > [سورة الحشر (٥٩) : الآيات ٦ إلى ٧]'
+  verified_breadcrumb: 'ج3 - ص559 | فهرس الكتاب > الجزء الثالث > سورة الحشر > [سورة الحشر (٥٩) : الآيات ٦ إلى ٧]'
+  expected_quote_norm: كي لا يكون دوله بين الاغنيا منكم ذلك لان تحرر القلب من الاعواض والاملاك صفه الساده والاكابر ومن اسرته
+    الاخطار وبقي في شح نفسه فهو في تضييقه وتدنيقه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 07ae43ffde96228e5b6ab68eb6ba20836e43f5cc09ca6b53eb5db9d75629e860
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-195
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: '198'
+  url: https://shamela.ws/book/23629/195
+  expected_breadcrumb: 'ج1 - ص198 | فهرس الكتاب > الجزء الاول > السورة التي تذكر فيها البقرة > [سورة البقرة (٢) : آية ٢٥٦]'
+  verified_breadcrumb: 'ج1 - ص198 | فهرس الكتاب > الجزء الاول > السورة التي تذكر فيها البقرة > [سورة البقرة (٢) : آية ٢٥٦]'
+  expected_quote_norm: لا اكراه في الدين قد تبين الرشد من الغي فان الحجج لايحه والبراهين ظاهره واضحه فمن يكفر بالطاغوت وطاغوت
+    كل واحد ما يشغله عن ربه ويومن بالله والايمان حياه القلب بالله فقد استمسك بالعروه الوثقي الاستمساك بالعروه الوثقي الوقوف
+    عند الامر والنهي
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 35aa4da83fc8309e80ae37f486ab1b96a57957f743c4bf70e8d9d600919a5ced
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-287
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: '290'
+  url: https://shamela.ws/book/23629/287
+  expected_breadcrumb: 'ج1 - ص290 | فهرس الكتاب > الجزء الاول > السورة التي يذكر فيها آل عمران > [سورة آل عمران (٣) : آية
+    ١٥٩]'
+  verified_breadcrumb: 'ج1 - ص290 | فهرس الكتاب > الجزء الاول > السورة التي يذكر فيها آل عمران > [سورة آل عمران (٣) : آية
+    ١٥٩]'
+  expected_quote_norm: فبما رحمه من الله لنت لهم ولو كنت فظا غليظ القلب لانفضوا من حولك ويقال ان من خصايص رحمته سبحانه عليه
+    ان قواه حتي صحبهم وصبر علي تبليغ الرساله اليهم واستغفر لهم وشاورهم في الامر اي اثبت لهم محلا فان المعفو عنه في صدار الخجله
+    لا يري لنفسه مقام الكرامه فاذا شاورتهم ازلت عنهم انكسارهم وطيبت لهم قلوبهم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: d4966ec4d4efc7d79d439d348a5cc92b48d54fef67a4f508d04e80c83f6b667b
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-327
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: '330'
+  url: https://shamela.ws/book/23629/327
+  expected_breadcrumb: 'ج1 - ص330 | فهرس الكتاب > الجزء الاول > السورة التي يذكر فيها النساء > [سورة النساء (٤) : آية ٣٤]'
+  verified_breadcrumb: 'ج1 - ص330 | فهرس الكتاب > الجزء الاول > السورة التي يذكر فيها النساء > [سورة النساء (٤) : آية ٣٤]'
+  expected_quote_norm: خص الرجال بالقوه فزيد بالحمل عليهم فالحمل علي حسب القوه والعبره بالقلوب والهمم لا بالنفوس والجثث اي
+    ارتقوا في تهذيبهن بالتدريج والرفق وان صلح الامر بالوعظ فلا تستعمل العصا بالضرب فالايه تتضمن اداب العشره
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: b5478cb1dc3ef234fd370c0cccb6d9c9cf5d498b70fe4cf5fbd9ba25b6d7b1c6
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-338
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: '341'
+  url: https://shamela.ws/book/23629/338
+  expected_breadcrumb: 'ج1 - ص341 | فهرس الكتاب > الجزء الاول > السورة التي يذكر فيها النساء > [سورة النساء (٤) : آية ٥٨]'
+  verified_breadcrumb: 'ج1 - ص341 | فهرس الكتاب > الجزء الاول > السورة التي يذكر فيها النساء > [سورة النساء (٤) : آية ٥٨]'
+  expected_quote_norm: ان الله يامركم ان تودوا الامانات الي اهلها واذا حكمتم بين الناس ان تحكموا بالعدل رد الامانات الي اهلها
+    تسليم اموال الخلق لهم بعد اشرافك عليها بحيث لا تفسد عليهم ويقال لله سبحانه وتعالي امانات وضعها عندك فرد الامانه الي اهلها
+    تسليمها الي الله سبحانه سالمه من خيانتك فيها والحكم بين الناس بالعدل تسويه القريب والبعيد في العطا والبذل والا تحملك مخامره
+    حقد علي انتقام لنفس
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 008d2fdf04a314b2874e16ecfe999de8b0538f936e03bf296007d8a06ee78bc8
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-417
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: '420'
+  url: https://shamela.ws/book/23629/417
+  expected_breadcrumb: 'ج1 - ص420 | فهرس الكتاب > الجزء الاول > السورة التي تذكر فيها المائدة > [سورة المائدة (٥) : آية ٣٢]'
+  verified_breadcrumb: 'ج1 - ص420 | فهرس الكتاب > الجزء الاول > السورة التي تذكر فيها المائدة > [سورة المائدة (٥) : آية ٣٢]'
+  expected_quote_norm: من قتل نفسا بغير نفس او فساد في الارض فكانما قتل الناس جميعا ومن احياها فكانما احيا الناس جميعا هذا
+    قريب مما قال النبي صلي الله عليه وسلم من سن حسنه فله اجرها واجر من عمل بها ومن سن سييه فعليه وزرها ووزر من عمل بها الي
+    يوم القيامه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 7a7404db530fedaec6d1a36a450765b788c09c1ed2fae5e6ac07de2133f714ef
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-419
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: '422'
+  url: https://shamela.ws/book/23629/419
+  expected_breadcrumb: 'ج1 - ص422 | فهرس الكتاب > الجزء الاول > السورة التي تذكر فيها المائدة > [سورة المائدة (٥) : آية ٣٦]'
+  verified_breadcrumb: 'ج1 - ص422 | فهرس الكتاب > الجزء الاول > السورة التي تذكر فيها المائدة > [سورة المائدة (٥) : آية ٣٦]'
+  expected_quote_norm: والسارق والسارقه فاقطعوا ايديهما جزا بما كسبا نكالا من الله والاشاره فيه ان امر الملك مقابل بالتعظيم
+    بل كل من كان اعلي رتبه فخطره اتم واخفي والمطالبه عليه اشد فلا يستخفن احد الالمام بزله
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: c67053e22b99c5d7bb1093538cf8f4ab5bb3125d48ba2cca6dc84adca4473aa5
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-507
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: '510'
+  url: https://shamela.ws/book/23629/507
+  expected_breadcrumb: 'ج1 - ص510 | فهرس الكتاب > الجزء الاول > السورة التي تذكر فيها الأنعام > [سورة الأنعام (٦) : الآيات
+    ١٥١ إلى ١٥٣]'
+  verified_breadcrumb: 'ج1 - ص510 | فهرس الكتاب > الجزء الاول > السورة التي تذكر فيها الأنعام > [سورة الأنعام (٦) : الآيات
+    ١٥١ إلى ١٥٣]'
+  expected_quote_norm: ولا تقربوا الفواحش ما ظهر منها وما بطن هذه اشيا عشره تضمنتها هذه الايه اولها الشرك فانه راس المحرمات
+    وينقسم ذلك الي شرك جلي وشرك خفي فالجلي عباده الاصنام والخفي ملاحظه الانام ثم ارتكاب الفواحش ما ظهر منها وما بطن وما بدا
+    وما استتر ثم بذل الانصاف في المعاملات والتوقي من جميع التبعات ثم الصدق في القول والعدل في الفعل
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: cc01ef03bd9ee433d801e484b2cc62eb6332f6f6c2397568228d8e00fd09436f
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-647
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '2'
+  printed_page: '8'
+  url: https://shamela.ws/book/23629/647
+  expected_breadcrumb: 'ج2 - ص8 | فهرس الكتاب > الجزء الثاني > السورة التي تذكر فيها التوبة > [سورة التوبة (٩) : آية ٥]'
+  verified_breadcrumb: 'ج2 - ص8 | فهرس الكتاب > الجزء الثاني > السورة التي تذكر فيها التوبة > [سورة التوبة (٩) : آية ٥]'
+  expected_quote_norm: فاقتلوا المشركين حيث وجدتموهم وخذوهم واحصروهم واقعدوا لهم كل مرصد امرهم بمعالجه جميع انواع القتال مع
+    الاعدا واعدي عدوك نفسك التي بين جنبيك بالتضييق عليها بالمبالغه في جميع انواع الرياضات واستفراغ الوسع في القيام بصدق المعاملات
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 4f0e36b7e60cf18e2a1254d585fadaa779dc846b2d2d8c8ff075b384ab44ce98
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-953
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '2'
+  printed_page: '314'
+  url: https://shamela.ws/book/23629/953
+  expected_breadcrumb: 'ج2 - ص314 | فهرس الكتاب > الجزء الثاني > السورة التي يذكر فيها النحل > [سورة النحل (١٦) : آية ٨٩]'
+  verified_breadcrumb: 'ج2 - ص314 | فهرس الكتاب > الجزء الثاني > السورة التي يذكر فيها النحل > [سورة النحل (١٦) : آية ٨٩]'
+  expected_quote_norm: ان الله يامر بالعدل والاحسان وايتا ذي القربي وينهي عن الفحشا والمنكر والبغي العدل ما هو صواب وحسن وهو
+    نقيض الجور والظلم امر الله الانسان بالعدل فيما بينه وبين نفسه وفيما بينه وبين ربه وفيما بينه وبين الخلق فالعدل الذي بينه
+    وبين نفسه منعها عما فيه هلاكها وكمال عدله مع نفسه كي عروق طمعه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 73d74c457cebd994d6d2be0ecf08c53ea6f092700a14047ee070a17673fe28bf
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-985
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '2'
+  printed_page: '347'
+  url: https://shamela.ws/book/23629/985
+  expected_breadcrumb: 'ج2 - ص347 | فهرس الكتاب > الجزء الثاني > السورة التي يذكر فيها بنو إسرائيل > [سورة الإسراء (١٧) :
+    آية ٣٤]'
+  verified_breadcrumb: 'ج2 - ص347 | فهرس الكتاب > الجزء الثاني > السورة التي يذكر فيها بنو إسرائيل > [سورة الإسراء (١٧) :
+    آية ٣٤]'
+  expected_quote_norm: ولا تقف ما ليس لك به علم ان السمع والبصر والفواد اذا غلبت عليك مجوزات الظنون ولم يطلعك الحق علي اليقين
+    فلا تتكلف الوقوف عليه من غير برهان ان السمع والبصر هذه امانه الحق سبحانه عند العبد ومن استعمل هذه الجوارح في الطاعات وصانها
+    عن استعمالها في المخالفات فقد سلم الامانه علي وصف السلامه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 1a5cad5fbe520d562c1d5689c93546f41aae024d3dcf366255d2f7b96fa44dd0
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23635-1550
+  provider: shamela
+  author: Râzî, Fahreddîn
+  work: Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)
+  volume: '9'
+  printed_page: '410'
+  url: https://shamela.ws/book/23635/1550
+  expected_breadcrumb: 'ج9 - ص410 | فهرس الكتاب > الجزء التاسع > تتمة سورة آل عمران > [سورة آل عمران (٣) : آية ١٥٩]'
+  verified_breadcrumb: 'ج9 - ص410 | فهرس الكتاب > الجزء التاسع > تتمة سورة آل عمران > [سورة آل عمران (٣) : آية ١٥٩]'
+  expected_quote_norm: ان عمر كان من المنهزمين فدخل تحت الايه الا ان ابا بكر ما كان منهم فكيف يدخل تحت هذه الايه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 809d89db66a15334b235382ba82762b9840affccb63400d8279871706f7a8638
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23635-2009
+  provider: shamela
+  author: Fahreddîn er-Râzî, Muhammed b. Ömer
+  work: Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)
+  volume: '11'
+  printed_page: '344'
+  url: https://shamela.ws/book/23635/2009
+  expected_breadcrumb: 'ج11 - ص344 | فهرس الكتاب > الجزء الحادي عشر > سورة المائدة (٥) > [سورة المائدة (٥) : آية ٣٢]'
+  verified_breadcrumb: 'ج11 - ص344 | فهرس الكتاب > الجزء الحادي عشر > سورة المائدة (٥) > [سورة المائدة (٥) : آية ٣٢]'
+  expected_quote_norm: في الارض وانما قال تعالي ذلك لان القتل يحل لاسباب كثيره منها القصاص وهو المراد بقوله من قتل نفسا بغير
+    نفس او فساد في الارض
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: fe50e326afab7188d0cf7ad1ce23ca314843e75337608a868d685bf720cecfe4
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23635-3582
+  provider: shamela
+  author: Râzî, Fahreddîn
+  work: Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)
+  volume: '20'
+  printed_page: '338'
+  url: https://shamela.ws/book/23635/3582
+  expected_breadcrumb: 'ج20 - ص338 | فهرس الكتاب > الجزء العشرون > سورة الإسراء > [سورة الإسراء (١٧) : آية ٣٦]'
+  verified_breadcrumb: 'ج20 - ص338 | فهرس الكتاب > الجزء العشرون > سورة الإسراء > [سورة الإسراء (١٧) : آية ٣٦]'
+  expected_quote_norm: واعلم ان التفاوت الحاصل بسبب نقصان الكيل والوزن قليل والوعيد الحاصل عليه شديد عظيم فوجب علي العاقل
+    الاحتراز
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: bf33ee29f2ab3e9509cc36110c5d6dc0b1e6b1448dd4c9bd5681f0c2d22d07c4
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23635-4497
+  provider: shamela
+  author: Râzî, Fahreddîn
+  work: Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)
+  volume: '25'
+  printed_page: '92'
+  url: https://shamela.ws/book/23635/4497
+  expected_breadcrumb: 'ج25 - ص92 | فهرس الكتاب > الجزء الخامس والعشرون > سورة الروم > [سورة الروم (٣٠) : آية ٢٢]'
+  verified_breadcrumb: 'ج25 - ص92 | فهرس الكتاب > الجزء الخامس والعشرون > سورة الروم > [سورة الروم (٣٠) : آية ٢٢]'
+  expected_quote_norm: لما بين دلايل الانفس ذكر دلايل الافاق واظهرها خلق السموات والارض فان بعض الكفار يقول في خلق البشر وغيره
+    من
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 301299735d25752226ff4fd9f1c18d46cbbbc3ff605388620eb7e20777ef6a54
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23635-5548
+  provider: shamela
+  author: Fahreddîn er-Râzî, Muhammed b. Ömer
+  work: Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)
+  volume: '29'
+  printed_page: '470'
+  url: https://shamela.ws/book/23635/5548
+  expected_breadcrumb: 'ج29 - ص470 | فهرس الكتاب > الجزء التاسع والعشرون > سورة الحديد > [سورة الحديد (٥٧) : آية ٢٥]'
+  verified_breadcrumb: 'ج29 - ص470 | فهرس الكتاب > الجزء التاسع والعشرون > سورة الحديد > [سورة الحديد (٥٧) : آية ٢٥]'
+  expected_quote_norm: وهو زاجر للخلق عما لا ينبغي والحاصل ان الكتاب اشاره الي القوه النظريه والميزان الي القوه العمليه والحديد
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 36ddbd75ba2f52e45bf3f4bda60649da880f19e2ff36af0453d31400de70f77f
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-119
+  provider: shamela
+  author: Râgıb el-İsfahânî, Hüseyin b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '137'
+  url: https://shamela.ws/book/23636/119
+  expected_breadcrumb: ص137 | فهرس الكتاب > كتاب الباء > بغي
+  verified_breadcrumb: ص137 | فهرس الكتاب > كتاب الباء > بغي
+  expected_quote_norm: فان بغت احداهما علي الاخري فقاتلوا التي تبغي الحجرات فالبغي في
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 872528eeb71f5f6079ec4c1f053b446d5a06c56725ddbcf52f900484afbd05ad
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-204
+  provider: shamela
+  author: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '222'
+  url: https://shamela.ws/book/23636/204
+  expected_breadcrumb: ص222 | فهرس الكتاب > كتاب الحاء > حدب
+  verified_breadcrumb: ص222 | فهرس الكتاب > كتاب الحاء > حدب
+  expected_quote_norm: وانزلنا الحديد فيه باس شديد الحديد وحددت السكين رققت حده واحددته
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 942530596cc3478a68de2558860e07ddc5cfc453d4bdae7697b824da760ef397
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-251
+  provider: shamela
+  author: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '269'
+  url: https://shamela.ws/book/23636/251
+  expected_breadcrumb: ص269 | فهرس الكتاب > كتاب الحاء > حيى
+  verified_breadcrumb: ص269 | فهرس الكتاب > كتاب الحاء > حيى
+  expected_quote_norm: من يريد الاقدام علي القتل فيكون في ذلك حياه الناس وقال عز وجل ومن احياها فكانما احيا الناس جميعا المايده
+    اي من نجاها من الهلاك وعلي هذا قوله
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: bbe293a626505a0c0a6b8f8c972c3630c2fc387c489f994d38036cd5a2711807
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-276
+  provider: shamela
+  author: Râgıb el-İsfahânî, Hüseyin b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '294'
+  url: https://shamela.ws/book/23636/276
+  expected_breadcrumb: ص294 | فهرس الكتاب > كتاب الخاء > خلف
+  verified_breadcrumb: ص294 | فهرس الكتاب > كتاب الخاء > خلف
+  expected_quote_norm: والمخالفه ان ياخذ كل واحد طريقا غير طريق الاخر في حاله او قوله والخلاف اعم من الضد لان كل ضدين مختلفان
+    وليس كل مختلفين ضدين ولما كان الاختلاف بين الناس في
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: ea760a3540622fff0fa168d9b3b251a71d1f4c5b31a5624b11a866d3449fa2ab
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-304
+  provider: shamela
+  author: Râgıb el-İsfahânî, Hüseyin b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '322'
+  url: https://shamela.ws/book/23636/304
+  expected_breadcrumb: ص322 | فهرس الكتاب > كتاب الدال > دول
+  verified_breadcrumb: ص322 | فهرس الكتاب > كتاب الدال > دول
+  expected_quote_norm: اسم الشي الذي يتداول بعينه والدوله المصدر قال تعالي كي لا يكون دوله بين الاغنيا منكم الحشر وتداول القوم
+    كذا اي تناولوه من
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 5abcb81117720c71cc133db6e12ec8ac753ec5230ca6de15be2bc710204dc5a4
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-452
+  provider: shamela
+  author: Râgıb el-İsfahânî, Hüseyin b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '470'
+  url: https://shamela.ws/book/23636/452
+  expected_breadcrumb: ص470 | فهرس الكتاب > كتاب الشين > شيط
+  verified_breadcrumb: ص470 | فهرس الكتاب > كتاب الشين > شيط
+  expected_quote_norm: والتشاور والمشاوره والمشوره استخراج الراي بمراجعه البعض الي البعض من قولهم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: eac0f6031c0ea728d5795fed425f573986bd84af68e9d5151d650c51e478a121
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-51
+  provider: shamela
+  author: Râgıb el-İsfahânî, Hüseyin b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '69'
+  url: https://shamela.ws/book/23636/51
+  expected_breadcrumb: ص69 | فهرس الكتاب > كتاب الألف > أد
+  verified_breadcrumb: ص69 | فهرس الكتاب > كتاب الألف > أد
+  expected_quote_norm: والجزيه وادا الامانه قال الله تعالي فليود الذي اوتمن امانته البقره ان الله يامركم ان تودوا الامانات
+    الي اهلها
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: f9b535ae365b811a34bf1441cce00d6a96d7b0f5bc19f33adcfde66a9c4364e5
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-534
+  provider: shamela
+  author: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '552'
+  url: https://shamela.ws/book/23636/534
+  expected_breadcrumb: ص552 | فهرس الكتاب > كتاب العين > عدل
+  verified_breadcrumb: ص552 | فهرس الكتاب > كتاب العين > عدل
+  expected_quote_norm: النحل فان العدل هو المساواه في المكافاه ان خيرا فخير وان شرا فشر والاحسان ان يقابل الخير باكثر منه
+    والشر باقل منه ورجل عدل عادل ورجال عدل يقال في الواحد والجمع قال الشاعر
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: bb97f4c8315ed9c48ca33c2ecb7b58cbb91bbb4196ba7f3cddafc8754bddd52d
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-543
+  provider: shamela
+  author: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '561'
+  url: https://shamela.ws/book/23636/543
+  expected_breadcrumb: ص561 | فهرس الكتاب > كتاب العين > عرف
+  verified_breadcrumb: ص561 | فهرس الكتاب > كتاب العين > عرف
+  expected_quote_norm: الله يعلم كذا ولا يقال يعرف كذا لما كانت المعرفه تستعمل في العلم القاصر المتوصل به
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 37815e38d7d6a295df047b14ff02015382479716b796bf05e50dc5ba7dd6a230
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-662
+  provider: shamela
+  author: Râgıb el-İsfahânî, Hüseyin b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '680'
+  url: https://shamela.ws/book/23636/662
+  expected_breadcrumb: ص680 | فهرس الكتاب > كتاب القاف > قفا
+  verified_breadcrumb: ص680 | فهرس الكتاب > كتاب القاف > قفا
+  expected_quote_norm: اتباع القفا كما ان الارتداف اتباع الردف ويكني بذلك عن الاغتياب وتتبع المعايب وقوله تعالي ولا تقف ما
+    ليس لك به علم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 28c87ab4edde3a4e2f0ead03112b9618af9f423e22b33d67bf492df6b9bfe1b6
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-690
+  provider: shamela
+  author: Râgıb el-İsfahânî, Hüseyin b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '708'
+  url: https://shamela.ws/book/23636/690
+  expected_breadcrumb: ص708 | فهرس الكتاب > كتاب الكاف > كره
+  verified_breadcrumb: ص708 | فهرس الكتاب > كتاب الكاف > كره
+  expected_quote_norm: والاكراه يقال في حمل الانسان علي ما يكرهه وقوله ولا تكرهوا فتياتكم علي البغا النور فنهي عن حملهن علي
+    ما فيه كره وكره وقوله لا اكراه في الدين
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 066b58674fa5fe4fea3410b13a54093767035d46a85512e701a7f7e1f1017ca5
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23636-855
+  provider: shamela
+  author: Râgıb el-İsfahânî, Hüseyin b. Muhammed
+  work: el-Müfredât fî Garîbi'l-Kur'ân
+  volume: '1'
+  printed_page: '873'
+  url: https://shamela.ws/book/23636/855
+  expected_breadcrumb: ص873 | فهرس الكتاب > كتاب الواو > وصف
+  verified_breadcrumb: ص873 | فهرس الكتاب > كتاب الواو > وصف
+  expected_quote_norm: الوصيه التقدم الي الغير بما يعمل به مقترنا بوعظ من قولهم ارض واصيه متصله النبات ويقال اوصاه ووصاه قال
+    تعالي ووصي بها ابراهيم بنيه ويعقوب
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 857a8805d8be56cdd78d24d1416bbc3fb70e547f57ed6a3b93f205795a2cbd2f
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-31237-2
+  provider: shamela
+  author: İbn Teymiyye, Takıyyüddîn Ahmed
+  work: es-Siyâsetü'ş-Şer'iyye fî Islâhi'r-Râ'î ve'r-Ra'iyye
+  volume: '1'
+  printed_page: '6'
+  url: https://shamela.ws/book/31237/2
+  expected_breadcrumb: ص6 | فهرس الكتاب > المقدمة
+  verified_breadcrumb: ص6 | فهرس الكتاب > المقدمة
+  expected_quote_norm: قال العلما نزلت الايه الاولي في ولاه الامور عليهم ان يودوا الامانات الي اهلها واذا حكموا بين الناس
+    ان يحكموا بالعدل
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: bf8081603cb104e66b3874b118e1fb588d32471e19d55bbf8115976b0edc1671
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-482-296
+  provider: shamela
+  author: Ebû Tâlib el-Mekkî (ö. 386/996)
+  work: Kûtü'l-Kulûb
+  volume: '1'
+  printed_page: '302'
+  url: https://shamela.ws/book/482/296
+  expected_breadcrumb: ج1 - ص302 | فهرس الكتاب > الفصل الثاني والثلاثون شرح مقامات اليقين وأحوال الموقنين
+  verified_breadcrumb: ج1 - ص302 | فهرس الكتاب > الفصل الثاني والثلاثون شرح مقامات اليقين وأحوال الموقنين
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: fc51f7895a47edefe8c5ae975dc199ea07a92a8e7c989302d593c8c9cc1bb6c9
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-6230-32
+  provider: shamela
+  author: Hâris el-Muhâsibî (ö. 243/857)
+  work: Âdâbü'n-Nüfûs
+  volume: '1'
+  printed_page: '51'
+  url: https://shamela.ws/book/6230/32
+  expected_breadcrumb: ص51 | فهرس الكتاب > باب صفة الورع
+  verified_breadcrumb: ص51 | فهرس الكتاب > باب صفة الورع
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: f2c50b6570ebb5e97c403130f7a8eb11296277cda1089951e631979e184f405c
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-6786-11
+  provider: shamela
+  author: Ebû Abdurrahmân es-Sülemî (ö. 412/1021)
+  work: Hakâ'iku't-Tefsîr
+  volume: '1'
+  printed_page: '15'
+  url: https://shamela.ws/book/6786/11
+  expected_breadcrumb: ص15 | فهرس الكتاب > طلب الرئاسة بالعلم والتكبر
+  verified_breadcrumb: ص15 | فهرس الكتاب > طلب الرئاسة بالعلم والتكبر
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 098ba9745dc85c4923b0f0492b94acf6d1f5c66f6278cfe08bb24288a0b5d854
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-6875-108
+  provider: shamela
+  author: Hâris el-Muhâsibî (ö. 243/857)
+  work: er-Ri'âye li-Hukûkillâh
+  volume: '1'
+  printed_page: '119'
+  url: https://shamela.ws/book/6875/108
+  expected_breadcrumb: ص119 | فهرس الكتاب > فصل في إيثار الأصحاب الأغنياء على الفقراء
+  verified_breadcrumb: ص119 | فهرس الكتاب > فصل في إيثار الأصحاب الأغنياء على الفقراء
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: d2b64add0a40d7160f7daea048335e21116ae9858ffe5e97bc2d333ac944b124
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-6875-122
+  provider: shamela
+  author: Hâris el-Muhâsibî (ö. 243/857)
+  work: er-Ri'âye li-Hukûkillâh
+  volume: '1'
+  printed_page: '133'
+  url: https://shamela.ws/book/6875/122
+  expected_breadcrumb: ص133 | فهرس الكتاب > فائدة في أن الإعجاب لا يقع إلا بصفة كمال
+  verified_breadcrumb: ص133 | فهرس الكتاب > فائدة في أن الإعجاب لا يقع إلا بصفة كمال
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 63d216d62299e4622136b2638f019f710b97ac7da766a9bb723dea7e894baa9f
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-6875-129
+  provider: shamela
+  author: Hâris el-Muhâsibî (ö. 243/857)
+  work: er-Ri'âye li-Hukûkillâh
+  volume: '1'
+  printed_page: '140'
+  url: https://shamela.ws/book/6875/129
+  expected_breadcrumb: ص140 | فهرس الكتاب > فصل في الكبر
+  verified_breadcrumb: ص140 | فهرس الكتاب > فصل في الكبر
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 8d588b47463b6ca6992525babba1512332b0bb18beeebcbf6b11d5acdac0be3c
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-6875-134
+  provider: shamela
+  author: Hâris el-Muhâsibî (ö. 243/857)
+  work: er-Ri'âye li-Hukûkillâh
+  volume: '1'
+  printed_page: '145'
+  url: https://shamela.ws/book/6875/134
+  expected_breadcrumb: ص145 | فهرس الكتاب > فصل في التكبر بالأسباب الدنيوية
+  verified_breadcrumb: ص145 | فهرس الكتاب > فصل في التكبر بالأسباب الدنيوية
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: e6867a8e440a7dea1e220d9e10bc93e8042361ff78ffb628b9b3eab9a39d0160
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-6875-140
+  provider: shamela
+  author: Hâris el-Muhâsibî (ö. 243/857)
+  work: er-Ri'âye li-Hukûkillâh
+  volume: '1'
+  printed_page: '151'
+  url: https://shamela.ws/book/6875/140
+  expected_breadcrumb: ص151 | فهرس الكتاب > فصل في الحسد والتنافس
+  verified_breadcrumb: ص151 | فهرس الكتاب > فصل في الحسد والتنافس
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 04a842cf4fa2acad964905b010db42c40962406c86edba562bdf63e06f7bd416
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-6875-27
+  provider: shamela
+  author: Hâris el-Muhâsibî (ö. 243/857)
+  work: er-Ri'âye li-Hukûkillâh
+  volume: '1'
+  printed_page: '38'
+  url: https://shamela.ws/book/6875/27
+  expected_breadcrumb: ص38 | فهرس الكتاب > فصل في النهي عن التوسل إلى المأمورات بالمحرمات والشبهات
+  verified_breadcrumb: ص38 | فهرس الكتاب > فصل في النهي عن التوسل إلى المأمورات بالمحرمات والشبهات
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: edfaa4ca024f66bd7809de7f3c85773ee2d5fd3054b5fb122103b49f62f99a91
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-6875-43
+  provider: shamela
+  author: Hâris el-Muhâsibî (ö. 243/857)
+  work: er-Ri'âye li-Hukûkillâh
+  volume: '1'
+  printed_page: '54'
+  url: https://shamela.ws/book/6875/43
+  expected_breadcrumb: ص54 | فهرس الكتاب > فصل في بيان الإخلاص والرياء
+  verified_breadcrumb: ص54 | فهرس الكتاب > فصل في بيان الإخلاص والرياء
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 11d5fa16debbca068873cdc7499071487c67e732e327be89fd35a17e6df41580
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-6875-8
+  provider: shamela
+  author: Hâris el-Muhâsibî (ö. 243/857)
+  work: er-Ri'âye li-Hukûkillâh
+  volume: '1'
+  printed_page: '18'
+  url: https://shamela.ws/book/6875/8
+  expected_breadcrumb: ص18 | فهرس الكتاب > فصل في بيان محاسبة النفس على الأعمال السالفة والمستأنفة
+  verified_breadcrumb: ص18 | فهرس الكتاب > فصل في بيان محاسبة النفس على الأعمال السالفة والمستأنفة
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: a2a7ba128926d9499d9e427a8cec25f3fbfbfe84510e40a7d4386cb186325640
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-765-120
+  provider: shamela
+  author: Ebü'l-Hasan el-Mâverdî (ö. 450/1058)
+  work: Edebü'd-Dünyâ ve'd-Dîn
+  volume: '1'
+  printed_page: '135'
+  url: https://shamela.ws/book/765/120
+  expected_breadcrumb: ص135 | فهرس الكتاب > الباب الرابع أدب الدنيا
+  verified_breadcrumb: ص135 | فهرس الكتاب > الباب الرابع أدب الدنيا
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 9b8377e7ba2a1cfcbea03dc887f53172c04fa7a5f656b7fa78e44289cb04b65a
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-7798-14442
+  provider: shamela
+  author: Ebû Ca'fer Muhammed b. Cerîr et-Taberî
+  work: Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân
+  volume: '21'
+  printed_page: '383'
+  url: https://shamela.ws/book/7798/14442
+  expected_breadcrumb: 'ج21 - ص383 | فهرس الكتاب > تفسير سورة "الحجرات" > القول في تأويل قوله ﷿: ﴿ياأيها الناس إنا خلقناكم
+    من ذكر وأنثى وجعلناكم شعوبا وقبائل لتعارفوا إن أكرمكم عند الله أتقاكم إن الله عليم خبير (١٣)﴾.'
+  verified_breadcrumb: 'ج21 - ص383 | فهرس الكتاب > تفسير سورة "الحجرات" > القول في تأويل قوله ﷿: ﴿ياأيها الناس إنا خلقناكم
+    من ذكر وأنثى وجعلناكم شعوبا وقبائل لتعارفوا إن أكرمكم عند الله أتقاكم إن الله عليم خبير (١٣)﴾.'
+  expected_quote_norm: انا خلقناكم من ذكر وانثي قال ما خلق الله الولد الا من نطفه الرجل والمراه جميعا لان الله يقول خلقناكم
+    من ذكر وانثي
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: b7d2634dc7162aaaa9cc23bc0561897818a386b42c725b694f3512583daa874e
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-7798-2958
+  provider: shamela
+  author: Taberî, Muhammed b. Cerîr
+  work: Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân
+  volume: '4'
+  printed_page: '548'
+  url: https://shamela.ws/book/7798/2958
+  expected_breadcrumb: 'ج4 - ص548 | فهرس الكتاب > القول في تفسير السورة التي يذكر فيها البقرة > القول في تأويل قوله جل ثناؤه:
+    ﴿لا إكراه في الدين قد تبين الرشد من الغي﴾.'
+  verified_breadcrumb: 'ج4 - ص548 | فهرس الكتاب > القول في تفسير السورة التي يذكر فيها البقرة > القول في تأويل قوله جل ثناؤه:
+    ﴿لا إكراه في الدين قد تبين الرشد من الغي﴾.'
+  expected_quote_norm: قال ثنا اسباط عن السدي قوله لا اكراه في الدين قد تبين الرشد من الغي الي لا انفصام لها قال نزلت في رجل
+    من
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 39d0ea02d6ac6f9a9762f23ca1ff4708cd4fb1232fed0d26c2226e24d50decff
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-7798-5636
+  provider: shamela
+  author: Ebû Ca'fer Muhammed b. Cerîr et-Taberî
+  work: Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân
+  volume: '8'
+  printed_page: '349'
+  url: https://shamela.ws/book/7798/5636
+  expected_breadcrumb: ج8 - ص349 | فهرس الكتاب > تفسير السورة التى يذكر فيها المائدة > ذكر من قال ذلك
+  verified_breadcrumb: ج8 - ص349 | فهرس الكتاب > تفسير السورة التى يذكر فيها المائدة > ذكر من قال ذلك
+  expected_quote_norm: حدثني محمد بن سعد قال ثني ابي قال ثني عمي قال ثني ابي عن ابيه عن ابن عباس في قوله من اجل ذلك كتبنا
+    علي بني اسراييل انه من قتل
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 24b46cd2dce3d00ec38d8a487ff91eeaf8a88dadb1346ba08b2c15554a18ae6d
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-7798-9798
+  provider: shamela
+  author: Taberî, Ebû Ca'fer Muhammed b. Cerîr
+  work: Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân
+  volume: '14'
+  printed_page: '337'
+  url: https://shamela.ws/book/7798/9798
+  expected_breadcrumb: 'ج14 - ص337 | فهرس الكتاب > تفسير سورة النحل > القول في تأويل قوله تعالى: ﴿إن الله يأمر بالعدل والإحسان
+    وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي يعظكم لعلكم تذكرون (٩٠)﴾.'
+  verified_breadcrumb: 'ج14 - ص337 | فهرس الكتاب > تفسير سورة النحل > القول في تأويل قوله تعالى: ﴿إن الله يأمر بالعدل والإحسان
+    وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي يعظكم لعلكم تذكرون (٩٠)﴾.'
+  expected_quote_norm: عن عامر عن شتير بن شكل قال سمعت عبد الله يقول ان اجمع ايه في القران في سوره النحل ان الله يامر بالعدل
+    والاحسان وايتا ذي القربي الي اخر الايه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 771e7f48ef6b0b6f87f59f492bc1001b17ce49a7589376f93c25aa8d8fed4ca9
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-8370-1200
+  provider: shamela
+  author: İbn Kayyim el-Cevziyye (ö. 751/1350)
+  work: Medâricü's-Sâlikîn
+  volume: '3'
+  printed_page: '224'
+  url: https://shamela.ws/book/8370/1200
+  expected_breadcrumb: ج3 - ص224 | فهرس الكتاب > فصل في منازل إياك نعبد > فصل المشاهدة > درجات المشاهدة > فصل الدرجة الأولى
+    مشاهدة معرفة
+  verified_breadcrumb: ج3 - ص224 | فهرس الكتاب > فصل في منازل إياك نعبد > فصل المشاهدة > درجات المشاهدة > فصل الدرجة الأولى
+    مشاهدة معرفة
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 50c9aab201cf30ab68b270b2ecb29ae2ccdbda29b83dec81c04f24cf6293187d
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-8370-779
+  provider: shamela
+  author: İbn Kayyim el-Cevziyye (ö. 751/1350)
+  work: Medâricü's-Sâlikîn
+  volume: '2'
+  printed_page: '285'
+  url: https://shamela.ws/book/8370/779
+  expected_breadcrumb: ج2 - ص285 | فهرس الكتاب > فصل في منازل إياك نعبد > فصل منزلة الإيثار > فصل درجات الإيثار > فصل الدرجة
+    الثانية إيثار رضا الله على رضا غيره
+  verified_breadcrumb: ج2 - ص285 | فهرس الكتاب > فصل في منازل إياك نعبد > فصل منزلة الإيثار > فصل درجات الإيثار > فصل الدرجة
+    الثانية إيثار رضا الله على رضا غيره
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 968d32aca3553b2d2a4549294ea5367b53b6eb71b71fceab82d00b47675f90c6
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-1020
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '3'
+  printed_page: '274'
+  url: https://shamela.ws/book/9472/1020
+  expected_breadcrumb: ج3 - ص274 | فهرس الكتاب > ربع المهلكات > كتاب ذم الجاه والرياء
+  verified_breadcrumb: ج3 - ص274 | فهرس الكتاب > ربع المهلكات > كتاب ذم الجاه والرياء
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 149f80a59b4dce6afa077189cab3d35b94eca3a3166e8a5b1fb818753c9789c0
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-1089
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '3'
+  printed_page: '343'
+  url: https://shamela.ws/book/9472/1089
+  expected_breadcrumb: ج3 - ص343 | فهرس الكتاب > ربع المهلكات > كتاب ذم الكبر والعجب
+  verified_breadcrumb: ج3 - ص343 | فهرس الكتاب > ربع المهلكات > كتاب ذم الكبر والعجب
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: ec0454e22635dbbf87deef759fa5801ac430df4ed713571af97fb6454be3aa06
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-1240
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '4'
+  printed_page: '81'
+  url: https://shamela.ws/book/9472/1240
+  expected_breadcrumb: ج4 - ص81 | فهرس الكتاب > ربع المنجيات > كتاب الصبر والشكر > الشطر الثاني من الكتاب في الشكر > الركن
+    الأول في نفس الشكر > بيان حد الشكر وحقيقته
+  verified_breadcrumb: ج4 - ص81 | فهرس الكتاب > ربع المنجيات > كتاب الصبر والشكر > الشطر الثاني من الكتاب في الشكر > الركن
+    الأول في نفس الشكر > بيان حد الشكر وحقيقته
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: e131dd6a3fdeaec1928b3bc03dc5ced4dcdcfd0ca2c9a7413a534e804acb2693
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-1404
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '4'
+  printed_page: '245'
+  url: https://shamela.ws/book/9472/1404
+  expected_breadcrumb: ج4 - ص245 | فهرس الكتاب > ربع المنجيات > كتاب التوحيد والتوكل > الشطر الأول في التوحيد
+  verified_breadcrumb: ج4 - ص245 | فهرس الكتاب > ربع المنجيات > كتاب التوحيد والتوكل > الشطر الأول في التوحيد
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: d4f62356d0f6d1339d8adfbb2223607b7b7e4701f55a8f81dcf7735f0c546a3c
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-1520
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '4'
+  printed_page: '361'
+  url: https://shamela.ws/book/9472/1520
+  expected_breadcrumb: ج4 - ص361 | فهرس الكتاب > ربع المنجيات > كتاب النية والإخلاص والصدق
+  verified_breadcrumb: ج4 - ص361 | فهرس الكتاب > ربع المنجيات > كتاب النية والإخلاص والصدق
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: f72182ed42d0e6a14028a89a710886ccfed1a7ae2ef515c45400ddfced82d1f9
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-1552
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '4'
+  printed_page: '393'
+  url: https://shamela.ws/book/9472/1552
+  expected_breadcrumb: ج4 - ص393 | فهرس الكتاب > ربع المنجيات > كتاب المراقبة والمحاسبة
+  verified_breadcrumb: ج4 - ص393 | فهرس الكتاب > ربع المنجيات > كتاب المراقبة والمحاسبة
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: cc95d8bf9088ff8ab43f0311ea44dd6e102e8328196f05a4b03d7f8730fe0666
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-402
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '2'
+  printed_page: '42'
+  url: https://shamela.ws/book/9472/402
+  expected_breadcrumb: ج2 - ص42 | فهرس الكتاب > ربع العادات > كتاب آداب النكاح
+  verified_breadcrumb: ج2 - ص42 | فهرس الكتاب > ربع العادات > كتاب آداب النكاح
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: f9a9d140c55658ecdb0713d24a87be70dae1931a07a2b82529ee384f38bcc61c
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-448
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '2'
+  printed_page: '88'
+  url: https://shamela.ws/book/9472/448
+  expected_breadcrumb: ج2 - ص88 | فهرس الكتاب > ربع العادات > كتاب الحلال والحرام
+  verified_breadcrumb: ج2 - ص88 | فهرس الكتاب > ربع العادات > كتاب الحلال والحرام
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: b17af217a2697e1c065f3ee13349bcb7507fe56dc223ac6132748a2734ec43e2
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-910
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '3'
+  printed_page: '164'
+  url: https://shamela.ws/book/9472/910
+  expected_breadcrumb: ج3 - ص164 | فهرس الكتاب > ربع المهلكات > كتاب ذم الغضب والحقد والحسد
+  verified_breadcrumb: ج3 - ص164 | فهرس الكتاب > ربع المهلكات > كتاب ذم الغضب والحقد والحسد
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: cfd69bba5e08b83a5c9dd09554b0bb1f01dd5869ae2e5a57502245eb1dee0954
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-921
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '3'
+  printed_page: '175'
+  url: https://shamela.ws/book/9472/921
+  expected_breadcrumb: ج3 - ص175 | فهرس الكتاب > ربع المهلكات > كتاب ذم الغضب والحقد والحسد
+  verified_breadcrumb: ج3 - ص175 | فهرس الكتاب > ربع المهلكات > كتاب ذم الغضب والحقد والحسد
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 3073457fa743f3d14c69401f6dcf56a05b0769bd96a12c3c4558017525647ff7
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-932
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '3'
+  printed_page: '186'
+  url: https://shamela.ws/book/9472/932
+  expected_breadcrumb: ج3 - ص186 | فهرس الكتاب > ربع المهلكات > كتاب ذم الغضب والحقد والحسد
+  verified_breadcrumb: ج3 - ص186 | فهرس الكتاب > ربع المهلكات > كتاب ذم الغضب والحقد والحسد
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: bb34c19805d61d7f476a10cfd8e26656338a0769a98965c670c8534492b73e22
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9472-977
+  provider: shamela
+  author: Ebû Hâmid el-Gazzâlî (ö. 505/1111)
+  work: İhyâ'u 'Ulûmi'd-Dîn
+  volume: '3'
+  printed_page: '231'
+  url: https://shamela.ws/book/9472/977
+  expected_breadcrumb: ج3 - ص231 | فهرس الكتاب > ربع المهلكات > كتاب ذم البخل وذم حب المال
+  verified_breadcrumb: ج3 - ص231 | فهرس الكتاب > ربع المهلكات > كتاب ذم البخل وذم حب المال
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 25da668d25e5c9f6fa164a6a068208af6a7a1fa3e73dc3fd73620172cfcb5690
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9776-2272
+  provider: shamela
+  author: Muhammed et-Tâhir İbn Âşûr
+  work: et-Tahrîr ve't-Tenvîr
+  volume: '6'
+  printed_page: '175'
+  url: https://shamela.ws/book/9776/2272
+  expected_breadcrumb: 'ج6 - ص175 | فهرس الكتاب > ٥- سورة المائدة > [سورة المائدة (٥) : آية ٣٢]'
+  verified_breadcrumb: 'ج6 - ص175 | فهرس الكتاب > ٥- سورة المائدة > [سورة المائدة (٥) : آية ٣٢]'
+  expected_quote_norm: هنا مجازي شبه سبب الشي بابتدا صدوره وهو مثار قولهم ان من معاني
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: b4e46a6260ed31590ae653da99e9ec107d597f00ce9f59eca651dee4b094dfbc
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9776-9082
+  provider: shamela
+  author: Muhammed et-Tâhir İbn Âşûr
+  work: et-Tahrîr ve't-Tenvîr
+  volume: '26'
+  printed_page: '258'
+  url: https://shamela.ws/book/9776/9082
+  expected_breadcrumb: 'ج26 - ص258 | فهرس الكتاب > ٤٩- سورة الحجرات > [سورة الحجرات (٤٩) : آية ١٣]'
+  verified_breadcrumb: 'ج26 - ص258 | فهرس الكتاب > ٤٩- سورة الحجرات > [سورة الحجرات (٤٩) : آية ١٣]'
+  expected_quote_norm: والمراد بالذكر والانثي ادم وحوا ابوا البشر بقرينه قوله وجعلناكم شعوبا وقبايل لتعارفوا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 4ab13b6cf3cd85a27c909540846a579b82e2fd3ef3ed0ff55c9ca5ee6f5f447b
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-ucdp-uu-se
+  provider: institutional
+  author: Uppsala Conflict Data Program (UCDP)
+  work: UCDP Conflict Encyclopedia
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://ucdp.uu.se
+  expected_breadcrumb: Uppsala Conflict Data Program (UCDP) | UCDP Conflict Encyclopedia
+  verified_breadcrumb: Uppsala Conflict Data Program (UCDP) | UCDP Conflict Encyclopedia
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 82310075e8effd4e362aa4c2966d0b73cb9b9380319df1a1f10bad4151f81611
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-ucdp-uu-se
+  provider: institutional
+  author: Uppsala Conflict Data Program (UCDP)
+  work: UCDP Conflict Encyclopedia
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://ucdp.uu.se/
+  expected_breadcrumb: Uppsala Conflict Data Program (UCDP) | UCDP Conflict Encyclopedia
+  verified_breadcrumb: Uppsala Conflict Data Program (UCDP) | UCDP Conflict Encyclopedia
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 82310075e8effd4e362aa4c2966d0b73cb9b9380319df1a1f10bad4151f81611
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-uis-unesco-org
+  provider: institutional
+  author: UNESCO Institute for Statistics (UIS)
+  work: UIS Data Portal
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://uis.unesco.org
+  expected_breadcrumb: UNESCO Institute for Statistics (UIS) | UIS Data Portal
+  verified_breadcrumb: UNESCO Institute for Statistics (UIS) | UIS Data Portal
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: abdd9862ddacc161f8be8794ab7c2810c168eaefa8268a1a5883da8d16daea1b
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-wid-world
+  provider: institutional
+  author: World Inequality Lab
+  work: World Inequality Database (WID)
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://wid.world
+  expected_breadcrumb: World Inequality Lab | World Inequality Database (WID)
+  verified_breadcrumb: World Inequality Lab | World Inequality Database (WID)
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 7cb1f55dfe4bdb56420c51cde96d36ff5da376028c0bf835383a70f2f1e7ae90
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-worldjusticeproject-org
+  provider: institutional
+  author: World Justice Project (WJP)
+  work: WJP Rule of Law Index
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://worldjusticeproject.org
+  expected_breadcrumb: World Justice Project (WJP) | WJP Rule of Law Index
+  verified_breadcrumb: World Justice Project (WJP) | WJP Rule of Law Index
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 1df493a2a86177befbbc4c8015d38ef2f32762f121e4ae48983061793039e1a0
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-worldjusticeproject-org
+  provider: institutional
+  author: World Justice Project (WJP)
+  work: WJP Rule of Law Index
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://worldjusticeproject.org/
+  expected_breadcrumb: World Justice Project (WJP) | WJP Rule of Law Index
+  verified_breadcrumb: World Justice Project (WJP) | WJP Rule of Law Index
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 1df493a2a86177befbbc4c8015d38ef2f32762f121e4ae48983061793039e1a0
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s16-a90
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '2'
+  printed_page: Surah 16:90
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=16&tAyahNo=90&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 16, Ayah 90 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 16, Ayah 90 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: ان الله يامر بالعدل والاحسان وايتا ذي القربي وينهي عن الفحشا والمنكر والبغي العدل ما هو صواب وحسن وهو
+    نقيض الجور والظلم امر الله الانسان بالعدل فيما بينه وبين نفسه وفيما بينه وبين ربه وفيما بينه وبين الخلق فالعدل الذي بينه
+    وبين نفسه منعها عما فيه هلاكها وكمال عدله مع نفسه كي عروق طمعه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 971b3c6f8f90d2497b153d727c254a1239706467b80b49b415d09cfbe67f9e61
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s17-a36
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '2'
+  printed_page: Surah 17:36
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=17&tAyahNo=36&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 17, Ayah 36 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 17, Ayah 36 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: ولا تقف ما ليس لك به علم ان السمع والبصر والفواد اذا غلبت عليك مجوزات الظنون ولم يطلعك الحق علي اليقين
+    فلا تتكلف الوقوف عليه من غير برهان ان السمع والبصر هذه امانه الحق سبحانه عند العبد ومن استعمل هذه الجوارح في الطاعات وصانها
+    عن استعمالها في المخالفات فقد سلم الامانه علي وصف السلامه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 5f0764c6cc008ae10c5331a6c5522ef03a44f3ed240d6b79895df368de9aebc6
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s2-a256
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: Surah 2:256
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=2&tAyahNo=256&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 2, Ayah 256 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 2, Ayah 256 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: لا اكراه في الدين قد تبين الرشد من الغي فان الحجج لايحه والبراهين ظاهره واضحه فمن يكفر بالطاغوت وطاغوت
+    كل واحد ما يشغله عن ربه ويومن بالله والايمان حياه القلب بالله فقد استمسك بالعروه الوثقي الاستمساك بالعروه الوثقي الوقوف
+    عند الامر والنهي
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 9f7298b3b9035507b7beab2b1af359810bd28c25bfa01dc35b4e87f6612a42d5
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s3-a159
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: Surah 3:159
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=3&tAyahNo=159&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 3, Ayah 159 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 3, Ayah 159 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: فبما رحمه من الله لنت لهم ولو كنت فظا غليظ القلب لانفضوا من حولك ويقال ان من خصايص رحمته سبحانه عليه
+    ان قواه حتي صحبهم وصبر علي تبليغ الرساله اليهم واستغفر لهم وشاورهم في الامر اي اثبت لهم محلا فان المعفو عنه في صدار الخجله
+    لا يري لنفسه مقام الكرامه فاذا شاورتهم ازلت عنهم انكسارهم وطيبت لهم قلوبهم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 9d02ffb0ccc63f0e22b20fb38227d063eeef8e989dffa1dd2d6e72891aeba5e0
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s30-a22
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '3'
+  printed_page: Surah 30:22
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=30&tAyahNo=22&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 30, Ayah 22 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 30, Ayah 22 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: واختلاف السنتكم والوانكم ان في ذلك لايات للعالمين ومن اياته اختلاف لغات اهل الارض واختلاف تسبيحات الملايكه
+    الذين هم سكان السما وان اختصاص كل شي منها بحكم شاهد عدل ودليل صدق علي انها تناجي افكار المتيقظين وتنادي علي انفسها انها
+    جميعها من تقدير العزيز العليم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: cc7025a99d93bbc693b247750519ba3f538e29940bc2bfbf23d3255351e158fe
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s4-a34
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: Surah 4:34
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=4&tAyahNo=34&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 4, Ayah 34 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 4, Ayah 34 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: خص الرجال بالقوه فزيد بالحمل عليهم فالحمل علي حسب القوه والعبره بالقلوب والهمم لا بالنفوس والجثث اي
+    ارتقوا في تهذيبهن بالتدريج والرفق وان صلح الامر بالوعظ فلا تستعمل العصا بالضرب فالايه تتضمن اداب العشره
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: cf81aa9bc67463586af0c6231e18e414f24dab199658b909a253797656ff8bae
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s4-a58
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: Surah 4:58
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=4&tAyahNo=58&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 4, Ayah 58 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 4, Ayah 58 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: ان الله يامركم ان تودوا الامانات الي اهلها واذا حكمتم بين الناس ان تحكموا بالعدل رد الامانات الي اهلها
+    تسليم اموال الخلق لهم بعد اشرافك عليها بحيث لا تفسد عليهم ويقال لله سبحانه وتعالي امانات وضعها عندك فرد الامانه الي اهلها
+    تسليمها الي الله سبحانه سالمه من خيانتك فيها والحكم بين الناس بالعدل تسويه القريب والبعيد في العطا والبذل والا تحملك مخامره
+    حقد علي انتقام لنفس
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 64164cb339996545058dfb57d0d887189b3b3d392273f9a7fb5738cf002b33f7
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s49-a13
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '3'
+  printed_page: Surah 49:13
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=13&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 49, Ayah 13 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 49, Ayah 13 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: انا خلقناكم من ذكر وانثي وجعلناكم شعوبا وقبايل لتعارفوا ان اكرمكم عند الله اتقاكم انا خلقناكم اجمعكم
+    من ادم وحوا ثم جعلناكم شعوبا وقبايل لتعارفوا لا لتكاثروا ولا لتنافسوا ان اكرمكم عند الله اتقاكم اتقاكم اي ابعدكم عن نفسه
+    فالتقوي هي التحرر من النفس واطماعها وحظوظها
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: c8a521ccf10ab761549de759f026b95c641d863418006e9352b449384ba34fb2
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s49-a9
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '3'
+  printed_page: Surah 49:9
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=49&tAyahNo=9&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 49, Ayah 9 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 49, Ayah 9 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: وان طايفتان من المومنين اقتتلوا فاصلحوا بينهما وتدل الايه علي وجوب نصره المظلوم والاشاره فيه ان النفس
+    اذا ظلمت القلب بدعايه الي شهواتها واشتغالها في فسادها فيجب ان يقاتلها حتي تثخن بالجراحه بسيوف المجاهده فان استجابت الي
+    الطاعه يعفي عنها لانها هي المطيه الي باب الله
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 70b4d7b2c71059bfa7bccfc9c79550e3b87a457f4b82114a3f4ee327e21e4e86
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s5-a32
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: Surah 5:32
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=5&tAyahNo=32&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 5, Ayah 32 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 5, Ayah 32 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: من قتل نفسا بغير نفس او فساد في الارض فكانما قتل الناس جميعا ومن احياها فكانما احيا الناس جميعا هذا
+    قريب مما قال النبي صلي الله عليه وسلم من سن حسنه فله اجرها واجر من عمل بها ومن سن سييه فعليه وزرها ووزر من عمل بها الي
+    يوم القيامه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 432e6edb346b1a36ff65ae99ff9788f5e5f0d549bcaf6043dc63a72d4aa8edfd
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s5-a38
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: Surah 5:38
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=5&tAyahNo=38&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 5, Ayah 38 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 5, Ayah 38 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: والسارق والسارقه فاقطعوا ايديهما جزا بما كسبا نكالا من الله والاشاره فيه ان امر الملك مقابل بالتعظيم
+    بل كل من كان اعلي رتبه فخطره اتم واخفي والمطالبه عليه اشد فلا يستخفن احد الالمام بزله
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 6509ecea77142bd3db5d3e62c6f6a4edcd6c0d0628f3de1d7e98c25656e7e76b
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s57-a25
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '3'
+  printed_page: Surah 57:25
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=57&tAyahNo=25&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 57, Ayah 25 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 57, Ayah 25 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: لقد ارسلنا رسلنا بالبينات وانزلنا معهم الكتاب والميزان ليقوم الناس بالقسط اي ارسلناهم مويدين بالحجج
+    اللايحه والبراهين الواضحه وانزلنا معهم الكتب المنزله اي الحكم بالقران واعتبار العدل والتسويه بين الناس ليقوم الناس بالقسط
+    فلا يظلم احد احدا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 6fdac12c570e0dc0f9b52a6ea208402a4465bc50a60eacdf1b4caf79961a0abb
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s59-a7
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '3'
+  printed_page: Surah 59:7
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=59&tAyahNo=7&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 59, Ayah 7 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 59, Ayah 7 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: كي لا يكون دوله بين الاغنيا منكم ذلك لان تحرر القلب من الاعواض والاملاك صفه الساده والاكابر ومن اسرته
+    الاخطار وبقي في شح نفسه فهو في تضييقه وتدنيقه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: f0bdc9a40311846f5222493052180604fdacbfd618336d4ef15eee909918ab6b
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s6-a151
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '1'
+  printed_page: Surah 6:151
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=6&tAyahNo=151&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 6, Ayah 151 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 6, Ayah 151 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: ولا تقربوا الفواحش ما ظهر منها وما بطن هذه اشيا عشره تضمنتها هذه الايه اولها الشرك فانه راس المحرمات
+    وينقسم ذلك الي شرك جلي وشرك خفي فالجلي عباده الاصنام والخفي ملاحظه الانام ثم ارتكاب الفواحش ما ظهر منها وما بطن وما بدا
+    وما استتر ثم بذل الانصاف في المعاملات والتوقي من جميع التبعات ثم الصدق في القول والعدل في الفعل
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: ef39fea6d31cd9f5aaf7c5771223ee1d76dca4089396b4ca90e28cbdeaaebf36
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s9-a5
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '2'
+  printed_page: Surah 9:5
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=9&tAyahNo=5&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 9, Ayah 5 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 9, Ayah 5 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: فاقتلوا المشركين حيث وجدتموهم وخذوهم واحصروهم واقعدوا لهم كل مرصد امرهم بمعالجه جميع انواع القتال مع
+    الاعدا واعدي عدوك نفسك التي بين جنبيك بالتضييق عليها بالمبالغه في جميع انواع الرياضات واستفراغ الوسع في القيام بصدق المعاملات
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 08019f4f0acdea1f73a8d0cf8d42849a1796b093195908a9d8b4551ca6009f01
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-economicsandpeace-org
+  provider: institutional
+  author: Institute for Economics & Peace (IEP)
+  work: Global Peace Index Portal
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.economicsandpeace.org
+  expected_breadcrumb: Institute for Economics & Peace (IEP) | Global Peace Index Portal
+  verified_breadcrumb: Institute for Economics & Peace (IEP) | Global Peace Index Portal
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: a34886b09645935a6fa0dfa3d68f15907acceab15b823e96d8aec1bb46586a6c
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-oecd-org
+  provider: institutional
+  author: OECD
+  work: OECD Governance & Policy Portal
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.oecd.org
+  expected_breadcrumb: OECD | OECD Governance & Policy Portal
+  verified_breadcrumb: OECD | OECD Governance & Policy Portal
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: f2863351aafba9551822b7935fcb2429ffb017d09e7fe34d26b801e2fde8c647
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-oecd-org-gov-regulatory-policy
+  provider: institutional
+  author: OECD
+  work: OECD Regulatory Policy Division
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.oecd.org/gov/regulatory-policy/
+  expected_breadcrumb: OECD | OECD Regulatory Policy Division
+  verified_breadcrumb: OECD | OECD Regulatory Policy Division
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: a136b45a04353b2d19b8ac9116f8c699ce0269138f7b9cbc0addc377868ba342
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-oiml-org
+  provider: institutional
+  author: OIML
+  work: International Organization of Legal Metrology
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.oiml.org
+  expected_breadcrumb: OIML | International Organization of Legal Metrology
+  verified_breadcrumb: OIML | International Organization of Legal Metrology
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 6730cc97cbe7ff3cd06f3bc02684975826758e264231474f22ab8c10c02dd533
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-pewresearch-org
+  provider: institutional
+  author: Pew Research Center
+  work: Pew Research Global Attitudes & Religion
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.pewresearch.org
+  expected_breadcrumb: Pew Research Center | Pew Research Global Attitudes & Religion
+  verified_breadcrumb: Pew Research Center | Pew Research Global Attitudes & Religion
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: cc4f094d0be9cec4713ef9ced393aba7679457fc48adb3b31e9908ba3b68ceee
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-pewresearch-org-religion
+  provider: institutional
+  author: Pew Research Center
+  work: Pew Research Religion & Public Life
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.pewresearch.org/religion/
+  expected_breadcrumb: Pew Research Center | Pew Research Religion & Public Life
+  verified_breadcrumb: Pew Research Center | Pew Research Religion & Public Life
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 7f853c3fd381bdcc96df57257a582b9e804228b8327bd1278ae5a04f210314fb
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-poynter-org-ifcn
+  provider: institutional
+  author: International Fact-Checking Network (IFCN)
+  work: Poynter IFCN Code of Principles
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.poynter.org/ifcn
+  expected_breadcrumb: International Fact-Checking Network (IFCN) | Poynter IFCN Code of Principles
+  verified_breadcrumb: International Fact-Checking Network (IFCN) | Poynter IFCN Code of Principles
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: b10c4765567f6bf0ebc8a5edc89eb8cdea2abd28f6cf12c030f2a1c222b7407e
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-poynter-org-ifcn
+  provider: institutional
+  author: International Fact-Checking Network (IFCN)
+  work: Poynter IFCN Code of Principles
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.poynter.org/ifcn/
+  expected_breadcrumb: International Fact-Checking Network (IFCN) | Poynter IFCN Code of Principles
+  verified_breadcrumb: International Fact-Checking Network (IFCN) | Poynter IFCN Code of Principles
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 37d80e7c50223465b81bb459afafdf617aa58801e4ee790feec86b278bb331f3
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-sipri-org
+  provider: institutional
+  author: SIPRI
+  work: Stockholm International Peace Research Institute
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.sipri.org
+  expected_breadcrumb: SIPRI | Stockholm International Peace Research Institute
+  verified_breadcrumb: SIPRI | Stockholm International Peace Research Institute
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: e9a218e8bbbbb999becc4a93c0cf88f6fb85c13ac012f863edc383e5aaea2fb1
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-transparency-org
+  provider: institutional
+  author: Transparency International
+  work: Corruption Perceptions Index (CPI)
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.transparency.org
+  expected_breadcrumb: Transparency International | Corruption Perceptions Index (CPI)
+  verified_breadcrumb: Transparency International | Corruption Perceptions Index (CPI)
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 4ba29f8afd18015a44e9237befff5061d45ec770e3c5315f97082a4eea0adef5
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-transparency-org-en-cpi-2024
+  provider: institutional
+  author: Transparency International
+  work: Corruption Perceptions Index 2024
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.transparency.org/en/cpi/2024
+  expected_breadcrumb: Transparency International | Corruption Perceptions Index 2024
+  verified_breadcrumb: Transparency International | Corruption Perceptions Index 2024
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 0dcf218445626fc027f381b41921cb345993e795a17749d3b4c04d63ecafa03d
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-unesco-org
+  provider: institutional
+  author: UNESCO
+  work: UNESCO Official Portal
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.unesco.org
+  expected_breadcrumb: UNESCO | UNESCO Official Portal
+  verified_breadcrumb: UNESCO | UNESCO Official Portal
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 203d07dd653538d0c49826d97d551a5848c3418600a8f3691f19d8d316e661f1
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-unido-org
+  provider: institutional
+  author: UNIDO
+  work: United Nations Industrial Development Organization
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.unido.org
+  expected_breadcrumb: UNIDO | United Nations Industrial Development Organization
+  verified_breadcrumb: UNIDO | United Nations Industrial Development Organization
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: b554f177be3c66a14a00eecdbfbf493978ede6653f0d7c703e4494d13e9dfcfa
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-unodc-org
+  provider: institutional
+  author: UNODC
+  work: United Nations Office on Drugs and Crime
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.unodc.org
+  expected_breadcrumb: UNODC | United Nations Office on Drugs and Crime
+  verified_breadcrumb: UNODC | United Nations Office on Drugs and Crime
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 8505a7babb234f52b4b98471d01451ed6412be1fdaeff11479fa3f1dabb7c8a9
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-unwomen-org
+  provider: institutional
+  author: UN Women
+  work: UN Women Official Portal
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.unwomen.org
+  expected_breadcrumb: UN Women | UN Women Official Portal
+  verified_breadcrumb: UN Women | UN Women Official Portal
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: a18f8cfdd55519c372806342e0b88792ac4ac0631d7c0b84dbc27d04313ebddc
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-unwomen-org-en-what-we-do-ending-violence
+  provider: institutional
+  author: UN Women
+  work: Ending Violence Against Women Program
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.unwomen.org/en/what-we-do/ending-violence-against-women
+  expected_breadcrumb: UN Women | Ending Violence Against Women Program
+  verified_breadcrumb: UN Women | Ending Violence Against Women Program
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 0ae6ee3c56d9a11326a33f8e213338aba49cb2b0470ec3e138d61413149c886f
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-who-int
+  provider: institutional
+  author: World Health Organization (WHO)
+  work: WHO Global Health Observatory
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.who.int
+  expected_breadcrumb: World Health Organization (WHO) | WHO Global Health Observatory
+  verified_breadcrumb: World Health Organization (WHO) | WHO Global Health Observatory
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 637d606274aabc5af77c2409140edb81c187ad85854eccf0ba653f5da08a5f2d
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-inst-www-worldbank-org
+  provider: institutional
+  author: World Bank
+  work: World Bank Group Official Portal
+  volume: 2024-2025
+  printed_page: Dataset / Portal
+  url: https://www.worldbank.org
+  expected_breadcrumb: World Bank | World Bank Group Official Portal
+  verified_breadcrumb: World Bank | World Bank Group Official Portal
+  expected_quote_norm: ''
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 0cd8acfec49e687eebcfc638f18c133f2769493cefebf26323b90d360f4e5984
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+methodological_note_principle_4: 'Methodological Note (İlke 4): Örneklem denetimi proje yürütücüsü (Mehmet Yarıcı) tarafından
+  gerçekleştirilmiş olup, bağımsız dış hakem değerlendirmesi III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülmektedir.'

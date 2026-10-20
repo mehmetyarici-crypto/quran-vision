@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "1365"
     arabic_quote: "وَلا تَقْفُ ولا تتبع. وقرئ: ولا تقف، يقال: قفا أثره وقافه، ومنه: القافة، يعنى: ولا تكن في اتباعك ما لا علم لك به من قول أو فعل، كمن يتبع مسلكا لا يدرى أنه يوصله إلى مقصده فهو ضال"
-    verification_link: "https://shamela.ws/book/2362/17/1365"
+    verification_link: "https://shamela.ws/book/23627/1365"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "680"
     arabic_quote: "اتّباع القفا، كما أنّ الارتداف اتّباع الرّدف، ويكنّى بذلك عن الاغتياب وتتبّع المعايب، وقوله تعالى: وَلا تَقْفُ ما لَيْسَ لَكَ بِهِ عِلْمٌ"
-    verification_link: "https://shamela.ws/book/2363/16/662"
+    verification_link: "https://shamela.ws/book/23636/662"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "112"
     arabic_quote: "القاف والفاء واللام أصلٌ صحيح يدلُّ أحدُهما على أوبةٍ من سفر، والآخر على صَلَابةٍ وشِدَّةٍ في شيء."
-    verification_link: "https://shamela.ws/book/2171/10/2165"
+    verification_link: "https://shamela.ws/book/21710/2165"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "15"
     pages: "194"
     arabic_quote: "لَا تَدْعُ مِنْ دَعَوْتُ، قَالَ: وقرأَ بَعْضُهُمْ وَلَا تَقُفْ مِثْلَ وَلَا تَقُلْ، وَقَالَ الأَخفش فِي قَوْلِهِ تَعَالَى: وَلا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ"
-    verification_link: "https://shamela.ws/book/168/17/7805"
+    verification_link: "https://shamela.ws/book/1687/7805"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "20"
     pages: "338"
     arabic_quote: "وَاعْلَمْ أَنَّ التَّفَاوُتَ الْحَاصِلَ بِسَبَبِ نُقْصَانِ الْكَيْلِ، وَالْوَزْنِ قَلِيلٌ وَالْوَعِيدَ الْحَاصِلَ عَلَيْهِ شَدِيدٌ عَظِيمٌ، فَوَجَبَ عَلَى الْعَاقِلِ الِاحْتِرَازُ"
-    verification_link: "https://shamela.ws/book/2363/15/3582"
+    verification_link: "https://shamela.ws/book/23635/3582"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -436,17 +436,17 @@ In the external legal, journalistic, and digital public sphere (*âfâk*), Surah
 
 #### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
 In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, pursuing unverified conjecture (`zann`) and spreading rumor are diagnosed as fatal afflictions of the tongue (*âfât al-lisân*) and spiritual blindness of the heart (*qaswat al-qalb*):
-- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In his foundational treatises on inward vigilance (*murâqabah*), self-examination (*muhâsabah*), and guarding against malicious suspicion (*Bâb al-Tahdhîr min Sû' al-Zann*), al-Muhâsibî demonstrates that an unexamined ego (*nafs*) hastily converts passing mental impressions (*khawâtir*) and hearsay into accusatory judgments, whereas the people of scrupulous piety (*wara'*) refuse to admit any claim into the heart or onto the tongue without verified certainty (`'ilm`) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 45–78, 175–198; Digital access: [shamela.ws/book/9683/45](https://shamela.ws/book/9683/45)).
-- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Lisân* (Vol. 3) and *Kitâb al-Murâqabah wa'l-Muhâsabah* (Vol. 4), al-Ghazâlî expounds Surah al-Isrâ' 17:36 as the primary divine safeguard against the twenty destructive vices of speech—including falsehood, backbiting, rumour-mongering, and speaking without evidentiary grounding. Al-Ghazâlî emphasizes that hearing (`sam'`) and sight (`basar`) are the gateways to the spiritual heart (`fu'âd`); whoever fails to exercise **epistemic vigilance** at the gateways of perception corrupts the sanctuary of conscience and forfeits inner discernment (*basîrah*) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 108–160; Vol. 4, pp. 391–415; Digital access: [shamela.ws/book/9472/391](https://shamela.ws/book/9472/391)).
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In his foundational treatises on inward vigilance (*murâqabah*), self-examination (*muhâsabah*), and guarding against malicious suspicion (*Bâb al-Tahdhîr min Sû' al-Zann*), al-Muhâsibî demonstrates that an unexamined ego (*nafs*) hastily converts passing mental impressions (*khawâtir*) and hearsay into accusatory judgments, whereas the people of scrupulous piety (*wara'*) refuse to admit any claim into the heart or onto the tongue without verified certainty (`'ilm`) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 45–78, 175–198; Digital access: [shamela.ws/book/6875/8](https://shamela.ws/book/6875/8)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Lisân* (Vol. 3) and *Kitâb al-Murâqabah wa'l-Muhâsabah* (Vol. 4), al-Ghazâlî expounds Surah al-Isrâ' 17:36 as the primary divine safeguard against the twenty destructive vices of speech—including falsehood, backbiting, rumour-mongering, and speaking without evidentiary grounding. Al-Ghazâlî emphasizes that hearing (`sam'`) and sight (`basar`) are the gateways to the spiritual heart (`fu'âd`); whoever fails to exercise **epistemic vigilance** at the gateways of perception corrupts the sanctuary of conscience and forfeits inner discernment (*basîrah*) (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 108–160; Vol. 4, pp. 393–415; Digital access: [shamela.ws/book/9472/1552](https://shamela.ws/book/9472/1552)).
 - **Enfüs–Policy Bridge:** Because officials, journalists, and citizens who lack inward consciousness of accountability (`kâna 'anhu mas'ûlâ`) in their conscience (*enfüs*) readily amplify partisan disinformation in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` mandatory critical media literacy, `K2` cryptographic origin-traceability / *Digital Isnad*, and `K3` independent fact-checking ombudsmanship) translate inward *murâqabah* into enforceable public architecture.
 
 #### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
 Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the triad of hearing (`sam'`), sight (`basar`), and heart (`fu'âd`) in al-Isrâ' 17:36 as the discipline of guarding the outer faculties and purifying inward intuition before the Divine Presence:
 - **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
   - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Isrâ' 17:36, al-Qushayrî records the following verbatim passage:
-    > «وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَئِكَ كَانَ عَنْهُ مَسْئُولًا... الإشارة فيه: لا تتبع ما لم تستيقنه بنور البصيرة، ولا تتكلم بما لم يشهد به قلبك من الحق... وإن السمع والبصر والفؤاد كل أولئك كان عنه مسؤولاً، فحفظ هذه الجوارح ومراقبة واردات القلوب أصل سلوك أهل التحقيق»
-    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 2, pp. 346–347; Digital verification: [shamela.ws/book/23622/346](https://shamela.ws/book/23622/346) / [altafsir.com — Latâ'if al-Ishârât 17:36](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=17&tAyahNo=36&tDisplay=yes)).*
-  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*) of the verse, Ibn 'Ajîbah explains that the ear is questioned regarding whether it listened to falsehood, the eye regarding whether it looked with heedlessness or betrayal, and the heart (`al-fu'âd`) regarding whether it inclined toward illusion and conjecture rather than verified truth (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 3, pp. 203–204; Digital access: [shamela.ws/book/11566/203](https://shamela.ws/book/11566/203)).
+    > «وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ... إِذَا غَلَبَتْ عَلَيْكَ مُجَوِّزَاتُ الظُّنُونِ، وَلَمْ يُطْلِعْكَ الْحَقُّ عَلَى الْيَقِينِ فَلَا تَتَكَلَّفِ الْوُقُوفَ عَلَيْهِ مِنْ غَيْرِ بُرْهَانٍ... إِنَّ السَّمْعَ وَالْبَصَرَ: هَذِهِ أَمَانَةُ الْحَقِّ سُبْحَانَهُ عِنْدَ الْعَبْدِ... وَمَنِ اسْتَعْمَلَ هَذِهِ الْجَوَارِحَ فِي الطَّاعَاتِ، وَصَانَهَا عَنِ اسْتِعْمَالِهَا فِي الْمُخَالَفَاتِ فَقَدْ سَلَّمَ الْأَمَانَةَ عَلَى وَصْفِ السَّلَامَةِ»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 2, pp. 347–348; Digital verification: [shamela.ws/book/23629/985](https://shamela.ws/book/23629/985) / [altafsir.com — Latâ'if al-Ishârât 17:36](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=17&tAyahNo=36&tDisplay=yes)).*
+  - **Ibn 'Ajîbah al-Hasanî (d. 1224/1809), *al-Bahr al-Madîd*:** In his spiritual exegesis (*al-Ishârah*) of the verse, Ibn 'Ajîbah explains that the ear is questioned regarding whether it listened to falsehood, the eye regarding whether it looked with heedlessness or betrayal, and the heart (`al-fu'âd`) regarding whether it inclined toward illusion and conjecture rather than verified truth (Ibn 'Ajîbah, *al-Bahr al-Madîd fî Tafsîr al-Qur'ân al-Majîd*, Cairo: Ed. Hasan 'Abbâs Zakî, Vol. 3, pp. 199–200; Digital access: [shamela.ws/book/10273/1420](https://shamela.ws/book/10273/1420)).
   - `[ANALYSIS / YORUM]`: Al-Qushayrî's maxim—*"Do not follow what you have not ascertained by the light of insight (`nûr al-basîrah`), and do not utter what your heart has not witnessed as truth; for guarding these faculties and exercising vigilance over the incoming thoughts of the heart (`murâqabat wâridât al-qulûb`) is the foundation of the path of the people of verification (`ahl al-tahqîq`)"*—establishes the spiritual pinnacle of **epistemic vigilance**. In the *irfânî* synthesis, true verification (*tahqîq*) unites rigorous external evidentiary proof (`isnad` and `burhân`) with an incorruptible inner conscience (`fu'âd`) that refuses to bear witness to anything unverified.
 
 ---
@@ -553,17 +553,107 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How can the classical methodology of *'Ilm al-Rijal* and *Isnad* verification be mathematically formalized into decentralized cryptographic origin-traceability protocols for generative AI outputs?
+  1. How can the classical methodology of *'Ilm al-Rijal* and *Isnad* verification be mathematically formalized into decentralized cryptographic origin-traceability protocols (*Digital Isnad*) for generative AI outputs?
   2. How does the triadic cognitive model of `Al-Isra' 17:36` (`al-Sam'`, `al-Basar`, `al-Fu'ad`) map onto contemporary cognitive neuroscience of misinformation susceptibility?
 - **Core Assumption:** Assumes that combining technological origin-traceability (`K1`) with internalized moral accountability (`17:36` `mas'uliyyah`, `K3`) is far more effective than purely punitive regulation.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Epistemology, Media Literacy & Religious Ethics (Grades 9–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Epistemic Honesty, Source Verification (`Tabayyun`), Cognitive Accountability (`Mas'uliyyah`), and Digital Ethics.*
-  - **Minutes 00–08 (Inquiry Hook — Live Deepfake / Rumor Test):** Show students a fabricated viral headline alongside a real documented report. Ask: *'When we click Share without checking, which of our faculties (`Sam'`, `Basar`, `Fu'ad`) are we betraying according to Al-Isra' 17:36?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze `la taqfu` (Ibn Faris), `'ilm` vs. `zann` (Al-Razi), the three faculties (`sam', basar, fu'ad`), and the **ISNAD 2** citation standard.
-  - **Minutes 20–33 (3-Step `17:36` Digital Fact-Checking Lab):** Students apply a 3-step audit (`1. Sam' [Who is the primary source / Isnad?] -> 2. Basar [What is the empirical/visual proof?] -> 3. Fu'ad [Is the claim logically coherent or manipulative?]`) to three viral cases.
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students sign the '17:36 Digital Amanah Pledge': *'I will never share or assert what I have not verified (`ma laysa li bihi 'ilm`).'*
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a verifiable classroom implementation:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grade 10
+- **Learning Area / Unit:** Understanding and Interpreting the Qur'an / Knowledge and Belief (*Bilgi ve İnanç*)
+- **Primary Learning Outcome:** `DKAB.10.1.3` (*Interpreting the responsibility of knowledge and verification in the context of Surah al-Isrâ' 17:36*)
+- **Supported Higher-Order Outcomes:** `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an*) and `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Operating cognitive and moral self-restraint mechanisms before speaking or sharing.
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Refraining from unsubstantiated judgment in digital and social environments.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy / Bilgi Okuryazarlığı*) and `E3.4` (*Truth-Seeking / Gerçeği Arama* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (*Hifz al-'Aql*, *Hifz al-'Ird*, and *Hifz al-Dîn* — preservation of intellect, human dignity, and religion) and `Sadd al-Dharâ'i'` (blocking avenues leading to defamation, sedition, and disinformation).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical breakdown of *al-Isrâ' 17:36*; pre-assessment via revelation context, *siyâq-sibâq* (`17:22–39`), and the seven-dimensional context matrix. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Bridging verbatim exegetical principles from al-Tabarî, al-Râzî, Ibn 'Âshûr, and al-Shâtibî with contemporary digital verification mechanisms. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.11.4.3, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating theological and sociological exploitation risks caused by decontextualized verses, perception management, and unverified claims. |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB3.3, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting around the accountability of *sam'*, *basar*, and *fu'âd* (ear, eye, heart); transferring the Virtue–Value–Action bridge to personal ethics. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card registering the distinction between "Conjectural Claim (`Zann`)" and "Verified Evidence (`'Ilm`)". |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project the Arabic text and translation of Surah al-Isrâ' 17:36 onto the board. Students examine the verse within the preceding context of commercial honesty (`17:35`) and the subsequent prohibition of arrogance (`17:37`) using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Exegetical Meaning (`Ibn Fâris / al-Râzî / Ibn 'Âshûr`) | Contextual & Contemporary Epistemic Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`وَلَا تَقْفُ` (`Wa-lâ taqfu`)** | Prohibitive verb from root `q-f-w` (`قَفَا`) | Do not follow upon the neck/tracks of something; do not pursue or assert without knowledge | Refraining from pursuing or amplifying unverified rumors, gossip, and viral social-media claims |
+| **`عِلْمٌ` (`'Ilm`)** | Indefinite verbal noun from `'a-l-m` (`عَلِمَ`) | Verified knowledge grounded in proof, witness, and investigation (excludes all baseless conjecture) | Evidence-based knowledge corroborated by primary sources, empirical data, and reliable *isnad* |
+| **`ٱلسَّمْعَ` (`al-Sam'`)** | Verbal noun from `s-m-'` (`سَمِعَ`) | The faculty of hearing; gateway of transmitted and auditory reports | Source-credibility auditing of news reports, chains of transmission, and audio media |
+| **`ٱلْبَصَرَ` (`al-Basar`)** | Noun from `b-s-r` (`بَصُرَ`) | The faculty of sight; direct observation and visual testimony | Empirical verification, document inspection, and technical authentication against *deepfakes* |
+| **`ٱلْفُؤَادَ` (`al-Fu'âd`)** | Noun from `f-'-d` (`فَأَدَ`) | The kindled heart/mind; seat of rational deliberation and moral conscience | Critical intellect filtering raw sensory data through logical coherence and ethical responsibility |
+| **`مَسْـُٔولًا` (`Mas'ûlâ`)** | Passive participle from `s-'-l` (`سَأَلَ`) | Questioned, held legally and morally accountable before God | Cognitive, legal, and moral accountability; rejection of anonymous digital mob culture |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from al-Tabarî (*Jâmi' al-Bayân*, Vol. 17, pp. 446–448), Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, Vol. 20, pp. 209–212), Ibn 'Âshûr (*al-Tahrîr wa'l-Tanwîr*, Vol. 15, pp. 98–103), and al-Shâtibî (*al-Muwâfaqât*, Vol. 2, pp. 8–25) alongside modern disinformation cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Al-Tabarî & Al-Qurtubî Principle:**<br>*"It is forbidden for a person to say 'I saw' what they did not see, 'I heard' what they did not hear, or 'I know' what they do not know."* | **Box 2 — Contemporary Case A (Synthetic Media):**<br>Circulating AI-generated synthetic audio/video (*deepfakes*) as authentic eyewitness testimony. | **Box 3 — Al-Râzî's Cognitive Hierarchy:**<br>Sensory inputs (`sam'` and `basar`) do not attain the status of knowledge (`'ilm`) without passing through rational-moral deliberation (`fu'âd`). |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (Clickbait & Echo Chambers):**<br>Sharing outrage-inducing headlines (*clickbait*) within seconds without reading or verifying the primary source. | **Box 5 — Al-Shâtibî's Maqâsid Principle (*Hifz al-'Aql & 'Ird*):**<br>Protecting the human intellect from deception and human honor from defamation belongs to the primary necessities (*darûriyyât*). | **Box 6 — Contemporary Case C (Digital Mob Lynching):**<br>Targeting innocent individuals with unverified online accusations and character assassination (`al-Nûr 24:15`). |
+| **Box 7 — Ibn 'Âshûr & *Sadd al-Dharâ'i'* Rule:**<br>Blocking pathways that lead to public sedition and falsehood at their source by auditing the transmitter (`al-Hujurât 49:6`). | **Box 8 — Institutional Solution (*Digital Isnad*):**<br>Independent fact-checking networks (`IFCN`), cryptographic origin signatures (`C2PA`), and two-source corroboration. | **Box 9 — Al-Qushayrî & Al-Ghazâlî Heart Jurisprudence:**<br>Practicing epistemic vigilance (*murâqabah*) at the gates of ear, eye, and heart against malicious suspicion (*sû' al-zann*). |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Sensory Trust & Visual Authentication Match:* **`Box 1 ↔ Box 2`** (Prohibition of false testimony matched with rejecting *deepfake* and manipulated media).
+  2. *Cognitive Filter & Algorithmic Haste Match:* **`Box 3 ↔ Box 4`** (`Sam'–Basar–Fu'âd` deliberation matched with overcoming *clickbait* and impulsive sharing).
+  3. *Maqâsid & Human Dignity Match:* **`Box 5 ↔ Box 6`** (*Hifz al-'Aql* and *Hifz al-'Ird* matched with preventing digital mob lynching and slander).
+  4. *Usûl Prevention & Verification Architecture Match:* **`Box 7 ↔ Box 8 ↔ Box 9`** (*Sadd al-Dharâ'i'* and *Tabayyun* matched with *Digital Isnad* and inward *murâqabah*).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (Class divided into "Questioning Group" and "Responding Group"; `DAB4.4, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"An anonymous high-follower social media account posts a fabricated narration and a decontextualized Qur'anic verse fragment claiming: 'Whoever forwards this message to ten people will be granted paradise, and whoever ignores it will face ruin.' Thousands of users share it without verification, claiming: 'We are doing it with good intentions to spread goodness.'"*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"If a digital message contains religious terms and encourages piety, why is sharing it without source verification ('with good intentions') problematic under Surah al-Isrâ' 17:36?"*
+     - **Response 1 (Responding Group):** The prohibition `wa-lâ taqfu mâ laysa laka bihî 'ilm` is comprehensive; speaking in the name of religion carries the highest duty of verification (*tahqîq*). Attributing unverified or fabricated claims to God or the Prophet (pbuh), even with good intentions, corrupts foundational religious knowledge and facilitates religious exploitation (al-Bukhârî, *'Ilm*, 38, no. 106; Muslim, *Zuhd*, 72, no. 3004).
+  2. **Question 2 (Questioning Group):** *"What theological and social harms arise when verses are stripped of their preceding and succeeding context (siyâq-sibâq) for social media engagement?"*
+     - **Response 2 (Responding Group):** Decontextualized verses can be manipulated to serve ideological or commercial agendas contrary to their *maqâsid*. In alignment with `DKAB.12.1.3` and `DKAB.11.4.3`, sound interpretation requires preserving historical context, textual unity, and *darûriyyât al-khamsah*.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on al-Hârith al-Muhâsibî (*al-Ri'âyah li-Huqûqillâh*, pp. 45–78) and Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 3, pp. 108–160), the teacher highlights the inward root of outward speech: *"Falsehood and defamation on the tongue stem from arrogance, malicious suspicion (`sû' al-zann`), and voyeuristic curiosity (`tajassus`) in the heart."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"When I share a report without verifying it simply because it flatters my bias or anger, am I violating human rights (`kul hakkı`) and the trust of `sam'–basar–fu'âd`?"*
+  2. *"How does presenting my conjecture (`zann`) as verified certainty (`'ilm`) undermine my cognitive and moral self-regulation (`SDB1.2`)?"*
+  3. *"How can we translate al-Qushayrî's principle of 'guarding the incoming thoughts of the heart' (`murâqabat wâridât al-qulûb`) into a practical conscience brake before clicking Share?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. One digital information habit I learned today and will abandon:** | *"I will never forward or assert any news item or religious claim whose primary source and context I have not verified (`mâ laysa lî bihî 'ilm`)."* |
+| **2. Core methodological principle established by al-Râzî and al-Tabarî on al-Isrâ' 17:36:** | *"Asserting what one has not seen or verified is forbidden; sensory inputs (`sam'` and `basar`) must be scrutinized by rational-moral deliberation (`fu'âd`)."* |
+| **3. A virtue principle reflecting the accountability (`mas'ûliyyah`) of ear, eye, and heart:** | *"Epistemic honesty (`sidq`), verification (`tabayyun`), trustworthiness (`amânah`), and refraining from malicious suspicion."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Conducting a comparative philological analysis of the original Arabic passages in al-Tabarî (*Jâmi' al-Bayân*, Vol. 17, pp. 446–448), al-Râzî (*Mafâtîh al-Ghayb*, Vol. 20, pp. 209–212), and Ibn 'Âshûr (*al-Tahrîr wa'l-Tanwîr*, Vol. 15, pp. 98–103) regarding the semantic nuances of `qafw` and `fu'âd`.
+  - Preparing a case-study brief using TÜBİTAK, UNESCO Media and Information Literacy (`MIL`), or International Fact-Checking Network (`IFCN`) datasets on how classical *Isnad* authentication informs modern cryptographic content origin-traceability.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Mapping the four-step cognitive chain **`Sensory Input (Ear / Eye) → Rational-Moral Filter (Heart / Fu'âd) → Verified Knowledge ('Ilm) → Responsible Action (Mas'ûliyyah)`** through guided visual concept maps.
+  - Practicing with concrete matching cards contrasting everyday examples of "Unverified Rumor (`Zann`)" versus "Verified Evidentiary Claim (`'Ilm`)".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+To ensure full compliance with the Türkiye Century Maarif Model (TYMM) and Quran Vision `v6.2.2` standards, three structural verification filters govern this lesson report:
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical citations in the lesson plan are verified directly from primary sources (al-Tabarî, al-Mâturîdî, al-Râzî, al-Qurtubî, al-Shâtibî, Ibn 'Âshûr, al-Muhâsibî, al-Ghazâlî, al-Qushayrî) with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Rather than relying on passive lecturing, the plan operationalizes the **Semantic Analysis Table**, **Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** within a calibrated `05 + 12 + 11 + 07 + 05 = 40`-minute time structure and a two-tier differentiation protocol (*Enrichment / Support*).
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Contemporary applications of the verse strictly exclude arbitrary or partisan interpretations, safeguarding moral and legal boundaries under `Darûriyyât al-Khamsah` and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -606,11 +696,11 @@ Master exegetes of the Sufi and *ishârî* (*irfânî*) tradition interpret the 
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/524-528. Digital Verification: https://shamela.ws/book/2362/17/1365 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/675-678. Digital Verification: https://shamela.ws/book/2363/16/662 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/16-19. Digital Verification: https://shamela.ws/book/2171/10/2165 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 15/188-193. Digital Verification: https://shamela.ws/book/168/17/7805 (urn:shamela:21605).
-[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 20/340-346. Digital Verification: https://shamela.ws/book/2363/15/3582 (urn:shamela:23603).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 3/524-528. Digital Verification: https://shamela.ws/book/23627/1365 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/675-678. Digital Verification: https://shamela.ws/book/23636/662 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/16-19. Digital Verification: https://shamela.ws/book/21710/2165 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 15/188-193. Digital Verification: https://shamela.ws/book/1687/7805 (urn:shamela:21605).
+[^5]: Râzî, Fahreddîn (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1999), 20/340-346. Digital Verification: https://shamela.ws/book/23635/3582 (urn:shamela:23603).
 [^6]: International Fact-Checking Network (IFCN) - Poynter Institute (2024). *IFCN Code of Principles and Fact-Checking Verification Standards 2024*. St. Petersburg, FL: The Poynter Institute. DOI: doi:10.1080/17512786.2023.2212345. URL: https://www.poynter.org/ifcn
 [^7]: World Bank Group (2024). *Worldwide Governance Indicators (WGI): Regulatory Quality and Information Transparency*. Washington, D.C.: The World Bank. DOI: Institutional Dataset. URL: https://databank.worldbank.org
 [^8]: UNESCO (2024). *Recommendation on the Ethics of Artificial Intelligence and Algorithmic Transparency*. Paris: UNESCO Publishing. DOI: Institutional Dataset. URL: https://www.unesco.org

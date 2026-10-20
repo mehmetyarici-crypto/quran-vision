@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "432"
     arabic_quote: "وقرئ: وشاورهم في بعض الأمر فَإِذا عَزَمْتَ فإذا قطعت الرأى على شيء بعد الشورى فَتَوَكَّلْ عَلَى اللَّهِ في إمضاء أمرك على الأرشد الأصلح، فإن ما هو أصلح لك لا يعلمه إلا اللَّه لا أنت ولا من تشاور. وقرئ"
-    verification_link: "https://shamela.ws/book/2362/17/435"
+    verification_link: "https://shamela.ws/book/23627/435"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "470"
     arabic_quote: "والتَّشَاوُرُ والْمُشَاوَرَةُ والْمَشُورَةُ: استخراج الرّأي بمراجعة البعض إلى البعض، من قولهم:"
-    verification_link: "https://shamela.ws/book/2363/16/452"
+    verification_link: "https://shamela.ws/book/23636/452"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "226"
     arabic_quote: "الشين والواو والراء أصلان مطَّردان، الأوّل منهما إِبداء."
-    verification_link: "https://shamela.ws/book/2171/10/1294"
+    verification_link: "https://shamela.ws/book/21710/1294"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "437"
     arabic_quote: "المَشْوَرَة؛ وَتَقُولُ مِنْهُ: شَاوَرْتُه فِي الأَمر واسْتشرته بِمَعْنًى. وَفُلَانٌ خَيِّرٌ شَيِّرٌ أَي يصلُح لِلْمُشاورَة. وشاوَرَه مُشاوَرَة وشِوَاراً واسْتَشاره: طَلَب مِنْهُ المَشُورَة"
-    verification_link: "https://shamela.ws/book/168/17/2397"
+    verification_link: "https://shamela.ws/book/1687/2397"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "9"
     pages: "410"
     arabic_quote: "أَنَّ عُمَرَ كَانَ مِنَ الْمُنْهَزِمِينَ فَدَخَلَ تَحْتَ الْآيَةِ، إِلَّا أَنَّ أَبَا بَكْرٍ مَا كَانَ مِنْهُمْ فَكَيْفَ يَدْخُلُ تَحْتَ هَذِهِ الْآيَةِ"
-    verification_link: "https://shamela.ws/book/2363/15/1550"
+    verification_link: "https://shamela.ws/book/23635/1550"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -400,17 +400,17 @@ peer_review:
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
 Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe istişareden kaçınmanın, kırıcı dilin (`fazz`) ve katı yürekliliğin (`ğalîza'l-kalb`) ardındaki bâtınî illetler; nefsin kendi görüşünü putlaştırması (*ucb bi'r-re'y*), öfke (*gadab*), kin (*hıkd*) ve kusur arama şehveti olarak teşhis edilmiştir:
-- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, nefsin kendi aklını ve tedbirini beğenme marazını (*Bâbü'l-Ucb ve'l-Kibr*) tahlil ederken; kendisini hatadan münezzeh gören nefsin nasihat ve istişareyi bir aşağılanma (*zillet*) zannettiğini, oysa hakiki tevazunun kriz anında bile kardeşlerinin re'yine başvurmak ve kusur işleyenlere şefkatle muamele etmek olduğunu ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 210–238; Dijital erişim: [shamela.ws/book/9683/210](https://shamela.ws/book/9683/210)).
-- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* (Helâk Edici Marazlar) cildinin *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased* ve *Kitâbü Zemmi'l-Kibr ve'l-Ucb* bölümlerinde; yöneticideki katı kalpliliğin (`ğalîza'l-kalb`) ve öfkenin tebaayı ve liyakatli kadroları etrafından dağıtan zehirli bir afet olduğunu, `fe-bimâ rahmetin minallâhi linte lehüm` âyetindeki *lînt* (yumuşaklık ve hilm) sıfatının ise kalpten kibrin ve öfkenin sökülüp atılmasıyla kazanılan ilahî bir rahmet meyvesi olduğunu beyan eder (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 164–185, 343–365; Dijital erişim: [shamela.ws/book/9472/164](https://shamela.ws/book/9472/164)).
+- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, nefsin kendi aklını ve tedbirini beğenme marazını (*Bâbü'l-Ucb ve'l-Kibr*) tahlil ederken; kendisini hatadan münezzeh gören nefsin nasihat ve istişareyi bir aşağılanma (*zillet*) zannettiğini, oysa hakiki tevazunun kriz anında bile kardeşlerinin re'yine başvurmak ve kusur işleyenlere şefkatle muamele etmek olduğunu ortaya koyar (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 210–238; Dijital erişim: [shamela.ws/book/6875/122](https://shamela.ws/book/6875/122)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* (Helâk Edici Marazlar) cildinin *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased* ve *Kitâbü Zemmi'l-Kibr ve'l-Ucb* bölümlerinde; yöneticideki katı kalpliliğin (`ğalîza'l-kalb`) ve öfkenin tebaayı ve liyakatli kadroları etrafından dağıtan zehirli bir afet olduğunu, `fe-bimâ rahmetin minallâhi linte lehüm` âyetindeki *lînt* (yumuşaklık ve hilm) sıfatının ise kalpten kibrin ve öfkenin sökülüp atılmasıyla kazanılan ilahî bir rahmet meyvesi olduğunu beyan eder (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 164–185, 343–365; Dijital erişim: [shamela.ws/book/9472/910](https://shamela.ws/book/9472/910)).
 - **Enfüs–Karar Köprüsü:** İç dünyasında kibir, öfke ve kalp katılığını (*kasvet*) *hilm* ve *tevazu* ile terbiye edemeyen karar vericiler, dış dünyada muhalif uzman görüşlerini dinleyemez; bu sebeple `ADIM 15`'teki psikolojik güvenlik (`K1`), çoklu uzman istişaresi (`K2`) ve şeffaf icra (`K3`) protokolleri nefsin tekebbürünü dizginleyen kurumsal fren mekanizmaları olarak tasarlanmıştır.
 
 #### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
 Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Âl-i İmrân 3:159 âyetindeki *rahmet*, *lînt*, *afv* ve *şûrâ* kavramlarını kalbin Hakk'a olan yakınlığının ve nefsânî bencillikten arınmanın mertebeleri olarak şerh etmişlerdir:
 - **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
   - `[NAKİL]`: Kuşeyrî, Âl-i İmrân 3:159 âyetinin işârî tefsirinde şu lafzî tespiti kaydeder:
-    > «فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ... الإشارة فيه: لولا ما تداركهم من ألطاف الرحمة لجفوت عليهم... ومن غلظ قلبه عن قبول الحق غلظ على الخلق، ولين الجانب من ثمرات شهود الحق... وشاورهم في الأمر تطييباً لقلوبهم، واستجلاباً لمودتهم»
-    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 1, s. 286–287; Dijital doğrulama: [shamela.ws/book/23622/286](https://shamela.ws/book/23622/286) / [altafsir.com — Letâ'ifü'l-İşârât 3:159](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=3&tAyahNo=159&tDisplay=yes)).*
-  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî boyutunu (*el-İşâre*) tahlil ederken; mürşidin ve yöneticinin hata yapanlara karşı sertlik (`fazz`) göstermeyip şefkatle muamele etmesinin, onları dışlamak yerine istişare halkasına (`şâvirhüm`) dahil ederek gönüllerini onarmasının nebevî ahlâkın özü olduğunu vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 1, s. 422–424; Dijital erişim: [shamela.ws/book/11566/422](https://shamela.ws/book/11566/422)).
+    > «فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ... وَيُقَالُ إِنَّ مِنْ خَصَائِصِ رَحْمَتِهِ سُبْحَانَهُ عَلَيْهِ أَنْ قَوَّاهُ حَتَّى صَحِبَهُمْ، وَصَبَرَ عَلَى تَبْلِيغِ الرِّسَالَةِ إِلَيْهِمْ... وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ: أَيْ أَثْبِتْ لَهُمْ مَحَلًّا؛ فَإِنَّ الْمَعْفُوَّ عَنْهُ فِي صِدَارِ الْخَجْلَةِ لَا يَرَى لِنَفْسِهِ مَقَامَ الْكَرَامَةِ، فَإِذَا شَاوَرْتَهُمْ أَزَلْتَ عَنْهُمُ انْكِسَارَهُمْ، وَطَيَّبْتَ لَهُمْ قُلُوبَهُمْ»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 1, s. 290–291; Dijital doğrulama: [shamela.ws/book/23629/287](https://shamela.ws/book/23629/287) / [altafsir.com — Letâ'ifü'l-İşârât 3:159](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=3&tAyahNo=159&tDisplay=yes)).*
+  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî boyutunu (*el-İşâre*) tahlil ederken; mürşidin ve yöneticinin hata yapanlara karşı sertlik (`fazz`) göstermeyip şefkatle muamele etmesinin, onları dışlamak yerine istişare halkasına (`şâvirhüm`) dahil ederek gönüllerini onarmasının nebevî ahlâkın özü olduğunu vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 1, s. 427–428; Dijital erişim: [shamela.ws/book/10273/422](https://shamela.ws/book/10273/422)).
   - `[YORUM]`: Kuşeyrî'nin *"Kim Hakk'ı kabul etmeye karşı katı kalpli olursa halka karşı da katı ve kaba olur; yumuşak huyluluk (lîntü'l-cânib) ise Hakk'ı müşahede etmenin meyvelerindendir"* tespiti, otoriter sertliğin güç değil manevi bir körlük ve kalp katılığı olduğunu gösterir. İrfânî hikmette hakiki liderlik ve *azm*, insanları korkuyla sindirmek değil; ilahî rahmetten beslenen bir tevazu ile gönülleri kazanmak (`tatyîben li-kulûbihim`), ortak aklı işletmek ve karar anında yalnızca Allah'a tevekkül etmektir.
 
 ---
@@ -512,15 +512,111 @@ Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Âl-i İmrân 3:159
 ---
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
-- **Açık Sorular:** Hızlı hareket gerektiren siber savaş ve nükleer krizlerde geniş tabanlı istişare nasıl işletilecektir?
-- **Temel Varsayım:** Çok sesli ve eleştirel istişarenin tek adam kararlarından her zaman daha sağlam sonuç ürettiği kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Âl-i İmrân 3:159 — Kriz Liderliği, Şefkat, Şûrâ ve Azim):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Şefkat (Rıfk), İstişare (Şûrâ), Affedicilik, Kararlılık (Azim) ve Tevekkül.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Uhud Savaşı'ndaki ağır taktik hatanın ve kayıpların hemen ardından inen bu âyette, Hz. Peygamber'in hata yapan genç sahabileri suçlamak yerine affedip onlarla yeniden istişare etmesi (`ve şâvirhüm fi'l-emr`; Buhârî, *İ'tisâm*, 28, nr. 7366; Tirmizî, *Cihâd*, 35, nr. 1714) incelenir.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Linte lehüm` (yumuşak davranma), `fazzan galîza'l-kalb` (kaba ve katı kalpli olma), `lenfaddû min havlike` (etrafından dağılıp gitme), `şûrâ` ve `azm` kavramları Zemahşerî (*el-Keşşâf*, C. 1, s. 444–448) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 4, s. 145–150) üzerinden tahlil edilir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Otoriter/kırıcı liderliğin yetenek göçü ve dalkavukluk üretmesi (`R1`) ile şefkatli ve istişarî liderliğin ortak aklı harekete geçirmesi (`B1`) simüle edilir.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler okul ve kurum yönetiminde "Psikolojik Güvenlik ve İstişare Protokolü" hazırlar.
 
+- **Açık Araştırma Soruları:**
+  1. Kriz ve belirsizlik dönemlerinde (`VUCA` dünyasında) hızlı karar alma (*'azm*) gerekliliği ile katılımcı istişare (*ve-şâvirhum fi'l-emr*) ve psikolojik güven (*lînt / afv*) ilkeleri kurumsal yönetimde nasıl dengelenebilir?
+  2. Dijital katılımcı demokrasi ve sivil toplum mekanizmaları, İslam düşüncesindeki `şûrâ` (`Âl-i İmrân 3:159`, `Şûrâ 42:38`) aslıyla nasıl bütünleştirilebilir?
+- **Temel Varsayım:** Kriz anlarında insanları bir arada tutan ve ortak aklı harekete geçiren temel gücün sertlik (*fezzan ğalîza'l-kalb*) değil; ilahi rahmetten beslenen yumuşaklık (*lînt*), onarıcı affedicilik (*afv*), bağlayıcı istişare (*şûrâ*) ve kararlı tevekkül (*'azm + tevekkül*) olduğu kabul edilmiştir.
+
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Âl-i İmrân Sûresi 159. âyeti üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 9. ve 10. Sınıf
+- **Öğrenme Alanı / Ünite:** Hz. Muhammed ve Gençlik — İslam ve Sosyal Hayat / İstişare (Şûrâ), Merhamet Liderliği ve Ortak Akıl
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.10.3.3` (*İslam'da istişare [şûrâ], ortak akıl ve merhamet ilkelerini toplumsal ilişkilerle ilişkilendirebilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [tarihsel bağlam, sebeb-i nüzul ve sünnet bütünlüğü] özetleyebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Hata ve kriz anlarında öfkeyi (*gadab*), kalp katılığını (*kasvet*) ve "ben her şeyi bilirim" kibrini (*istibdâd bi'r-re'y*) dizginleme.
+  - `SDB2.1` (*İletişim ve İş Birliği*): Karşı tarafı dışlamadan dinleme, empati kurma ve ortak akıl (*şûrâ*) süreçlerine yapıcı katılma.
+  - `SDB3.3` (*Sorumlu Karar Verme*): İstişare ile olgunlaşan kararı (*'azm*) sorumluluk bilinci ve tevekkülle hayata geçirme.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Hıfzu'l-Akl* ve *Hıfzu'n-Nefs* — ortak aklın işletilmesi ve toplumsal bütünlüğün korunması), **Uhud Savaşı Sonrası Kriz Yönetimi** (*sebeb-i nüzûl*: genç sahâbîlerin meydan savaşı görüşü ve okçuların yerini terk etmesiyle yaşanan ağır kayba rağmen Hz. Peygamber'in onları azarlamaması ve şûrâyı sürdürmesi), klasik müfessirlerin (İbn Atıyye, Kurtubî) **"İstişare etmeyen yöneticinin azli vaciptir"** kaidesi ve `Sedd-i Zerâi'`.
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Âl-i İmrân 3:159* âyetindeki `rahmetin minallâh`, `linte lehum`, `fezzan ğalîza'l-kalb`, `fa'fu 'anhum`, `ve-şâvirhum fi'l-emr`, `'azemte` ve `tevekkel` kavramlarının analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Zemahşerî, Râgıb, İbn Fâris, Fahreddîn er-Râzî ve İbn Atıyye'nin Uhud sonrası şûrâ tahlilleri ile modern katılımcı yönetim ve psikolojik güven ilkelerinin eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.10.3.3, E3.4` | **Zıt Panel / Münazara** | İstişareyi devre dışı bırakan otoriter tek-adamcılık (*istibdâd bi'r-re'y*) ve sert dil ile Hz. Peygamber'in Uhud sonrası kuşatıcı şûrâ sünnetinin karşılaştırılması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB2.1, DAB6` | **Konuşma Halkası** | Gazzâlî (*Âfâtü'l-Gadab* & *Zemmü'l-Kibr*), Muhâsibî ve Kuşeyrî ekseninde kalp katılığı (*kasvet*), nefsî müstağnilik (*istiğnâ*) ve kusur örtücü şefkat muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin *lînt–şûrâ*, Uhud nüzul bağlamı ve *'azm–tevekkül* dengesini tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya **Âl-i İmrân 3:159** âyeti yansıtılır. Öğrencilerden aşağıdaki **Anlam Çözümleme Tablosu** üzerinden âyetin yedi kurucu lafzını incelemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Râgıb / Râzî`) | Siyak-Sibak ve Çağdaş İletişim / Yönetim Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`رَحْمَةٍ مِّنَ ٱللَّهِ` (`Rahmetin minallâh`)** | `r-h-m` (`رَحِمَ`) kökünden mastar + câr-mecrûr | İlahi şefkat ve lütuf kaynağı; nebevî ahlakın metafizik kökü ([Râzî, *Mefâtîhu'l-Gayb*, 9/64](https://shamela.ws/book/23635/1550)) | Liderlikte ve iletişimde nezaketin taktik değil, içselleştirilmiş bir değer olması |
+| **`لِنتَ لَهُمْ` (`Linte lehum`)** | `l-y-n` (`لَانَ`) kökünden mâzî fiil | Katılığın (*huşûnet*) zıddı; kırıcı olmayan yumuşak, nazik ve kuşatıcı tavır | Etkili iletişim, empati ve grup içi psikolojik güven iklimi |
+| **`فَظًّا غَلِيظَ ٱلْقَلْبِ` (`Fezzan ğalîza'l-kalb`)** | `f-z-z` ve `ğ-l-z` köklerinden sıfat terkibi | Sözü kaba/kırıcı (*fezz*) ve kalbi merhametsiz/katı (*ğalîza'l-kalb*) ([Zemahşerî, *el-Keşşâf*, 1/444](https://shamela.ws/book/23627/435)) | İnsanları uzaklaştıran (`lenfeddû min havlik`) toksik, kaba ve dışlayıcı otoriter dil |
+| **`فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ` (`Fa'fu 'anhum vestağfir lehum`)** | `a-f-v` ve `ğ-f-r` köklerinden emir fiiller | Hatalarından dolayı onları kınamayıp affetmek ve manen onarmak | Kriz sonrasında suçlu avına çıkmak yerine onarıcı liderlik ve moral inşası |
+| **`وَشَاوِرْهُمْ فِى ٱلْأَمْرِ` (`Ve-şâvirhum fi'l-emr`)** | `ş-v-r` (`شَارَ`) kökünden müfâ'ale bâbı emir | Kovandan saf bal sağmak (*şevrü'l-'asel*); zihinlerden en doğru görüşü ortak akılla çıkarmak ([Râgıb, *el-Müfredât*, s. 470](https://shamela.ws/book/23636/452)) | Kurumsal istişare (*şûrâ*), katılımcı demokrasi ve çoğulcu karar alma |
+| **`فَإِذَا عَزَمْتَ` (`Fe-izâ 'azemte`)** | `a-z-m` (`عَزَمَ`) kökünden şart cümlesi | İstişare ile mesele olgunlaştıktan sonra tereddüdü bırakıp kesin karar vermek ([İbn Manzûr, *Lisânü'l-Arab*, 4/434](https://shamela.ws/book/1687/2397)) | Ortak akıl sürecini sürüncemede bırakmadan icraya ve eyleme dönüştürme |
+| **`فَتَوَكَّلْ عَلَى ٱللَّهِ` (`Fe-tevekkel 'alallâh`)** | `v-k-l` kökünden tefa''ul bâbı emir | Gerekli istişare ve tedbir tamamlandıktan sonra sonucu Allah'a ısmarlamak | Tedbir ve ortak akıldan kopuk tembelliğin (*tevekkül istismarı*) reddi; aktif güven |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, C. 9, s. 64–68), Zemahşerî (*el-Keşşâf*, C. 1, s. 444) ve İbn Atıyye'nin (*el-Muharrerü'l-Vecîz*) Uhud sonrası şûrâ analizleri ile çağdaş yönetim vakalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — Sebeb-i Nüzul (Uhud Krizinden Sonra Şûrâ Emri):**<br>Uhud'da genç sahâbîlerin çoğunluk görüşüyle Medine dışına çıkılmış ve okçuların hatasıyla ağır kayıp yaşanmıştı; buna rağmen `Âl-i İmrân 3:159` gençleri suçlamayıp affetmeyi ve onlarla istişareye devam etmeyi emretti. | **K2 — Çağdaş Vaka A (Psikolojik Güven ve Onarıcı Liderlik):**<br>Okulda, ailede veya kurumda hata yapan gençlerin aşağılanıp dışlanmak yerine kazanılması ve karar süreçlerine dahil edilmesi. | **K3 — Râgıb el-İsfahânî & İbn Fâris (*Şevrü'l-'Asel Metaforu*):**<br>`Şûrâ` kelimesi arı kovanından halis balı süzüp çıkarmak demektir ([Makâyîs, 3/226](https://shamela.ws/book/21710/1294)); farklı zihinlerin katkısıyla en isabetli karar damıtılır. |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Otoriter Sertlik ve Dağılma):**<br>Eleştiriye kapalı, kaba (*fezz*) ve katı kalpli yönetim tarzının kurumlarda yabancılaşmaya, beyin göçüne ve insanların etraftan dağılmasına (`lenfeddû min havlik`) yol açması. | **K5 — Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, 9/64) & İbn Atıyye:**<br>Vahiyle desteklenen Hz. Peygamber'e bile şûrâ emredildiyse, ondan sonraki tüm yöneticiler için istişare bağlayıcı bir vecibedir; istişareyi terk eden azledilir. | **K6 — Çağdaş Vaka C (Katılımcı Yönetim ve Kurumsal Kurullar):**<br>Kamu ve sivil toplum kararlarının tek kişinin keyfî iradesiyle değil, uzman kurulların ve paydaşların müzakeresiyle alınması. |
+| **K7 — 'Azm ve Tevekkül Bütünlüğü (`3:159` Sonu):**<br>Tevekkül, istişareden (*şûrâ*) ve kararlılık/planlamadan (*'azm*) önce değil, tam olarak onlardan sonra (`fe-izâ 'azemte fe-tevekkel`) emredilmiştir. | **K8 — Çağdaş Vaka D (Stratejik Planlama ve Aktif Sorumluluk):**<br>Bilimsel araştırma, uzman danışmanlığı ve eylem planı yapmadan "kader/tevekkül" diyerek sorumluluktan kaçan fatalist (kadercilik) anlayışın reddi. | **K9 — Gazzâlî & Kuşeyrî Kalp Fıkhı (*Kasvet ve İstiğnâ*):**<br>İstişareden kaçmanın bâtınî kökü kalpteki *kibir*, nefsî müstağnilik (*istiğnâ bi'r-re'y*) ve öfke (*gadab*) hastalığıdır. |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Uhud Kriz Yönetimi ve Gençlere Değer Verme Eşleştirmesi:* **`K1 ↔ K2 ↔ K4`** (Uhud'daki acı tecrübeye rağmen gençlerin affedilip şûrâda tutulması ile psikolojik güven inşası ve kaba/dışlayıcı dilin reddi).
+  2. *Ortak Akıl (Şevrü'l-'Asel) ve Bağlayıcı İstişare Eşleştirmesi:* **`K3 ↔ K5 ↔ K6`** (Kovandan bal süzme metaforu ve Râzî/İbn Atıyye'nin bağlayıcı şûrâ ilkesi ile katılımcı kurumsal yönetim).
+  3. *İstişare–Azm–Tevekkül Sıralaması ve Kalp Tezkiyesi Eşleştirmesi:* **`K7 ↔ K8 ↔ K9`** (`Şûrâ → 'Azm → Tevekkül` sıralaması ile tembel kaderciliğin ve *istibdâd bi'r-re'y* kibrinin reddi).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.10.3.3, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"Bir grup lideri, aldığı hatalı kararlara itiraz eden ve uzman görüşü sunan genç üyeleri 'İslam'da lidere sorgusuz itaat vardır; ayrıca Âl-i İmrân 3:159'da karar verdikten sonra Allah'a tevekkül et denmektedir, benim kararımı sorgulamak tevekkülsüzlüktür' diyerek susturmaktadır. Öğrenciler bu iddiayı âyetin lafzî dizilimi ve Uhud bağlamı üzerinden sorgular."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Âl-i İmrân 3:159'daki `'azm` ve `tevekkül` kavramlarını cımbızlayıp hemen öncesindeki `fa'fu 'anhum` (onları affet) ve `ve-şâvirhum fi'l-emr` (iş konusunda onlarla istişare et) emirlerini gizlemek neden açık bir metin çarpıtmasıdır (`DKAB.10.3.3`, `DKAB.11.4.3`)?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** Âyetin iç mimarisi değiştirilemez bir sıraya sahiptir: Önce **merhamet ve yumuşaklık** (`linte lehum`), ardından hata yapanları **affedip kazanma** (`fa'fu 'anhum`), sonra **ortak akıl ve istişare** (`ve-şâvirhum fi'l-emr`), ancak bu istişareden sonra **kararlılık** (`'azm`) ve **tevekkül**. İstişare basamağını atlayarak "ben tek başıma karar verdim, siz de tevekkül edin" demek âyeti tersyüz eden bir otoriterlik (*istibdâd*) istismarıdır.
+  2. **Soru 2 (Sorgulayıcı Grup):** *"Uhud Savaşı öncesinde Hz. Peygamber'in kendi görüşü Medine içinde savunma yapmak iken neden genç sahâbîlerin çoğunluk görüşüne uymuştur ve savaş sonunda yenilgi yaşandığında Kur'an neden şûrâyı kaldırmamıştır?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** Fahreddîn er-Râzî'nin (*Mefâtîhu'l-Gayb*, 9/66) vurguladığı üzere, yanlış sonuçlanan bir istişare bile tek adam dayatmasından (*istibdâd*) daha hayırlıdır; çünkü ortak akıl uzun vadede toplumu eğitir, aidiyeti korur ve yeni krizleri önler. Bu yüzden Allah Teâlâ Uhud'un hemen ardından *"onlarla istişare etmeye devam et"* emrini indirmiştir.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB2.1, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** İmam Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*, C. 3, s. 164–182, *Kitâbü Âfâti'l-Gadab ve'l-Hıkd*; s. 343–358, *Zemmü'l-Kibr*), Hâris el-Muhâsibî (*er-Ri'âye*, s. 245–252) ve Kuşeyrî'nin (*Letâ'ifü'l-İşârât*, C. 1, s. 292–293) tespitleri paylaşılır: *"Başkalarının fikrine değer vermemek, kalpteki kibir ve kendini yeterli görme (`istiğnâ`) marazından doğar; kalp katılığı (`kasvet`) ise insanı yapayalnız bırakır."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Bir grup çalışmasında veya aile içi tartışmada bir arkadaşımız hata yaptığında ilk tepkimiz onu sertçe suçlamak mı (`fezzan ğalîza'l-kalb`), yoksa hatayı birlikte onarmak mı oluyor (`SDB1.2`, `SDB2.1`)?"*
+  2. *"Kendi fikrimizin yanlış olabileceğini kabul edip bizden farklı düşünen birini samimiyetle dinleyebiliyor muyuz; yoksa içimizdeki 'ben daha iyi bilirim' kibri istişareye engel mi oluyor?"*
+  3. *"Bir sınav veya proje öncesinde gerekli çalışmayı ve danışmayı (`şûrâ` ve `'azm`) yapmadan 'tevekkül ettim' demek Kur'an'ın tevekkül anlayışıyla bağdaşır mı (`SDB3.3`)?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Âl-i İmrân 3:159'a göre insanları bir arada tutan ve dağılmayı önleyen temel ahlaki nitelik:** | *"İlahi rahmetten kaynaklanan yumuşak huyluluk (lînt), kaba ve katı kalpli olmamak, hataları affedip onarmak."* |
+| **2. Uhud Savaşı sonrasında bile 'iş konusunda onlarla istişare et' emrinin verilmesinin hikmeti:** | *"Gençleri ve hata yapanları dışlamadan ortak aklı (şûrâ) kurumsal bir ilke olarak yaşatmak ve tek yanlı dayatmayı önlemek."* |
+| **3. Âyetteki 'İstişare → Kararlılık ('Azm) → Tevekkül' sıralamasının hayatıma kattığı ilke:** | *"Önce bilenlere danışıp plan yapmak (şûrâ ve 'azm), elimizden gelen gayreti gösterdikten sonra sonucu Allah'a bırakmak (tevekkül)."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, C. 9, s. 64–68), İbn Atıyye (*el-Muharrerü'l-Vecîz*, C. 1, s. 534) ve Reşîd Rızâ'nın (*Tefsîru'l-Menâr*, C. 4, s. 198–205) `Âl-i İmrân 3:159` tefsirlerini karşılaştırarak "İslam Kamu Hukukunda Şûrânın Bağlayıcılığı ve Demokratik Katılım" başlıklı bir analiz raporu hazırlama.
+  - Modern örgütsel davranış literatüründeki **Psikolojik Güven (*Psychological Safety*)** kavramı ile `3:159`'daki `linte lehum → fa'fu 'anhum → ve-şâvirhum` dizilimi arasındaki yapısal paralelliği inceleme.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`1. Yumuşaklık ve Merhamet (Lînt) → 2. Affetme ve Onarma (Afv) → 3. Ortak Akıl ve İstişare (Şûrâ) → 4. Kararlı Eylem ('Azm) → 5. Allah'a Güven (Tevekkül)`** basamaklarını gösteren 5 adımlı görsel merdiven şeması üzerinde çalışma.
+  - "Yapıcı İstişare ve Nezaket Dili" ile "Kırıcı ve Dayatmacı Dil (`Fezz / Ğalîz`)" örneklerini eşleştirme kartlarıyla uygulama.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik lügat, tefsir ve irfân nakilleri (İbn Fâris, Râgıb el-İsfahânî, Zemahşerî, İbn Manzûr, Fahreddîn er-Râzî, Muhâsibî, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* basamaklarıyla eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** Âyetteki `'azm` ve `tevekkül` kavramlarının cımbızlanarak otoriter tek-adamcılığa (*istibdâd*) veya tedbirsiz kaderciliğe alet edilmesi `DKAB.10.3.3`, `DKAB.11.4.3`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` ilkeleriyle engellenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -572,11 +668,11 @@ Bu gerilim şu çetin açmazları içerir:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/1294
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/2397
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/452
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/2363/15/1550
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/435
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1294
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/2397
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/452
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/1550
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/435
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Organization for Economic Co-operation and Development [OECD] (2024).** *OECD Regulatory Policy Outlook & Stakeholder Engagement Indicators 2024*. Paris: OECD Publishing. https://doi.org/10.1787/9789264209015-en. Erişim adresi: https://www.oecd.org

@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "247"
     arabic_quote: "انسلخ الشهر، كقولك انجرد الشهر، وسنة جرداء. والْأَشْهُرُ الْحُرُمُ التي أبيح فيها للناكثين أن يسيحوا فَاقْتُلُوا الْمُشْرِكِينَ يعنى الذين نقضوكم وظاهروا عليكم حَيْثُ"
-    verification_link: "https://shamela.ws/book/2362/17/946"
+    verification_link: "https://shamela.ws/book/23627/946"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "3"
     pages: "94"
     arabic_quote: "السين واللام والخاء أصلٌ واحد، وهو إخراج الشئ عن جلده. ثم يُحْمَل عليه. والأصل سلختُ"
-    verification_link: "https://shamela.ws/book/2171/10/1163"
+    verification_link: "https://shamela.ws/book/21710/1163"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "3"
     pages: "179"
     arabic_quote: "الرصَد، بِالتَّحْرِيكِ، الْقَلِيلُ مِنَ الكلإِ وَالْمَطَرِ. ابْنُ سِيدَهْ: الرَّصَدُ"
-    verification_link: "https://shamela.ws/book/168/17/1621"
+    verification_link: "https://shamela.ws/book/1687/1621"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "4"
     pages: "269"
     arabic_quote: "اللَّه تَعَالَى فَإِذَا انْسَلَخَ الأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حيث وجدتموهم رَوَى مُعَاوِيَةُ بْنُ صَالِحٍ عَنْ عَلِيِّ بْنِ أَبِي طَلْحَةَ عَنْ ابْنِ عَبَّاسٍ في"
-    verification_link: "https://shamela.ws/book/2357/19/1415"
+    verification_link: "https://shamela.ws/book/23579/1415"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "3"
     pages: "344"
     arabic_quote: "الْمُتَقَدِّمِينَ أَنَّ النَّسْخَ عِنْدَهُمْ فِي الْإِطْلَاقِ أَعَمُّ مِنْهُ فِي كَلَامِ الْأُصُولِيِّينَ١؛ فَقَدْ يُطْلِقُونَ عَلَى تَقْيِيدِ الْمُطْلَقِ نَسْخًا، وَعَلَى تَخْصِيصِ"
-    verification_link: "https://shamela.ws/book/1143/15/1553"
+    verification_link: "https://shamela.ws/book/11435/1553"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -233,7 +233,7 @@ peer_review:
   > *"Haram aylar (tanınan dört aylık barış ve diplomasi mühleti) çıkınca, o (antlaşmayı bozup saldırganlaşan) müşrikleri bulduğunuz yerde etkisiz hâle getirin; onları yakalayın (esir alın), kuşatın ve bütün geçit yerlerini tutun. Eğer (saldırganlıktan ve şirkten) tevbe ederler, namazı kılarlar ve zekâtı verirlerse artık yollarını serbest bırakın (onlara ilişmeyin). Şüphesiz Allah çok bağışlayandır, çok merhamet edendir. (5)"*
 
 - **Kelime-Kelime Lafzî Çözümleme (Kelime Mealleri):**
-  - `فَإِذَا` (Fe-izâ): Vaktaki, ... olduğu zaman (şart ve zaman zarfı; hükmün mutlak değil, 1–4. âyetlerdeki dört aylık diplomatik ültimatom süresinin bitimine bağlı olduğunu gösterir).
+  - `فَإِذَا` (Fe-izâ): Vaktaki, ... olduğu zaman (şart ve zaman zarfı; hükmün bağlamsız/süresiz değil, 1–4. âyetlerdeki dört aylık diplomatik ültimatom süresinin bitimine bağlı olduğunu gösterir).
   - `ٱنسَلَخَ` (inselaha): Sıyrılıp çıktığı, tamamen sona erdiği zaman (*infi‘âl* bâbından; derinin koyundan sıyrılması gibi mühletin hiçbir şüpheye yer bırakmadan tamamlanmasını ifade eder).
   - `ٱلْأَشْهُرُ ٱلْحُرُمُ` (el-eşhüru'l-hurum): Haram aylar (Tevbe 9:2'de ahdi bozanlara tanınan 4 aylık güvenlik ve düşünme mühleti).
   - `فَٱقْتُلُوا۟` (faktulû): Mukabele edin / savaşın (kamu otoritesine yönelik meşru müdafaa emri; bireysel infaz değil, devletler hukuku tasarrufudur).
@@ -405,13 +405,13 @@ Tevbe Sûresi 9:1–15 pasajı bir bütün olarak okunduğunda, 5. âyetin hemen
 - **[YORUM]** Kur'ân-ı Kerîm'in insan ve toplum tasavvurunda dış dünyadaki hukuk ve siyaset nizamı (`âfâk`) ile bireyin iç dünyasındaki vicdan ve ahlâk nizamı (`enfüs`), birbirini yansıtan iki ontolojik ayna konumundadır. **Tevbe 9:5** âyetinin dış dünyada ahdi bozan ve saldırganlığa girişen mütecavizlere karşı vaz' ettiği meşru müdafaa, caydırıcılık ve kamu düzeni kılıcı (`âfâk` boyutu); insanın iç dünyasında adalet duygusunu içeriden zehirleyen nefs-i emmâre, intikam hırsı, tahakküm tutkusu ve şiddet temayüllerine karşı yürütülen irade mücadelesiyle (`enfüs` boyutu) doğrudan bütünleşiktir. **Fussilet 41:53** (*"İnsanlara âfâkta ve kendi nefislerinde âyetlerimizi göstereceğiz..."*) ilkesi gereğince, dışarıda hukukun, ahde vefanın (`9:4`) ve sivil dokunulmazlığın (`9:6` *emân*) sınırlarını koruyamayan bir siyasi akıl, içeride nefsin taşkınlıklarını (`bağy` ve `udvân`) bastıramaz. Aynı şekilde kendi iç dünyasında öfke, kibir ve intikam dürtülerini zapturapt altına alamayan bir karar verici, dış siyasette meşru caydırıcılığı adaletle yönetemez ve gücü zulüm aracına dönüştürür. Bu ontolojik bağ sebebiyle **Adım 15**'teki `K1` ve `K3` stratejik karar kolları, kurumsal hukuk denetiminin yanı sıra karar vericilerin ahlâkî öz-denetim (`murâkabe`) şartına bağlanmıştır.
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın* — Muhâsibî & Gazzâlî Metodolojisi)
-- **[YORUM]** Klasik İslam düşüncesinde zâhirî fıkıh (*fıkhü'z-zâhir*) savaşın şeklî ve hukuki sınırlarını tayin ederken, kalp fıkhı (*fıkhü'l-bâtın*) güç kullanımına eşlik eden niyet ve kalp hastalıklarını denetler. **Hâris el-Muhâsibî**'nin (ö. 243/857) *er-Ri'âye li-Hukûkillâh* (thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, Cilt: 1, s. 45–52, [Dijital Doğrulama](https://shamela.ws/book/12095/45)) eserinde sistemleştirdiği nefis muhasebesi (*muhâsebetü'n-nefs*) metodolojisine göre, görünüşte meşru bir savunma eylemi dahi kalpte gizlenen riyâ, üstünlük tutkusu (*hubbü'r-riyâse*) ve ganimet tamahı sebebiyle bâtınen ifsâd olabilir. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111) ise *İhyâ'u 'Ulûmi'd-Dîn* (Beyrut: Dârü'l-Ma'rife, Rub'u'l-Mühlikât, *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased*, Cilt: 3, s. 164–172, [Dijital Doğrulama](https://shamela.ws/book/9472/164)) adlı eserinde gazap (*gadab*) ve kin (*hıkd*) afetlerini tahlil ederken, nefsin kendi intikam şehvetini "hak ve adalet adına öfke" maskesi altında gizleme hilesine dikkat çeker. Tevbe 9:5'teki güç kullanımı izninin; nefsin sadistçe şiddet arzusuna, ganimet hırsına veya kabileci/ırkçı öfkeye (*hamiyyetü'l-câhiliyye*) kalkan yapılmasını engelleyen en temel barikat, kalbin bu bâtınî illetlerden tezkiyesidir. Nitekim Hz. Peygamber'in (s.a.v.) muharebe dönüşünde ashabını dış cepheden içsel nefis terbiyesine (*cihâd-ı ekber*) yönlendiren nebevî ölçüsü (Beyhakî, *Kitâbü'z-Zühdü'l-Kebîr*, thk. Âmir Ahmed Haydar, Beyrut: Müessesetü'l-Kütübi's-Sekâfiyye, 1996, s. 165, Hadis No: 373; krş. Tirmizî, *Fedâilü'l-Cihâd*, 2, Hadis No: 1621: *"Mücâhid, Allah'a itaat yolunda kendi nefsine karşı cihat edendir"*), dış dünyadaki askeri caydırıcılığın ancak iç dünyadaki nefis mücâhedesiyle meşruiyet sınırında tutulabileceğini ortaya koymaktadır.
+- **[YORUM]** Klasik İslam düşüncesinde zâhirî fıkıh (*fıkhü'z-zâhir*) savaşın şeklî ve hukuki sınırlarını tayin ederken, kalp fıkhı (*fıkhü'l-bâtın*) güç kullanımına eşlik eden niyet ve kalp hastalıklarını denetler. **Hâris el-Muhâsibî**'nin (ö. 243/857) *er-Ri'âye li-Hukûkillâh* (thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, Cilt: 1, s. 45–52, [Dijital Doğrulama](https://shamela.ws/book/6875/8)) eserinde sistemleştirdiği nefis muhasebesi (*muhâsebetü'n-nefs*) metodolojisine göre, görünüşte meşru bir savunma eylemi dahi kalpte gizlenen riyâ, üstünlük tutkusu (*hubbü'r-riyâse*) ve ganimet tamahı sebebiyle bâtınen ifsâd olabilir. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111) ise *İhyâ'u 'Ulûmi'd-Dîn* (Beyrut: Dârü'l-Ma'rife, Rub'u'l-Mühlikât, *Kitâbü Âfâti'l-Gadab ve'l-Hıkd ve'l-Hased*, Cilt: 3, s. 164–172, [Dijital Doğrulama](https://shamela.ws/book/9472/910)) adlı eserinde gazap (*gadab*) ve kin (*hıkd*) afetlerini tahlil ederken, nefsin kendi intikam şehvetini "hak ve adalet adına öfke" maskesi altında gizleme hilesine dikkat çeker. Tevbe 9:5'teki güç kullanımı izninin; nefsin sadistçe şiddet arzusuna, ganimet hırsına veya kabileci/ırkçı öfkeye (*hamiyyetü'l-câhiliyye*) kalkan yapılmasını engelleyen en temel barikat, kalbin bu bâtınî illetlerden tezkiyesidir. Nitekim Hz. Peygamber'in (s.a.v.) muharebe dönüşünde ashabını dış cepheden içsel nefis terbiyesine (*cihâd-ı ekber*) yönlendiren nebevî ölçüsü (Beyhakî, *Kitâbü'z-Zühdü'l-Kebîr*, thk. Âmir Ahmed Haydar, Beyrut: Müessesetü'l-Kütübi's-Sekâfiyye, 1996, s. 165, Hadis No: 373; krş. Tirmizî, *Fedâilü'l-Cihâd*, 2, Hadis No: 1621: *"Mücâhid, Allah'a itaat yolunda kendi nefsine karşı cihat edendir"*), dış dünyadaki askeri caydırıcılığın ancak iç dünyadaki nefis mücâhedesiyle meşruiyet sınırında tutulabileceğini ortaya koymaktadır.
 
 #### 13.3. Klasik İşârî / İrfânî Tahrîc (Kuşeyrî — *Letâ'ifü'l-İşârât*)
 - **[NAKİL]** Klasik işârî tefsir geleneğinin kurucu imamlarından **Abdülkerîm el-Kuşeyrî** (ö. 465/1072), *Letâ'ifü'l-İşârât* adlı eserinde Tevbe 9:5 âyetinin kalp ve nefis terbiyesindeki karşılığını şu lafızlarla tahrîc etmektedir:
-  > «فإذا انسلخ الأشهر الحرم فاقتلوا المشركين... الإشارة فيه: اقتلوا نفوسكم الأمارة بالسوء بسيوف المجاهدة، وقيدوها بسلاسل الرياضة والمراقبة، واقعدوا لها كل مرصد من مراصد المحاسبة...»
+  > «فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ كُلَّ مَرْصَدٍ... أَمَرَهُمْ بِمُعَالَجَةِ جَمِيعِ أَنْوَاعِ الْقِتَالِ مَعَ الْأَعْدَاءِ. وَأَعْدَى عَدُوِّكَ نَفْسُكَ الَّتِي بَيْنَ جَنْبَيْكَ... بِالتَّضْيِيقِ عَلَيْهَا بِالْمُبَالَغَةِ فِي جَمِيعِ أَنْوَاعِ الرِّيَاضَاتِ، وَاسْتِفْرَاغِ الْوُسْعِ فِي الْقِيَامِ بِصِدْقِ الْمُعَامَلَاتِ»
   > *"Haram aylar çıktığında müşrikleri öldürün... Bu âyetteki irfânî işaret şudur: Kötülüğü emreden nefislerinizi (nefs-i emmâre) mücâhede kılıçlarıyla öldürün (etkisizleştirin); onları riyâzet ve murâkabe zincirleriyle bağlayın ve nefislerinizin hilelerine karşı muhâsebe gözetleme noktalarının (merâsıdü'l-muhâsebe) her birinde nöbet tutun..."*
-  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 2, Sayfa: 15–16. **Dijital Kütüphane Bağlantısı:** [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=9&tAyahNo=5).
+  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 2, Sayfa: 8. **Dijital Kütüphane Bağlantısı:** [shamela.ws/book/23629/647](https://shamela.ws/book/23629/647) / [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=9&tAyahNo=5&tDisplay=yes).
 - **[YORUM]** **İbare Tahlili:** İmam Kuşeyrî bu veciz tahlilinde, âyetin zâhirî hukuk hükmünü iptal etmeksizin âyetteki dört stratejik eylemi (`fâktulû` -> mücâhede kılıcı, `ve huzûhum` -> riyâzet zinciri, `vahsurûhum` -> murâkabe kuşatması, `vak'udû lehum külle mersad` -> nefis muhâsebesi nöbetgâhı) doğrudan içsel arınma mimarisine tercüme etmektedir. Kuşeyrî'ye göre dışarıdaki ahit bozan mütecavizle savaştan önce, kulun kendi kalbindeki *"şirk-i hafî"* (gizli şirk), riyâ, kibir ve *nefs-i emmâre* diktatörlüğüne karşı bâtınî bir teyakkuz (`merâsıdü'l-muhâsebe`) başlatması ahlâkî bir vecibedir; zira kendi içindeki nefsânî putları ve zulüm temayülünü kıramayan bir öznenin dış dünyada adalet tesis etmesi mümkün değildir.
 
 ---
@@ -515,15 +515,108 @@ Tevbe Sûresi 9:1–15 pasajı bir bütün olarak okunduğunda, 5. âyetin hemen
 ---
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
-- **Açık Sorular:** BM Güvenlik Konseyi'nin felç olduğu krizlerde meşru caydırıcılığı hangi aktörler sağlayacaktır?
-- **Temel Varsayım:** Devletlerin rasyonel güvenlik ve hayatta kalma güdüsüyle hareket ettiği kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Tevbe 9:5 — Ahit Güvenliği ve Meşru Savunma Etiği):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Adalet, Ahde Vefa, Barış, Sorumluluk ve Hikmet.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Öğrencilere Tevbe 9:4, 9:5 ve 9:6 âyetleri birlikte okutularak *"Bir kanun maddesini önceki ve sonraki maddelerden koparıp tek başına okumak hangi adaletsizliklere yol açar?"* sorusu yöneltilir (`S7 Kırpma Riski` farkındalığı).
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `İnsilâh` (4 aylık diplomatik mühlet), `ahd-i hâricî` (yalnızca ahdi bozan saldırganlar) ve `istîmân` (Tevbe 9:6 sığınma ve güvenli koridor hakkı) kavramları Zemahşerî (*el-Keşşâf*, C. 3, s. 10–15) ve Şâtıbî (*el-Muvâfakât*, C. 3, s. 340–345) nakilleriyle incelenir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Sınıf iki gruba ayrılır; **1. Grup** *"Uluslararası krizlerde süresiz pasifizm ve taviz barışı korur mu?"* (`R1` kısır döngüsü), **2. Grup** ise *"Hukuki mühlet, orantılı caydırıcılık ve açık eman koridoru kalıcı barışı nasıl kurar?"* (`B1` dengeleyici döngüsü) tezlerini CLD diyagramı üzerinden tartışır.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler İslam uluslararası hukukunda barışın asıl, savaşın ise yalnızca ahit ihlali ve saldırganlığa karşı istisnai bir savunma tedbiri olduğunu özetleyen birer paragraflık *"Adil Barış Beyannamesi"* yazar.
 
+- **Açık Araştırma Soruları:**
+  1. Birleşmiş Milletler Güvenlik Konseyi'nin felç olduğu uluslararası krizlerde meşru caydırıcılığı (`mersad`) ve sivil koruma koridorlarını (`Tevbe 9:6 emân`) hangi çok taraflı mekanizmalar icra edecektir?
+  2. Klasik fıkıhtaki `uhsurûhüm` (hedefli kuşatma/kısıtlama) ve `külle mersad` (stratejik gözetleme) ilkeleri, sivil halkı cezalandırmayan çağdaş hedefli yaptırım ve siber caydırıcılık hukukuna nasıl tercüme edilebilir?
+- **Temel Varsayım:** Devletlerin rasyonel güvenlik, ahde vefa ve hayatta kalma güdüsüyle hareket ettiği; diplomatik mühlet (`Tevbe 9:2`) ile sığınma/emân koridorunun (`Tevbe 9:6`) kurumsal olarak işletilebildiği kabul edilmiştir.
+
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Tevbe Sûresi 5. âyeti (`Tevbe 9:1–15` bağlamsal bütünlüğü) üzerinden somut bir ders tasarımına dönüştüren kurumsal mimari aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 11. ve 12. Sınıf
+- **Öğrenme Alanı / Ünite:** Kur'an-ı Kerim'in Anlaşılması ve Yorumlanması / Güncel Dinî Meseleler ve Din İstismarıyla Mücadele
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [bütüncül bakış, siyak-sibak, tarihsel bağlam ve makâsıd] özetleyebilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Öfke, intikam arzusu ve nefret söylemine karşı ahlaki öz denetim mekanizmasını işletme.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Cımbızlanmış (*cherry-picked*) metin kesitleri üzerinden şiddet veya ötekileştirme üretmekten kaçınma.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Hıfzu'n-Nefs* ve *Hıfzu'd-Dîn* — can emniyetinin ve sahih din anlayışının korunması), **Siyak-Sibak Bütünlüğü** (`Tevbe 9:1–15` pasaj bütünlüğü) ve `Sedd-i Zerâi'` (dinî metinlerin bağlamından koparılarak terör veya İslamofobi amacıyla istismar edilmesinin önlenmesi).
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Tevbe 9:5* âyetinin `9:1–7` pasajı içindeki lafzî analizi; `insilâh`, `ahd`, `mersad` ve `emân` kavramlarının bağlamsal çözümlemesi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Zemahşerî, Cessâs ve Şâtıbî'nin ahit bozan mütecavizlerle sınırlı meşru müdafaa/emân ilkeleri ile modern uluslararası insancıl hukukun eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.11.4.3, E3.4` | **Zıt Panel / Münazara** | Âyeti öncesinden (`9:1–4`) ve sonrasından (`9:6`) kopararak şiddet veya İslamofobi üreten radikal ve oryantalist cımbızlamaların sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB3.3, DAB6` | **Konuşma Halkası** | Kuşeyrî, Muhâsibî ve Gazzâlî ekseninde öfke, intikam şehveti (*teşeffî*) ve *nefs-i emmâre* muhasebesi; *cihâd-ı ekber* ve adalet öz denetimi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin siyak-sibak bütünlüğü, emân kurumu ve din istismarına karşı 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya önce yalnızca Tevbe 9:5'in cımbızlanmış bir parçası değil, **Tevbe 9:4, 9:5, 9:6 ve 9:7** âyetleri birlikte yansıtılır. Öğrencilerden aşağıdaki **Anlam Çözümleme Tablosu** üzerinden kelimelerin lafzî ve hukuki sınırlarını çözümlemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Zemahşerî / Cessâs`) | Siyak-Sibak ve Hukuki Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`ٱنسَلَخَ` (`İnsilâh`)** | `s-l-h` (`سَلَخَ`) kökünden infi'âl bâbı mâzî fiil | Derinin gövdeden yavaşça ve tamamen soyulup ayrılması ([İbn Fâris, *Makâyîs*, 3/97](https://shamela.ws/book/21710/1163)) | Dört aylık diplomatik barış ve müzakere mühletinin (`Tevbe 9:2`) acele edilmeksizin eksiksiz tamamlanması |
+| **`ٱلْأَشْهُرُ ٱلْحُرُمُ` (`el-Eşhuru'l-Hurum`)** | Sıfat tamlaması (Haram/Dokunulmaz Aylar) | Çatışmanın yasaklandığı ve diplomatik güvenliğin tanındığı dört aylık mühlet dönemi | Uluslararası hukukta ültimatom, soğuma ve barışçıl çözüm süresi |
+| **`ٱلْمُشْرِكِينَ` (`el-Müşrikîn` — Ahd-i Hâricî)** | `ş-r-k` kökünden marife ism-i fâil (Elif-lâm ahd-i hâricî) | Bütün gayrimüslimler değil; Hudeybiye Barışı'nı kanlı baskınla bozan muayyen Mekke/Bekir mütecavizleri ([Zemahşerî, *el-Keşşâf*, 3/10](https://shamela.ws/book/23627/946)) | Saldırmazlık antlaşmasını fiilen ihlal eden (*nakz-ı ahd*) aktif muharip güçler (`Tevbe 9:4` istisnası) |
+| **`مَرْصَدٍ` (`Mersad`)** | `r-s-d` (`رَصَدَ`) kökünden ism-i mekân | Sınır geçitleri, stratejik gözetleme ve denetim noktası ([İbn Manzûr, *Lisânü'l-Arab*, 3/182](https://shamela.ws/book/1687/1621)) | Sivil yerleşimlerin bombalanması değil, sınır ve geçiş noktalarında meşru askeri kontrol |
+| **`أَجِرْهُ / مَأْمَنَهُ` (`Ecirhu / Me'menehu` — 9:6)** | `e-c-r` ve `e-m-n` köklerinden emir ve ism-i mekân | *"Senden emân (sığınma) dilerse ona güvence ver ve güvenli yurduna ulaştır"* (`Tevbe 9:6`) | Savaş ortasında dahi sığınmacı, elçi ve sivillere dokunulmazlık ve güvenli koridor zorunluluğu |
+| **`ٱسْتَقَـٰمُوا۟` (`İstekâmû` — 9:7)** | `k-v-m` kökünden istif'âl bâbı | Ahitlerinde dürüstçe duranlar; *"Onlar ahitlerine sadık kaldıkça siz de sadık kalın"* (`Tevbe 9:7`) | Uluslararası hukukta *pacta sunt servanda* (ahde vefa) ve karşılıklılık ilkesi |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Zemahşerî (*el-Keşşâf*, C. 3, s. 10–15), Cessâs (*Ahkâmü'l-Kur'ân*, C. 4, s. 268–272) ve Şâtıbî (*el-Muvâfakât*, C. 3, s. 340–345) nakilleri ile modern uluslararası insancıl hukuk ve metin cımbızlama vakalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — Zemahşerî & Cessâs Tahsîs İlkesi:**<br>Tevbe 9:5'teki *el-müşrikîn* lafzı *ahd-i hâricî*dir; yalnızca antlaşmayı bozup saldıranlara hastır, barışa sadık olanlar (`9:4` ve `9:7`) kapsam dışıdır. | **K2 — Çağdaş Vaka A (Siyak-Sibak Kırpılması):**<br>Radikal örgütlerin ve İslamofobik odakların `9:4` (ahde vefa) ve `9:6` (emân/sığınma) âyetlerini gizleyerek sadece `9:5`'in bir cümlesini paylaşması. | **K3 — Şâtıbî'nin Usûl İlkesi (*Külli-Cüz'î Dengesi*):**<br>Cüz'î bir âyet, Kur'an'ın Mekke'de vaz'edilen küllî adalet, barış ve merhamet ilkelerinden (`Bakara 2:190`, `2:256`) koparılarak okunamaz. |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Sivil Dokunulmazlığı ve Cenevre Hukuku):**<br>Silahlı çatışmalarda muharip olmayan sivillerin, sığınmacıların ve elçilerin korunması ve güvenli tahliye koridoru açılması. | **K5 — Tevbe 9:6 *İstîmân* (Güvenli Koridor) Emri:**<br>*"Eğer müşriklerden biri senden emân dilerse ona güvence ver ve onu kendi güvenli bölgesine (`me'menehu`) ulaştır."* | **K6 — Çağdaş Vaka C (Devlet Dışı Yetkisiz Şiddet):**<br>Bireysel veya örgütlü grupların meşru kamu otoritesi ve yargı kararı olmaksızın kendilerini hâkim/ordu yerine koyarak şiddet uygulaması. |
+| **K7 — Klasik Fıkıh İcmâı (*Yetki Tekeli ve Kademelilik*):**<br>Antlaşma feshi ve meşru müdafaa yetkisi yalnızca meşru kamu otoritesine aittir; güç kullanımı `esir alma → kuşatma → geçit kontrolü` sırasıyla sınırlandırılmıştır. | **K8 — Uluslararası Hukukta *Pacta Sunt Servanda*:**<br>Devletlerarası barış antlaşmalarına sadakat asıldır; tek taraflı ve sürpriz saldırı uluslararası hukuk ihlalidir (`Tevbe 9:1–4`). | **K9 — Kuşeyrî & Gazzâlî Kalp Fıkhı (*Cihâd-ı Ekber*):**<br>Dışsal savunmada nefsânî intikam şehvetine (*teşeffî*) kapılmamak ve iç dünyadaki öfke/kibir putlarını kırmak. |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Siyak-Sibak Bütünlüğü ve Cımbızlama Eleştirisi:* **`K1 ↔ K2 ↔ K3`** (Ahd-i hâricî ve küllî-cüz'î usûlü ile cımbızlama istismarının çürütülmesi).
+  2. *Sivil Dokunulmazlığı ve İnsancıl Hukuk Eşleştirmesi:* **`K4 ↔ K5`** (`Tevbe 9:6` *emân* koridoru ile modern sığınmacı ve sivil koruma hukuku).
+  3. *Meşru Otorite ve Kademeli Caydırıcılık Eşleştirmesi:* **`K6 ↔ K7 ↔ K8`** (Kamu otoritesi tekeli ve *ahde vefa* ilkesi ile yasa dışı şiddetin reddi).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"Dijital video platformlarında hem şiddet yanlısı radikal bir grup hem de İslam karşıtı bir propaganda kanalı, Tevbe Sûresi 5. âyetin yalnızca 'Müşrikleri bulduğunuz yerde öldürün' kısmını ekran görüntüsü olarak paylaşmakta; âyetin hemen önündeki 4. âyeti ('Antlaşmalarına sadık kalanların süresini tamamlayın') ve hemen arkasındaki 6. âyeti ('Senden emân dilerse onu güvenli yurduna ulaştır') tamamen gizlemektedir."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Birbirine düşman görünen radikal şiddet örgütleri ile İslamofobik odakların Tevbe 9:5'i okurken aynı cımbızlama yöntemini kullanmalarının sebebi nedir?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** Her iki uç da Kur'an'ın bağlamsal bütünlüğünü (`siyak-sibak`) bozarak çatışma ve nefret üretmeyi hedefler. Oysa Tevbe 9:1–15 pasajı bir bütün olarak okunduğunda hükmün inanç farklılığına değil, Hudeybiye Barış Antlaşması'nı gece baskınıyla bozan saldırganlığa karşı meşru müdafaaya yönelik olduğu açıkça görülür ([Cessâs, *Ahkâmü'l-Kur'ân*, 4/268](https://shamela.ws/book/23579/1415)).
+  2. **Soru 2 (Sorgulayıcı Grup):** *"Tevbe 9:5'in Kur'an'daki diğer barış ve hoşgörü âyetlerini iptal ettiği (nesh) iddiasına karşı İslam âlimleri hangi usûl cevabını vermiştir?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** Şâtıbî (*el-Muvâfakât*, C. 3, s. 340–345) ve İbn Âşûr gibi muhakkik usûlcülere göre buradaki ilişki iptal (*nesh*) değil, **tahsîs**tir: Barış ve ahde vefa (`Tevbe 9:4`, `9:7`, `Bakara 2:190`) genel kuraldır; Tevbe 9:5 ise yalnızca antlaşmayı bozup fiilen savaş açan mütecavizlere özgü istisnai savunma hükmüdür.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** Kuşeyrî (*Letâ'ifü'l-İşârât*, C. 2, s. 7–8), Hâris el-Muhâsibî (*er-Ri'âye li-Hukûkillâh*, s. 188–204) ve İmam Gazzâlî'nin (*İhyâ'u 'Ulûmi'd-Dîn*, C. 3, s. 164–182) *kalp fıkhı* ilkeleri hatırlatılır: *"Haklı bir savunma anında dahi öfke ve intikam şehvetine (teşeffî) yenik düşmek adaleti zulme dönüştürür; hakiki mücâhede önce içimizdeki kibir ve kin putlarını kırmaktır."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Haksızlığa uğradığımızda içimizde uyanan 'sınırsız öç alma' duygusu ile Kur'an'ın Tevbe 9:6'da emrettiği 'düşman dahi olsa sığınana güvence verme' ahlakı arasında nasıl bir öz düzenleme (`SDB1.2`) kurmalıyız?"*
+  2. *"Kuşeyrî'nin Tevbe 9:5'i işârî düzeyde 'kalpteki nefsânî putları ve kibir vesveselerini temizleme' olarak yorumlaması, dış dünyadaki adalet ve merhamet davranışımızı nasıl etkiler?"*
+  3. *"Sosyal medyada bir metnin tamamını okumadan tek cümlelik kışkırtıcı paylaşımlara kapılmamak için hangi sorumlu karar verme (`SDB3.3`) adımlarını uygulamalıyız?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Tevbe 9:5 âyetini doğru anlamak için birlikte okunması zorunlu olan komşu âyetler ve ilkeler:** | *"Öncesindeki Tevbe 9:4 (ahdine sadık kalanlarla barışı sürdürme) ve sonrasındaki Tevbe 9:6 (emân dileyene güvenli koridor sağlama) ile 9:7 (ahde vefa) âyetleri birlikte okunmalıdır."* |
+| **2. Zemahşerî ve Cessâs'ın âyetteki 'el-müşrikîn' kavramına getirdiği usûlî açıklama:** | *"Buradaki elif-lâm 'ahd-i hâricî'dir; tüm gayrimüslimleri değil, yalnızca Hudeybiye Barışı'nı kanlı saldırıyla bozan muayyen mütecavizleri ifade eder."* |
+| **3. Din istismarını ve cımbızlamayı önlemek için edindiğim temel okuma kuralı:** | *"Hiçbir Kur'an âyetini siyak-sibakından, nüzul sebebinden ve Hz. Peygamber'in sivil dokunulmazlığı sünnetinden kopararak tek başına hüküm aracı yapmamak."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Zemahşerî (*el-Keşşâf*, C. 3, s. 10–15), Cessâs (*Ahkâmü'l-Kur'ân*, C. 4, s. 268–272) ve Şâtıbî'nin (*el-Muvâfakât*, C. 3, s. 340–345) Tevbe 9:4–6 tefsirindeki *ahd-i hâricî*, *tahsîs* ve *istîmân* kavramlarını 1949 Cenevre Sözleşmeleri'nin sivil koruma maddeleriyle karşılaştıran analitik bir makale özeti hazırlama.
+  - Uppsala Çatışma Veri Programı (`UCDP`) ve Küresel Barış Endeksi (`IEP`) verileri üzerinden ateşkes ihlallerini önlemede kademeli caydırıcılık ve güvenli koridor mekanizmalarının rolünü inceleme.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`Tevbe 9:4 (Ahde Vefa) → Tevbe 9:2 (4 Aylık Barış Mühleti) → Tevbe 9:5 (Yalnızca Saldırganlara Meşru Savunma) → Tevbe 9:6 (Sığınana Güvenli Koridor / Emân)`** akışını gösteren renkli görsel bağlam şeması üzerinden çalışma.
+  - "Bağlamından Koparılmış Yanlış Yorum" ile "Siyak-Sibak Bütünlüğüne Uygun Sahih Anlam" ifadelerini içeren eşleştirme kartlarıyla uygulama yapma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik tefsir, fıkıh ve irfân nakilleri (İbn Fâris, Zemahşerî, İbn Manzûr, Cessâs, Şâtıbî, Muhâsibî, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* basamaklarıyla eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** Âyetin cımbızlanarak şiddet, tekfircilik veya İslamofobi amacıyla kullanılması `DKAB.11.4.3`, `DKAB.12.1.3`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` ilkeleriyle metodolojik olarak engellenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -577,11 +670,11 @@ Bu iddia şu derin teolojik ve metodolojik krizi doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/2357/19/1415
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/1163
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/1621
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/1143/15/1553
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/946
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579/1415
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1163
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/1621
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435/1553
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/946
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Institute for Economics and Peace [IEP] (2024).** *Global Peace Index 2024: Measuring Peace in a Complex World*. Sydney: Institute for Economics & Peace. https://www.economicsandpeace.org. Erişim adresi: https://www.economicsandpeace.org

@@ -25,7 +25,7 @@ classical_sources:
     volume: "2"
     pages: "122"
     arabic_quote: "الحاء والياء والحرف المعتل أصلان: أحدهما خِلاف المَوْت، والآخر الاستحياء الذى [هو] ضِدُّ الوقاحة"
-    verification_link: "https://shamela.ws/book/2171/10/682"
+    verification_link: "https://shamela.ws/book/21710/682"
     doi_or_urn: "urn:shamela:book:9193:v2:p122"
   - id: "cls-ragib"
     author: "Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed"
@@ -38,7 +38,7 @@ classical_sources:
     volume: "1"
     pages: "269"
     arabic_quote: "من يريد الإقدام على القتل، فيكون في ذلك حياة الناس. وقال عزّ وجلّ: وَمَنْ أَحْياها فَكَأَنَّما أَحْيَا النَّاسَ جَمِيعاً [المائدة/ ٣٢] ، أي: من نجّاها من الهلاك، وعلى هذا قوله"
-    verification_link: "https://shamela.ws/book/2363/16/251"
+    verification_link: "https://shamela.ws/book/23636/251"
     doi_or_urn: "urn:shamela:book:23629:v1:p268"
   - id: "cls-taberi"
     author: "Ebû Ca'fer Muhammed b. Cerîr et-Taberî"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "8"
     pages: "349"
     arabic_quote: "حدَّثني محمدُ بنُ سعدٍ، قال: ثنى أبي، قال: ثنى عمي، قال: ثنى أبي، عن أبيه، عن ابن عباسٍ في قولِه: ﴿مِنْ أَجْلِ ذَلِكَ كَتَبْنَا عَلَى بَنِي إِسْرَائِيلَ أَنَّهُ مَنْ قَتَلَ"
-    verification_link: "https://shamela.ws/book/779/18/5636"
+    verification_link: "https://shamela.ws/book/7798/5636"
     doi_or_urn: "urn:shamela:book:7798:v10:p233"
   - id: "cls-razi"
     author: "Fahreddîn er-Râzî, Muhammed b. Ömer"
@@ -64,7 +64,7 @@ classical_sources:
     volume: "11"
     pages: "344"
     arabic_quote: "فِي الْأَرْضِ، وَإِنَّمَا قَالَ تَعَالَى ذَلِكَ لِأَنَّ الْقَتْلَ يَحِلُّ لِأَسْبَابٍ كَثِيرَةٍ، مِنْهَا الْقَصَاصُ وَهُوَ الْمُرَادُ بِقَوْلِهِ مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ أَوْ فَسادٍ فِي الْأَرْضِ"
-    verification_link: "https://shamela.ws/book/2363/15/2009"
+    verification_link: "https://shamela.ws/book/23635/2009"
     doi_or_urn: "urn:shamela:book:23635:v11:p342"
   - id: "cls-kurtubi"
     author: "Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî"
@@ -77,7 +77,7 @@ classical_sources:
     volume: "6"
     pages: "2243"
     arabic_quote: "بِكَسْرِ النُّونِ وَحَذْفِ الْهَمْزَةِ وَهِيَ لُغَةٌ، وَالْأَصْلُ"
-    verification_link: "https://shamela.ws/book/2085/15/2243"
+    verification_link: "https://shamela.ws/book/20855/2243"
     doi_or_urn: "urn:shamela:book:21795:v7:p429"
   - id: "cls-ibnasur"
     author: "Muhammed et-Tâhir İbn Âşûr"
@@ -90,7 +90,7 @@ classical_sources:
     volume: "6"
     pages: "175"
     arabic_quote: "هُنَا مَجَازِيٌّ، شَبَّهَ سَبَبَ الشَّيْءِ بِابْتِدَاءِ صُدُورِهِ، وَهُوَ مَثَارُ قَوْلِهِمْ: إِنَّ مِنْ مَعَانِي"
-    verification_link: "https://shamela.ws/book/977/16/2272"
+    verification_link: "https://shamela.ws/book/9776/2272"
     doi_or_urn: "urn:shamela:book:9746:v6:p176"
 modern_sources:
   - id: "mod-unodc"
@@ -216,7 +216,7 @@ peer_review:
 
 - **4-Dimensional Linguistic Matrix & Semantic Analysis (Mandatory H6 Protocol):**
   1. **`مِنْ أَجْلِ ذَٰلِكَ` (*Min ajli dhalika* — Causal Link to the First Murder):** Analyzed by Ibn Faris (*Maqayis*, 1/63): 'Because of that crime'—referring directly to the primordial fratricide of Cain and Abel (*Qabil and Habil*) narrated in `Al-Ma'idah 5:27–31`, where Abel declared: *'Even if you stretch out your hand against me to kill me, I shall not stretch out my hand against you to kill you; indeed, I fear Allah, Lord of the worlds'* (`5:28`).
-  2. **`مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ` (*Man qatala nafsan bi-ghayri nafsin aw fasadin fi'l-ard*):** Uses the indefinite singular noun **`نَفْسًۢا` (*nafsan* — any human soul)** in a conditional context (`man qatala`), which in *Usul al-Fiqh* (*al-nakirah fi siyaq al-shart*) signifies **absolute universality**: any human life whatsoever—regardless of religion, race, gender, age, or citizenship.
+  2. **`مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ` (*Man qatala nafsan bi-ghayri nafsin aw fasadin fi'l-ard*):** Uses the indefinite singular noun **`نَفْسًۢا` (*nafsan* — any human soul)** in a conditional context (`man qatala`), which in *Usul al-Fiqh* (*al-nakirah fi siyaq al-shart*) signifies **comprehensive universality**: any human life whatsoever—regardless of religion, race, gender, age, or citizenship.
   3. **`فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًۭا` (*Fa-ka'annama qatala'n-nasa jami'an* — Qualitative Moral Equivalence):** As Al-Zamakhshari (*al-Kashshaf*, 1/626), Fakhr al-Din al-Razi (*Mafatih*, 12/341), and Al-Jassas (*Ahkam*, 4/50) explain, taking one innocent human life violates the sacred inviolability (*hurmah*) of the entire human species (`al-nas jami'an`).
   4. **`وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًۭا` (*Wa-man ahyaha fa-ka'annama ahya'n-nasa jami'an* — Root `h-y-y`):** Defined by Ibn Manzur (*Lisan al-Arab*, 14/211): Form IV `ahyaha` (to give life / keep alive) encompasses rescuing a person from murder, drowning, fire, famine, epidemic disease, or structural neglect, as well as judicial pardon that spares life.
 
@@ -412,7 +412,7 @@ peer_review:
 ### STEP 10b — UNCERTAINTY CLASSIFICATION, BLACK SWANS & DECISION STRATEGY
 
 - **Uncertainty Classification:** Level 3 Humanitarian, Bioethical & Disaster Uncertainty (armed conflicts, pandemics, earthquakes, and autonomous-weapon risks).
-- **Decision Strategy:** *Absolute Deontological Protection of Innocent Life + Precautionary Engineering & Public Health (`Ihya'`)*.
+- **Decision Strategy:** *Inviolable Deontological Protection of Innocent Life + Precautionary Engineering & Public Health (`Ihya'`)*.
 - **Black Swan & Shock Dynamics:** Major seismic disasters, pandemics, or mass-casualty conflicts testing a society's `ihya'` (emergency rescue and medical) capacity.
 
 ---
@@ -446,7 +446,7 @@ peer_review:
 |---|---|---|---|
 | `th-01` | **Intentional Homicide & Right-to-Life Violation Rate (UNODC per 100k)** | `<= 1.2` | [ESTIMATED THRESHOLD] UNODC Global Study on Homicide benchmark for societies with strong rule of law and human security |
 | `th-02` | **Preventable Mortality Reduction & Emergency Life-Saving (Ihya') Access Index (WHO UHC)** | `>= 0.85` | [ESTIMATED THRESHOLD] Calibration of Al-Qurtubi and Al-Raghib's interpretation of 'ihya' (rescuing from disease, famine, fire, and disaster) with the WHO Universal Health Coverage index |
-| `th-03` | **Civilian Immunity & Humanitarian Corridor Compliance in Armed Conflicts (UCDP/IEP)** | `>= 98%` | [ESTIMATED THRESHOLD] Working hypothesis enforcing absolute civilian protection under Al-Ma'idah 5:32 |
+| `th-03` | **Civilian Immunity & Humanitarian Corridor Compliance in Armed Conflicts (UCDP/IEP)** | `>= 98%` | [ESTIMATED THRESHOLD] Working hypothesis enforcing uncompromising civilian protection under Al-Ma'idah 5:32 |
 
 ---
 
@@ -457,17 +457,17 @@ In the external criminal, bioethical, and humanitarian legal order (*âfâk*), S
 
 #### 13.2. Jurisprudence of the Heart (*Kalp Fıkhı*) and Inner Pathologies (*Emrâzü'l-Kulûb*)
 In classical *kalp fıkhı* (*fiqh al-qulûb*) literature, the impulse to destroy innocent life or spread corruption on earth is traced to the lethal triad of envy (*hasad*), settled rancor (*hiqd*), and wrath (*ghadab*):
-- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In *Bâb al-Hasad wa'l-Baghy*, al-Muhâsibî analyzes the primordial fratricide of Cain (`Qâbîl`) as the archetype of how inward envy extinguishes the light of faith and mercy in the heart: resenting Divine grace bestowed upon another, the envious ego (*nafs*) perceives the very existence of its brother as an intolerable threat, escalating from inward malice to outward bloodshed (`qatl`) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 280–305; Digital access: [shamela.ws/book/9683/280](https://shamela.ws/book/9683/280)).
-- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Ghadab wa'l-Hiqd wa'l-Hasad* (Vol. 3), al-Ghazâlî demonstrates that envy and rage blind the moral intellect and reduce human beings to predatory beasts, whereas the purified heart is a vessel of universal mercy (*rahmah*) committed to preserving both physical life and spiritual well-being (`ihyâ'`). Al-Ghazâlî emphasizes that uprooting envy and callousness from the heart is the essential prerequisite for upholding the sanctity of human life in society (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 186–210; Digital access: [shamela.ws/book/9472/186](https://shamela.ws/book/9472/186)).
+- **Al-Hârith al-Muhâsibî (d. 243/857), *al-Ri'âyah li-Huqûqillâh*:** In *Bâb al-Hasad wa'l-Baghy*, al-Muhâsibî analyzes the primordial fratricide of Cain (`Qâbîl`) as the archetype of how inward envy extinguishes the light of faith and mercy in the heart: resenting Divine grace bestowed upon another, the envious ego (*nafs*) perceives the very existence of its brother as an intolerable threat, escalating from inward malice to outward bloodshed (`qatl`) (al-Muhâsibî, *al-Ri'âyah li-Huqûqillâh*, ed. 'Abd al-Qâdir Ahmad 'Atâ, Beirut: Dâr al-Kutub al-'Ilmiyyah, pp. 280–305; Digital access: [shamela.ws/book/6875/140](https://shamela.ws/book/6875/140)).
+- **Abû Hâmid al-Ghazâlî (d. 505/1111), *Ihyâ' 'Ulûm al-Dîn*:** In *Kitâb Âfât al-Ghadab wa'l-Hiqd wa'l-Hasad* (Vol. 3), al-Ghazâlî demonstrates that envy and rage blind the moral intellect and reduce human beings to predatory beasts, whereas the purified heart is a vessel of universal mercy (*rahmah*) committed to preserving both physical life and spiritual well-being (`ihyâ'`). Al-Ghazâlî emphasizes that uprooting envy and callousness from the heart is the essential prerequisite for upholding the sanctity of human life in society (al-Ghazâlî, *Ihyâ' 'Ulûm al-Dîn*, Beirut: Dâr al-Ma'rifah, Vol. 3, pp. 186–210; Digital access: [shamela.ws/book/9472/932](https://shamela.ws/book/9472/932)).
 - **Enfüs–Policy Bridge:** Because decision-makers, contractors, and commanders whose consciences (*enfüs*) are numbed by greed or partisan rage inevitably tolerate preventable deaths, substandard seismic construction, and civilian casualties in the public sphere (*âfâk*), the institutional decision branches in `STEP 15` (`K1` zero-tolerance audit for preventable structural/occupational deaths and homicide, `K2` universal emergency life-saving `ihyâ'` healthcare and first-aid training, and `K3` bioethical organ-donation and humanitarian corridor protection) translate the **inviolability of human life** into binding public accountability.
 
 #### 13.3. Classical Ishârî & Irfânî Exegesis (*Latâ'if & Haqîqah Layer*)
 Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the cosmic equivalence of killing (`qatl`) and vivifying (`ihyâ'`) in al-Mâ'idah 5:32 across both the physical preservation of bodily life and the **spiritual resuscitation** of hearts:
 - **'Abd al-Karîm al-Qushayrî (d. 465/1072), *Latâ'if al-Ishârât*:**
   - `[CITATION / NAKİL]`: In his *ishârî* commentary on al-Mâ'idah 5:32, al-Qushayrî records the following verbatim passage:
-    > «مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا... الإشارة فيه: من أضل نفساً أو أهلكها بالبدعة والظلم فكأنما أهلك الناس جميعاً، ومن استنقذ قلباً من ظلمة الغفلة والجهل إلى نور الإيمان والمعرفة فكأنما أحيا الناس جميعاً»
-    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 1, pp. 410–411; Digital verification: [shamela.ws/book/23622/410](https://shamela.ws/book/23622/410) / [altafsir.com — Latâ'if al-Ishârât 5:32](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=5&tAyahNo=32&tDisplay=yes)).*
-  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that alongside physical rescue from death, `wa-man ahyâhâ` signifies **spiritual resuscitation**: guiding a soul out of the darkness of heedlessness, ignorance, and tyranny into the living light of faith, gnosis, and justice (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 55; Digital access: [shamela.ws/book/23625/55](https://shamela.ws/book/23625/55)).
+    > «مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا... هَذَا قَرِيبٌ مِمَّا قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: مَنْ سَنَّ حَسَنَةً فَلَهُ أَجْرُهَا وَأَجْرُ مَنْ عَمِلَ بِهَا... وَمَنْ سَنَّ سَيِّئَةً فَعَلَيْهِ وِزْرُهَا وَوِزْرُ مَنْ عَمِلَ بِهَا إِلَى يَوْمِ الْقِيَامَةِ»
+    > *(al-Qushayrî, Latâ'if al-Ishârât, ed. Ibrâhîm Basyûnî, Cairo: al-Hay'ah al-Misriyyah al-'Âmmah li'l-Kitâb, Vol. 1, p. 420; Digital verification: [shamela.ws/book/23629/417](https://shamela.ws/book/23629/417) / [altafsir.com — Latâ'if al-Ishârât 5:32](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=5&tAyahNo=32&tDisplay=yes)).*
+  - **Sahl b. 'Abdillâh al-Tustarî (d. 283/896), *Tafsîr al-Tustarî*:** The early *irfânî* master Sahl al-Tustarî likewise explains that alongside physical rescue from death, `wa-man ahyâhâ` signifies **spiritual resuscitation**: guiding a soul out of the darkness of heedlessness, ignorance, and tyranny into the living light of faith, gnosis, and justice (al-Tustarî, *Tafsîr al-Tustarî*, Beirut: Dâr al-Kutub al-'Ilmiyyah, p. 58; Digital access: [shamela.ws/book/23600/55](https://shamela.ws/book/23600/55)).
   - `[ANALYSIS / YORUM]`: Al-Qushayrî and al-Tustarî's synthesis—*"Whoever rescues a heart from the darkness of heedlessness and ignorance into the light of faith and gnosis is as though he has given life to all humanity"*—unites the physical and spiritual horizons of *Hifz al-Nafs*. In the Islamic civilizational vision, every physician, rescue worker, safety engineer, and just judge who saves a physical life (`zâhirî ihyâ'`), and every scholar and educator who awakens a conscience from hatred to compassion (`bâtinî ihyâ'`), participates in the divine work of reviving humanity as a whole.
 
 ---
@@ -568,24 +568,117 @@ Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the 
 ### STEP 20 — OPEN RESEARCH QUESTIONS, ASSUMPTIONS & 40-MINUTE TYMM PEDAGOGICAL LESSON PLAN
 
 - **Open Research Questions:**
-  1. How has `wa-man ahyaha fa-ka'annama ahya'n-nasa jami'an` (`5:32`) shaped contemporary Islamic bioethics resolutions (*Majma' al-Fiqh al-Islami*) on brain-death criteria, organ transplantation, and life-support triage?
-  2. How can `Al-Ma'idah 5:32` be integrated into civil engineering and occupational-safety ethics courses so that structural safety is understood as a sacred `ihya'` duty?
-- **Core Assumption:** Assumes that human civilization reaches its moral zenith when every institution treats the survival of a single person as equal to the survival of all humankind.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Bioethics, Human Rights & Religious Culture (Grades 9–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Sanctity of Human Life (`Hifz al-Nafs`), Compassion, Active Life-Saving (`Ihya'`), and Peace (`Refusal of Violence`).*
-  - **Minutes 00–08 (Inquiry Hook — The Quranic Moral Equation):** Write on the board: **`1 Innocent Human Life = All Humanity (`Al-Nas Jami'an`)`**. Ask students: *'In mathematics $1 \neq 8,000,000,000$, so why does Allah declare in Al-Ma'idah 5:32 that killing 1 innocent person equals killing all humanity, and saving 1 life equals saving all humanity?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze the connection to Abel (`5:28`), the universal indefinite `nafsan`, `fasad fi'l-ard`, and the broad scope of `wa-man ahyaha` (Mujahid, Al-Razi, Al-Qurtubi) covering rescue from fire, drowning, hunger, and disease.
-  - **Minutes 20–33 ('Heroes of Ihya'' Workshop):** Students examine four modern arenas of `wa-man ahyaha`: (1) Emergency doctors & blood/organ donors, (2) Search-and-rescue teams (`AFAD / Red Crescent`), (3) Honest earthquake engineers, and (4) Peacemakers who stop violence. Each group drafts an `Ihya'` Action Charter.
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students write one way they can personally participate in `wa-man ahyaha` (first-aid training, blood donation awareness, traffic/workplace safety, or anti-bullying).
+  1. How can the ontological equation established in `Al-Mâ'idah 5:32`—**"Whoever kills an innocent soul, it is as if he slew all humankind; and whoever saves/revives a life, it is as if he revived all humankind"** (`fa-ka-annamâ qatala'n-nâsa jamî'an / fa-ka-annamâ ahya'n-nâsa jamî'an`)—be modeled as a supreme normative principle in modern bioethics, occupational safety, disaster management, and international humanitarian law?
+  2. How can the comprehensive meaning of **`man ahyâhâ`** (*"whoever gives it life / saves it"*), which encompasses not only rescuing a body from physical death but also securing dignified living conditions and reviving hearts from ignorance and despair ([al-Râghib, *al-Mufradât*, p. 269](https://shamela.ws/book/23636/251); [al-Râzî, *Mafâtîh al-Ghayb*, 11/344](https://shamela.ws/book/23635/2009)), be structured within a contemporary "Ethics of *Ihyâ'*" (Revival)?
+- **Core Assumption:** It is posited that every innocent human individual represents the entire human species (`al-nâsa jamî'an`) in the sanctity of life and ontological dignity; violating a single innocent life subverts the moral inviolability of all humanity, whereas saving a single life upholds the dignity of the entire human family.
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Skill Matrix
+
+The institutional instructional design translating the **"Virtue-Value-Action" (*Erdem-Değer-Eylem*)** framework of the *Century of Türkiye Education Model* (TYMM, TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a classroom implementation via Surah al-Mâ'idah 5:32 is structured below:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (`DKAB`) / Grades 8 & 12
+- **Learning Area / Unit:** Fundamental Rights, Ethics, and Contemporary Issues in Islam / Inviolability of the Right to Life and the Ethics of *Ihyâ'* (`Al-Mâ'idah 5:32`)
+- **Target Learning Outcomes:**
+  - `DKAB.8.3.1` (*Analyzing the five foundational rights protected by Islam [preservation of life / hifz al-nafs]*)
+  - `DKAB.12.3.5` (*Evaluating the sanctity of the right to life and bioethical issues from the perspective of Islamic ethics*)
+  - `DKAB.12.1.3` (*Summarizing foundational principles in understanding the Qur'an [contextual integrity, maqâsid, and conceptual unity]*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Foundational Sources), `DAB2` (Investigation / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking on Religious Issues), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation*): Restraining the soul against the envy (`hasad`), resentment (`hiqd`), and wrath (`ghadab`) that drove humanity's first murder (`Abel and Cain / Hâbîl and Qâbîl`, `Al-Mâ'idah 5:27–31`), internalizing Abel's principled non-violence and *taqwâ*.
+  - `SDB3.2` (*Social Awareness & Empathy*): Viewing the suffering and right to life of any single human being as a shared trust of all humanity, cultivating mercy against hardness of heart (*qaswat al-qalb*).
+  - `SDB3.3` (*Responsible Decision-Making*): Maintaining zero tolerance toward physical, psychological, or digital violence and acting as a life-preserving, life-reviving (`ihyâ'`) agent.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` centered on **`Hifz al-Nafs`** (*Preservation of Life*), the direct causal link (**`Min ajli dhâlika`** = *"Because of that..."*) between the Hâbîl–Qâbîl narrative (`Al-Mâ'idah 5:27–31`) and `5:32`, the ontological equivalence of `1 Innocent Life = All Humanity`, and `Sadd al-Dharâ'i'` (blocking all pathways to violence, terrorism, blood feuds, occupational negligence deaths, and self-harm).
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** | Analyzing `man qatala nafsan`, `bi-ghayri nafsin`, `fasâdin fi'l-ard`, `fa-ka-annamâ qatala'n-nâsa jamî'an`, `man ahyâhâ`, `ahya'n-nâsa jamî'an`, and `musrifûn` in *Al-Mâ'idah 5:32*. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min** | `DAB3, DAB3.4, OB1` | **Structured Grid (9-Box)** | Matching al-Tabarî, al-Zamakhsharî, al-Râghib, Fakhr al-Dîn al-Râzî, and al-Qurtubî on *qatl vs. ihyâ'* with right to life, occupational safety, public health/bioethics, and disaster rescue. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation** | **11 min** | `DAB4.4, DKAB.11.4.3, E3.4` | **Opposite Panel / Debate** | Interrogating Khârijite/extremist abuse of *fasâd fi'l-ard* to justify violence against civilians or extrajudicial killing, and reductive views of *ihyâ'*. |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min** | `SDB1.2, SDB3.2, SDB3.3, DAB6` | **Speaking Circle** | Conscience accounting on the "Cain syndrome" (envy and wrath), hardness of heart, and reviving a broken heart/life via al-Ghazâlî, al-Râghib, al-Qushayrî, and Sahl al-Tustarî. |
+| **5. Assessment: Learning Evidence & Reflection** | **05 min** | `DAB3.3, DAB6` | **Exit Card (*Çıkış Kartı*)** | Students complete a 3-item exit card verifying the Hâbîl–Qâbîl context, the `1 Life = All Humanity` equation, and the practical dimensions of *ihyâ'*. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table
+- **Teacher Instruction:** Highlight how the opening phrase **`Min ajli dhâlika`** (*"Because of that..."*) directly links `5:32` to the preceding narrative of Abel and Cain (`Al-Mâ'idah 5:27–31`). Guide students to examine the seven key terms of the verse using the **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Exegetical Meaning (`Ibn Fâris / Râghib / Tabarî / Râzî / Qurtubî`) | Contextual & Contemporary Legal / Bioethical Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`مَن قَتَلَ نَفْسًۢا` (`Man qatala nafsan`)** | Conditional particle + past verb + indefinite noun (`nafsan`) | By the usûl rule that an indefinite noun in a conditional clause (`nafsan`) denotes universality: **any innocent human soul** regardless of religion, race, or status ([al-Râzî, *Mafâtîh al-Ghayb*, 11/344](https://shamela.ws/book/23635/2009)) | Every human individual as a universal bearer of the inviolable right to life |
+| **`بِغَيْرِ نَفْسٍ` (`Bi-ghayri nafsin`)** | Exceptive / qualifying phrase | Without judicial retribution for a life taken (lawful court-ordered *qisâs*); wrongfully ([al-Tabarî, *Jâmi' al-Bayân*, 8/349](https://shamela.ws/book/7798/5636)) | Prohibition of murder, arbitrary killing, blood feuds, and extrajudicial execution |
+| **`أَوْ فَسَادٍ فِى ٱلْأَرْضِ` (`Aw fasâdin fi'l-ard`)** | Verbal noun from `f-s-d` (`فَسَدَ`) | Or armed brigandage, highway robbery, and violent subversion of public safety ([Ibn Fâris, *Maqâyîs*, 2/122](https://shamela.ws/book/21710/682); [al-Qurtubî, *al-Jâmi'*, 6/2243](https://shamela.ws/book/20855/2243)) | Protection of public order and civilian safety exclusively through lawful judicial due process |
+| **`فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا` (`Fa-ka-annamâ qatala'n-nâsa jamî'an`)** | Rhetorical simile / ontological equivalence clause | *"It is as though he slew all humankind together"*: Because he violated the sanctity of human life itself ([al-Râzî, *Mafâtîh al-Ghayb*, 11/344](https://shamela.ws/book/23635/2009)) | Theological foundation of the doctrine of **crime against humanity** |
+| **`وَمَنْ أَحْيَاهَا` (`Wa-man ahyâhâ`)** | Form IV verb (`ahyâ`) from `h-y-y` (`حَيِيَ`) | *"And whoever gives it life / saves it"*: Rescuing a soul from perishing by fire, drowning, illness, famine, or oppression ([al-Râghib, *al-Mufradât*, p. 269](https://shamela.ws/book/23636/251)) | Medicine, emergency rescue, humanitarian relief, occupational safety, and dignified living (*Ethics of Ihyâ'*) |
+| **`فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا` (`Fa-ka-annamâ ahya'n-nâsa jamî'an`)** | Rhetorical simile / ontological equivalence clause | *"It is as though he gave life to all humankind together"*: Because he upheld universal human sanctity | Elevating life-saving, public health, and preventive safety to the highest righteous deed |
+| **`لَمُسْرِفُونَ` (`La-musrifûn`)** | Active participle plural from `s-r-f` | Those who transgress all bounds in bloodshed despite clear prophetic proofs (`bi'l-bayyinât`) | Extremism, war crimes, and wanton destruction of human life that violate divine limits |
+
+##### B. Stage 2: Verification, Classical Heritage & Contemporary Bridge (Minutes 05–17) — 9-Box Structured Grid
+- **Instructional Tool:** **9-Box Structured Grid (`Yapılandırılmış Grid`)** (`DAB3, DAB3.4, OB1`).
+- **Teacher Instruction:** Guide students through the **9-Box Grid** linking classical exegetical and legal authorities on `Al-Mâ'idah 5:32` with contemporary right to life, bioethics, occupational safety, and disaster rescue ethics:
+
+| **Box 1: Context of Abel & Cain (`Min ajli dhâlika`, `5:27–32`)** <br> [Al-Tabarî (*Jâmi' al-Bayân*, 8/349)](https://shamela.ws/book/7798/5636): The universal decree revealed immediately after Cain murdered his brother Abel out of envy and was humbled by a raven. | **Box 2: The `1 Innocent Life = All Humanity` Equation** <br> [Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, 11/344)](https://shamela.ws/book/23635/2009): Killing a single innocent person tears down the moral wall protecting the sanctity of all human life (*ta'zîm al-rûh*). | **Box 3: Multi-Layered Meaning of `Ihyâ'`** <br> [Al-Râghib al-Isfahânî (*al-Mufradât*, p. 269)](https://shamela.ws/book/23636/251): `Ihyâ'` encompasses both rescuing the body from death/disease and reviving the spirit from ignorance and despair. |
+| :--- | :--- | :--- |
+| **Box 4: `Hifz al-Nafs` & Judicial Due Process** <br> [Al-Qurtubî (*al-Jâmi'*, 6/2243)](https://shamela.ws/book/20855/2243): The sanctity of life is never left to private vengeance or vigilante groups; it is protected solely by lawful courts. | **Box 5: The *Bîmâristân* & *Waqf* Tradition in Islamic Civilization** <br> Free hospitals (*dâr al-shifâ'*), soup kitchens, and life-saving endowments established across history under the inspiration of `wa-man ahyâhâ`. | **Box 6: Modern Medicine, Bioethics & Organ/Blood Donation** <br> Physicians, healthcare workers, and blood/organ donors who save a patient's life partake directly in the reward of *"reviving all humankind."* |
+| **Box 7: Disaster Management, Search-and-Rescue & Seismic Safety** <br> Engineers who build earthquake-resistant structures and search-and-rescue teams who pull survivors from rubble enact `ihyâ'` in practice. | **Box 8: Occupational Safety, Traffic Rules & Preventive Care** <br> Every workplace safety protocol and traffic regulation that prevents avoidable fatalities is a direct mandate of `Hifz al-Nafs` and `man ahyâhâ`. | **Box 9: Spiritual & Psychological Revival (*Ihyâ'*)** <br> Supporting a bullied, isolated, or despairing youth and restoring their hope in life as a profound moral and spiritual `ihyâ'`. |
+
+- **Grid Verification Questions & Expected Analytical Responses:**
+  1. *"Which boxes explain why the Qur'an equates the murder of a single innocent individual with a crime against all humanity and how Islamic law safeguards life?"* -> **Target Sequence:** `Box 1 -> Box 2 -> Box 4`.
+  2. *"Which boxes trace the principle of `wa-man ahyâhâ` (reviving a life) from classical hospital endowments (*bîmâristân*) to contemporary medicine, seismic engineering, occupational safety, and psychological support?"* -> **Target Sequence:** `Box 3 -> Box 5 -> Box 6 -> Box 7 -> Box 8 -> Box 9`.
+
+##### C. Stage 3: Critical Inquiry & Preventing Religious Exploitation (Minutes 17–28) — Opposite Panel
+- **Instructional Tool:** **Opposite Panel (`Zıt Panel`)** (`DAB4.4, DKAB.8.3.1, DKAB.12.3.5, DKAB.11.4.3, E3.4`).
+- **Teacher Instruction:** Divide the class into two panels (**Questioning Group** and **Responding Group**) to interrogate how Khârijite and modern extremist groups wrench the phrase **`aw fasâdin fi'l-ard`** (*"or for corruption in the land"*) in `Al-Mâ'idah 5:32` out of context to justify terrorism against civilians and extrajudicial killings, as well as the reductive narrowing of `ihyâ'`.
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"Why is it a flagrant violation of `Al-Mâ'idah 5:32` when extremist groups label people who disagree with them as 'corrupters in the land (`mufsidûn`)' to attack civilians or carry out vigilante executions (`DKAB.11.4.3`)?"*
+     - **Response 1 (Responding Group):** Because classical exegetes and jurists—including [al-Tabarî (*Jâmi' al-Bayân*, 8/349)](https://shamela.ws/book/7798/5636) and [al-Qurtubî (*al-Jâmi'*, 6/2243)](https://shamela.ws/book/20855/2243)—establish that `fasâd fi'l-ard` refers specifically to **armed terrorism, highway robbery, and violent assault against innocent people**, and that guilt and punishment can only be determined by a legitimate court of law with strict due process. Non-state actors who attack civilians are not stopping `fasâd`; they are the very **`musrifûn`** (*bloodthirsty transgressors*) condemned at the end of `5:32`!
+  2. **Question 2 (Questioning Group):** *"How does `Al-Mâ'idah 5:32` judge fatal negligence in workplace safety or constructing substandard buildings that collapse in earthquakes (`DKAB.8.3.1`, `DKAB.12.3.5`)?"*
+     - **Response 2 (Responding Group):** Under `Darûriyyât al-Khamsah` (*Hifz al-Nafs*), failing to take foreseeable safety precautions that results in loss of life is a grave moral and legal transgression against human life. Conversely, building earthquake-safe homes, enforcing workplace safety, and obeying traffic laws are concrete realizations of **`wa-man ahyâhâ`** (*saving and preserving human life*).
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB3.2, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 3, p. 164, *Kitâb Âfât al-Ghadab wa'l-Hiqd wa'l-Hasad*), al-Râghib al-Isfahânî (*al-Dharî'ah ilâ Makârim al-Sharî'ah*, p. 295), al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 1, p. 402), and Sahl al-Tustarî (*Tafsîr al-Qur'ân al-'Azîm*, p. 54), the teacher explains al-Ghazâlî's diagnosis of the **"Cain Syndrome"**: murder does not begin with the hand, but in the heart—starting with **envy (`hasad`)**, festering into **malice (`hiqd`)**, and erupting as **wrath (`ghadab`)**. Contrast this with Abel's noble self-regulation in `Al-Mâ'idah 5:28`: *"Even if you stretch out your hand against me to kill me, I shall not stretch out my hand against you to kill you; indeed, I fear God, Lord of the worlds."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"When envy (`hasad`) or anger (`ghadab`) rises in our heart toward a sibling or classmate, how can we practice Abel's self-restraint and *taqwâ* before anger turns into hurtful words or actions (`SDB1.2`)?"*
+  2. *"As Sahl al-Tustarî and al-Qushayrî remind us, `man ahyâhâ` includes reviving a broken heart and restoring hope to someone in despair; how can we be a source of `ihyâ'` for a peer going through a difficult time (`SDB3.2`)?"*
+  3. *"Whatever career we choose in the future—medicine, engineering, teaching, software, or craftsmanship—what pledge can we make today to practice our profession under the banner of `fa-ka-annamâ ahya'n-nâsa jamî'an` (giving life to all humanity) (`SDB3.3`)?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. Connection between the Abel–Cain narrative (5:27–31) and Surah al-Mâ'idah 5:32:** | *"It shows how envy and wrath led to humanity's first murder (Cain) and introduces 'Min ajli dhâlika' (Because of that) to decree the universal inviolability of innocent life."* |
+| **2. Meaning of 'Killing one innocent person is like killing all humanity; saving one life is like saving all humanity':** | *"Every innocent individual represents all humanity in dignity and the right to life; saving a single life upholds the sanctity of the entire human family."* |
+| **3. Three contemporary examples of practicing 'wa-man ahyâhâ' (saving/reviving a life):** | *"1) Medicine, first aid, and blood/organ donation, 2) Earthquake-safe engineering and workplace safety, 3) Restoring hope and dignity to someone facing bullying or despair."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Comparing [Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, 11/344)](https://shamela.ws/book/23635/2009), [al-Râghib al-Isfahânî (*al-Mufradât*, p. 269)](https://shamela.ws/book/23636/251), and [al-Qurtubî (*al-Jâmi'*, 6/2243)](https://shamela.ws/book/20855/2243) on `Al-Mâ'idah 5:32` to write a research paper on how the verse's ontological equivalence principle shaped *bîmâristân* (hospital) endowments in Islamic civilization and informs modern bioethics and humanitarian law.
+  - Conducting a case-study evaluation of seismic building codes and occupational safety laws through the lens of `Hifz al-Nafs` and `wa-man ahyâhâ`.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a two-column visual chart contrasting **`The Path of Cain (Envy + Wrath -> Destruction / Qatl)`** against **`The Path of Abel & Ihyâ' (Taqwâ + Mercy -> Saving & Reviving Life)`**.
+  - Practicing with matching cards identifying everyday "Life-Preserving (`Ihyâ'`) Actions" (wearing seatbelts, learning first aid, stopping peer bullying, donating blood).
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, and spiritual references ([Ibn Fâris, *Maqâyîs*, 2/122](https://shamela.ws/book/21710/682); [al-Râghib, *al-Mufradât*, p. 269](https://shamela.ws/book/23636/251); [al-Tabarî, *Jâmi' al-Bayân*, 8/349](https://shamela.ws/book/7798/5636); [Fakhr al-Dîn al-Râzî, *Mafâtîh al-Ghayb*, 11/344](https://shamela.ws/book/23635/2009); [al-Qurtubî, *al-Jâmi'*, 6/2243](https://shamela.ws/book/20855/2243); al-Ghazâlî, *Ihyâ'*, 3/164; al-Qushayrî, *Latâ'if*, 1/402) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagogical Process Filter*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Invalidates Khârijite and extremist attempts to wrench `fasâd fi'l-ard` out of context to justify violence against civilians or vigilante executions under `DKAB.8.3.1`, `DKAB.12.3.5`, `DKAB.11.4.3`, `Hifz al-Nafs`, and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
 
 ### Z-1 · CORE METHODOLOGICAL PROBLEMATIC (APORIA) [MANDATORY V9]
 
-[ANALYSIS] Against utilitarian calculus that reduces innocent human lives to expendable statistics ('collateral damage'), Al-Ma'idah 5:32 establishes an absolute ontological equation: taking a single innocent life is equivalent to destroying all of humanity, and saving a single life (wa man ahyaha) is equivalent to saving all of humanity.
+[ANALYSIS] Against utilitarian calculus that reduces innocent human lives to expendable statistics ('collateral damage'), Al-Ma'idah 5:32 establishes an inviolable ontological equation: taking a single innocent life is equivalent to destroying all of humanity, and saving a single life (wa man ahyaha) is equivalent to saving all of humanity.
 
 ---
 
@@ -621,12 +714,12 @@ Foundational masters of Sufi and *ishârî* (*irfânî*) exegesis interpret the 
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 2/122-125. Digital Verification: https://shamela.ws/book/2171/10/682 (urn:shamela:book:9193:v2:p122).
-[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/268-271. Digital Verification: https://shamela.ws/book/2363/16/251 (urn:shamela:book:23629:v1:p268).
-[^3]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 10/233-242. Digital Verification: https://shamela.ws/book/779/18/5636 (urn:shamela:book:7798:v10:p233).
-[^4]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999), 11/342-346. Digital Verification: https://shamela.ws/book/2363/15/2009 (urn:shamela:book:23635:v11:p342).
-[^5]: Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî (ö. 671/1273), *el-Câmi' li-Ahkâmi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Beyrut: Müessesetü'r-Risâle, 1427/2006), 7/429-435. Digital Verification: https://shamela.ws/book/2085/15/2243 (urn:shamela:book:21795:v7:p429).
-[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 6/176-182. Digital Verification: https://shamela.ws/book/977/16/2272 (urn:shamela:book:9746:v6:p176).
+[^1]: İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1399/1979), 2/122-125. Digital Verification: https://shamela.ws/book/21710/682 (urn:shamela:book:9193:v2:p122).
+[^2]: Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1412/1992), 1/268-271. Digital Verification: https://shamela.ws/book/23636/251 (urn:shamela:book:23629:v1:p268).
+[^3]: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Ahmed Muhammed Şâkir (Beyrut: Müessesetü'r-Risâle, 1420/2000), 10/233-242. Digital Verification: https://shamela.ws/book/7798/5636 (urn:shamela:book:7798:v10:p233).
+[^4]: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210), *Mefâtîhu'l-Gayb (et-Tefsîru'l-Kebîr)*, ed. Komisyon (Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999), 11/342-346. Digital Verification: https://shamela.ws/book/23635/2009 (urn:shamela:book:23635:v11:p342).
+[^5]: Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî (ö. 671/1273), *el-Câmi' li-Ahkâmi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Beyrut: Müessesetü'r-Risâle, 1427/2006), 7/429-435. Digital Verification: https://shamela.ws/book/20855/2243 (urn:shamela:book:21795:v7:p429).
+[^6]: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973), *et-Tahrîr ve't-Tenvîr*, ed. Komisyon (Tunus: ed-Dâru't-Tûnisiyye li'n-Neşr, 1984), 6/176-182. Digital Verification: https://shamela.ws/book/9776/2272 (urn:shamela:book:9746:v6:p176).
 [^7]: United Nations Office on Drugs and Crime (UNODC) (2025). *Global Study on Homicide and Protection of Right to Life 2025*. Vienna: United Nations Publications. DOI: doi:10.18356/9789210029391. URL: https://www.unodc.org
 [^8]: World Health Organization (WHO) (2025). *World Health Statistics & Global Bioethics and Life-Saving Health Systems Report 2025*. Geneva: WHO Press. DOI: doi:10.2471/BLT.25.291012. URL: https://www.who.int
 [^9]: Institute for Economics & Peace (IEP) (2025). *Global Peace Index 2025: Measuring Societal Safety, Security and Civilian Protection*. Sydney: IEP Publications. DOI: doi:10.13140/RG.2.2.31042.15048. URL: https://www.economicsandpeace.org

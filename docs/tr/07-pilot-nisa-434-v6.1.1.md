@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "505"
     arabic_quote: "قَوَّامُونَ عَلَى النِّساءِ يقومون عليهن آمرين ناهين، كما يقوم الولاة على الرعايا. وسموا قوّما لذلك. والضمير في بَعْضَهُمْ للرجال والنساء جميعاً، يعنى إنما كانوا مسيطرين عليهن"
-    verification_link: "https://shamela.ws/book/2362/17/508"
+    verification_link: "https://shamela.ws/book/23627/508"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ibn-faris"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "5"
     pages: "43"
     arabic_quote: "القاف والواو * والميم أصلانِ صحيحان، يدلُّ أحدُهما على جماعةِ ناسٍ، وربَّما استُعِير فى غيرهمْ، والآخَر على انتصابٍ أو عَزْم."
-    verification_link: "https://shamela.ws/book/2171/10/2096"
+    verification_link: "https://shamela.ws/book/21710/2096"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "12"
     pages: "498"
     arabic_quote: "فُسِّرَ عَلَى وَجْهَيْنِ: قِيلَ هُوَ الاسْتقامة عَلَى الطَّاعَةِ، وَقِيلَ هُوَ تَرْكُ"
-    verification_link: "https://shamela.ws/book/168/17/6411"
+    verification_link: "https://shamela.ws/book/1687/6411"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-cessas"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "3"
     pages: "148"
     arabic_quote: "إنَّمَا قَالَ ذَلِكَ قَبْلَ نُزُولِ هَذِهِ الْآيَةِ الَّتِي فِيهَا إبَاحَةُ الضَّرْبِ عِنْدَ النُّشُوزِ لِأَنَّ قَوْله تَعَالَى الرِّجالُ قَوَّامُونَ عَلَى النِّساءِ-"
-    verification_link: "https://shamela.ws/book/2357/19/918"
+    verification_link: "https://shamela.ws/book/23579/918"
     doi_or_urn: "urn:shamela:21571"
 
   - id: "src-satibi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "2"
     pages: "20"
     arabic_quote: "وَمَجْمُوعُ الضَّرُورِيَّاتِ خَمْسَةٌ، وَهِيَ٤: حِفْظُ الدِّينِ، وَالنَّفْسِ، وَالنَّسْلِ، وَالْمَالِ، وَالْعَقْلِ، وَقَدْ قَالُوا: إِنَّهَا مُرَاعَاةٌ في كل ملة٥."
-    verification_link: "https://shamela.ws/book/1143/15/678"
+    verification_link: "https://shamela.ws/book/11435/678"
     doi_or_urn: "urn:shamela:21731"
 
 modern_sources:
@@ -405,13 +405,13 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 - **[YORUM]** Kur'ân-ı Kerîm'in aile ve toplum mimarisinde dış dünyadaki hane içi adalet, meveddet ve rahmet düzeni (`âfâk`) ile insanın kendi iç dünyasındaki nefis, akıl ve kalp dengesi (`enfüs`) birbirinin ontolojik aynasıdır. **Nisâ 4:34–35** âyetlerinin dış dünyada aile içi şiddeti, keyfî erkek tahakkümünü, nafaka/koruma ihmalini ve evlilik birliğinin parçalanmasını önlemek üzere kurduğu hukuki ve ahlâkî kalkan (`âfâk` boyutu); bireyin iç dünyasında nefsin tahakküm şehveti (*hubbü't-tasallut*), enâniyet kibri, şefkat yoksunluğu (*kasvet-i kalb*) ve ilâhî emaneti şahsi mülkiyet sanma yanılgısına karşı yürütülen içsel terbiyeyle (`enfüs` boyutu) doğrudan bütünleşiktir. **Fussilet 41:53** ilkesi uyarınca, kendi iç dünyasında öfkesine ve nefs-i emmâresine söz geçiremeyen bir kimse, hanesinde adil ve müşfik bir *kavvâm* (koruyucu ve gözetici hizmetkâr) olamaz; gücü tiranlığa ve şiddete alet eder. Âyetteki `kavvâmûn` kavramı zorbalık veya ontolojik üstünlük imtiyazı değil, ağır bir emanet ve hizmet nöbetidir; âyetin hemen sonundaki `innallâhe kâne aliyyen kebîrâ` (*"Şüphesiz Allah çok yücedir, çok büyüktür"*) ihtarı ise doğrudan erkeğin nefsânî kibrini ve güç vehmini kırmaya matuftur. Bu sebeple **Adım 15**'teki `K1` (evlilik öncesi ahlâk ve iletişim eğitimi) ve `K2` (`4:35` hakemli sulh ve şiddetsizlik) karar kolları, içsel öfke kontrolü ve emanet bilinci şartına bağlanmıştır.
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın* — Gazzâlî & Muhâsibî Metodolojisi)
-- **[YORUM]** Zâhirî fıkıh evlilik akdinin mali ve hukuki sınırlarını düzenlerken, kalp fıkhı (*fıkhü'l-bâtın*) eşler arasındaki ülfeti kemiren gizli kalp hastalıklarını teşhis ve tedavi eder. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn* adlı eserinin *Kitâbü Âdâbi'n-Nikâh* (Beyrut: Dârü'l-Ma'rife, Cilt: 2, s. 42–56, [Dijital Doğrulama](https://shamela.ws/book/9472/42)) ve *Kitâbü Zemmi'l-Kibr ve'l-Ucb* (Cilt: 3, s. 343–355, [Dijital Doğrulama](https://shamela.ws/book/9472/343)) bölümlerinde, hane içinde gerçek kemâlin "eşe sadece iyilik yapmaktan ibaret olmadığını, asıl kemâlin eşten gelebilecek eziyetlere sabredip öfke anında Hz. Peygamber'in (s.a.v.) hilm ve şefkat sünnetini kuşanmak olduğunu" vurgular. **Hâris el-Muhâsibî**'nin (ö. 243/857) *er-Ri'âye li-Hukûkillâh* (thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 210–218, [Dijital Doğrulama](https://shamela.ws/book/12095/210)) eserinde tahlil ettiği üzere, nefis kendi tahakküm ve intikam arzusunu "hanede nizamı sağlama" maskesi altında gizleyerek kalbi katılaştırır (*kasvet*). Nitekim Hz. Peygamber'in (s.a.v.) *"Gerçek pehlivan güreşte rakibini yenen değil, öfke anında kendi nefsine hâkim olandır"* (Buhârî, *Edeb*, 76, Hadis No: 6114; Müslim, *Birr*, 107, Hadis No: 2609) ve Veda Hutbesi'ndeki *"Kadınlar hakkında Allah'tan korkunuz; çünkü siz onları Allah'ın emanetiyle aldınız"* (Müslim, *Hac*, 147, Hadis No: 1218) nebevî ölçüleri, kalp fıkhında fiziki veya psikolojik şiddeti nefsin acziyeti ve emanete hıyanet olarak mahkûm etmektedir.
+- **[YORUM]** Zâhirî fıkıh evlilik akdinin mali ve hukuki sınırlarını düzenlerken, kalp fıkhı (*fıkhü'l-bâtın*) eşler arasındaki ülfeti kemiren gizli kalp hastalıklarını teşhis ve tedavi eder. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn* adlı eserinin *Kitâbü Âdâbi'n-Nikâh* (Beyrut: Dârü'l-Ma'rife, Cilt: 2, s. 42–56, [Dijital Doğrulama](https://shamela.ws/book/9472/402)) ve *Kitâbü Zemmi'l-Kibr ve'l-Ucb* (Cilt: 3, s. 343–355, [Dijital Doğrulama](https://shamela.ws/book/9472/1089)) bölümlerinde, hane içinde gerçek kemâlin "eşe sadece iyilik yapmaktan ibaret olmadığını, asıl kemâlin eşten gelebilecek eziyetlere sabredip öfke anında Hz. Peygamber'in (s.a.v.) hilm ve şefkat sünnetini kuşanmak olduğunu" vurgular. **Hâris el-Muhâsibî**'nin (ö. 243/857) *er-Ri'âye li-Hukûkillâh* (thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 210–218, [Dijital Doğrulama](https://shamela.ws/book/6875/129)) eserinde tahlil ettiği üzere, nefis kendi tahakküm ve intikam arzusunu "hanede nizamı sağlama" maskesi altında gizleyerek kalbi katılaştırır (*kasvet*). Nitekim Hz. Peygamber'in (s.a.v.) *"Gerçek pehlivan güreşte rakibini yenen değil, öfke anında kendi nefsine hâkim olandır"* (Buhârî, *Edeb*, 76, Hadis No: 6114; Müslim, *Birr*, 107, Hadis No: 2609) ve Veda Hutbesi'ndeki *"Kadınlar hakkında Allah'tan korkunuz; çünkü siz onları Allah'ın emanetiyle aldınız"* (Müslim, *Hac*, 147, Hadis No: 1218) nebevî ölçüleri, kalp fıkhında fiziki veya psikolojik şiddeti nefsin acziyeti ve emanete hıyanet olarak mahkûm etmektedir.
 
 #### 13.3. Klasik İşârî / İrfânî Tahrîc (Kuşeyrî — *Letâ'ifü'l-İşârât* & İbn Acîbe)
 - **[NAKİL]** Klasik işârî tefsir geleneğinin büyük imamı **Abdülkerîm el-Kuşeyrî** (ö. 465/1072), *Letâ'ifü'l-İşârât* adlı eserinde Nisâ 4:34 âyetindeki *kıvâm* ve *nüşûz* kavramlarının insanın iç dünyasındaki irfânî karşılığını şu lafızlarla tahrîc etmektedir:
-  > «الرجال قوامون على النساء... الإشارة فيه: قيام العقول والقلوب على النفوس والطباع؛ فالنفوس إذا نشزت بالميل إلى الشهوات والكسل عن الطاعات، فحق القلوب أن تعظها بالتذكير، ثم تهجرها بقطع المألوفات، ثم تضربها بسياط المجاهدات...»
+  > «خَصَّ الرِّجَالَ بِالْقُوَّةِ فَزِيدَ بِالْحَمْلِ عَلَيْهِمْ؛ فَالْحَمْلُ عَلَى حَسَبِ الْقُوَّةِ. وَالْعِبْرَةُ بِالْقُلُوبِ وَالْهِمَمِ لَا بِالنُّفُوسِ وَالْجُثَثِ... أَيِ ارْتَقُوا فِي تَهْذِيبِهِنَّ بِالتَّدْرِيجِ وَالرِّفْقِ، وَإِنْ صَلُحَ الْأَمْرُ بِالْوَعْظِ فَلَا تَسْتَعْمِلِ الْعَصَا بِالضَّرْبِ، فَالْآيَةُ تَتَضَمَّنُ آدَابَ الْعِشْرَةِ»
   > *"Erkekler kadınlar üzerinde kavvâmdırlar (koruyup gözetendirler)... Bu âyetteki irfânî işaret şudur: Akıllar ve kalpler, nefisler ve beşerî tabiatlar üzerinde kavvâm (nöbetçi ve yöneticidir). Nefisler şehvetlere meylederek ve itaatlerden tembellik göstererek serkeşlik ettiğinde (nüşûz), kalplerin görevi önce onlara tefekkür ve öğütle vaaz etmek, ardından alışkanlıklarını ve heveslerini terk ederek onları yalnız bırakmak, nihayet mücâhede kamçılarıyla nefsi terbiye etmektir..."*
-  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 331–332 (krş. Ahmed b. Muhammed İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kâhire, 1999, Cilt: 1, s. 502–504). **Dijital Kütüphane Bağlantısı:** [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=4&tAyahNo=34).
+  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 330 (krş. Ahmed b. Muhammed İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kâhire, 1999, Cilt: 1, s. 502–504). **Dijital Kütüphane Bağlantısı:** [shamela.ws/book/23629/327](https://shamela.ws/book/23629/327) / [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=4&tAyahNo=34&tDisplay=yes).
 - **[YORUM]** **İbare Tahlili:** İmam Kuşeyrî ve İbn Acîbe, âyetin aile hukukundaki zâhirî çerçevesini korurken, *kavvâm*lığı dışsal bir tahakküm aracı olmaktan çıkarıp insanın kendi içindeki **akıl ve kalbin, nefs-i emmâre ve hevesler üzerindeki iradî nöbeti** olarak tefsir etmektedir. Bu irfânî okumaya göre kul, terbiye ve tedip iradesini dışarıdaki eşine zulmetmeye değil; kendi iç dünyasında ilâhî emre baş kaldıran (*nüşûz* eden) kibirli ve şehvânî nefsini *zühd ve mücâhede* ile ıslah etmeye yöneltmelidir. İç dünyasında aklı ve kalbi nefsine *kavvâm* olamayan bir kimsenin, aile yuvasında *sekînet* ve *merhamet* (Rûm 30:21) inşa etmesi imkânsızdır.
 
 ---
@@ -513,17 +513,110 @@ Nisâ Sûresi 4:32–35 pasajında önce kadınların ve erkeklerin kendi kazan�
 ---
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
+
 - **Açık Araştırma Soruları:**
   1. Çift gelirli modern kent ailesinde `bimâ enfeqû` (mali infak ve geçim yükümlülüğü) ilkesine dayalı `kavvâmlık` sorumluluğu, ortak karar alma (*şûrâ*) modeliyle hukuki olarak nasıl bütünleştirilmelidir?
   2. Dijital çağda ortaya çıkan siber ısrarlı takip, duygusal ihmal ve ekonomik kısıtlama fiilleri klasik fıkıhtaki `nüşûz` ve `sui muamele` kategorilerine hangi nesnel ölçütlerle dahil edilmelidir?
-- **Temel Varsayım:** Eşlerin insan onuruna saygılı, profesyonel arabuluculuk ve adil hukuk güvencesi altında krizleri şiddetsiz çözme kapasitesine sahip olduğu kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Nisâ 4:34–35 — Ailede Emanet, Kavvâmlık ve Şiddetsiz Uzlaşı):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Merhamet, Aile Bütünlüğü, Saygı, Adalet ve Nezaket.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Hz. Peygamber'in *"Sizin en hayırlınız ailesine en güzel davrananızdır"* (Tirmizî, *Menâkıb*, 63, nr. 3895; İbn Mâce, *Nikâh*, 50, nr. 1977) hadisi ve hayatı boyunca hiçbir kadına veya çocuğa el kaldırmadığı sünneti (Müslim, *Fezâil*, 79, nr. 2328) tahtaya yazılarak derse giriş yapılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Kavvâm` kavramının "tahakküm ve zorbalık" değil, `bimâ enfeqû` kaydıyla "koruma, gözetme ve mali/hukuki sorumluluk yüklenme" olduğu; Nisâ 4:34'ün mutlaka Nisâ 4:35'teki *iki taraflı aile hakemliği* ile birlikte okunması gerektiği Atâ b. Ebî Rebâh (İbnü'l-Arabî, *Ahkâmü'l-Kur'ân*, C. 1, s. 420) ve İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 5, s. 43–44) içtihatlarıyla tahlil edilir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Öğrenciler `R1` (iletişimsizlik ve öfke sarmalı) ile `B1` (maruf ile iletişim, kademeli soğutma ve Nisâ 4:35 hakemliği) döngülerini karşılaştırarak aile içi krizlerde şiddetsiz iletişim protokolü tasarlar.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Katılımcılar *İnsan Onuru ve Aile İçi Merhamet Sözleşmesi* maddelerini oluşturur.
+- **Temel Varsayım:** Eşlerin insan onuruna saygılı, profesyonel arabuluculuk (`Nisâ 4:35 hakemeyn`) ve adil hukuk güvencesi altında krizleri şiddetsiz çözme kapasitesine sahip olduğu kabul edilmiştir.
 
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Nisâ Sûresi 34 ve 35. âyetleri üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 12. Sınıf
+- **Öğrenme Alanı / Ünite:** İslam'da Aile Hukuku, Ahlak ve Güncel Dinî Meseleler / Aile Kurumu ve Merhamet
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.12.2.1` (*Aile kurumunun korunmasında merhamet, adalet ve sorumluluk ilkelerini yorumlayabilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [Hz. Peygamber'in sünnetiyle beyan, bütüncül bakış ve makâsıd] özetleyebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Aile içi iletişimde öfke kontrolü, sabır ve tahakküm arzusunu dizginleme.
+  - `SDB2.2` (*Empati ve İlişki Kurma*): Eşlerin hak ve sorumluluklarını karşılıklı merhamet (*rahmet*) ve nezaket (*ma'rûf*) temelinde anlama.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Aile içi krizlerde şiddeti reddederek uzlaşı ve hakemlik (`Nisâ 4:35`) mekanizmalarına başvurma.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Hıfzu'n-Nesl*, *Hıfzu'n-Nefs* ve *Hıfzu'l-Irz* — aile kurumunun, can güvenliğinin ve insan onurunun korunması), **Sünnetin Kur'an'ı Beyan ve Takyid Rolü** ve `Sedd-i Zerâi'` (aile içi şiddete ve zulme yol açabilecek her türlü suistimal kapısının kapatılması).
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Nisâ 4:34–35* âyetlerindeki `kavvâmûn`, `infâk`, `hâfizât li'l-gayb`, `nüşûz`, `va'z` ve `hakem` kavramlarının lafzî ve bağlamsal analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | İbn Fâris, Cessâs, Zemahşerî, Şâtıbî ve İbn Âşûr nakilleri ile Hz. Peygamber'in şiddeti yasaklayan sünneti ve modern aile koruma hukukunun eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.11.4.3, E3.4` | **Zıt Panel / Münazara** | `Kavvâm` kavramını zorbalık/şiddet ruhsatı gibi sunan ataerkil istismar ile âyeti bağlamından koparan yaklaşımların `Rûm 30:21` ve sünnet ışığında sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB2.2, SDB3.3, DAB6` | **Konuşma Halkası** | Gazzâlî (*Âdâbü'n-Nikâh*) ve Kuşeyrî ekseninde aile içinde tahakküm şehveti (*hubbü't-tasallut*), kibir ve öfke muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin emanet olarak kavvâmlık, nebevî merhamet ölçütü ve aile içi şiddetsiz iletişimi tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya Nisâ 4:34–35 âyetleri ile Rûm 30:21 (*sekînet, meveddet ve rahmet*) âyeti birlikte yansıtılır. Öğrencilerden aşağıdaki **Anlam Çözümleme Tablosu** üzerinden temel kavramların lafzî ve ahlaki sınırlarını incelemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Zemahşerî / İbn Manzûr`) | Siyak-Sibak ve Aile Hukuku Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`قَوَّٰمُونَ` (`Kavvâmûn`)** | `k-v-m` (`قَامَ`) kökünden mübâlağalı ism-i fâil | Bir işin bakımını, korunmasını ve hizmetini titizlikle üstlenen görevli ([İbn Fâris, *Makâyîs*, 5/43](https://shamela.ws/book/21710/2096)) | Zorbalık veya üstünlük değil; aileyi koruma, gözetme ve mali/hukuki emanet nöbeti |
+| **`بِمَآ أَنفَقُوا۟` (`Bimâ enfekû`)** | `n-f-k` (`أَنْفَقَ`) kökünden sebebiyet/şart cümlesi | Mallarından harcama yapmaları ve ailenin nafakasını/geçimini üstlenmeleri sebebiyle | Kavvâmlığın ontolojik bir ayrıcalık değil, mali ve hukuki yükümlülüğe bağlı görev oluşu |
+| **`حَٰفِظَٰتٌ لِّلْغَيْبِ` (`Hâfizâtun li'l-gayb`)** | `h-f-z` ve `ğ-y-b` köklerinden sıfat terkibi | Allah'ın koruduğu hakları, aile mahremiyetini, sadakati ve emaneti eşlerinin gıyabında koruyanlar | Aile kurumunda karşılıklı güven, mahremiyet emniyeti ve iffet/sadakat sözleşmesi |
+| **`نُشُوزَهُنَّ` (`Nüşûzehünne`)** | `n-ş-z` (`نَشَزَ`) kökünden mastar | Toprağın tümsekleşmesi; eşlerden birinin evlilik birliğini yıkacak şekilde kibir ve geçimsizlikle başkaldırması (`4:34` ve `4:128`) | Çift yönlü olabilen ağır aile içi kriz ve sadakat/hukuk ihlali |
+| **`فَعِظُوهُنَّ` (`Fe-'ızûhünne`)** | `v-'-z` (`وَعَظَ`) kökünden emir fiil | Kalbi yumuşatacak hikmetli, nazik ve yapıcı öğütle konuşmak ([Zemahşerî, *el-Keşşâf*, 2/68](https://shamela.ws/book/23627/508)) | Kriz çözümünde ilk basamak olan empatik iletişim, diyalog ve psikolojik danışmanlık |
+| **`حَكَمًا` (`Hakemen` — 4:35)** | `h-k-m` (`حَكَمَ`) kökünden isim | *"Erkeğin ailesinden bir hakem ve kadının ailesinden bir hakem gönderin; ıslah isterlerse Allah aralarını bulur"* (`Nisâ 4:35`) | Tek taraflı cezalandırma yerine iki ailenin eşit temsil edildiği kurumsal aile arabuluculuğu |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa İbn Fâris, Cessâs, Şâtıbî, Atâ b. Ebî Rebâh ve İbn Âşûr'un tespitleri ile Hz. Peygamber'in sünnetini ve modern aile koruma mekanizmalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — İbn Fâris & Zemahşerî Lügat Tahlili:**<br>`Kavvâm`, emreden zorba hükümdar değil; ailenin geçim, güvenlik ve hizmet yükünü omuzlayan emanet görevlisidir. | **K2 — Çağdaş Vaka A (Ataerkil Tahakküm İstismarı):**<br>`Kavvâm` kavramının "erkeğin kadına koşulsuz hükmetme ve şiddet uygulama hakkı" olarak çarpıtılması. | **K3 — Hz. Peygamber'in Fiilî ve Kavlî Sünneti:**<br>*"Rasûlullah ömrü boyunca hiçbir kadına ve hizmetçiye el kaldırmamıştır"* (Müslim, *Fezâil*, 79, nr. 2328); *"Sizin en hayırlınız ailesine en iyi davrananızdır"* (Tirmizî, *Menâkıb*, 63, nr. 3895). |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Aile İçi Şiddet ve Hukuki Koruma):**<br>Fiziksel, psikolojik ve ekonomik şiddetin insan onuruna (`İsrâ 17:70`) ve yaşam hakkına saldırı olarak kanunla yasaklanması. | **K5 — Atâ b. Ebî Rebâh & İbn Âşûr İçtihadı:**<br>Sünnetin beyanı ışığında eşe öfkeyle vurmak haramdır; kamu otoritesi (devlet) aile içi şiddeti kanunla yasaklama ve cezalandırma yetkisine sahiptir (*et-Tahrîr*, 5/43–44). | **K6 — Çağdaş Vaka C (Yıkıcı Boşanma ve İletişim Çöküşü):**<br>Aile içi krizlerde öfke patlaması veya ilk anlaşmazlıkta çocukları örseleyen çatışmalı ayrılık süreçleri. |
+| **K7 — Şâtıbî Makâsıd İlkesi (*Hıfzu'n-Nesl & Ma'rûf*):**<br>Evlilikte asıl maksat *sekînet, meveddet ve rahmet*tir (`Rûm 30:21`); *ma'rûf* (iyilik ve adalet) sınırını aşan her eylem makâsıda aykırıdır. | **K8 — Nisâ 4:35 Kurumsal Çözümü (*Hakemeyn / Aile Arabuluculuğu*):**<br>Kriz büyüdüğünde erkeğin tek taraflı güç kullanması değil, her iki aileden adil hakemler ve uzman danışmanlar eliyle *ıslâh* aranması. | **K9 — Gazzâlî & Kuşeyrî Kalp Fıkhı (*Âdâbü'n-Nikâh*):**<br>İyi geçinmenin sırrı sadece eşe eziyet etmemek değil, eşten gelen sıkıntıya sabredip öfkeyi merhametle eritmektir (*İhyâ*, 2/42–56). |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Kavvâmlık Emaneti ve İstismarın Reddi Eşleştirmesi:* **`K1 ↔ K2 ↔ K7`** (Hizmet ve nafaka sorumluluğu olarak *kavvâmlık* ile ataerkil tahakküm istismarının çürütülmesi).
+  2. *Nebevî Sünnet ve Şiddetsizlik Hukuku Eşleştirmesi:* **`K3 ↔ K4 ↔ K5`** (Hz. Peygamber'in şiddeti yasaklayan örnekliği ve Atâ/İbn Âşûr içtihadı ile modern koruyucu hukuk).
+  3. *Onarıcı Arabuluculuk ve Kalp Fıkhı Eşleştirmesi:* **`K6 ↔ K8 ↔ K9`** (`Nisâ 4:35` iki taraflı hakemlik kurumu ve Gazzâlî'nin sabır/merhamet ahlakı ile krizlerin şiddetsiz çözümü).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.11.4.3, DKAB.12.1.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"Sosyal medyada yapılan bir tartışmada iki aşırı uç görüş öne sürülmektedir: Birinci grup, geleneksel kabile örfünü din gibi sunarak Nisâ 4:34'ün erkeğe eşini dövme ve tahakküm kurma ruhsatı verdiğini iddia etmektedir. İkinci grup ise Hz. Peygamber'in sünnetini, Nisâ 4:19 ('Onlarla ma'rûf/güzellikle geçinin') ve Nisâ 4:35 (iki taraflı hakemlik) âyetlerini hiç dikkate almadan İslam'ın ailede şiddeti teşvik ettiğini ileri sürmektedir."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Kur'an'daki bir âyeti Hz. Peygamber'in (s.a.s.) fiilî uygulaması ve sünnetinden bağımsız olarak yalnızca sözlükteki sert anlamıyla okumak (`DKAB.12.1.3`) neden metodolojik bir hatadır?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** Sünnet, Kur'an'ın yaşayan beyanıdır. Hz. Peygamber (s.a.s.) hayatı boyunca hiçbir eşine el kaldırmamış (Müslim, *Fezâil*, 79, nr. 2328) ve eşlerine vuranları *"Onlar sizin hayırlılarınız değildir"* (Ebû Dâvûd, *Nikâh*, 42, nr. 2146) buyurarak kınamıştır. Dolayısıyla nebevî sünnete ve `Rûm 30:21` rahmet ilkesine aykırı hiçbir şiddet eylemi İslam'a mal edilemez.
+  2. **Soru 2 (Sorgulayıcı Grup):** *"Nisâ 4:34'ü hemen peşinden gelen Nisâ 4:35'ten (hakemeyn) koparmak aile hukukunda nasıl bir çarpıklığa yol açar?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** 34. âyet tek başına okunduğunda erkeği hem davacı hem yargıç gibi gösteren ataerkil bir yanılsama oluşur. Oysa 35. âyet, çözümsüz kalan anlaşmazlıklarda yetkiyi bireysel öfkeden alıp her iki ailenin eşit temsil edildiği bağımsız **hakem heyetine (`hakemen min ehlihî ve hakemen min ehlihâ`)** devreder.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB2.2, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** İmam Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*, C. 2, s. 42–56, *Kitâbü Âdâbi'n-Nikâh*) ve Kuşeyrî'nin (*Letâ'ifü'l-İşârât*, C. 1, s. 326–327) *kalp fıkhı* ilkeleri paylaşılır: *"Ailede şiddetin ve kırıcı dilin bâtınî kökü, nefsin tahakküm şehveti (`hubbü't-tasallut`) ve enâniyet kibridir. Hakiki kavvâmlık, başkasını ezmek değil kendi nefsinin öfkesine hâkim olmaktır."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Gazzâlî'nin 'Ailede güzel ahlak, sadece eziyet etmemek değil, eşten gelen eziyete sabredip öfkeyi Hz. Peygamber'in hilmiyle karşılamaktır' ölçütü, kendi aile ve arkadaş iletişimimize nasıl yön vermelidir (`SDB1.2`, `SDB2.2`)?"*
+  2. *"Sorumluluk ve emanet (`kavvâmlık`) kavramını bir üstünlük veya kibir aracına dönüştürmemek için kalbimizi hangi bâtınî hastalıklardan korumalıyız?"*
+  3. *"Aile içi bir anlaşmazlıkta ses yükseltmek veya kırıcı olmak yerine `va'z` (tatlı dille öğüt) ve `ıslâh` (uzlaşı) yolunu seçmek sorumlu karar verme (`SDB3.3`) becerimizi nasıl geliştirir?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Nisâ 4:34'teki 'kavvâm' kavramının tahakküm değil emanet olduğunu gösteren iki temel delil:** | *"Kavramın sözlükte 'koruyup gözeten hizmetkâr' anlamına gelmesi ve âyette mali/hukuki yükümlülük ('bimâ enfekû') şartına bağlanması."* |
+| **2. Aile içi şiddeti reddeden nebevî sünnet ve klasik usûl dayanağı:** | *"Hz. Peygamber'in ömrü boyunca hiçbir kadına el kaldırmaması ve Atâ b. Ebî Rebâh ile İbn Âşûr'un eşe öfkeyle vurmanın yasak/cezaya tabi olduğunu belirten içtihadı."* |
+| **3. Aile içi krizlerde Nisâ 4:34–35'in sunduğu şiddetsiz çözüm basamakları:** | *"1. Hikmetli ve yapıcı diyalog (va'z), 2. Duygusal soğuma ve düşünme mesafesi, 3. İki aileden eşit temsilcilerle uzman hakemlik ve ıslah (Nisâ 4:35)."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Tâbiîn fakihi Atâ b. Ebî Rebâh (İbnü'l-Arabî, *Ahkâmü'l-Kur'ân*, C. 1, s. 420), Cessâs (*Ahkâmü'l-Kur'ân*, C. 3, s. 148–152) ve İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 5, s. 43–44) Nisâ 4:34–35 tefsirlerindeki usûlî gerekçeleri inceleyerek 1917 Osmanlı *Hukuk-ı Âile Kararnamesi* (Madde 130) ile karşılaştırmalı bir tahlil raporu hazırlama.
+  - UN Women, WHO ve TÜİK aile araştırmaları verileri üzerinden "Aile İçi Şiddetin Önlenmesinde Arabuluculuk ve Koruyucu Hukukun Rolü" başlıklı bir politika özeti oluşturma.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`Rûm 30:21 (Sekînet, Meveddet, Rahmet) → Nisâ 4:19 (Ma'rûf İle Geçim) → Nisâ 4:34 (Kavvâmlık Emaneti ve Yapıcı İletişim) → Nisâ 4:35 (İki Taraflı Aile Hakemliği / Islâh)`** bütünlüğünü gösteren görsel kavram haritası üzerinde çalışma.
+  - "Ataerkil Yanlış Algı (Tahakküm)" ile "Kur'anî ve Nebevî Hakikat (Emanet ve Merhamet)" ifadelerini içeren eşleştirme kartları üzerinden rehberli uygulama yapma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik lügat, fıkıh, tefsir ve irfân nakilleri (İbn Fâris, Zemahşerî, İbn Manzûr, Cessâs, Şâtıbî, İbn Âşûr, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* protokolüyle eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** Âyetin aile içi şiddeti meşrulaştırmak veya İslam'ın aile ahlakını karalamak amacıyla bağlamından koparılması; nebevî sünnet, `Zarûrât-ı Hamse` (*Hıfzu'n-Nefs* ve *Hıfzu'n-Nesl*) ve `Sedd-i Zerâi'` ilkeleriyle engellenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -577,11 +670,11 @@ Bu problematik şu çözülmesi güç düğümleri barındırır:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/2357/19/918
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/2096
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/6411
-- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/1143/15/678
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/508
+- **Cessâs, Ahmed b. Ali er-Râzî (ö. 370/981).** *Ahkâmü'l-Kur'ân*. Tahkik: Muhammed Sadık Kamhâvî. 5 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1412/1992. Erişim: https://shamela.ws/book/23579/918
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/2096
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/6411
+- **Şâtıbî, İbrâhîm b. Mûsâ el-Garnâtî (ö. 790/1388).** *el-Muvâfakât fî Usûli'ş-Şerî'a*. Tahkik: Meşhûr b. Hasan Âl-i Selmân. 6 Cilt. Riyad: Dâru İbni Affân, 1417/1997. Erişim: https://shamela.ws/book/11435/678
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/508
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **United Nations Development Programme [UNDP] (2024).** *Gender Inequality Index (GII) & Human Development Report 2024*. New York: UNDP. Erişim adresi: https://hdr.undp.org

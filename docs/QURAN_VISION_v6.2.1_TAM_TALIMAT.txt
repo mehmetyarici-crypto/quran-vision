@@ -1,3 +1,12 @@
+## 🛡️ GELECEK TÜM ÂYET MONOGRAFİLERİ (QV-2026-016 VE SONRASI) İÇİN 5 SARSILMAZ ANAYASAL STANDART (BAĞLAYICI MADDELER)
+
+1. Standart 1 — Lafzî İktibas İlkesi (nakl bi'l-lafz): classical_sources altındaki arabic_quote alanına özet/telhîs Arapça metin yazılamaz; el-Mektebetü'ş-Şâmile'deki orijinal metinden harfi harfine alınmalıdır.
+2. Standart 2 — Nokta Atışı Sayfa ID Bağlantısı (page_id): Genel kitap kapağı linkleri yasaktır; Şâmile adresleri mutlaka https://shamela.ws/book/<book_id>/<page_id> formatında olmalıdır (Kapı A: L-0107 BLOCK).
+3. Standart 3 — Gövde Metni Tahrîc ve Parantez Standardı: Gövde metnindeki her hadis Kütüb-i Sitte tahrîciyle, her âyet standart (Sûre Adı No/Âyet No) paranteziyle, her sahâbe/ulemâ kavli İSNAD 2 cilt/sayfa ve dijital bağlantısıyla belgelenmelidir.
+4. Standart 4 — Adım 13 Üçlü İrfânî Bütünlük: ### ADIM 13 (EN: ### STEP 13) bölümü 13.1 (Enfüsî-Âfâkî Diyalektik), 13.2 (Kalp Fıkhı ve Bâtınî İlletler — Muhâsibî/Gazzâlî) ve 13.3 (Klasik İşârî Tahrîc — Kuşeyrî/Tüsterî/İbn Acîbe lafzî Arapça metni ve İSNAD 2 künyesi) alt başlıklarıyla birleşik olarak yapılandırılmalıdır (Kapı B: L-2301..L-2303 BLOCK).
+5. Standart 5 — Adım 20 Dörtlü TYMM Kurumsal Ders Tasarımı: ### ADIM 20 (EN: ### STEP 20) bölümü 20.1 (Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi), 20.2 (Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları: Anlam Çözümleme Tablosu, 9 Kutucuklu Yapılandırılmış Grid, Zıt Panel, Konuşma Halkası, Çıkış Kartı), 20.3 (Farklılaştırma Protokolü: Zenginleştirme ve Destekleme) ve 20.4 (Metodolojik Denetim ve 3'lü Doğrulama Filtresi) alt başlıklarıyla en az 500–700 kelime derinliğinde yapılandırılmalıdır (Kapı C / V15: L-2401..L-2403 BLOCK).
+---
+
 ================================================================================
 QURAN VISION ENSTİTÜSÜ • KUR'AN TEMELLİ GELECEK VİZYONU (QURAN VISION) — v6.2.2
 METODOLOJİ, 26 ADIMLI ANALİZ MİMARİSİ, İSNAD 2 / DOI DOĞRULAMA STANDARDI,

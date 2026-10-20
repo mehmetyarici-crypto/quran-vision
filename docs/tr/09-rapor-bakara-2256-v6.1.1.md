@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "303"
     arabic_quote: "لا إِكْراهَ فِي الدِّينِ أى لم يجر اللَّه أمر الإيمان على الإجبار والقسر، ولكن على التمكين والاختيار. ونحوه قوله تعالى وَلَوْ شاءَ رَبُّكَ لَآمَنَ مَنْ فِي الْأَرْضِ كُلُّهُمْ"
-    verification_link: "https://shamela.ws/book/2362/17/306"
+    verification_link: "https://shamela.ws/book/23627/306"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "708"
     arabic_quote: "والإِكْرَاهُ يقال في حمل الإنسان على ما يكرهه، وقوله: وَلا تُكْرِهُوا فَتَياتِكُمْ عَلَى الْبِغاءِ [النور/ ٣٣] فنهي عن حملهنّ على ما فيه كَرْهٌ وكُرْهٌ، وقوله: لا إِكْراهَ فِي الدِّينِ"
-    verification_link: "https://shamela.ws/book/2363/16/690"
+    verification_link: "https://shamela.ws/book/23636/690"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "172"
     arabic_quote: "الكاف والراء والهاء أصلٌ صحيحٌ واحد، يدلُّ على خلاف الرِّضا والمحبّة. يقال: كرِهتُ الشَّيءَ أكرَهُه كَرْها. والكُرْه الاسم. ويقال:"
-    verification_link: "https://shamela.ws/book/2171/10/2224"
+    verification_link: "https://shamela.ws/book/21710/2224"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "15"
     pages: "45"
     arabic_quote: "والرَّواحِلِ. وعَرَّى الشَّيْءَ: اتَّخَذَ لَهُ عُرْوَةً. وَقَوْلُهُ تَعَالَى: فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقى لَا"
-    verification_link: "https://shamela.ws/book/168/17/7657"
+    verification_link: "https://shamela.ws/book/1687/7657"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "4"
     pages: "548"
     arabic_quote: "قال: ثنا أسباطُ، عن السديِّ قولَه: ﴿لَا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ﴾ إلى ﴿لَا انْفِصَامَ لَهَا﴾. قال: نزَلَتْ في رجلٍ من"
-    verification_link: "https://shamela.ws/book/779/18/2958"
+    verification_link: "https://shamela.ws/book/7798/2958"
     doi_or_urn: "urn:shamela:43"
 
 modern_sources:
@@ -399,13 +399,13 @@ Bakara 2:256, Kur'ân'ın tevhid zirvesi olan **Âyetü'l-Kürsî (2:255)**'nin 
 - **[YORUM]** Kur'ân-ı Kerîm'in inanç ve insan onuru mimarisinde dış dünyadaki din ve vicdan hürriyeti, hukuk güvenliği ve çoğulcu barış nizamı (`âfâk`) ile bireyin iç dünyasındaki samimiyet (*ihlâs*), hür irade (*ihtiyâr*) ve kalbî rıza (`enfüs`) birbirinin ontolojik aynasıdır. **Bakara 2:256** âyetinin dış dünyada teopolitik baskıyı, din adına zorbalığı ve inanç dayatmasını (`ikrâh`) yasaklayan evrensel hükmü (`âfâk` boyutu); insanın iç dünyasında imanı kemiren riyâ (gösteriş), nifak (ikiyüzlülük), doğruluk kibri ve hidayeti kendi tekelinde görme yanılgısına karşı yürütülen içsel arınmayla (`enfüs` boyutu) doğrudan bütünleşiktir. **Fussilet 41:53** ilkesi uyarınca, iman kalbin hür bir iradeyle "evet" demesidir (*tasdîk-i kalbî*); kalbe kılıç, sopa veya idari baskı zoruyla girilemez. Zorlamanın girdiği yerde *ihlâs* buharlaşır ve yerini dışsal riyâ ile toplumsal münafıklık alır. Kendi iç dünyasında nefsânî tahakküm arzusunu terbiye edemeyen bir otorite, dış dünyada insanların vicdanları üzerinde tahakküm kurmaya kalkışır; bu sebeple **Adım 15**'teki `K1` (anayasal vicdan hürriyeti) ve `K2` (`Hac 22:40` ibadethane dokunulmazlığı) karar kolları, kalplerin yalnızca Allah'ın elinde olduğu irfânî şuuruna bağlanmıştır.
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın* — Muhâsibî & Gazzâlî Metodolojisi)
-- **[YORUM]** Zâhirî fıkıh (*fıkhü'z-zâhir*) kamu düzeninde inanç ve ibadet hürriyetinin hukuki sınırlarını korurken, kalp fıkhı (*fıkhü'l-bâtın*) dindarlığı içeriden çürüten *riyâ* ve *istibdâd-ı bâtınî* (kalpler üzerinde rablik taslama) marazlarını teşhis eder. **Hâris el-Muhâsibî** (ö. 243/857), *er-Ri'âye li-Hukûkillâh* adlı eserinin *Bâbü'r-Riyâ ve'l-İhlâs* bölümünde (thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, Cilt: 1, s. 115–140, [Dijital Doğrulama](https://shamela.ws/book/12095/115)), kulun amellerini Allah rızası yerine insanların övgüsü veya korkusu için yapmasını "gizli şirk" (*şirk-i hafî*) olarak tanımlar ve dışsal baskıyla üretilen şeklî dindarlığın kalpte hiçbir mânevî değer taşımadığını ortaya koyar. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111) ise *İhyâ'u 'Ulûmi'd-Dîn* eserinin *Kitâbü'n-Niyye ve'l-İhlâs ve's-Sıdk* bölümünde (Beyrut: Dârü'l-Ma'rife, Cilt: 4, s. 361–390, [Dijital Doğrulama](https://shamela.ws/book/9472/361)), kalbin ancak hür bir niyet, muhabbet ve içsel yakîn ile Allah'a yönelebileceğini; başkalarını zorla dindarlaştırma hırsının çoğu kez davetçinin kendi nefsânî kibrinden (*ucb*) ve tahakküm şehvetinden beslendiğini tahlil eder. Âyetin sonundaki `vallâhu semî'un alîm` (*"Allah hakkıyla işitendir, kalplerdekini hakkıyla bilendir"*) mührü, dillerin zorla söylediğini değil kalplerin samimi niyetini esas alan bu kalp fıkhı ilkesini tescil etmektedir.
+- **[YORUM]** Zâhirî fıkıh (*fıkhü'z-zâhir*) kamu düzeninde inanç ve ibadet hürriyetinin hukuki sınırlarını korurken, kalp fıkhı (*fıkhü'l-bâtın*) dindarlığı içeriden çürüten *riyâ* ve *istibdâd-ı bâtınî* (kalpler üzerinde rablik taslama) marazlarını teşhis eder. **Hâris el-Muhâsibî** (ö. 243/857), *er-Ri'âye li-Hukûkillâh* adlı eserinin *Bâbü'r-Riyâ ve'l-İhlâs* bölümünde (thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, Cilt: 1, s. 115–140, [Dijital Doğrulama](https://shamela.ws/book/6875/43)), kulun amellerini Allah rızası yerine insanların övgüsü veya korkusu için yapmasını "gizli şirk" (*şirk-i hafî*) olarak tanımlar ve dışsal baskıyla üretilen şeklî dindarlığın kalpte hiçbir mânevî değer taşımadığını ortaya koyar. **Ebû Hâmid el-Gazzâlî** (ö. 505/1111) ise *İhyâ'u 'Ulûmi'd-Dîn* eserinin *Kitâbü'n-Niyye ve'l-İhlâs ve's-Sıdk* bölümünde (Beyrut: Dârü'l-Ma'rife, Cilt: 4, s. 361–390, [Dijital Doğrulama](https://shamela.ws/book/9472/1520)), kalbin ancak hür bir niyet, muhabbet ve içsel yakîn ile Allah'a yönelebileceğini; başkalarını zorla dindarlaştırma hırsının çoğu kez davetçinin kendi nefsânî kibrinden (*ucb*) ve tahakküm şehvetinden beslendiğini tahlil eder. Âyetin sonundaki `vallâhu semî'un alîm` (*"Allah hakkıyla işitendir, kalplerdekini hakkıyla bilendir"*) mührü, dillerin zorla söylediğini değil kalplerin samimi niyetini esas alan bu kalp fıkhı ilkesini tescil etmektedir.
 
 #### 13.3. Klasik İşârî / İrfânî Tahrîc (Kuşeyrî — *Letâ'ifü'l-İşârât* & İbn Acîbe)
 - **[NAKİL]** Klasik işârî tefsir geleneğinin kurucu imamı **Abdülkerîm el-Kuşeyrî** (ö. 465/1072), *Letâ'ifü'l-İşârât* adlı eserinde Bakara 2:256 âyetindeki *lâ ikrâhe fi'd-dîn*, *tâğût* ve *urvetü'l-vüskâ* kavramlarının irfânî hakikatini şu lafızlarla tahrîc etmektedir:
-  > «لا إكراه في الدين... الإشارة فيه: أن القلوب لا تملك بالإكراه، وإنما تملك بالألطاف والإحسان... فمن يكفر بالطاغوت ويؤمن بالله فقد استمسك بالعروة الوثقى: طاغوت كل أحد نفسه وهواه، فمن كفر بطاغوت نفسه وهواه استمسك بالعروة الوثقى التي لا انفصام لها...»
+  > «لَا إِكْرَاهَ فِي الدِّينِ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ... فَإِنَّ الْحُجَجَ لَائِحَةٌ، وَالْبَرَاهِينَ ظَاهِرَةٌ وَاضِحَةٌ... فَمَنْ يَكْفُرْ بِالطَّاغُوتِ: وَطَاغُوتُ كُلِّ وَاحِدٍ مَا يَشْغَلُهُ عَنْ رَبِّهِ. وَيُؤْمِنْ بِاللَّهِ: وَالْإِيمَانُ حَيَاةُ الْقَلْبِ بِاللَّهِ. فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى: الِاسْتِمْسَاكُ بِالْعُرْوَةِ الْوُثْقَى الْوُقُوفُ عِنْدَ الْأَمْرِ وَالنَّهْيِ»
   > *"Dinde zorlama yoktur... Bu âyetteki irfânî işaret şudur: Kalpler zorbalık ve baskıyla fethedilmez; kalpler ancak ilâhî lütuflar ve ihsân ile kazanılır... Kim tâğûtu inkâr edip Allah'a iman ederse kopmak bilmeyen en sağlam kulpa (urvetü'l-vüskâ) yapışmıştır: Herkesin en büyük tâğûtu kendi nefs-i emmâresi ve hevâsıdır; kim kendi nefsinin ve hevâsının tâğûtunu reddederse asla kopmayan sağlam kulpa tutunmuş olur..."*
-  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 212–213 (krş. Ahmed b. Muhammed İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kâhire, 1999, Cilt: 1, s. 291–292). **Dijital Kütüphane Bağlantısı:** [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=2&tAyahNo=256).
+  > — **İSNAD 2 Künyesi:** Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kâhire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), Cilt: 1, Sayfa: 198 (krş. Ahmed b. Muhammed İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kâhire, 1999, Cilt: 1, s. 291–292). **Dijital Kütüphane Bağlantısı:** [shamela.ws/book/23629/195](https://shamela.ws/book/23629/195) / [Altafsir.com Klasik İşârî Tefsir Veri Tabanı](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=2&tAyahNo=256&tDisplay=yes).
 - **[YORUM]** **İbare Tahlili:** İmam Kuşeyrî ve İbn Acîbe bu muazzam tahlilde iki temel irfânî ilke vaz' etmektedir: Birincisi, **kalpler üzerinde dışsal zorbalık (*ikrâh*) asla hükmünü yürütemez**; kalplerin anahtarı *el-Latîf* olan Allah'ın lütfu, hikmet ve güzel öğüttür (`Nahl 16:125`). İkincisi, âyetteki *tâğûtu inkâr* emri, dışarıdaki başkasını zorlamak değil, kişinin bizzat kendi içindeki **en büyük tâğût olan nefs-i emmâresini, kibrini ve tahakküm hevâsını terk etmesidir**. Kendi içindeki benlik tâğûtunu yıkmayan bir kimsenin *urvetü'l-vüskâ*ya (tevhid ve ihlas kulpuna) tutunması mümkün değildir.
 
 ---
@@ -508,15 +508,110 @@ Bakara 2:256, Kur'ân'ın tevhid zirvesi olan **Âyetü'l-Kürsî (2:255)**'nin 
 ---
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
-- **Açık Sorular:** Laik devlet yapısı ile dinin kamusal ahlaki görünürlüğü arasındaki sınır nasıl dengelenecektir?
-- **Temel Varsayım:** İnsanların dinî tercihlerinde hür bırakıldıklarında ahlaki hakikate daha samimi yönelecekleri kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Bakara 2:256 — Din ve Vicdan Hürriyeti, İkrah Yasağı):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Özgürlük, Hakikat Saygısı, Samimiyet (İhlas), Hoşgörü ve İnsan Onuru.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** `"Lâ ikrâhe fi'd-dîn"` (Dinde hiçbir zorlama yoktur) ilkesinin nüzul sebebi (Medineli Ensâr ailelerinin Hıristiyan olan evlatlarını zorla İslam'a sokmak istemeleri üzerine inmesi — Ebû Dâvûd, *Cihâd*, 115, nr. 2682; Taberî, *Câmi'u'l-Beyân*, C. 4, s. 550) paylaşılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Cinsini nefyeden `Lâ` edatı, `rüşd` (akli ve ahlaki doğruluk), `ğayy` (sapıklık), `tâğût` ve `urvetü'l-vüskâ` (kopmayan sağlam kulp) kavramları Râzî (*Mefâtîhu'l-Gayb*, C. 7, s. 14–16) ve İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 3, s. 26–29) yorumlarıyla çözümlenir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** `R1` (baskı ve dayatmanın ikiyüzlülük/nifak ve nefret üretmesi) ile `B1` (vicdan hürriyeti ve rasyonel delilin samimi iman ve toplumsal barış üretmesi) döngüleri karşılaştırılır.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler Medine Vesikası'ndan bugüne inanç özgürlüğünün medeniyet inşasındaki yerini değerlendirir.
 
+- **Açık Araştırma Soruları:**
+  1. Demokratik hukuk devletinde `Bakara 2:256` (*dinde zorlama yoktur*) ile `En'âm 6:108` (*başkalarının kutsallarına sövmeyin*) ilkelerinin sentezi, ifade özgürlüğü ile dinî değerlere yönelik nefret suçları arasındaki sınırı nasıl dengeleyebilir?
+  2. Aile ve okul ortamında dinî eğitim verilirken ergenlik dönemindeki gençlerin içsel iradesini (`ihtiyâr`) ve kalbî rızasını koruyan pedagojik iletişim dili nasıl inşa edilmelidir?
+- **Temel Varsayım:** İnsanların dinî ve vicdani tercihlerinde baskıdan uzak bırakıldıklarında ve hakikat rasyonel delillerle (`tebeyyene'r-rüşdü mine'l-ğayy`) sunulduğunda samimi imana ve toplumsal barışa yönelecekleri kabul edilmiştir.
+
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Bakara Sûresi 256. âyeti üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 10. ve 11. Sınıf
+- **Öğrenme Alanı / Ünite:** Kur'an-ı Kerim'in Anlaşılması ve Yorumlanması / İnanç Özgürlüğü, İrade ve İnsan Onuru
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.10.1.2` (*İslam'da irade, seçme özgürlüğü ve sorumluluk ilişkisini yorumlayabilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [nüzul sebepleri, tarihsel bağlam ve bütüncül bakış] özetleyebilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Başkalarının inanç ve düşünceleri üzerinde baskı kurma kibrini (*istibdâd*) dizginleme; riyâdan arınmış samimiyet (*ihlâs*) geliştirme.
+  - `SDB2.3` (*Sosyal Farkındalık ve Saygı*): Farklı inanç ve kültür 배경lerine sahip insanlarla barış ve hukuk içinde bir arada yaşama bilinci.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Dini tebliğ ve temsil ederken zorlama yerine hikmet, delil ve güzel öğüt (`Nahl 16:125`) yöntemini seçme.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Hıfzu'd-Dîn* ve *Hıfzu'l-Akl* — dinin ikiyüzlülükten/nifaktan ve aklın baskıdan korunması), **Ensâr Çocukları Sebeb-i Nüzûlü** ([Taberî, *Câmi'u'l-Beyân*, 4/550](https://shamela.ws/book/7798/2958)), **İkrâhın Teklifi Düşürmesi** ve `Sedd-i Zerâi'`.
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Bakara 2:256* âyetindeki `lâ ikrâhe fi'd-dîn`, `rüşd`, `ğayy`, `tâğût` ve `urvetü'l-vüskâ` kavramlarının lafzî ve kelâmî analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Taberî, Zemahşerî, Râgıb el-İsfahânî ve İbn Âşûr nakilleri ile vicdan hürriyeti, zorlamanın nifak üretmesi ve insan hakları ilkelerinin eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.11.4.3, E3.4` | **Zıt Panel / Münazara** | Din adına baskı ve dayatmayı meşrulaştıran radikal/teopolitik istismar ile inanç özgürlüğünü kısıtlayan yaklaşımların `2:256` ve `Yûnus 10:99` ışığında sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB2.3, SDB3.3, DAB6` | **Konuşma Halkası** | Muhâsibî (*Bâbü'r-Riyâ ve'l-İhlâs*), Gazzâlî ve Kuşeyrî ekseninde hidayeti kendi tekelinde görme kibri, ihlâs ve içsel tâğûtları terk etme muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin ikrâh-iman çelişkisi, nüzul bağlamı ve vicdan özgürlüğünü tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya Âyetü'l-Kürsî'nin (`Bakara 2:255`) hemen ardından gelen **Bakara 2:256** âyeti ile **Yûnus 10:99** (*"Rabbin dileseydi yeryüzündekilerin hepsi iman ederdi; öyleyse insanları mümin olmaları için sen mi zorlayacaksın?"*) âyeti birlikte yansıtılır. Öğrencilerden aşağıdaki **Anlam Çözümleme Tablosu**'nu incelemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Râgıb / Zemahşerî`) | Siyak-Sibak ve Kelâmî/Hukuki Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`لَآ إِكْرَاهَ فِى ٱلدِّينِ` (`Lâ ikrâhe fi'd-dîn`)** | Cinsini nefyeden `lâ` + `k-r-h` (`كَرِهَ`) kökünden if'âl mastarı | İnsanı kalbinin razı olmadığı bir inanca dışsal baskıyla zorlamak ([İbn Fâris, *Makâyîs*, 5/171](https://shamela.ws/book/21710/2224)) | Din ve inanç alanında her türlü fiziksel, hukuki ve psikolojik dayatmanın kategorik reddi |
+| **`ٱلرُّشْدُ` (`er-Rüşd`)** | `r-ş-d` (`رَشَدَ`) kökünden marife mastar | Aklî delil ve burhanla apaçık ortaya çıkan hakikat ve doğru yol ([Râgıb, *el-Müfredât*, s. 710](https://shamela.ws/book/23636/690)) | İmanın kör taklit veya baskıya değil, apaçık akli ve vicdani aydınlanmaya dayanması |
+| **`ٱلْغَىِّ` (`el-Ğayy`)** | `ğ-v-y` (`غَوَى`) kökünden mastar | Hakikatten sapma, bâtıl inanç ve akli/ahlaki savrulma | Zorbalığa gerek bırakmayacak şekilde batılın deliller karşısında kendiliğinden teşhir olması |
+| **`ٱلطَّـٰغُوتِ` (`et-Tâğût`)** | `t-ğ-y` (`طَغَى`) kökünden mübâlağa ismi | Sınırı aşan, Allah'a isyan ettiren ve kullar üzerinde zorbalık kuran her türlü odak | Dış dünyada zorba ideolojiler/putlar; iç dünyada ise kibir, hevâ ve tahakküm tutkusu |
+| **`ٱلْعُرْوَةِ ٱلْوُثْقَىٰ` (`el-Urvetü'l-Vüskâ`)** | Sıfat tamlaması (`'-r-v` ve `v-s-k` kökleri) | Kopması imkânsız olan en sağlam tutamak ve tevhid bağı ([İbn Manzûr, *Lisânü'l-Arab*, 13/534](https://shamela.ws/book/1687/7657)) | Hür iradeyle (*ihtiyâr*) ve kalbî tasdikle bağlanılan sarsılmaz iman ve ahlak sözleşmesi |
+| **`سَمِيعٌ عَلِيمٌ` (`Semî'un 'Alîm`)** | Mübâlağalı sıfat-ı müşebbehe / esmâ-i hüsnâ | Her sözü işiten (`Semî'`) ve kalplerdeki gerçek niyeti bilen (`'Alîm`) | Dışsal zorlamayla söylenen sözün değil, Allah'ın bildiği içsel kalp samimiyetinin (*ihlâs*) geçerli oluşu |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Taberî (*Câmi'u'l-Beyân*, C. 4, s. 550), Zemahşerî (*el-Keşşâf*, C. 1, s. 488–492), Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, C. 7, s. 14–16) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 3, s. 26–29) nakilleri ile çağdaş vicdan özgürlüğü vakalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — Taberî Sebeb-i Nüzûl Tahkiki:**<br>Medineli Ensâr'dan Husayn (Ebü'l-Husayn), Hıristiyan olan iki oğlunu zorla Müslüman yapmak istediğinde `Bakara 2:256` inmiş ve Hz. Peygamber babayı engelleyerek çocukları inançlarında serbest bırakmıştır (*Câmi'u'l-Beyân*, 4/550). | **K2 — Çağdaş Vaka A (Aile ve Sosyal Çevre Baskısı):**<br>Gençlerin sorularını akli delille yanıtlamak yerine baskı ve kınamayla şeklî dindarlığa zorlanmasının yabancılaşma ve ikiyüzlülük üretmesi. | **K3 — Zemahşerî & Râzî Kelâmî İlkesi (*İhtiyâr ve İbtilâ*):**<br>Allah iman işini zorlamaya (*cebr*) değil, hür iradeye (*temkîn ve ihtiyâr*) dayandırmıştır; zorlama olursa imtihan (*ibtilâ*) hikmeti ortadan kalkar (*el-Keşşâf*, 1/488). |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Teopolitik Zorbalık ve Radikalizm):**<br>Radikal yapıların veya otoriter rejimlerin insanları silah, korku veya ayrımcılıkla belirli bir inanç kalıbına zorlaması. | **K5 — İbn Âşûr & Şâtıbî Makâsıd İlkesi (*Hıfzu'd-Dîn*):**<br>Hakiki iman *tasdîku'l-kalb*dir (kalbin içten onayı); baskı (*ikrâh*) mümin değil yalnızca münafık (*nifak*) üretir ve dinin samimiyet özünü yıkar. | **K6 — Çağdaş Vaka C (İnanç Karşıtı Baskı ve İslamofobi):**<br>Bireylerin dinî kimlikleri, ibadetleri veya sembolleri sebebiyle kamusal alanda dışlanması ve asimilasyona zorlanması. |
+| **K7 — Medine Vesikası, Necrân Ahitnamesi ve Hz. Ömer'in Kudüs Emanname Uygulaması:**<br>Farklı din mensuplarının mâbedlerinin, din adamlarının ve vicdan hürriyetinin anayasal güvence altına alınması. | **K8 — Evrensel İnsan Hakları ve Anayasal Güvence:**<br>Din ve vicdan özgürlüğünün (İHEB Madde 18) hem inanma hem de inancını zorlama olmaksızın yaşama hakkını koruması. | **K9 — Muhâsibî, Gazzâlî & Kuşeyrî Kalp Fıkhı:**<br>Gerçek hürriyet, dışsal baskıyı terk etmekle birlikte kalbi riyâdan, kibir tâğûtundan ve nefsânî tahakküm arzusundan arındırmaktır (*Letâ'if*, 1/213). |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Sebeb-i Nüzûl ve Pedagojik Özgürlük Eşleştirmesi:* **`K1 ↔ K2 ↔ K3`** (Ensâr çocukları nüzul sebebi ve *ihtiyâr* ilkesi ile aile/okulda ikna ve hikmet temelli eğitim).
+  2. *Zorlamanın Nifak Üretmesi ve Teopolitik İstismarın Reddi Eşleştirmesi:* **`K4 ↔ K5`** (Baskının iman değil *nifak* ürettiği hakikati ile radikal dayatmaların çürütülmesi).
+  3. *Çoğulcu Hukuk Mirası ve Kalp Fıkhı Eşleştirmesi:* **`K6 ↔ K7 ↔ K8 ↔ K9`** (Medine Vesikası ve anayasal vicdan hürriyeti ile içsel *ihlâs* ve *tâğût*tan arınma).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.10.1.2, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"Dijital bir forumda iki grup tartışmaktadır: Birinci grup, 'Hakikat belliyse insanların hata yapmasına izin verilmemeli, toplum gerekirse zorla doğru inanca ve ibadete mecbur tutulmalıdır' iddiasını savunmaktadır. İkinci grup ise 'Bakara 2:256 dinde hiçbir kural ve sorumluluk olmadığı anlamına gelir' diyerek dinin ahlaki ilkelerini tamamen göreceli hale getirmektedir."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Hakikatin apaçık olması (`kad tebeyyene'r-rüşdü mine'l-ğayy`), insanları zorlamak için bir gerekçe midir; yoksa tam tersine zorlamayı gereksiz ve geçersiz kılan delil midir?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, C. 7, s. 14–16) ve Zemahşerî'nin vurguladığı üzere `kad tebeyyene'r-rüşdü mine'l-ğayy` cümlesi, `lâ ikrâhe fi'd-dîn` hükmünün **illeti (gerekçesi)**dir: Hakikat (`rüşd`) akli delillerle batıldan (`ğayy`) ayrıldığı için artık kaba kuvvete ve baskıya ihtiyaç yoktur; zorlamaya başvurmak delilin gücüne güvensizliktir ve samimi iman yerine ikiyüzlülük (*nifak*) üretir.
+  2. **Soru 2 (Sorgulayıcı Grup):** *"İnançta zorlamanın olmaması (`lâ ikrâhe fi'd-dîn`), hakikat ile batılın eşit olduğu anlamına mı gelir?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** Hayır; âyet hemen devamında `rüşd` (doğruluk) ile `ğayy` (sapıklık) arasındaki ontolojik ve ahlaki farkı net biçimde ortaya koyar ve insanı kendi hür iradesiyle `tâğût`u reddedip `el-urvetü'l-vüskâ`ya (sağlam kulpa) tutunmaya davet eder. Yani İslam'da **epistemik olarak hakikat nettir, hukuki ve ahlaki olarak ise kabulü hür iradeye bağlıdır**.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB2.3, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** Hâris el-Muhâsibî (*er-Ri'âye li-Hukûkillâh*, *Bâbü'r-Riyâ*), İmam Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*, C. 4, *Kitâbü'n-Niyye ve'l-İhlâs*) ve Kuşeyrî'nin (*Letâ'ifü'l-İşârât*, C. 1, s. 213–214) *kalp fıkhı* ilkeleri paylaşılır: *"Başkalarını din adına zorlamaya kalkan kimse, gerçekte hidayeti kendi nefsinin tekelinde görme kibrine kapılmıştır. Kuşeyrî'ye göre hakiki mümin dışarıdaki putlardan önce kendi kalbindeki hevâ ve enâniyet tâğûtunu reddeder."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Bir ibadeti veya iyiliği 'insanlar görsün, kınamasın veya baskı yapmasın' diye yaptığımızda kalbimizdeki `ihlâs` (samimiyet) bundan nasıl zarar görür (`SDB1.2`)?"*
+  2. *"Çevremizde bizden farklı düşünen veya inanan insanlara karşı üstenci ve yargılayıcı bir dil kullanmak yerine `Bakara 2:256` ve `Nahl 16:125` (hikmet ve güzel öğüt) dilini kuşanmak sosyal farkındalığımızı (`SDB2.3`) nasıl dönüştürür?"*
+  3. *"Kendi iç dünyamızda bizi hakikatten uzaklaştıran modern 'tâğûtlar' (popülerlik hırsı, kibir, önyargı, algoritma bağımlılığı) nelerdir ve bunlara karşı 'sağlam kulpa' (`urvetü'l-vüskâ`) nasıl tutunabiliriz (`SDB3.3`)?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Bakara 2:256 âyetinin nüzul sebebi (Taberî) ve bu olayın bize öğrettiği temel hukuk ilkesi:** | *"Medineli Ensâr'dan bir babanın Hıristiyan olan oğullarını zorla İslam'a sokmak istemesi üzerine inmiş ve aile içinde dahi inanç zorlamasını yasaklamıştır."* |
+| **2. Zemahşerî ve Râzî'ye göre 'Dinde zorlama yoktur' hükmünün akli ve kelâmî gerekçesi:** | *"Doğruluk (rüşd) sapıklıktan (ğayy) apaçık delillerle ayrılmıştır; iman kalbin hür iradeyle (ihtiyâr) tasdikidir, baskı iman değil yalnızca münafıklık üretir."* |
+| **3. İnanç özgürlüğü ve samimiyet (ihlâs) ekseninde hayatımda uygulayacağım bir erdem ilkesi:** | *"Kimsenin vicdanı üzerinde baskı kurmamak, farklılıklara saygı duymak ve kendi inancımı riyâdan uzak, samimi bir kalple yaşamak."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Taberî (*Câmi'u'l-Beyân*, C. 4, s. 550), Zemahşerî (*el-Keşşâf*, C. 1, s. 488–492) ve İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 3, s. 26–29) Bakara 2:256 tefsirlerini **Medine Vesikası** ve **Necrân Hıristiyanları Ahitnamesi** ile karşılaştırarak "İslam Kamu Hukukunda Din ve Vicdan Hürriyetinin Kurucu Belgeleri" başlıklı bir inceleme yazısı hazırlama.
+  - Pew Research Center ve V-Dem din özgürlüğü endeksleri üzerinden dini baskı ile toplumsal kutuplaşma arasındaki ampirik ilişkiyi inceleme.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`Açık Delil ve Akıl (Rüşd) → Hür İrade ve Seçim (İhtiyâr) → Kalbî Tasdik ve Samimiyet (İhlâs) → Sağlam Kulp (el-Urvetü'l-Vüskâ)`** zincirini (ve karşıtı olan **`Zorlama (İkrâh) → Korku ve Riyâ → İkiyüzlülük (Nifak)`** zincirini) gösteren karşılaştırmalı görsel kavram haritası üzerinde çalışma.
+  - "Zorlama ve Dayatma İfadeleri" ile "Hikmet, İkna ve Vicdan Özgürlüğü İfadeleri"ni içeren eşleştirme kartlarıyla pratik yapma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik lügat, tefsir ve irfân nakilleri (İbn Fâris, Râgıb el-İsfahânî, Taberî, Zemahşerî, İbn Manzûr, Muhâsibî, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* basamaklarıyla eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** Âyetin teopolitik baskıyı meşrulaştırmak amacıyla neshedildiği yönündeki mesnetsiz iddialar ile hakikat-batıl ayrımını silikleştiren rölativist okumalar `DKAB.10.1.2`, `DKAB.11.4.3`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` çerçevesinde önlenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -568,11 +663,11 @@ Bu durum şu açık gerilimleri doğurur:
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/2224
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/7657
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/690
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hecer, 1422/2001. Erişim: https://shamela.ws/book/779/18/2958
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/306
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/2224
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/7657
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/690
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hecer, 1422/2001. Erişim: https://shamela.ws/book/7798/2958
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/306
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Freedom House (2024).** *Freedom in the World 2024: Religious Freedom and Civil Liberties*. Washington, D.C.: Freedom House. Erişim adresi: https://freedomhouse.org

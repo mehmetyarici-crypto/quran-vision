@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "1328"
     arabic_quote: "تحت طاقتهم وَالْإِحْسانِ الندب، وإنما علق أمره بهما جميعاً، لأنّ الفرض لا بدّ من أن يقع فيه تفريط"
-    verification_link: "https://shamela.ws/book/2362/17/1328"
+    verification_link: "https://shamela.ws/book/23627/1328"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "552"
     arabic_quote: "النحل/ ٩٠] ، فإنّ العَدْلَ هو المساواة في المكافأة إن خيرا فخير، وإن شرّا فشرّ، والإحسان أن يقابل الخير بأكثر منه، والشرّ بأقلّ منه، ورجلٌ عَدْلٌ: عَادِلٌ، ورجالٌ عَدْلٌ، يقال في الواحد والجمع، قال الشاعر: ٣١١-"
-    verification_link: "https://shamela.ws/book/2363/16/534"
+    verification_link: "https://shamela.ws/book/23636/534"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "4"
     pages: "246"
     arabic_quote: "العين والدال واللام أصلان صحيحان، لكنَّهما متقابلان كالمتضادَّين: أحدُهما يدلُّ على استواء، والآخر يدلُّ على اعوجاج."
-    verification_link: "https://shamela.ws/book/2171/10/1787"
+    verification_link: "https://shamela.ws/book/21710/1787"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "11"
     pages: "430"
     arabic_quote: "العَدْل: مَا قَامَ فِي النُّفُوسِ أَنه مُسْتقيم، وَهُوَ ضِدُّ الجَوْر. عَدَل الحاكِمُ فِي الْحُكْمِ يَعْدِلُ عَدْلًا وَهُوَ"
-    verification_link: "https://shamela.ws/book/168/17/5608"
+    verification_link: "https://shamela.ws/book/1687/5608"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "14"
     pages: "337"
     arabic_quote: "عن عامرٍ، عن شُتَيْرِ بنِ شَكَلٍ، قال: سَمِعْتُ عبدَ اللهِ يقولُ: إن أجمعَ آيةٍ في القرآنِ في سورةِ النحلِ: ﴿إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى﴾ إِلى آخرِ الآيةِ"
-    verification_link: "https://shamela.ws/book/779/18/9798"
+    verification_link: "https://shamela.ws/book/7798/9798"
     doi_or_urn: "urn:shamela:7798"
 
 modern_sources:
@@ -247,7 +247,7 @@ peer_review:
 
 - **Kelime-Kelime Lafzî Çözümleme (Kelime Mealleri):**
   - `إِنَّ ٱللَّهَ يَأْمُرُ` (İnnallâhe ye'muru): Şüphesiz Allah kesin ve sürekli bir hükümle emreder (muzâri fiil teceddüd ve süreklilik ifade eder).
-  - `بِٱلْعَدْلِ` (bi'l-‘adl): Adaleti (ifrat ve tefritten uzak tam dengeyi, herkese hakkını eksiksiz vermeyi ve hukuk önünde mutlak eşitliği).
+  - `بِٱلْعَدْلِ` (bi'l-‘adl): Adaleti (ifrat ve tefritten uzak tam dengeyi, herkese hakkını eksiksiz vermeyi ve hukuk önünde tam eşitliği).
   - `وَٱلْإِحْسَـٰنِ` (ve'l-ihsân): Ve ihsanı (farz olan adaletin ötesine geçerek karşılık beklemeden iyilik yapmayı, kusuru affetmeyi ve her işi en yüksek kalite/estetik ve samimiyetle icra etmeyi).
   - `وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ` (ve îtâi zi'l-kurbâ): Ve yakınlara / akrabaya ve sosyal çevredeki muhtaçlara haklarını ve desteklerini vermeyi (aile ve sosyal dayanışma ağının korunması).
   - `وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ` (ve yenhâ ‘ani'l-fahşâi): Ve fahşâyı yasaklar (nefsin şehvet ve açgözlülük güdüsüyle işlediği sınır aşan her türlü çirkinlik ve ahlaksızlık).
@@ -414,17 +414,17 @@ Nahl 16:90 âyetinin dış dünyadaki (*âfâk*) anayasal, hukuki ve sosyolojik 
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
 Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe Nahl 16:90 ("Kur'ân'ın en câmi' / kapsamlı âyeti", İbn Mes'ûd rivayeti; Taberî, *Câmi'u'l-Beyân*, 14/162) kalbin tüm faziletlerini ve helâk edici afetlerini cem eden bir içsel mîzân olarak şerh edilmiştir:
-- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Münciyât* cildinin *Kitâbü'l-Murâkabe ve'l-Muhâsebe* ve *Rub'u'l-Âdât* cildinin *Kitâbü Âdâbi'l-Ülfe ve'l-Uhuvve* bölümlerinde; `el-'adl` mertebesini insanın zahiri ile bâtınının eşit olması ve kimseye hakkından azını vermemesi, `el-ihsân` mertebesini ise kendi hakkından feragat edip muhatabına fazlasıyla iyilik etmesi (*fazl*) ve Cibrîl hadisinde (Buhârî, *Îmân*, 37, nr. 50; Müslim, *Îmân*, 1, nr. 8) bildirildiği üzere *"Allah'ı görüyormuşçasına"* bir murâkabe bilinciyle yaşaması olarak tahlil eder. Gazzâlî'ye göre kalpte *ihsân* ve *şefkat* kuruduğunda şeklî adalet dahi nefsânî çekişmeye (`bağy`) yenik düşer (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 2, s. 196–220; C. 4, s. 391–410; Dijital erişim: [shamela.ws/book/9472/391](https://shamela.ws/book/9472/391)).
-- **İbn Kayyım el-Cevziyye (ö. 751/1350), *Medâricü's-Sâlikîn*:** İbnü'l-Kayyım, *Menzeletü'l-İhsân* bölümünde; *ihsân*'ın imanın özü ve kalbin kemâl mertebesi olduğunu, kulun kalbinde Hakk'ı müşahede etme (*müşâhede* ve *murâkabe*) nuru parladığında kalpten *fahşâ* (gizli şehvetler), *münker* (bâtıl düşünceler) ve *bağy* (halka karşı kibir ve tahakküm) karanlıklarının kendiliğinden silineceğini ortaya koyar (İbn Kayyım el-Cevziyye, *Medâricü's-Sâlikîn*, Beyrut: Dârü'l-Kitâbi'l-Arabî, C. 3, s. 224–235; Dijital erişim: [shamela.ws/book/8370/224](https://shamela.ws/book/8370/224)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Münciyât* cildinin *Kitâbü'l-Murâkabe ve'l-Muhâsebe* ve *Rub'u'l-Âdât* cildinin *Kitâbü Âdâbi'l-Ülfe ve'l-Uhuvve* bölümlerinde; `el-'adl` mertebesini insanın zahiri ile bâtınının eşit olması ve kimseye hakkından azını vermemesi, `el-ihsân` mertebesini ise kendi hakkından feragat edip muhatabına fazlasıyla iyilik etmesi (*fazl*) ve Cibrîl hadisinde (Buhârî, *Îmân*, 37, nr. 50; Müslim, *Îmân*, 1, nr. 8) bildirildiği üzere *"Allah'ı görüyormuşçasına"* bir murâkabe bilinciyle yaşaması olarak tahlil eder. Gazzâlî'ye göre kalpte *ihsân* ve *şefkat* kuruduğunda şeklî adalet dahi nefsânî çekişmeye (`bağy`) yenik düşer (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 2, s. 196–220; C. 4, s. 393–410; Dijital erişim: [shamela.ws/book/9472/1552](https://shamela.ws/book/9472/1552)).
+- **İbn Kayyım el-Cevziyye (ö. 751/1350), *Medâricü's-Sâlikîn*:** İbnü'l-Kayyım, *Menzeletü'l-İhsân* bölümünde; *ihsân*'ın imanın özü ve kalbin kemâl mertebesi olduğunu, kulun kalbinde Hakk'ı müşahede etme (*müşâhede* ve *murâkabe*) nuru parladığında kalpten *fahşâ* (gizli şehvetler), *münker* (bâtıl düşünceler) ve *bağy* (halka karşı kibir ve tahakküm) karanlıklarının kendiliğinden silineceğini ortaya koyar (İbn Kayyım el-Cevziyye, *Medâricü's-Sâlikîn*, Beyrut: Dârü'l-Kitâbi'l-Arabî, C. 3, s. 224–235; Dijital erişim: [shamela.ws/book/8370/1200](https://shamela.ws/book/8370/1200)).
 - **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) kamusal hakkaniyet (`adl`) ile şahsi merhamet (`îtâi zi'l-kurbâ`) arasındaki sınırı gözetemeyen ve nefsindeki tahakküm arzusunu (`bağy`) dizginleyemeyen yöneticiler, dış dünyada (`âfâk`) kamu makamlarını akraba kayırmacılığına alet eder; bu sebeple `ADIM 15`'teki kamuda liyakat ile sivil hayatta aile/bakım desteği ayrımı (`K1`), dijital vakıf ve ihsân ekosistemi (`K2`) ve kurumsal *bağy* izleme kurulu (`K3`) kararları bu enfüsî dengeyi anayasal güvenceye bağlamaktadır.
 
 #### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
 Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, Nahl 16:90 âyetindeki üç emir ve üç nehyi sâlikin Hakk'a ve halka karşı kulluk edebi olarak şerh etmişlerdir:
 - **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
   - `[NAKİL]`: Kuşeyrî, Nahl 16:90 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
-    > «إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ... الإشارة فيه: العدل أداء الفرائض ومراعاة حدود الشرع، والإحسان شهود المنة وصدق المراقبة في الخلوات... وينهى عن الفحشاء وهي اتباع شهوات النفوس، والمنكر وهو الركون إلى الدنيا، والبغي وهو رؤية النفس والتعالي على الخلق»
-    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 2, s. 305–306; Dijital doğrulama: [shamela.ws/book/23622/305](https://shamela.ws/book/23622/305) / [altafsir.com — Letâ'ifü'l-İşârât 16:90](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=16&tAyahNo=90&tDisplay=yes)).*
-  - **Ebû Abdurrahmân es-Sülemî (ö. 412/1021), *Hakâ'iku't-Tefsîr*:** İşârî tefsirin büyük âlimi Sülemî de âyetin tefsirinde âriflerin şu sözlerini nakleder: *"Adl tevhidde istikamet ve nefsi hakka tabi kılmak, İhsân kalbi Hakk'ın murâkabesinde tutmak; Fahşâ nefsin şehvetlerine uymak, Münker hakikate yabancı olan her şeye meyletmek, Bağy ise nefsi görüp mahlûkata karşı kibirlenmektir"* (Sülemî, *Hakâ'iku't-Tefsîr*, thk. Seyyid İmrân, Beyrut: Dârü'l-Kütübi'l-İlmiyye, C. 1, s. 368; Dijital erişim: [shamela.ws/book/23624/368](https://shamela.ws/book/23624/368)).
+    > «إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَى وَيَنْهَى عَنِ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ... الْعَدْلُ مَا هُوَ صَوَابٌ وَحَسَنٌ، وَهُوَ نَقِيضُ الْجَوْرِ وَالظُّلْمِ. أَمَرَ اللَّهُ الْإِنْسَانَ بِالْعَدْلِ فِيمَا بَيْنَهُ وَبَيْنَ نَفْسِهِ، وَفِيمَا بَيْنَهُ وَبَيْنَ رَبِّهِ، وَفِيمَا بَيْنَهُ وَبَيْنَ الْخَلْقِ؛ فَالْعَدْلُ الَّذِي بَيْنَهُ وَبَيْنَ نَفْسِهِ مَنْعُهَا عَمَّا فِيهِ هَلَاكُهَا... وَكَمَالُ عَدْلِهِ مَعَ نَفْسِهِ كَيُّ عُرُوقِ طَمَعِهِ»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 2, s. 314–315; Dijital doğrulama: [shamela.ws/book/23629/953](https://shamela.ws/book/23629/953) / [altafsir.com — Letâ'ifü'l-İşârât 16:90](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=16&tAyahNo=90&tDisplay=yes)).*
+  - **Ebû Abdurrahmân es-Sülemî (ö. 412/1021), *Hakâ'iku't-Tefsîr*:** İşârî tefsirin büyük âlimi Sülemî de âyetin tefsirinde âriflerin şu sözlerini nakleder: *"Adl tevhidde istikamet ve nefsi hakka tabi kılmak, İhsân kalbi Hakk'ın murâkabesinde tutmak; Fahşâ nefsin şehvetlerine uymak, Münker hakikate yabancı olan her şeye meyletmek, Bağy ise nefsi görüp mahlûkata karşı kibirlenmektir"* (Sülemî, *Hakâ'iku't-Tefsîr*, thk. Seyyid İmrân, Beyrut: Dârü'l-Kütübi'l-İlmiyye, C. 1, s. 368; Dijital erişim: [shamela.ws/book/12982/177](https://shamela.ws/book/12982/177)).
   - `[YORUM]`: Kuşeyrî ve Sülemî'nin *bağy* kavramını *"nefsi görmek ve yaratılmışlara karşı üstünlük taslamak (rü'yetü'n-nefs ve't-te'âlî 'ale'l-halk)"*, *ihsân* kavramını ise *"tenhalarda dahi sıdk ile ilahî murâkabe ve minnet şuhûdu"* olarak tanımlaması, Nahl 16:90'ın içsel mimarisini berraklaştırır. Bir medeniyeti ayakta tutan en sağlam sütun, *adl* ile hakları tastamam teslim etmek, *ihsân* ile kalpleri ve toplumu güzelleştirmek ve nefsin *bağy* (tahakküm ve kibir) ateşini kulluk tevazuu ile söndürmektir.
 
 ---
@@ -530,16 +530,109 @@ Katman 3 uyarınca bütünsel medeniyet yönetişimi simülasyonu:
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
 
-- **Öz-Denetim (Self-Audit):** Rapor boyunca kesinlik ve kusursuzluk iddiası taşıyan ifadelerden kaçınılmış, tüm politika önerileri içtihadi ve sınanabilir çerçevede sunulmuştur.
-- **Geliştirme Alanı:** Gelecek çalışmalarda İslam medeniyetindeki "Vakıf" kurumunun Nahl 16:90'daki "İhsan" kavramıyla tarihsel ve iktisadi ilişkisi nicel verilerle modellenecektir.
-- **Temel Varsayım:** Kurumsal şeffaflık, hukuki caydırıcılık ve içsel ahlak (`takvâ / ihsân`) birleştiğinde toplumsal aktörlerin yapıcı işbirliğine yöneleceği kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (Nahl 16:90 — Adalet, İhsan ve Sosyal Dayanışma Anayasası):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Adalet (Adl), İyilik ve Fazilet (İhsan), Aile/Komşuluk Dayanışması ve Kötülükten Sakınma.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Her cuma hutbesinin sonunda okunan Nahl 16:90 âyetinin İbn Mes'ûd tarafından *"Kur'an'ın en kapsamlı hayır ve şer özeti"* (Taberî, *Câmi'u'l-Beyân*, C. 14, s. 348; Buhârî, *el-Edebü'l-Müfred*, nr. 599) olarak nitelendirilmesi paylaşılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** Üç emir (`Adl`: hukuki eşitlik, `İhsan`: hukukun üstünde şefkat ve fazilet, `Îtâi zi'l-kurbâ`: sosyal dayanışma) ile üç yasak (`Fahşâ`: bireysel ahlaksızlık, `Münker`: kamusal kötülük, `Bağy`: zorbalık ve haddi aşma) Râgıb (*el-Müfredât*, s. 235–238) ve Râzî (*Mefâtîhu'l-Gayb*, C. 20, s. 98–104) üzerinden karşılaştırılır.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Salt kanuni adaletin (`Adl`) merhamet ve ihsan (`İhsan`) olmadan neden soğuk bürokrasiye dönüşeceği `R1` ve `B1` döngüleri üzerinden müzakere edilir.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler okul ve mahalle hayatında `Adl + İhsan + Zi'l-Kurbâ` üçlüsünü hayata geçiren somut eylem adımları belirler.
+- **Açık Araştırma Soruları:**
+  1. İbn Âşûr'un `Nahl 16:90`'daki üç emri `Zarûrât-ı Hamse`nin üç mertebesiyle (`el-Adl = Zarûriyyât`, `Îtâi zi'l-kurbâ = Hâciyyât`, `el-İhsân = Tahsîniyyât`) eşleştiren makâsıd modeli, çağdaş sosyal devlet ve kamu bütçesi tasarımında nasıl uygulanabilir?
+  2. Ömer b. Abdülazîz'in (ö. 101/720) cuma hutbelerinde siyasi lanetleşmeyi kaldırıp yerine `Nahl 16:90` âyetini koyma reformu, bugün toplumsal kutuplaşmayı önleyici din dili ve yaygın eğitim için nasıl bir örnek teşkil eder?
+- **Temel Varsayım:** Toplumsal barış ve medeniyet inşasının yalnız katı hukuki simetri (`el-adl`) ile yetinmeyip, onu lütfedici merhamet (`el-ihsân`) ve sosyal dayanışma (`îtâi zi'l-kurbâ`) ile taçlandırdığında; aynı zamanda bireysel iffetsizliği (`el-fahşâ`), kamusal kötülüğü (`el-münker`) ve kibirli zorbalığı (`el-bağy`) birlikte engellediğinde kalıcı olacağı kabul edilmiştir.
 
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını Nahl Sûresi 90. âyeti üzerinden somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 10. Sınıf
+- **Öğrenme Alanı / Ünite:** İslam ve Sosyal Hayat — Ahlaki İlkeler / Adalet (`Adl`), İyilik ve Fazilet (`İhsân`), Sosyal Dayanışma ve Üç Büyük Yıkımın Reddi
+- **İlgili Öğrenme Çıktıları:**
+  - `DKAB.10.3.4` (*İslam'da adalet, ihsan, yardımlaşma ve ahlaki sorumluluk ilkelerini toplumsal hayatla ilişkilendirebilme*)
+  - `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri [câmi'u'l-kelim / muhkem ilkeler, kavram karşıtlıkları ve tarihsel tatbik] özetleyebilme*)
+  - `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Nefsin üç temel sapması olan şehvet taşkınlığı (`fahşâ`), öfke/akıl dışı kötülük (`münker`) ve kibirli zorbalık (`bağy`) dürtülerini dizginleme.
+  - `SDB2.2` (*Empati ve Merhamet*): İnsanlarla ilişkilerde sadece "hukuki alt sınır" (`adl`) ile yetinmeyip affedicilik, cömertlik ve güzellik (`ihsân`) sergileme.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Akraba ve komşu dayanışmasını (`îtâi zi'l-kurbâ`) kamusal kayırmacılığa (*nepotizm*) dönüştürmeden helal ve adil sınırda yürütme.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Zarûriyyât = Adl*, *Hâciyyât = Îtâi zi'l-kurbâ*, *Tahsîniyyât = İhsân*), Abdullah b. Mes'ûd'un **"Kur'an'da hayır ve şerri en kapsamlı biçimde toplayan (`ecme'u âyetin`) âyet Nahl 16:90'dır"** tespiti (Taberî, *Câmi'u'l-Beyân*, 14/337), **Ömer b. Abdülazîz'in Cuma Hutbesi ve Mezâlim İadesi Reformu** ve `Sedd-i Zerâi'` (`fahşâ`, `münker` ve `bağy` yollarının kapatılması).
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | *Nahl 16:90* âyetindeki 3 emir (`el-adl`, `el-ihsân`, `îtâi zi'l-kurbâ`) ve 3 nehiy (`el-fahşâ`, `el-münker`, `el-bağy`) kavramlarının lafzî-ahlaki analizi. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Taberî, Zemahşerî, Râgıb ve İbn Manzûr'un *Adl vs. İhsân* ve 3 nefsî sapma tahlilleri ile modern hukuk-ahlak ilişkisi, vakıf ağları ve Ömer b. Abdülazîz reformunun eşleştirilmesi. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.10.3.4, E3.4` | **Zıt Panel / Münazara** | Salt katı şekilcilikle merhameti (`ihsân`) dışlayan veya `îtâi zi'l-kurbâ`yı kamu malında torpile (*nepotizm*) alet eden çarpıtmaların `Nahl 16:90` bütünlüğünde sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB2.2, DAB6` | **Konuşma Halkası** | Gazzâlî, İbn Kayyım (*Makâmü'l-İhsân*), Kuşeyrî ve Sülemî ekseninde Cibrîl hadisindeki *ihsân* şuuru, iç-dış denkliği (`adl`) ve kalpteki *bağy*ı kırma muhasebesi. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin *Adl–İhsân* farkı, 3 emir–3 nehiy simetrisi ve Ömer b. Abdülazîz'in hutbe reformunu tescilleyen 3 maddelik çıkış kartını doldurması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Öğretmen derse şu soruyla başlar: *"1300 yıldır her cuma hutbesinin sonunda okunan ve sahâbî Abdullah b. Mes'ûd'un 'Kur'an'ın en kapsamlı hayır ve şer âyeti' dediği âyet hangisidir?"* Tahtaya **Nahl 16:90** yansıtılır ve aşağıdaki **Anlam Çözümleme Tablosu** üzerinden 3 yapıcı emir ile 3 yıkıcı yasak çözümlenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Kategori (`Emir / Nehiy`) | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Râgıb / Zemahşerî / Taberî`) | Siyak-Sibak ve Çağdaş Hukuk / Ahlak Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`ٱلْعَدْلِ` (`el-Adl` — 1. Emir)** | `a-d-l` (`عَدَلَ`) kökünden mastar | İtidal, eşitlik ve tam denklik; herkese hakkını eksiksiz vermek, borcunu tam ödemek ([İbn Fâris, *Makâyîs*, 4/246](https://shamela.ws/book/21710/1787); [İbn Manzûr, *Lisânü'l-Arab*, 11/430](https://shamela.ws/book/1687/5608)) | Hukukun üstünlüğü, kanun önünde eşitlik ve zorunlu kamusal taban (*farz / zarûriyyât*) |
+| **`وَٱلْإِحْسَـٰنِ` (`Ve'l-İhsân` — 2. Emir)** | `h-s-n` (`حَسُنَ`) kökünden if'âl bâbı mastar | Güzel yapmak; *Adl*in üstüne çıkarak borcundan fazlasını vermek, alacağından feragat etmek ve affetmek ([Râgıb, *el-Müfredât*, s. 552](https://shamela.ws/book/23636/534); [Zemahşerî, *el-Keşşâf*, 2/1328](https://shamela.ws/book/23627/1328)) | Ahlaki fazilet tavanı (*nedb / tahsîniyyât*), merhamet, vakıf medeniyeti ve işini en güzel yapma (*itkân*) |
+| **`وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ` (`Îtâi zi'l-kurbâ` — 3. Emir)** | `e-t-y` mastarı + izâfet terkibi | Yakın akrabaya (ve komşuya/sosyal çevreye) kendi helal malından karşılıksız destek vermek ([Taberî, *Câmi'u'l-Beyân*, 14/337](https://shamela.ws/book/7798/9798)) | Aile bağları (*sıla-i rahim*), birincil sosyal güvenlik ağı ve toplumsal dayanışma |
+| **`ٱلْفَحْشَآءِ` (`el-Fahşâ'` — 1. Nehiy)** | `f-h-ş` (`فَحُشَ`) kökünden memdûd isim | Çirkinliği aşırı olan söz ve fiiller; nefsin şehvet/arzu kuvvetinin meşru sınırı aşması | İffetsizlik, müstehcenlik, mahremiyet ihlali ve ahlaki yozlaşma |
+| **`وَٱلْمُنكَرِ` (`Ve'l-Münker` — 2. Nehiy)** | `n-k-r` (`نَكِرَ`) kökünden ism-i mef'ûl | Selim aklın, fıtratın ve ilahi hukukun tanıyamayıp reddettiği her türlü çirkin davranış | Kamu vicdanını yaralayan kötülükler, kaba şiddet ve toplumsal norm ihlalleri |
+| **`وَٱلْبَغْىِ` (`Ve'l-Bağy` — 3. Nehiy)** | `b-ğ-y` (`بَغَى`) kökünden mastar | Kibirlenerek insanlara zulmetmek, haddi aşmak ve tahakküm kurmak | Zorbalık, güç istismarı, akran zorbalığı, mobbing ve emperyal saldırganlık |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Râgıb el-İsfahânî (*el-Müfredât*, s. 552), Zemahşerî (*el-Keşşâf*, C. 2, s. 1328), Taberî (*Câmi'u'l-Beyân*, C. 14, s. 337) ve Ömer b. Abdülazîz'in hutbe/mezâlim reformu ile çağdaş hukuk ve sosyal politika vakalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — Râgıb el-İsfahânî (*el-Müfredât*, s. 552) — Adl ve İhsân Farkı:**<br>`Adl`, iyiliğe denk iyilikle, kötülüğe denk cezayla karşılık vermektir (eşitlik). `İhsân` ise iyiliğe daha fazlasıyla karşılık vermek, kötülüğü ise affetmek veya daha azıyla karşılamaktır (fazilet). | **K2 — Çağdaş Vaka A (Hukuk Tabanı ve Ahlak Tavanı):**<br>Mahkemelerde ve kamu haklarında tavizsiz eşitlik (`Adl`); ancak yoksullara, engellilere, yaşlılara ve hata yapan gençlere karşı şefkat ve sosyal destek (`İhsân`). | **K3 — Zemahşerî (*el-Keşşâf*, 2/1328):**<br>Allah yalnız *farz* olan `Adl`i değil, *nedb/fazilet* olan `İhsân`ı da birlikte emretmiştir; çünkü insanlar sadece alt sınırda kalırsa kusurlar telafi edilemez ve toplum kurur. |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Şahsi Sıla-i Rahim vs. Kamusal Torpil Ayrımı):**<br>Kişinin kendi cebinden akrabasına yardım etmesi `îtâi zi'l-kurbâ` ibadetidir; fakat kamu görevini veya devlet malını akrabasına peşkeş çekmesi `Adl`i yıkan bir `bağy` (zulüm) suçudur. | **K5 — Klasik Ahlak Felsefesi (Nefsin 3 Kuvveti ve 3 Nehiy):**<br>Şehvet kuvvetinin sapması `fahşâ`yı (iffetsizlik), öfke (*gadab*) kuvvetinin sapması `münker`i (saldırgan kötülük), kibir/vehim kuvvetinin sapması ise `bağy`ı (zorbalık) doğurur. | **K6 — Çağdaş Vaka C (Bireysel, Sosyal ve Siyasal Kötülükle Bütüncül Mücadele):**<br>Dijital teşhircilik (`fahşâ`), sokak/siber şiddeti (`münker`) ve kurumsal mobbing/güç zorbalığına (`bağy`) karşı bütüncül ahlak eğitimi. |
+| **K7 — Ömer b. Abdülazîz'in Hutbe ve Mezâlim Reformu (H. 99):**<br>Hutbelerde siyasi rakiplere yapılan lanetleri kaldırıp yerine `Nahl 16:90`ı koydurmuş; kendi Emevî akrabalarının haksız el koyduğu malları hak sahiplerine iade etmiştir. | **K8 — Çağdaş Vaka D (Kutuplaşma Karşıtı Birleştirici Din Dili):**<br>Dinî hitabetin ve kamusal iletişimin öfke ve ötekileştirme yerine adalet, ihsan ve kardeşlik (`ye'izukum le'alleküm tezekkerûn`) bilinci üretmesi. | **K9 — Gazzâlî, Kuşeyrî & Sülemî Kalp Fıkhı:**<br>Süfyân b. Uyeyne'ye göre `Adl` kişinin içinin ve dışının eşit olması; `İhsân` ise içinin dışından daha temiz olması ve Allah'ı görür gibi (*Cibrîl hadisi*) yaşamasıdır. |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Adalet (Taban) ve İhsan (Tavan) Mimarisi Eşleştirmesi:* **`K1 ↔ K2 ↔ K3 ↔ K9`** (Râgıb ve Zemahşerî'nin *Adl–İhsân* ayrımı ile hukuk devleti, sosyal şefkat ve kalbî ihsan makamı).
+  2. *Sıla-i Rahim ile Nepotizm Ayrımı ve Ömer b. Abdülazîz Reformu Eşleştirmesi:* **`K4 ↔ K7 ↔ K8`** (`Îtâi zi'l-kurbâ`nın şahsi infakla sınırlı olması, Ömer b. Abdülazîz'in kendi akrabalarından haksız malları geri alması ve birleştirici hutbe dili).
+  3. *Nefsin Üç Sapması ve Üç Yıkıcı Yasak Eşleştirmesi:* **`K5 ↔ K6`** (`Fahşâ – Münker – Bağy` üçlüsünün psikolojik kökleri ve çağdaş tezahürleri).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (`DAB4.4, DKAB.10.3.4, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"İki farklı yanlış uygulama tartışılmaktadır: Birinci vakada bir kamu yöneticisi, devlete ait bir kadroyu ve ihale imkanını kendi yeğenine vermiş ve eleştirildiğinde 'Allah Nahl 16:90'da akrabaya vermeyi (`îtâi zi'l-kurbâ`) emrediyor, ben Kur'an'ın emrini yaptım' diyerek kendini savunmuştur. İkinci vakada ise katı kuralcı bir yönetici 'Ben sadece kuralları (`adl`) uygularım; kimseye merhamet, kolaylık ve insani yardım (`ihsân`) göstermem' demektedir. Öğrenciler her iki çarpıtmayı Nahl 16:90 bütünlüğüyle sorgular."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Nahl 16:90'daki `ve îtâi zi'l-kurbâ` (akrabaya vermek) emrini kamu kadrolarında ve devlet malında akraba kayırmacılığı (*torpil / nepotizm*) için delil göstermek neden ağır bir din istismarıdır (`DKAB.10.3.4`, `DKAB.11.4.3`)?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** Çünkü âyet birinci sırada **`bi'l-adl`** (adaletle) emrini koymuş, en sonda ise **`ve'l-bağy`** (haksızlık ve haddi aşmayı) yasaklamıştır! `Îtâi zi'l-kurbâ`, insanın **kendi helal malından ve şahsi imkânından** yoksul akrabasına infak etmesi ve sıla-i rahim yapmasıdır. Kamuya ait bir makamı veya bütçeyi akrabasına tahsis etmek `ihsân` değil, birinci emir olan `Adl`i yıkan ve `Nisâ 4:58`deki emanet emrine hıyanet eden açık bir `bağy` (zulüm) fiilidir. Nitekim Nahl 16:90'ı hutbelere koyan Halife Ömer b. Abdülazîz'in ilk icraatı, kendi Emevî akrabalarının haksız imtiyazlarını iptal etmek olmuştur.
+  2. **Soru 2 (Sorgulayıcı Grup):** *"Kur'an neden sadece `el-Adl` (adalet) emriyle yetinmeyip hemen yanına `ve'l-İhsân`ı eklemiştir?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** Zemahşerî (*el-Keşşâf*, 2/1328) ve İbn Âşûr'un açıkladığı üzere, yalnız katı `Adl` (herkese sadece hak ettiği kadar) uygulanan bir toplumda şefkat damarları kurur; düşenin elinden tutan olmaz. `Adl` toplumun yıkılmasını önleyen çelik omurga, `İhsân` ise o topluma ruh, sıcaklık ve merhamet veren kalptir.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB2.2, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** İmam Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*, C. 2, s. 280), İbn Kayyım el-Cevziyye (*Medâricü's-Sâlikîn*, C. 2, s. 388, *Makâmü'l-İhsân*) ve Kuşeyrî'nin (*Letâ'ifü'l-İşârât*, C. 2, s. 316–318) tespitleri paylaşılır: *"Sahâbî Osman b. Maz'ûn (r.a.) 'Kalbime imanın tam yerleştiği an, Nahl 16:90 âyetinin indiği andır' demiştir. Çünkü bu âyet insanın dışını hukukla, içini ise Allah'ı görür gibi yaşama (`İhsân`) bilinciyle mamur eder."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Arkadaşlarımızla ve ailemizle ilişkilerimizde sadece 'O bana ne kadar iyilik yaptıysa ben de o kadar yaparım' (`Adl`) hesabıyla mı davranıyoruz, yoksa karşılık beklemeden ilk adımı atan ve affeden (`İhsân`) taraf olabiliyor muyuz (`SDB2.2`)?"*
+  2. *"Süfyân b. Uyeyne'nin 'Adalet içinin ve dışının bir olması, İhsan ise içinin dışından daha güzel olmasıdır' sözüne göre kendi iç dünyamızı nasıl değerlendiriyoruz (`SDB1.2`)?"*
+  3. *"Bu hafta ailemizde ve okulumuzda `Adl`, `İhsân` ve `Îtâi zi'l-kurbâ` için birer somut adım atacak olsak neler yaparız (`SDB3.3`)?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurur:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Nahl 16:90'daki 'Adl' ile 'İhsân' kavramları arasındaki temel fark ve bütünlük:** | *"Adl herkese hakkını eksiksiz vermek (hukuki eşitlik tabanı), İhsân ise hakkından fazlasını ikram etmek, affetmek ve her işi Allah'ı görür gibi en güzel biçimde yapmaktır (ahlaki fazilet tavanı)."* |
+| **2. Âyetteki 3 emir ile 3 yasağın simetrik özeti:** | *"Emirler: Adalet (Adl), İyilik/Fazilet (İhsân), Akrabaya/Yakına Yardım (Îtâi zi'l-kurbâ). Yasaklar: Çirkinlik/İffetsizlik (Fahşâ), Akıl ve Dinin Reddettiği Kötülük (Münker), Zulüm ve Zorbalık (Bağy)."* |
+| **3. Ömer b. Abdülazîz'in hutbe ve yönetim reformunun öğrettiği ilke:** | *"Nahl 16:90 sadece dil ile okunacak bir metin değil; kutuplaşmayı bitiren ve akraba imtiyazlarını kaldırıp adaleti ve sosyal yardımı hayata geçiren bir yaşam anayasasıdır."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Taberî (*Câmi'u'l-Beyân*, C. 14, s. 337), Râgıb el-İsfahânî (*el-Müfredât*, s. 552) ve İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 14, s. 254–262) `Nahl 16:90` tefsirlerini inceleyerek "Hukuk Felsefesinde Adalet–İhsan Diyalektiği ve İslam Vakıf Medeniyetinin Kuramsal Kökenleri" başlıklı bir araştırma yazısı hazırlama.
+  - Dünya Adalet Projesi (`WJP`) ve OECD Sosyal Uyum Endeksi verileri üzerinden hukukun üstünlüğü (`Adl`) ile sivil dayanışma (`İhsân`) arasındaki tamamlayıcılığı analiz etme.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - **`3 Yapıcı Sütun: Adl (Hak) + İhsân (İyilik/Güzellik) + Zi'l-Kurbâ (Yakınlara Destek)`** ile **`3 Yıkıcı Tehlike: Fahşâ (Ahlaksızlık) + Münker (Kötülük) + Bağy (Zorbalık)`** karşıtlığını gösteren iki kanatlı görsel poster üzerinde çalışma.
+  - Günlük hayattan "Adalet, İhsan ve Sıla-i Rahim Davranışları" ile "Fahşâ, Münker, Bağy ve Torpil Davranışları"nı ayırt eden eşleştirme kartlarıyla uygulama yapma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik lügat, tefsir ve irfân nakilleri (İbn Fâris, Râgıb el-İsfahânî, Zemahşerî, İbn Manzûr, Taberî, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmıştır.
+2. **Pedagojik Süreç Filtresi:** **Anlam Çözümleme Tablosu**, **9 Kutucuklu Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** araçları `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman planı ve *Zenginleştirme / Destekleme* basamaklarıyla eksiksiz yapılandırılmıştır.
+3. **Din İstismarını Önleme Filtresi:** `Îtâi zi'l-kurbâ` emrinin kamusal kayırmacılık (*nepotizm*) için istismar edilmesi veya `münker`le mücadele adı altında bireylere `bağy` (zorbalık) uygulanması `DKAB.10.3.4`, `DKAB.11.4.3`, `Zarûrât-ı Hamse` ve `Sedd-i Zerâi'` ilkeleriyle engellenmiştir.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -580,11 +673,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/1787
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/168/17/5608
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/534
-- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hicr, 1422/2001. Erişim: https://shamela.ws/book/779/18/9798
-- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/1328
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/1787
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990. Erişim: https://shamela.ws/book/1687/5608
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/534
+- **Taberî, Ebû Ca'fer Muhammed b. Cerîr (ö. 310/923).** *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*. Tahkik: Abdullah b. Abdülmuhsin et-Türkî. 26 Cilt. Kahire: Dâru Hicr, 1422/2001. Erişim: https://shamela.ws/book/7798/9798
+- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/1328
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **Organisation for Economic Co-operation and Development [OECD] (2025).** *Society at a Glance 2025: Social Cohesion, Philanthropy and Welfare Indicators*. Paris: OECD Publishing. https://www.oecd.org

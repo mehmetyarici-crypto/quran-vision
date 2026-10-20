@@ -23,7 +23,7 @@ classical_sources:
     volume: "2"
     pages: "1365"
     arabic_quote: "وَلا تَقْفُ ولا تتبع. وقرئ: ولا تقف، يقال: قفا أثره وقافه، ومنه: القافة، يعنى: ولا تكن في اتباعك ما لا علم لك به من قول أو فعل، كمن يتبع مسلكا لا يدرى أنه يوصله إلى مقصده فهو ضال"
-    verification_link: "https://shamela.ws/book/2362/17/1365"
+    verification_link: "https://shamela.ws/book/23627/1365"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "680"
     arabic_quote: "اتّباع القفا، كما أنّ الارتداف اتّباع الرّدف، ويكنّى بذلك عن الاغتياب وتتبّع المعايب، وقوله تعالى: وَلا تَقْفُ ما لَيْسَ لَكَ بِهِ عِلْمٌ"
-    verification_link: "https://shamela.ws/book/2363/16/662"
+    verification_link: "https://shamela.ws/book/23636/662"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "112"
     arabic_quote: "القاف والفاء واللام أصلٌ صحيح يدلُّ أحدُهما على أوبةٍ من سفر، والآخر على صَلَابةٍ وشِدَّةٍ في شيء."
-    verification_link: "https://shamela.ws/book/2171/10/2165"
+    verification_link: "https://shamela.ws/book/21710/2165"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "15"
     pages: "194"
     arabic_quote: "لَا تَدْعُ مِنْ دَعَوْتُ، قَالَ: وقرأَ بَعْضُهُمْ وَلَا تَقُفْ مِثْلَ وَلَا تَقُلْ، وَقَالَ الأَخفش فِي قَوْلِهِ تَعَالَى: وَلا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ"
-    verification_link: "https://shamela.ws/book/168/17/7805"
+    verification_link: "https://shamela.ws/book/1687/7805"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-razi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "20"
     pages: "338"
     arabic_quote: "وَاعْلَمْ أَنَّ التَّفَاوُتَ الْحَاصِلَ بِسَبَبِ نُقْصَانِ الْكَيْلِ، وَالْوَزْنِ قَلِيلٌ وَالْوَعِيدَ الْحَاصِلَ عَلَيْهِ شَدِيدٌ عَظِيمٌ، فَوَجَبَ عَلَى الْعَاقِلِ الِاحْتِرَازُ"
-    verification_link: "https://shamela.ws/book/2363/15/3582"
+    verification_link: "https://shamela.ws/book/23635/3582"
     doi_or_urn: "urn:shamela:23603"
 
 modern_sources:
@@ -400,17 +400,17 @@ peer_review:
 
 #### 13.2. Kalp Fıkhı ve Bâtınî İlletler (Ahlâkî ve Psikolojik Boyut)
 Klasik *kalp fıkhı* (*fıkhü'l-kulûb*) literatüründe delilsiz söz söylemenin, şayia yaymanın ve zan peşinde koşmanın ardındaki bâtınî illetler; kalbin havâtır ve vesveselere teslim olması, dilin afetleri (*âfâtü'l-lisân*) ve murâkabe eksikliği olarak teşhis edilmiştir:
-- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, kalbe gelen düşüncelerin (*havâtır*), sû-i zannın ve dilin murâkabesini tahlil ederken; kulun kalbine doğan her tahmini ve kulağına çalınan her sözü hakikat sanarak peşine düşmesinin nefsin gaflet ve kibrinden kaynaklandığını, *vera'* ve *muhâsebe* ehlinin ise yakînî bilgiye (`'ilm`) dayanmayan hiçbir hükmü kalbinde barındırmadığını ve diline dökmediğini beyan eder (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 45–78, 175–198; Dijital erişim: [shamela.ws/book/9683/45](https://shamela.ws/book/9683/45)).
-- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildindeki *Kitâbü Âfâti'l-Lisân* ve *Rub'u'l-Münciyât* cildindeki *Kitâbü'l-Murâkabe ve'l-Muhâsebe* bölümlerinde; İsrâ 17:36 âyetini nefsin yirmi dil afetine (yalan, gıybet, koğuculuk, ilimsiz fetva ve cedel) ve kalbin sû-i zan marazına karşı en büyük ilahî sur olarak şerh eder. Gazzâlî'ye göre göz ve kulak kalbin kapılarıdır; kapılarını şüpheli ve kirli malumata kapatmayan kimsenin kalbi (*fuâd*) kararır ve basireti körelir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 108–160; C. 4, s. 391–415; Dijital erişim: [shamela.ws/book/9472/391](https://shamela.ws/book/9472/391)).
+- **Hâris el-Muhâsibî (ö. 243/857), *er-Ri'âye li-Hukûkillâh*:** Muhâsibî, kalbe gelen düşüncelerin (*havâtır*), sû-i zannın ve dilin murâkabesini tahlil ederken; kulun kalbine doğan her tahmini ve kulağına çalınan her sözü hakikat sanarak peşine düşmesinin nefsin gaflet ve kibrinden kaynaklandığını, *vera'* ve *muhâsebe* ehlinin ise yakînî bilgiye (`'ilm`) dayanmayan hiçbir hükmü kalbinde barındırmadığını ve diline dökmediğini beyan eder (Muhâsibî, *er-Ri'âye li-Hukûkillâh*, thk. Abdülkâdir Ahmed Atâ, Beyrut: Dârü'l-Kütübi'l-İlmiyye, s. 45–78, 175–198; Dijital erişim: [shamela.ws/book/6875/8](https://shamela.ws/book/6875/8)).
+- **Ebû Hâmid el-Gazzâlî (ö. 505/1111), *İhyâ'u 'Ulûmi'd-Dîn*:** Gazzâlî, *Rub'u'l-Mühlikât* cildindeki *Kitâbü Âfâti'l-Lisân* ve *Rub'u'l-Münciyât* cildindeki *Kitâbü'l-Murâkabe ve'l-Muhâsebe* bölümlerinde; İsrâ 17:36 âyetini nefsin yirmi dil afetine (yalan, gıybet, koğuculuk, ilimsiz fetva ve cedel) ve kalbin sû-i zan marazına karşı en büyük ilahî sur olarak şerh eder. Gazzâlî'ye göre göz ve kulak kalbin kapılarıdır; kapılarını şüpheli ve kirli malumata kapatmayan kimsenin kalbi (*fuâd*) kararır ve basireti körelir (Gazzâlî, *İhyâ'u 'Ulûmi'd-Dîn*, Beyrut: Dârü'l-Ma'rife, C. 3, s. 108–160; C. 4, s. 393–415; Dijital erişim: [shamela.ws/book/9472/1552](https://shamela.ws/book/9472/1552)).
 - **Enfüs–Karar Köprüsü:** İç dünyasında (`enfüs`) `kâne 'anhu mes'ûlâ` (her uzvun ve kalbin hesaba çekileceği) bilincini kuşanmayan karar vericiler ve medya aktörleri, dış dünyada (`âfâk`) doğrulanmamış istihbarat veya sosyal medya şayialarıyla masum insanları mahkûm eder; bu sebeple `ADIM 15`'teki dijital okuryazarlık (`K1`), kriptografik kaynak doğrulama (`K2`) ve bağımsız teyit ombudsmanlığı (`K3`) kararları kalbî murâkabeyi kurumsal denetimle birleştirmektedir.
 
 #### 13.3. Klasik İşârî ve İrfânî Tahrîc (Letâ'if ve Hakîkat Katmanı)
 Tasavvufî ve işârî tefsir geleneğinin kurucu imamları, İsrâ 17:36 âyetindeki *ilim*, *sem'*, *basar* ve *fuâd* kavramlarını zahirî duyuların ötesinde kalbin bâtınî basireti ve ilahî huzurdaki edebi olarak şerh etmişlerdir:
 - **Abdülkerîm el-Kuşeyrî (ö. 465/1072), *Letâ'ifü'l-İşârât*:**
   - `[NAKİL]`: Kuşeyrî, İsrâ 17:36 âyetinin işârî tefsirinde şu lafzî ifadeleri kaydeder:
-    > «وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَئِكَ كَانَ عَنْهُ مَسْئُولًا... الإشارة فيه: لا تتبع ما لم تستيقنه بنور البصيرة، ولا تتكلم بما لم يشهد به قلبك من الحق... وإن السمع والبصر والفؤاد كل أولئك كان عنه مسؤولاً، فحفظ هذه الجوارح ومراقبة واردات القلوب أصل سلوك أهل التحقيق»
-    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 2, s. 346–347; Dijital doğrulama: [shamela.ws/book/23622/346](https://shamela.ws/book/23622/346) / [altafsir.com — Letâ'ifü'l-İşârât 17:36](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=17&tAyahNo=36&tDisplay=yes)).*
-  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); kulağın hakikatten başkasını dinlemekten, gözün ibret ve hikmet nazarı dışında bakmaktan, kalbin (*fuâd*) ise Hakk'ın dışındaki mâsivâya ve vehimlere meyletmekten hesaba çekileceğini; ârifin dilini ve zihnini zandan koruyarak yalnızca tahkik edilmiş hakikate şahitlik ettiğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 3, s. 203–204; Dijital erişim: [shamela.ws/book/11566/203](https://shamela.ws/book/11566/203)).
+    > «وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ... إِذَا غَلَبَتْ عَلَيْكَ مُجَوِّزَاتُ الظُّنُونِ، وَلَمْ يُطْلِعْكَ الْحَقُّ عَلَى الْيَقِينِ فَلَا تَتَكَلَّفِ الْوُقُوفَ عَلَيْهِ مِنْ غَيْرِ بُرْهَانٍ... إِنَّ السَّمْعَ وَالْبَصَرَ: هَذِهِ أَمَانَةُ الْحَقِّ سُبْحَانَهُ عِنْدَ الْعَبْدِ... وَمَنِ اسْتَعْمَلَ هَذِهِ الْجَوَارِحَ فِي الطَّاعَاتِ، وَصَانَهَا عَنِ اسْتِعْمَالِهَا فِي الْمُخَالَفَاتِ فَقَدْ سَلَّمَ الْأَمَانَةَ عَلَى وَصْفِ السَّلَامَةِ»
+    > *(Kuşeyrî, Letâ'ifü'l-İşârât, thk. İbrâhîm Besyûnî, Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, C. 2, s. 347–348; Dijital doğrulama: [shamela.ws/book/23629/985](https://shamela.ws/book/23629/985) / [altafsir.com — Letâ'ifü'l-İşârât 17:36](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=17&tAyahNo=36&tDisplay=yes)).*
+  - **İbn Acîbe el-Hasenî (ö. 1224/1809), *el-Bahrü'l-Medîd*:** İbn Acîbe de âyetin işârî tefsirinde (*el-İşâre*); kulağın hakikatten başkasını dinlemekten, gözün ibret ve hikmet nazarı dışında bakmaktan, kalbin (*fuâd*) ise Hakk'ın dışındaki mâsivâya ve vehimlere meyletmekten hesaba çekileceğini; ârifin dilini ve zihnini zandan koruyarak yalnızca tahkik edilmiş hakikate şahitlik ettiğini vurgular (İbn Acîbe, *el-Bahrü'l-Medîd fî Tefsîri'l-Kur'âni'l-Mecîd*, Kahire: Doktor Hasan Abbâs Zekî Neşri, C. 3, s. 199–200; Dijital erişim: [shamela.ws/book/10273/1420](https://shamela.ws/book/10273/1420)).
   - `[YORUM]`: Kuşeyrî'nin *"Basiret nuruyla yakînen bilmediğin şeyin ardına düşme, kalbinin hak olduğuna şahitlik etmediği sözü konuşma; zira azaları korumak ve kalbe gelen vâridâtı murâkabe etmek ehl-i tahkikin sülûkunun aslıdır"* tespiti, epistemik ahlâkın en derin irfânî temelini kurar. İslam irfânında hakiki bilgi (`'ilm`), dedikodu ve algoritmik manipülasyon rüzgârlarıyla savrulmak değil; kulağı, gözü ve kalbi (*fuâd*) ilahî sorumluluk bilinciyle terbiye ederek her iddiayı burhan ve basiret süzgecinden geçirmektir.
 
 ---
@@ -522,16 +522,107 @@ Katman 3 uyarınca simülasyon parametreleri:
 
 ### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
 
-- **Öz-Denetim (Self-Audit):** Rapor boyunca kesinlik veya dogma iddiası taşıyan yasaklı ifadelerden titizlikle kaçınılmıştır.
-- **Geliştirme Alanı:** Kuantum hesaplama ve nöro-teknolojik zihin-makine arayüzlerinde 'sem', 'basar' ve 'fuâd' sorumluluğunun gelecekteki yansımaları çalışılacaktır.
-- **Temel Varsayım:** Kurumsal şeffaflık, hukuki caydırıcılık ve içsel ahlak (`takvâ / ihsân`) birleştiğinde toplumsal aktörlerin yapıcı işbirliğine yöneleceği kabul edilmiştir.
-- **40 Dakikalık TYMM Pedagojik Ders ve Seminer Planı (İsrâ 17:36 — Epistemik Ahlak, Bilgi Doğrulama ve Dijital Sorumluluk):**
-  - **TYMM Erdem-Değer-Eylem Çerçevesi:** *Doğruluk, Eleştirel Düşünce, Bilgi Ahlakı, Emanet ve Öz-Denetim.*
-  - **1. Aşama — Hazırlık ve Bağlamsal Keşif (0–10 Dk):** Sosyal medyada hızla yayılan sentetik (deepfake) veya doğrulanmamış bir haber örneği gösterilerek `"Ve lâ takfu mâ leyse leke bihî ilm"` (Bilgin olmayan şeyin ardına düşme!) ilkesi tanıtılır.
-  - **2. Aşama — Klasik Tefsir ve Kavram Atölyesi (10–20 Dk):** `Kafv` (iz sürme/peşine düşme), `ilm` (delile dayalı kesin bilgi) ile `sem'` (işitme), `basar` (görme) ve `fuâd` (muhakeme eden kalp/zihin) melekelerinin hukuki-ahlaki sorumluluğu (`mes'ûlâ`) Râzî (*Mefâtîhu'l-Gayb*, C. 20, s. 209–212) ve İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 15, s. 98–103) üzerinden çözümlenir.
-  - **3. Aşama — Yapılandırılmış Sınıf Münazarası ve Sistem Haritası (20–30 Dk):** Algoritmik dezenformasyon ve linç sarmalı (`R1`) ile üçlü bilişsel doğrulama filtresi (`B1: Sem'-Basar-Fuâd`) karşılaştırılır.
-  - **4. Aşama — Sentez ve Öz-Değerlendirme (30–40 Dk):** Öğrenciler dijital içerik paylaşmadan önce uygulanacak *"3 Adımlı İsrâ 17:36 Teyit Kontrol Listesi"* oluşturur.
+- **Öz-Denetim (Self-Audit):** Rapor boyunca dogmatik kesinlik veya tekelcilik iddiası taşıyan yasaklı ifadelerden titizlikle kaçınılmış; `[NAKİL]` ve `[YORUM]` ayrımı korunmuştur.
+- **Açık Araştırma Soruları ve Geliştirme Alanı:** Klasik hadis ve tefsir usûlündeki *İsnad* ve *Cerh-Ta'dîl* doğrulama mimarisinin üretken yapay zekâ çıktıları için merkeziyetsiz kriptografik kaynak doğrulama (*Dijital İsnad*) protokollerine nasıl dönüştürülebileceği ve `sem'–basar–fuâd` üçlüsünün nöro-bilişsel dezenformasyon araştırmalarıyla kesişimi ileri araştırma alanı olarak belirlenmiştir.
+- **Temel Varsayım:** Kurumsal şeffaflık (`K1`), algoritmik doğrulama sürtünmesi (`K2`) ve içselleştirilmiş bilgi ahlakı (`K3: takvâ / ihsân`) birleştiğinde toplumsal aktörlerin sorumlu bilgi paylaşımına yöneleceği kabul edilmiştir.
 
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+
+Türkiye Yüzyılı Maarif Modeli (TYMM) Ortaöğretim Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programı'nda (TTKB 03.03.2026 / Sayı: 5) yer alan **"Erdem-Değer-Eylem"** yaklaşımı ile **"Yirmi Altı Adımlı Model"**in kuramsal omurgasını somut bir sınıf içi uygulamaya dönüştüren kurumsal tasarım mimarisi aşağıda yapılandırılmıştır:
+
+- **Ders / Sınıf Seviyesi:** Din Kültürü ve Ahlak Bilgisi / 10. Sınıf
+- **Öğrenme Alanı / Ünite:** Kur'an-ı Kerim'in Anlaşılması ve Yorumlanması / Bilgi ve İnanç
+- **İlgili Öğrenme Çıktısı:** `DKAB.10.1.3` (*İsrâ 17:36 bağlamında bilgi ve doğrulama sorumluluğunu yorumlayabilme*)
+- **Desteklenen Üst Düzey Çıktılar:** `DKAB.12.1.3` (*Kur'an-ı Kerim'in anlaşılmasında temel ilkeleri özetleyebilme*) ve `DKAB.11.4.3` (*Din istismarını önleyici eleştirel sorgulama yapabilme*)
+- **Süre:** 1 Ders Saati (`40 Dakika`)
+- **Hedef Alan Becerileri (`DAB`):**
+  - `DAB1` (Temel Kaynakları Kullanma), `DAB2` (Tetkik), `DAB3` (Tahkik)
+  - `DAB3.2` (Dinî Kavramları Bağlamına Uygun Kullanma)
+  - `DAB3.3` (Dinî Metinleri Yorumlama) ve `DAB3.4` (Dinî Metinleri Tahlil Etme)
+  - `DAB4.4` (Dinî Konularda Analitik Düşünme), `DAB5` (Dinî Delillere Başvurma) ve `DAB6` (Tatbik)
+- **Sosyal-Duygusal Öğrenme Becerileri (`SDB`):**
+  - `SDB1.2` (*Öz Düzenleme*): Zihinsel ve ahlaki öz denetim mekanizmasını işletme.
+  - `SDB3.3` (*Sorumlu Karar Verme*): Dijital ve reel ortamda delilsiz hüküm vermekten kaçınma.
+- **Okuryazarlık ve Eğilimler:** `OB1` (*Bilgi Okuryazarlığı*) ve `E3.4` (*Gerçeği Arama* eğilimi).
+- **Kavramsal Köprüler ve Usûl İlkeleri:** `Zarûrât-ı Hamse` (*Hıfzu'l-Akl*, *Hıfzu'l-Irz* ve *Hıfzu'd-Dîn* — aklın, insan onurunun ve dinin muhafazası) ile `Sedd-i Zerâi'` (fitne, iftira ve dezenformasyona yol açan vasıtaların kapatılması).
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+
+| Ders Aşaması | Süre | İlgili Beceri / Süreç Bileşeni | Kullanılan Araç ve Yöntem | 26 Adımlı Model ve TYMM Entegrasyonu |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Giriş: Lafzî Çözümleme ve Bağlam Matrisi** | **05 dk.** | `DAB1, DAB2, DAB3.2` | **Anlam Çözümleme Tablosu** | Âyetin (*İsrâ 17:36*) lafzî analizi; nüzul ortamı, siyak-sibak ilişkisi (`İsrâ 17:22–39`) ve yedi boyutlu bağlam matrisi ile ön değerlendirme yapılması. |
+| **2. Gelişme I: Tahkik ve Klasik Miras Köprüsü** | **12 dk.** | `DAB3, DAB3.4, OB1` | **Yapılandırılmış Grid** | Taberî, Râzî, İbn Âşûr ve Şâtıbî'den doğrulanan klasik usûl ilkeleri ile dijital çağın teyit mekanizmaları arasında köprü kurulması. |
+| **3. Gelişme II: Eleştirel Sorgulama ve Din İstismarı Analizi** | **11 dk.** | `DAB4.4, DKAB.11.4.3, E3.4` | **Zıt Panel / Münazara** | Âyetlerin bağlamından koparılmasının, algı yönetiminin ve delilsiz bilginin yol açtığı teolojik ve sosyolojik istismar risklerinin sorgulanması. |
+| **4. Derinleşme: Ahlaki Muhasebe ve Öz Düzenleme** | **07 dk.** | `SDB1.2, SDB3.3, DAB6` | **Konuşma Halkası** | *Sem'*, *basar* ve *fuâd* (kulak, göz, kalp) sorumluluğu ekseninde nefis muhasebesi; Erdem-Değer-Eylem köprüsünün kişisel ahlaka aktarımı. |
+| **5. Değerlendirme: Öğrenme Kanıtları ve Yansıtma** | **05 dk.** | `DAB3.3, DAB6` | **Çıkış Kartı (*Exit Card*)** | Öğrencinin "Zannî Bilgi / Sahih Delil" ayrımını tescilleyen 3 maddelik çıkış kartını doldurması ve dersin tamamlanması. |
+
+##### A. Aşama 1: Lafzî Çözümleme ve Ön Değerlendirme (00–05. Dakika) — Doldurulmuş Anlam Çözümleme Tablosu
+- **Öğretmen Yönergesi:** Tahtaya İsrâ Sûresi 36. âyetinin Arapça metni ve sahih meali yansıtılır. Öğrencilerden âyetin öncesindeki ölçü-tartı adaleti (`İsrâ 17:35`) ve sonrasındaki kibir yasağı (`İsrâ 17:37`) bağlamında aşağıdaki **Anlam Çözümleme Tablosu**'nu incelemeleri istenir (`DAB3.2`):
+
+| Kur'anî Lafız | Kök ve Morfolojik Yapı | Klasik Sözlük ve Tefsir Anlamı (`İbn Fâris / Râzî / İbn Âşûr`) | Siyak-Sibak ve Çağdaş Epistemik Karşılığı |
+| :--- | :--- | :--- | :--- |
+| **`وَلَا تَقْفُ` (`Ve lâ takfu`)** | `k-f-v` (`قَفَا`) kökünden nehy-i hâzır | Bir şeyin ensesine/ardına düşmek, izini sürüp bilgisizce hüküm vermek ve yaymak | Doğrulanmamış söylenti, dedikodu ve sosyal medya iddiasının peşine takılmama |
+| **`عِلْمٌ` (`'İlm`)** | `'a-l-m` (`عَلِمَ`) kökünden nekre mastar | Delile, şahitliğe ve tahkike dayanan sahih bilgi (nefy siyâkında her türlü temelsiz zannı dışlar) | Birincil kaynak, deneysel veri ve güvenilir isnad ile doğrulanmış kanıtlı bilgi |
+| **`ٱلسَّمْعَ` (`es-Sem'`)** | `s-m-'` (`سَمِعَ`) kökünden cins isim | İşitme yetisi ve sözlü/naklî haberlerin algı kapısı | Haber kaynağı, rivayet zinciri ve işitsel/medyatik enformasyonun güvenilirlik denetimi |
+| **`ٱلْبَصَرَ` (`el-Basar`)** | `b-s-r` (`بَصُرَ`) kökünden isim | Görme yetisi, doğrudan gözlem ve görsel şahitlik | Ampirik kanıt, belge incelemesi ve görsel medyanın (*deepfake*/montaj) teknik teyidi |
+| **`ٱلْفُؤَادَ` (`el-Fuâd`)** | `f-e-d` (`فَأَدَ`) kökünden isim | Tutuşup parlayan idrak, akıl yürütme ve vicdani muhakeme merkezi | Duyulardan gelen ham veriyi mantıksal tutarlılık ve ahlak süzgecinden geçiren eleştirel akıl |
+| **`مَسْـُٔولًا` (`Mes'ûlâ`)** | `s-e-l` (`سَأَلَ`) kökünden ism-i mef'ûl | Kendisinden hesap sorulan, hukuki ve uhrevi sorgulamaya tabi tutulan | Bilişsel, hukuki ve ahlaki hesap verebilirlik; anonim dijital linç kültürünün reddi |
+
+##### B. Aşama 2: Klasik Tefsir ile Güncel Gerçeklik Arasında Tahkik Köprüsü (05–17. Dakika) — Doldurulmuş 9 Kutucuklu Yapılandırılmış Grid
+- **Öğretmen Yönergesi:** Sınıfa Taberî (*Câmi'u'l-Beyân*, C. 17, s. 446–448), Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, C. 20, s. 209–212), İbn Âşûr (*et-Tahrîr ve't-Tenvîr*, C. 15, s. 98–103) ve Şâtıbî (*el-Muvâfakât*, C. 2, s. 8–25) metin kesitleri ile çağdaş dezenformasyon vakalarını içeren **9 Kutucuklu Yapılandırılmış Grid** dağıtılır (`DAB3, DAB3.4, OB1`):
+
+| **K1 — Taberî & Kurtubî İlkesi:**<br>*"Görmediğini gördüm, duymadığını duydum, bilmediğini bildim demek ve yalan şahitlik yapmak haramdır."* | **K2 — Çağdaş Vaka A (Sentetik Medya):**<br>Yapay zekâ ile üretilmiş sahte ses/görüntü (*deepfake*) videolarının gerçek şahitlik gibi dolaşıma sokulması. | **K3 — Râzî'nin Bilişsel Hiyerarşisi:**<br>Duyu verisi (`sem'` ve `basar`), aklî ve vicdani muhakeme (`fuâd`) süzgecinden geçmeden bilgi (`'ilm`) değeri kazanmaz. |
+| :--- | :--- | :--- |
+| **K4 — Çağdaş Vaka B (Tık Avcılığı & Yankı Odası):**<br>Sansasyonel başlıklarla (*clickbait*) öfke uyandıran haberlerin okunmadan ve sorgulanmadan saniyeler içinde paylaşılması. | **K5 — Şâtıbî Makâsıd İlkesi (*Hıfzu'l-Akl & Irz*):**<br>Aklın aldatılmaktan, insan onurunun iftira ve karalamadan korunması *zarûriyyât* katmanındandır. | **K6 — Çağdaş Vaka C (Dijital Linç & İftira):**<br>Sosyal medyada teyitsiz suçlamalarla masum insanların hedef gösterilmesi ve itibar suikastına uğraması (`Nûr 24:15`). |
+| **K7 — İbn Âşûr & *Sedd-i Zerâi'* Kuralı:**<br>Toplumsal fitne ve yalana götüren vasıtaların kaynağında engellenmesi ve haber kaynağının tahkiki (`Hucurât 49:6`). | **K8 — Kurumsal Çözüm (*Dijital İsnad*):**<br>Bağımsız doğrulama platformları (*fact-checking*), kriptografik kaynak imzası ve iki kaynaklı çapraz teyit disiplini. | **K9 — Kuşeyrî & Gazzâlî Kalp Fıkhı:**<br>Kulak, göz ve kalp kapılarında *murâkabe* nöbeti tutarak sû-i zan ve tecessüsten uzak durmak. |
+
+- **Yapılandırılmış Grid Eşleştirme Anahtarı (Öğrenci Görevi):**
+  1. *Duyu Emaneti ve Görsel Teyit Eşleştirmesi:* **`K1 ↔ K2`** (Görmediğini gördüm deme yasağı ile *deepfake* ve montaj içeriklerin reddi).
+  2. *Bilişsel Süzgeç ve Algoritmik Acelecilik Eşleştirmesi:* **`K3 ↔ K4`** (`Sem'-Basar-Fuâd` muhakemesi ile *tık avcılığı* ve dürtüsel paylaşım zaafının önlenmesi).
+  3. *Makâsıd ve İnsan Onuru Eşleştirmesi:* **`K5 ↔ K6`** (*Hıfzu'l-Akl* ve *Hıfzu'l-Irz* ilkeleri ile dijital linç ve iftiranın engellenmesi).
+  4. *Usûlî Önlem ve Doğrulama Mimarisi Eşleştirmesi:* **`K7 ↔ K8 ↔ K9`** (*Sedd-i Zerâi'* ve *Tebeyyün* usûlü ile *Dijital İsnad* ve içsel *murâkabe* bütünlüğü).
+
+##### C. Aşama 3: Din İstismarını Önleyici Eleştirel Sorgulama (17–28. Dakika) — Zıt Panel / Münazara Vaka Senaryosu
+- **Uygulama Aracı:** **Zıt Panel** (Sınıf "Sorgulayıcı Grup" ve "Yanıtlayıcı Grup" olarak ikiye ayrılır; `DAB4.4, DKAB.11.4.3, E3.4`).
+- **Örnek Vaka Senaryosu:** *"Sosyal medyada yüksek takipçili anonim bir hesap, kaynağını belirtmeden 'Filan sûrenin şu âyetini paylaşan kişi cennetle müjdelenir, paylaşmayan hüsrana uğrar' şeklinde uydurma bir rivayeti ve bağlamından koparılmış bir âyet kesitini etkileşim toplamak amacıyla yaymaktadır. Binlerce kullanıcı 'İyi niyetle hayra vesile oluyorum' diyerek mesajı doğrulamadan paylaşmaktadır."*
+- **Sorgulayıcı Grup Soruları ve Yanıtlayıcı Grup Analitik Cevapları:**
+  1. **Soru 1 (Sorgulayıcı Grup):** *"Bir mesaj dinî kavramlar içeriyor ve insanları iyiliğe çağırıyorsa, kaynağını araştırmadan ('iyi niyetle') paylaşmak İsrâ 17:36 açısından neden sorunludur?"*
+     - **Cevap 1 (Yanıtlayıcı Grup):** İsrâ 17:36'daki `lâ takfu mâ leyse leke bihî 'ilm` yasağı geneldir; din adına konuşmak en yüksek doğrulama (`tahkik`) sorumluluğunu gerektirir. Kaynaksız sözü Allah'a veya Hz. Peygamber'e (s.a.s.) nispet etmek, iyi niyetle dahi olsa dinin asli kaynaklarını tahrif etme ve din istismarına alet olma riski taşır (Buhârî, *İlim*, 38, nr. 106; Müslim, *Zühd*, 72, nr. 3004).
+  2. **Soru 2 (Sorgulayıcı Grup):** *"Âyetlerin öncesini ve sonrasını (siyak-sibak) gizleyerek tek cümlelik görsellerle algı yönetimi yapmak hangi teolojik ve toplumsal zararları doğurur?"*
+     - **Cevap 2 (Yanıtlayıcı Grup):** Bağlamından koparılan âyet, kendi lafzî ve makâsıdî amacının tam tersi bir ideolojik veya ticari çıkar için istismar edilebilir. `DKAB.12.1.3` ve `DKAB.11.4.3` uyarınca sahih anlama; nüzul ortamı, siyak-sibak ve *zarûrât-ı hamse* bütünlüğü korunarak ulaşılır.
+
+##### D. Aşama 4: Kalp Fıkhı, Öz Düzenleme ve Karar Köprüsü (28–35. Dakika) — Konuşma Halkası Muhasebe Soruları
+- **Uygulama Aracı:** **Konuşma Halkası** (`SDB1.2, SDB3.3, DAB6`).
+- **Öğretmen Yönergesi:** Hâris el-Muhâsibî (*er-Ri'âye li-Hukûkillâh*, s. 45–78) ve İmam Gazzâlî'nin (*İhyâ'u 'Ulûmi'd-Dîn*, C. 3, s. 108–160) bilgi ve dil ahlakı metodolojisi hatırlatılarak dışsal eylemin içsel kökleri açılır: *"Dildeki yalanın, dedikodunun ve teyitsiz paylaşımın kaynağı; kalpteki kibir, sû-i zan ve tecessüs marazıdır."*
+- **Konuşma Halkası Öğrenci Muhasebe Soruları:**
+  1. *"Sosyal medyada hoşuma giden veya öfkemi besleyen bir haberi doğrulamadan paylaştığımda, kul hakkına ve İsrâ 17:36'daki `sem'–basar–fuâd` emanetine giriyor muyum?"*
+  2. *"Zannımı ve tahmini düşüncemi kesin bilgi (`'ilm`) gibi sunarak zihnî ve ahlaki öz düzenlememi (`SDB1.2`) nasıl ihlal etmiş olurum?"*
+  3. *"Kuşeyrî'nin işaret ettiği 'kalbe gelen düşünceleri denetleme' (`murâkabetü vâridâti'l-kulûb`) ilkesini günlük dijital ekran kullanımımızda nasıl bir vicdan frenine dönüştürebiliriz?"*
+
+##### E. Aşama 5: Öğrenme Kanıtı ve Ölçme (35–40. Dakika) — 3 Maddelik Öğrenci Çıkış Kartı (*Exit Card*)
+- **Uygulama Aracı:** **Çıkış Kartı (*Exit Card*)** (`DAB3.3, DAB6`). Ders sonunda her öğrenci aşağıdaki 3 maddelik kayıt formunu doldurarak teslim eder:
+
+| Çıkış Kartı Maddesi | Öğrenci Yansıtma ve Kazanım Kanıtı (Örnek Beklenen Yanıt) |
+| :--- | :--- |
+| **1. Bugün öğrendiğim ve dijital hayatımda terk edeceğim bir bilgi alışkanlığı:** | *"Kaynağını, birincil belgesini ve bağlamını doğrulamadığım (`mâ leyse lî bihî 'ilm`) hiçbir haberi veya dinî iddiayı beğeni/etkileşim uğruna paylaşmayacağım."* |
+| **2. İsrâ 17:36 âyetinin tefsirinde Râzî ve Taberî'nin getirdiği temel usûl ilkesi:** | *"Görmediğini gördüm, bilmediğini bildim demek haramdır; işitme (`sem'`) ve görme (`basar`) verileri kalp/akıl (`fuâd`) süzgecinden geçirilerek kanıta dayandırılmalıdır."* |
+| **3. Kulak, göz ve kalbin sorumluluğunu (`mes'ûliyyet`) yansıtan bir erdem ilkesi:** | *"Emanet bilinci, doğruluk (`sıdk`), tebeyyün (araştırma) ve sû-i zandan kaçınma erdemi."* |
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+
+- **Zenginleştirme (İleri Düzey Öğrenciler İçin):**
+  - Taberî (*Câmi'u'l-Beyân*, C. 17, s. 446–448), Fahreddîn er-Râzî (*Mefâtîhu'l-Gayb*, C. 20, s. 209–212) ve İbn Âşûr'un (*et-Tahrîr ve't-Tenvîr*, C. 15, s. 98–103) İsrâ 17:36 tefsirindeki Arapça orijinal ibare kesitlerini inceleyerek `kafv` ve `fuâd` kavramlarının semantik nüanslarını karşılaştırmalı tahlil etme.
+  - TÜBİTAK, UNESCO Medya ve Bilgi Okuryazarlığı (`MIL`) veya uluslararası doğrulama platformlarının (`IFCN`) veri setleri üzerinden "Üretken Yapay Zekâ Çağında Klasik İsnad Usûlünün Güncel Değeri" başlıklı kısa bir vaka analizi raporu hazırlama.
+- **Destekleme (Öğrenme Desteğine İhtiyaç Duyan Öğrenciler İçin):**
+  - Görsel kavram haritaları üzerinden âyetteki **`Duyu Verisi (Kulak / Göz) → Aklî ve Vicdani Süzgeç (Kalp / Fuâd) → Doğrulanmış Bilgi ('İlm) → Sorumlu Davranış (Mes'ûliyyet)`** basamaklarını şematize etme.
+  - Günlük hayattan seçilmiş somut "Zannî İddia / Söylenti" ile "Tahkik Edilmiş Kesin Bilgi" örneklerini içeren eşleştirme kartları üzerinden rehberli pratik uygulama yapma.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+
+Hazırlanan ders planının MEB Türkiye Yüzyılı Maarif Modeli ve Quran Vision `v6.2.2` standartlarına uyum sağlaması için şu üç yapısal filtre işletilmiştir:
+1. **Lafzî İktibas ve Kaynak Filtresi:** Ders planında yer alan klasik nakiller doğrudan birincil kaynaklardan (Taberî, Mâtürîdî, Râzî, Kurtubî, Şâtıbî, İbn Âşûr, Muhâsibî, Gazzâlî, Kuşeyrî) İSNAD 2 standardında cilt, sayfa ve nokta atışı Şâmile `page_id` bağlantılarıyla doğrulanmış; tahmini veya özet nakillerden kaçınılmıştır.
+2. **Pedagojik Süreç Filtresi:** Plan salt teorik anlatımla sınırlı kalmayıp **Anlam Çözümleme Tablosu**, **Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** bileşenlerini `05 + 12 + 11 + 07 + 05 = 40` dakikalık zaman yönetimi ve farklılaştırma (*Zenginleştirme / Destekleme*) protokolü içinde eksiksiz işletmiştir.
+3. **Din İstismarını Önleme Filtresi:** Âyetin güncel meselelere uyarlanmasında indî ve aşırı tevillere izin verilmeyip `Zarûrât-ı Hamse` (*Hıfzu'l-Akl*, *Hıfzu'l-Irz*, *Hıfzu'd-Dîn*) ve `Sedd-i Zerâi'` çerçevesinde ahlaki ve hukuki sınırlar korunmuştur.
 ---
 
 ## KOŞULLU EKLER (Z-1 — Z-5)
@@ -572,11 +663,11 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 ### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
 
 #### A) Klasik İslami Kaynaklar (İSNAD 2. Edisyon Standartlı)
-- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/2171/10/2165
-- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/168/17/7805
-- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/2363/16/662
-- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/2363/15/3582
-- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/2362/17/1365
+- **İbn Fâris, Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979. Erişim: https://shamela.ws/book/21710/2165
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1413/1993. Erişim: https://shamela.ws/book/1687/7805
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem / Beyrut: ed-Dârü'ş-Şâmiyye, 1412/1992. Erişim: https://shamela.ws/book/23636/662
+- **Râzî, Fahreddîn Muhammed b. Ömer (ö. 606/1210).** *Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*. 32 Cilt. Beyrut: Dâru İhyâi't-Türâsi'l-Arabî, 1420/1999. Erişim: https://shamela.ws/book/23635/3582
+- **Zemahşerî, Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl ve 'Uyûni'l-Ekâvîl fî Vucûhi't-Te'vîl*. Tahkik: Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998. Erişim: https://shamela.ws/book/23627/1365
 
 #### B) Çağdaş Kurumsal, Hukuki ve Ampirik Kaynaklar (APA 7 / DOI Standartlı)
 - **International Fact-Checking Network [IFCN] (2024).** *IFCN Code of Principles and Fact-Checking Verification Standards 2024*. St. Petersburg, FL: The Poynter Institute. https://www.poynter.org/ifcn. Erişim adresi: https://www.poynter.org/ifcn

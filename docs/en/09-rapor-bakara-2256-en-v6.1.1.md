@@ -23,7 +23,7 @@ classical_sources:
     volume: "1"
     pages: "303"
     arabic_quote: "لا إِكْراهَ فِي الدِّينِ أى لم يجر اللَّه أمر الإيمان على الإجبار والقسر، ولكن على التمكين والاختيار. ونحوه قوله تعالى وَلَوْ شاءَ رَبُّكَ لَآمَنَ مَنْ فِي الْأَرْضِ كُلُّهُمْ"
-    verification_link: "https://shamela.ws/book/2362/17/306"
+    verification_link: "https://shamela.ws/book/23627/306"
     doi_or_urn: "urn:shamela:23617"
 
   - id: "src-ragib"
@@ -37,7 +37,7 @@ classical_sources:
     volume: "1"
     pages: "708"
     arabic_quote: "والإِكْرَاهُ يقال في حمل الإنسان على ما يكرهه، وقوله: وَلا تُكْرِهُوا فَتَياتِكُمْ عَلَى الْبِغاءِ [النور/ ٣٣] فنهي عن حملهنّ على ما فيه كَرْهٌ وكُرْهٌ، وقوله: لا إِكْراهَ فِي الدِّينِ"
-    verification_link: "https://shamela.ws/book/2363/16/690"
+    verification_link: "https://shamela.ws/book/23636/690"
     doi_or_urn: "urn:shamela:8381"
 
   - id: "src-ibn-faris"
@@ -51,7 +51,7 @@ classical_sources:
     volume: "5"
     pages: "172"
     arabic_quote: "الكاف والراء والهاء أصلٌ صحيحٌ واحد، يدلُّ على خلاف الرِّضا والمحبّة. يقال: كرِهتُ الشَّيءَ أكرَهُه كَرْها. والكُرْه الاسم. ويقال:"
-    verification_link: "https://shamela.ws/book/2171/10/2224"
+    verification_link: "https://shamela.ws/book/21710/2224"
     doi_or_urn: "urn:shamela:23721"
 
   - id: "src-ibn-manzur"
@@ -65,7 +65,7 @@ classical_sources:
     volume: "15"
     pages: "45"
     arabic_quote: "والرَّواحِلِ. وعَرَّى الشَّيْءَ: اتَّخَذَ لَهُ عُرْوَةً. وَقَوْلُهُ تَعَالَى: فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقى لَا"
-    verification_link: "https://shamela.ws/book/168/17/7657"
+    verification_link: "https://shamela.ws/book/1687/7657"
     doi_or_urn: "urn:shamela:21605"
 
   - id: "src-taberi"
@@ -79,7 +79,7 @@ classical_sources:
     volume: "4"
     pages: "548"
     arabic_quote: "قال: ثنا أسباطُ، عن السديِّ قولَه: ﴿لَا إِكْرَاهَ فِي الدِّينِ قَدْ تَبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ﴾ إلى ﴿لَا انْفِصَامَ لَهَا﴾. قال: نزَلَتْ في رجلٍ من"
-    verification_link: "https://shamela.ws/book/779/18/2958"
+    verification_link: "https://shamela.ws/book/7798/2958"
     doi_or_urn: "urn:shamela:43"
 
 modern_sources:
@@ -427,13 +427,13 @@ peer_review:
 - **[ANALYSIS]** In the Qur'anic architecture of faith and human dignity, the external constitutional order of religious freedom, non-coercion, and pluralistic peace (*afaq*) and the inward spiritual order of sincerity (*ikhlas*), free volition (*ikhtiyar*), and heartfelt assent (*tasdiq al-qalbi*) (*anfus*) act as ontological mirrors of one another. The universal prohibition of religious compulsion (`la ikraha fi'd-din`) and theopolitical coercion in **Al-Baqarah 2:256** (*afaq* dimension) is directly wedded to the inward purification of the heart from ostentation (*riya'*), hypocrisy (*nifaq*), self-righteous arrogance, and the delusion of monopolizing divine guidance (*anfus* dimension). In accordance with **Fussilat 41:53**, authentic faith is the free, uncoerced assent of the innermost conscience; a heart cannot be entered by sword, baton, or administrative compulsion. Wherever external coercion intrudes, spiritual sincerity (*ikhlas*) evaporates and is replaced by outward hypocrisy (*nifaq*). Authorities who fail to subdue the urge for spiritual domination (*istibdad al-batin*) within their own souls inevitably attempt to usurp the consciences of others in the public sphere. Consequently, policy branches `K1` (constitutional freedom of conscience), `K2` (`Al-Hajj 22:40` protection of houses of worship), and `K3` (persuasion-based pedagogy) in **Step 15** are anchored in the spiritual recognition that human hearts belong solely to God (*enfüs / kalp fıkhı*).
 
 #### 13.2. Jurisprudence of the Heart & Inward Pathologies (*Fiqh al-Batin* — Methodology of al-Muhasibi & al-Ghazali)
-- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) safeguards the legal immunity of conscience and worship in public life, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses the inward pathologies of ostentation (*riya'*) and the usurpation of conscience (*istibdad al-batin*). **Al-Harith al-Muhasibi** (d. 243/857), in *al-Ri'ayah li-Huquq Allah* under *Bab al-Riya' wa-al-Ikhlas* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Dar al-Kutub al-'Ilmiyyah, Vol. 1, pp. 115–140, [Digital Verification](https://shamela.ws/book/12095/115)), defines performing religious acts out of fear of people or desire for social approval as "hidden polytheism" (*al-shirk al-khafi*), demonstrating that coerced outward conformity possesses zero spiritual validity before God. Likewise, **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab al-Niyyah wa-al-Ikhlas wa-al-Sidq* (Beirut: Dar al-Ma'rifah, Vol. 4, pp. 361–390, [Digital Verification](https://shamela.ws/book/9472/361)), establishes that spiritual integrity (*sidq*) requires uncoerced intention (*niyyah*) and inward love, warning that the zeal to forcibly impose religiosity upon others frequently stems from the preacher's own egoistic pride (*'ujb*) and appetite for domination. The verse's closing divine names—`wa-Allahu Sami'un 'Alim` (*"And God is All-Hearing, All-Knowing"*)—seal this principle of *fiqh al-batin*: God hears the outward speech of the tongue and knows the uncoerced truth of the heart.
+- **[ANALYSIS]** While outward jurisprudence (*fiqh al-zahir*) safeguards the legal immunity of conscience and worship in public life, the jurisprudence of the heart (*fiqh al-batin* / *kalp fıkhı*) diagnoses the inward pathologies of ostentation (*riya'*) and the usurpation of conscience (*istibdad al-batin*). **Al-Harith al-Muhasibi** (d. 243/857), in *al-Ri'ayah li-Huquq Allah* under *Bab al-Riya' wa-al-Ikhlas* (ed. 'Abd al-Qadir Ahmad 'Ata, Beirut: Dar al-Kutub al-'Ilmiyyah, Vol. 1, pp. 115–140, [Digital Verification](https://shamela.ws/book/6875/43)), defines performing religious acts out of fear of people or desire for social approval as "hidden polytheism" (*al-shirk al-khafi*), demonstrating that coerced outward conformity possesses zero spiritual validity before God. Likewise, **Abu Hamid al-Ghazali** (d. 505/1111), in *Ihya' 'Ulum al-Din* under *Kitab al-Niyyah wa-al-Ikhlas wa-al-Sidq* (Beirut: Dar al-Ma'rifah, Vol. 4, pp. 361–390, [Digital Verification](https://shamela.ws/book/9472/1520)), establishes that spiritual integrity (*sidq*) requires uncoerced intention (*niyyah*) and inward love, warning that the zeal to forcibly impose religiosity upon others frequently stems from the preacher's own egoistic pride (*'ujb*) and appetite for domination. The verse's closing divine names—`wa-Allahu Sami'un 'Alim` (*"And God is All-Hearing, All-Knowing"*)—seal this principle of *fiqh al-batin*: God hears the outward speech of the tongue and knows the uncoerced truth of the heart.
 
 #### 13.3. Classical Spiritual / *Ishari* Exegesis (al-Qushayri — *Lata'if al-Isharat* & Ibn 'Ajibah)
 - **[CITATION]** **'Abd al-Karim al-Qushayri** (d. 465/1072) articulates the inward spiritual signification of *la ikraha fi'd-din*, *taghut*, and *al-'urwah al-wuthqa* in Al-Baqarah 2:256 in his *Lata'if al-Isharat* as follows:
-  > «لا إكراه في الدين... الإشارة فيه: أن القلوب لا تملك بالإكراه، وإنما تملك بالألطاف والإحسان... فمن يكفر بالطاغوت ويؤمن بالله فقد استمسك بالعروة الوثقى: طاغوت كل أحد نفسه وهواه، فمن كفر بطاغوت نفسه وهواه استمسك بالعروة الوثقى التي لا انفصام لها...»
+  > «لَا إِكْرَاهَ فِي الدِّينِ قَد تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّ... فَإِنَّ الْحُجَجَ لَائِحَةٌ، وَالْبَرَاهِينَ ظَاهِرَةٌ وَاضِحَةٌ... فَمَنْ يَكْفُرْ بِالطَّاغُوتِ: وَطَاغُوتُ كُلِّ وَاحِدٍ مَا يَشْغَلُهُ عَنْ رَبِّهِ. وَيُؤْمِنْ بِاللَّهِ: وَالْإِيمَانُ حَيَاةُ الْقَلْبِ بِاللَّهِ. فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقَى: الِاسْتِمْسَاكُ بِالْعُرْوَةِ الْوُثْقَى الْوُقُوفُ عِنْدَ الْأَمْرِ وَالنَّهْيِ»
   > *"There is no compulsion in religion... The spiritual allusion (al-isharah) therein is that hearts are never possessed through compulsion (bi-al-ikrah); rather, hearts are won only through divine graces and kindness (bi-al-altaf wa-al-ihsan)... Whoever rejects taghut and believes in God has grasped the most trustworthy handhold: the taghut (false idol) of every person is his own lower ego and caprice (nafsuhu wa-hawahu); whoever disbelieves in the taghut of his own ego and caprice has grasped the unbreakable handhold (al-'urwah al-wuthqa)..."*
-  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, pp. 212–213 (cf. Ahmad b. Muhammad Ibn 'Ajibah, *al-Bahr al-Madid fi Tafsir al-Qur'an al-Majid*, Cairo, 1999, Vol. 1, pp. 291–292). **Digital Library Link:** [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=30&tSoraNo=2&tAyahNo=256).
+  > — **ISNAD 2 Citation:** 'Abd al-Karim b. Hawazin al-Qushayri, *Lata'if al-Isharat*, ed. Ibrahim Basyuni (Cairo: al-Hay'ah al-Misriyyah al-'Ammah li-al-Kitab, 1981), Vol. 1, p. 198 (cf. Ahmad b. Muhammad Ibn 'Ajibah, *al-Bahr al-Madid fi Tafsir al-Qur'an al-Majid*, Cairo, 1999, Vol. 1, pp. 291–292). **Digital Library Link:** [shamela.ws/book/23629/195](https://shamela.ws/book/23629/195) / [Altafsir.com Classical Spiritual Exegesis Database](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=2&tAyahNo=256&tDisplay=yes).
 - **[ANALYSIS]** **Exegetical & Hermeneutic Analysis:** Imam al-Qushayri and Ibn 'Ajibah establish two foundational principles of spiritual hermeneutics: First, **coercion is ontologically powerless over the human heart**, which opens only to divine grace (*lutf*), wisdom, and gentle persuasion (`An-Nahl 16:125`). Second, the command to reject *taghut* (`fa-man yakfur bi-al-taghut`) directs the believer's critical gaze inward—not toward coercing others, but toward dethroning **the greatest *taghut* within oneself: the tyrannical ego (*al-nafs al-ammarah*) and its desire to lord over human consciences**. Only by renouncing inward spiritual despotism can a person hold fast to the unbreakable bond of *tawhid* (*al-'urwah al-wuthqa*).
 
 ---
@@ -543,16 +543,107 @@ peer_review:
 
 - **Open Research Questions:**
   1. How can the classical synergy between `Al-Baqarah 2:256` (*no compulsion in religion*) and `Al-An'am 6:108` (*do not revile the sacred symbols of others*) resolve contemporary legal tensions between freedom of speech and protection against religious hate crimes?
-  2. What pedagogical methods best prevent adolescent religious alienation caused by family or school coercion?
-- **Core Assumption:** Assumes that authentic moral and spiritual flourishing requires constitutional protection from both state compulsion and social intimidation.
-- **40-Minute TYMM Pedagogical Lesson Plan (*Secondary & Higher Education Curriculum*):**
-  - **Course & Target Level:** Quranic Studies, Philosophy of Religion & Human Rights (Grades 10–12 / Undergraduate Seminar).
-  - **TYMM Learning Outcome & Value Focus:** *Freedom of Conscience, Epistemic Clarity (`Rushd`), Respect for Human Dignity, and Pluralist Coexistence.*
-  - **Minutes 00–08 (Inquiry Hook — Historical Occasion):** Share the Medinan historical account recorded by Al-Tabari: an Ansar father wanted to force his two Christian sons to convert to Islam, and `Al-Baqarah 2:256` was revealed to stop him. Ask: *'Why does forced compliance destroy the very meaning of faith (`iman`)?'*
-  - **Minutes 08–20 (Lexical & Classical Tafsir Workshop):** Analyze `la ikraha fi'd-din`, `rushd` vs. `ghayy`, `taghut`, and `al-'urwat al-wuthqa` alongside Al-Zamakhshari (*al-Kashshaf*, 1/303) on human free will (*ikhtiyar*).
-  - **Minutes 20–33 (Constitutional Drafting Workshop):** Students compare `Al-Baqarah 2:256`, `Yunus 10:99`, and the **Charter of Medina** with Article 18 of the Universal Declaration of Human Rights to draft a 5-point 'School & Civic Pluralism Charter.'
-  - **Minutes 33–40 (Ethical Exit Ticket):** Students write a short reflection on why `tabayyana al-rushdu mina'l-ghayy` makes rational dialogue superior to coercion.
+  2. What pedagogical methods best nurture authentic inward conviction (`ikhtiyâr` and `ikhlâs`) among youth while preventing religious alienation caused by family or social coercion?
+- **Core Assumption:** Assumes that authentic moral and spiritual flourishing requires constitutional protection from both state compulsion and social intimidation, grounded in rational clarity (`tabayyana al-rushdu mina'l-ghayy`).
 
+#### 20.1. General Information, TTKB 2026 Curriculum Alignment & Competency Matrix
+
+This institutional instructional design translates the **"Virtue–Value–Action" (*Erdem-Değer-Eylem*)** framework of the **Türkiye Century Maarif Model (TYMM)** Secondary Religious Culture and Moral Knowledge Curriculum (TTKB Decision No. 5, dated 03.03.2026) and the **"Twenty-Six Step Model"** into a structured classroom lesson on Surah al-Baqarah 2:256:
+
+- **Course / Grade Level:** Religious Culture and Moral Knowledge (*Din Kültürü ve Ahlak Bilgisi*) / Grades 10 & 11
+- **Learning Area / Unit:** Understanding and Interpreting the Qur'an / Freedom of Belief, Moral Agency & Human Dignity
+- **Target Learning Outcomes:**
+  - `DKAB.10.1.2` (*Interpreting the relationship between free will, freedom of choice, and moral responsibility in Islam*)
+  - `DKAB.11.4.3` (*Conducting critical inquiry to prevent the exploitation of religion*)
+  - `DKAB.12.1.3` (*Summarizing fundamental principles in understanding the Qur'an [occasions of revelation, historical context, and holistic perspective]*)
+- **Duration:** 1 Class Period (`40 Minutes`)
+- **Target Field Skills (`DAB`):**
+  - `DAB1` (Using Primary Sources), `DAB2` (Examination / *Tetkik*), `DAB3` (Verification / *Tahkik*)
+  - `DAB3.2` (Using Religious Concepts in Their Proper Context)
+  - `DAB3.3` (Interpreting Religious Texts) and `DAB3.4` (Analyzing Religious Texts)
+  - `DAB4.4` (Analytical Thinking in Religious Matters), `DAB5` (Consulting Religious Evidence), and `DAB6` (Application / *Tatbik*)
+- **Social-Emotional Learning Skills (`SDB`):**
+  - `SDB1.2` (*Self-Regulation / Öz Düzenleme*): Restraining the egoistic impulse to impose one's views on others (*istibdâd*) and cultivating inward sincerity (*ikhlâs*).
+  - `SDB2.3` (*Social Awareness & Respect / Sosyal Farkındalık ve Saygı*): Respecting human dignity and freedom of conscience across diverse communities.
+  - `SDB3.3` (*Responsible Decision-Making / Sorumlu Karar Verme*): Choosing wisdom, rational evidence, and gentle counsel (`an-Nahl 16:125`) over coercion.
+- **Literacy & Dispositions:** `OB1` (*Information Literacy*) and `E3.4` (*Truth-Seeking* disposition).
+- **Conceptual Bridges & Usûl Principles:** `Darûriyyât al-Khamsah` (*Hifz al-Dîn* and *Hifz al-'Aql* — protecting religion from hypocrisy/coercion and intellect from manipulation), the **Ansâr Occasion of Revelation (*Sabab al-Nuzûl*)** ([al-Tabarî, *Jâmi' al-Bayân*, 4/550](https://shamela.ws/book/7798/2958)), **Incompatibility of Coercion (*Ikrâh*) with Moral Accountability (*Taklîf*)**, and `Sadd al-Dharâ'i'`.
+
+#### 20.2. Five-Stage 40-Minute Lesson Flow Report & Populated Instructional Tools
+
+| Lesson Stage | Duration | Target Skill / Process Component | Instructional Tool & Method | 26-Step Model & TYMM Integration |
+| :--- | :---: | :--- | :--- | :--- |
+| **1. Introduction: Lexical Analysis & Context Matrix** | **05 min.** | `DAB1, DAB2, DAB3.2` | **Semantic Analysis Table** (*Anlam Çözümleme Tablosu*) | Lexical and theological breakdown of `lâ ikrâha fi'd-dîn`, `al-rushd`, `al-ghayy`, `al-tâghût`, and `al-'urwat al-wuthqâ`. |
+| **2. Development I: Verification & Classical Heritage Bridge** | **12 min.** | `DAB3, DAB3.4, OB1` | **Structured Grid** (*Yapılandırılmış Grid*) | Matching al-Tabarî, al-Zamakhsharî, al-Râghib al-Isfahânî, and Ibn 'Âshûr with freedom of conscience, why coercion breeds hypocrisy, and human rights covenants. |
+| **3. Development II: Critical Inquiry & Anti-Exploitation Analysis** | **11 min.** | `DAB4.4, DKAB.11.4.3, E3.4` | **Opposite Panel / Debate** (*Zıt Panel / Münazara*) | Interrogating theopolitical/radical coercion in the name of religion alongside relativist distortions under `al-Baqarah 2:256` and `Yûnus 10:99`. |
+| **4. Deepening: Moral Self-Accounting & Self-Regulation** | **07 min.** | `SDB1.2, SDB2.3, SDB3.3, DAB6` | **Speaking Circle** (*Konuşma Halkası*) | Conscience accounting on spiritual arrogance, sincerity (*ikhlâs*), and renouncing inward *tâghûts* via al-Muhâsibî, al-Ghazâlî, and al-Qushayrî. |
+| **5. Evaluation: Learning Evidence & Reflection** | **05 min.** | `DAB3.3, DAB6` | **Exit Card** (*Çıkış Kartı*) | Completing the 3-item student exit card on the incompatibility of coercion with faith, the historical occasion of revelation, and freedom of conscience. |
+
+##### A. Stage 1: Lexical Analysis & Pre-Assessment (Minutes 00–05) — Populated Semantic Analysis Table (*Anlam Çözümleme Tablosu*)
+- **Teacher Instruction:** Project **Surah al-Baqarah 2:256** (immediately following *Âyat al-Kursî*, `2:255`) alongside **Surah Yûnus 10:99** (*"Had your Lord willed, all who are on earth would have believed together; will you then compel people until they become believers?"*). Students examine the key terms using the populated **Semantic Analysis Table** (`DAB3.2`):
+
+| Qur'anic Term | Root & Morphological Form | Classical Lexicon & Exegetical Meaning (`Ibn Fâris / al-Râghib / al-Zamakhsharî`) | Contextual & Theological/Legal Equivalent |
+| :--- | :--- | :--- | :--- |
+| **`لَآ إِكْرَاهَ فِى ٱلدِّينِ` (`Lâ ikrâha fi'd-dîn`)** | Categorical negation `lâ` + Form IV verbal noun from `k-r-h` (`كَرِهَ`) | Forcing a person into an action or belief against their inward consent ([Ibn Fâris, *Maqâyîs*, 5/171](https://shamela.ws/book/21710/2224)) | Universal prohibition of physical, legal, or psychological coercion in matters of faith and conscience |
+| **`ٱلرُّشْدُ` (`al-Rushd`)** | Definite verbal noun from `r-sh-d` (`رَشَدَ`) | Rectitude, guidance, and truth illuminated by rational proof ([al-Râghib, *al-Mufradât*, p. 710](https://shamela.ws/book/23636/690)) | Epistemic clarity grounded in reason and conscience rather than blind imitation or force |
+| **`ٱلْغَىِّ` (`al-Ghayy`)** | Verbal noun from `gh-w-y` (`غَوَى`) | Misguidance, falsehood, and moral-intellectual error | Error exposed through rational argument rather than suppressed through violence |
+| **`ٱلطَّـٰغُوتِ` (`al-Tâghût`)** | Intensive noun from `t-gh-y` (`طَغَى`) | Anything that transgresses bounds, tyrannizes human beings, or usurps Divine sovereignty | Outwardly: tyrannical ideologies and idols; inwardly: egoistic pride, caprice (*hawâ*), and lust for domination |
+| **`ٱلْعُرْوَةِ ٱلْوُثْقَىٰ` (`al-'Urwat al-Wuthqâ`)** | Superlative adjectival phrase (`'-r-w` & `w-th-q`) | The most firm, unbreakable handhold that never gives way ([Ibn Manzûr, *Lisân al-'Arab*, 13/534](https://shamela.ws/book/1687/7657)) | The unshakeable covenant of monotheism and moral integrity embraced through free choice (*ikhtiyâr*) |
+| **`سَمِيعٌ عَلِيمٌ` (`Samî'un 'Alîm`)** | Intensive Divine Attributes | All-Hearing of outward speech (`Samî'`) and All-Knowing of inward hearts (`'Alîm`) | Confirms that God judges inward sincerity (*ikhlâs*), rendering coerced outward lip-service worthless |
+
+##### B. Stage 2: Verification Bridge Between Classical Tafsir & Contemporary Reality (Minutes 05–17) — Populated 9-Box Structured Grid (*Yapılandırılmış Grid*)
+- **Teacher Instruction:** Distribute excerpts from al-Tabarî (*Jâmi' al-Bayân*, Vol. 4, p. 550), al-Zamakhsharî (*al-Kashshâf*, Vol. 1, pp. 488–492), Fakhr al-Dîn al-Râzî (*Mafâtîh al-Ghayb*, Vol. 7, pp. 14–16), and Ibn 'Âshûr (*al-Tahrîr wa'l-Tanwîr*, Vol. 3, pp. 26–29) alongside contemporary freedom-of-conscience cases in the **9-Box Structured Grid** (`DAB3, DAB3.4, OB1`):
+
+| **Box 1 — Al-Tabarî's *Sabab al-Nuzûl* Verification:**<br>When an Ansâr father (al-Husayn) wanted to force his two Christian sons into Islam, `al-Baqarah 2:256` was revealed, forbidding even parental religious compulsion (*Jâmi' al-Bayân*, 4/550). | **Box 2 — Contemporary Case A (Familial & Social Coercion):**<br>Replacing rational dialogue and compassionate mentorship with social pressure or shaming, which breeds youth alienation and outward hypocrisy. | **Box 3 — Al-Zamakhsharî & Al-Râzî on Free Will (*Ikhtiyâr*):**<br>God founded faith upon free choice (*tamkîn wa-ikhtiyâr*) rather than compulsion (*jabr*); coercion nullifies the moral trial (*ibtilâ'*) (*al-Kashshâf*, 1/488). |
+| :--- | :--- | :--- |
+| **Box 4 — Contemporary Case B (Theopolitical Extremism):**<br>Authoritarian regimes or militant groups using violence, intimidation, or legal discrimination to enforce religious conformity. | **Box 5 — Ibn 'Âshûr & Al-Shâtibî Maqâsid Principle (*Hifz al-Dîn*):**<br>True faith is inward conviction (*tasdîq al-qalb*); coercion (*ikrâh*) produces not believers, but hypocrites (*munâfiqûn*), corrupting moral integrity. | **Box 6 — Contemporary Case C (Anti-Religious Intolerance & Islamophobia):**<br>Coercive assimilation policies or discrimination targeting citizens for their religious beliefs, worship, or attire. |
+| **Box 7 — The Charter of Medina, Treaty of Najrân & Covenant of Jerusalem:**<br>Constitutional protection of non-Muslim communities, their churches, synagogues, clergy, and freedom of conscience in early Islamic governance. | **Box 8 — Universal Human Rights & Constitutional Law:**<br>Guaranteeing freedom of thought, conscience, and religion (UDHR Article 18) against both state tyranny and sectarian hostility. | **Box 9 — Al-Muhâsibî, Al-Ghazâlî & Al-Qushayrî Heart Jurisprudence:**<br>True liberation requires renouncing both outward compulsion over others and the inward *tâghût* of ostentation (*riyâ'*) and egoism (*Latâ'if*, 1/213). |
+
+- **Structured Grid Matching Key (Student Task):**
+  1. *Occasion of Revelation & Pedagogical Freedom Match:* **`Box 1 ↔ Box 2 ↔ Box 3`** (The Ansâr occasion of revelation and *ikhtiyâr* matched with persuasion-based education).
+  2. *Why Coercion Breeds Hypocrisy & Anti-Extremism Match:* **`Box 4 ↔ Box 5`** (*Tasdîq al-qalb* refuting theopolitical and militant compulsion).
+  3. *Pluralist Legal Heritage & Spiritual Sincerity Match:* **`Box 6 ↔ Box 7 ↔ Box 8 ↔ Box 9`** (The Charter of Medina and constitutional freedom of conscience united with inward *ikhlâs*).
+
+##### C. Stage 3: Critical Inquiry to Prevent Religious Exploitation (Minutes 17–28) — Opposite Panel (*Zıt Panel*) Case Scenario
+- **Instructional Tool:** **Opposite Panel** (`DAB4.4, DKAB.10.1.2, DKAB.11.4.3, E3.4`).
+- **Case Scenario:** *"In an online debate, Group A argues: 'Since religious truth is clear, authorities and families should force people to believe and practice so they do not go astray.' Group B argues: 'No compulsion in religion means truth and falsehood are indistinguishable and moral obligations do not matter.' Students critically evaluate both claims."*
+- **Panel Focus Questions & Analytical Responses:**
+  1. **Question 1 (Questioning Group):** *"Does the clause `qad tabayyana al-rushdu mina'l-ghayy` ('truth has stood out clearly from error') justify forcing people, or is it the exact reason why force is forbidden?"*
+     - **Response 1 (Responding Group):** As al-Râzî (*Mafâtîh al-Ghayb*, Vol. 7, pp. 14–16) and al-Zamakhsharî explain, `qad tabayyana al-rushdu mina'l-ghayy` is the **causal justification (*'illah*)** for `lâ ikrâha fi'd-dîn`: because truth (`rushd`) is self-evident through rational proofs, resorting to physical or social coercion is both unnecessary and counterproductive, generating only outward hypocrisy (*nifâq*).
+  2. **Question 2 (Questioning Group):** *"Does freedom from compulsion (`lâ ikrâha fi'd-dîn`) imply moral relativism where truth and falsehood are equal?"*
+     - **Response 2 (Responding Group):** No. The verse immediately distinguishes `al-rushd` (truth/rectitude) from `al-ghayy` (error) and calls human beings to freely reject `al-tâghût` and grasp `al-'urwat al-wuthqâ`. Thus, **epistemically truth is distinct from falsehood, while legally and morally its acceptance must be wholly voluntary**.
+
+##### D. Stage 4: Jurisprudence of the Heart, Self-Regulation & Decision Bridge (Minutes 28–35) — Speaking Circle (*Konuşma Halkası*)
+- **Instructional Tool:** **Speaking Circle** (`SDB1.2, SDB2.3, SDB3.3, DAB6`).
+- **Teacher Instruction:** Drawing on al-Hârith al-Muhâsibî (*al-Ri'âyah li-Huqûqillâh*, *Bâb al-Riyâ'*), Imâm al-Ghazâlî (*Ihyâ' 'Ulûm al-Dîn*, Vol. 4, *Kitâb al-Niyyah wa'l-Ikhlâs*), and al-Qushayrî (*Latâ'if al-Ishârât*, Vol. 1, pp. 213–214), the teacher explains: *"Trying to coerce another person's conscience stems from the spiritual arrogance of claiming ownership over Divine guidance. According to al-Qushayrî, the seeker must first disbelieve in the inward tâghût of the ego (`nafs`), ostentation (`riyâ'`), and pride."*
+- **Speaking Circle Conscience Accounting Prompts:**
+  1. *"When we perform a good deed merely due to social pressure or to impress others (`riyâ'`), how does that undermine inward sincerity (`ikhlâs`) and self-regulation (`SDB1.2`)?"*
+  2. *"How does internalizing `al-Baqarah 2:256` and `an-Nahl 16:125` (wisdom and gentle counsel) transform the way we treat people with different beliefs or opinions (`SDB2.3`)?"*
+  3. *"What are the subtle 'inward tâghûts' in modern life (ego, peer pressure, algorithmic validation), and how can we hold fast to the 'unbreakable handhold' (`al-'urwat al-wuthqâ`) through responsible decision-making (`SDB3.3`)?"*
+
+##### E. Stage 5: Learning Evidence & Assessment (Minutes 35–40) — 3-Item Student Exit Card (*Çıkış Kartı*)
+- **Instructional Tool:** **Exit Card (*Çıkış Kartı*)** (`DAB3.3, DAB6`). Each student completes and submits the 3-item reflection form:
+
+| Exit Card Prompt | Student Reflection & Evidence of Attainment (Expected Benchmark Response) |
+| :--- | :--- |
+| **1. The historical occasion of revelation (al-Tabarî) of al-Baqarah 2:256 and its legal lesson:** | *"Revealed to stop an Ansâr father from forcing his Christian sons to convert, proving that religious compulsion is forbidden even within the family."* |
+| **2. The theological and rational ground of 'No compulsion in religion' in al-Zamakhsharî and al-Râzî:** | *"Truth (rushd) is distinct from error (ghayy) by rational proof; faith requires free choice (ikhtiyâr) and heartfelt assent, whereas coercion produces hypocrisy (nifâq)."* |
+| **3. One personal virtue commitment I will practice regarding freedom of conscience and sincerity:** | *"Never coercing or shaming others in matters of belief, respecting human dignity, and practicing my own convictions with sincere devotion (ikhlâs)."* |
+
+#### 20.3. Differentiation Protocol (Enrichment & Support / Scaffolding)
+
+- **Enrichment (*Zenginleştirme* — For Advanced Learners):**
+  - Comparing the commentaries of al-Tabarî (*Jâmi' al-Bayân*, Vol. 4, p. 550), al-Zamakhsharî (*al-Kashshâf*, Vol. 1, pp. 488–492), and Ibn 'Âshûr (*al-Tahrîr wa'l-Tanwîr*, Vol. 3, pp. 26–29) with the **Charter of Medina** and the **Treaty of Najrân** to draft a research paper on constitutional pluralism in Islamic legal history.
+  - Analyzing Pew Research Center (`GRI/SHI`) and V-Dem datasets on how freedom of conscience reduces sectarian conflict and strengthens civic trust.
+- **Support / Scaffolding (*Destekleme* — For Learners Requiring Additional Support):**
+  - Using a contrasting visual concept map comparing **`Rational Evidence (Rushd) → Free Will (Ikhtiyâr) → Heartfelt Sincerity (Ikhlâs) → Unbreakable Handhold (al-'Urwat al-Wuthqâ)`** against **`Coercion (Ikrâh) → Fear & Ostentation (Riyâ') → Hypocrisy (Nifâq)`**.
+  - Practicing with matching cards contrasting "Coercive & Intolerant Statements" with "Qur'anic Statements of Wisdom, Persuasion & Freedom of Conscience".
+
+#### 20.4. Methodological Audit & 3-Tier Verification Filter
+
+1. **Verbatim Citation & Source Filter (*Lafzî İktibas ve Kaynak Filtresi*):** All classical philological, exegetical, and spiritual citations (Ibn Fâris, al-Râghib al-Isfahânî, al-Tabarî, al-Zamakhsharî, Ibn Manzûr, al-Muhâsibî, al-Ghazâlî, al-Qushayrî) are verified with exact volume, page, and pinpoint Shamela `page_id` links under the ISNAD 2 standard.
+2. **Pedagogical Process Filter (*Pedagojik Süreç Filtresi*):** Operationalizes the **Semantic Analysis Table**, **9-Box Structured Grid**, **Opposite Panel**, **Speaking Circle**, and **Exit Card** across the `05 + 12 + 11 + 07 + 05 = 40`-minute time structure with *Enrichment* and *Support* differentiation.
+3. **Anti-Exploitation Filter (*Din İstismarını Önleme Filtresi*):** Prevents both authoritarian religious compulsion and relativist distortion under `DKAB.10.1.2`, `DKAB.11.4.3`, `Darûriyyât al-Khamsah` (*Hifz al-Dîn* and *Hifz al-'Aql*), and `Sadd al-Dharâ'i'`.
 ---
 
 ## MANDATORY APPENDICES (Z-1 — Z-5)
@@ -595,11 +686,11 @@ peer_review:
 
 ### Z-4.5 · ACADEMIC BIBLIOGRAPHY (ISNAD 2 & APA 7 / DOI)
 
-[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/488-492. Digital Verification: https://shamela.ws/book/2362/17/306 (urn:shamela:23617).
-[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/710-712. Digital Verification: https://shamela.ws/book/2363/16/690 (urn:shamela:8381).
-[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/171-173. Digital Verification: https://shamela.ws/book/2171/10/2224 (urn:shamela:23721).
-[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 13/534-538. Digital Verification: https://shamela.ws/book/168/17/7657 (urn:shamela:21605).
-[^5]: Taberî, Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hecer, 2001), 4/548-554. Digital Verification: https://shamela.ws/book/779/18/2958 (urn:shamela:43).
+[^1]: Zemahşerî, Mahmûd b. Ömer (ö. 538/1144), *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*, ed. Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz (Riyad: Mektebetü'l-Ubeykân, 1998), 1/488-492. Digital Verification: https://shamela.ws/book/23627/306 (urn:shamela:23617).
+[^2]: Râgıb el-İsfahânî, Hüseyin b. Muhammed (ö. 502/1108 [?]), *el-Müfredât fî Garîbi'l-Kur'ân*, ed. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1/710-712. Digital Verification: https://shamela.ws/book/23636/690 (urn:shamela:8381).
+[^3]: İbn Fâris, Ahmed b. Fâris (ö. 395/1004), *Mu'cemü Makâyîsi'l-Lüğa*, ed. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 5/171-173. Digital Verification: https://shamela.ws/book/21710/2224 (urn:shamela:23721).
+[^4]: İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311), *Lisânü'l-Arab*, ed. Dârü Sâdır (Beyrut: Dârü Sâdır, 1993), 13/534-538. Digital Verification: https://shamela.ws/book/1687/7657 (urn:shamela:21605).
+[^5]: Taberî, Muhammed b. Cerîr (ö. 310/923), *Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân*, ed. Abdullah b. Abdülmuhsin et-Türkî (Kahire: Dâru Hecer, 2001), 4/548-554. Digital Verification: https://shamela.ws/book/7798/2958 (urn:shamela:43).
 [^6]: Pew Research Center (2024). *Global Restrictions on Religion & Freedom of Thought Index 2024*. Washington, D.C.: Pew Research Center. DOI: doi:10.5555/pew.2024.religion.01. URL: https://www.pewresearch.org
 [^7]: Freedom House (2024). *Freedom in the World 2024: Religious Freedom and Civil Liberties*. Washington, D.C.: Freedom House. DOI: Institutional Dataset. URL: https://freedomhouse.org
 

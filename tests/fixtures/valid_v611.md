@@ -135,8 +135,20 @@ peer_review:
 ## ADIM 19 — İZLEME VE RETRODICTION
 - Retrodiction tarihsel doğrulaması.
 
-## ADIM 20 — AÇIK SORULAR VE VARSAYIMLAR
-- Açık araştırma soruları.
+### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
+
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+- Açık araştırma soruları ve temel varsayımlar.
+- Öğrenme Çıktısı: DKAB.10.1.3, Alan Becerileri: DAB1, DAB2, DAB3, Sosyal-Duygusal Beceriler: SDB1.2, SDB3.3.
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+- Anlam Çözümleme Tablosu, Yapılandırılmış Grid, Zıt Panel, Konuşma Halkası ve Çıkış Kartı uygulamaları.
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+- Zenginleştirme ve Destekleme basamakları.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+- Lafzî iktibas, pedagojik süreç ve din istismarını önleme filtreleri.
 
 ## Z-1 · ŞABLONA SIĞMAYAN ÖZGÜN PROBLEMATİK
 - Âyetin analitik aporia tartışması.

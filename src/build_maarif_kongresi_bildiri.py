@@ -295,7 +295,7 @@ def build_full_paper_html(isra_step20_md: str) -> str:
     <div class="title">{TITLE}</div>
     <div class="meta-box">
       {"".join(f"<div><strong>{k}:</strong> {v}</div>" for k, v in APPLICATION_META)}
-      <div><strong>Külliyat ve Açık Bilim Envanteri:</strong> 15 Kurucu Âyet Monografisi (15 TR + 15 EN = 30 Rapor) • 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat + 1 Yönetici Özeti + 1 TYMM 15 Âyet Ders Tasarımı Rehberi) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF • 176/176 Doğrulanmış Çoklu Sunucu Kaynağı (<code>127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL</code>)</div>
+      <div><strong>Külliyat ve Açık Bilim Envanteri:</strong> 15 Kurucu Âyet Monografisi (15 TR + 15 EN = 30 Rapor) • 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi (ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf) + 1 TYMM 15 Âyet Ders Tasarımı Rehberi (TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf)) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF • 176/176 Doğrulanmış Çoklu Sunucu Kaynağı (<code>127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL</code>)</div>
     </div>
   </div>
 

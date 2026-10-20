@@ -1,0 +1,41 @@
+name: V16.2 Source Registry 90-Day Freshness & Linter Cron
+
+on:
+  schedule:
+    # Her ayın 1'inde saat 06:00 UTC'de çalışır (90 günlük tazelik penceresi dolmadan erken denetim)
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+jobs:
+  reverify-sources-and-lint:
+    name: Multi-Server Source Registry & V1-V16 Linter Audit
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml pytest
+
+      - name: Run V16.2 Multi-Server Source Registry Verification (Shamela + Altafsir + Institutional DOI/URL)
+        run: |
+          python -X utf8 src/verify_all_servers.py
+
+      - name: Run GemLinter V1-V16 Full Corpus Audit (0 BLOCK, 0 WARN Gate)
+        run: |
+          python -X utf8 src/gem_lint.py --all
+
+      - name: Run V1-V16 Regression Unit Tests (14/14 Gate)
+        run: |
+          pytest -v
+
+      - name: Verify Binary SHA256SUMS Ledger (75/75 Gate)
+        run: |
+          sha256sum -c SHA256SUMS.txt

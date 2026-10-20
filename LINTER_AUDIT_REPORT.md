@@ -1,13 +1,13 @@
 # 🏛️ QURAN VISION v6.2.2 — OFFICIAL METHODOLOGICAL LINTER AUDIT REPORT
-## Resmi Metodolojik Linter Denetim Tutanağı (V1–V16, Çoklu Sunucu Sicili, C & D Şeffaflık Kayıtları & Z-1..Z-5 Katalog Devamlılığı)
+## Resmi Metodolojik Linter Denetim Tutanağı (V1–V16, Çoklu Sunucu Sicili, C & D Şeffaflık Kayıtları, 75/75 SHA-256 Dökümü & Z-1..Z-5 Katalog Devamlılığı)
 
 - **Denetim Motoru / Verification Engine:** [`src/gem_lint.py`](src/gem_lint.py) (`GemLinterV6` — `v6.2.2` V1–V16 Canonical Standard) & [`src/verify_all_servers.py`](src/verify_all_servers.py)
 - **Tek Doğruluk Kaynağı Sicili / Single Source of Truth Registry (D3 Şartı):** [`data/sources_registry.yaml`](data/sources_registry.yaml) (`176/176 VERIFIED`: `127 Shamela + 15 Altafsir + 34 Kurumsal DOI/URL`; Manuel Örneklem: `51/176 = 0.29 >= 0.10`). [`docs/source_verification_manifest.json`](docs/source_verification_manifest.json) derleme anında otomatik üretilen salt-okunur arayüz türevidir.
-- **Denetlenen Külliyat ve PDF Envanteri / Audited Corpus & PDF Inventory:** 15 Kurucu Monografi (`QV-2026-001` – `QV-2026-015`, 15 TR + 15 EN = 30 Rapor, Katman 3, H6 Zorlu Âyet Standardı) ve **34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat + 1 Yönetici Özeti + 1 TYMM 15 Âyet Ders Tasarımı Rehberi) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF**
+- **Denetlenen Külliyat ve PDF Envanteri / Audited Corpus & PDF Inventory:** 15 Kurucu Monografi (`QV-2026-001` – `QV-2026-015`, 15 TR + 15 EN = 30 Rapor, Katman 3, H6 Zorlu Âyet Standardı) ve **34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi (`ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`) + 1 TYMM 15 Âyet Ders Tasarımı Rehberi (`TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`)) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF**
 - **Proje Kurucusu, Başyazar & İç Örneklem Denetçisi / Founder, Principal Author & Internal Sample Auditor:** **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — `Mehmet Yarıcı (Project Lead — Internal Sample Audit)`)
 - **Dış Hakem Süreci / External Peer Review:** **III. Maarif Kongresi (MOIJUB) Hakem Kurulu** *(Dış hakem değerlendirmesi III. Maarif Kongresi hakem süreci kapsamında yürütülecektir; başvurusu yapılmıştır)*
 - **Kalıcı CERN / Zenodo DOI:** [`10.5281/zenodo.23410818`](https://doi.org/10.5281/zenodo.23410818) *(Concept DOI: [`10.5281/zenodo.23391192`](https://doi.org/10.5281/zenodo.23391192))*
-- **Kriptografik Ana Manifesto / Master Hash Ledger:** [`SHA256SUMS.txt`](SHA256SUMS.txt) (`sha256sum -c SHA256SUMS.txt` • `.gitattributes` `LF` + `binary` kilidi)
+- **Kriptografik Ana Manifesto / Master Hash Ledger:** [`SHA256SUMS.txt`](SHA256SUMS.txt) (`75/75 OK, 0 FAIL` • `30 TR/EN Markdown + 2 TR/EN checksums.sha256 + 34 Külliyat PDF'i + 2 Maarif Kongresi MOIJUB PDF'i + 7 Çekirdek/Sicil/Spesifikasyon Dosyası = 75 Kayıt` • `.gitattributes` `LF` + `binary` kilidi)
 - **Epistemik Doğrulama Beyanı (Sıfır İlke 3):** `[2026-10-20] itibarıyla incelenen [176/176] kayıt (127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL), [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem (51/176 = 0.29)] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün.`
 - **Metodolojik Not (İlke 4 — Rol Ayrımı):** `Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).` (`human_sample_audit.reviewer: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"`).
 - **Nihai Denetim Sonucu / Final Audit Verdict:** **🟢 30 / 30 GEÇTİ — TOPLAM KESİCİ HATA (BLOCK): `0` | UYARI (WARN): `0`**
@@ -17,7 +17,7 @@
 ## 📊 1. Külliyat Katalog Devamlılığı ve Linter Doğrulama Tablosu (`QV-2026-001` .. `QV-2026-015`)
 
 | Vaka Kodu | Sûre & Âyet (TR / EN) | Türkçe Rapor Dosyası (`docs/tr/`) | 26 Adım & `Z-1..Z-5` | İSNAD 2 Klasik | APA 7 / DOI | Bayesyen `P(S1) → P(S1\|E)` | Kelime (TR / EN) | Harici `.sha256` Özeti (İlk 16 Hane) | `BLOCK` |
-| :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- | :---: |
 | **QV-2026-001** | **Tevbe 9:5** (*At-Tawbah 9:5*) | [`06-pilot-tevbe-95-v6.1.1.md`](docs/tr/06-pilot-tevbe-95-v6.1.1.md) | ✅ **26/26 + Z-1..Z-5** | 5 | 3 | `%42 → %77 (+35)` | 8,119 / 10,398 | `f4cec27e46ff945e…` | **0** |
 | **QV-2026-002** | **Nisâ 4:34** (*An-Nisa 4:34*) | [`07-pilot-nisa-434-v6.1.1.md`](docs/tr/07-pilot-nisa-434-v6.1.1.md) | ✅ **26/26 + Z-1..Z-5** | 5 | 3 | `%36 → %71 (+35)` | 9,058 / 10,687 | `3c8aa2a1d8262382…` | **0** |
 | **QV-2026-003** | **Mâide 5:38** (*Al-Ma'idah 5:38*) | [`08-pilot-maide-538-v6.1.1.md`](docs/tr/08-pilot-maide-538-v6.1.1.md) | ✅ **26/26 + Z-1..Z-5** | 5 | 2 | `%38 → %75 (+37)` | 8,575 / 10,099 | `0470a7a5c9da224d…` | **0** |
@@ -42,13 +42,13 @@
 1. **Bölüm ve Şablon Tamlığı (`L-0201` / `L-2003`):** 15 raporun (30 TR+EN dosyasının) tamamında **5 Makro Faz**, **26 Analiz Adımı** (`Adım 00`, `Adım 00-5`, `Adım 01` .. `Adım 20`) ve **6 Koşullu/Zorunlu Ek** (`Z-1 Aporia`, `Z-2 İhtilaf Cetveli`, `Z-3 Zayıflıklar`, `Z-4 Sınır Beyanı`, `Z-4.5 Çift Katmanlı Bibliyografya`, `Z-5 Hakem Kaydı`) eksiksiz mevcuttur; sıfır şablon kayması (`0 drift`) teyit edilmiştir.
 2. **İSNAD 2 Klasik Tefsir, Nokta Atışı `page_id` ve APA 7 / DOI Doğrulaması (`V1` — `L-0101..L-0107`):** Toplam **77 birincil Arapça klasik kaynak** (`classical_sources`) ve `ADIM 13.3` işârî tefsir nakilleri (`127` benzersiz Şâmile `page_id` + `15` Altafsir `tTafsirNo=31` bağlantısı) ile **46 çağdaş kurumsal veri seti** (`34` benzersiz kurumsal DOI/URL) doğrulanmıştır.
 3. **Adım 13 İrfânî Reform ve 3'lü Bütünlük Kapısı (`V14` — `L-2301..L-2303`):** 15 monografinin tamamında (TR ve EN) `### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)` bölümü; `13.1. Enfüsî-Âfâkî Diyalektik`, `13.2. Kalp Fıkhı ve Bâtınî İlletler` ve `13.3. Klasik İşârî ve İrfânî Tahrîc` alt başlıklarıyla ve birincil klasik irfânî/işârî kaynaklarla (Kuşeyrî, Gazzâlî, Muhâsibî, Sehl et-Tüsterî, İbn Acîbe) teçhiz edilmiştir.
-4. **Adım 20 Dörtlü TYMM Kurumsal Ders Tasarımı (`V15` — `L-2401..L-2403`):** 15 monografinin tamamında `20.1`, `20.2`, `20.3`, `20.4` alt başlıkları, `DKAB.` öğrenme çıktıları, `DAB`/`SDB` becerileri, 5 aşamalı 40 dakikalık ders araçları ve Zenginleştirme/Destekleme farklılaştırma protokolü doğrulanmış ve bağımsız **34. Külliyat PDF'i** ([`docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`](docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf)) olarak basılmıştır (ayrıca 2 adet III. Maarif Kongresi `MOIJUB` Bildiri PDF'i ile birlikte toplam **36 PDF** mühürlenmiştir).
+4. **Adım 20 Dörtlü TYMM Kurumsal Ders Tasarımı (`V15` — `L-2401..L-2403`):** 15 monografinin tamamında `20.1`, `20.2`, `20.3`, `20.4` alt başlıkları, `DKAB.` öğrenme çıktıları, `DAB`/`SDB` becerileri, 5 aşamalı 40 dakikalık ders araçları ve Zenginleştirme/Destekleme farklılaştırma protokolü doğrulanmış; **33. Külliyat PDF'i** olarak [`docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`](docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf) ve **34. Külliyat PDF'i** olarak [`docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`](docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf) basılmıştır (ayrıca 2 adet III. Maarif Kongresi `MOIJUB` Bildiri PDF'i ile birlikte toplam **36 PDF** mühürlenmiştir).
 5. **V16.2 Çoklu Sunucu Doğrulama, Tek Doğruluk Sicili ve Rol Ayrımı Kapısı (`V16` — `L-2501..L-2506`):**
    - [`data/sources_registry.yaml`](data/sources_registry.yaml) sicilindeki **176 benzersiz kaynağın** (`127 Shamela + 15 Altafsir + 34 Kurumsal DOI/URL`) tamamı `VERIFIED` statüsündedir (`L-2501: 0 BLOCK`).
    - Fihrist/bölüm başlığı (`expected_breadcrumb == verified_breadcrumb`), kümülatif cilt ofseti (Gazzâlî `9472/186 -> 932` Cilt 3 *Rub'u'l-Mühlikât* dahil) ve `altafsir.com` parametreleri (`tMadhNo=3`, `tTafsirNo=31` Kuşeyrî *Letâ'ifü'l-İşârât*, `tSoraNo`, `tAyahNo`) doğrulanmıştır (`L-2502: 0 BLOCK`).
    - `classical_sources` ve `ADIM 13.3` içindeki tüm Arapça `[NAKİL]` iktibasları hedef sayfa verileriyle lafzî olarak (`normalize_arabic_v16`) eşleşmiştir (`L-2503: 0 BLOCK`).
    - Kayıtların `51/176` (`0.2898 >= 0.10`) oranındaki bölümü manuel örneklem (`human_sample_audit.sampled: true`) denetiminden geçirilmiştir (`L-2506: 0 BLOCK`).
-   - Tazelik denetimi (`L-2504`: `verified_at: 2026-10-20`, `reverify_period_days: 90`, `snapshot_sha256`; arayüzde `(Date.now() - Date.parse(verified_at)) / 86400000 > 90` dinamik hesabı — **Şart D2**) ve mühür kilidi (`L-2505`) doğrulanmıştır.
+   - Tazelik denetimi (`L-2504`: `verified_at: 2026-10-20`, `reverify_period_days: 90`, `snapshot_sha256`; arayüzde `(Date.now() - Date.parse(verified_at)) / 86400000 > 90` dinamik hesabı — **Şart D2**; sunucuda [`.github/workflows/source_reverify_cron.yml`](.github/workflows/source_reverify_cron.yml) aylık CI Cron denetimi) ve mühür kilidi (`L-2505`) doğrulanmıştır.
 
 ---
 
@@ -126,9 +126,106 @@
 
 ---
 
-## 💻 5. Bağımsız Tekrarlanabilirlik ve Doğrulama Komutları (Reproducibility Protocol)
+## 🔐 5. `SHA256SUMS.txt` 75/75 Kriptografik Aritmetik Dağılımı ve Tam Dosya Listesi
 
-Herhangi bir dış hakem veya araştırmacı, aşağıdaki standart komutlarla külliyatın çoklu sunucu sicilini, metodolojik iç tutarlılığını, regresyon testlerini ve **34 Külliyat PDF'i + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Toplam 36 PDF)** + Markdown kriptografik dosya bütünlüğünü kendi yerel terminalinde saniyeler içinde doğrulayabilir:
+[`SHA256SUMS.txt`](SHA256SUMS.txt) ana kriptografik sicilinde yer alan **75 dosyanın** (`30 + 2 + 34 + 2 + 7 = 75/75 OK, 0 FAIL`) kategori bazlı aritmetik dağılımı ve ikili (`rb`) modda hesaplanan tam SHA-256 özetleri aşağıda sunulmuştur:
+
+### 5.1. Kategori Bazlı Aritmetik Toplam Tablosu (`30 + 2 + 34 + 2 + 7 = 75`)
+
+| Kategori No | Kategori Tanımı | Kapsanan Dosya Grubu | Adet | Doğrulama Durumu |
+| :---: | :--- | :--- | :---: | :---: |
+| **1** | **Kurucu Monografi Markdown Raporları** | `15 TR` (`docs/tr/06..20-*.md`) + `15 EN` (`docs/en/06..20-*.md`) | **30** | ✅ `30/30 OK` |
+| **2** | **Dizin Kriptografik Özet Manifestoları** | `docs/tr/checksums.sha256` + `docs/en/checksums.sha256` | **2** | ✅ `2/2 OK` |
+| **3** | **Külliyat A4 PDF Belgeleri** | `30 Tekil Monografi PDF'i` + `2 TR/EN Tam Külliyat PDF'i` + `1 İSNAD-2 Klasik Arapça Veritabanları Rehberi (ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf)` + `1 TYMM 15 Âyet Ders Tasarımı Rehberi (TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf)` | **34** | ✅ `34/34 OK` |
+| **4** | **III. Maarif Kongresi (`MOIJUB`) Bildiri PDF'leri** | `III_MAARIF_KONGRESI_BILDIRI_OZETI_EK1_SABLONU.pdf` (Özet) + `III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf` (Tam Metin) | **2** | ✅ `2/2 OK` |
+| **5** | **Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları** | `data/sources_registry.yaml`, `docs/source_verification_manifest.json`, `docs/index.html`, `TALIMATNAME.md`, `QURAN_VISION_v6.2.2_SPECIFICATION.md`, `docs/tr/akademik-hakem-rehberi.md`, `docs/tr/linter-kurallari.md` | **7** | ✅ `7/7 OK` |
+| **TOPLAM** | **Ana Kriptografik Mühür (`SHA256SUMS.txt`)** | **`30 + 2 + 34 + 2 + 7 = 75 Dosya`** (`.gitattributes` `LF` + `binary` kilidi) | **75 / 75** | 🟢 **`0 FAIL`** |
+
+### 5.2. 75 Kayıtlık Tam `SHA256SUMS.txt` Dosya Dökümü
+
+| # | Kategori | Dosya Yolu (`Path`) | İkili (`rb`) SHA-256 Özeti (`64-Hex`) |
+| :---: | :--- | :--- | :--- |
+| 1 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/06-pilot-tevbe-95-v6.1.1.md`](docs/tr/06-pilot-tevbe-95-v6.1.1.md) | `f4cec27e46ff945e62252c5282c2e7f6d88bcea12fbbb1e0a53879c115c2a82e` |
+| 2 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/07-pilot-nisa-434-v6.1.1.md`](docs/tr/07-pilot-nisa-434-v6.1.1.md) | `3c8aa2a1d8262382b20b1f6d673640341675de1f8dd766115a39ad5eae80a387` |
+| 3 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/08-pilot-maide-538-v6.1.1.md`](docs/tr/08-pilot-maide-538-v6.1.1.md) | `0470a7a5c9da224db9befff32ab47f90af39d2a2582ffec224d1c8e05e7c22d2` |
+| 4 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/09-rapor-bakara-2256-v6.1.1.md`](docs/tr/09-rapor-bakara-2256-v6.1.1.md) | `d9a877d204d0e0d7f385edf2beab6f4887c8c3abd83897cf1aa224e8cceaa392` |
+| 5 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/10-rapor-nisa-458-v6.1.1.md`](docs/tr/10-rapor-nisa-458-v6.1.1.md) | `51d8e4c74156c8824ed9792ae32a058b125de6be62dd5516e02fadd582b4e072` |
+| 6 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/11-rapor-ali-imran-3159-v6.1.1.md`](docs/tr/11-rapor-ali-imran-3159-v6.1.1.md) | `31729255abe40b28a1fe06fcb3a9fd0cf10860276c008f9d4168f643f1a52533` |
+| 7 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/12-rapor-hucurat-49910-v6.1.1.md`](docs/tr/12-rapor-hucurat-49910-v6.1.1.md) | `b08722342a01014744f196fc2374b9563268bbe75d0af6fa788225d517398144` |
+| 8 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/13-rapor-isra-1736-v6.1.1.md`](docs/tr/13-rapor-isra-1736-v6.1.1.md) | `87fda2b40551928de48fa1c8a08de8dbb2b31b013903e8f1dbc960001ad94c22` |
+| 9 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/14-rapor-hasr-597-v6.1.1.md`](docs/tr/14-rapor-hasr-597-v6.1.1.md) | `2507d559d0eb88100d2c92c32ba6e83b74adee7d0042d548688d37d877a086b2` |
+| 10 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/15-rapor-rum-3022-v6.1.1.md`](docs/tr/15-rapor-rum-3022-v6.1.1.md) | `025ea47bbecc08518d62001317040152f9c482844a27d16194261b7f13cf20de` |
+| 11 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/16-rapor-enam-6151152-v6.1.1.md`](docs/tr/16-rapor-enam-6151152-v6.1.1.md) | `996c3d8c0337cb885480cef42bbcf90d29196c58359b8a9036da2d8834873e22` |
+| 12 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/17-rapor-hadid-5725-v6.1.1.md`](docs/tr/17-rapor-hadid-5725-v6.1.1.md) | `c81fc364fc118ca649968179d70c7dc58e5b2819186eb32b14d107651e1e5f93` |
+| 13 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/18-rapor-nahl-1690-v6.1.1.md`](docs/tr/18-rapor-nahl-1690-v6.1.1.md) | `23745bed62c2293463c940a5ae583a6b7dc44a470fcf7640dfa9361ed3af4ed0` |
+| 14 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/19-rapor-hucurat-4913-v6.1.1.md`](docs/tr/19-rapor-hucurat-4913-v6.1.1.md) | `5232cf62d71918e34d712d3788823e4e03943ec8ed33d651a4b0ba1032642020` |
+| 15 | 1. Kurucu Monografi Markdown Raporları | [`docs/tr/20-rapor-maide-532-v6.1.1.md`](docs/tr/20-rapor-maide-532-v6.1.1.md) | `c1329d83e11b7b7426b23a66e90aa158a23ddb5e6aac55c63bdd29fa94e940f1` |
+| 16 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/06-pilot-tevbe-95-en-v6.1.1.md`](docs/en/06-pilot-tevbe-95-en-v6.1.1.md) | `a62b1e9d32c405671cc51d9d06267e2b5ecec2a929b383534a2c144a35a39d15` |
+| 17 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/07-pilot-nisa-434-en-v6.1.1.md`](docs/en/07-pilot-nisa-434-en-v6.1.1.md) | `27bc51deccfa3bee00cca60977c1676a0bf83d4fb20997378cd11bd5c704fc22` |
+| 18 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/08-pilot-maide-538-en-v6.1.1.md`](docs/en/08-pilot-maide-538-en-v6.1.1.md) | `227ca955028ac4300d9852d538c326e8de2066fcf53660e194aca8f30849118c` |
+| 19 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/09-rapor-bakara-2256-en-v6.1.1.md`](docs/en/09-rapor-bakara-2256-en-v6.1.1.md) | `35eabaa7dddfce837b100f7297eb166bce615dde31252259a561d4678b527b12` |
+| 20 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/10-rapor-nisa-458-en-v6.1.1.md`](docs/en/10-rapor-nisa-458-en-v6.1.1.md) | `3a841530fc6ed2bc6ee4c8854f02dda94d3a77dd36af7469face0d53a6287273` |
+| 21 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/11-rapor-ali-imran-3159-en-v6.1.1.md`](docs/en/11-rapor-ali-imran-3159-en-v6.1.1.md) | `4ab5033dc9d48d612b218bb116c89ee9c3646fcaa45e42b458476d6e4ef092b1` |
+| 22 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/12-rapor-hucurat-49910-en-v6.1.1.md`](docs/en/12-rapor-hucurat-49910-en-v6.1.1.md) | `15ac85868aa4adedf84a5d0c19cbbc97f34324b5ce6b979d135fa06d43381ddb` |
+| 23 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/13-rapor-isra-1736-en-v6.1.1.md`](docs/en/13-rapor-isra-1736-en-v6.1.1.md) | `850bd65efb8ff94023f94261eeb25b35f7db6bef53a5f235e1c804ee2e6ea10b` |
+| 24 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/14-rapor-hasr-597-en-v6.1.1.md`](docs/en/14-rapor-hasr-597-en-v6.1.1.md) | `aaf3e5eeb720484b78b7f5f509dad4b3cc4addc08cdc6cbc1a3cd395a4f1cea1` |
+| 25 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/15-rapor-rum-3022-en-v6.1.1.md`](docs/en/15-rapor-rum-3022-en-v6.1.1.md) | `0eea801a7e2141314a2ddcb41a2fbc771086a637b0e642297a262b9b052824a4` |
+| 26 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/16-rapor-enam-6151152-en-v6.1.1.md`](docs/en/16-rapor-enam-6151152-en-v6.1.1.md) | `0617e0c870dc45b503bedf6a8cdd0a7f9ef33e4aabb0c4220f7d23ed7047f7fa` |
+| 27 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/17-rapor-hadid-5725-en-v6.1.1.md`](docs/en/17-rapor-hadid-5725-en-v6.1.1.md) | `55553eeb552a82024a40101a23e8b145796b9df8a8a827bbd460b5d20c1b66dd` |
+| 28 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/18-rapor-nahl-1690-en-v6.1.1.md`](docs/en/18-rapor-nahl-1690-en-v6.1.1.md) | `035f12ac168d00f2fd883124e0a933ac00cccd2a0ee33f9279db1b316159ffa1` |
+| 29 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/19-rapor-hucurat-4913-en-v6.1.1.md`](docs/en/19-rapor-hucurat-4913-en-v6.1.1.md) | `63aa8d870d2866426696d0a8e633bbb9c428bf1493947599a4f6da32bb62967d` |
+| 30 | 1. Kurucu Monografi Markdown Raporları | [`docs/en/20-rapor-maide-532-en-v6.1.1.md`](docs/en/20-rapor-maide-532-en-v6.1.1.md) | `3fc6c4e35ce41e25389a4c412a8d89768671f8bed86c0332311a3e0203e2fade` |
+| 31 | 2. Dizin Kriptografik Özet Manifestoları | [`docs/tr/checksums.sha256`](docs/tr/checksums.sha256) | `e7d7e3d6b488ce8ffee8f68fc7a3f5f5c8502633bdf7adbb244a16aa8ef74ccd` |
+| 32 | 2. Dizin Kriptografik Özet Manifestoları | [`docs/en/checksums.sha256`](docs/en/checksums.sha256) | `fd6d3ef760499a998b399835250a07d51125c36a89e8d670a6cf7c36b4f77570` |
+| 33 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`](docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf) | `ebbdf0c20a1e1331f59e65b5223b99b30085dc789db7dfcf2b12d5dc2b678933` |
+| 34 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/Quran_Vision_Corpus_EN_v6.2.2.pdf`](docs/pdf/Quran_Vision_Corpus_EN_v6.2.2.pdf) | `68617a1d17add1ced138fc2dca724fbc257c74deb0d5f51df03f25c5019ece3c` |
+| 35 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/Quran_Vision_Kulliyat_v6.2.2.pdf`](docs/pdf/Quran_Vision_Kulliyat_v6.2.2.pdf) | `4d123f4e813489b39ffcf9c4a3f7dcb8846ce9977368a774bbdc3e4b067318d3` |
+| 36 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-001.pdf`](docs/pdf/QV-2026-001.pdf) | `02da7c305c69c7b411acfd15da6c95eb6db48b919170521e4635ca16a7acddf3` |
+| 37 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-001_EN.pdf`](docs/pdf/QV-2026-001_EN.pdf) | `a10e9d1eba49c177d83ed2f1fc4ca16ca5c8af02056ba114714d833df7432321` |
+| 38 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-002.pdf`](docs/pdf/QV-2026-002.pdf) | `ef27e93a5538125fedea3e05efaebd0a69500f28555f51a635d27fa299cf07c1` |
+| 39 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-002_EN.pdf`](docs/pdf/QV-2026-002_EN.pdf) | `fe4dc7305eaccba25d8bf519f1bf74fcc53f11d999403bcaae6fb3bd8b21e36a` |
+| 40 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-003.pdf`](docs/pdf/QV-2026-003.pdf) | `a4bfa0f648606ad4e9fdfc5532674b2b67d6990e6a087e02c152915a6afb1c2b` |
+| 41 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-003_EN.pdf`](docs/pdf/QV-2026-003_EN.pdf) | `931b5e4b9f027211fac0f02b151b50cb9dc9bb787f2f10a5ea51225fd94f3784` |
+| 42 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-004.pdf`](docs/pdf/QV-2026-004.pdf) | `aff30cfb3540c58ab304a6654a252059c545b9fb0a5840c701367dcfb2d8f59f` |
+| 43 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-004_EN.pdf`](docs/pdf/QV-2026-004_EN.pdf) | `af0b41fc9b094555548eb63e15d86711b027870d092df8459e1771f039eb260c` |
+| 44 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-005.pdf`](docs/pdf/QV-2026-005.pdf) | `5989a1c7a36e521389e7dbe663141ee78269eb26e47a333695b24870319f04d3` |
+| 45 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-005_EN.pdf`](docs/pdf/QV-2026-005_EN.pdf) | `0b77e01fed95a191ba7672210411e37015f4dfcffc012a3525cf1dd06e80bfc7` |
+| 46 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-006.pdf`](docs/pdf/QV-2026-006.pdf) | `a2fc66ff65b77f086502d0e6bc0c4eaf216ce3bf63c30c3c99f3fb4ac7746909` |
+| 47 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-006_EN.pdf`](docs/pdf/QV-2026-006_EN.pdf) | `e4fe4b9ef3a289eeb32519864b8df671db590747e3dbf8e0c82681a6869e4244` |
+| 48 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-007.pdf`](docs/pdf/QV-2026-007.pdf) | `47c4e0c1790fb40658f2d88620675164fa38bbd986641bb0d5be9cd8d4a47959` |
+| 49 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-007_EN.pdf`](docs/pdf/QV-2026-007_EN.pdf) | `e877683760207931a019606092ef1b4776c8f4a0ad966c62061541e1bbc22cbb` |
+| 50 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-008.pdf`](docs/pdf/QV-2026-008.pdf) | `22147b42ff2e6e401391e05255b718c60caa18dd3b87cb49583a2bbd512f546f` |
+| 51 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-008_EN.pdf`](docs/pdf/QV-2026-008_EN.pdf) | `8479dac7cd6c4ca724d47986ad5d7c218589ea0b944a60971092c6f7542df655` |
+| 52 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-009.pdf`](docs/pdf/QV-2026-009.pdf) | `fc07167ef37baf37c26da4eb6bd1c7387669162c8ebcdd669a008bcedf7a3955` |
+| 53 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-009_EN.pdf`](docs/pdf/QV-2026-009_EN.pdf) | `3375cb87b290cc778c872b5c897e985457c8bbcf2fb60121b3bd0afd07569b24` |
+| 54 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-010.pdf`](docs/pdf/QV-2026-010.pdf) | `507d2729303eeec0c8fddd628430ec54ad0ebc39d9212f293f0c232e01146687` |
+| 55 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-010_EN.pdf`](docs/pdf/QV-2026-010_EN.pdf) | `19fc89754cf9e90b9944958e5daee4b2a3f9bca21a9f1f8b177b8cb0d1b5c7fc` |
+| 56 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-011.pdf`](docs/pdf/QV-2026-011.pdf) | `449bdb12ee155b4ff0acc8edce5f6f282b7e6df192fc69023ef07583c1ebc3a8` |
+| 57 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-011_EN.pdf`](docs/pdf/QV-2026-011_EN.pdf) | `ebfdad45dae4fb0c629c1ec7f68b0361a170e5a1dd1e70866d28e45162791e3b` |
+| 58 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-012.pdf`](docs/pdf/QV-2026-012.pdf) | `b88613681860ae4d53a469ba9c9e8579675d56a2b140f2ee4fd13c832b884aab` |
+| 59 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-012_EN.pdf`](docs/pdf/QV-2026-012_EN.pdf) | `d2e8af4994e8aca4e661588adc9df747ce38e3b800ede3260ca7250b034ec4b2` |
+| 60 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-013.pdf`](docs/pdf/QV-2026-013.pdf) | `8375d83e62b5d44632d8e52f443d8c17789da62a898ee320be0b1e8fc17d8775` |
+| 61 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-013_EN.pdf`](docs/pdf/QV-2026-013_EN.pdf) | `4f601fa5fbb0810422ff9379a7d96ed85f063c8b7124fd15fbe66bdd63c71888` |
+| 62 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-014.pdf`](docs/pdf/QV-2026-014.pdf) | `c9641271e2c273442b891dd86b821ad45383ee3770db19057c64d1705253f228` |
+| 63 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-014_EN.pdf`](docs/pdf/QV-2026-014_EN.pdf) | `fbc3b00d06781ec9084c69e84ee9c2a830296a4a57def149d1e7b9fc588dd9ea` |
+| 64 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-015.pdf`](docs/pdf/QV-2026-015.pdf) | `c6f7e99a4b13a2f838b44ade03eeb2e8586e10ecaf7e89897c531bb9a494196c` |
+| 65 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-015_EN.pdf`](docs/pdf/QV-2026-015_EN.pdf) | `b57157b1186dd6224ceaa5da337259ea98599244ca1e99ac9012304960fb7982` |
+| 66 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`](docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf) | `aaa67a41dc601dbe885b091908a35a2f60ed9b2a28dcbb85d65559ecaa50a59a` |
+| 67 | 4. III. Maarif Kongresi | [`docs/pdf/III_MAARIF_KONGRESI_BILDIRI_OZETI_EK1_SABLONU.pdf`](docs/pdf/III_MAARIF_KONGRESI_BILDIRI_OZETI_EK1_SABLONU.pdf) | `527cf483368929178f2d99dccc64d85dd1307f7a0898c42d1d9f24de0c7b42ea` |
+| 68 | 4. III. Maarif Kongresi | [`docs/pdf/III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf`](docs/pdf/III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf) | `ece5d9cefb88224c4a9c0bba218a22da34d5e9f508f763a54563df0077ac9ec4` |
+| 69 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`data/sources_registry.yaml`](data/sources_registry.yaml) | `666a1f982e4c26d90e10abc5c418093bc611a0acd7b02b15c8319ed117c4a25a` |
+| 70 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/source_verification_manifest.json`](docs/source_verification_manifest.json) | `58a1e0e25fee0b9be3c73409a2f38553540c0818214c9042af64921206e61e3f` |
+| 71 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/index.html`](docs/index.html) | `5f35b1396e973ab6aed7f566b4801e6a55f7246b338719e5ab7d6ad8474c0705` |
+| 72 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`TALIMATNAME.md`](TALIMATNAME.md) | `b5139c4ea963d0f74bed7befc03e7f2e3096744d7e36fecf710d429db8a78000` |
+| 73 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`QURAN_VISION_v6.2.2_SPECIFICATION.md`](QURAN_VISION_v6.2.2_SPECIFICATION.md) | `e1d1d1fd5757150755c22ab1797fccc0f054527e1a7b2a0a7c8abe7c0b9c0d3d` |
+| 74 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/tr/akademik-hakem-rehberi.md`](docs/tr/akademik-hakem-rehberi.md) | `4641b28dbc8dde6fe2b55a94dd2a78d6b47b6f11bf5fd5c28c7fc6d5a6f8444a` |
+| 75 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/tr/linter-kurallari.md`](docs/tr/linter-kurallari.md) | `49deebf8632ea6f9f26fd6781a1264783a264babbab1288ce7c44ca98f93dc72` |
+
+---
+
+## 💻 6. Bağımsız Tekrarlanabilirlik ve 90 Günlük Otomatik CI Denetim Protokolü
+
+Herhangi bir dış hakem veya araştırmacı, aşağıdaki standart komutlarla külliyatın çoklu sunucu sicilini, metodolojik iç tutarlılığını, regresyon testlerini ve **34 Külliyat PDF'i + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Toplam 36 PDF)** + Markdown kriptografik dosya bütünlüğünü (`75/75`) kendi yerel terminalinde saniyeler içinde doğrulayabilir (ayrıca [`.github/workflows/source_reverify_cron.yml`](.github/workflows/source_reverify_cron.yml) iş akışı her ayın 1'inde `0 6 1 * *` otomatik çalışarak 90 günlük tazelik süresini denetler):
 
 ```bash
 # 1. Çoklu sunucu (Shamela + Altafsir + Kurumsal DOI/URL) doğrulamasını ve data/sources_registry.yaml sicilini çalıştır
@@ -140,6 +237,6 @@ python -X utf8 src/gem_lint.py --all
 # 3. V16 dahil tüm Linter birim/regresyon testlerini çalıştır (Beklenen: 14/14 passed)
 pytest
 
-# 4. 34 Külliyat PDF'i + 2 MOIJUB Bildiri PDF'i (Toplam 36 PDF), 30 Markdown raporu, docs/index.html ve talimatnamelerin harici SHA-256 özetlerini doğrula
+# 4. 75/75 kaydın (30 TR/EN Markdown + 2 TR/EN checksums.sha256 + 34 Külliyat PDF'i + 2 MOIJUB PDF'i + 7 Çekirdek Dosya) SHA-256 özetlerini doğrula
 sha256sum -c SHA256SUMS.txt
 ```

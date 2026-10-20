@@ -206,7 +206,7 @@ peer_review:
 
 ## 6. Külliyat Envanteri (15 Kurucu Monografik Rapor: `QV-2026-001` – `QV-2026-015` ve 34+2 = 36 PDF)
 
-> 📦 **PDF Envanteri (Sayısal Netlik):** **34 Külliyat PDF'i** (15 Türkçe Monografi + 15 İngilizce Monografi + 2 Tam Külliyat Cildi [`Quran_Vision_Kulliyat_v6.2.2.pdf` & `Quran_Vision_Corpus_EN_v6.2.2.pdf`] + 33. Belge [`ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`] + 34. Belge [`TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`]) **+ 2 III. Maarif Kongresi (`MOIJUB`) Bildiri PDF'i** (Özet ve Tam Metin [`III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf`]) — Toplam 36 PDF
+> 📦 **PDF Envanteri (Sayısal Netlik):** **34 Külliyat PDF'i** (15 Türkçe Monografi + 15 İngilizce Monografi + 2 Tam Külliyat Cildi [`Quran_Vision_Kulliyat_v6.2.2.pdf` & `Quran_Vision_Corpus_EN_v6.2.2.pdf`] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [`ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`] + 1 TYMM 15 Âyet Ders Tasarımı Rehberi [`TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`]) **+ 2 III. Maarif Kongresi (`MOIJUB`) Bildiri PDF'i** (Özet ve Tam Metin [`III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf`]) — Toplam 36 PDF
 > ⚖️ **Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).**
 
 | Rapor Kodu | Sûre ve Âyet | Konu Başlığı | Türkçe Rapor | İngilizce Rapor |

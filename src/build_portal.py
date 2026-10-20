@@ -4096,8 +4096,8 @@ function formatZ5YamlJs(rawYaml) {{
         </thead>
         <tbody>
           <tr>
-            <td><strong>${{isEn ? 'Project Lead, Advisor & External Review' : 'Yürütücü, Danışman & Dış Hakem Süreci'}}</strong></td>
-            <td><strong>Mehmet Yarıcı</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>) • ${{isEn ? 'Academic Advisor' : 'Akademik Danışman'}}: <strong>Mehmet Emin Koç — AMEA</strong> (<a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) • ${{isEn ? 'External Review' : 'Bağımsız Dış Hakem'}}: <strong>III. Maarif Kongresi (MOIJUB)</strong> • ${{isEn ? 'Date' : 'Tarih'}}: <strong>${{tarih}}</strong></td>
+            <td><strong>${{isEn ? 'Project Lead, Advisor & Quality Assurance' : 'Yürütücü, Danışman & Kalite Güvencesi'}}</strong></td>
+            <td><strong>Mehmet Yarıcı</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>) • ${{isEn ? 'Academic Advisor' : 'Akademik Danışman'}}: <strong>Mehmet Emin Koç — AMEA</strong> (<a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) • ${{isEn ? 'Algorithmic & Sample Audit' : 'Algoritmik & Örneklem Denetimi'}}: <strong>gem_lint.py (V1–V17) &amp; V16.2 (51/176)</strong> • ${{isEn ? 'Date' : 'Tarih'}}: <strong>${{tarih}}</strong></td>
             <td><span class="badge badge-gold">${{isEn ? 'OPEN PEER REVIEW' : 'AÇIK HAKEMLİK'}}</span></td>
           </tr>
           <tr>

@@ -112,9 +112,8 @@ peer_review:
   academic_advisor: "Mehmet Emin Koç"
   academic_advisor_orcid: "0000-0002-1025-5643"
   academic_advisor_institution: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
-  external_review_venue: "III. Maarif Kongresi (MOIJUB) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)"
   review_date: "2026-10-20"
-  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (GemLinterV6 0 BLOCK) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır; sonuç beklenmektedir)."
+  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (gem_lint.py V1–V17, 0 BLOCK) ve V16.2 iç örneklem kontrolü (51/176 kaynak — Mehmet Yarıcı) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür."
 ---
 
 # {{SURE_ADI}} Sûresi {{SURE_NO}}:{{AYET_NO}} Tahlili — {{KONU_BASLIGI}}
@@ -399,7 +398,7 @@ Bu âyetin analitik şablonun sınırlarını aşan özgün aporiası, teolojik 
 ### Z-5 · AKRAN DEĞERLENDİRME VE KALİTE GÜVENCE KAYDI [V11 ZORUNLU]
 - **Proje Yürütücüsü & Baş Araştırmacı:** Mehmet Yarıcı (`ORCID: 0009-0003-0356-8582`)
 - **Akademik Danışman:** Mehmet Emin Koç (`ORCID: 0000-0002-1025-5643`) — Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü
-- **Bağımsız Dış Hakem Değerlendirmesi:** III. Maarif Kongresi (MOIJUB) Hakem Süreci *(Başvurusu yapılmıştır; sonuç beklenmektedir)*
+- **Kalite Güvencesi ve Kaynak Doğrulama:** `gem_lint.py` (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı)
 - **İç Denetim Tarihi:** 2026-04-20
 - **Kalite Güvence Statüsü:** `INTERNAL_AUDIT_PASSED (0 BLOCK, 0 WARN) — EXTERNAL_PEER_REVIEW_PENDING`
-- **Metodolojik Not (İlke 4 — Rol Ayrımı):** Algoritmik iç tutarlılık denetimi (`GemLinterV6 0 BLOCK`) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, `ORCID: 0000-0002-1025-5643`) tarafından yürütülmüştür; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir *(başvurusu yapılmıştır; sonuç beklenmektedir)*.
+- **Metodolojik Not (İlke 4 — Rol Ayrımı):** Proje yürütücülüğü (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), akademik danışmanlık (`Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643`) ve kalite güvence/kaynak doğrulama (`gem_lint.py V1–V17` & V16.2 51/176 iç örneklem kontrolü) mekanizmaları `data/people_registry.yaml` ve `L-2507` kilidiyle kesin olarak ayrılmıştır.

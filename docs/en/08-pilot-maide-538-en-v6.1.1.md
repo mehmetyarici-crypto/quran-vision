@@ -168,9 +168,8 @@ peer_review:
   academic_advisor: "Mehmet Emin Koç"
   academic_advisor_orcid: "0000-0002-1025-5643"
   academic_advisor_institution: "Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology"
-  external_review_venue: "III. Maarif Congress (MOIJUB) Peer-Review Process (Application submitted; pending decision)"
   review_date: "2026-10-20"
-  review_notes: "Methodological Note (Principle 4 — Role Separation): Algorithmic internal consistency verification (GemLinterV6 0 BLOCK) has been completed, and academic advisory was provided by Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643); independent external peer review is conducted under the III. Maarif Congress (MOIJUB) refereeing process (application submitted; pending decision)."
+  review_notes: "Methodological Note (Principle 4 — Role Separation): Algorithmic internal consistency verification (gem_lint.py V1–V17, 0 BLOCK) and V16.2 internal sample verification (51/176 sources — Mehmet Yarıcı) have been completed, and academic advisory was provided by Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)."
 ---
 
 # QV-2026-003 — Surah Al-Ma'idah 5:38: Protection of Property (Hifz al-Mal), Evidentiary Certainty (Dar' al-Hudud bi'l-Shubuhat) & Social Justice Preconditions in Criminal Law
@@ -187,7 +186,7 @@ peer_review:
 - **Verified Empirical Datasets (*APA 7 / DOI*):** Transparency International (2024); World Bank Group (2024).
 - **Project Lead & Principal Investigator:** **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education, Bahçelievler Dede Korkut Anatolian High School)
 - **Academic Advisor:** **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology)
-- **Independent External Peer Review:** **III. Maarif Congress (`MOIJUB`) Peer-Review Process** (Application submitted; pending decision)
+- **Quality Assurance & Source Verification:** `gem_lint.py` (V1–V17 Algorithmic Audit) & V16.2 Internal Sample Verification (51/176 Sources — Mehmet Yarıcı)
 - **Permanent CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Concept DOI) | `10.5281/zenodo.23410818` (v6.2.2 Version DOI)
 
 ---
@@ -703,8 +702,8 @@ This institutional instructional design translates the **"Virtue–Value–Actio
 | **Algorithmic Internal Linter (`GemLinterV6`)** | `VERIFIED (0 BLOCK, 0 WARN)` |
 | **Project Lead & Principal Investigator** | **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582`) |
 | **Academic Advisor** | **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — *Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology*) |
-| **Independent External Peer Review** | **III. Maarif Congress (`MOIJUB`) Peer-Review Process** *(Application submitted; pending decision)* |
-| **Methodological Note (Principle 4)** | In accordance with Principle 4 (Role Separation) and `L-2507`, project leadership (`Mehmet Yarıcı`), academic advisory (`Mehmet Emin Koç — AMEA`), and independent external peer review (`III. Maarif Congress — MOIJUB`) are strictly separated. |
+| **Quality Assurance & Source Verification** | `gem_lint.py` (V1–V17 Algorithmic Audit) & V16.2 Internal Sample Verification (51/176 Sources — Mehmet Yarıcı) |
+| **Methodological Note (Principle 4)** | In accordance with Principle 4 (Role Separation) and `L-2507`, project leadership (`Mehmet Yarıcı`), academic advisory (`Mehmet Emin Koç — AMEA`), and algorithmic quality assurance (`gem_lint.py V1–V17, 0 BLOCK`) are strictly separated via `data/people_registry.yaml`. |
 | **Evaluation Rubric (5 Dimensions)** | **1.** Classical Tafsir Accuracy (`ISNAD 2`) • **2.** Empirical Data Rigor (`APA 7 / DOI`) • **3.** Citation vs. Interpretation Boundary • **4.** Bayesian Calibration & Sensitivity • **5.** Epistemic Humility & Non-Takfiri Language |
 
 #### Methodological Audit Checklist (V1–V13)

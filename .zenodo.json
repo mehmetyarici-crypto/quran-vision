@@ -14,7 +14,7 @@
       "affiliation": "Proje Yürütücüsü & Baş Araştırmacı (Project Lead & Principal Investigator) | Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi"
     }
   ],
-  "description": "<p><strong>Quran Vision Corpus (v6.2.3 — Correction Release superseding v6.2.2)</strong> is an open-access bilingual (Turkish / English) academic corpus and interactive foresight cockpit featuring <strong>15 foundational Quranic verse reports (QV-2026-001 to QV-2026-015)</strong>.</p><p><strong>Identity &amp; Role Separation (data/people_registry.yaml &amp; L-2507):</strong> <strong>Proje Yürütücüsü &amp; Baş Araştırmacı (Project Lead &amp; Principal Investigator):</strong> Mehmet Yarıcı (<code>ORCID: 0009-0003-0356-8582</code>) • <strong>Akademik Danışman (Academic Advisor):</strong> Mehmet Emin Koç — Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü (<code>ORCID: 0000-0002-1025-5643</code>) • <strong>Bağımsız Dış Hakem Değerlendirmesi:</strong> III. Maarif Kongresi (<code>MOIJUB</code>) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir).</p><p><strong>PDF Inventory:</strong> 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF.</p>",
+  "description": "<p><strong>Quran Vision Corpus (v6.2.3 — Correction Release superseding v6.2.2)</strong> is an open-access bilingual (Turkish / English) academic corpus and interactive foresight cockpit featuring <strong>15 foundational Quranic verse reports (QV-2026-001 to QV-2026-015)</strong>.</p><p><strong>Identity &amp; Role Separation (data/people_registry.yaml &amp; L-2507):</strong> <strong>Proje Yürütücüsü &amp; Baş Araştırmacı (Project Lead &amp; Principal Investigator):</strong> Mehmet Yarıcı (<code>ORCID: 0009-0003-0356-8582</code>) • <strong>Akademik Danışman (Academic Advisor):</strong> Mehmet Emin Koç — Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü (<code>ORCID: 0000-0002-1025-5643</code>) • <strong>Kalite Güvencesi ve Kaynak Doğrulama (Quality Assurance &amp; Source Verification):</strong> <code>gem_lint.py</code> (V1–V17 Algoritmik Denetim) &amp; V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı).</p><p><strong>PDF Inventory:</strong> 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF.</p>",
   "notes": "34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF. v6.2.3 supersedes v6.2.2 (L-2507 identity lock & data/people_registry.yaml).",
   "keywords": [
     "Quranic Studies",
@@ -36,13 +36,13 @@
     },
     {
       "scheme": "url",
-      "identifier": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.2.pdf",
+      "identifier": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.3.pdf",
       "relation": "isIdenticalTo",
       "resource_type": "publication-book"
     },
     {
       "scheme": "url",
-      "identifier": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Kulliyat_v6.2.2.pdf",
+      "identifier": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Kulliyat_v6.2.3.pdf",
       "relation": "isIdenticalTo",
       "resource_type": "publication-book"
     },

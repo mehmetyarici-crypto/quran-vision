@@ -49,8 +49,8 @@ Gelecekte Quran Vision külliyatına eklenecek tüm âyet monografilerinde (`QV-
 - **Akademik Statü:** `.zenodo.json` (`contributors` $
 ightarrow$ `"type": "Supervisor"`) ve Schema.org JSON-LD katmanında Akademik Danışman olarak tescillidir *(İlke 4 gereği danışman aynı zamanda bağımsız dış hakem olamaz)*.
 
-### 3) ⚖️ Bağımsız Dış Hakem Değerlendirmesi ve Rol Ayrımı (`data/people_registry.yaml` & `L-2507`)
-- **Bağımsız Dış Hakem Değerlendirmesi:** **III. Maarif Kongresi (`MOIJUB`) Hakem Süreci** *(Başvurusu yapılmıştır; sonuç beklenmektedir)*.
+### 3) 🛡️ Kalite Güvencesi, Kaynak Doğrulama ve Rol Ayrımı (`data/people_registry.yaml` & `L-2507`)
+- **Kalite Güvencesi ve Kaynak Doğrulama:** `gem_lint.py` (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (`51/176` Kaynak — **Mehmet Yarıcı**).
 - **Kalıcı Kimlik Kilidi (`L-2507` — `BLOCK`):** [`data/people_registry.yaml`](data/people_registry.yaml) sicili üzerinden kişi, ORCID, kurum ve rol sınırları kilitlenmiştir; tek kişi çelişkili rol veya başkasına ait kurum/ORCID taşıyamaz.
 - **Harici Kriptografik Manifest ve Linter Denetimi:** Kendi kendine referans paradoksu (*self-referential hash paradox*) oluşturmamak için SHA-256 özetleri metin içine gömülmez; harici `.sha256` dosyalarında ve kök dizindeki [`SHA256SUMS.txt`](SHA256SUMS.txt) manifestosunda (`sha256sum -c SHA256SUMS.txt`) tutulur.
 
@@ -95,7 +95,7 @@ Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.3**), Kur'an âyetleri üz
   - **`L-2503` (`BLOCK` — Lafzî İktibas Kilidi):** `arabic_quote` veya `ADIM 13.3` içindeki `[NAKİL]` Arapça metin hedef sayfa verisiyle (`quote_matched: true` / `expected_quote_norm`) eşleşmiyorsa `BLOCK` üretir.
   - **`L-2504` (`WARN` — Tazelik Denetimi):** Doğrulama tarihi (`verified_at`) 90 günü aşmış veya `snapshot_sha256` özeti eksik kayıtlar için yeniden doğrulama uyarısı verir.
   - **`L-2505` (`BLOCK` — Mühür Kilidi):** `L-2501`, `L-2502` ve `L-2503` kapılarından sıfır `BLOCK` alınmadan `.sha256` manifest mühürlemesi yapılamaz.
-  - **`L-2506` (`BLOCK` — Rol Ayrımı ve Manuel Örneklem Kilidi):** Sicildeki kayıtların en az `%10`'unda (`>= 0.10`) `human_sample_audit.sampled: true` alanı doldurulmamışsa `BLOCK` üretir. *Metodolojik Not (İlke 4): Örneklem denetimi (`51/176 = 0.29`) proje yürütücüsü (**Mehmet Yarıcı**) tarafından gerçekleştirilmiş olup, bağımsız dış hakem değerlendirmesi III. Maarif Kongresi (`MOIJUB`) hakem süreci kapsamında yürütülmektedir.*
+  - **`L-2506` (`BLOCK` — Rol Ayrımı ve Manuel Örneklem Kilidi):** Sicildeki kayıtların en az `%10`'unda (`>= 0.10`) `human_sample_audit.sampled: true` alanı doldurulmamışsa `BLOCK` üretir. *Metodolojik Not (İlke 4): Örneklem denetimi (`51/176 = 0.29`) proje yürütücüsü (**Mehmet Yarıcı**) tarafından gerçekleştirilmiş olup, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür.*
 
 ---
 
@@ -131,7 +131,6 @@ peer_review:
   academic_advisor: "Mehmet Emin Koç"
   academic_advisor_orcid: "0000-0002-1025-5643"
   academic_advisor_institution: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
-  external_review_venue: "III. Maarif Kongresi (MOIJUB) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)"
   review_date: "2026-10-20"
 ---
 ```
@@ -141,7 +140,7 @@ peer_review:
 ## 4. Beş Makro Faz ve 26 Analiz Adımı Tam Mimarisi (`ADIM 00` – `ADIM 20`)
 
 ### FAZ I — Kimlik, Metin ve Bağlam
-- **ADIM 00 — Künye ve Giriş Bilgileri:** Vaka Kodu (`QV-2026-0XX`), Âyet, Konu Başlığı, Proje Yürütücüsü & Baş Araştırmacı (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), Akademik Danışman (`Mehmet Emin Koç — Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü — ORCID: 0000-0002-1025-5643`), Bağımsız Dış Hakem Değerlendirmesi (`III. Maarif Kongresi [MOIJUB] Hakem Süreci`), Tarih, Katman (3), Güven Derecesi ve Harici SHA-256 doğrulama referansı.
+- **ADIM 00 — Künye ve Giriş Bilgileri:** Vaka Kodu (`QV-2026-0XX`), Âyet, Konu Başlığı, Proje Yürütücüsü & Baş Araştırmacı (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), Akademik Danışman (`Mehmet Emin Koç — Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü — ORCID: 0000-0002-1025-5643`), Kalite Güvencesi ve Kaynak Doğrulama (`gem_lint.py V1–V17 Algoritmik Denetim & V16.2 İç Örneklem Kontrolü`), Tarih, Katman (3), Güven Derecesi ve Harici SHA-256 doğrulama referansı.
 - **ADIM 00-5 — Dil ve Semantik Matrisi (H6 Zorunlu — 4 Boyutlu):**
   1. *Semantik / Kök Anlam (İştikak):* İbn Fâris (*Mu'cemü Makâyîsi'l-Lüğa*, ö. 395/1004).
   2. *Kur'anî Semantik (Kavramlaşma):* Râgıb el-İsfahânî (*el-Müfredât fî Garîbi'l-Kur'ân*, ö. 502/1108).
@@ -209,7 +208,7 @@ peer_review:
 ## 6. Külliyat Envanteri (15 Kurucu Monografik Rapor: `QV-2026-001` – `QV-2026-015` ve 34+2 = 36 PDF)
 
 > 📦 **PDF Envanteri (Sayısal Netlik):** 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF
-> ⚖️ **Metodolojik Not (İlke 4 — Rol Ayrımı):** Proje Yürütücüsü & Baş Araştırmacı (**Mehmet Yarıcı**, `ORCID: 0009-0003-0356-8582`), Akademik Danışman (**Mehmet Emin Koç** — *AMEA, Felsefe ve Sosyoloji Enstitüsü*, `ORCID: 0000-0002-1025-5643`) ve Bağımsız Dış Hakem Değerlendirmesi (**III. Maarif Kongresi — `MOIJUB` Hakem Süreci**, *başvurusu yapılmıştır; sonuç beklenmektedir*) rolleri [`data/people_registry.yaml`](data/people_registry.yaml) ve `L-2507` (`BLOCK`) kilidiyle birbirinden kesin olarak ayrılmıştır.
+> ⚖️ **Metodolojik Not (İlke 4 — Rol Ayrımı):** Proje Yürütücüsü & Baş Araştırmacı (**Mehmet Yarıcı**, `ORCID: 0009-0003-0356-8582`), Akademik Danışman (**Mehmet Emin Koç** — *Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü*, `ORCID: 0000-0002-1025-5643`) ve Kalite Güvencesi / Kaynak Doğrulama (`gem_lint.py` V1–V17 Algoritmik Denetim & V16.2 `51/176` İç Örneklem Kontrolü — **Mehmet Yarıcı**) rolleri [`data/people_registry.yaml`](data/people_registry.yaml) ve `L-2507` (`BLOCK`) kilidiyle birbirinden kesin olarak ayrılmıştır.
 
 | Rapor Kodu | Sûre ve Âyet | Konu Başlığı | Türkçe Rapor | İngilizce Rapor |
 | :--- | :--- | :--- | :--- | :--- |

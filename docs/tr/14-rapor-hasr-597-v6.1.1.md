@@ -176,9 +176,8 @@ peer_review:
   academic_advisor: "Mehmet Emin Koç"
   academic_advisor_orcid: "0000-0002-1025-5643"
   academic_advisor_institution: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
-  external_review_venue: "III. Maarif Kongresi (MOIJUB) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)"
   review_date: "2026-10-20"
-  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (GemLinterV6 0 BLOCK) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır; sonuç beklenmektedir)."
+  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (gem_lint.py V1–V17, 0 BLOCK) ve V16.2 iç örneklem kontrolü (51/176 kaynak — Mehmet Yarıcı) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür."
 ---
 
 # Haşr Sûresi 59:7 Tahlili — Servet Konsantrasyonu, İktisadi Sirkülasyon, Gelir Dağılımı Adaleti ve Anti-Oligarşi Doktrini
@@ -191,7 +190,7 @@ peer_review:
 - **Konu Başlığı:** Servet Konsantrasyonu, İktisadi Sirkülasyon, Gelir Dağılımı Adaleti ve Anti-Oligarşi Doktrini
 - **Proje Yürütücüsü & Baş Araştırmacı:** Mehmet Yarıcı (Uludağ Üniversitesi İlahiyat Fakültesi, 1989 • T.C. MEB, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi — ORCID: `0009-0003-0356-8582`)
 - **Akademik Danışman:** Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü — ORCID: `0000-0002-1025-5643`)
-- **Bağımsız Dış Hakem Değerlendirmesi:** III. Maarif Kongresi (`MOIJUB`) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)
+- **Kalite Güvencesi ve Kaynak Doğrulama:** `gem_lint.py` (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı)
 - **Kalıcı CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23410818` (v6.2.2 Sürüm DOI)
 - **Tarih:** 2026-10-15
 - **Sürüm:** v6.2.2 (Akademik Doğrulama Standartlı)
@@ -693,8 +692,8 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 - **Yayın / Tahkik Statüsü:** `PRE-RELEASE (Ön Sürüm — Algoritmik İç Denetim Tamamlandı / Bağımsız Dış Hakem Sürecinde)`
 - **Proje Yürütücüsü & Baş Araştırmacı:** Mehmet Yarıcı (`ORCID: 0009-0003-0356-8582`)
 - **Akademik Danışman:** Mehmet Emin Koç (`Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü` — `ORCID: 0000-0002-1025-5643`)
-- **Bağımsız Dış Hakem Değerlendirmesi:** III. Maarif Kongresi (`MOIJUB`) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)
-- **Metodolojik Rol Ayrımı Notu (İlke 4):** Algoritmik iç tutarlılık denetimi (`GemLinterV6 0 BLOCK`), akademik danışmanlık (`Mehmet Emin Koç — AMEA`) ve bağımsız dış hakem değerlendirmesi (`III. Maarif Kongresi — MOIJUB`) birbirinden kesin olarak ayrılmıştır.
+- **Kalite Güvencesi ve Kaynak Doğrulama:** `gem_lint.py` (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı)
+- **Metodolojik Rol Ayrımı Notu (İlke 4):** Proje yürütücülüğü (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), akademik danışmanlık (`Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643`) ve algoritmik kalite güvencesi (`gem_lint.py V1–V17, 0 BLOCK`) rolleri `data/people_registry.yaml` ve `L-2507` kilidiyle kesin olarak ayrılmıştır.
 
 ```yaml
 hakem_degerlendirme_protokolu:
@@ -709,8 +708,8 @@ hakem_degerlendirme_protokolu:
     ad_soyad: "Mehmet Emin Koç"
     orcid: "0000-0002-1025-5643"
     kurum: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
-  bagimsiz_dis_hakem_sureci:
-    merci: "III. Maarif Kongresi (MOIJUB) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)"
+  kalite_guvencesi_ve_kaynak_dogrulama:
+    motor: "gem_lint.py (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı)"
     uzmanlik_alani: "Servet Konsantrasyonu, İktisadi Sirkülasyon, Gelir Dağılımı Adaleti ve Anti-Oligarşi Doktrini"
   rubrik_puanlamasi:
     boyut_1_metin_ve_tahkik: "— / 20"
@@ -719,6 +718,6 @@ hakem_degerlendirme_protokolu:
     boyut_4_falsifiabilite_ve_hume_giyotini: "— / 20"
     boyut_5_kurumsal_tasarim_ve_ozgunluk: "— / 20"
     toplam_skor: "— / 100"
-  hakem_karari: "PENDING_EXTERNAL_REVIEW"
-  derkenar_notu: "İlke 4 (Rol Ayrımı) ve L-2507 uyarınca proje yürütücülüğü (Mehmet Yarıcı — ORCID: 0009-0003-0356-8582), akademik danışmanlık (Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643) ve bağımsız dış hakem değerlendirmesi (III. Maarif Kongresi — MOIJUB) rolleri birbirinden kesin olarak ayrılmıştır."
+  kalite_guvence_statu: "INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)"
+  derkenar_notu: "İlke 4 (Rol Ayrımı) ve L-2507 uyarınca proje yürütücülüğü (Mehmet Yarıcı — ORCID: 0009-0003-0356-8582), akademik danışmanlık (Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643) ve kalite güvencesi/kaynak doğrulama (gem_lint.py V1–V17 & V16.2 51/176 iç örneklem kontrolü) rolleri birbirinden kesin olarak ayrılmıştır."
 ```

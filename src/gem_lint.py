@@ -1362,6 +1362,13 @@ class GemLinterV6:
                     "V17 Rol Ayrımı İhlali: YAML 'peer_review' bloğunda 'Akademik Danışman & Dış Hakem' birleşik rolü kullanılamaz (danışman bağımsız dış hakem olamaz)!",
                     "frontmatter.peer_review",
                 )
+            if "external_review_venue" in pr and ("Maarif" in str(pr.get("external_review_venue")) or "MOIJUB" in str(pr.get("external_review_venue"))):
+                self.report(
+                    "L-2507",
+                    BLOCK,
+                    "V17 Yanıltıcı Dış Hakem İddiası: III. Maarif Kongresi (MOIJUB) yalnızca kongre bildirisini değerlendirir; monografinin dış hakemi olarak gösterilemez!",
+                    "frontmatter.peer_review",
+                )
             adv_name_fm = str(pr.get("academic_advisor") or pr.get("reviewer_name") or "").strip()
             adv_inst_fm = str(pr.get("academic_advisor_institution") or pr.get("reviewer_institution") or "").strip()
             adv_orcid_fm = str(pr.get("academic_advisor_orcid") or pr.get("reviewer_orcid") or "").strip()
@@ -1394,6 +1401,15 @@ class GemLinterV6:
                     "L-2507",
                     BLOCK,
                     f"V17 Rol Ayrımı İhlali: Danışman aynı zamanda bağımsız dış hakem olamaz ('& Dış Hakem / & External Reviewer' kaldırılmalıdır): '{l_strip[:110]}'",
+                    f"Satır {line_no}",
+                )
+
+            # 1a) Monografi içinde III. Maarif Kongresi'nin (MOIJUB) dış hakem mercii olarak gösterilmesi yasağı
+            if re.search(r"(?:Bağımsız\s+Dış\s+Hakem|Independent\s+External\s+Peer\s+Review|external_review_venue|merci)\s*[:\*\|]*.*?(?:Maarif\s+Kongresi|Maarif\s+Congress|MOIJUB)", l_strip, re.I):
+                self.report(
+                    "L-2507",
+                    BLOCK,
+                    f"V17 Yanıltıcı Dış Hakem İddiası: III. Maarif Kongresi (MOIJUB) monografinin dış hakemi olarak yazılamaz: '{l_strip[:110]}'",
                     f"Satır {line_no}",
                 )
 

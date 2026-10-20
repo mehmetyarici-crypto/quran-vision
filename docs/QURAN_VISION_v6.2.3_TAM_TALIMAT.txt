@@ -213,7 +213,6 @@ peer_review:
   academic_advisor: "Mehmet Emin Koç"
   academic_advisor_orcid: "0000-0002-1025-5643"
   academic_advisor_institution: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
-  external_review_venue: "III. Maarif Kongresi (MOIJUB) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)"
   review_date: "2026-10-20"
 ---
 ```

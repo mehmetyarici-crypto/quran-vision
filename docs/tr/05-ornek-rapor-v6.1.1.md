@@ -105,15 +105,16 @@ scenarios:
     score_justification: "Metodolojik simülasyon ve tarihsel içtihat dengesi analizi."
 
 peer_review:
-  status: "PENDING_EXTERNAL_REVIEW"
-  internal_linter_verified: false
-  linter_timestamp: null
-  reviewer_name: null
-  reviewer_title: null
-  reviewer_orcid: null
-  reviewer_institution: null
-  review_date: null
-  review_notes: "Ön sürüm (PRE-RELEASE); bağımsız dış akademik hakem incelemesine açıktır."
+  status: "PRE-RELEASE"
+  internal_linter_verified: true
+  project_lead: "Mehmet Yarıcı"
+  project_lead_orcid: "0009-0003-0356-8582"
+  academic_advisor: "Mehmet Emin Koç"
+  academic_advisor_orcid: "0000-0002-1025-5643"
+  academic_advisor_institution: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
+  external_review_venue: "III. Maarif Kongresi (MOIJUB) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)"
+  review_date: "2026-10-20"
+  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (GemLinterV6 0 BLOCK) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır; sonuç beklenmektedir)."
 ---
 
 # {{SURE_ADI}} Sûresi {{SURE_NO}}:{{AYET_NO}} Tahlili — {{KONU_BASLIGI}}
@@ -395,10 +396,10 @@ Bu âyetin analitik şablonun sınırlarını aşan özgün aporiası, teolojik 
 
 ---
 
-### Z-5 · HAKEM VE AKRAN DEĞERLENDİRME KAYDI [V11 ZORUNLU]
-- **Hakem Adı / Soyadı:** Henüz atanmadı
-- **Akademik Ünvanı ve Kurumu:** —
-- **ORCID No:** —
-- **Değerlendirme Tarihi:** —
-- **Hakem Kararı:** `HENÜZ ATANMADI (ÖN SÜRÜM / PRE-RELEASE)`
-- **Hakem Değerlendirme Notu:** Rapor v6.2.1 biçimsel standartlarına göre hazırlanmış ön sürüm niteliğindedir. Bağımsız dış akademik hakem incelemesine açıktır.
+### Z-5 · AKRAN DEĞERLENDİRME VE KALİTE GÜVENCE KAYDI [V11 ZORUNLU]
+- **Proje Yürütücüsü & Baş Araştırmacı:** Mehmet Yarıcı (`ORCID: 0009-0003-0356-8582`)
+- **Akademik Danışman:** Mehmet Emin Koç (`ORCID: 0000-0002-1025-5643`) — Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü
+- **Bağımsız Dış Hakem Değerlendirmesi:** III. Maarif Kongresi (MOIJUB) Hakem Süreci *(Başvurusu yapılmıştır; sonuç beklenmektedir)*
+- **İç Denetim Tarihi:** 2026-04-20
+- **Kalite Güvence Statüsü:** `INTERNAL_AUDIT_PASSED (0 BLOCK, 0 WARN) — EXTERNAL_PEER_REVIEW_PENDING`
+- **Metodolojik Not (İlke 4 — Rol Ayrımı):** Algoritmik iç tutarlılık denetimi (`GemLinterV6 0 BLOCK`) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, `ORCID: 0000-0002-1025-5643`) tarafından yürütülmüştür; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir *(başvurusu yapılmıştır; sonuç beklenmektedir)*.

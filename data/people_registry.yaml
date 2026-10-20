@@ -1,0 +1,30 @@
+version: "6.2.3"
+generated_at: "2026-10-20"
+description: "Quran Vision v6.2.3 Canonical People & Role Separation Registry (L-2507 Identity Lock)"
+people:
+  - id: "person-001"
+    full_name: "Mehmet Yarıcı"
+    orcid: "0009-0003-0356-8582"
+    affiliation: "Bağımsız Araştırmacı / Proje Yürütücüsü (Quran Vision)"
+    roles:
+      - "project_lead"
+      - "principal_investigator"
+      - "internal_sample_audit"
+    forbidden_roles:
+      - "academic_advisor"
+      - "independent_external_reviewer"
+    verified_at: "2026-10-20"
+  - id: "person-002"
+    full_name: "Mehmet Emin Koç"
+    orcid: "0000-0002-1025-5643"
+    affiliation: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
+    roles:
+      - "academic_advisor"
+    forbidden_roles:
+      - "project_lead"
+      - "internal_sample_audit"
+      - "independent_external_reviewer"
+    verified_at: "2026-10-20"
+external_peer_review_authority:
+  venue: "III. Maarif Kongresi (MOIJUB) Hakem Süreci"
+  status: "Başvurusu yapılmıştır; sonuç beklenmektedir (Application submitted; pending independent refereeing)"

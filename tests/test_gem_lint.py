@@ -375,3 +375,74 @@ Bağlantı: https://shamela.ws/book/7798/11532
             blocks = [f for f in linter.findings if f["level"] == BLOCK]
             assert len(blocks) == 0, f"{rep.name} içinde beklenmeyen BLOCK: {blocks}"
 
+    def test_l2507_global_replace_corruption_blocked(self, tmp_path):
+        """Global find-replace sonucu 'Akademik Danışman & Dış Hakem: Mehmet Yarıcı ... AMEA' gibi bozuk künye verildiğinde L-2507 BLOCK üretmeli."""
+        md_file = tmp_path / "corrupted_identity.md"
+        md_file.write_text(
+            """---
+gem_version: "6.2.3"
+case_id: "QV-2026-001"
+verse: "9:5"
+status: "PRE-RELEASE"
+peer_review:
+  status: "PRE-RELEASE"
+  reviewer_name: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"
+  reviewer_title: "Akademik Danışman & Dış Hakem"
+  reviewer_institution: "Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü"
+  reviewer_orcid: "0009-0003-0356-8582"
+---
+- **Proje Yürütücüsü & Baş Araştırmacı:** Mehmet Yarıcı (ORCID: 0009-0003-0356-8582)
+- **Akademik Danışman & Dış Hakem:** Mehmet Yarıcı (Project Lead — Internal Sample Audit) — Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü
+""",
+            encoding="utf-8",
+        )
+        linter = GemLinterV6(md_file, katman=3, h6=True)
+        linter.load_file()
+        linter.check_v17_people_registry()
+
+        l2507_blocks = [f for f in linter.findings if f["rule"] == "L-2507" and f["level"] == BLOCK]
+        assert len(l2507_blocks) >= 2, f"Bozuk AMEA/Akademik Danışman künyesi L-2507 BLOCK üretmeli! Bulunan: {l2507_blocks}"
+
+    def test_l2507_orcid_identity_mismatch_blocked(self, tmp_path):
+        """Aynı ORCID'nin iki farklı isimle veya yanlış danışman/yürütücü eşleşmesiyle verildiği durumda L-2507 BLOCK üretmeli."""
+        bad_people = tmp_path / "bad_people_registry.yaml"
+        bad_people.write_text(
+            """version: "6.2.3"
+people:
+  - id: "person-001"
+    full_name: "Mehmet Yarıcı"
+    orcid: "0009-0003-0356-8582"
+    affiliation: "Bağımsız Araştırmacı / Proje Yürütücüsü (Quran Vision)"
+    roles: ["project_lead", "principal_investigator", "internal_sample_audit"]
+    forbidden_roles: ["academic_advisor", "independent_external_reviewer"]
+    verified_at: "2026-10-20"
+  - id: "person-002"
+    full_name: "Mehmet Emin Koç"
+    orcid: "0009-0003-0356-8582"
+    affiliation: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
+    roles: ["academic_advisor"]
+    forbidden_roles: ["project_lead", "internal_sample_audit", "independent_external_reviewer"]
+    verified_at: "2026-10-20"
+""",
+            encoding="utf-8",
+        )
+        md_file = tmp_path / "orcid_mismatch.md"
+        md_file.write_text(
+            """---
+gem_version: "6.2.3"
+case_id: "QV-2026-001"
+verse: "9:5"
+status: "PRE-RELEASE"
+---
+- **Akademik Danışman:** Mehmet Emin Koç — Azerbaycan Milli İlimler Akademisi (AMEA) — ORCID: 0009-0003-0356-8582
+""",
+            encoding="utf-8",
+        )
+        linter = GemLinterV6(md_file, katman=3, h6=True, people_registry_path=bad_people)
+        linter.load_file()
+        linter.check_v17_people_registry()
+
+        l2507_blocks = [f for f in linter.findings if f["rule"] == "L-2507" and f["level"] == BLOCK]
+        assert len(l2507_blocks) >= 2, f"ORCID çakışması ve yanlış danışman ORCID'si L-2507 BLOCK üretmeli! Bulunan: {l2507_blocks}"
+
+

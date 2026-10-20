@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Quran Vision v6.2.2 — İnteraktif Dijital Külliyat, Akademik Portal ve A4 PDF Üreticisi
+Quran Vision v6.2.3 — İnteraktif Dijital Külliyat, Akademik Portal ve A4 PDF Üreticisi
 Tüm doğrulanmış Quran Vision raporlarını (YAML Frontmatter + 26 Adım Markdown + .sha256 Manifest)
 okuyarak:
 1. İnteraktif HTML5 Akademik Portal (docs/index.html) üretir,
 2. Her bir rapor için bağımsız A4 Akademik PDF (docs/pdf/QV-2026-001.pdf .. 013.pdf) ve
-   13 raporluk Tek Cilt Tam Külliyat PDF'i (docs/pdf/Quran_Vision_Kulliyat_v6.2.2.pdf) üretir.
+   13 raporluk Tek Cilt Tam Külliyat PDF'i (docs/pdf/Quran_Vision_Kulliyat_v6.2.3.pdf) üretir.
 """
 
 import html as html_lib
@@ -236,8 +236,8 @@ def format_inline_md_py(text: str, fn_prefix: str = "", seen_fnrefs: dict | None
     s = html_lib.escape(text)
     # Clean LaTeX math operators & expressions into crisp Unicode typography
     s = re.sub(r"\\text\{([^}]*)\}", r"\1", s)
-    s = s.replace("v6.1.1 ve v6.2.2", "v6.2.2").replace("v6.1.1 & v6.2.2", "v6.2.2")
-    s = re.sub(r"(?<!-)v6\.1\.1(?!\.md)", "v6.2.2", s)
+    s = s.replace("v6.1.1 ve v6.2.3", "v6.2.3").replace("v6.1.1 & v6.2.3", "v6.2.3")
+    s = re.sub(r"(?<!-)v6\.1\.1(?!\.md)", "v6.2.3", s)
     s = s.replace(r"\ge", "≥").replace(r"\le", "≤").replace(r"\approx", "≈")
     s = s.replace(r"\rightarrow", "→").replace(r"\to", "→").replace(r"\%", "%")
     s = re.sub(r"\\frac\{([^}]+)\}\{([^}]+)\}", r"(\1)/(\2)", s)
@@ -340,9 +340,9 @@ def format_z5_yaml_py(yaml_text: str) -> str:
     uzmanlik = html_lib.escape(data.get("uzmanlik_alani", "Tefsir / İslam Hukuku / Sosyal Bilimler"))
     raw_notu = data.get(
         "derkenar_notu",
-        "Rapor Quran Vision v6.2.2 İSNAD 2 akademik atıf standartlarına tam uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem incelemesine hazır durumdadır."
+        "Rapor Quran Vision v6.2.3 İSNAD 2 akademik atıf standartlarına tam uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem incelemesine hazır durumdadır."
     )
-    raw_notu = raw_notu.replace("v6.1.1 ve v6.2.2", "v6.2.2").replace("v6.1.1", "v6.2.2")
+    raw_notu = raw_notu.replace("v6.1.1 ve v6.2.3", "v6.2.3").replace("v6.1.1", "v6.2.3")
     notu = format_inline_md_py(raw_notu)
     return f"""
     <table>
@@ -355,8 +355,8 @@ def format_z5_yaml_py(yaml_text: str) -> str:
       </thead>
       <tbody>
         <tr>
-          <td><strong>Künye &amp; Dış Hakem</strong></td>
-          <td>Rapor: <strong>{rapor_id} ({sure_ayet})</strong> • Hakem: <strong>Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">ORCID: 0009-0003-0356-8582</a>) • Tarih: {tarih} • Uzmanlık: {uzmanlik}</td>
+          <td><strong>Künye, Danışman &amp; Dış Hakem Süreci</strong></td>
+          <td>Rapor: <strong>{rapor_id} ({sure_ayet})</strong> • Proje Yürütücüsü: <strong>Mehmet Yarıcı</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">ORCID: 0009-0003-0356-8582</a>) • Akademik Danışman: <strong>Mehmet Emin Koç</strong> (AMEA, <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">ORCID: 0000-0002-1025-5643</a>) • Bağımsız Dış Hakem: <strong>III. Maarif Kongresi (MOIJUB) Hakem Süreci</strong> • Tarih: {tarih}</td>
           <td><strong>ÖN SÜRÜM (Açık Hakemlik)</strong></td>
         </tr>
         <tr>
@@ -522,13 +522,13 @@ def build_single_report_print_html(r: dict, idx: int, fn_prefix: str = "") -> st
     <article class="pdf-report">
       <div class="pdf-header-banner">
         <div class="pdf-meta-line">
-          <span>KUR’ÂN VİZYONU ENSTİTÜSÜ v6.2.2 • DOI: <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" class="doi-link">10.5281/zenodo.23410818</a> • ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></span>
+          <span>KUR’ÂN VİZYONU ENSTİTÜSÜ v6.2.3 • DOI: <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" class="doi-link">10.5281/zenodo.23410818</a> • ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></span>
           <span>VAKA KODU: <strong>{html_lib.escape(r['case_id'])}</strong></span>
         </div>
         <h1 class="pdf-main-title">{idx}. {html_lib.escape(r['surah'])} Sûresi {html_lib.escape(r['verse'])} — {html_lib.escape(r['topic'])}</h1>
         <div class="pdf-submeta" style="color:#064e3b; background:#eef5f2; padding:5px 8px; border-radius:4px; border-left:3px solid #856404; margin-bottom:6px; line-height:1.45;">
-          👑 <strong>Proje Kurucusu &amp; Başyazar (Eser Sahibi): Mehmet Yarıcı</strong> — <em>Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. MEB İstanbul Bahçelievler Dede Korkut Anadolu Lisesi</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)<br>
-          🏛️ <strong>Akademik Danışman &amp; Dış Hakem: Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)
+          👑 <strong>Proje Yürütücüsü &amp; Baş Araştırmacı: Mehmet Yarıcı</strong> — <em>Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. MEB İstanbul Bahçelievler Dede Korkut Anadolu Lisesi</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)<br>
+          🏛️ <strong>Akademik Danışman: Mehmet Emin Koç</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) &nbsp;|&nbsp; ⚖️ <strong>Bağımsız Dış Hakem:</strong> <em>III. Maarif Kongresi (MOIJUB) Hakem Süreci</em>
         </div>
         <div class="pdf-submeta">
           Katman: 3 (Akademik-Derin) &nbsp;|&nbsp; H6 Zorlu Âyet &nbsp;|&nbsp; Güven Derecesi: {html_lib.escape(r['confidence'])} &nbsp;|&nbsp;
@@ -870,13 +870,13 @@ def build_single_report_print_html_en(r: dict, idx: int, fn_prefix: str = "") ->
     <article class="pdf-report">
       <div class="pdf-header-banner">
         <div class="pdf-meta-line">
-          <span>QURAN VISION INSTITUTE v6.2.2 • DOI: <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" class="doi-link">10.5281/zenodo.23410818</a> • ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></span>
+          <span>QURAN VISION INSTITUTE v6.2.3 • DOI: <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" class="doi-link">10.5281/zenodo.23410818</a> • ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></span>
           <span>CASE ID: <strong>{html_lib.escape(r['case_id'])}</strong></span>
         </div>
         <h1 class="pdf-main-title">{idx}. Surah {html_lib.escape(r.get('surah_en', r['surah']))} {html_lib.escape(r['verse'])} — {html_lib.escape(r.get('topic_en', r['topic']))}</h1>
         <div class="pdf-submeta" style="color:#064e3b; background:#eef5f2; padding:5px 8px; border-radius:4px; border-left:3px solid #856404; margin-bottom:6px; line-height:1.45;">
-          👑 <strong>Founder &amp; Principal Author: Mehmet Yarıcı</strong> — <em>Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)<br>
-          🏛️ <strong>Academic Advisor &amp; External Peer-Reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <em>Azerbaijan National Academy of Sciences (ANAS), Institute of Philosophy and Sociology</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)
+          👑 <strong>Project Lead &amp; Principal Investigator: Mehmet Yarıcı</strong> — <em>Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)<br>
+          🏛️ <strong>Academic Advisor: Mehmet Emin Koç</strong> — <em>Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology</em> (ORCID: <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) &nbsp;|&nbsp; ⚖️ <strong>Independent External Peer Review:</strong> <em>III. Maarif Congress (MOIJUB)</em>
         </div>
         <div class="pdf-submeta">
           Layer: 3 (Academic-Deep) &nbsp;|&nbsp; H6 Complex Verse &nbsp;|&nbsp; Confidence Grade: {html_lib.escape(r['confidence'])} &nbsp;|&nbsp;
@@ -912,12 +912,12 @@ def stamp_pdf_metadata(pdf_path: Path, title: str, subject: str):
         return
     author_str = "Mehmet Yarıcı (ORCID: 0009-0003-0356-8582)"
     keywords_str = (
-        "Quran Vision Corpus v6.2.2; Strategic Tafsir; Maqasid al-Shariah; ISNAD 2; "
+        "Quran Vision Corpus v6.2.3; Strategic Tafsir; Maqasid al-Shariah; ISNAD 2; "
         "Bayesian Policy Simulation; DOI:10.5281/zenodo.23410818; Concept-DOI:10.5281/zenodo.23391192; "
-        "Principal Author: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582); "
-        "Academic Advisor & Peer-Reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)"
+        "Project Lead & Principal Investigator: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582); "
+        "Academic Advisor: Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)"
     )
-    creator_str = "Quran Vision Institute v6.2.2 — Founder & Principal Author: Mehmet Yarıcı"
+    creator_str = "Quran Vision Institute v6.2.3 — Founder & Principal Author: Mehmet Yarıcı"
     try:
         import pymupdf
         doc = pymupdf.open(str(pdf_path))
@@ -947,9 +947,9 @@ def build_isnad2_guide_pdf(browser: str, rebuild_all: bool = False):
     parent_pdf_dir = ROOT.parent / "pdf"
     parent_pdf_dir.mkdir(parents=True, exist_ok=True)
 
-    guide_title = "İSNAD-2 Klasik Arapça Dijital Veri Tabanları ve Tahkik Rehberi | Mehmet Yarıcı (2026) — Quran Vision v6.2.2"
+    guide_title = "İSNAD-2 Klasik Arapça Dijital Veri Tabanları ve Tahkik Rehberi | Mehmet Yarıcı (2026) — Quran Vision v6.2.3"
     guide_subj = (
-        "Quran Vision v6.2.2 (33. Belge) • Yazar: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • "
+        "Quran Vision v6.2.3 (33. Belge) • Yazar: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • "
         "Tarih: 2026 • Lisans: CC-BY-4.0 • Kurumsal Kimlik: Quran Vision • "
         "İçerik: Resmi Suudi Şâmile (v3/v4, el-Muvâfak li'l-Matbû), Altafsir, Noorlib, OpenITI, Şâmiletü'z-Zehebiyye, Waqfeya ve İSNAD-2 Doğrulama Mimarisi"
     )
@@ -959,7 +959,7 @@ def build_isnad2_guide_pdf(browser: str, rebuild_all: bool = False):
         <article class="pdf-report">
           <div class="pdf-header-banner" style="border: 2.5px double #0f5132; padding: 22px 24px; border-radius: 10px; background: #f8faf9; margin-bottom: 18px;">
             <div class="pdf-meta-line" style="font-size: 9.5pt; font-weight: 700; color: #856404; margin-bottom: 8px;">
-              <span>QURAN VISION ENSTİTÜSÜ • METODOLOJİK REHBER SERİSİ (33. BELGE — v6.2.2)</span>
+              <span>QURAN VISION ENSTİTÜSÜ • METODOLOJİK REHBER SERİSİ (33. BELGE — v6.2.3)</span>
               <span>DOI: <a href="https://doi.org/10.5281/zenodo.23410818" class="doi-link">10.5281/zenodo.23410818</a></span>
             </div>
             <h1 class="pdf-main-title" style="font-size: 18pt; color: #091310; margin-bottom: 10px; line-height: 1.3;">
@@ -967,8 +967,8 @@ def build_isnad2_guide_pdf(browser: str, rebuild_all: bool = False):
               <span style="font-size: 11.5pt; font-weight: 600; color: #0f5132;">(ISNAD-2 Classical Arabic Digital Databases &amp; Primary Source Verification Guide)</span>
             </h1>
             <div class="pdf-submeta" style="color:#064e3b; background:#eef5f2; padding:8px 12px; border-radius:6px; border-left:4px solid #856404; margin-bottom:8px; line-height:1.55; font-size:9.5pt;">
-              👑 <strong>Yazar (Author): Mehmet Yarıcı</strong> — <em>Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" class="orcid-link">0009-0003-0356-8582</a>)<br>
-              🏛️ <strong>Akademik Danışman &amp; Dış Hakem: Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" class="orcid-link">0009-0003-0356-8582</a>)<br>
+              👑 <strong>Proje Yürütücüsü &amp; Baş Araştırmacı: Mehmet Yarıcı</strong> — <em>Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" class="orcid-link">0009-0003-0356-8582</a>)<br>
+              🏛️ <strong>Akademik Danışman: Mehmet Emin Koç</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <a href="https://orcid.org/0000-0002-1025-5643" class="orcid-link">0000-0002-1025-5643</a>)<br>
               📅 <strong>Tarih (Date):</strong> 2026 &nbsp;|&nbsp; ⚖️ <strong>Açık Bilim Lisansı (License):</strong> Creative Commons Attribution 4.0 International (<strong>CC-BY-4.0</strong>) &nbsp;|&nbsp; 🏛️ <strong>Kurumsal Kimlik:</strong> <strong>Quran Vision</strong>
             </div>
           </div>
@@ -1064,7 +1064,7 @@ def build_isnad2_guide_pdf(browser: str, rebuild_all: bool = False):
 
             <h2>BÖLÜM 2 — TASAVVUF, İŞÂRÎ TEFSİR VE İRFÂN VERİ TABANLARI (ALTAFSIR, NOORLIB, OPENITI)</h2>
             <p>
-              Quran Vision <code>v6.2.2</code> sürümüyle birlikte 15 monografinin tamamında <strong>Adım 13 (Enfüsî-Âfâkî Diyalektik ve Kalp Fıkhı)</strong> üçlü birleşik mimariye kavuşturulmuş; zâhirî fıkıh ve makâsıd tahlilleri klasik tasavvuf ve işârî tefsir otoritelerinin birincil metinleriyle temellendirilmiştir. Bu katmanda üç ana dijital doğrulama ağı kullanılır:
+              Quran Vision <code>v6.2.3</code> sürümüyle birlikte 15 monografinin tamamında <strong>Adım 13 (Enfüsî-Âfâkî Diyalektik ve Kalp Fıkhı)</strong> üçlü birleşik mimariye kavuşturulmuş; zâhirî fıkıh ve makâsıd tahlilleri klasik tasavvuf ve işârî tefsir otoritelerinin birincil metinleriyle temellendirilmiştir. Bu katmanda üç ana dijital doğrulama ağı kullanılır:
             </p>
             <ul>
               <li><strong>2.1. Altafsir.com (Royal Aal al-Bayt Institute for Islamic Thought — Ürdün):</strong> Sekiz mezhep ve yüzü aşkın tefsiri âyet bazında indeksleyen <a href="https://www.altafsir.com" class="ext-link">https://www.altafsir.com</a> veri tabanında <code>tMadhNo=3</code> parametresi <em>İşârî ve Sûfî Tefsirler</em> koleksiyonunu temsil eder. Örneğin Kuşeyrî'nin (ö. 465/1072) <em>Letâ'ifü'l-İşârât</em>'ı <code>tTafsirNo=30</code>, Sehl et-Tüsterî'nin (ö. 283/896) <em>Tefsîru'l-Kur'âni'l-Azîm</em>'i <code>tTafsirNo=29</code>, İbn Acîbe'nin (ö. 1224/1809) <em>el-Bahrü'l-Medîd</em>'i ise ilgili <code>tSoraNo</code> ve <code>tAyahNo</code> parametreleriyle doğrudan âyet düzeyinde doğrulanır.</li>
@@ -1119,9 +1119,9 @@ def build_isnad2_guide_pdf(browser: str, rebuild_all: bool = False):
               Dijital metin veri tabanlarında optik karakter tanıma (OCR) veya veri girişi kaynaklı dizgi hatalarını (<em>tashîf</em> ve <em>tahrîf</em>) önlemek amacıyla Quran Vision metodolojisi, metin tabanlı Şâmile indeksini <strong>el-Mektebetü'l-Vakfiyye (<a href="https://waqfeya.net" class="ext-link">https://waqfeya.net</a>)</strong> ve <strong>eş-Şâmiletü'z-Zehebiyye (Golden Shamela)</strong> üzerindeki <strong>musavver (tıpkıbasım / taranmış orijinal matbu PDF)</strong> nüshalarla çapraz denetime tabi tutar. Böylece her klasik naklin hem <em>matbu cilt/sayfa numarası</em> hem de <em>dijital Şâmile sayfa kimliği (<code>page_id</code>) ve fihrist başlığı (<code>verified_breadcrumb</code>)</em> çift yönlü olarak mühürlenir.
             </p>
 
-            <h2>BÖLÜM 4 — QURAN VISION v6.2.2 İSNAD-2 VE V16.2 ÇOKLU SUNUCU DOĞRULAMA MİMARİSİ («5 SARSILMAZ KURAL»)</h2>
+            <h2>BÖLÜM 4 — QURAN VISION v6.2.3 İSNAD-2 VE V16.2 ÇOKLU SUNUCU DOĞRULAMA MİMARİSİ («5 SARSILMAZ KURAL»)</h2>
             <p>
-              Quran Vision <code>v6.2.2</code> anayasası (<code>TALIMATNAME.md</code>), tek doğruluk sicili (<code>data/sources_registry.yaml</code>) ve otomatik denetim motoru (<code>src/gem_lint.py</code> V1–V16), külliyattaki mevcut 15 monografi (<code>QV-2026-001</code> – <code>QV-2026-015</code>) ve gelecekte üretilecek tüm raporlar (<code>QV-2026-016+</code>) için aşağıdaki <strong>5 bağlayıcı kuralı</strong> kesici hata (<code>BLOCK</code>) seviyesinde zorunlu kılar:
+              Quran Vision <code>v6.2.3</code> anayasası (<code>TALIMATNAME.md</code>), tek doğruluk sicili (<code>data/sources_registry.yaml</code>) ve otomatik denetim motoru (<code>src/gem_lint.py</code> V1–V16), külliyattaki mevcut 15 monografi (<code>QV-2026-001</code> – <code>QV-2026-015</code>) ve gelecekte üretilecek tüm raporlar (<code>QV-2026-016+</code>) için aşağıdaki <strong>5 bağlayıcı kuralı</strong> kesici hata (<code>BLOCK</code>) seviyesinde zorunlu kılar:
             </p>
             <ol>
               <li><strong>Madde 1 — Lafzî İktibas İlkesi (<em>nakl bi'l-lafz</em> — <code>L-2503 BLOCK</code>):</strong> YAML üst-verisindeki <code>classical_sources</code> altında yer alan <code>arabic_quote</code> alanına ve <code>ADIM 13.3</code> işârî tefsir nakillerine özet/telhîs metin yazılamaz; alıntı doğrudan el-Mektebetü'ş-Şâmile veya Altafsir üzerindeki orijinal metinden harfi harfine alınmalı ve <code>normalize_arabic</code> denetiminde birebir eşleşmelidir.</li>
@@ -1162,7 +1162,7 @@ def build_tymm_pedagogy_guide_pdf(browser: str, reports: list, rebuild_all: bool
     guide_title = "Türkiye Yüzyılı Maarif Modeli (TYMM) DKAB ve İHL Meslek Dersleri 15 Kurucu Âyet Ders Tasarımı Rehberi (Mehmet Yarıcı, 2026)"
     guide_subj = (
         "TYMM DKAB & İHL Meslek Dersleri 15 Kurucu Âyet 40 Dakikalık Ders Tasarımı Rehberi (TTKB 2026 Karar No: 4 & 5 Uyumlu) • "
-        "Yazar: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Lisans: CC-BY-4.0 • Quran Vision Enstitüsü v6.2.2 (DOI: 10.5281/zenodo.23410818)"
+        "Yazar: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Lisans: CC-BY-4.0 • Quran Vision Enstitüsü v6.2.3 (DOI: 10.5281/zenodo.23410818)"
     )
 
     if not out_pdf.exists() or out_pdf.stat().st_size < 1000 or rebuild_all:
@@ -1194,7 +1194,7 @@ def build_tymm_pedagogy_guide_pdf(browser: str, reports: list, rebuild_all: bool
         <article class="pdf-report">
           <div class="pdf-header-banner" style="padding:22px 24px;">
             <div class="pdf-meta-line">
-              <span>QURAN VISION ENSTİTÜSÜ • EBA &amp; ZÜMRE ÖĞRETMEN KILAVUZU (34. BELGE • v6.2.2)</span>
+              <span>QURAN VISION ENSTİTÜSÜ • EBA &amp; ZÜMRE ÖĞRETMEN KILAVUZU (34. BELGE • v6.2.3)</span>
               <span>LİSANS: <strong>CC-BY-4.0</strong> • DOI: <strong>10.5281/zenodo.23410818</strong></span>
             </div>
             <h1 class="pdf-main-title" style="font-size:17pt; margin-bottom:10px;">
@@ -1208,7 +1208,7 @@ def build_tymm_pedagogy_guide_pdf(browser: str, reports: list, rebuild_all: bool
           <section class="pdf-body-content">
             <h2>KILAVUZUN AMACI, 4 ALT BAŞLIKLI TYMM MİMARİSİ VE 5 UYGULAMA ARACI</h2>
             <p>
-              Bu bağımsız öğretmen ve zümre kılavuzu, <strong>Quran Vision v6.2.2</strong> külliyatında yer alan <strong>15 kurucu âyetin (<code>QV-2026-001</code> – <code>QV-2026-015</code>)</strong> her biri için <code>src/gem_lint.py</code> <strong>V15 Pedagojik Kalite Kapısı (<code>L-2401..L-2403</code>)</strong> ve <strong>V16 Çoklu Sunucu Kaynak Sicili (<code>L-2501..L-2506</code>)</strong> ile doğrulanmış 40 dakikalık ders tasarımlarını tek ciltte sunmaktadır. Her ders planı şu 4 standart alt başlıkla yapılandırılmıştır:
+              Bu bağımsız öğretmen ve zümre kılavuzu, <strong>Quran Vision v6.2.3</strong> külliyatında yer alan <strong>15 kurucu âyetin (<code>QV-2026-001</code> – <code>QV-2026-015</code>)</strong> her biri için <code>src/gem_lint.py</code> <strong>V15 Pedagojik Kalite Kapısı (<code>L-2401..L-2403</code>)</strong> ve <strong>V16 Çoklu Sunucu Kaynak Sicili (<code>L-2501..L-2506</code>)</strong> ile doğrulanmış 40 dakikalık ders tasarımlarını tek ciltte sunmaktadır. Her ders planı şu 4 standart alt başlıkla yapılandırılmıştır:
             </p>
             <ul>
               <li><strong>20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi:</strong> Sınıf düzeyi, <code>DKAB.</code> öğrenme çıktıları, Dini Alan Becerileri (<code>DAB1–DAB6</code>), Sosyal-Duygusal Öğrenme Becerileri (<code>SDB1.2</code>, <code>SDB3.3</code>), Bilgi Okuryazarlığı (<code>OB1</code>), Eğilimler (<code>E3.4</code>) ve Makâsıd/Usûl ilkeleri.</li>
@@ -1272,11 +1272,11 @@ def generate_all_pdfs(reports: list):
         all_articles.append(art_html_book)
 
         out_pdf = PDF_DIR / r["pdf_filename"]
-        tr_title = f"{r['case_id']} — {r['surah']} {r['verse']}: {r['topic']} | Kur'an Vizyonu Külliyatı v6.2.2"
+        tr_title = f"{r['case_id']} — {r['surah']} {r['verse']}: {r['topic']} | Kur'an Vizyonu Külliyatı v6.2.3"
         tr_subj = (
-            f"Kur'an Vizyonu Külliyatı v6.2.2 ({r['case_id']}) • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • "
-            "Proje Kurucusu & Başyazar (Eser Sahibi): Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • "
-            "Akademik Danışman & Dış Hakem: Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)"
+            f"Kur'an Vizyonu Külliyatı v6.2.3 ({r['case_id']}) • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • "
+            "Proje Yürütücüsü & Baş Araştırmacı: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • "
+            "Akademik Danışman: Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)"
         )
         if not (out_pdf.exists() and out_pdf.stat().st_size > 1000 and not rebuild_all):
             single_doc = wrap_pdf_document(f"{r['case_id']} - {r['surah']} {r['verse']}", art_html_single)
@@ -1301,11 +1301,11 @@ def generate_all_pdfs(reports: list):
         all_articles_en.append(art_en_book)
 
         out_pdf_en = PDF_DIR / r["pdf_filename_en"]
-        en_title = f"{r['case_id']} — Surah {r.get('surah_en', r['surah'])} {r['verse']}: {r.get('topic_en', r['topic'])} | Quran Vision Corpus v6.2.2"
+        en_title = f"{r['case_id']} — Surah {r.get('surah_en', r['surah'])} {r['verse']}: {r.get('topic_en', r['topic'])} | Quran Vision Corpus v6.2.3"
         en_subj = (
-            f"Quran Vision Corpus v6.2.2 ({r['case_id']}) • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • "
-            "Founder & Principal Author (Corpus Owner): Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • "
-            "Academic Advisor & External Peer-Reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)"
+            f"Quran Vision Corpus v6.2.3 ({r['case_id']}) • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • "
+            "Project Lead & Principal Investigator: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • "
+            "Academic Advisor: Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)"
         )
         if not (out_pdf_en.exists() and out_pdf_en.stat().st_size > 1000 and not rebuild_all):
             single_doc_en = wrap_pdf_document(f"{r['case_id']} - Surah {r.get('surah_en', r['surah'])} {r['verse']} (EN)", art_en_single)
@@ -1329,15 +1329,15 @@ def generate_all_pdfs(reports: list):
     cover_html = f"""
     <div style="page-break-after: always; padding: 48px 28px; text-align: center; border: 3px double #0f5132; border-radius: 12px; margin-top: 24px;">
       <div style="font-size: 11.5pt; font-weight: 700; color: #856404; letter-spacing: 1.4px; margin-bottom: 14px;">
-        QURAN VISION (v6.2.2) • DOI: <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" class="doi-link">10.5281/zenodo.23410818</a> • İSNAD 2 + VERİ BİLİMİ AKADEMİK STANDARDI
+        QURAN VISION (v6.2.3) • DOI: <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" class="doi-link">10.5281/zenodo.23410818</a> • İSNAD 2 + VERİ BİLİMİ AKADEMİK STANDARDI
       </div>
       <h1 style="font-size: 24pt; color: #091310; font-weight: 800; line-height: 1.25; margin-bottom: 14px;">
         Kur'an Vizyonu (Quran Vision)<br>Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı
       </h1>
       <div style="text-align: left; max-width: 560px; margin: 0 auto 18px; padding: 12px 16px; background: #eef5f2; border: 1.5px solid #0f5132; border-left: 5px solid #856404; border-radius: 8px; font-size: 9.5pt; line-height: 1.55;">
         <div style="font-weight: 800; color: #0f5132; margin-bottom: 5px; text-transform: uppercase; letter-spacing: 0.5px;">🏛️ ESER SAHİPLİĞİ, BAŞYAZAR VE AKADEMİK DANIŞMA KÜNYESİ:</div>
-        <div style="margin-bottom: 4px;">👑 <strong>Proje Kurucusu &amp; Başyazar (Eser Sahibi): Mehmet Yarıcı</strong> — <em>Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi</em> (ORCID: <code><a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></code>)</div>
-        <div>🏛️ <strong>Akademik Danışman &amp; Dış Hakem: Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <code><a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></code>)</div>
+        <div style="margin-bottom: 4px;">👑 <strong>Proje Yürütücüsü &amp; Baş Araştırmacı: Mehmet Yarıcı</strong> — <em>Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi</em> (ORCID: <code><a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></code>)</div>
+        <div>🏛️ <strong>Akademik Danışman: Mehmet Emin Koç</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <code><a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a></code>)</div>
       </div>
       <p style="font-size: 11pt; color: #374151; max-width: 560px; margin: 0 auto 18px;">
         26 Adımlı Analitik Çerçeve, İSNAD 2 Klasik Tefsir Tahkiki, Çağdaş Ampirik (DOI) Göstergeler ve
@@ -1352,10 +1352,10 @@ def generate_all_pdfs(reports: list):
       </div>
     </div>
     """
-    book_pdf_path = PDF_DIR / "Quran_Vision_Kulliyat_v6.2.2.pdf"
+    book_pdf_path = PDF_DIR / "Quran_Vision_Kulliyat_v6.2.3.pdf"
     if not book_pdf_path.exists() or rebuild_all:
-        full_book_doc = wrap_pdf_document("Quran_Vision_Tam_Kulliyat_v6_2_2", cover_html + "\n".join(all_articles))
-        book_html_path = PDF_DIR / "Quran_Vision_Kulliyat_v6.2.2.html"
+        full_book_doc = wrap_pdf_document("Quran_Vision_Tam_Kulliyat_v6_2_3", cover_html + "\n".join(all_articles))
+        book_html_path = PDF_DIR / "Quran_Vision_Kulliyat_v6.2.3.html"
         book_html_path.write_text(full_book_doc, encoding="utf-8")
         cmd_book = [
             browser, "--headless", "--disable-gpu", "--no-pdf-header-footer",
@@ -1368,25 +1368,25 @@ def generate_all_pdfs(reports: list):
     if book_pdf_path.exists():
         stamp_pdf_metadata(
             book_pdf_path,
-            f"Kur'an Vizyonu (Quran Vision) Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı v6.2.2 (QV-2026-001 – {last_code})",
-            "Kur'an Vizyonu Külliyatı v6.2.2 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Proje Kurucusu & Başyazar (Eser Sahibi): Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Akademik Danışman & Dış Hakem: Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)",
+            f"Kur'an Vizyonu (Quran Vision) Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı v6.2.3 (QV-2026-001 – {last_code})",
+            "Kur'an Vizyonu Külliyatı v6.2.3 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Proje Yürütücüsü & Baş Araştırmacı: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Akademik Danışman: Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)",
         )
-        shutil.copy2(book_pdf_path, DESKTOP_PDF_DIR / "Quran_Vision_Kulliyat_v6.2.2.pdf")
-        shutil.copy2(book_pdf_path, parent_pdf_dir / "Quran_Vision_Kulliyat_v6.2.2.pdf")
+        shutil.copy2(book_pdf_path, DESKTOP_PDF_DIR / "Quran_Vision_Kulliyat_v6.2.3.pdf")
+        shutil.copy2(book_pdf_path, parent_pdf_dir / "Quran_Vision_Kulliyat_v6.2.3.pdf")
 
     # Full English Corpus Book PDF
     cover_en_html = f"""
     <div style="page-break-after: always; padding: 48px 28px; text-align: center; border: 3px double #0f5132; border-radius: 12px; margin-top: 24px;">
       <div style="font-size: 11.5pt; font-weight: 700; color: #856404; letter-spacing: 1.4px; margin-bottom: 14px;">
-        QURAN VISION INSTITUTE (v6.2.2) • DOI: <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" class="doi-link">10.5281/zenodo.23410818</a> • ISNAD 2 + EMPIRICAL DATA SCIENCE STANDARD
+        QURAN VISION INSTITUTE (v6.2.3) • DOI: <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" class="doi-link">10.5281/zenodo.23410818</a> • ISNAD 2 + EMPIRICAL DATA SCIENCE STANDARD
       </div>
       <h1 style="font-size: 24pt; color: #091310; font-weight: 800; line-height: 1.25; margin-bottom: 14px;">
         QURAN VISION CORPUS<br>Strategic Tafsir, Maqasid &amp; Civilization Foresight
       </h1>
       <div style="text-align: left; max-width: 560px; margin: 0 auto 18px; padding: 12px 16px; background: #eef5f2; border: 1.5px solid #0f5132; border-left: 5px solid #856404; border-radius: 8px; font-size: 9.5pt; line-height: 1.55;">
         <div style="font-weight: 800; color: #0f5132; margin-bottom: 5px; text-transform: uppercase; letter-spacing: 0.5px;">🏛️ CORPUS OWNERSHIP, PRINCIPAL AUTHOR &amp; ACADEMIC ADVISORY BOARD:</div>
-        <div style="margin-bottom: 4px;">👑 <strong>Founder &amp; Principal Author (Copyright Owner): Mehmet Yarıcı</strong> — <em>Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School</em> (ORCID: <code><a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></code>)</div>
-        <div>🏛️ <strong>Academic Advisor &amp; External Peer-Reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <em>Azerbaijan National Academy of Sciences (ANAS), Institute of Philosophy and Sociology</em> (ORCID: <code><a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></code>)</div>
+        <div style="margin-bottom: 4px;">👑 <strong>Project Lead &amp; Principal Investigator: Mehmet Yarıcı</strong> — <em>Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School</em> (ORCID: <code><a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a></code>)</div>
+        <div>🏛️ <strong>Academic Advisor: Mehmet Emin Koç</strong> — <em>Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology</em> (ORCID: <code><a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a></code>)</div>
       </div>
       <p style="font-size: 11pt; color: #374151; max-width: 560px; margin: 0 auto 18px;">
         26-Step Analytical Framework, ISNAD 2 Classical Tafsir Verification, Contemporary Empirical (DOI) Indicators, and
@@ -1401,10 +1401,10 @@ def generate_all_pdfs(reports: list):
       </div>
     </div>
     """
-    book_en_pdf_path = PDF_DIR / "Quran_Vision_Corpus_EN_v6.2.2.pdf"
+    book_en_pdf_path = PDF_DIR / "Quran_Vision_Corpus_EN_v6.2.3.pdf"
     if not book_en_pdf_path.exists() or rebuild_all:
-        full_book_en_doc = wrap_pdf_document("Quran_Vision_Corpus_EN_v6_2_2", cover_en_html + "\n".join(all_articles_en))
-        book_en_html_path = PDF_DIR / "Quran_Vision_Corpus_EN_v6.2.2.html"
+        full_book_en_doc = wrap_pdf_document("Quran_Vision_Corpus_EN_v6_2_3", cover_en_html + "\n".join(all_articles_en))
+        book_en_html_path = PDF_DIR / "Quran_Vision_Corpus_EN_v6.2.3.html"
         book_en_html_path.write_text(full_book_en_doc, encoding="utf-8")
         cmd_book_en = [
             browser, "--headless", "--disable-gpu", "--no-pdf-header-footer",
@@ -1417,11 +1417,11 @@ def generate_all_pdfs(reports: list):
     if book_en_pdf_path.exists():
         stamp_pdf_metadata(
             book_en_pdf_path,
-            f"Quran Vision Corpus: Strategic Tafsir, Maqasid & Civilization Foresight v6.2.2 (QV-2026-001 – {last_code})",
-            "Quran Vision Corpus v6.2.2 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Founder & Principal Author (Corpus Owner): Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Academic Advisor & External Peer-Reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582)",
+            f"Quran Vision Corpus: Strategic Tafsir, Maqasid & Civilization Foresight v6.2.3 (QV-2026-001 – {last_code})",
+            "Quran Vision Corpus v6.2.3 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Project Lead & Principal Investigator: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Academic Advisor: Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)",
         )
-        shutil.copy2(book_en_pdf_path, DESKTOP_PDF_DIR / "Quran_Vision_Corpus_EN_v6.2.2.pdf")
-        shutil.copy2(book_en_pdf_path, parent_pdf_dir / "Quran_Vision_Corpus_EN_v6.2.2.pdf")
+        shutil.copy2(book_en_pdf_path, DESKTOP_PDF_DIR / "Quran_Vision_Corpus_EN_v6.2.3.pdf")
+        shutil.copy2(book_en_pdf_path, parent_pdf_dir / "Quran_Vision_Corpus_EN_v6.2.3.pdf")
 
     # 33rd Document: ISNAD-2 Classical Arabic Digital Databases Guide PDF
     build_isnad2_guide_pdf(browser, rebuild_all=rebuild_all)
@@ -1429,10 +1429,10 @@ def generate_all_pdfs(reports: list):
     # 34th Document: TYMM DKAB & IHL 15-Verse Lesson Design Guide PDF
     build_tymm_pedagogy_guide_pdf(browser, reports, rebuild_all=rebuild_all)
 
-    # Clean up any legacy v6.2.1 full corpus PDFs
+    # Clean up any legacy v6.2.1 / v6.2.2 full corpus PDFs
     for d in (PDF_DIR, DESKTOP_PDF_DIR, parent_pdf_dir):
         if d.exists():
-            for old_f in d.glob("*v6.2.1*.pdf"):
+            for old_f in list(d.glob("*v6.2.1*.pdf")) + list(d.glob("*v6.2.2*.pdf")):
                 old_f.unlink(missing_ok=True)
 
 
@@ -1578,7 +1578,7 @@ def build_html(reports, source_manifest=None):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KUR’ÂN VİZYONU • QURAN VISION CORPUS (v6.2.2) — 26-Step Strategic Tafsir & Foresight</title>
+<title>KUR’ÂN VİZYONU • QURAN VISION CORPUS (v6.2.3) — 26-Step Strategic Tafsir & Foresight</title>
 <meta name="description" content="Bilingual (TR/EN) 26-Step Evidence-Based Strategic Tafsir, Maqasid & Civilization Foresight Corpus. {len(reports)} Foundational Verse Reports, {total_classical} Primary Arabic ISNAD 2 Citations, {total_modern} Empirical DOI Datasets & 40-Min TYMM Lesson Plans.">
 <meta name="keywords" content="Quran Vision, Kur'an Vizyonu, Strategic Tafsir, Stratejik Tefsir, Maqasid al-Shariah, ISNAD 2, Bayesian Policy Modeling, TYMM Ders Planı, Islamic Studies, Mehmet Yarıcı">
 <meta name="author" content="Mehmet Yarıcı — Quran Vision Institute">
@@ -1587,7 +1587,7 @@ def build_html(reports, source_manifest=None):
 <!-- OpenGraph / LinkedIn / WhatsApp / Facebook Rich Preview -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="QURAN VISION INSTITUTE • KUR’ÂN VİZYONU KÜLLİYATI">
-<meta property="og:title" content="🏛️ QURAN VISION CORPUS (v6.2.2) — Bilingual Strategic Tafsir & Foresight ({len(reports)} Reports)">
+<meta property="og:title" content="🏛️ QURAN VISION CORPUS (v6.2.3) — Bilingual Strategic Tafsir & Foresight ({len(reports)} Reports)">
 <meta property="og:description" content="{len(reports)} Foundational Quranic Verse Monographs (TR & EN) • {total_classical} Verified Classical Arabic Citations (ISNAD 2) • {total_modern} Empirical Institutional Datasets (DOI) • 2026–2036 Bayesian Scenarios & A4 PDF Books.">
 <meta property="og:url" content="https://mehmetyarici-crypto.github.io/quran-vision/">
 <meta property="og:locale" content="tr_TR">
@@ -1595,18 +1595,18 @@ def build_html(reports, source_manifest=None):
 
 <!-- Twitter / X Rich Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="🏛️ QURAN VISION CORPUS (v6.2.2) — Strategic Tafsir & Civilization Foresight (TR/EN)">
+<meta name="twitter:title" content="🏛️ QURAN VISION CORPUS (v6.2.3) — Strategic Tafsir & Civilization Foresight (TR/EN)">
 <meta name="twitter:description" content="{len(reports)} Bilingual 26-Step Verse Reports • {total_classical} ISNAD 2 Classical Citations • {total_modern} Empirical DOI Datasets • Standalone TR/EN A4 PDFs.">
 
 <!-- Google Scholar / Highwire Press Academic Indexing Meta Tags -->
-<meta name="citation_title" content="Quran Vision Corpus (Kur'ân Vizyonu Külliyatı): 26-Step Evidence-Based Strategic Tafsir, Maqasid and Civilization Foresight Corpus (v6.2.2)">
+<meta name="citation_title" content="Quran Vision Corpus (Kur'ân Vizyonu Külliyatı): 26-Step Evidence-Based Strategic Tafsir, Maqasid and Civilization Foresight Corpus (v6.2.3)">
 <meta name="citation_author" content="Yarıcı, Mehmet">
 <meta name="citation_author_institution" content="Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi">
 <meta name="citation_author_orcid" content="0009-0003-0356-8582">
 <meta name="citation_publication_date" content="2026/10/15">
 <meta name="citation_publisher" content="Zenodo / Quran Vision Institute">
 <meta name="citation_doi" content="10.5281/zenodo.23410818">
-<meta name="citation_pdf_url" content="https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.2.pdf">
+<meta name="citation_pdf_url" content="https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.3.pdf">
 <meta name="citation_fulltext_html_url" content="https://mehmetyarici-crypto.github.io/quran-vision/">
 
 <!-- Schema.org Academic Dataset & Book Structured Data -->
@@ -1614,11 +1614,11 @@ def build_html(reports, source_manifest=None):
 {{
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "name": "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı) v6.2.2",
+  "name": "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı) v6.2.3",
   "alternateName": "26-Step Evidence-Based Strategic Tafsir, Maqasid & Civilization Foresight Corpus",
   "identifier": "https://doi.org/10.5281/zenodo.23410818",
   "description": "Bilingual (Turkish/English) academic corpus of {len(reports)} foundational Quranic verse monographs integrating {total_classical} primary Arabic classical tafsir citations (ISNAD 2) with {total_modern} contemporary empirical datasets (APA 7 / DOI) and 2026-2036 Bayesian policy simulations.",
-  "version": "6.2.2",
+  "version": "6.2.3",
   "url": "https://mehmetyarici-crypto.github.io/quran-vision/",
   "sameAs": [
     "https://doi.org/10.5281/zenodo.23391192",
@@ -1637,23 +1637,23 @@ def build_html(reports, source_manifest=None):
   }},
   "contributor": {{
     "@type": "Person",
-    "name": "Mehmet Yarıcı (Project Lead — Internal Sample Audit)",
-    "jobTitle": "Academic Advisor & External Peer-Reviewer (Akademik Danışman ve Dış Hakem)",
-    "affiliation": "Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü",
-    "identifier": "https://orcid.org/0009-0003-0356-8582",
-    "sameAs": "https://orcid.org/0009-0003-0356-8582"
+    "name": "Mehmet Emin Koç",
+    "jobTitle": "Academic Advisor (Akademik Danışman)",
+    "affiliation": "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü",
+    "identifier": "https://orcid.org/0000-0002-1025-5643",
+    "sameAs": "https://orcid.org/0000-0002-1025-5643"
   }},
   "distribution": [
     {{
       "@type": "DataDownload",
       "encodingFormat": "application/pdf",
-      "contentUrl": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.2.pdf",
+      "contentUrl": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.3.pdf",
       "name": "Quran Vision Full Corpus Book (English A4 PDF)"
     }},
     {{
       "@type": "DataDownload",
       "encodingFormat": "application/pdf",
-      "contentUrl": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Kulliyat_v6.2.2.pdf",
+      "contentUrl": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Kulliyat_v6.2.3.pdf",
       "name": "Kur'ân Vizyonu Tam Külliyat Kitabı (Türkçe A4 PDF)"
     }}
   ]
@@ -2579,7 +2579,7 @@ a.fn-backref:hover {{
 <aside id="sidebar" class="sidebar">
   <div class="brand">
     <div class="brand-top-row">
-      <div class="brand-badge" id="brandBadge">🏛️ QURAN VISION ENSTİTÜSÜ • v6.2.2</div>
+      <div class="brand-badge" id="brandBadge">🏛️ QURAN VISION ENSTİTÜSÜ • v6.2.3</div>
     </div>
     <div class="brand-identity">
       <div class="brand-crest">
@@ -2631,7 +2631,7 @@ a.fn-backref:hover {{
     </div>
     <div class="top-actions">
       <a id="downloadPdfBtn" class="btn btn-primary" href="pdf/QV-2026-001.pdf" download="QV-2026-001.pdf" onclick="trackReportDownload(REPORTS[currentIndex].case_id)">📥 Rapor PDF</a>
-      <a id="fullBookPdfBtn" class="btn btn-gold" href="pdf/Quran_Vision_Kulliyat_v6.2.2.pdf" download="Quran_Vision_Kulliyat_v6.2.2.pdf" onclick="trackCorpusDownload()">📚 Tüm Külliyat PDF</a>
+      <a id="fullBookPdfBtn" class="btn btn-gold" href="pdf/Quran_Vision_Kulliyat_v6.2.3.pdf" download="Quran_Vision_Kulliyat_v6.2.3.pdf" onclick="trackCorpusDownload()">📚 Tüm Külliyat PDF</a>
       <button id="langToggleTopBtn" type="button" class="btn" onclick="setLanguage(currentLang === 'tr' ? 'en' : 'tr')">🌐 TR / EN</button>
       <button id="themeBtn" type="button" class="btn btn-gold" onclick="toggleTheme()">☀️ Açık Mod</button>
     </div>
@@ -2978,8 +2978,8 @@ function setLanguage(lang) {{
 
   const isEn = currentLang === 'en';
   document.getElementById('brandBadge').textContent = isEn
-    ? '🏛️ QURAN VISION INSTITUTE • v6.2.2'
-    : '🏛️ QURAN VISION ENSTİTÜSÜ • v6.2.2';
+    ? '🏛️ QURAN VISION INSTITUTE • v6.2.3'
+    : '🏛️ QURAN VISION ENSTİTÜSÜ • v6.2.3';
   document.getElementById('brandTitle').textContent = isEn
     ? 'QURAN VISION CORPUS'
     : 'KUR’ÂN VİZYONU';
@@ -3005,8 +3005,8 @@ function setLanguage(lang) {{
 
   const fullBookBtn = document.getElementById('fullBookPdfBtn');
   if (fullBookBtn) {{
-    fullBookBtn.href = isEn ? 'pdf/Quran_Vision_Corpus_EN_v6.2.2.pdf' : 'pdf/Quran_Vision_Kulliyat_v6.2.2.pdf';
-    fullBookBtn.setAttribute('download', isEn ? 'Quran_Vision_Corpus_EN_v6.2.2.pdf' : 'Quran_Vision_Kulliyat_v6.2.2.pdf');
+    fullBookBtn.href = isEn ? 'pdf/Quran_Vision_Corpus_EN_v6.2.3.pdf' : 'pdf/Quran_Vision_Kulliyat_v6.2.3.pdf';
+    fullBookBtn.setAttribute('download', isEn ? 'Quran_Vision_Corpus_EN_v6.2.3.pdf' : 'Quran_Vision_Kulliyat_v6.2.3.pdf');
     fullBookBtn.innerHTML = isEn ? `📚 Full Corpus PDF` : `📚 Tüm Külliyat PDF`;
   }}
   document.getElementById('langToggleTopBtn').innerHTML = isEn ? '🌐 EN ➔ TR' : '🌐 TR ➔ EN';
@@ -3064,7 +3064,7 @@ function selectReport(idx) {{
   const activePdfFile = isEn ? (r.pdf_filename_en || r.pdf_filename) : r.pdf_filename;
   const activeMdPath = isEn ? `docs/en/${{r.filename_en || r.filename}}` : `docs/tr/${{r.filename}}`;
 
-  document.title = `${{r.case_id}} - ${{surahDisp}} ${{r.verse}} - Quran Vision v6.2.2`;
+  document.title = `${{r.case_id}} - ${{surahDisp}} ${{r.verse}} - Quran Vision v6.2.3`;
   const dlBtn = document.getElementById('downloadPdfBtn');
   if (dlBtn) {{
     dlBtn.href = `pdf/${{activePdfFile}}`;
@@ -3084,23 +3084,23 @@ function selectReport(idx) {{
     <div class="hero-title">${{topicDisp}}</div>
     <details class="meta-disclosure">
       <summary class="meta-summary">
-        <span>🏛️ ${{isEn ? 'Academic Ownership, COPE Role Disclosure, ORCID & External SHA-256 Seal (M. Yarıcı • Advisor: M. Yarıcı (Internal Sample Audit))' : 'Akademik Künye, COPE Rol Beyanı, ORCID & Harici SHA-256 Mührü (M. Yarıcı • Danışman: M. Yarıcı (Internal Sample Audit))'}}</span>
+        <span>🏛️ ${{isEn ? 'Academic Ownership, Role Separation (L-2507), ORCID & External SHA-256 Seal (Lead: M. Yarıcı • Advisor: M. E. Koç — AMEA)' : 'Akademik Künye, Rol Ayrımı (L-2507), ORCID & Harici SHA-256 Mührü (Yürütücü: M. Yarıcı • Danışman: M. E. Koç — AMEA)'}}</span>
       </summary>
       <div class="meta-disclosure-body">
-        <div>👑 <strong>${{isEn ? 'Founder & Principal Author (Corpus Owner):' : 'Proje Kurucusu & Başyazar (Eser Sahibi):'}} Mehmet Yarıcı</strong> — <span style="color:var(--text-secondary);">${{isEn ? 'Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School' : 'Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi'}}</span> &nbsp;<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-family:'JetBrains Mono',monospace; font-size:11.5px; text-decoration:none;">[ORCID: 0009-0003-0356-8582]</a></div>
-        <div>🏛️ <strong>${{isEn ? 'Academic Advisor & External Peer-Reviewer:' : 'Akademik Danışman & Dış Hakem:'}} Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> — <span style="color:var(--text-secondary);">${{isEn ? 'Azerbaijan National Academy of Sciences (ANAS), Institute of Philosophy and Sociology' : 'Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü'}}</span> &nbsp;<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-family:'JetBrains Mono',monospace; font-size:11.5px; text-decoration:none;">[ORCID: 0009-0003-0356-8582]</a></div>
+        <div>👑 <strong>${{isEn ? 'Project Lead & Principal Investigator:' : 'Proje Yürütücüsü & Baş Araştırmacı:'}} Mehmet Yarıcı</strong> — <span style="color:var(--text-secondary);">${{isEn ? 'Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School' : 'Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi'}}</span> &nbsp;<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-family:'JetBrains Mono',monospace; font-size:11.5px; text-decoration:none;">[ORCID: 0009-0003-0356-8582]</a></div>
+        <div>🏛️ <strong>${{isEn ? 'Academic Advisor:' : 'Akademik Danışman:'}} Mehmet Emin Koç</strong> — <span style="color:var(--text-secondary);">${{isEn ? 'Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology' : 'Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü'}}</span> &nbsp;<a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-family:'JetBrains Mono',monospace; font-size:11.5px; text-decoration:none;">[ORCID: 0000-0002-1025-5643]</a></div>
         <div style="font-size:11.5px; color:var(--text-secondary); line-height:1.55; padding:6px 10px; border-left:2px solid var(--accent-emerald); background:var(--bg-card); border-radius:4px; margin:4px 0;">
-          ⚖️ <strong>${{isEn ? 'Governance & Role Disclosure (COPE & Principle 4):' : 'Akademik Yönetişim ve Rol Beyanı (COPE & İlke 4):'}}</strong>
+          ⚖️ <strong>${{isEn ? 'Independent External Peer Review & Role Separation (Principle 4 / L-2507):' : 'Bağımsız Dış Hakem Değerlendirmesi ve Rol Ayrımı (İlke 4 / L-2507):'}}</strong>
           ${{isEn
-            ? 'Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ANAS / AMEA) conducted the methodological external audit and academic advisory process as an independent scholar outside the author&#39;s institution. In accordance with COPE publication ethics and Principle 4 (Role Separation) transparency, this dual advisory/review role is explicitly disclosed; the entire corpus remains permanently open to third-party independent scholarly commentary under the <strong>Z-5 Open Peer-Review</strong> protocol.'
-            : 'Mehmet Yarıcı (Project Lead — Internal Sample Audit) (AMEA / ANAS), kurum dışı bağımsız akademisyen sıfatıyla metodolojik dış denetim ve akademik danışmanlık sürecini yürütmüştür. COPE yayın etiği ve İlke 4 (Rol Ayrımı) şeffaflığı gereği bu ikili rol açıkça beyan edilir; külliyatın tamamı <strong>Z-5 Açık Hakemlik (Open Peer-Review)</strong> protokolüyle üçüncü taraf bağımsız akademisyen şerhlerine daima açıktır.'}}
+            ? 'Independent External Peer Review: <strong>III. Maarif Congress (MOIJUB) Peer-Review Process</strong> (Application submitted; pending decision). Project leadership (Mehmet Yarıcı), academic advisory (Mehmet Emin Koç — AMEA), and independent external peer review are strictly separated via <code>data/people_registry.yaml</code> and <code>L-2507</code>.'
+            : 'Bağımsız Dış Hakem Değerlendirmesi: <strong>III. Maarif Kongresi (MOIJUB) Hakem Süreci</strong> (Başvurusu yapılmıştır; sonuç beklenmektedir). Proje yürütücülüğü (Mehmet Yarıcı), akademik danışmanlık (Mehmet Emin Koç — AMEA) ve bağımsız dış hakem değerlendirmesi <code>data/people_registry.yaml</code> ve <code>L-2507</code> kilidiyle kesin olarak ayrılmıştır.'}}
         </div>
         <div class="sha-bar">
           🔒 <strong>${{isEn ? 'External SHA-256 Digest (V4):' : 'Harici SHA-256 Özeti (V4):'}}</strong> <code>${{isEn ? (r.sha256_en || r.sha256) : r.sha256}}</code>
           &nbsp;|&nbsp; 📄 <code>${{activeMdPath}}.sha256</code>
           &nbsp;|&nbsp; 📋 <a href="https://github.com/mehmetyarici-crypto/quran-vision/blob/main/SHA256SUMS.txt" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-weight:600;">SHA256SUMS.txt</a>
           &nbsp;|&nbsp; 💻 <code>sha256sum -c SHA256SUMS.txt</code>
-          &nbsp;|&nbsp; 🏛️ <strong>DOI (v6.2.2):</strong> <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" style="color:var(--accent-gold);">10.5281/zenodo.23410818</a> <span style="opacity:0.8;">(Concept: <a href="https://doi.org/10.5281/zenodo.23391192" target="_blank" rel="noopener" style="color:var(--accent-emerald);">10.5281/zenodo.23391192</a>)</span>
+          &nbsp;|&nbsp; 🏛️ <strong>DOI (v6.2.3):</strong> <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" style="color:var(--accent-gold);">10.5281/zenodo.23410818</a> <span style="opacity:0.8;">(Concept: <a href="https://doi.org/10.5281/zenodo.23391192" target="_blank" rel="noopener" style="color:var(--accent-emerald);">10.5281/zenodo.23391192</a>)</span>
           <div style="font-size:11px; color:var(--text-muted); margin-top:3px;">
             ${{isEn
               ? 'ℹ️ V4 Cryptographic Discipline: To prevent a self-referential hash paradox, cryptographic digests are never embedded inside the report body; they are stored in external .sha256 manifests and the root SHA256SUMS.txt ledger.'
@@ -3253,7 +3253,7 @@ function selectReport(idx) {{
     <div class="panel" style="margin-bottom:18px; padding:14px 20px; border-color:var(--accent-gold-border); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
       <div style="display:flex; flex-direction:column; gap:3px; flex:1 1 320px;">
         <strong style="color:var(--accent-gold); font-size:14px;">🏛️ ${{isEn ? 'ISNAD-2 Classical Arabic Digital Databases & Verification Guide (Mehmet Yarıcı, 2026 • CC-BY-4.0)' : 'İSNAD-2 Klasik Arapça Dijital Veri Tabanları ve Tahkik Rehberi (Mehmet Yarıcı, 2026 • CC-BY-4.0)'}}</strong>
-        <span style="font-size:12.5px; color:var(--text-secondary);">${{isEn ? 'Official Saudi Shamela (v3/v4 al-Muwafaq li-l-Matbu), Altafsir Sufi/Ishari Corpus, Noorlib, OpenITI, Waqfeya & Quran Vision v6.2.2 Verification Architecture' : 'Resmi Suudi Şâmile (v3/v4 el-Muvâfak li&#39;l-Matbû), Altafsir İşârî/İrfânî Koleksiyonu, Noorlib, OpenITI, Waqfeya ve Quran Vision v6.2.2 Tahkik Mimarisi'}}</span>
+        <span style="font-size:12.5px; color:var(--text-secondary);">${{isEn ? 'Official Saudi Shamela (v3/v4 al-Muwafaq li-l-Matbu), Altafsir Sufi/Ishari Corpus, Noorlib, OpenITI, Waqfeya & Quran Vision v6.2.3 Verification Architecture' : 'Resmi Suudi Şâmile (v3/v4 el-Muvâfak li&#39;l-Matbû), Altafsir İşârî/İrfânî Koleksiyonu, Noorlib, OpenITI, Waqfeya ve Quran Vision v6.2.3 Tahkik Mimarisi'}}</span>
       </div>
       <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
         <a class="btn btn-gold" style="white-space:normal; text-align:center;" href="pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf" download="ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf" title="📥 Klasik Arapça Dijital Veri Tabanları ve Tahkik Rehberi (33. Belge PDF)">
@@ -3430,7 +3430,7 @@ function buildLessonPlanText() {{
   const isEn = currentLang === 'en';
   const scholarsList = (r.classical_sources || []).map(cs => cs.author).join(', ');
   if (isEn) {{
-    return `*QURAN VISION (v6.2.2) — 40-MIN LESSON & DEBATE PLAN*\\n` +
+    return `*QURAN VISION (v6.2.3) — 40-MIN LESSON & DEBATE PLAN*\\n` +
       `━━━━━━━━━━━━━━━━━━━━\\n` +
       `📖 *Verse:* Surah ${{getReportSurah(r)}} ${{r.verse}} (${{r.case_id}})\\n` +
       `🎯 *Strategic Theme:* ${{getReportTopic(r)}}\\n` +
@@ -3441,7 +3441,7 @@ function buildLessonPlanText() {{
       `📋 *Stage 4 (33-40 Min - Assessment):* Bayesian shift from ${{Math.round(r.prior*100)}}% -> ${{Math.round(r.posterior*100)}}% and ethical application.\\n` +
       `🔗 *Full Report & PDF:* https://mehmetyarici-crypto.github.io/quran-vision/`;
   }}
-  return `*QURAN VISION (v6.2.2) — TYMM UYUMLU 40 DK DERS & MÜNAZARA PLANI*\\n` +
+  return `*QURAN VISION (v6.2.3) — TYMM UYUMLU 40 DK DERS & MÜNAZARA PLANI*\\n` +
     `━━━━━━━━━━━━━━━━━━━━\\n` +
     `📖 *Ders Konusu:* ${{r.surah}} Sûresi ${{r.verse}} (${{r.case_id}})\\n` +
     `🎯 *Stratejik Tema:* ${{r.topic}}\\n` +
@@ -3553,7 +3553,7 @@ function renderSynthesisTab() {{
       </div>
 
       <div class="panel">
-        <h3><span>🏛️ ${{isEn ? 'Methodological Architecture Summary' : 'Metodolojik Mimari Özeti'}}</span><span>v6.2.2</span></h3>
+        <h3><span>🏛️ ${{isEn ? 'Methodological Architecture Summary' : 'Metodolojik Mimari Özeti'}}</span><span>v6.2.3</span></h3>
         <div class="source-card">
           <div class="source-author">${{isEn ? `1. ISNAD 2 Classical Tafsir Verification (${{TOTAL_CLASSICAL}} Primary Citations)` : `1. İSNAD 2 Klasik Tefsir Tahkiki (${{TOTAL_CLASSICAL}} Arapça Nakil)`}}</div>
           <div class="source-meta">${{isEn
@@ -3766,7 +3766,7 @@ function buildFormattedFeedbackText() {{
 
   return {{
     r, author, category, content, source,
-    formatted: `*QURAN VISION (v6.2.2) — ${{isEn ? 'ACADEMIC PEER-REVIEW & FEEDBACK CARD' : 'AKADEMİK ŞERH & GERİ DÖNÜT KARTI'}}*\\n` +
+    formatted: `*QURAN VISION (v6.2.3) — ${{isEn ? 'ACADEMIC PEER-REVIEW & FEEDBACK CARD' : 'AKADEMİK ŞERH & GERİ DÖNÜT KARTI'}}*\\n` +
       `━━━━━━━━━━━━━━━━━━━━\\n` +
       `📌 *${{isEn ? 'Report' : 'Rapor'}}:* ${{r.case_id}} — ${{getReportSurah(r)}} ${{r.verse}}\\n` +
       `📖 *${{isEn ? 'Topic' : 'Konu'}}:* ${{getReportTopic(r)}}\\n` +
@@ -3801,7 +3801,7 @@ function openGitHubPeerReview() {{
   saveNoteToStorage(data);
   const issueTitle = `[${{data.category}}] ${{data.r.case_id}} (${{data.r.surah}} ${{data.r.verse}}) — ${{data.author}}`;
   const issueBody =
-    `### 🏛️ Quran Vision (v6.2.2) Akademik Şerh & Katkı Kaydı\\n\\n` +
+    `### 🏛️ Quran Vision (v6.2.3) Akademik Şerh & Katkı Kaydı\\n\\n` +
     `- **Vaka Kodu:** ${{data.r.case_id}}\\n` +
     `- **Sûre ve Âyet:** ${{data.r.surah}} Sûresi ${{data.r.verse}}\\n` +
     `- **Rapor Başlığı:** ${{data.r.topic}}\\n` +
@@ -3977,9 +3977,9 @@ function formatInlineMd(str, seenFnRefs = null) {{
   const isEn = currentLang === 'en';
   let s = str
     .replace(/\\\\text\\{{([^}}]*)\\}}/g, '$1')
-    .replace(/v6\\.1\\.1 ve v6\\.2\\.1/g, 'v6.2.2')
-    .replace(/v6\\.1\\.1 & v6\\.2\\.1/g, 'v6.2.2')
-    .replace(/(?<!-)v6\\.1\\.1(?!\\.md)/g, 'v6.2.2')
+    .replace(/v6\\.1\\.1 ve v6\\.2\\.1/g, 'v6.2.3')
+    .replace(/v6\\.1\\.1 & v6\\.2\\.1/g, 'v6.2.3')
+    .replace(/(?<!-)v6\\.1\\.1(?!\\.md)/g, 'v6.2.3')
     .replace(/\\\\ge/g, '≥')
     .replace(/\\\\le/g, '≤')
     .replace(/\\\\approx/g, '≈')
@@ -4072,9 +4072,9 @@ function formatZ5YamlJs(rawYaml) {{
   const tarih = data.tarih || '2026-10-15';
   const uzmanlik = data.uzmanlik_alani || (isEn ? 'Tafsir / Islamic Law / Social Sciences' : 'Tefsir / İslam Hukuku / Sosyal Bilimler');
   let notu = data.derkenar_notu || (isEn
-    ? 'Produced in full compliance with Quran Vision v6.2.2 ISNAD 2 and APA 7 / DOI standards; open for independent external academic peer review.'
-    : 'Rapor Quran Vision v6.2.2 İSNAD 2 akademik atıf standartlarına tam uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem incelemesine hazır durumdadır.');
-  notu = formatInlineMd(notu.replace(/v6\\.1\\.1 ve v6\\.2\\.1/g, 'v6.2.2').replace(/v6\\.1\\.1/g, 'v6.2.2'));
+    ? 'Produced in full compliance with Quran Vision v6.2.3 ISNAD 2 and APA 7 / DOI standards; open for independent external academic peer review.'
+    : 'Rapor Quran Vision v6.2.3 İSNAD 2 akademik atıf standartlarına tam uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem incelemesine hazır durumdadır.');
+  notu = formatInlineMd(notu.replace(/v6\\.1\\.1 ve v6\\.2\\.1/g, 'v6.2.3').replace(/v6\\.1\\.1/g, 'v6.2.3'));
   return `
     <div id="z5-peer-review-card" style="border:1px solid var(--accent-gold-border); background:var(--bg-surface); border-radius:12px; padding:18px 20px; margin:18px 0;">
       <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:14px;">
@@ -4096,8 +4096,8 @@ function formatZ5YamlJs(rawYaml) {{
         </thead>
         <tbody>
           <tr>
-            <td><strong>${{isEn ? 'External Reviewer & Status' : 'Dış Hakem & Künye'}}</strong></td>
-            <td><strong>Mehmet Yarıcı (Project Lead — Internal Sample Audit)</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">ORCID: 0009-0003-0356-8582</a>) • ${{isEn ? 'Date' : 'Tarih'}}: <strong>${{tarih}}</strong> • ${{isEn ? 'Field' : 'Uzmanlık'}}: <em>${{uzmanlik}}</em></td>
+            <td><strong>${{isEn ? 'Project Lead, Advisor & External Review' : 'Yürütücü, Danışman & Dış Hakem Süreci'}}</strong></td>
+            <td><strong>Mehmet Yarıcı</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>) • ${{isEn ? 'Academic Advisor' : 'Akademik Danışman'}}: <strong>Mehmet Emin Koç — AMEA</strong> (<a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) • ${{isEn ? 'External Review' : 'Bağımsız Dış Hakem'}}: <strong>III. Maarif Kongresi (MOIJUB)</strong> • ${{isEn ? 'Date' : 'Tarih'}}: <strong>${{tarih}}</strong></td>
             <td><span class="badge badge-gold">${{isEn ? 'OPEN PEER REVIEW' : 'AÇIK HAKEMLİK'}}</span></td>
           </tr>
           <tr>
@@ -4487,7 +4487,7 @@ function renderStartupAuditUI() {{
         <em>${{epStatement}}</em>
       </div>
       <div style="font-size:11.5px; color:var(--text-muted); line-height:1.5; margin-bottom:10px; padding:6px 10px; background:var(--bg-card); border-left:3px solid var(--accent-gold); border-radius:4px;">
-        📦 <strong>PDF Envanteri:</strong> <strong>34 Külliyat PDF'i</strong> (15 Türkçe Monografi + 15 İngilizce Monografi + 2 Tam Külliyat Cildi [<code>Quran_Vision_Kulliyat_v6.2.2.pdf</code> &amp; <code>Quran_Vision_Corpus_EN_v6.2.2.pdf</code>] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [<code>ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf</code>] + 1 TYMM 15 Âyet Ders Tasarımı Rehberi [<code>TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf</code>]) <strong>+ 2 III. Maarif Kongresi (<code>MOIJUB</code>) Bildiri PDF'i</strong> (Özet ve Tam Metin [<code>III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf</code>]) — Toplam 36 PDF<br>⚖️ ${{m.methodological_note_principle_4 || 'Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).'}}
+        📦 <strong>PDF Envanteri:</strong> 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF<br>⚖️ ${{m.methodological_note_principle_4 || 'Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).'}}
       </div>
       <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center; font-size:12px;">
         <span class="badge badge-mono">🕌 shamela.ws: ${{shamelaCnt}}/${{shamelaCnt}} VERIFIED</span>
@@ -4579,7 +4579,7 @@ def main():
         print("ℹ️ --html-only modu: A4 PDF basımı atlandı.")
         return
 
-    if "--force-pdf" in sys.argv or not (PDF_DIR / "Quran_Vision_Kulliyat_v6.2.2.pdf").exists():
+    if "--force-pdf" in sys.argv or not (PDF_DIR / "Quran_Vision_Kulliyat_v6.2.3.pdf").exists():
         print("🖨️ Gerçek A4 PDF dosyaları üretiliyor (Edge Headless Motoru)...")
     generate_all_pdfs(reports)
     print("✅ A4 PDF dosyaları ve gömülü XMP/Info meta verileri (Author/Title/Subject/DOI/ORCID) doğrulandı.")

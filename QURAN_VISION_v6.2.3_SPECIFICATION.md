@@ -1,14 +1,14 @@
-# QURAN VISION ENSTİTÜSÜ • KUR'AN TEMELLİ GELECEK VİZYONU (QURAN VISION) — v6.2.2 ANA TALİMATNAMESİ
+# QURAN VISION ENSTİTÜSÜ • KUR'AN TEMELLİ GELECEK VİZYONU (QURAN VISION) — v6.2.3 ANA TALİMATNAMESİ
 ## Metodoloji, 26 Adımlı Analiz Mimarisi, İSNAD 2 / DOI Doğrulama Standardı, 3 Sarsılmaz Klasik Tahkik İlkesi, Adım 13 İrfânî Bütünlük Standardı ve Tam Uygulama Anayasası
 
-- **Sürüm:** `v6.2.2` (Külliyat, İSNAD 2 + Lafzî Şâmile İktibası + Nokta Atışı `page_id` + Adım 13 Üçlü İrfânî Reform, Çift Dilli A4 PDF, XMP ve CERN/Zenodo Tescil Sürümü)
+- **Sürüm:** `v6.2.3` (Külliyat, İSNAD 2 + Lafzî Şâmile İktibası + Nokta Atışı `page_id` + Adım 13 Üçlü İrfânî Reform, Çift Dilli A4 PDF, XMP ve CERN/Zenodo Tescil Sürümü)
 - **Tarih:** 20 Ekim 2026
-- **Önceki Sürümler:** `v5.1.3` $\rightarrow$ `v5.2.0` $\rightarrow$ `v6.0.0` $\rightarrow$ `v6.1.0` $\rightarrow$ `v6.1.1` $\rightarrow$ `v6.2.0` $\rightarrow$ `v6.2.1` $\rightarrow$ `v6.2.2`
+- **Önceki Sürümler:** `v5.1.3` $\rightarrow$ `v5.2.0` $\rightarrow$ `v6.0.0` $\rightarrow$ `v6.1.0` $\rightarrow$ `v6.1.1` $\rightarrow$ `v6.2.0` $\rightarrow$ `v6.2.1` $\rightarrow$ `v6.2.3`
 - **Kapsam:** Katman 3 (Akademik-Derin); 5 Makro Faz, 26 Analiz Adımı, `Z-1..Z-5` Zorunlu/Koşullu Ekler (`Z-4.5` Çift Katmanlı Bibliyografya dahil), 40 Dakikalık TYMM Pedagojik Ders Planı ve Çift Dilli (TR/EN) Yayın Hattı (34 A4 PDF)
 - **Kalıcı CERN/Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23410818` (Sürüm DOI)
 - **Canlı Külliyat Portalı:** https://mehmetyarici-crypto.github.io/quran-vision/
 - **Açık Bilim Lisansı:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (`CC BY-NC-SA 4.0`)
-- **Tam Metin Eşleniği (`.txt`):** [`docs/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt`](docs/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt) | [`docs/tr/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt`](docs/tr/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt)
+- **Tam Metin Eşleniği (`.txt`):** [`docs/QURAN_VISION_v6.2.3_TAM_TALIMAT.txt`](docs/QURAN_VISION_v6.2.3_TAM_TALIMAT.txt) | [`docs/tr/QURAN_VISION_v6.2.3_TAM_TALIMAT.txt`](docs/tr/QURAN_VISION_v6.2.3_TAM_TALIMAT.txt)
 
 ---
 
@@ -22,7 +22,7 @@ Gelecekte Quran Vision külliyatına eklenecek tüm âyet monografilerinde (`QV-
    Genel kitap kapağı linkleri (`https://shamela.ws/book/<book_id>`) ve fihrist/cilt/bâb ofseti kaymış bağlantılar yasaktır; Şâmile adresleri `https://shamela.ws/book/<book_id>/<page_id>` formatında cümlenin fiilen geçtiği sayfayı göstermeli, `altafsir.com` bağlantıları doğru `tMadhNo`/`tTafsirNo`/`tSoraNo`/`tAyahNo` parametreleriyle eşleşmeli ve tüm bağlantılar tek doğruluk kaynağı olan [`data/sources_registry.yaml`](data/sources_registry.yaml) sicilinde `VERIFIED` statüsüyle kayıtlı olmalıdır (`src/gem_lint.py` **Kapı A — `L-0107` ve Kapı V16 — `L-2501..L-2506` BLOCK**).
    > **Epistemik Doğrulama Beyanı (Sıfır İlke 3):** `[2026-10-20] itibarıyla incelenen [176/176] kayıt (127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL), [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem (51/176 = 0.29)] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün.`
    > **Türev Hiyerarşisi (D3 Şartı):** Tek doğruluk kaynağı `data/sources_registry.yaml` dosyasıdır; `docs/source_verification_manifest.json` ise derleme anında otomatik üretilen salt-okunur arayüz türevidir.
-   > **Methodological Note (İlke 4 — C Şartı):** Örneklem denetimi proje yürütücüsü (`Mehmet Yarıcı (Project Lead — Internal Sample Audit)`) tarafından gerçekleştirilmiş olup, bağımsız dış hakem değerlendirmesi III. Maarif Kongresi (`MOIJUB`) hakem süreci kapsamında yürütülmektedir.
+   > **Metodolojik Not (İlke 4 — C Şartı):** Kaynak örneklem denetimi proje yürütücüsü (`Mehmet Yarıcı`) tarafından iç denetim olarak gerçekleştirilmiş olup, bağımsız dış hakem değerlendirmesi III. Maarif Kongresi (`MOIJUB`) hakem süreci kapsamında yürütülmektedir.
 3. **Standart 3 — Gövde Metni Tahrîc ve Parantez Standardı:**
    Gövde metnindeki her hadis **Kütüb-i Sitte** tahrîciyle (*Buhârî, Müslim, Ebû Dâvûd, Tirmizî, Nesâî, İbn Mâce* vb. bâb ve hadis numarasıyla), her âyet standart `(Sûre Adı Sûre No/Âyet No)` veya `(Sûre Adı Sûre No:Âyet No)` paranteziyle, her sahâbe ve ulemâ kavli ise **İSNAD 2** matbu cilt/sayfa ve doğrulanabilir dijital bağlantısıyla belgelenmelidir.
 4. **Standart 4 — Adım 13 Üçlü İrfânî Bütünlük (*Enfüsî-Âfâkî Diyalektik ve Kalp Fıkhı*):**
@@ -36,33 +36,31 @@ Gelecekte Quran Vision külliyatına eklenecek tüm âyet monografilerinde (`QV-
 
 ---
 
-## 0. Kurumsal Kimlik, Eser Sahipliği ve Akademik Danışma Künyesi (Sıfır Belirsizlik İlkesi)
+## 0. Kurumsal Kimlik, Eser Sahipliği ve Akademik Danışma Künyesi (`data/people_registry.yaml` & `L-2507`)
 
-### 1) 👑 Proje Kurucusu & Başyazar (Eser Sahibi / Founder, Copyright Owner & Principal Author)
+### 1) 👑 Proje Yürütücüsü & Baş Araştırmacı (Project Lead & Principal Investigator)
 - **Adı Soyadı:** Mehmet Yarıcı
-- **Kurumsal Künye:** Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi
+- **Kurumsal Künye:** Bağımsız Araştırmacı / Proje Yürütücüsü (Quran Vision) • Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi
 - **ORCID iD:** [`0009-0003-0356-8582`](https://orcid.org/0009-0003-0356-8582)
-- **Hukuki Statü:** `CITATION.cff`, `.zenodo.json` (`creators` / `Project leader`), Google Scholar (`citation_author`) ve PDF XMP (`Author`) üst-verilerinde tek birincil müellif ve eser sahibidir.
+- **Hukuki Statü:** `CITATION.cff`, `.zenodo.json` (`creators` / `Project leader`), Google Scholar (`citation_author`) ve PDF XMP (`Author`) üst-verilerinde tek birincil müellif ve proje yürütücüsüdür.
 
-### 2) 🏛️ Akademik Danışman & Dış Hakem (Academic Advisor & External Peer-Reviewer / Zenodo Supervisor)
-- **Adı Soyadı:** Mehmet Yarıcı (Project Lead — Internal Sample Audit)
-- **Kurumsal Künye:** Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü
-- **ORCID iD:** [`0009-0003-0356-8582`](https://orcid.org/0009-0003-0356-8582)
-- **Akademik Statü:** `.zenodo.json` (`contributors` $\rightarrow$ `"type": "Supervisor"`) ve Schema.org JSON-LD katmanında Akademik Danışman ve Dış Hakem olarak tescillidir.
+### 2) 🏛️ Akademik Danışman (Academic Advisor / Zenodo Supervisor)
+- **Adı Soyadı:** Mehmet Emin Koç
+- **Kurumsal Künye:** Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü
+- **ORCID iD:** [`0000-0002-1025-5643`](https://orcid.org/0000-0002-1025-5643)
+- **Akademik Statü:** `.zenodo.json` (`contributors` $
+ightarrow$ `"type": "Supervisor"`) ve Schema.org JSON-LD katmanında Akademik Danışman olarak tescillidir *(İlke 4 gereği danışman aynı zamanda bağımsız dış hakem olamaz)*.
 
-### 3) 📋 Efrâdını Câmi‘, Ağyârını Mâni‘ Resmi Takdim Özeti
-> **Mehmet Yarıcı** (Uludağ Üniversitesi İlahiyat Fakültesi, 1989; T.C. MEB, ORCID: `0009-0003-0356-8582`) tarafından kurgulanan ve kaleme alınan, **Mehmet Yarıcı (Project Lead — Internal Sample Audit)**’un (Azerbaycan Milli İlimler Akademisi Felsefe ve Sosyoloji Enstitüsü, ORCID: `0009-0003-0356-8582`) akademik danışmanlık ve dış hakemliğini üstlendiği **"Kur’ân Vizyonu (Quran Vision): Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı (v6.2.2; DOI: `10.5281/zenodo.23391192`)"**; Kur’ân-ı Kerîm’in hukuk, adalet, kamu emaneti, şûra, barış inşası, epistemik doğrulama, iktisadi denge, çoğulculuk ve insan hayatının dokunulmazlığı eksenindeki **15 kurucu âyetini (`QV-2026-001` – `QV-2026-015`)** *"26 Adımlı Kanıt-Temelli Analitik Çerçeve"* ile inceleyen, Türkçe ve İngilizce çift dilli açık erişim bir araştırma külliyatıdır. Eser; lafzî-filolojik tahlil, sebeb-i nüzûl ve **İSNAD 2. Edisyon** standardında cilt/sayfa/tahkik ve nokta atışı Şâmile `page_id` bağlantısıyla doğrulanmış **77 klasik Arapça tefsir, fıkıh ve irfân kaynağını** (Taberî, Mâtürîdî, Râzî, Kurtubî, İbn Âşûr, Şâtıbî, Kuşeyrî, Gazzâlî, Muhâsibî, Sehl et-Tüsterî vd.), Makâsıdü’ş-Şerîa’nın *zarûriyyât-ı hamse* (dîn, nefis, akıl, nesil ve mal emniyeti) ilkeleriyle birleştirmekte; klasik tefsir mirasını Dünya Bankası, UNDP, WJP, UNESCO, SIPRI, OECD ve WHO gibi uluslararası kuruluşların **45 güncel ampirik (DOI’li) veri seti**, **2026–2036 dönemini kapsayan Bayesyen olasılık ve politika simülasyonları**, yanlışlanabilir erken uyarı eşikleri ve **40 dakikalık yapılandırılmış seminer/münazara ders planlarıyla (TYMM)** sentezlemektedir. Metin dışı spekülatif yorumları, anakronik okumaları ve tahkiksiz nakilleri **"0 Kesici Hata (Zero-Block Linter)"** ve **kriptografik SHA-256 doğrulama protokolüyle** dışarıda bırakan külliyat; İslâmî ilimlerin sahih rivayet, dirayet ve irfân omurgasını çağdaş sosyal bilimler, veri bilimi ve stratejik öngörü metodolojisiyle buluşturan özgün bir medeniyet ve tefsir modeli sunmaktadır.
-
-### 4) ⚖️ Akademik Yönetişim ve Rol Beyanı (Governance & Role Disclosure — COPE & İlke 4)
-- **Kurum Dışı Bağımsız Denetim ve Danışmanlık Beyanı:** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (Azerbaycan Milli İlimler Akademisi / AMEA - ANAS, Felsefe ve Sosyoloji Enstitüsü), başyazarın kurumundan bağımsız dış akademisyen sıfatıyla külliyatın metodolojik dış denetim ve akademik danışmanlık sürecini yürütmüştür.
-- **COPE Yayın Etiği ve İlke 4 (Rol Ayrımı) Şeffaflığı:** Uluslararası yayın etiği (COPE) ve **İlke 4 (Rol Ayrımı)** şeffaflığı gereği bu ikili danışmanlık/dış denetim rolü açıkça beyan edilir; külliyatın tamamı **Z-5 Açık Hakemlik (*Open Peer-Review*)** protokolüyle üçüncü taraf bağımsız akademisyen şerhlerine ve yanlışlama denetimlerine daima açıktır.
-- **Harici Kriptografik Manifest ve Linter Denetimi:** Kendi kendine referans paradoksu (*self-referential hash paradox*) oluşturmamak için SHA-256 özetleri metin içine gömülmez; harici `.sha256` dosyalarında ve kök dizindeki [`SHA256SUMS.txt`](SHA256SUMS.txt) manifestosunda (`sha256sum -c SHA256SUMS.txt`) tutulur. 15 kurucu raporun katalog devamlılığı [`LINTER_AUDIT_REPORT.md`](LINTER_AUDIT_REPORT.md) ile belgelenir.
+### 3) ⚖️ Bağımsız Dış Hakem Değerlendirmesi ve Rol Ayrımı (`data/people_registry.yaml` & `L-2507`)
+- **Bağımsız Dış Hakem Değerlendirmesi:** **III. Maarif Kongresi (`MOIJUB`) Hakem Süreci** *(Başvurusu yapılmıştır; sonuç beklenmektedir)*.
+- **Kalıcı Kimlik Kilidi (`L-2507` — `BLOCK`):** [`data/people_registry.yaml`](data/people_registry.yaml) sicili üzerinden kişi, ORCID, kurum ve rol sınırları kilitlenmiştir; tek kişi çelişkili rol veya başkasına ait kurum/ORCID taşıyamaz.
+- **Harici Kriptografik Manifest ve Linter Denetimi:** Kendi kendine referans paradoksu (*self-referential hash paradox*) oluşturmamak için SHA-256 özetleri metin içine gömülmez; harici `.sha256` dosyalarında ve kök dizindeki [`SHA256SUMS.txt`](SHA256SUMS.txt) manifestosunda (`sha256sum -c SHA256SUMS.txt`) tutulur.
 
 ---
 
 ## 1. Amaç, Kapsam ve 6 Temel Epistemik İlke
 
-Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.2**), Kur'an âyetleri üzerine filolojik, tefsirî, usûlî, makâsıdî, irfânî ve ampirik politika analizini düzenleyen bilimsel bir araştırma ve öngörü çerçevesidir. Bir fetva, bağlayıcı yargı kararı, ilahî muradın tek temsili veya kendi başına dış akademik hakemlik onayı değildir.
+Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.3**), Kur'an âyetleri üzerine filolojik, tefsirî, usûlî, makâsıdî, irfânî ve ampirik politika analizini düzenleyen bilimsel bir araştırma ve öngörü çerçevesidir. Bir fetva, bağlayıcı yargı kararı, ilahî muradın tek temsili veya kendi başına dış akademik hakemlik onayı değildir.
 
 1. **Otorite Sınırı:** Çıktı analitik ve beşerî bir içtihat/yorumdur; dinî fetva veya adli kaza hükmü yerine geçmez.
 2. **Determinizm Sınırı:** Toplumsal sonuçlar kaçınılmaz kader kabul edilmez; insan iradesi (sünnetullah), kurumlar ve bağlam birlikte değerlendirilir.
@@ -102,7 +100,7 @@ Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.2**), Kur'an âyetleri üz
 
 ---
 
-## 3. Tam YAML Frontmatter Şeması (v6.2.2 Rapor Üst-Veri Standardı)
+## 3. Tam YAML Frontmatter Şeması (v6.2.3 Rapor Üst-Veri Standardı)
 
 ```yaml
 ---
@@ -129,8 +127,13 @@ scenarios: []
 peer_review:
   status: "PRE-RELEASE"
   internal_linter_verified: true
-  reviewer_name: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"
-  reviewer_orcid: "0009-0003-0356-8582"
+  project_lead: "Mehmet Yarıcı"
+  project_lead_orcid: "0009-0003-0356-8582"
+  academic_advisor: "Mehmet Emin Koç"
+  academic_advisor_orcid: "0000-0002-1025-5643"
+  academic_advisor_institution: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
+  external_review_venue: "III. Maarif Kongresi (MOIJUB) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)"
+  review_date: "2026-10-20"
 ---
 ```
 
@@ -139,7 +142,7 @@ peer_review:
 ## 4. Beş Makro Faz ve 26 Analiz Adımı Tam Mimarisi (`ADIM 00` – `ADIM 20`)
 
 ### FAZ I — Kimlik, Metin ve Bağlam
-- **ADIM 00 — Künye ve Giriş Bilgileri:** Vaka Kodu (`QV-2026-0XX`), Âyet, Konu Başlığı, Proje Kurucusu & Başyazar (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), Akademik Danışman & Dış Hakem (`Mehmet Yarıcı (Project Lead — Internal Sample Audit) — ORCID: 0009-0003-0356-8582`), Kalıcı DOI (`10.5281/zenodo.23391192`), Tarih, Sürüm (`v6.2.2`), Katman (`3`), H6 Durumu (`Evet`), Dil (`TR / EN`), Güven Düzeyi (`B`), Harici `.sha256` Manifest bilgisi ve Mushaf/Kıraat Standardı (Resm-i Osmânî, Kûfî 6236, Âsım/Hafs).
+- **ADIM 00 — Künye ve Giriş Bilgileri:** Vaka Kodu (`QV-2026-0XX`), Âyet, Konu Başlığı, Proje Yürütücüsü & Baş Araştırmacı (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), Akademik Danışman (`Mehmet Emin Koç — Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü — ORCID: 0000-0002-1025-5643`), Bağımsız Dış Hakem Değerlendirmesi (`III. Maarif Kongresi [MOIJUB] Hakem Süreci`), Tarih, Katman (3), Güven Derecesi ve Harici SHA-256 doğrulama referansı.
 - **ADIM 00-5 — Dil ve Semantik Matrisi (H6 Zorunlu — 4 Boyutlu):**
   1. *Semantik / Kök Anlam (İştikak):* İbn Fâris (*Mu'cemü Makâyîsi'l-Lüğa*, ö. 395/1004).
   2. *Kur'anî Semantik (Kavramlaşma):* Râgıb el-İsfahânî (*el-Müfredât fî Garîbi'l-Kur'ân*, ö. 502/1108).
@@ -206,8 +209,8 @@ peer_review:
 
 ## 6. Külliyat Envanteri (15 Kurucu Monografik Rapor: `QV-2026-001` – `QV-2026-015` ve 34+2 = 36 PDF)
 
-> 📦 **PDF Envanteri (Sayısal Netlik):** **34 Külliyat PDF'i** (15 Türkçe Monografi + 15 İngilizce Monografi + 2 Tam Külliyat Cildi [`Quran_Vision_Kulliyat_v6.2.2.pdf` & `Quran_Vision_Corpus_EN_v6.2.2.pdf`] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [`ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`] + 1 TYMM 15 Âyet Ders Tasarımı Rehberi [`TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`]) **+ 2 III. Maarif Kongresi (`MOIJUB`) Bildiri PDF'i** (Özet ve Tam Metin [`III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf`]) — Toplam 36 PDF
-> ⚖️ **Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).**
+> 📦 **PDF Envanteri (Sayısal Netlik):** 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF
+> ⚖️ **Metodolojik Not (İlke 4 — Rol Ayrımı):** Proje Yürütücüsü & Baş Araştırmacı (**Mehmet Yarıcı**, `ORCID: 0009-0003-0356-8582`), Akademik Danışman (**Mehmet Emin Koç** — *AMEA, Felsefe ve Sosyoloji Enstitüsü*, `ORCID: 0000-0002-1025-5643`) ve Bağımsız Dış Hakem Değerlendirmesi (**III. Maarif Kongresi — `MOIJUB` Hakem Süreci**, *başvurusu yapılmıştır; sonuç beklenmektedir*) rolleri [`data/people_registry.yaml`](data/people_registry.yaml) ve `L-2507` (`BLOCK`) kilidiyle birbirinden kesin olarak ayrılmıştır.
 
 | Rapor Kodu | Sûre ve Âyet | Konu Başlığı | Türkçe Rapor | İngilizce Rapor |
 | :--- | :--- | :--- | :--- | :--- |

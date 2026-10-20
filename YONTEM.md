@@ -3,7 +3,7 @@
 # Quran Vision — 26 Adımlı Analiz Yöntemi ve 5 Makro Faz
 
 > **Not:** Bu belge yöntemin genel mimarisini ve adım dizinini özetler. Ayrıntılı metodolojik kurallar, epistemik sınır şartları ve V1–V12 doğrulama modülleri için güncel kanonik şartname belgesine bakınız:  
-> 🔗 **[Quran Vision v6.2.1 Kanonik Şartname Belgesi (Markdown)](QURAN_VISION_v6.2.2_SPECIFICATION.md)** | **[Tam Talimatname Metni (.txt)](docs/QURAN_VISION_v6.2.2_TAM_TALIMAT.txt)**
+> 🔗 **[Quran Vision v6.2.3 Kanonik Şartname Belgesi (Markdown)](QURAN_VISION_v6.2.3_SPECIFICATION.md)** | **[Tam Talimatname Metni (.txt)](docs/QURAN_VISION_v6.2.3_TAM_TALIMAT.txt)**
 
 ---
 
@@ -60,9 +60,9 @@ Quran Vision mimarisi, 26 analiz adımını bilişsel bütünlüğü korumak ama
 
 ---
 
-## Akademik Yönetişim ve Rol Beyanı (Governance & Role Disclosure — COPE & İlke 4)
+## Akademik Yönetişim ve Rol Beyanı (COPE, İlke 4 & `L-2507`)
 
-- **Proje Kurucusu & Başyazar (Eser Sahibi):** **Mehmet Yarıcı** — *Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi* (`ORCID: 0009-0003-0356-8582`).
-- **Akademik Danışman & Dış Hakem:** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** — *Azerbaycan Milli İlimler Akademisi (AMEA / ANAS), Felsefe ve Sosyoloji Enstitüsü* (`ORCID: 0009-0003-0356-8582`).
-- **COPE ve İlke 4 (Rol Ayrımı) Şeffaflık Beyanı:** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (AMEA / ANAS), başyazarın kurumundan bağımsız dış akademisyen sıfatıyla külliyatın metodolojik dış denetim ve akademik danışmanlık sürecini yürütmüştür. Uluslararası yayın etiği (COPE) ve **İlke 4 (Rol Ayrımı)** şeffaflığı gereği bu ikili danışmanlık/dış denetim rolü açıkça beyan edilir; külliyatın tamamı **Z-5 Açık Hakemlik (Open Peer-Review)** protokolüyle üçüncü taraf bağımsız akademisyen şerhlerine ve yanlışlama denetimlerine daima açıktır.
+- **Proje Yürütücüsü & Baş Araştırmacı (Eser Sahibi):** **Mehmet Yarıcı** — *Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi* (`ORCID: 0009-0003-0356-8582`).
+- **Akademik Danışman:** **Mehmet Emin Koç** — *Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü* (`ORCID: 0000-0002-1025-5643`).
+- **Bağımsız Dış Hakem Değerlendirmesi:** **III. Maarif Kongresi (`MOIJUB`) Hakem Süreci** *(Başvurusu yapılmıştır; sonuç beklenmektedir)*. Kimlik ve rol sınırları [`data/people_registry.yaml`](data/people_registry.yaml) sicili ve `L-2507` (`BLOCK`) kuralıyla kilitlenmiştir.
 - **Harici Kriptografik Bütünlük (V4):** Kendi kendine referans paradoksu (*self-referential hash paradox*) oluşturmamak için SHA-256 özetleri metin içine gömülmez; harici `.sha256` dosyalarında ve kök dizindeki [`SHA256SUMS.txt`](SHA256SUMS.txt) manifestosunda (`sha256sum -c SHA256SUMS.txt`) tutulur. Katalog devamlılığı [`LINTER_AUDIT_REPORT.md`](LINTER_AUDIT_REPORT.md) ile belgelenir.

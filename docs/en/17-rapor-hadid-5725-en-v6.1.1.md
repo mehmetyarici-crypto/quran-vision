@@ -181,12 +181,14 @@ scenarios:
 peer_review:
   status: "PRE-RELEASE"
   internal_linter_verified: true
-  linter_timestamp: "2026-10-20T09:00:00+03:00"
-  internal_sample_auditor: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"
-  internal_sample_auditor_orcid: "0009-0003-0356-8582"
-  external_review_venue: "III. Maarif Congress (MOIJUB) Independent Peer-Review Process (Application Submitted)"
+  project_lead: "Mehmet Yarıcı"
+  project_lead_orcid: "0009-0003-0356-8582"
+  academic_advisor: "Mehmet Emin Koç"
+  academic_advisor_orcid: "0000-0002-1025-5643"
+  academic_advisor_institution: "Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology"
+  external_review_venue: "III. Maarif Congress (MOIJUB) Peer-Review Process (Application submitted; pending decision)"
   review_date: "2026-10-20"
-  review_notes: "Methodological Note (Principle 4 — Role Separation): The 51/176 (29.0%) manual sample audit (including the Ghazâlî Vol. 3 p. 186 -> 9472/932 cumulative volume offset correction) was conducted by the project lead as an internal audit (Internal Sample Audit); independent external peer review will be conducted within the scope of the III. Maarif Congress (MOIJUB) refereeing process (application submitted)."
+  review_notes: "Methodological Note (Principle 4 — Role Separation): Algorithmic internal consistency verification (GemLinterV6 0 BLOCK) has been completed, and academic advisory was provided by Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643); independent external peer review is conducted under the III. Maarif Congress (MOIJUB) refereeing process (application submitted; pending decision)."
 ---
 
 # QV-2026-012 — Surah Al-Hadid 57:25: Triadic Civilizational Architecture: Revelation/Law (Al-Kitab), Justice Scale (Al-Mizan) & Strategic/Technological Power (Al-Hadid)
@@ -201,8 +203,9 @@ peer_review:
 - **Strategic Foresight Window:** `2026–2036 (10-Year Policy & Institutional Horizon)`
 - **Verified Classical Knowledge Base (*ISNAD 2nd Edition*):** Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (*el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*); Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (*el-Müfredât fî Garîbi'l-Kur'ân*); İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (*Mu'cemü Makâyîsi'l-Lüğa*); İbn Manzûr, Muhammed b. Mükerrem (*Lisânü'l-Arab*); Fahreddîn er-Râzî, Muhammed b. Ömer (*Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)*).
 - **Verified Empirical Datasets (*APA 7 / DOI*):** Stockholm International Peace Research Institute (SIPRI) (2025); World Justice Project (WJP) (2025); United Nations Industrial Development Organization (UNIDO) (2025); Türkiye İstatistik Kurumu (TÜİK) (2025).
-- **Principal Author & Project Founder:** **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education [MEB], Bahçelievler Dede Korkut Anatolian High School, Istanbul, Türkiye).
-- **Internal Sample Audit & Role Separation (V11 / Principle 4):** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (`ORCID: 0009-0003-0356-8582`) • **External Peer-Review Process:** III. Maarif Congress (`MOIJUB`) Refereeing Process (Application Submitted).
+- **Project Lead & Principal Investigator:** **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education, Bahçelievler Dede Korkut Anatolian High School)
+- **Academic Advisor:** **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology)
+- **Independent External Peer Review:** **III. Maarif Congress (`MOIJUB`) Peer-Review Process** (Application submitted; pending decision)
 - **Permanent CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Concept DOI) | `10.5281/zenodo.23410818` (v6.2.2 Version DOI)
 
 ---
@@ -718,13 +721,13 @@ This institutional instructional design translates the **"Virtue–Value–Actio
 
 | Field | Reviewer Metadata & Audit Record |
 | :--- | :--- |
-| **Evaluated Monograph** | `QV-2026-012` — Surah Al-Hadid 57:25 (*Triadic Civilizational Architecture: Revelation/Law (Al-Kitab), Justice Scale (Al-Mizan) & Strategic/Technological Power (Al-Hadid)*) |
-| **Schema & Linter Version** | `v6.2.2` (`gem_lint.py` — 0 BLOCK / full (all-encompassing) Rule Compliance) |
-| **Internal Sample Auditor** | **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (`ORCID: 0009-0003-0356-8582`) |
-| **External Peer-Review Venue** | **III. Maarif Congress (`MOIJUB`) Independent Refereeing Process (Application Submitted)** |
-| **Methodological Note (Principle 4)** | Methodological Note (Principle 4 — Role Separation): The 51/176 (29.0%) manual sample audit (including the Ghazâlî Vol. 3 p. 186 -> 9472/932 cumulative volume offset correction) was conducted by the project lead as an internal audit (Internal Sample Audit); independent external peer review will be conducted within the scope of the III. Maarif Congress (MOIJUB) refereeing process (application submitted). |
-| **Expertise Domains** | Sociology of Religion, Philosophy of Islamic Law (*Maqasid*), Strategic Foresight |
-| **Review Status** | `PRE-RELEASE` *(Submitted for Independent External Academic Peer Review)* |
+| **Release Status** | `PRE-RELEASE (Algorithmic Internal Audit Complete — Pending External Peer Review)` |
+| **Algorithmic Internal Linter (`GemLinterV6`)** | `VERIFIED (0 BLOCK, 0 WARN)` |
+| **Project Lead & Principal Investigator** | **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582`) |
+| **Academic Advisor** | **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — *Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology*) |
+| **Independent External Peer Review** | **III. Maarif Congress (`MOIJUB`) Peer-Review Process** *(Application submitted; pending decision)* |
+| **Methodological Note (Principle 4)** | In accordance with Principle 4 (Role Separation) and `L-2507`, project leadership (`Mehmet Yarıcı`), academic advisory (`Mehmet Emin Koç — AMEA`), and independent external peer review (`III. Maarif Congress — MOIJUB`) are strictly separated. |
+| **Evaluation Rubric (5 Dimensions)** | **1.** Classical Tafsir Accuracy (`ISNAD 2`) • **2.** Empirical Data Rigor (`APA 7 / DOI`) • **3.** Citation vs. Interpretation Boundary • **4.** Bayesian Calibration & Sensitivity • **5.** Epistemic Humility & Non-Takfiri Language |
 
 #### Methodological Audit Checklist (V1–V13)
 - [x] **1. Lexical & Primary Source Authenticity (V1 / V12):** All 5 classical Arabic sources (*ISNAD 2nd Edition*) and word-by-word morphological analyses in `STEP 01` and `STEP 02` have been verified against critical editions (`[CITATION / NAKİL]`).

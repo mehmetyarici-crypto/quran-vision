@@ -163,12 +163,14 @@ scenarios:
 peer_review:
   status: "PRE-RELEASE"
   internal_linter_verified: true
-  linter_timestamp: "2026-10-20T09:00:00+03:00"
-  internal_sample_auditor: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"
-  internal_sample_auditor_orcid: "0009-0003-0356-8582"
-  external_review_venue: "III. Maarif Kongresi (MOIJUB) Bağımsız Hakem Süreci (Başvurusu Yapılmıştır)"
-  review_date: null
-  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır)."
+  project_lead: "Mehmet Yarıcı"
+  project_lead_orcid: "0009-0003-0356-8582"
+  academic_advisor: "Mehmet Emin Koç"
+  academic_advisor_orcid: "0000-0002-1025-5643"
+  academic_advisor_institution: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
+  external_review_venue: "III. Maarif Kongresi (MOIJUB) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)"
+  review_date: "2026-10-20"
+  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (GemLinterV6 0 BLOCK) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır; sonuç beklenmektedir)."
 ---
 
 # Âl-i İmrân Sûresi 3:159 Tahlili — Kriz Dönemlerinde İstişare (Şûrâ), Katılımcı Karar Alma ve Merhamet Temelli Liderlik Mimarisi
@@ -179,8 +181,9 @@ peer_review:
 - **Vaka Kodu:** QV-2026-006
 - **Âyet:** Âl-i İmrân Sûresi 3:159 ("İstişare ve Liderlik Âyeti")
 - **Konu Başlığı:** Kriz Dönemlerinde İstişare (Şûrâ), Katılımcı Karar Alma ve Merhamet Temelli Liderlik Mimarisi
-- **Proje Kurucusu & Başyazar:** Mehmet Yarıcı (Uludağ Üniversitesi İlahiyat Fakültesi, 1989 • T.C. MEB, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi — ORCID: `0009-0003-0356-8582`)
-- **İç Denetim & Örneklem Kontrolü (İlke 4):** Mehmet Yarıcı (`Project Lead — Internal Sample Audit`, ORCID: `0009-0003-0356-8582`) • **Bağımsız Dış Hakem Süreci:** III. Maarif Kongresi (`MOIJUB`) Hakem Heyeti (Başvurusu Yapılmıştır)
+- **Proje Yürütücüsü & Baş Araştırmacı:** Mehmet Yarıcı (Uludağ Üniversitesi İlahiyat Fakültesi, 1989 • T.C. MEB, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi — ORCID: `0009-0003-0356-8582`)
+- **Akademik Danışman:** Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü — ORCID: `0000-0002-1025-5643`)
+- **Bağımsız Dış Hakem Değerlendirmesi:** III. Maarif Kongresi (`MOIJUB`) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)
 - **Kalıcı CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23410818` (v6.2.2 Sürüm DOI)
 - **Tarih:** 2026-10-15
 - **Sürüm:** v6.2.2 (Akademik Doğrulama Standartlı)
@@ -689,23 +692,27 @@ Bu gerilim şu çetin açmazları içerir:
 ---
 
 ### Z-5 · BAĞIMSIZ DIŞ AKADEMİK HAKEM İNCELEME FORMU [V11 ZORUNLU]
-
-- **İç Denetim & Örneklem Kontrolü (Internal Sample Audit):** Mehmet Yarıcı (`Project Lead — Internal Sample Audit`, ORCID: `0009-0003-0356-8582`)
-- **Bağımsız Dış Hakem Değerlendirme Merci:** III. Maarif Kongresi (`MOIJUB`) Bağımsız Hakem Süreci (Başvurusu Yapılmıştır)
-- **Metodolojik Rol Ayrımı Notu (İlke 4):** Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır).
-- **Değerlendirme Statüsü:** `ÖN SÜRÜM / BAĞIMSIZ DIŞ HAKEM İNCELEMESİNE AÇIK (PRE-RELEASE)`
-- **Hakem Değerlendirme Notu:** Rapor Quran Vision v6.2.2 İSNAD 2 ve APA 7 / DOI akademik doğrulama standartlarına uygun ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem inceleme ve puanlama sürecine açıktır.
+- **Yayın / Tahkik Statüsü:** `PRE-RELEASE (Ön Sürüm — Algoritmik İç Denetim Tamamlandı / Bağımsız Dış Hakem Sürecinde)`
+- **Proje Yürütücüsü & Baş Araştırmacı:** Mehmet Yarıcı (`ORCID: 0009-0003-0356-8582`)
+- **Akademik Danışman:** Mehmet Emin Koç (`Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü` — `ORCID: 0000-0002-1025-5643`)
+- **Bağımsız Dış Hakem Değerlendirmesi:** III. Maarif Kongresi (`MOIJUB`) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)
+- **Metodolojik Rol Ayrımı Notu (İlke 4):** Algoritmik iç tutarlılık denetimi (`GemLinterV6 0 BLOCK`), akademik danışmanlık (`Mehmet Emin Koç — AMEA`) ve bağımsız dış hakem değerlendirmesi (`III. Maarif Kongresi — MOIJUB`) birbirinden kesin olarak ayrılmıştır.
 
 ```yaml
 hakem_degerlendirme_protokolu:
   rapor_id: "QV-2026-006"
   sure_ayet: "Âl-i İmrân 3:159"
-  tarih: "2026-10-15"
+  tarih: "2026-10-20"
   status: "PRE-RELEASE"
-  hakem_atamasi:
-    ic_denetci: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"
+  proje_yurutucusu:
+    ad_soyad: "Mehmet Yarıcı"
     orcid: "0009-0003-0356-8582"
-    dis_hakem_sureci: "III. Maarif Kongresi (MOIJUB) Bağımsız Hakem Süreci (Başvurusu Yapılmıştır)"
+  akademik_danisman:
+    ad_soyad: "Mehmet Emin Koç"
+    orcid: "0000-0002-1025-5643"
+    kurum: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
+  bagimsiz_dis_hakem_sureci:
+    merci: "III. Maarif Kongresi (MOIJUB) Hakem Süreci (Başvurusu yapılmıştır; sonuç beklenmektedir)"
     uzmanlik_alani: "Kriz Dönemlerinde İstişare (Şûrâ), Katılımcı Karar Alma ve Merhamet Temelli Liderlik Mimarisi"
   rubrik_puanlamasi:
     boyut_1_metin_ve_tahkik: "— / 20"
@@ -715,5 +722,5 @@ hakem_degerlendirme_protokolu:
     boyut_5_kurumsal_tasarim_ve_ozgunluk: "— / 20"
     toplam_skor: "— / 100"
   hakem_karari: "PENDING_EXTERNAL_REVIEW"
-  derkenar_notu: "Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiştir; bağımsız dış hakem değerlendirmesi ise III. Maarif Kongresi (MOIJUB) hakem süreci kapsamında yürütülecektir (başvurusu yapılmıştır)."
+  derkenar_notu: "İlke 4 (Rol Ayrımı) ve L-2507 uyarınca proje yürütücülüğü (Mehmet Yarıcı — ORCID: 0009-0003-0356-8582), akademik danışmanlık (Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643) ve bağımsız dış hakem değerlendirmesi (III. Maarif Kongresi — MOIJUB) rolleri birbirinden kesin olarak ayrılmıştır."
 ```

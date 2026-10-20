@@ -258,10 +258,12 @@ STANDARD_SINIR_ANAHTARLARI = [
 
 
 # ============================================
-# V16.2 KAYNAK SİCİLİ VE ARAPÇA NORMALİZASYON YARDIMCILARI
+# V16.2 KAYNAK SİCİLİ VE V17 KİŞİ SİCİLİ YARDIMCILARI
 # ============================================
 DEFAULT_REGISTRY_PATH = Path(__file__).resolve().parent.parent / "data" / "sources_registry.yaml"
+DEFAULT_PEOPLE_REGISTRY_PATH = Path(__file__).resolve().parent.parent / "data" / "people_registry.yaml"
 _REGISTRY_CACHE = {}
+_PEOPLE_CACHE = {}
 
 
 def load_sources_registry(registry_path: Path = None) -> dict:
@@ -274,6 +276,21 @@ def load_sources_registry(registry_path: Path = None) -> dict:
     try:
         data = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
         _REGISTRY_CACHE[key] = data
+        return data
+    except Exception:
+        return {}
+
+
+def load_people_registry(people_path: Path = None) -> dict:
+    p = Path(people_path) if people_path else DEFAULT_PEOPLE_REGISTRY_PATH
+    key = str(p.resolve())
+    if key in _PEOPLE_CACHE:
+        return _PEOPLE_CACHE[key]
+    if not p.exists() or not YAML_AVAILABLE:
+        return {}
+    try:
+        data = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+        _PEOPLE_CACHE[key] = data
         return data
     except Exception:
         return {}
@@ -304,12 +321,13 @@ def match_arabic_quote_v16(quote: str, target_norm: str) -> bool:
 
 
 class GemLinterV6:
-    def __init__(self, path: Path, katman=3, h6=True, manifest_path: Path = None, registry_path: Path = None, regenerating_manifest: bool = False):
+    def __init__(self, path: Path, katman=3, h6=True, manifest_path: Path = None, registry_path: Path = None, people_registry_path: Path = None, regenerating_manifest: bool = False):
         self.path = Path(path)
         self.katman = katman
         self.h6 = h6
         self.manifest_path = Path(manifest_path) if manifest_path else None
         self.registry_path = Path(registry_path) if registry_path else DEFAULT_REGISTRY_PATH
+        self.people_registry_path = Path(people_registry_path) if people_registry_path else DEFAULT_PEOPLE_REGISTRY_PATH
         self.regenerating_manifest = regenerating_manifest
         self.findings = []
         self.frontmatter = {}
@@ -951,6 +969,7 @@ class GemLinterV6:
         self.check_v14_step13_irfani()
         self.check_v15_tymm_pedagogy()
         self.check_v16_source_registry()
+        self.check_v17_people_registry()
 
         return self.print_summary()
 
@@ -1262,15 +1281,181 @@ class GemLinterV6:
                 "frontmatter.sha256_hash",
             )
 
+    # ----------------------------------------------------
+    # V17 (Kapı E — L-2507): Kişi Sicili (data/people_registry.yaml), Künye ve Rol Ayrımı Tutarlılığı Kilidi
+    # ----------------------------------------------------
+    def check_v17_people_registry(self):
+        if not self.is_v6:
+            return
+
+        people_data = load_people_registry(self.people_registry_path)
+        people_list = people_data.get("people") or []
+        if not people_list:
+            self.report(
+                "L-2507",
+                BLOCK,
+                f"V17 Kimlik Sicili İhlali: Kişi doğruluk sicili ('{self.people_registry_path}') bulunamadı veya boş!",
+            )
+            return
+
+        # (a) Sicil içi tekillik ve zorunlu rol/yasaklı rol doğrulaması
+        seen_orcids = {}
+        person_by_role = {}
+        for p in people_list:
+            pid = str(p.get("id", "")).strip()
+            pname = str(p.get("full_name", "")).strip()
+            porcid = str(p.get("orcid", "")).strip()
+            proles = set(p.get("roles") or [])
+            pforbid = set(p.get("forbidden_roles") or [])
+            if not pname or not porcid:
+                self.report("L-2507", BLOCK, f"V17 Kimlik Sicili İhlali: '{pid}' kaydında full_name veya orcid eksik!")
+                continue
+            if porcid in seen_orcids and seen_orcids[porcid] != pname:
+                self.report(
+                    "L-2507",
+                    BLOCK,
+                    f"V17 ORCID Çakışması: '{porcid}' ORCID numarası birden fazla kişiyle eşleşiyor ('{seen_orcids[porcid]}' ve '{pname}')!",
+                )
+            seen_orcids[porcid] = pname
+            if proles & pforbid:
+                self.report(
+                    "L-2507",
+                    BLOCK,
+                    f"V17 Çelişkili Rol İhlali: '{pname}' hem izinli hem yasaklı rol taşıyor ({proles & pforbid})!",
+                )
+            for r in proles:
+                person_by_role[r] = p
+
+        lead_person = person_by_role.get("project_lead") or {}
+        advisor_person = person_by_role.get("academic_advisor") or {}
+        sample_auditor_person = person_by_role.get("internal_sample_audit") or {}
+
+        lead_name = str(lead_person.get("full_name", "Mehmet Yarıcı"))
+        lead_orcid = str(lead_person.get("orcid", "0009-0003-0356-8582"))
+        advisor_name = str(advisor_person.get("full_name", "Mehmet Emin Koç"))
+        advisor_orcid = str(advisor_person.get("orcid", "0000-0002-1025-5643"))
+        auditor_name = str(sample_auditor_person.get("full_name", "Mehmet Yarıcı"))
+
+        # (d) data/sources_registry.yaml içindeki human_sample_audit.reviewer uyumu
+        reg_data = load_sources_registry(self.registry_path)
+        for s in reg_data.get("sources") or []:
+            hsa = s.get("human_sample_audit")
+            if isinstance(hsa, dict) and hsa.get("sampled") is True:
+                rev = str(hsa.get("reviewer") or "").strip()
+                expected_rev = f"{auditor_name} (Project Lead — Internal Sample Audit)"
+                if rev != expected_rev:
+                    self.report(
+                        "L-2507",
+                        BLOCK,
+                        f"V17 Örneklem Denetçisi Uyumsuzluğu: Kaynak '{s.get('id')}' içindeki reviewer ('{rev}'), people_registry.yaml 'internal_sample_audit' sahibi ('{expected_rev}') ile uyuşmuyor!",
+                    )
+                    break
+
+        # (b) & (c) Rapor metni ve YAML frontmatter içinde künye/kurum/ORCID/rol karışması kontrolü
+        pr = self.frontmatter.get("peer_review") or {}
+        if isinstance(pr, dict):
+            pr_str = str(pr)
+            if "Akademik Danışman & Dış Hakem" in pr_str or "Academic Advisor & External Peer-Reviewer" in pr_str:
+                self.report(
+                    "L-2507",
+                    BLOCK,
+                    "V17 Rol Ayrımı İhlali: YAML 'peer_review' bloğunda 'Akademik Danışman & Dış Hakem' birleşik rolü kullanılamaz (danışman bağımsız dış hakem olamaz)!",
+                    "frontmatter.peer_review",
+                )
+            adv_name_fm = str(pr.get("academic_advisor") or pr.get("reviewer_name") or "").strip()
+            adv_inst_fm = str(pr.get("academic_advisor_institution") or pr.get("reviewer_institution") or "").strip()
+            adv_orcid_fm = str(pr.get("academic_advisor_orcid") or pr.get("reviewer_orcid") or "").strip()
+            if ("AMEA" in adv_inst_fm or "Azerbaycan" in adv_inst_fm or "Azerbaijan" in adv_inst_fm) and lead_name in adv_name_fm:
+                self.report(
+                    "L-2507",
+                    BLOCK,
+                    f"V17 Künye Bozulması: YAML 'peer_review' içinde AMEA/Azerbaycan kurumu Proje Yürütücüsü ('{adv_name_fm}') ile eşleştirilmiş (Doğrusu: '{advisor_name}')!",
+                    "frontmatter.peer_review",
+                )
+            if adv_name_fm and advisor_name in adv_name_fm and adv_orcid_fm and adv_orcid_fm != advisor_orcid:
+                self.report(
+                    "L-2507",
+                    BLOCK,
+                    f"V17 ORCID Uyuşmazlığı: '{advisor_name}' için beklenen ORCID '{advisor_orcid}', bulunan '{adv_orcid_fm}'!",
+                    "frontmatter.peer_review",
+                )
+
+        for line_no, line in enumerate(self.raw_text.splitlines(), 1):
+            l_strip = line.strip()
+            if not l_strip:
+                continue
+            # Errata veya L-2507 kural açıklaması satırlarını muaf tut
+            if "ERRATA" in l_strip or "L-2507" in l_strip or "global find-replace" in l_strip.lower():
+                continue
+
+            # 1) "Akademik Danışman & Dış Hakem" veya "Academic Advisor & External Peer-Reviewer" yasağı
+            if re.search(r"Akademik\s+Danışman\s*&\s*Dış\s+Hakem|Academic\s+Advisor\s*&\s*(?:External\s+)?Peer-?Reviewer|Academic\s+Advisor\s*&\s*External\s+Reviewer", l_strip, re.I):
+                self.report(
+                    "L-2507",
+                    BLOCK,
+                    f"V17 Rol Ayrımı İhlali: Danışman aynı zamanda bağımsız dış hakem olamaz ('& Dış Hakem / & External Reviewer' kaldırılmalıdır): '{l_strip[:110]}'",
+                    f"Satır {line_no}",
+                )
+
+            # 1b) Monografi içinde "Internal Sample Audit" ek rolünün künyeye yapıştırılması yasağı (yalnızca sources_registry.yaml ve LINTER_AUDIT_REPORT.md içinde geçebilir)
+            if "Internal Sample Audit" in l_strip and self.path.name != "LINTER_AUDIT_REPORT.md":
+                self.report(
+                    "L-2507",
+                    BLOCK,
+                    f"V17 Künye Sınırı İhlali: 'Internal Sample Audit' ek rolü yalnızca data/sources_registry.yaml ve LINTER_AUDIT_REPORT.md içinde kullanılabilir; monografi künyesinde kullanılamaz!",
+                    f"Satır {line_no}",
+                )
+
+            # 2) Mehmet Yarıcı satırında AMEA / Azerbaycan veya Akademik Danışman unvanı bulunması (Mehmet Emin Koç ayrı bir cümlede geçmiyorsa)
+            if lead_name in l_strip and advisor_name not in l_strip:
+                if any(k in l_strip for k in ["AMEA", "ANAS", "Azerbaycan Milli İlimler", "Azerbaijan National Academy"]):
+                    self.report(
+                        "L-2507",
+                        BLOCK,
+                        f"V17 Künye/Kurum Karışması: Proje Yürütücüsü '{lead_name}' satırında '{advisor_name}'a ait AMEA/Azerbaycan kurumu tespit edildi!",
+                        f"Satır {line_no}",
+                    )
+                if re.search(r"(?:Akademik\s+Danışman|Academic\s+Advisor)\s*[:\*]*\s*\**Mehmet\s+Yarıcı", l_strip, re.I):
+                    self.report(
+                        "L-2507",
+                        BLOCK,
+                        f"V17 Rol Karışması: '{lead_name}' Akademik Danışman olarak yazılamaz (Akademik Danışman: '{advisor_name}')!",
+                        f"Satır {line_no}",
+                    )
+                if advisor_orcid in l_strip:
+                    self.report(
+                        "L-2507",
+                        BLOCK,
+                        f"V17 ORCID Karışması: '{lead_name}' satırında '{advisor_name}'a ait ORCID ('{advisor_orcid}') tespit edildi!",
+                        f"Satır {line_no}",
+                    )
+
+            # 3) Mehmet Emin Koç satırında Mehmet Yarıcı'nın ORCID'si veya Proje Yürütücüsü / Internal Sample Audit rolü bulunması
+            if advisor_name in l_strip and lead_name not in l_strip:
+                if lead_orcid in l_strip:
+                    self.report(
+                        "L-2507",
+                        BLOCK,
+                        f"V17 ORCID Karışması: '{advisor_name}' satırında '{lead_name}'a ait ORCID ('{lead_orcid}') tespit edildi!",
+                        f"Satır {line_no}",
+                    )
+                if "Internal Sample Audit" in l_strip or "Proje Yürütücüsü" in l_strip or "Project Lead" in l_strip:
+                    self.report(
+                        "L-2507",
+                        BLOCK,
+                        f"V17 Rol Karışması: '{advisor_name}' satırında Proje Yürütücüsü / Internal Sample Audit rolü kullanılamaz!",
+                        f"Satır {line_no}",
+                    )
+
 
     def print_summary(self):
         n_block = sum(1 for f in self.findings if f["level"] == BLOCK)
         n_warn = sum(1 for f in self.findings if f["level"] == WARN)
 
         print("\n" + "=" * 70)
-        print(f"   QURAN VISION / GEM LINTER v6.2.2 — AKADEMİK DOĞRULAMA RAPORU")
+        print(f"   QURAN VISION / GEM LINTER v6.2.3 — AKADEMİK DOĞRULAMA RAPORU")
         print(f"   Dosya : {self.path.name}")
-        print(f"   Mod   : {'v6.2.2 / v6.1.1 (Akademik Standart)' if self.is_v6 else 'v5.2 (Geriye Dönük)'} | Katman: {self.katman} | H6: {'Evet' if self.h6 else 'Hayır'}")
+        print(f"   Mod   : {'v6.2.3 / v6.1.1 (Akademik Standart)' if self.is_v6 else 'v5.2 (Geriye Dönük)'} | Katman: {self.katman} | H6: {'Evet' if self.h6 else 'Hayır'}")
         print("=" * 70 + "\n")
 
         if self.findings:
@@ -1358,7 +1543,7 @@ def main():
         sys.exit(0)
 
     if "--version" in sys.argv:
-        print("Quran Vision / GEM Linter v6.2.2 (v6.1.1 Standard Compatible - Python 3)")
+        print("Quran Vision / GEM Linter v6.2.3 (v6.1.1 Standard Compatible - Python 3)")
         sys.exit(0)
 
     target_files = []

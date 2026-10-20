@@ -5,7 +5,7 @@ III. Maarif Kongresi (25-27 Kasım 2026, Başvuru Kodu: MOIJUB)
 1) Ek-1 Genişletilmiş Bildiri Özeti (500-750 Kelime)
 2) Tam Metin Bildiri Kitapçığı (docs/pdf/III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf)
 2026 Türkiye Yüzyılı Maarif Modeli DKAB Öğretim Programları (TTKB 03.03.2026 / Sayı: 4 ve 5)
-ve Quran Vision v6.2.2 (V15 Pedagojik + V16.2 Çoklu Sunucu Doğrulama Sicili) Uyumlu Sürüm.
+ve Quran Vision v6.2.3 (V15 Pedagojik + V16.2 Çoklu Sunucu Doğrulama Sicili) Uyumlu Sürüm.
 """
 
 from pathlib import Path
@@ -27,8 +27,9 @@ TITLE = (
 
 APPLICATION_META = [
     ("Başvuru Kodu", "MOIJUB"),
-    ("Müellif", "Mehmet Yarıcı (Uludağ Üniv. İlahiyat Fak., 1989 • T.C. MEB İstanbul Bahçelievler Dede Korkut Anadolu Lisesi • ORCID: 0009-0003-0356-8582)"),
-    ("Başvuru Tarihi ve Sürüm", "20 Ekim 2026 • Quran Vision v6.2.2 (DOI: 10.5281/zenodo.23410818)"),
+    ("Proje Yürütücüsü & Baş Araştırmacı", "Mehmet Yarıcı (Uludağ Üniv. İlahiyat Fak., 1989 • T.C. MEB İstanbul Bahçelievler Dede Korkut Anadolu Lisesi • ORCID: 0009-0003-0356-8582)"),
+    ("Akademik Danışman", "Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü • ORCID: 0000-0002-1025-5643)"),
+    ("Başvuru Tarihi ve Sürüm", "20 Ekim 2026 • Quran Vision v6.2.3 (DOI: 10.5281/zenodo.23410818)"),
     ("Başvurunun Teması", "Eğitim Yoluyla Kültür, Medeniyet ve Kimlik İnşasında Öğretmenin Rolü"),
     ("Başvuru Takip Adresi", "https://bildiri-maarifkongresi.eba.gov.tr/applications/MOIJUB"),
 ]
@@ -64,7 +65,7 @@ SECTIONS_WITHOUT_REF = [
         "Bu çalışmanın amacı; 2026 Din Kültürü ve Ahlak Bilgisi Dersi Öğretim Programlarında yer alan 'Dinî Kavramları "
         "Bağlamına Uygun Kullanma (DAB3.2)', 'Dinî Metinleri Yorumlama (DAB3.3)', 'Dinî Metinleri Tahlil Etme (DAB3.4)' ve "
         "'Dinî Konularda Analitik Düşünme (DAB4.4)' süreç bileşenlerini sınıf ortamında hayata geçirmek üzere geliştirilen "
-        "'Yirmi Altı Adımlı Stratejik Tefsir ve Öğretim Tasarımı Modeli'ni (Quran Vision v6.2.2) tanıtmak ve modelin öğrenme-öğretme "
+        "'Yirmi Altı Adımlı Stratejik Tefsir ve Öğretim Tasarımı Modeli'ni (Quran Vision v6.2.3) tanıtmak ve modelin öğrenme-öğretme "
         "yaşantılarına katkısını ortaya koymaktır. Literatürdeki mevcut çalışmalar çoğunlukla kuramsal öneri düzeyinde kalırken; bu araştırma "
         "tamamlanmış on beş kurucu ayet monografisi (34 A4 PDF külliyatı), kural tabanlı pedagojik ve çoklu sunucu kaynak doğrulama "
         "yazılımı (V1–V16), çift dilli dijital öğrenme platformu ve her ünite için doğrudan uygulanabilir kırkar dakikalık ders planları "
@@ -122,7 +123,7 @@ REFERENCES = [
     "Millî Eğitim Bakanlığı [MEB]. (2026a). İlkokul-ortaokul ve imam hatip ortaokulu Din Kültürü ve Ahlak Bilgisi dersi (4–8. sınıflar) öğretim programı (TTKB 03.03.2026 tarih ve 4 sayılı kararı). Ankara: MEB Yayınları.",
     "Millî Eğitim Bakanlığı [MEB]. (2026b). Ortaöğretim Din Kültürü ve Ahlak Bilgisi dersi (9–12. sınıflar) öğretim programı (TTKB 03.03.2026 tarih ve 5 sayılı kararı). Ankara: MEB Yayınları.",
     "Şâtıbî, İ. (1997). el-Muvâfakât fî usûli’ş-şerîa (M. H. Âl-i Selmân, Ed.; Cilt 1–6). Riyad: Dâru İbni Affân.",
-    "Yarıcı, M. (2026). Kur’ân Vizyonu (Quran Vision): 26 Adımlı Kanıta Dayalı Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı (Sürüm v6.2.2; 15 Monografi, 34 Külliyat PDF'i + 2 III. Maarif Kongresi Bildiri PDF'i — Toplam 36 PDF). Zenodo. https://doi.org/10.5281/zenodo.23410818",
+    "Yarıcı, M. (2026). Kur’ân Vizyonu (Quran Vision): 26 Adımlı Kanıta Dayalı Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı (Sürüm v6.2.3; 15 Monografi, 34 Külliyat PDF'i + 2 III. Maarif Kongresi Bildiri PDF'i — Toplam 36 PDF). Zenodo. https://doi.org/10.5281/zenodo.23410818",
 ]
 
 
@@ -295,19 +296,19 @@ def build_full_paper_html(isra_step20_md: str) -> str:
     <div class="title">{TITLE}</div>
     <div class="meta-box">
       {"".join(f"<div><strong>{k}:</strong> {v}</div>" for k, v in APPLICATION_META)}
-      <div><strong>Külliyat ve Açık Bilim Envanteri:</strong> 15 Kurucu Âyet Monografisi (15 TR + 15 EN = 30 Rapor) • 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi (ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf) + 1 TYMM 15 Âyet Ders Tasarımı Rehberi (TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf)) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF • 176/176 Doğrulanmış Çoklu Sunucu Kaynağı (<code>127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL</code>)</div>
+      <div><strong>Külliyat ve Açık Bilim Envanteri:</strong> 15 Kurucu Âyet Monografisi (15 TR + 15 EN = 30 Rapor) • 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF • 176/176 Doğrulanmış Çoklu Sunucu Kaynağı (<code>127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL</code>)</div>
     </div>
   </div>
 
   <h2>BÖLÜM 1 — EBA SİSTEMİ GENİŞLETİLMİŞ BİLDİRİ ÖZETİ (EK-1 ŞABLONU)</h2>
   {abstract_blocks}
 
-  <h2>BÖLÜM 2 — QURAN VISION v6.2.2 METODOLOJİK MİMARİSİ: V15 PEDAGOJİK VE V16.2 ÇOKLU SUNUCU KALİTE KAPILARI</h2>
+  <h2>BÖLÜM 2 — QURAN VISION v6.2.3 METODOLOJİK MİMARİSİ: V15 PEDAGOJİK VE V16.2 ÇOKLU SUNUCU KALİTE KAPILARI</h2>
   <p>
     Türkiye Yüzyılı Maarif Modeli (TTKB 2026 Karar No: 4 ve 5) kapsamında Din Kültürü ve Ahlak Bilgisi ile İHL Meslek Derslerinde
     öğrencilerin temel İslam bilimleri kaynaklarına doğrudan ulaşması (<code>DAB1</code>), bilgiyi tetkik ve tahkik etmesi (<code>DAB2–DAB3</code>)
     ve din istismarını önleyici eleştirel sorgulama yapabilmesi (<code>DKAB.11.4.3</code>) hedeflenmektedir. Bu hedefi kural tabanlı bir
-    yazılım mimarisiyle güvence altına almak üzere <strong>Quran Vision v6.2.2</strong> projesinde iki yeni denetim motoru devreye alınmıştır:
+    yazılım mimarisiyle güvence altına almak üzere <strong>Quran Vision v6.2.3</strong> projesinde iki yeni denetim motoru devreye alınmıştır:
   </p>
   <table>
     <thead>
@@ -350,7 +351,7 @@ def build_full_paper_html(isra_step20_md: str) -> str:
   <h2>BÖLÜM 3 — DİJİTAL TAHKİKTE REGRESYON VAKASI: KÜMÜLATİF CİLT OFSETİ VE PARAMETRE DENETİMİ</h2>
   <p>
     Dijital İslami kaynak doğrulamasında yalnızca HTTP <code>200 OK</code> durum koduna veya Arapça kelime varlığına güvenmek,
-    çok ciltli klasik eserlerde ciddi "cilt ofseti" yanılgılarına yol açabilmektedir. Nitekim <code>v6.2.2</code> kalite kontrol sürecinde
+    çok ciltli klasik eserlerde ciddi "cilt ofseti" yanılgılarına yol açabilmektedir. Nitekim <code>v6.2.3</code> kalite kontrol sürecinde
     tespit edilerek <code>L-2502</code> ve <code>L-2503</code> kesici kurallarıyla kalıcı olarak kapatılan iki somut regresyon vakası şunlardır:
   </p>
   <p>
@@ -369,6 +370,10 @@ def build_full_paper_html(isra_step20_md: str) -> str:
     <code>ADIM 13.3</code> altında yer alan 15 Kuşeyrî (<em>Letâ'ifü'l-İşârât</em>) bağlantısının tamamında URL parametrelerindeki
     <code>tMadhNo=3</code> (Tasavvufî/İşârî Tefsir), <code>tTafsirNo=31</code> (el-Kuşeyrî) ve ilgili <code>tSoraNo</code>/<code>tAyahNo</code>
     değerlerinin monografinin sûre ve âyetiyle birebir örtüştüğü <code>L-2502</code> kuralıyla tescil edilmiştir.
+  </p>
+  <p>
+    <strong>3. Süreç İçi Kalite Kontrol ve <code>L-2507</code> Kimlik Kilidi Vakası (<code>v6.2.3 -&gt; v6.2.3</code>):</strong>
+    Sürüm paketleme aşamasında bağlamsız metin değiştirme (<em>global find-replace</em>) nedeniyle Akademik Danışman künyesi (<strong>Mehmet Emin Koç</strong> — <em>AMEA, Felsefe ve Sosyoloji Enstitüsü</em>, <code>ORCID: 0000-0002-1025-5643</code>) ile Proje Yürütücüsü künyesinin (<strong>Mehmet Yarıcı</strong>, <code>ORCID: 0009-0003-0356-8582</code>) birleştiği süreç içi denetimde tespit edilmiş; <code>data/people_registry.yaml</code> kişi sicili ve <code>L-2507</code> (<code>BLOCK</code>) kimlik/rol ayrımı kilidi devreye alınarak <code>v6.2.3</code> düzeltme sürümüyle kalıcı olarak güvence altına alınmıştır.
   </p>
 
   <h2>BÖLÜM 4 — ÖRNEK UYGULAMA MODÜLÜ: İSRÂ SÛRESİ 17:36 (QV-2026-008) 40 DAKİKALIK TYMM DERS TASARIMI</h2>
@@ -532,7 +537,7 @@ def main():
             from build_portal import stamp_pdf_metadata
             stamp_pdf_metadata(
                 full_pdf_repo,
-                title="III. Maarif Kongresi Tam Metin Bildirisi (MOIJUB) — Quran Vision v6.2.2",
+                title="III. Maarif Kongresi Tam Metin Bildirisi (MOIJUB) — Quran Vision v6.2.3",
                 subject="TYMM 2026 DKAB 26 Adımlı Öğretim Tasarımı ve V16.2 Çoklu Sunucu Doğrulama Sicili",
             )
             stamp_pdf_metadata(

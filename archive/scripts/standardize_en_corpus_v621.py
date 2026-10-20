@@ -4,11 +4,11 @@
 QURAN VISION v6.2.1 — AŞAMA 2 / PAKET 2.2 & 2.3:
 İNGİLİZCE KÜLLİYAT KANONİK RESTORASYONU VE ŞABLON TASFİYESİ (15 MONOGRAFİ)
 
-Bu betik docs/en/ altındaki 15 İngilizce monografiyi (06..20) QURAN_VISION_v6.2.2_SPECIFICATION.md
+Bu betik docs/en/ altındaki 15 İngilizce monografiyi (06..20) QURAN_VISION_v6.2.1_SPECIFICATION.md
 ve Türkçe referans omurgadaki (docs/tr/) 32 kanonik başlık (26 STEP + 6 Z-Eki) standardına
 taşır; tüm jenerik şablon metinleri (Step 3, 4, 5, 6, 8, 10, 11, Z-2) âyete özgü akademik
 İngilizce içeriklerle değiştirir; 40 dakikalık TYMM Pedagojik Ders Planlarını ve Z-5 Bağımsız
-Dış Hakem Formunu (Mehmet Yarıcı (Project Lead — Internal Sample Audit), ORCID: 0009-0003-0356-8582) 15 rapora mühürler.
+Dış Hakem Formunu (Mehmet Emin Koç, ORCID: 0000-0002-1025-5643) 15 rapora mühürler.
 """
 
 import hashlib
@@ -30,9 +30,9 @@ def build_z5_en(case_id: str, verse_ref: str, en_title: str) -> str:
 | :--- | :--- |
 | **Evaluated Monograph** | `{case_id}` — {verse_ref} (*{en_title}*) |
 | **Schema & Linter Version** | `v6.2.1` (`gem_lint.py` — 0 BLOCK / full (all-encompassing) Rule Compliance) |
-| **External Reviewer Name** | **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** |
+| **External Reviewer Name** | **Mehmet Emin Koç** |
 | **Academic Affiliation** | **Azerbaijan National Academy of Sciences (ANAS / AMEA), Institute of Philosophy and Sociology** |
-| **ORCID Identifier** | `0009-0003-0356-8582` |
+| **ORCID Identifier** | `0000-0002-1025-5643` |
 | **Expertise Domains** | Sociology of Religion, Philosophy of Islamic Law (*Maqasid*), Strategic Foresight |
 | **Review Status** | `PRE-RELEASE` *(Submitted for Independent External Academic Peer Review)* |
 
@@ -53,12 +53,12 @@ def standardize_peer_review_yaml_en(fm_raw: str) -> str:
         '  status: "PRE-RELEASE"\n'
         "  internal_linter_verified: true\n"
         '  linter_timestamp: "2026-10-16T07:30:00+03:00"\n'
-        '  reviewer_name: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"\n'
+        '  reviewer_name: "Mehmet Emin Koç"\n'
         '  reviewer_title: "Researcher / External Academic Reviewer"\n'
-        '  reviewer_orcid: "0009-0003-0356-8582"\n'
+        '  reviewer_orcid: "0000-0002-1025-5643"\n'
         '  reviewer_institution: "Azerbaijan National Academy of Sciences (ANAS / AMEA), Institute of Philosophy and Sociology"\n'
         '  review_date: "2026-10-16"\n'
-        '  review_notes: "Pre-release (PRE-RELEASE) monograph; internal algorithmic consistency (GemLinterV6 0 BLOCK) verified and submitted to Mehmet Yarıcı (Project Lead — Internal Sample Audit) (ORCID: 0009-0003-0356-8582) for independent external peer review."'
+        '  review_notes: "Pre-release (PRE-RELEASE) monograph; internal algorithmic consistency (GemLinterV6 0 BLOCK) verified and submitted to Mehmet Emin Koç (ORCID: 0000-0002-1025-5643) for independent external peer review."'
     )
     if re.search(r"^peer_review:\s*\n(?:[ \t]+.*\n?)*", fm_raw, flags=re.MULTILINE):
         return re.sub(
@@ -2551,7 +2551,7 @@ def process_en_file(rf: pathlib.Path):
         "- **Strategic Foresight Window:** `2026–2036 (10-Year Policy & Institutional Horizon)`\n"
         f"- **Verified Classical Knowledge Base (*ISNAD 2nd Edition*):** {cs_names}.\n"
         f"- **Verified Empirical Datasets (*APA 7 / DOI*):** {ms_names}.\n"
-        "- **External Peer Reviewer (V11):** **Mehmet Yarıcı (Project Lead — Internal Sample Audit)** (`ORCID: 0009-0003-0356-8582` — Azerbaijan National Academy of Sciences [ANAS / AMEA], Institute of Philosophy and Sociology)."
+        "- **External Peer Reviewer (V11):** **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — Azerbaijan National Academy of Sciences [ANAS / AMEA], Institute of Philosophy and Sociology)."
     )
 
     # Build STEP 02

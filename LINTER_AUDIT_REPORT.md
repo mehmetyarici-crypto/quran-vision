@@ -211,11 +211,11 @@
 | 64 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-015.pdf`](docs/pdf/QV-2026-015.pdf) | `c6f7e99a4b13a2f838b44ade03eeb2e8586e10ecaf7e89897c531bb9a494196c` |
 | 65 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-015_EN.pdf`](docs/pdf/QV-2026-015_EN.pdf) | `b57157b1186dd6224ceaa5da337259ea98599244ca1e99ac9012304960fb7982` |
 | 66 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`](docs/pdf/TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf) | `aaa67a41dc601dbe885b091908a35a2f60ed9b2a28dcbb85d65559ecaa50a59a` |
-| 67 | 4. III. Maarif Kongresi | [`docs/pdf/III_MAARIF_KONGRESI_BILDIRI_OZETI_EK1_SABLONU.pdf`](docs/pdf/III_MAARIF_KONGRESI_BILDIRI_OZETI_EK1_SABLONU.pdf) | `527cf483368929178f2d99dccc64d85dd1307f7a0898c42d1d9f24de0c7b42ea` |
-| 68 | 4. III. Maarif Kongresi | [`docs/pdf/III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf`](docs/pdf/III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf) | `ece5d9cefb88224c4a9c0bba218a22da34d5e9f508f763a54563df0077ac9ec4` |
+| 67 | 4. III. Maarif Kongresi | [`docs/pdf/III_MAARIF_KONGRESI_BILDIRI_OZETI_EK1_SABLONU.pdf`](docs/pdf/III_MAARIF_KONGRESI_BILDIRI_OZETI_EK1_SABLONU.pdf) | `4760b06c0ef27ae64a636a3251a412c44d058c461b24621eb64671bd44134ed2` |
+| 68 | 4. III. Maarif Kongresi | [`docs/pdf/III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf`](docs/pdf/III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf) | `36db9207b64ad547a8547626449079bd9aabc32548357c587107ac46f1621eec` |
 | 69 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`data/sources_registry.yaml`](data/sources_registry.yaml) | `666a1f982e4c26d90e10abc5c418093bc611a0acd7b02b15c8319ed117c4a25a` |
 | 70 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/source_verification_manifest.json`](docs/source_verification_manifest.json) | `58a1e0e25fee0b9be3c73409a2f38553540c0818214c9042af64921206e61e3f` |
-| 71 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/index.html`](docs/index.html) | `5f35b1396e973ab6aed7f566b4801e6a55f7246b338719e5ab7d6ad8474c0705` |
+| 71 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/index.html`](docs/index.html) | `77d9071b9bc60b3ef474ec9e0318c685000639c9ad22f4592732c4429e71fc43` |
 | 72 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`TALIMATNAME.md`](TALIMATNAME.md) | `b5139c4ea963d0f74bed7befc03e7f2e3096744d7e36fecf710d429db8a78000` |
 | 73 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`QURAN_VISION_v6.2.2_SPECIFICATION.md`](QURAN_VISION_v6.2.2_SPECIFICATION.md) | `e1d1d1fd5757150755c22ab1797fccc0f054527e1a7b2a0a7c8abe7c0b9c0d3d` |
 | 74 | 5. Çekirdek Sicil, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/tr/akademik-hakem-rehberi.md`](docs/tr/akademik-hakem-rehberi.md) | `4641b28dbc8dde6fe2b55a94dd2a78d6b47b6f11bf5fd5c28c7fc6d5a6f8444a` |

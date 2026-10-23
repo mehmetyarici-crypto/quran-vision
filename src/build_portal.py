@@ -1578,7 +1578,7 @@ def build_html(reports, source_manifest=None):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KUR’ÂN VİZYONU • QURAN VISION CORPUS (v6.2.3) — 26-Step Strategic Tafsir & Foresight</title>
+<title>[SANDBOX] KUR’ÂN VİZYONU • QURAN VISION CORPUS (v6.2.3) — 26-Step Strategic Tafsir & Foresight</title>
 <meta name="description" content="Bilingual (TR/EN) 26-Step Evidence-Based Strategic Tafsir, Maqasid & Civilization Foresight Corpus. {len(reports)} Foundational Verse Reports, {total_classical} Primary Arabic ISNAD 2 Citations, {total_modern} Empirical DOI Datasets & 40-Min TYMM Lesson Plans.">
 <meta name="keywords" content="Quran Vision, Kur'an Vizyonu, Strategic Tafsir, Stratejik Tefsir, Maqasid al-Shariah, ISNAD 2, Bayesian Policy Modeling, TYMM Ders Planı, Islamic Studies, Mehmet Yarıcı">
 <meta name="author" content="Mehmet Yarıcı — Quran Vision Institute">
@@ -2618,6 +2618,7 @@ a.fn-backref:hover {{
         </svg>
       </button>
       <div class="stats-bar" id="statsBar">
+        <span id="sandboxEnvBadge" style="display:inline-flex; align-items:center; gap:6px; background:#D97706; color:#FFFFFF; font-weight:700; font-size:12px; padding:6px 12px; border-radius:8px; white-space:nowrap; letter-spacing:0.3px;">🧪 SANDBOX TEST ORTAMI (v6.3.0-beta.1 | localhost:8080)</span>
         <a id="liveStatsPill" class="stat-pill" href="https://zenodo.org/records/23410818" target="_blank" rel="noopener" style="text-decoration:none; border-color:var(--accent-emerald);">
           👁️ <strong id="liveViewsVal">117</strong> <span id="liveViewsLbl">Görüntülenme</span> &nbsp;•&nbsp; 📥 <strong id="liveDownloadsVal">14</strong> <span id="liveDownloadsLbl">İndirme</span>
         </a>
@@ -2977,6 +2978,12 @@ function setLanguage(lang) {{
   document.documentElement.setAttribute('lang', currentLang);
 
   const isEn = currentLang === 'en';
+  const sandboxBadge = document.getElementById('sandboxEnvBadge');
+  if (sandboxBadge) {{
+    sandboxBadge.textContent = isEn
+      ? '🧪 SANDBOX TEST ENV (v6.3.0-beta.1 | localhost:8080)'
+      : '🧪 SANDBOX TEST ORTAMI (v6.3.0-beta.1 | localhost:8080)';
+  }}
   document.getElementById('brandBadge').textContent = isEn
     ? '🏛️ QURAN VISION INSTITUTE • v6.2.3'
     : '🏛️ QURAN VISION ENSTİTÜSÜ • v6.2.3';
@@ -3064,7 +3071,7 @@ function selectReport(idx) {{
   const activePdfFile = isEn ? (r.pdf_filename_en || r.pdf_filename) : r.pdf_filename;
   const activeMdPath = isEn ? `docs/en/${{r.filename_en || r.filename}}` : `docs/tr/${{r.filename}}`;
 
-  document.title = `${{r.case_id}} - ${{surahDisp}} ${{r.verse}} - Quran Vision v6.2.3`;
+  document.title = `[SANDBOX] ${{r.case_id}} - ${{surahDisp}} ${{r.verse}} - Quran Vision v6.2.3`;
   const dlBtn = document.getElementById('downloadPdfBtn');
   if (dlBtn) {{
     dlBtn.href = `pdf/${{activePdfFile}}`;
@@ -4567,13 +4574,8 @@ def main():
     source_manifest = build_source_verification_manifest()
     html = build_html(reports, source_manifest=source_manifest)
     out1 = ROOT / "docs" / "index.html"
-    out2 = ROOT.parent / "GEM_DIJITAL_KULLIYAT_PORTALI.html"
-    out3 = ROOT.parent / "QURAN_VISION_KULLIYAT_PORTALI.html"
     out1.write_text(html, encoding="utf-8")
-    out2.write_text(html, encoding="utf-8")
-    out3.write_text(html, encoding="utf-8")
     print(f"✅ Portal üretildi: {out1} ({len(reports)} rapor)")
-    print(f"✅ Masaüstü hızlı erişim kopyaları: {out2.name}, {out3.name}")
 
     if "--html-only" in sys.argv:
         print("ℹ️ --html-only modu: A4 PDF basımı atlandı.")

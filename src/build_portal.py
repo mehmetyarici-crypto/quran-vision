@@ -78,8 +78,12 @@ def parse_report(md_path: Path):
     verse = str(fm.get("verse") or fm.get("ayet_no", ""))
 
     # Clean Windows-safe PDF filename
-    pdf_filename = f"{case_id}.pdf"
-    pdf_filename_en = f"{case_id}_EN.pdf"
+    if case_id == "QV-2026-016":
+        pdf_filename = md_path.stem + ".pdf"
+        pdf_filename_en = md_path.stem.replace("-v6.", "-en-v6.") + ".pdf"
+    else:
+        pdf_filename = f"{case_id}.pdf"
+        pdf_filename_en = f"{case_id}_EN.pdf"
 
     base_report = {
         "filename": md_path.name,
@@ -529,7 +533,7 @@ def build_single_report_print_html(r: dict, idx: int, fn_prefix: str = "") -> st
         <h1 class="pdf-main-title">{idx}. {html_lib.escape(r['surah'])} Sûresi {html_lib.escape(r['verse'])} — {html_lib.escape(r['topic'])}</h1>
         <div class="pdf-submeta" style="color:#064e3b; background:#eef5f2; padding:5px 8px; border-radius:4px; border-left:3px solid #856404; margin-bottom:6px; line-height:1.45;">
           👑 <strong>Proje Yürütücüsü &amp; Baş Araştırmacı: Mehmet Yarıcı</strong> — <em>Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. MEB İstanbul Bahçelievler Dede Korkut Anadolu Lisesi</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)<br>
-          🏛️ <strong>Akademik Danışman: Mehmet Emin Koç</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) &nbsp;|&nbsp; 🛡️ <strong>Kalite Güvencesi ve Kaynak Doğrulama:</strong> <em>gem_lint.py (V1–V17 Algoritmik Denetim) &amp; V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı)</em>
+          🏛️ <strong>Akademik Danışman: Mehmet Emin Koç</strong> — <em>Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü</em> (ORCID: <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) &nbsp;|&nbsp; 🛡️ <strong>Kalite Güvencesi ve Kaynak Doğrulama:</strong> <em>gem_lint.py (V1–V17 Algoritmik Denetim) &amp; V16.2 İç Örneklem Kontrolü (60/190 Kaynak — Mehmet Yarıcı)</em>
         </div>
         <div class="pdf-submeta">
           Katman: 3 (Akademik-Derin) &nbsp;|&nbsp; H6 Zorlu Âyet &nbsp;|&nbsp; Güven Derecesi: {html_lib.escape(r['confidence'])} &nbsp;|&nbsp;
@@ -877,7 +881,7 @@ def build_single_report_print_html_en(r: dict, idx: int, fn_prefix: str = "") ->
         <h1 class="pdf-main-title">{idx}. Surah {html_lib.escape(r.get('surah_en', r['surah']))} {html_lib.escape(r['verse'])} — {html_lib.escape(r.get('topic_en', r['topic']))}</h1>
         <div class="pdf-submeta" style="color:#064e3b; background:#eef5f2; padding:5px 8px; border-radius:4px; border-left:3px solid #856404; margin-bottom:6px; line-height:1.45;">
           👑 <strong>Project Lead &amp; Principal Investigator: Mehmet Yarıcı</strong> — <em>Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education (MEB), Bahçelievler Dede Korkut Anatolian High School</em> (ORCID: <a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>)<br>
-          🏛️ <strong>Academic Advisor: Mehmet Emin Koç</strong> — <em>Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology</em> (ORCID: <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) &nbsp;|&nbsp; 🛡️ <strong>Quality Assurance &amp; Source Verification:</strong> <em>gem_lint.py (V1–V17 Algorithmic Audit) &amp; V16.2 Internal Sample Verification (51/176 Sources — Mehmet Yarıcı)</em>
+          🏛️ <strong>Academic Advisor: Mehmet Emin Koç</strong> — <em>Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology</em> (ORCID: <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) &nbsp;|&nbsp; 🛡️ <strong>Quality Assurance &amp; Source Verification:</strong> <em>gem_lint.py (V1–V17 Algorithmic Audit) &amp; V16.2 Internal Sample Verification (60/190 Sources — Mehmet Yarıcı)</em>
         </div>
         <div class="pdf-submeta">
           Layer: 3 (Academic-Deep) &nbsp;|&nbsp; H6 Complex Verse &nbsp;|&nbsp; Confidence Grade: {html_lib.escape(r['confidence'])} &nbsp;|&nbsp;
@@ -1145,11 +1149,7 @@ def build_isnad2_guide_pdf(browser: str, rebuild_all: bool = False):
         tmp_html.unlink(missing_ok=True)
         if out_pdf.exists() and out_pdf.stat().st_size > 1000:
             print(f"  📘 33. Belge (İSNAD-2 Rehberi) PDF üretildi: {out_pdf.name} ({out_pdf.stat().st_size // 1024} KB)")
-
-    if out_pdf.exists():
-        stamp_pdf_metadata(out_pdf, guide_title, guide_subj)
-        shutil.copy2(out_pdf, DESKTOP_PDF_DIR / out_pdf.name)
-        shutil.copy2(out_pdf, parent_pdf_dir / out_pdf.name)
+            stamp_pdf_metadata(out_pdf, guide_title, guide_subj)
 
 
 def build_tymm_pedagogy_guide_pdf(browser: str, reports: list, rebuild_all: bool = False):
@@ -1246,18 +1246,11 @@ def build_tymm_pedagogy_guide_pdf(browser: str, reports: list, rebuild_all: bool
         tmp_html.unlink(missing_ok=True)
         if out_pdf.exists() and out_pdf.stat().st_size > 1000:
             print(f"  🎓 34. Belge (TYMM 15 Âyet Ders Tasarımı Rehberi) PDF üretildi: {out_pdf.name} ({out_pdf.stat().st_size // 1024} KB)")
-
-    if out_pdf.exists():
-        stamp_pdf_metadata(out_pdf, guide_title, guide_subj)
-        shutil.copy2(out_pdf, DESKTOP_PDF_DIR / out_pdf.name)
-        shutil.copy2(out_pdf, parent_pdf_dir / out_pdf.name)
+            stamp_pdf_metadata(out_pdf, guide_title, guide_subj)
 
 
 def generate_all_pdfs(reports: list):
     PDF_DIR.mkdir(parents=True, exist_ok=True)
-    DESKTOP_PDF_DIR.mkdir(parents=True, exist_ok=True)
-    parent_pdf_dir = ROOT.parent / "pdf"
-    parent_pdf_dir.mkdir(parents=True, exist_ok=True)
     browser = find_browser_exe()
     if not browser:
         print("⚠️ Tarayıcı bulunamadı, PDF üretimi atlandı.")
@@ -1290,11 +1283,8 @@ def generate_all_pdfs(reports: list):
             subprocess.run(cmd, check=False, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             tmp_html.unlink(missing_ok=True)
             if out_pdf.exists() and out_pdf.stat().st_size > 1000:
+                stamp_pdf_metadata(out_pdf, tr_title, tr_subj)
                 print(f"  📄 Yeni TR PDF üretildi: {out_pdf.name} ({out_pdf.stat().st_size // 1024} KB)")
-        if out_pdf.exists():
-            stamp_pdf_metadata(out_pdf, tr_title, tr_subj)
-            shutil.copy2(out_pdf, DESKTOP_PDF_DIR / r["pdf_filename"])
-            shutil.copy2(out_pdf, parent_pdf_dir / r["pdf_filename"])
 
         # 2. English Report HTML (fn_prefix="" for standalone PDF, fn_prefix=f"r{idx}-" for combined book)
         art_en_single = build_single_report_print_html_en(r, idx, fn_prefix="")
@@ -1319,11 +1309,8 @@ def generate_all_pdfs(reports: list):
             subprocess.run(cmd_en, check=False, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             tmp_html_en.unlink(missing_ok=True)
             if out_pdf_en.exists() and out_pdf_en.stat().st_size > 1000:
+                stamp_pdf_metadata(out_pdf_en, en_title, en_subj)
                 print(f"  🇬🇧 Yeni EN PDF üretildi: {out_pdf_en.name} ({out_pdf_en.stat().st_size // 1024} KB)")
-        if out_pdf_en.exists():
-            stamp_pdf_metadata(out_pdf_en, en_title, en_subj)
-            shutil.copy2(out_pdf_en, DESKTOP_PDF_DIR / r["pdf_filename_en"])
-            shutil.copy2(out_pdf_en, parent_pdf_dir / r["pdf_filename_en"])
 
     last_code = reports[-1]["case_id"] if reports else "QV-2026-015"
     # Full Turkish Corpus Book PDF
@@ -1365,15 +1352,12 @@ def generate_all_pdfs(reports: list):
         subprocess.run(cmd_book, check=False, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         book_html_path.unlink(missing_ok=True)
         if book_pdf_path.exists() and book_pdf_path.stat().st_size > 1000:
+            stamp_pdf_metadata(
+                book_pdf_path,
+                f"Kur'an Vizyonu (Quran Vision) Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı v6.2.3 (QV-2026-001 – {last_code})",
+                "Kur'an Vizyonu Külliyatı v6.2.3 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Proje Yürütücüsü & Baş Araştırmacı: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Akademik Danışman: Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)",
+            )
             print(f"  📚 Tam Külliyat TR PDF üretildi: {book_pdf_path.name} ({book_pdf_path.stat().st_size // 1024} KB)")
-    if book_pdf_path.exists():
-        stamp_pdf_metadata(
-            book_pdf_path,
-            f"Kur'an Vizyonu (Quran Vision) Stratejik Tefsir, Makâsıd ve Medeniyet Öngörü Külliyatı v6.2.3 (QV-2026-001 – {last_code})",
-            "Kur'an Vizyonu Külliyatı v6.2.3 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Proje Yürütücüsü & Baş Araştırmacı: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Akademik Danışman: Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)",
-        )
-        shutil.copy2(book_pdf_path, DESKTOP_PDF_DIR / "Quran_Vision_Kulliyat_v6.2.3.pdf")
-        shutil.copy2(book_pdf_path, parent_pdf_dir / "Quran_Vision_Kulliyat_v6.2.3.pdf")
 
     # Full English Corpus Book PDF
     cover_en_html = f"""
@@ -1414,27 +1398,18 @@ def generate_all_pdfs(reports: list):
         subprocess.run(cmd_book_en, check=False, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         book_en_html_path.unlink(missing_ok=True)
         if book_en_pdf_path.exists() and book_en_pdf_path.stat().st_size > 1000:
+            stamp_pdf_metadata(
+                book_en_pdf_path,
+                f"Quran Vision Corpus: Strategic Tafsir, Maqasid & Civilization Foresight v6.2.3 (QV-2026-001 – {last_code})",
+                "Quran Vision Corpus v6.2.3 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Project Lead & Principal Investigator: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Academic Advisor: Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)",
+            )
             print(f"  🇬🇧📚 Tam Külliyat EN PDF üretildi: {book_en_pdf_path.name} ({book_en_pdf_path.stat().st_size // 1024} KB)")
-    if book_en_pdf_path.exists():
-        stamp_pdf_metadata(
-            book_en_pdf_path,
-            f"Quran Vision Corpus: Strategic Tafsir, Maqasid & Civilization Foresight v6.2.3 (QV-2026-001 – {last_code})",
-            "Quran Vision Corpus v6.2.3 • DOI: 10.5281/zenodo.23410818 (Concept: 10.5281/zenodo.23391192) • Project Lead & Principal Investigator: Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) • Academic Advisor: Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)",
-        )
-        shutil.copy2(book_en_pdf_path, DESKTOP_PDF_DIR / "Quran_Vision_Corpus_EN_v6.2.3.pdf")
-        shutil.copy2(book_en_pdf_path, parent_pdf_dir / "Quran_Vision_Corpus_EN_v6.2.3.pdf")
 
     # 33rd Document: ISNAD-2 Classical Arabic Digital Databases Guide PDF
     build_isnad2_guide_pdf(browser, rebuild_all=rebuild_all)
 
     # 34th Document: TYMM DKAB & IHL 15-Verse Lesson Design Guide PDF
     build_tymm_pedagogy_guide_pdf(browser, reports, rebuild_all=rebuild_all)
-
-    # Clean up any legacy v6.2.1 / v6.2.2 full corpus PDFs
-    for d in (PDF_DIR, DESKTOP_PDF_DIR, parent_pdf_dir):
-        if d.exists():
-            for old_f in list(d.glob("*v6.2.1*.pdf")) + list(d.glob("*v6.2.2*.pdf")):
-                old_f.unlink(missing_ok=True)
 
 
 

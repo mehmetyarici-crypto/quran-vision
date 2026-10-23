@@ -1506,7 +1506,7 @@ function selectReport(idx) {
   const dlBtn = document.getElementById('downloadPdfBtn');
   if (dlBtn) {
     dlBtn.href = `pdf/${activePdfFile}`;
-    dlBtn.setAttribute('download', isEn ? `${r.case_id}_${surahDisp}_Report_EN.pdf` : `${r.case_id}_${r.surah}_Raporu.pdf`);
+    dlBtn.setAttribute('download', activePdfFile);
   }
   trackReportView(r.case_id);
 

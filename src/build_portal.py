@@ -1285,6 +1285,9 @@ def generate_all_pdfs(reports: list):
             if out_pdf.exists() and out_pdf.stat().st_size > 1000:
                 stamp_pdf_metadata(out_pdf, tr_title, tr_subj)
                 print(f"  📄 Yeni TR PDF üretildi: {out_pdf.name} ({out_pdf.stat().st_size // 1024} KB)")
+        legacy_tr_pdf = PDF_DIR / f"{r['case_id']}.pdf"
+        if out_pdf.exists() and legacy_tr_pdf != out_pdf and not legacy_tr_pdf.exists():
+            shutil.copy2(out_pdf, legacy_tr_pdf)
 
         # 2. English Report HTML (fn_prefix="" for standalone PDF, fn_prefix=f"r{idx}-" for combined book)
         art_en_single = build_single_report_print_html_en(r, idx, fn_prefix="")
@@ -1311,6 +1314,9 @@ def generate_all_pdfs(reports: list):
             if out_pdf_en.exists() and out_pdf_en.stat().st_size > 1000:
                 stamp_pdf_metadata(out_pdf_en, en_title, en_subj)
                 print(f"  🇬🇧 Yeni EN PDF üretildi: {out_pdf_en.name} ({out_pdf_en.stat().st_size // 1024} KB)")
+        legacy_en_pdf = PDF_DIR / f"{r['case_id']}_EN.pdf"
+        if out_pdf_en.exists() and legacy_en_pdf != out_pdf_en and not legacy_en_pdf.exists():
+            shutil.copy2(out_pdf_en, legacy_en_pdf)
 
     last_code = reports[-1]["case_id"] if reports else "QV-2026-015"
     # Full Turkish Corpus Book PDF
@@ -3057,7 +3063,7 @@ function selectReport(idx) {{
   const dlBtn = document.getElementById('downloadPdfBtn');
   if (dlBtn) {{
     dlBtn.href = `pdf/${{activePdfFile}}`;
-    dlBtn.setAttribute('download', isEn ? `${{r.case_id}}_${{surahDisp}}_Report_EN.pdf` : `${{r.case_id}}_${{r.surah}}_Raporu.pdf`);
+    dlBtn.setAttribute('download', activePdfFile);
   }}
   trackReportView(r.case_id);
 

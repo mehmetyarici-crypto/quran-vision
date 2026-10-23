@@ -1,18 +1,18 @@
 schema_version: '16.2'
 generated_at: '2026-10-20'
 reverify_period_days: 90
-epistemic_statement_tr: '[2026-10-20] itibarıyla incelenen [176/176] kayıt, [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem
-  (51/176 = 0.29)] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün'
-epistemic_statement_en: 'As of [2026-10-20], [176/176] examined records have been verified via [Fihrist/Breadcrumb + Verbatim
-  Quote Match + >=0.10 Manual Sample (51/176 = 0.29)] and [SHA-256 Snapshot] digest; re-verification period: 90 days'
+epistemic_statement_tr: '[2026-10-20] itibarıyla incelenen [190/190] kayıt, [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem
+  (60/190 = 0.32)] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün'
+epistemic_statement_en: 'As of [2026-10-20], [190/190] examined records have been verified via [Fihrist/Breadcrumb + Verbatim
+  Quote Match + >=0.10 Manual Sample (60/190 = 0.32)] and [SHA-256 Snapshot] digest; re-verification period: 90 days'
 summary:
-  total_sources: 176
-  verified_sources: 176
-  shamela_sources: 127
-  altafsir_sources: 15
+  total_sources: 190
+  verified_sources: 190
+  shamela_sources: 138
+  altafsir_sources: 18
   institutional_sources: 34
-  manual_sample_count: 51
-  manual_sample_ratio: 0.2898
+  manual_sample_count: 60
+  manual_sample_ratio: 0.3158
   stale_or_suspect_count: 0
 sources:
 - id: src-inst-data-tuik-gov-tr
@@ -3837,4 +3837,324 @@ sources:
     reviewer: Automated Multi-Server Gate (L-2501..L-2503)
     audit_date: '2026-10-20'
   status: VERIFIED
-methodological_note_principle_4: 'Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiş, akademik danışmanlık süreci Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü; ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür.'
+- id: src-shamela-7798-10535
+  provider: shamela
+  author: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923)
+  work: Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân
+  volume: '15'
+  printed_page: '405'
+  url: https://shamela.ws/book/7798/10535
+  expected_breadcrumb: 'ج15 - ص405 | فهرس الكتاب > تفسير سورة الكهف > القول في تأويل قوله جل ثناؤه: ﴿آتوني زبر الحديد حتى
+    إذا ساوى بين الصدفين قال انفخوا حتى إذا جعله نارا قال آتوني أفرغ عليه قطرا (٩٦) فما اسطاعوا أن'
+  verified_breadcrumb: 'ج15 - ص405 | فهرس الكتاب > تفسير سورة الكهف > القول في تأويل قوله جل ثناؤه: ﴿آتوني زبر الحديد حتى
+    إذا ساوى بين الصدفين قال انفخوا حتى إذا جعله نارا قال آتوني أفرغ عليه قطرا (٩٦) فما اسطاعوا أن'
+  expected_quote_norm: يقول تعالي ذكره قال ذو القرنين للذين سالوه ان يجعل بينهم وبين ياجوج وماجوج سدا اتوني اي جييوني بزبر
+    الحديد وهي جمع زبره والزبره القطعه من الحديد
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 3be800b651fd7f6ac30f0fb80958a1424a53555b2f76eeddf5fae649201ee12a
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-7798-10542
+  provider: shamela
+  author: Ebû Ca'fer Muhammed b. Cerîr et-Taberî (ö. 310/923)
+  work: Câmi'u'l-Beyân 'an Te'vîli Âyi'l-Kur'ân
+  volume: '15'
+  printed_page: '412'
+  url: https://shamela.ws/book/7798/10542
+  expected_breadcrumb: 'ج15 - ص412 | فهرس الكتاب > تفسير سورة الكهف > القول في تأويل قوله جل ثناؤه: ﴿قال هذا رحمة من ربي فإذا
+    جاء وعد ربي جعله دكاء وكان وعد ربي حقا (٩٨)﴾.'
+  verified_breadcrumb: 'ج15 - ص412 | فهرس الكتاب > تفسير سورة الكهف > القول في تأويل قوله جل ثناؤه: ﴿قال هذا رحمة من ربي فإذا
+    جاء وعد ربي جعله دكاء وكان وعد ربي حقا (٩٨)﴾.'
+  expected_quote_norm: يقول تعالي ذكره فلما راي ذو القرنين ان ياجوج وماجوج لا يستطيعون ان يظهروا ما بني من الردم ولا يقدرون
+    علي نقبه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 719705a211446fb64c9a0a508d938b574369b1c4642514b3a01a1a3a43d14fd0
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-95590-3586
+  provider: shamela
+  author: Ebû Mansûr Muhammed b. Muhammed el-Mâtürîdî (ö. 333/944)
+  work: Te'vîlâtü Ehli's-Sünne (Tefsîru'l-Mâtürîdî)
+  volume: '7'
+  printed_page: '208'
+  url: https://shamela.ws/book/95590/3586
+  expected_breadcrumb: ج7 - ص208 | فهرس الكتاب > سورة الكهف > (٩٤)
+  verified_breadcrumb: ج7 - ص208 | فهرس الكتاب > سورة الكهف > (٩٤)
+  expected_quote_norm: وذو القرنين كان يعرف الالسن كلها ففقهوا هم منه وفقه هو منهم حيث قالوا يا ذا القرنين ان ياجوج وماجوج
+    مفسدون في الارض فهل نجعل لك خرجا اي جعلا اجرا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 9dcec49d4d79ec319c1671e873b7b7404d93bd6920a053166b733b3d39fb97c4
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-95590-3587
+  provider: shamela
+  author: Ebû Mansûr Muhammed b. Muhammed el-Mâtürîdî (ö. 333/944)
+  work: Te'vîlâtü Ehli's-Sünne (Tefsîru'l-Mâtürîdî)
+  volume: '7'
+  printed_page: '209'
+  url: https://shamela.ws/book/95590/3587
+  expected_breadcrumb: ج7 - ص209 | فهرس الكتاب > سورة الكهف > (٩٧)
+  verified_breadcrumb: ج7 - ص209 | فهرس الكتاب > سورة الكهف > (٩٧)
+  expected_quote_norm: وقوله عز وجل فما اسطاعوا ان يظهروه وما استطاعوا له نقبا اي يعلوه يعني علي ذلك السد وما استطاعوا له
+    نقبا في اسفله
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 4b277c5a2f063e51dccfd9b2e2bf4e0a0d9c6c42754b168d177770ae5a6f01c3
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23635-3742
+  provider: shamela
+  author: Fahreddîn er-Râzî, Muhammed b. Ömer (ö. 606/1210)
+  work: Mefâtîhu'l-Gayb (et-Tefsîrü'l-Kebîr)
+  volume: '21'
+  printed_page: '500'
+  url: https://shamela.ws/book/23635/3742
+  expected_breadcrumb: 'ج21 - ص500 | فهرس الكتاب > الجزء الواحد والعشرون > سورة الكهف > [سورة الكهف (١٨) : الآيات ٩٩ إلى ١٠١]'
+  verified_breadcrumb: 'ج21 - ص500 | فهرس الكتاب > الجزء الواحد والعشرون > سورة الكهف > [سورة الكهف (١٨) : الآيات ٩٩ إلى ١٠١]'
+  expected_quote_norm: اعلم ان زبر الحديد قطعه قال الخليل الزبره من الحديد القطعه الضخمه قرا ه الجميع اتوني بمد الالف الا
+    حمزه فانه قرا ايتوني من الاتيان
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 1b5d0465cc23e78f933ca1ec0100cd7b29582cabbadd3c484680b43bb1027fc9
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-20855-4201
+  provider: shamela
+  author: Ebû Abdillâh Muhammed b. Ahmed el-Kurtubî (ö. 671/1273)
+  work: el-Câmi' li-Ahkâmi'l-Kur'ân
+  volume: '11'
+  printed_page: '62'
+  url: https://shamela.ws/book/20855/4201
+  expected_breadcrumb: 'ج11 - ص62 | فهرس الكتاب > تفسير سورة الكهف > [سورة الكهف (١٨): الآيات ٩٢ إلى ٩٨]'
+  verified_breadcrumb: 'ج11 - ص62 | فهرس الكتاب > تفسير سورة الكهف > [سورة الكهف (١٨): الآيات ٩٢ إلى ٩٨]'
+  expected_quote_norm: قوله تعالي قال انفخوا الي اخر الايه اي علي زبر الحديد بالاكيار وذلك انه كان يامر بوضع طاقه من الزبر
+    والحجاره ثم يوقد عليها الحطب والفحم بالمنافخ حتي تحمي
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 83b96178b75dc66cf9df062e3b0ffc223af45c909dedd81470029dd6db73df6f
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-9776-5525
+  provider: shamela
+  author: Muhammed et-Tâhir İbn Âşûr (ö. 1393/1973)
+  work: et-Tahrîr ve't-Tenvîr
+  volume: '16'
+  printed_page: '39'
+  url: https://shamela.ws/book/9776/5525
+  expected_breadcrumb: 'ج16 - ص39 | فهرس الكتاب > ١٨- سورة الكهف > [سورة الكهف (١٨) : الآيات ٩٢ إلى ٩٨]'
+  verified_breadcrumb: 'ج16 - ص39 | فهرس الكتاب > ١٨- سورة الكهف > [سورة الكهف (١٨) : الآيات ٩٢ إلى ٩٨]'
+  expected_quote_norm: وجمله قال هذا رحمه من ربي مستانفه استينافا بيانيا لانه لما اذن الكلام بانتها حكايه وصف الردم كان ذلك
+    مثيرا سوال من يسال ماذا صدر من ذي القرنين حين اتم هذا العمل العظيم
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 7d28908914dff73c2f1feb16af1b324950228503a65b56922179465e0db9256b
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23627-1447
+  provider: shamela
+  author: Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144)
+  work: el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl
+  volume: '2'
+  printed_page: '748'
+  url: https://shamela.ws/book/23627/1447
+  expected_breadcrumb: 'ج2 - ص748 | فهرس الكتاب > الجزء الثاني > سورة الكهف > [سورة الكهف (١٨) : آية ٩٨]'
+  verified_breadcrumb: 'ج2 - ص748 | فهرس الكتاب > الجزء الثاني > سورة الكهف > [سورة الكهف (١٨) : آية ٩٨]'
+  expected_quote_norm: والصدفان بفتحتين جانبا الجبلين لانهما يتصادفان اي يتقابلان وقري الصدفين بضمتين والصدفين بضمه وسكون
+    والصدفين بفتحه وضمه والقطر النحاس المذاب لانه يقطر وقطرا منصوب بافرغ
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: cf74a70479fe100ea55aed3a191de3818b35fde8c2b7decdc5361c3c54f30e57
+  human_sample_audit:
+    sampled: false
+    audited_by: Automated Multi-Server Gate (L-2501..L-2503)
+    audited_at: '2026-10-20'
+    reviewer: Automated Multi-Server Gate (L-2501..L-2503)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-23629-1052
+  provider: shamela
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '2'
+  printed_page: '414'
+  url: https://shamela.ws/book/23629/1052
+  expected_breadcrumb: 'ج2 - ص414 | فهرس الكتاب > الجزء الثاني > السورة التي يذكر فيها الكهف > [سورة الكهف (١٨) : آية ١٠١]'
+  verified_breadcrumb: 'ج2 - ص414 | فهرس الكتاب > الجزء الثاني > السورة التي يذكر فيها الكهف > [سورة الكهف (١٨) : آية ١٠١]'
+  expected_quote_norm: استعان بهم في الذي احتاج اليه منهم من الامداد بما قال اتوني زبر الحديد فلما فعلوا ما امرهم به ونفخوا
+    فيه النار جعل السد بين الصدفين اي جانبي الجبل
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 8d95fd4776d9292d60564f288d0ddd548d42810d3218859a7a3428041a1bb88d
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t31-s18-a94
+  provider: altafsir
+  author: Abdülkerîm b. Hevâzin el-Kuşeyrî (ö. 465/1072)
+  work: Letâ'ifü'l-İşârât
+  volume: '2'
+  printed_page: Surah 18:94
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=18&tAyahNo=94&tDisplay=yes
+  expected_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 18, Ayah 94 (tMadhNo=3, tTafsirNo=31)
+  verified_breadcrumb: لطائف الإشارات / القشيري (ت 465 هـ) | Surah 18, Ayah 94 (tMadhNo=3, tTafsirNo=31)
+  expected_quote_norm: وضمنوا له خراجا يدفعونه اليه فاجابهم الي سولهم وحقق لهم بغيتهم ولم ياخذ منهم ما ضمنوا له من الجبايه
+    لما راي ان من الواجب عليه حق الحمايه علي حسب المكنه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 7bef88a559e82496e4372d56e52b8bc2cb59f37b683e49e3bc7396c93a1e1056
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-10273-1528
+  provider: shamela
+  author: Ahmed b. Muhammed İbn Acîbe (ö. 1224/1809)
+  work: el-Bahrü'l-Medîd
+  volume: '3'
+  printed_page: '307'
+  url: https://shamela.ws/book/10273/1528
+  expected_breadcrumb: 'ج3 - ص307 | فهرس الكتاب > سورة الكهف > [سورة الكهف (١٨) : الآيات ٩٢ إلى ١٠١]'
+  verified_breadcrumb: 'ج3 - ص307 | فهرس الكتاب > سورة الكهف > [سورة الكهف (١٨) : الآيات ٩٢ إلى ١٠١]'
+  expected_quote_norm: اتوني زبر الحديد جمع زبره وهي القطعه الكبيره وهذا لا ينافي رد خراجهم لان المامور الايتا بالثمن او المناوله
+    كما ينبي عنه قرا ه ايتوني بوصل الهمزه اي جييوني بزبر الحديد علي حذف البا ولان ايتا الاله من قبيل الاعانه بالقوه دون الخراج
+    علي العمل
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: cd341719f9f754cc9ba3a4906519db22fb731d11df29e6bd84eb058bec55dc3f
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t33-s18-a83
+  provider: altafsir
+  author: Muhyiddîn Muhammed b. Alî İbnü'l-Arabî (ö. 638/1240)
+  work: 'Tefsîru''l-Kur''ân (Te''vîlât) & el-Fütûhâtü''l-Mekkiyye (Beyrut: Dârü Sâdır, 4 Cilt | Türkçesi: Fütûhât-ı Mekkiyye,
+    Çev. Prof. Dr. Ekrem Demirli, İstanbul: Litera Yayıncılık, 18 Cilt)'
+  volume: '1'
+  printed_page: Surah 18:83
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=33&tSoraNo=18&tAyahNo=83&tDisplay=yes
+  expected_breadcrumb: تفسير القرآن / ابن عربي (ت 638 هـ) | Surah 18, Ayah 83 (tMadhNo=3, tTafsirNo=33)
+  verified_breadcrumb: تفسير القرآن / ابن عربي (ت 638 هـ) | Surah 18, Ayah 83 (tMadhNo=3, tTafsirNo=33)
+  expected_quote_norm: حتي اذا بلغ مغرب الشمس اي مكان غروب شمس الروح وجدها تغرب في عين حميه اي مختلطه بالحماه وهي الماده البدنيه
+    الممتزجه من الاجسام الغاسقه
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: 36e620be468b3d542664b43b665aed97ab4106ceb52ac53dee1db8ad3f719198
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-altafsir-t33-s18-a94
+  provider: altafsir
+  author: Muhyiddîn Muhammed b. Alî İbnü'l-Arabî (ö. 638/1240)
+  work: 'Tefsîru''l-Kur''ân (Te''vîlât) & el-Fütûhâtü''l-Mekkiyye (Beyrut: Dârü Sâdır, 4 Cilt | Türkçesi: Fütûhât-ı Mekkiyye,
+    Çev. Prof. Dr. Ekrem Demirli, İstanbul: Litera Yayıncılık, 18 Cilt)'
+  volume: '1'
+  printed_page: Surah 18:94
+  url: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=33&tSoraNo=18&tAyahNo=94&tDisplay=yes
+  expected_breadcrumb: تفسير القرآن / ابن عربي (ت 638 هـ) | Surah 18, Ayah 94 (tMadhNo=3, tTafsirNo=33)
+  verified_breadcrumb: تفسير القرآن / ابن عربي (ت 638 هـ) | Surah 18, Ayah 94 (tMadhNo=3, tTafsirNo=33)
+  expected_quote_norm: قالوا بلسان الحال ان ياجوج الدواعي والهواجس الوهميه وماجوج الوساوس والنوازع الخياليه مفسدون في ارض
+    البدن بالتحريض علي الرذايل والشهوات المنافيه للنظام
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: e17d815c06071ea5b7ee43361cbaebf91e275dda8ca7e35b5e328619689ef4f8
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+- id: src-shamela-2118-1310
+  provider: shamela
+  author: Muhyiddîn İbnü'l-Arabî (ö. 638/1240) / Kâtip Çelebi (ö. 1067/1657)
+  work: 'el-Fütûhâtü''l-Mekkiyye fî Ma''rifeti Esrâri''l-Mâlikiyye ve''l-Mülkiyye (Beyrut: Dârü Sâdır, 4 Cilt | Türkçesi:
+    Fütûhât-ı Mekkiyye, Çev. Prof. Dr. Ekrem Demirli, İstanbul: Litera Yayıncılık, 18 Cilt — Keşfü''z-Zunûn Tahkiki)'
+  volume: '2'
+  printed_page: '1238'
+  url: https://shamela.ws/book/2118/1310
+  expected_breadcrumb: ج2 - ص1238 | فهرس الكتاب > باب الفاء > الفتوحات المكية في معرفة أسرار المالكية والملكية
+  verified_breadcrumb: ج2 - ص1238 | فهرس الكتاب > باب الفاء > الفتوحات المكية في معرفة أسرار المالكية والملكية
+  expected_quote_norm: الفتوحات المكيه في معرفه اسرار المالكيه والملكيه مجلدات للشيخ محيي الدين محمد بن علي المعروف بابن عربي
+    الطايي المالكي المتوفي سنه ثمان وثلاثين وستمايه من اعظم كتبه واخرها تاليفا
+  quote_matched: true
+  verified_at: '2026-10-20'
+  reverify_period_days: 90
+  snapshot_sha256: bc9279342169ac51fcabf03b0056b6d41ed712b1ac7d276b506d58a3b623d6fc
+  human_sample_audit:
+    sampled: true
+    audited_by: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audited_at: '2026-10-20'
+    reviewer: Mehmet Yarıcı (Project Lead — Internal Sample Audit)
+    audit_date: '2026-10-20'
+  status: VERIFIED
+methodological_note_principle_4: 'Metodolojik Not (İlke 4 — Rol Ayrımı): 60/190 (%31.6) kaynaklık manuel örneklem kontrolü
+  (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi ve İbnü''l-Arabî Fütûhât/Te''vîlât tahkiki dahil) proje yürütücüsü
+  Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiş, akademik
+  danışmanlık süreci Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü; ORCID: 0000-0002-1025-5643)
+  tarafından yürütülmüştür.'

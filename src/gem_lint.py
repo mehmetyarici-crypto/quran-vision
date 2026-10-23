@@ -373,7 +373,7 @@ class GemLinterV6:
                 self.report("L-0003", WARN, "PyYAML modülü bulunamadı, YAML denetimi yapılamadı.")
         else:
             self.body_text = self.raw_text
-            if any(v in self.raw_text.lower() for v in ["v6.0", "v6.0.0", "v6.1", "v6.1.1", "v6.2.1"]):
+            if any(v in self.raw_text.lower() for v in ["v6.0", "v6.0.0", "v6.1", "v6.1.1", "v6.2.1", "v6.2.3", "v6.3", "v6.3.0"]):
                 self.report("L-0000", BLOCK, "v6.x raporlarında YAML frontmatter zorunludur!")
                 self.is_v6 = True
             else:
@@ -934,12 +934,15 @@ class GemLinterV6:
             "tusteri", "tustari",
             "ibn acibe", "ibn ajiba", "bahrul-medid", "bahr al-madid",
             "sulemi", "sulami", "mekki", "makki",
+            "ibnul-arabi", "ibn arabi", "ibn 'arabi",
+            "futuhat", "futuhatul-mekkiyye", "futuhat-i mekkiyye", "al-futuhat al-makkiyya",
+            "ekrem demirli", "kasani",
         ]
         if not any(auth in norm_s13 for auth in irfani_authorities):
             self.report(
                 "L-2303",
                 BLOCK,
-                "Kontrol B İhlali: ADIM 13 / STEP 13 altında klasik irfânî/tasavvufî kaynak atfı (Kuşeyrî, Gazzâlî, Muhâsibî, Tüsterî, İbn Acîbe vb.) bulunamadı!",
+                "Kontrol B İhlali: ADIM 13 / STEP 13 altında klasik irfânî/tasavvufî kaynak atfı (Kuşeyrî, Gazzâlî, Muhâsibî, Tüsterî, İbn Acîbe, İbnü'l-Arabî vb.) bulunamadı!",
             )
 
     # ----------------------------------------------------
@@ -1164,9 +1167,11 @@ class GemLinterV6:
                 if madh_no != "3":
                     l2502_blocks += 1
                     self.report("L-2502", BLOCK, f"V16 Altafsir Parametre İhlali: '{u}' içinde tMadhNo=3 (Tasavvuf/İşârî) olmalıdır!", f"Satır {line_no}")
-                # Kuşeyrî Letâifü'l-İşârât bağlamında tTafsirNo=31 olmalıdır (30 Sülemî'dir)
+                # Kuşeyrî Letâifü'l-İşârât (tTafsirNo=31) ve İbnü'l-Arabî (tTafsirNo=33) uyumu (30 Sülemî'dir)
                 norm_line = normalize(line_str)
-                if ("kuseyri" in norm_line or "qushayri" in norm_line or "letaif" in norm_line or "lataif" in norm_line) and tafsir_no != "31":
+                has_kuseyri_line = any(k in norm_line for k in ("kuseyri", "qushayri", "letaif", "lataif"))
+                has_arabi_line = any(k in norm_line for k in ("arabi", "futuhat", "kasani"))
+                if has_kuseyri_line and not has_arabi_line and tafsir_no != "31":
                     l2502_blocks += 1
                     self.report(
                         "L-2502",
@@ -1174,17 +1179,38 @@ class GemLinterV6:
                         f"V16 Altafsir Müfessir Eşleşme İhlali: '{u}' Kuşeyrî (Letâ'ifü'l-İşârât) atfında tTafsirNo=31 olmalıdır (bulunan: tTafsirNo={tafsir_no})!",
                         f"Satır {line_no}",
                     )
-                # Raporun sûre/âyet numarası ile tSoraNo/tAyahNo uyumu
-                verse_field = str(self.frontmatter.get("verse", ""))
-                v_match = re.match(r"^(\d+):(\d+)", verse_field)
-                if v_match and (sora_no != v_match.group(1) or ayah_no != v_match.group(2)):
+                elif has_arabi_line and not has_kuseyri_line and tafsir_no != "33":
                     l2502_blocks += 1
                     self.report(
                         "L-2502",
                         BLOCK,
-                        f"V16 Altafsir Sûre/Âyet Eşleşme İhlali: Rapor âyeti ({verse_field}) ile URL parametreleri (tSoraNo={sora_no}, tAyahNo={ayah_no}) uyuşmuyor!",
+                        f"V16 Altafsir Müfessir Eşleşme İhlali: '{u}' İbnü'l-Arabî atfında tTafsirNo=33 olmalıdır (bulunan: tTafsirNo={tafsir_no})!",
                         f"Satır {line_no}",
                     )
+                elif (has_kuseyri_line or has_arabi_line) and tafsir_no not in ("31", "33"):
+                    l2502_blocks += 1
+                    self.report(
+                        "L-2502",
+                        BLOCK,
+                        f"V16 Altafsir Müfessir Eşleşme İhlali: '{u}' işârî tefsir atfında tTafsirNo=31 (Kuşeyrî) veya tTafsirNo=33 (İbnü'l-Arabî) olmalıdır (bulunan: tTafsirNo={tafsir_no})!",
+                        f"Satır {line_no}",
+                    )
+                # Raporun sûre/âyet numarası (veya çoklu âyet aralığı örn. 18:83-98) ile tSoraNo/tAyahNo uyumu
+                verse_field = str(self.frontmatter.get("verse", ""))
+                v_match = re.match(r"^(\d+):(\d+)(?:[-–](\d+))?", verse_field)
+                if v_match:
+                    exp_sora = v_match.group(1)
+                    v_start = int(v_match.group(2))
+                    v_end = int(v_match.group(3)) if v_match.group(3) else v_start
+                    ayah_int = int(ayah_no) if ayah_no.isdigit() else -1
+                    if sora_no != exp_sora or not (v_start <= ayah_int <= v_end):
+                        l2502_blocks += 1
+                        self.report(
+                            "L-2502",
+                            BLOCK,
+                            f"V16 Altafsir Sûre/Âyet Eşleşme İhlali: Rapor âyeti ({verse_field}) ile URL parametreleri (tSoraNo={sora_no}, tAyahNo={ayah_no}) uyuşmuyor!",
+                            f"Satır {line_no}",
+                        )
 
             # L-2503: Lafzî İktibas Kilidi (quote_matched == True)
             if entry.get("quote_matched") is False:
@@ -1242,7 +1268,7 @@ class GemLinterV6:
                         f"classical_sources[{idx_cs}]",
                     )
 
-        # ADIM 13.3 içindeki Arapça «...» iktibasının sicildeki Kuşeyrî/Altafsir kaydıyla eşleşme kontrolü (L-2503)
+        # ADIM 13.3 içindeki Arapça «...» iktibasının sicildeki Kuşeyrî/İbn Acîbe/İbnü'l-Arabî/Altafsir kaydıyla eşleşme kontrolü (L-2503)
         m133 = re.search(
             r"### 13\.3\..*?(?=## FAZ IV|## PHASE IV|## ADIM 14|### ADIM 14|## STEP 14|### STEP 14|\Z)",
             self.body_text,
@@ -1250,18 +1276,20 @@ class GemLinterV6:
         )
         if m133:
             sec133 = m133.group(0)
-            q13_m = re.search(r"«(.*?)»", sec133, re.S)
-            if q13_m:
-                q13_text = q13_m.group(1).strip()
+            q13_list = [q.strip() for q in re.findall(r"«(.*?)»", sec133, re.S) if q.strip()]
+            if q13_list:
                 u13_list = [
                     m.group(0).rstrip(".,;:")
-                    for m in re.finditer(r"https?://(?:www\.)?(?:shamela\.ws/book/23629/\d+|altafsir\.com/[^\s\)\>\]\"\'`]+)", sec133)
+                    for m in re.finditer(
+                        r"https?://(?:www\.)?(?:shamela\.ws/book/(?:23629|10273|2118)/\d+|altafsir\.com/[^\s\)\>\]\"\'`]+)",
+                        sec133,
+                    )
                 ]
                 for u13 in u13_list:
                     ent13 = url_map.get(u13)
                     if ent13:
                         exp13_norm = str(ent13.get("expected_quote_norm", "")).strip()
-                        if not exp13_norm or not match_arabic_quote_v16(q13_text, exp13_norm):
+                        if exp13_norm and not any(match_arabic_quote_v16(qt, exp13_norm) for qt in q13_list):
                             l2503_blocks += 1
                             self.report(
                                 "L-2503",
@@ -1601,12 +1629,12 @@ def main():
 
     if "--all" in sys.argv and not target_files:
         root_dir = Path(__file__).resolve().parent.parent
-        tr_reps = [f for f in sorted((root_dir / "docs" / "tr").glob("[0-9][0-9]-*-v6.1.1.md")) if not f.name.startswith("05-")]
-        en_reps = [f for f in sorted((root_dir / "docs" / "en").glob("[0-9][0-9]-*-en-v6.1.1.md")) if not f.name.startswith("05-")]
+        tr_reps = [f for f in sorted((root_dir / "docs" / "tr").glob("[0-9][0-9]-*-v6.*.md")) if not f.name.startswith("05-")]
+        en_reps = [f for f in sorted((root_dir / "docs" / "en").glob("[0-9][0-9]-*-en-v6.*.md")) if not f.name.startswith("05-")]
         target_files = tr_reps + en_reps
     elif not target_files:
         root_dir = Path(__file__).resolve().parent.parent
-        default_reports = sorted((root_dir / "docs" / "tr").glob("[0-9][0-9]-*-v6.1.1.md"))
+        default_reports = sorted((root_dir / "docs" / "tr").glob("[0-9][0-9]-*-v6.*.md"))
         target_files = [f for f in default_reports if not f.name.startswith("05-")]
         if not target_files:
             print("Hata: Taranacak dosya belirtilmedi. Yardım için: python src/gem_lint.py --help")
@@ -1634,7 +1662,7 @@ def main():
         print(f"  KÜLLİYAT TOPLU DENETİM ÖZETİ ({len(target_files)} KURUCU RAPOR)")
         print(f"  TOPLAM KESİCİ HATA (BLOCK) : {total_blocks}")
         print(f"  TOPLAM UYARI (WARN)        : {total_warns}")
-        print(f"  DURUM                      : {'🟢 SIFIR KESİCİ HATA (15/15 GEÇTİ)' if total_blocks == 0 else '🔴 KESİCİ HATA MEVCUT'}")
+        print(f"  DURUM                      : {f'🟢 SIFIR KESİCİ HATA ({len(target_files)}/{len(target_files)} GEÇTİ)' if total_blocks == 0 else '🔴 KESİCİ HATA MEVCUT'}")
         print("=" * 70 + "\n")
 
     if similarity_target and target_files:

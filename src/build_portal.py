@@ -105,7 +105,7 @@ def parse_report(md_path: Path):
     }
 
     en_meta = EN_CORPUS.get(case_id)
-    en_md_name = md_path.name.replace("-v6.1.1.md", "-en-v6.1.1.md")
+    en_md_name = re.sub(r"-v(6\.\d+\.\d+)\.md$", r"-en-v\1.md", md_path.name)
     en_path = DOCS_EN / en_md_name
     base_report["filename_en"] = en_md_name
 
@@ -185,6 +185,7 @@ DOI_FALLBACK_URLS = {
     "10.34648/wjp.2025.04": "https://worldjusticeproject.org",
     "10.4159/9780674276597": "https://wid.world",
     "10.54678/UNES2024RACISM": "https://www.unesco.org",
+    "10.54678/UNES2025AIBIO": "https://www.unesco.org",
     "10.55163/sipri.2025.01": "https://www.sipri.org",
     "10.5555/pew.2024.religion.01": "https://www.pewresearch.org/religion/",
     "10.58220/cpi.2024.01": "https://www.transparency.org/en/cpi/2024",
@@ -1481,7 +1482,7 @@ def build_source_verification_manifest() -> dict:
         if not isinstance(s, dict):
             continue
         st = str(s.get("status", "VERIFIED")).upper()
-        srv = str(s.get("server", "")).lower()
+        srv = str(s.get("server") or s.get("provider") or "").lower()
         if st == "VERIFIED":
             verified_cnt += 1
         elif st == "STALE":
@@ -1508,7 +1509,7 @@ def build_source_verification_manifest() -> dict:
             "work": s.get("work", ""),
             "author": s.get("author", ""),
             "volume": s.get("volume", ""),
-            "page_printed": s.get("page_printed", ""),
+            "page_printed": s.get("page_printed") or s.get("printed_page") or "",
             "expected_breadcrumb": s.get("expected_breadcrumb", ""),
             "verified_breadcrumb": s.get("verified_breadcrumb", ""),
             "quote_matched": bool(s.get("quote_matched", True)),
@@ -2916,6 +2917,12 @@ const EN_REPORTS_META = {{
     topic_en: "Inviolability of Human Life, Doctrine of Saving Life (Ihya'), Global Human Security & Bioethics Architecture",
     aporia_en: "[ANALYSIS] Against utilitarian calculus that reduces innocent human lives to expendable statistics ('collateral damage'), Al-Ma'idah 5:32 establishes an inviolable ontological equation: taking a single innocent life is equivalent to destroying all of humanity, and saving a single life (wa man ahyaha) is equivalent to saving all of humanity.",
     z3_en: "[ANALYSIS] How must contemporary military doctrines, autonomous weapons regulations, and public health / occupational safety systems confront the Quranic principle that 'One Innocent Life = All of Humanity'?"
+  }},
+  "QV-2026-016": {{
+    surah_en: "Al-Kahf",
+    topic_en: "Dhul-Qarnayn, Iron-Copper Composite Barrier (Radm), Al-Futuhat al-Makkiyya, and Human 2.0 Bioethical Governance",
+    aporia_en: "[ANALYSIS] Al-Kahf 18:83-98 synthesizes empirical means (Sabab), participatory engineering (a'inuni bi-quwwatin), and iron-copper composite containment (Radm: zubara al-hadid + qitr) against systemic entropy (Ya'juj & Ma'juj: ifsad fi al-ard), while subordinating all technological power to moral humility (hadha rahmatun min Rabbi) and eschatological finitude.",
+    z3_en: "[ANALYSIS] In the era of Human 2.0 transhumanism, germline CRISPR editing, and autonomous AI systems, how can humanity construct a dual-layer 'Radm' governance architecture (hard legal containment + ethical-algorithmic alignment) without falling into technological hubris?"
   }}
 }};
 
@@ -3605,12 +3612,12 @@ function renderSynthesisTab() {{
     <div class="panel" style="border-color:var(--accent-emerald);">
       <h3>
         <span>🛡️ ${{isEn ? `Official Methodological Linter & Multi-Server Registry Audit (V1–V16 & Z-1..Z-5)` : `Resmi Metodolojik Linter ve Çoklu Sunucu Sicil Tutanağı (V1–V16 & Z-1..Z-5)`}}</span>
-        <span class="badge badge-emerald">BLOCK: 0 (30 / 30 PASS)</span>
+        <span class="badge badge-emerald">BLOCK: 0 (${{REPORTS.length * 2}} / ${{REPORTS.length * 2}} PASS)</span>
       </h3>
       <div style="font-size:13px; color:var(--text-secondary); line-height:1.65; margin-bottom:10px;">
         ${{isEn
-          ? `All <strong>${{REPORTS.length}} foundational monographs (15 TR + 15 EN = 30 reports)</strong> have been verified by <code>src/gem_lint.py</code> (V1–V16, <code>L-0100..L-2506</code>) with <strong>0 Block Errors (KESİCİ HATA: 0)</strong>. <strong>Epistemic Verification Statement (Zero Principle 3):</strong> <em>${{(activeSourceManifest && activeSourceManifest.epistemic_statement_en) || 'As of [2026-10-20], [176/176] inspected records have been verified via [Breadcrumb Index + Verbatim Quote Match + >=0.10 Manual Sample] and [SHA-256 Snapshot] digest; re-verification period: 90 days.'}}</em>`
-          : `Külliyattaki <strong>${{REPORTS.length}} kurucu monografinin tamamı (15 TR + 15 EN = 30 rapor)</strong>, <code>src/gem_lint.py</code> (V1–V16, <code>L-0100..L-2506</code>) doğrulama motoru tarafından denetlenmiş ve <strong>0 Kesici Hata (BLOCK: 0)</strong> ile tescil edilmiştir. <strong>Epistemik Doğrulama Beyanı (Sıfır İlke 3):</strong> <em>${{(activeSourceManifest && activeSourceManifest.epistemic_statement_tr) || '[2026-10-20] itibarıyla incelenen [176/176] kayıt, [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün.'}}</em>`}}
+          ? `All <strong>${{REPORTS.length}} foundational monographs (${{REPORTS.length}} TR + ${{REPORTS.length}} EN = ${{REPORTS.length * 2}} reports)</strong> have been verified by <code>src/gem_lint.py</code> (V1–V16, <code>L-0100..L-2506</code>) with <strong>0 Block Errors (KESİCİ HATA: 0)</strong>. <strong>Epistemic Verification Statement (Zero Principle 3):</strong> <em>${{(activeSourceManifest && activeSourceManifest.epistemic_statement_en) || 'As of [2026-10-20], [176/176] inspected records have been verified via [Breadcrumb Index + Verbatim Quote Match + >=0.10 Manual Sample] and [SHA-256 Snapshot] digest; re-verification period: 90 days.'}}</em>`
+          : `Külliyattaki <strong>${{REPORTS.length}} kurucu monografinin tamamı (${{REPORTS.length}} TR + ${{REPORTS.length}} EN = ${{REPORTS.length * 2}} rapor)</strong>, <code>src/gem_lint.py</code> (V1–V16, <code>L-0100..L-2506</code>) doğrulama motoru tarafından denetlenmiş ve <strong>0 Kesici Hata (BLOCK: 0)</strong> ile tescil edilmiştir. <strong>Epistemik Doğrulama Beyanı (Sıfır İlke 3):</strong> <em>${{(activeSourceManifest && activeSourceManifest.epistemic_statement_tr) || '[2026-10-20] itibarıyla incelenen [176/176] kayıt, [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün.'}}</em>`}}
       </div>
       <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; font-size:12px;">
         <a class="btn btn-primary" href="https://github.com/mehmetyarici-crypto/quran-vision/blob/main/LINTER_AUDIT_REPORT.md" target="_blank" rel="noopener">📋 ${{isEn ? 'View Official LINTER_AUDIT_REPORT.md' : 'Resmi LINTER_AUDIT_REPORT.md Tutanağını Aç'}}</a>
@@ -3961,6 +3968,7 @@ const DOI_FALLBACK_MAP = {{
   '10.34648/wjp.2025.04': 'https://worldjusticeproject.org',
   '10.4159/9780674276597': 'https://wid.world',
   '10.54678/UNES2024RACISM': 'https://www.unesco.org',
+  '10.54678/UNES2025AIBIO': 'https://www.unesco.org',
   '10.55163/sipri.2025.01': 'https://www.sipri.org',
   '10.5555/pew.2024.religion.01': 'https://www.pewresearch.org/religion/',
   '10.58220/cpi.2024.01': 'https://www.transparency.org/en/cpi/2024'
@@ -4563,7 +4571,7 @@ runStartupSourceAudit();
 
 
 def main():
-    report_files = sorted(DOCS_TR.glob("[0-9][0-9]-*-v6.1.1.md"))
+    report_files = sorted(DOCS_TR.glob("[0-9][0-9]-*-v6.*.md"))
     report_files = [f for f in report_files if not f.name.startswith("05-")]
     reports = []
     for rf in report_files:

@@ -1497,9 +1497,9 @@ class GemLinterV6:
         n_warn = sum(1 for f in self.findings if f["level"] == WARN)
 
         print("\n" + "=" * 70)
-        print(f"   QURAN VISION / GEM LINTER v6.2.3 — AKADEMİK DOĞRULAMA RAPORU")
+        print(f"   QURAN VISION / GEM LINTER v6.3.0 — AKADEMİK DOĞRULAMA RAPORU")
         print(f"   Dosya : {self.path.name}")
-        print(f"   Mod   : {'v6.2.3 / v6.1.1 (Akademik Standart)' if self.is_v6 else 'v5.2 (Geriye Dönük)'} | Katman: {self.katman} | H6: {'Evet' if self.h6 else 'Hayır'}")
+        print(f"   Mod   : {'v6.3.0 / v6.1.1 (Akademik Standart)' if self.is_v6 else 'v5.2 (Geriye Dönük)'} | Katman: {self.katman} | H6: {'Evet' if self.h6 else 'Hayır'}")
         print("=" * 70 + "\n")
 
         if self.findings:
@@ -1587,7 +1587,7 @@ def main():
         sys.exit(0)
 
     if "--version" in sys.argv:
-        print("Quran Vision / GEM Linter v6.2.3 (v6.1.1 Standard Compatible - Python 3)")
+        print("Quran Vision / GEM Linter v6.3.0 (v6.1.1 Standard Compatible - Python 3)")
         sys.exit(0)
 
     target_files = []

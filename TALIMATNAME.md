@@ -58,7 +58,7 @@ ightarrow$ `"type": "Supervisor"`) ve Schema.org JSON-LD katmanında Akademik Da
 
 ## 1. Amaç, Kapsam ve 6 Temel Epistemik İlke
 
-Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.3**), Kur'an âyetleri üzerine filolojik, tefsirî, usûlî, makâsıdî, irfânî ve ampirik politika analizini düzenleyen bilimsel bir araştırma ve öngörü çerçevesidir. Bir fetva, bağlayıcı yargı kararı, ilahî muradın tek temsili veya kendi başına dış akademik hakemlik onayı değildir.
+Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.3.0**), Kur'an âyetleri üzerine filolojik, tefsirî, usûlî, makâsıdî, irfânî ve ampirik politika analizini düzenleyen bilimsel bir araştırma ve öngörü çerçevesidir. Bir fetva, bağlayıcı yargı kararı, ilahî muradın tek temsili veya kendi başına dış akademik hakemlik onayı değildir.
 
 1. **Otorite Sınırı:** Çıktı analitik ve beşerî bir içtihat/yorumdur; dinî fetva veya adli kaza hükmü yerine geçmez.
 2. **Determinizm Sınırı:** Toplumsal sonuçlar kaçınılmaz kader kabul edilmez; insan iradesi (sünnetullah), kurumlar ve bağlam birlikte değerlendirilir.
@@ -99,7 +99,7 @@ Kur’an Temelli Gelecek Vizyonu (**Quran Vision v6.2.3**), Kur'an âyetleri üz
 
 ---
 
-## 3. Tam YAML Frontmatter Şeması (v6.2.3 Rapor Üst-Veri Standardı)
+## 3. Tam YAML Frontmatter Şeması (v6.3.0 Rapor Üst-Veri Standardı)
 
 ```yaml
 ---
@@ -207,7 +207,7 @@ peer_review:
 
 ## 6. Külliyat Envanteri (16 Kurucu Monografik Rapor: `QV-2026-001` – `QV-2026-016` ve 36+2 = 38 PDF)
 
-> 📦 **PDF Envanteri (Sayısal Netlik):** 36 Külliyat PDF'i (32 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 38 PDF
+> 📦 **PDF Envanteri (Sayısal Netlik):** 36 Külliyat PDF'i (32 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.3.0] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 38 PDF
 > ⚖️ **Metodolojik Not (İlke 4 — Rol Ayrımı):** Proje Yürütücüsü & Baş Araştırmacı (**Mehmet Yarıcı**, `ORCID: 0009-0003-0356-8582`), Akademik Danışman (**Mehmet Emin Koç** — *Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü*, `ORCID: 0000-0002-1025-5643`) ve Kalite Güvencesi / Kaynak Doğrulama (`gem_lint.py` V1–V17 Algoritmik Denetim & V16.2 `60/190` İç Örneklem Kontrolü — **Mehmet Yarıcı**) rolleri [`data/people_registry.yaml`](data/people_registry.yaml) ve `L-2507` (`BLOCK`) kilidiyle birbirinden kesin olarak ayrılmıştır.
 
 | Rapor Kodu | Sûre ve Âyet | Konu Başlığı | Türkçe Rapor | İngilizce Rapor |

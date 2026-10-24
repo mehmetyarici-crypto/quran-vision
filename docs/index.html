@@ -31,7 +31,7 @@
 <meta name="citation_publication_date" content="2026/10/24">
 <meta name="citation_publisher" content="Zenodo / Quran Vision Institute">
 <meta name="citation_doi" content="10.5281/zenodo.23410818">
-<meta name="citation_pdf_url" content="https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.3.pdf">
+<meta name="citation_pdf_url" content="https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.3.0.pdf">
 <meta name="citation_fulltext_html_url" content="https://mehmetyarici-crypto.github.io/quran-vision/">
 
 <!-- Schema.org Academic Dataset & Book Structured Data -->
@@ -72,13 +72,13 @@
     {
       "@type": "DataDownload",
       "encodingFormat": "application/pdf",
-      "contentUrl": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.3.pdf",
+      "contentUrl": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.3.0.pdf",
       "name": "Quran Vision Full Corpus Book (English A4 PDF)"
     },
     {
       "@type": "DataDownload",
       "encodingFormat": "application/pdf",
-      "contentUrl": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Kulliyat_v6.2.3.pdf",
+      "contentUrl": "https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Kulliyat_v6.3.0.pdf",
       "name": "Kur'ân Vizyonu Tam Külliyat Kitabı (Türkçe A4 PDF)"
     }
   ]
@@ -1056,7 +1056,7 @@ a.fn-backref:hover {
     </div>
     <div class="top-actions">
       <a id="downloadPdfBtn" class="btn btn-primary" href="pdf/QV-2026-001.pdf" download="QV-2026-001.pdf" onclick="trackReportDownload(REPORTS[currentIndex].case_id)">📥 Rapor PDF</a>
-      <a id="fullBookPdfBtn" class="btn btn-gold" href="pdf/Quran_Vision_Kulliyat_v6.2.3.pdf" download="Quran_Vision_Kulliyat_v6.2.3.pdf" onclick="trackCorpusDownload()">📚 Tüm Külliyat PDF</a>
+      <a id="fullBookPdfBtn" class="btn btn-gold" href="pdf/Quran_Vision_Kulliyat_v6.3.0.pdf" download="Quran_Vision_Kulliyat_v6.3.0.pdf" onclick="trackCorpusDownload()">📚 Tüm Külliyat PDF</a>
       <button id="langToggleTopBtn" type="button" class="btn" onclick="setLanguage(currentLang === 'tr' ? 'en' : 'tr')">🌐 TR / EN</button>
       <button id="themeBtn" type="button" class="btn btn-gold" onclick="toggleTheme()">☀️ Açık Mod</button>
     </div>
@@ -1436,8 +1436,8 @@ function setLanguage(lang) {
 
   const fullBookBtn = document.getElementById('fullBookPdfBtn');
   if (fullBookBtn) {
-    fullBookBtn.href = isEn ? 'pdf/Quran_Vision_Corpus_EN_v6.2.3.pdf' : 'pdf/Quran_Vision_Kulliyat_v6.2.3.pdf';
-    fullBookBtn.setAttribute('download', isEn ? 'Quran_Vision_Corpus_EN_v6.2.3.pdf' : 'Quran_Vision_Kulliyat_v6.2.3.pdf');
+    fullBookBtn.href = isEn ? 'pdf/Quran_Vision_Corpus_EN_v6.3.0.pdf' : 'pdf/Quran_Vision_Kulliyat_v6.3.0.pdf';
+    fullBookBtn.setAttribute('download', isEn ? 'Quran_Vision_Corpus_EN_v6.3.0.pdf' : 'Quran_Vision_Kulliyat_v6.3.0.pdf');
     fullBookBtn.innerHTML = isEn ? `📚 Full Corpus PDF` : `📚 Tüm Külliyat PDF`;
   }
   document.getElementById('langToggleTopBtn').innerHTML = isEn ? '🌐 EN ➔ TR' : '🌐 TR ➔ EN';
@@ -1684,7 +1684,7 @@ function selectReport(idx) {
     <div class="panel" style="margin-bottom:18px; padding:14px 20px; border-color:var(--accent-gold-border); display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
       <div style="display:flex; flex-direction:column; gap:3px; flex:1 1 320px;">
         <strong style="color:var(--accent-gold); font-size:14px;">🏛️ ${isEn ? 'ISNAD-2 Classical Arabic Digital Databases & Verification Guide (Mehmet Yarıcı, 2026 • CC-BY-4.0)' : 'İSNAD-2 Klasik Arapça Dijital Veri Tabanları ve Tahkik Rehberi (Mehmet Yarıcı, 2026 • CC-BY-4.0)'}</strong>
-        <span style="font-size:12.5px; color:var(--text-secondary);">${isEn ? 'Official Saudi Shamela (v3/v4 al-Muwafaq li-l-Matbu), Altafsir Sufi/Ishari Corpus, Noorlib, OpenITI, Waqfeya & Quran Vision v6.2.3 Verification Architecture' : 'Resmi Suudi Şâmile (v3/v4 el-Muvâfak li&#39;l-Matbû), Altafsir İşârî/İrfânî Koleksiyonu, Noorlib, OpenITI, Waqfeya ve Quran Vision v6.2.3 Tahkik Mimarisi'}</span>
+        <span style="font-size:12.5px; color:var(--text-secondary);">${isEn ? 'Official Saudi Shamela (v3/v4 al-Muwafaq li-l-Matbu), Altafsir Sufi/Ishari Corpus, Noorlib, OpenITI, Waqfeya & Quran Vision v6.3.0 Verification Architecture' : 'Resmi Suudi Şâmile (v3/v4 el-Muvâfak li&#39;l-Matbû), Altafsir İşârî/İrfânî Koleksiyonu, Noorlib, OpenITI, Waqfeya ve Quran Vision v6.3.0 Tahkik Mimarisi'}</span>
       </div>
       <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
         <a class="btn btn-gold" style="white-space:normal; text-align:center;" href="pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf" download="ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf" title="📥 Klasik Arapça Dijital Veri Tabanları ve Tahkik Rehberi (33. Belge PDF)">
@@ -1861,7 +1861,7 @@ function buildLessonPlanText() {
   const isEn = currentLang === 'en';
   const scholarsList = (r.classical_sources || []).map(cs => cs.author).join(', ');
   if (isEn) {
-    return `*QURAN VISION (v6.2.3) — 40-MIN LESSON & DEBATE PLAN*\n` +
+    return `*QURAN VISION (v6.3.0) — 40-MIN LESSON & DEBATE PLAN*\n` +
       `━━━━━━━━━━━━━━━━━━━━\n` +
       `📖 *Verse:* Surah ${getReportSurah(r)} ${r.verse} (${r.case_id})\n` +
       `🎯 *Strategic Theme:* ${getReportTopic(r)}\n` +
@@ -1872,7 +1872,7 @@ function buildLessonPlanText() {
       `📋 *Stage 4 (33-40 Min - Assessment):* Bayesian shift from ${Math.round(r.prior*100)}% -> ${Math.round(r.posterior*100)}% and ethical application.\n` +
       `🔗 *Full Report & PDF:* https://mehmetyarici-crypto.github.io/quran-vision/`;
   }
-  return `*QURAN VISION (v6.2.3) — TYMM UYUMLU 40 DK DERS & MÜNAZARA PLANI*\n` +
+  return `*QURAN VISION (v6.3.0) — TYMM UYUMLU 40 DK DERS & MÜNAZARA PLANI*\n` +
     `━━━━━━━━━━━━━━━━━━━━\n` +
     `📖 *Ders Konusu:* ${r.surah} Sûresi ${r.verse} (${r.case_id})\n` +
     `🎯 *Stratejik Tema:* ${r.topic}\n` +
@@ -2197,7 +2197,7 @@ function buildFormattedFeedbackText() {
 
   return {
     r, author, category, content, source,
-    formatted: `*QURAN VISION (v6.2.3) — ${isEn ? 'ACADEMIC PEER-REVIEW & FEEDBACK CARD' : 'AKADEMİK ŞERH & GERİ DÖNÜT KARTI'}*\n` +
+    formatted: `*QURAN VISION (v6.3.0) — ${isEn ? 'ACADEMIC PEER-REVIEW & FEEDBACK CARD' : 'AKADEMİK ŞERH & GERİ DÖNÜT KARTI'}*\n` +
       `━━━━━━━━━━━━━━━━━━━━\n` +
       `📌 *${isEn ? 'Report' : 'Rapor'}:* ${r.case_id} — ${getReportSurah(r)} ${r.verse}\n` +
       `📖 *${isEn ? 'Topic' : 'Konu'}:* ${getReportTopic(r)}\n` +
@@ -2232,7 +2232,7 @@ function openGitHubPeerReview() {
   saveNoteToStorage(data);
   const issueTitle = `[${data.category}] ${data.r.case_id} (${data.r.surah} ${data.r.verse}) — ${data.author}`;
   const issueBody =
-    `### 🏛️ Quran Vision (v6.2.3) Akademik Şerh & Katkı Kaydı\n\n` +
+    `### 🏛️ Quran Vision (v6.3.0) Akademik Şerh & Katkı Kaydı\n\n` +
     `- **Vaka Kodu:** ${data.r.case_id}\n` +
     `- **Sûre ve Âyet:** ${data.r.surah} Sûresi ${data.r.verse}\n` +
     `- **Rapor Başlığı:** ${data.r.topic}\n` +
@@ -2409,9 +2409,9 @@ function formatInlineMd(str, seenFnRefs = null) {
   const isEn = currentLang === 'en';
   let s = str
     .replace(/\\text\{([^}]*)\}/g, '$1')
-    .replace(/v6\.1\.1 ve v6\.2\.1/g, 'v6.2.3')
-    .replace(/v6\.1\.1 & v6\.2\.1/g, 'v6.2.3')
-    .replace(/(?<!-)v6\.1\.1(?!\.md)/g, 'v6.2.3')
+    .replace(/v6\.1\.1 ve v6\.2\.1/g, 'v6.3.0')
+    .replace(/v6\.1\.1 & v6\.2\.1/g, 'v6.3.0')
+    .replace(/(?<!-)v6\.1\.1(?!\.md)/g, 'v6.3.0')
     .replace(/\\ge/g, '≥')
     .replace(/\\le/g, '≤')
     .replace(/\\approx/g, '≈')
@@ -2505,9 +2505,9 @@ function formatZ5YamlJs(rawYaml, onlyActionBanner = false) {
   const tarih = data.tarih || '2026-10-15';
   const uzmanlik = data.uzmanlik_alani || (isEn ? 'Tafsir / Islamic Law / Social Sciences' : 'Tefsir / İslam Hukuku / Sosyal Bilimler');
   let notu = data.derkenar_notu || (isEn
-    ? 'Produced in full compliance with Quran Vision v6.2.3 ISNAD 2 and APA 7 / DOI standards; open for independent external academic peer review.'
-    : 'Rapor Quran Vision v6.2.3 İSNAD 2 akademik atıf standartlarına tam uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem incelemesine hazır durumdadır.');
-  notu = formatInlineMd(notu.replace(/v6\.1\.1 ve v6\.2\.1/g, 'v6.2.3').replace(/v6\.1\.1/g, 'v6.2.3'));
+    ? 'Produced in full compliance with Quran Vision v6.3.0 ISNAD 2 and APA 7 / DOI standards; open for independent external academic peer review.'
+    : 'Rapor Quran Vision v6.3.0 İSNAD 2 akademik atıf standartlarına tam uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem incelemesine hazır durumdadır.');
+  notu = formatInlineMd(notu.replace(/v6\.1\.1 ve v6\.2\.1/g, 'v6.3.0').replace(/v6\.1\.1/g, 'v6.3.0'));
   if (onlyActionBanner) {
     return `
       <div id="z5-peer-review-card" style="border:1px solid var(--accent-gold-border); background:var(--bg-surface); border-radius:12px; padding:14px 18px; margin:14px 0; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
@@ -2934,7 +2934,7 @@ function renderStartupAuditUI() {
         <em>${epStatement}</em>
       </div>
       <div style="font-size:11.5px; color:var(--text-muted); line-height:1.5; margin-bottom:10px; padding:6px 10px; background:var(--bg-card); border-left:3px solid var(--accent-gold); border-radius:4px;">
-        📦 <strong>PDF Envanteri:</strong> 36 Külliyat PDF'i (32 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 38 PDF<br>⚖️ ${m.methodological_note_principle_4 || 'Metodolojik Not (İlke 4 — Rol Ayrımı): 60/190 (%31.6) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiş, akademik danışmanlık süreci Mehmet Emin Koç (AMEA; ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür.'}
+        📦 <strong>PDF Envanteri:</strong> 36 Külliyat PDF'i (32 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.3.0] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 38 PDF<br>⚖️ ${m.methodological_note_principle_4 || 'Metodolojik Not (İlke 4 — Rol Ayrımı): 60/190 (%31.6) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiş, akademik danışmanlık süreci Mehmet Emin Koç (AMEA; ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür.'}
       </div>
       <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center; font-size:12px;">
         <span class="badge badge-mono">🕌 shamela.ws: ${shamelaCnt}/${shamelaCnt} VERIFIED</span>

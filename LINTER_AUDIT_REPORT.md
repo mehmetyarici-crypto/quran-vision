@@ -1,14 +1,14 @@
 # 🏛️ QURAN VISION v6.3.0 (CANONICAL CORPUS RELEASE) — OFFICIAL METHODOLOGICAL LINTER AUDIT REPORT
-## Resmi Metodolojik Linter Denetim Tutanağı (V1–V17, Çoklu Sunucu Sicili, Kişi/Rol Sicili [`L-2507`], C & D Şeffaflık Kayıtları, 82/82 SHA-256 Dökümü & Z-1..Z-5 Birleşik Çift Tablolu Katalog Devamlılığı)
+## Resmi Metodolojik Linter Denetim Tutanağı (V1–V17, Çoklu Sunucu Sicili, Kişi/Rol Sicili [`L-2507`], C & D Şeffaflık Kayıtları, 84/84 SHA-256 Dökümü & Z-1..Z-5 Birleşik Çift Tablolu Katalog Devamlılığı)
 
 - **Denetim Motoru / Verification Engine:** [`src/gem_lint.py`](src/gem_lint.py) (`GemLinterV6` — `v6.3.0` V1–V17 Canonical Standard) & [`src/verify_all_servers.py`](src/verify_all_servers.py)
 - **Tek Doğruluk Kaynağı Sicili / Single Source of Truth Registry (D3 Şartı):** [`data/sources_registry.yaml`](data/sources_registry.yaml) (`190/190 VERIFIED`: `138 Shamela + 18 Altafsir + 34 Kurumsal DOI/URL`; Manuel Örneklem: `60/190 = 0.3158 >= 0.10`) ve [`data/people_registry.yaml`](data/people_registry.yaml) (`person-001` & `person-002` Kişi/Kurum/ORCID/Rol Ayrımı Sicili — `L-2507 BLOCK`). [`docs/source_verification_manifest.json`](docs/source_verification_manifest.json) derleme anında otomatik üretilen salt-okunur arayüz türevidir.
-- **Denetlenen Külliyat ve PDF Envanteri / Audited Corpus & PDF Inventory:** 16 Kurucu Monografi (`QV-2026-001` – `QV-2026-016`, 16 TR + 16 EN = 32 Rapor, Katman 3, H6 Zorlu Âyet Standardı, Birleşik Çift Tablolu `Z-5`) ve **36 Külliyat PDF'i (32 Tekil Monografi [2 dosya adı takma adı dahil 34 dosya] + 2 TR/EN Tam Külliyat + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi (`ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`) + 1 TYMM 15 Âyet Ders Tasarımı Rehberi (`TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`)) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 38 PDF (40 Dosya Kaydı)**
+- **Denetlenen Külliyat ve PDF Envanteri / Audited Corpus & PDF Inventory:** 16 Kurucu Monografi (`QV-2026-001` – `QV-2026-016`, 16 TR + 16 EN = 32 Rapor, Katman 3, H6 Zorlu Âyet Standardı, Birleşik Çift Tablolu `Z-5`) ve **36 Külliyat PDF'i (32 Tekil Monografi + 2 TR/EN Tam Külliyat [`Quran_Vision_Kulliyat_v6.3.0.pdf` & `Quran_Vision_Corpus_EN_v6.3.0.pdf`] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi (`ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf`) + 1 TYMM 15 Âyet Ders Tasarımı Rehberi (`TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf`)) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 38 PDF (42 Dosya Kaydı)**
 - **Proje Yürütücüsü, Baş Araştırmacı & İç Örneklem Denetçisi / Project Lead, Principal Investigator & Internal Sample Auditor:** **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — `Mehmet Yarıcı (Project Lead — Internal Sample Audit)`)
 - **Akademik Danışman / Academic Advisor:** **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643`) — **Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü**
 - **Kalite Güvencesi ve Kaynak Doğrulama / Quality Assurance & Source Verification:** [`src/gem_lint.py`](src/gem_lint.py) (`V1–V17` Algoritmik Denetim, `0 BLOCK`) & `V16.2` İç Örneklem Kontrolü (`60/190` Kaynak — **Mehmet Yarıcı**)
 - **Kalıcı CERN / Zenodo DOI:** [`10.5281/zenodo.23410818`](https://doi.org/10.5281/zenodo.23410818) *(Concept DOI: [`10.5281/zenodo.23391192`](https://doi.org/10.5281/zenodo.23391192))*
-- **Kriptografik Ana Manifesto / Master Hash Ledger:** [`SHA256SUMS.txt`](SHA256SUMS.txt) (`82/82 OK, 0 FAIL` • `32 TR/EN Markdown + 2 TR/EN checksums.sha256 + 38 Külliyat PDF Kaydı + 2 Maarif Kongresi MOIJUB PDF'i + 8 Çekirdek/Sicil/Spesifikasyon Dosyası = 82 Kayıt` • `.gitattributes` `LF` + `binary` kilidi)
+- **Kriptografik Ana Manifesto / Master Hash Ledger:** [`SHA256SUMS.txt`](SHA256SUMS.txt) (`84/84 OK, 0 FAIL` • `32 TR/EN Markdown + 2 TR/EN checksums.sha256 + 40 Külliyat PDF Kaydı + 2 Maarif Kongresi MOIJUB PDF'i + 8 Çekirdek/Sicil/Spesifikasyon Dosyası = 84 Kayıt` • `.gitattributes` `LF` + `binary` kilidi)
 - **Epistemik Doğrulama Beyanı (Sıfır İlke 3):** `[2026-10-24] itibarıyla incelenen [190/190] kayıt (138 Şâmile + 18 Altafsir + 34 Kurumsal DOI/URL), [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem (60/190 = 0.3158)] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün.`
 - **Metodolojik Not (İlke 4 — Rol Ayrımı):** `Metodolojik Not (İlke 4 — Rol Ayrımı): 60/190 (%31.6) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi ve Kehf 18:83-98 16. Monografi tahkikleri dahil) proje yürütücüsü Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiş, akademik danışmanlık süreci Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü; ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür.` (`human_sample_audit.reviewer: "Mehmet Yarıcı (Project Lead — Internal Sample Audit)"`).
 - **Nihai Denetim Sonucu / Final Audit Verdict:** **🟢 32 / 32 GEÇTİ — TOPLAM KESİCİ HATA (BLOCK): `0` | UYARI (WARN): `0`**
@@ -153,22 +153,22 @@
 
 ---
 
-## 🔐 5. `SHA256SUMS.txt` 82/82 Kriptografik Aritmetik Dağılımı ve Tam Dosya Listesi
+## 🔐 5. `SHA256SUMS.txt` 84/84 Kriptografik Aritmetik Dağılımı ve Tam Dosya Listesi
 
-[`SHA256SUMS.txt`](SHA256SUMS.txt) ana kriptografik sicilinde yer alan **82 dosya kaydının** (`32 + 2 + 38 + 2 + 8 = 82/82 OK, 0 FAIL`) kategori bazlı aritmetik dağılımı ve ikili (`rb`) modda hesaplanan tam SHA-256 özetleri aşağıda sunulmuştur:
+[`SHA256SUMS.txt`](SHA256SUMS.txt) ana kriptografik sicilinde yer alan **84 dosya kaydının** (`32 + 2 + 40 + 2 + 8 = 84/84 OK, 0 FAIL`) kategori bazlı aritmetik dağılımı ve ikili (`rb`) modda hesaplanan tam SHA-256 özetleri aşağıda sunulmuştur:
 
-### 5.1. Kategori Bazlı Aritmetik Toplam Tablosu (`32 + 2 + 38 + 2 + 8 = 82`)
+### 5.1. Kategori Bazlı Aritmetik Toplam Tablosu (`32 + 2 + 40 + 2 + 8 = 84`)
 
 | Kategori No | Kategori Tanımı | Kapsanan Dosya Grubu | Adet | Doğrulama Durumu |
 | :---: | :--- | :--- | :---: | :---: |
 | **1** | **Kurucu Monografi Markdown Raporları** | `16 TR` (`docs/tr/06..21-*.md`) + `16 EN` (`docs/en/06..21-*.md`) | **32** | ✅ `32/32 OK` |
 | **2** | **Dizin Kriptografik Özet Manifestoları** | `docs/tr/checksums.sha256` + `docs/en/checksums.sha256` | **2** | ✅ `2/2 OK` |
-| **3** | **Külliyat A4 PDF Belgeleri** | `32 Tekil Monografi PDF'i (34 Dosya Kaydı)` + `2 TR/EN Tam Külliyat PDF'i (v6.2.3)` + `1 İSNAD-2 Klasik Arapça Veritabanları Rehberi (ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf)` + `1 TYMM 15 Âyet Ders Tasarımı Rehberi (TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf)` | **38** | ✅ `38/38 OK` |
+| **3** | **Külliyat A4 PDF Belgeleri** | `32 Tekil Monografi PDF'i (34 Dosya Kaydı)` + `2 TR/EN Tam Külliyat PDF'i (v6.3.0 + v6.2.3 Uyumluluk Kopyaları)` + `1 İSNAD-2 Klasik Arapça Veritabanları Rehberi (ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf)` + `1 TYMM 15 Âyet Ders Tasarımı Rehberi (TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf)` | **40** | ✅ `40/40 OK` |
 | **4** | **III. Maarif Kongresi (`MOIJUB`) Bildiri PDF'leri** | `III_MAARIF_KONGRESI_BILDIRI_OZETI_EK1_SABLONU.pdf` (Özet) + `III_MAARIF_KONGRESI_TAM_METIN_MOIJUB.pdf` (Tam Metin) | **2** | ✅ `2/2 OK` |
 | **5** | **Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları** | `data/sources_registry.yaml`, `data/people_registry.yaml`, `docs/source_verification_manifest.json`, `docs/index.html`, `TALIMATNAME.md`, `QURAN_VISION_v6.2.3_SPECIFICATION.md`, `docs/tr/akademik-hakem-rehberi.md`, `docs/tr/linter-kurallari.md` | **8** | ✅ `8/8 OK` |
-| **TOPLAM** | **Ana Kriptografik Mühür (`SHA256SUMS.txt`)** | **`32 + 2 + 38 + 2 + 8 = 82 Dosya Kaydı`** (`.gitattributes` `LF` + `binary` kilidi) | **82 / 82** | 🟢 **`0 FAIL`** |
+| **TOPLAM** | **Ana Kriptografik Mühür (`SHA256SUMS.txt`)** | **`32 + 2 + 40 + 2 + 8 = 84 Dosya Kaydı`** (`.gitattributes` `LF` + `binary` kilidi) | **84 / 84** | 🟢 **`0 FAIL`** |
 
-### 5.2. 82 Kayıtlık Tam `SHA256SUMS.txt` Dosya Dökümü
+### 5.2. 84 Kayıtlık Tam `SHA256SUMS.txt` Dosya Dökümü
 
 | # | Kategori | Dosya Yolu (`Path`) | İkili (`rb`) SHA-256 Özeti (`64-Hex`) |
 | :---: | :--- | :--- | :--- |
@@ -247,10 +247,12 @@
 | 73 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`data/sources_registry.yaml`](data/sources_registry.yaml) | `3e885ac36a610a67bfe6a304a7faba0811ef7718630b0c937bc4a8c55f56480e` |
 | 74 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`data/people_registry.yaml`](data/people_registry.yaml) | `db8f48a7c21a5dd2afb6d6ebfce4df36f7c6d67d866a4868b5f1fe2009fcd436` |
 | 75 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/source_verification_manifest.json`](docs/source_verification_manifest.json) | `9fb62bd656c5d25d0e0768887814705871190daa890700cc587146b0b1f68485` |
-| 76 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/index.html`](docs/index.html) | `6dee7ac0467a2d092758c236526d6c9fd27b05883109e78583ed2806db7752b1` |
-| 77 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`TALIMATNAME.md`](TALIMATNAME.md) | `00d4018b7f775536efaf78a0cd13532e4403b18d809624af2566c0d4c47221e2` |
-| 78 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`QURAN_VISION_v6.2.3_SPECIFICATION.md`](QURAN_VISION_v6.2.3_SPECIFICATION.md) | `fb2b9f98965d10f746f108610d7fe319e7ccfca91ba0d4b37541a4c2db5729b9` |
+| 76 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/index.html`](docs/index.html) | `cbdea7805d5a40f2d3864f67822fd94405544849f0dfd404e50fbe45544509a7` |
+| 77 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`TALIMATNAME.md`](TALIMATNAME.md) | `41d8ce693d68324baec2e46ec349a4e13d77832a47be254b8864b2c6f56c1944` |
+| 78 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`QURAN_VISION_v6.2.3_SPECIFICATION.md`](QURAN_VISION_v6.2.3_SPECIFICATION.md) | `41d8ce693d68324baec2e46ec349a4e13d77832a47be254b8864b2c6f56c1944` |
 | 79 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/tr/akademik-hakem-rehberi.md`](docs/tr/akademik-hakem-rehberi.md) | `4641b28dbc8dde6fe2b55a94dd2a78d6b47b6f11bf5fd5c28c7fc6d5a6f8444a` |
 | 80 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/tr/linter-kurallari.md`](docs/tr/linter-kurallari.md) | `49deebf8632ea6f9f26fd6781a1264783a264babbab1288ce7c44ca98f93dc72` |
 | 81 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-016.pdf`](docs/pdf/QV-2026-016.pdf) | `94c08c6669790ee85d5ca2fed0c998ea8dbc5328dc09ea4007682d48e598116c` |
 | 82 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/QV-2026-016_EN.pdf`](docs/pdf/QV-2026-016_EN.pdf) | `c0505cb373c0ccf36b266dfa9ea9b3cbddad706db03423d3436f8510665e905f` |
+| 83 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/Quran_Vision_Kulliyat_v6.3.0.pdf`](docs/pdf/Quran_Vision_Kulliyat_v6.3.0.pdf) | `2f110403fd387958226271357a6b3690401877222a0379cf88a3e53f8e473f4c` |
+| 84 | 3. Külliyat A4 PDF Belgeleri | [`docs/pdf/Quran_Vision_Corpus_EN_v6.3.0.pdf`](docs/pdf/Quran_Vision_Corpus_EN_v6.3.0.pdf) | `06510982590c1fc1d6e7007f87fe7323eeac81c2bda1f97304d41c4f222a0edf` |

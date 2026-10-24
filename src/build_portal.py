@@ -2390,24 +2390,24 @@ summary.meta-summary:hover {{
   font-weight: 600;
 }}
 .tag-nakil {{
-  background: var(--accent-gold-soft);
-  color: var(--accent-gold);
-  border: 1px solid var(--accent-gold-border);
+  background: #fef3c7;
+  color: #92400e;
+  border: 1px solid #f59e0b;
   padding: 2px 7px;
   border-radius: 4px;
   font-family: 'JetBrains Mono', monospace;
   font-size: calc(12px * var(--font-scale, 1));
-  font-weight: 600;
+  font-weight: 700;
 }}
 .tag-yorum {{
-  background: var(--accent-emerald-soft);
-  color: var(--text-secondary);
-  border: 1px solid var(--accent-emerald-border);
+  background: #d1fae5;
+  color: #065f46;
+  border: 1px solid #10b981;
   padding: 2px 7px;
   border-radius: 4px;
   font-family: 'JetBrains Mono', monospace;
   font-size: calc(12px * var(--font-scale, 1));
-  font-weight: 600;
+  font-weight: 700;
 }}
 html, .content-scroll, .report-list {{
   scroll-behavior: smooth;
@@ -4043,12 +4043,13 @@ function formatInlineMd(str, seenFnRefs = null) {{
   }});
 
   s = s
-    .replace(/\\[NAKİL\\]/g, `<span class="tag-nakil">${{isEn ? '[CITATION / NAKİL]' : '[NAKİL]'}}</span>`)
-    .replace(/\\[CITATION \\/ NAKİL\\]/g, '<span class="tag-nakil">[CITATION / NAKİL]</span>')
-    .replace(/\\[CITATION\\]/g, '<span class="tag-nakil">[CITATION]</span>')
-    .replace(/\\[ANALYSIS \\/ YORUM\\]/g, '<span class="tag-yorum">[ANALYSIS / YORUM]</span>')
-    .replace(/\\[ANALYSIS\\]/g, '<span class="tag-yorum">[ANALYSIS]</span>')
-    .replace(/\\[YORUM\\]/g, `<span class="tag-yorum">${{isEn ? '[ANALYSIS / YORUM]' : '[YORUM]'}}</span>`)
+    .replace(/`?\\[NAKİL\\]`?/g, `<span class="tag-nakil">${{isEn ? '[CITATION / NAKİL]' : '[NAKİL]'}}</span>`)
+    .replace(/`?\\[CITATION \\/ NAKİL\\]`?/g, '<span class="tag-nakil">[CITATION / NAKİL]</span>')
+    .replace(/`?\\[CITATION\\]`?/g, '<span class="tag-nakil">[CITATION]</span>')
+    .replace(/`?\\[ANALYSIS \\/ YORUM\\]`?/g, '<span class="tag-yorum">[ANALYSIS / YORUM]</span>')
+    .replace(/`?\\[ANALYSIS\\]`?/g, '<span class="tag-yorum">[ANALYSIS]</span>')
+    .replace(/`?\\[INTERPRETATION\\]`?/g, '<span class="tag-yorum">[INTERPRETATION]</span>')
+    .replace(/`?\\[YORUM\\]`?/g, `<span class="tag-yorum">${{isEn ? '[ANALYSIS / YORUM]' : '[YORUM]'}}</span>`)
     .replace(/`([^`]+)`/g, '<code>$1</code>')
     .replace(/\\*\\*(.*?)\\*\\*/g, '<strong>$1</strong>')
     .replace(/\\*(.*?)\\*/g, '<em>$1</em>')

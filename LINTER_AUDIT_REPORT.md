@@ -247,7 +247,7 @@
 | 73 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`data/sources_registry.yaml`](data/sources_registry.yaml) | `3e885ac36a610a67bfe6a304a7faba0811ef7718630b0c937bc4a8c55f56480e` |
 | 74 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`data/people_registry.yaml`](data/people_registry.yaml) | `db8f48a7c21a5dd2afb6d6ebfce4df36f7c6d67d866a4868b5f1fe2009fcd436` |
 | 75 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/source_verification_manifest.json`](docs/source_verification_manifest.json) | `9fb62bd656c5d25d0e0768887814705871190daa890700cc587146b0b1f68485` |
-| 76 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/index.html`](docs/index.html) | `e5513e8f7300ebc517e60ceade400ff8a0d8360adff004596b93317bf2b5f482` |
+| 76 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/index.html`](docs/index.html) | `6dee7ac0467a2d092758c236526d6c9fd27b05883109e78583ed2806db7752b1` |
 | 77 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`TALIMATNAME.md`](TALIMATNAME.md) | `00d4018b7f775536efaf78a0cd13532e4403b18d809624af2566c0d4c47221e2` |
 | 78 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`QURAN_VISION_v6.2.3_SPECIFICATION.md`](QURAN_VISION_v6.2.3_SPECIFICATION.md) | `fb2b9f98965d10f746f108610d7fe319e7ccfca91ba0d4b37541a4c2db5729b9` |
 | 79 | 5. Çekirdek Sicil, Kişi Sicili, Spesifikasyon, Portal ve Metodoloji Dosyaları | [`docs/tr/akademik-hakem-rehberi.md`](docs/tr/akademik-hakem-rehberi.md) | `4641b28dbc8dde6fe2b55a94dd2a78d6b47b6f11bf5fd5c28c7fc6d5a6f8444a` |

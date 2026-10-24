@@ -729,6 +729,54 @@ EN_CORPUS: Dict[str, Dict[str, Any]] = {
                 "score_justification": "Translating 'whoever saves one life saves all humanity' into global public health, search-and-rescue, organ donation, and humanitarian diplomacy networks"
             }
         ]
+    },
+    "QV-2026-016": {
+        "surah_en": "Al-Kahf",
+        "topic_en": "Dhul-Qarnayn, Iron-Copper Composite Barrier (Radm), Al-Futuhat al-Makkiyya, and Human 2.0 Bioethical Governance",
+        "aporia_en": "[ANALYSIS] Al-Kahf 18:83-98 synthesizes empirical means (Sabab), participatory engineering (a'inuni bi-quwwatin), and iron-copper composite containment (Radm: zubara al-hadid + qitr) against systemic entropy (Ya'juj & Ma'juj: ifsad fi al-ard), while subordinating all technological power to moral humility (hadha rahmatun min Rabbi) and eschatological finitude.",
+        "z3_en": "[ANALYSIS] In the era of Human 2.0 transhumanism, germline CRISPR editing, and autonomous AI systems, how can humanity construct a dual-layer 'Radm' governance architecture (hard legal containment + ethical-algorithmic alignment) without falling into technological hubris?",
+        "thresholds_en": [
+            {
+                "id": "th-01",
+                "name": "Bioethical & Germline Genome Editing Safety Compliance Index (WHO / UNESCO)",
+                "value": ">= 0.90",
+                "derivation_basis": "[ESTIMATED THRESHOLD] Calibration of Al-Kahf 18:94-95 (protecting human nature from systemic corruption / ifsad fi al-ard) with WHO and UNESCO human genome and neurotechnology governance frameworks"
+            },
+            {
+                "id": "th-02",
+                "name": "Dual-Layer Composite Containment & Algorithmic Alignment Audit Rate (OECD AI / Radm Index)",
+                "value": ">= 0.88",
+                "derivation_basis": "[ESTIMATED THRESHOLD] Calibration of Dhul-Qarnayn's composite Radm barrier (Iron structural law + Copper algorithmic conductivity, 18:96-97) with OECD AI safety and red-teaming audit metrics"
+            },
+            {
+                "id": "th-03",
+                "name": "Meaningful Human Control in Autonomous Defense & Cybernetic Systems (SIPRI)",
+                "value": ">= 98%",
+                "derivation_basis": "[ESTIMATED THRESHOLD] Working hypothesis preventing autonomous Ya'juj-Ma'juj-style swarm escalation and enforcing moral accountability (hadha rahmatun min Rabbi, 18:98)"
+            }
+        ],
+        "scenarios_en": [
+            {
+                "id": "S1",
+                "title": "Protective Scenario (Dhul-Qarnayn Composite Radm Civilization: Bioethical Containment, Participatory Tech & Mercy Ethics)",
+                "score_justification": "Institutionalizing dual-layer containment (Hard Law Iron + Ethical Alignment Copper) and non-exploitative technology transfer ('what my Lord established me in is better') across AI, genomics, and cybernetics"
+            },
+            {
+                "id": "S2",
+                "title": "Balance Scenario (Single-Layer Fragile Regulation & Commercial Bio-Enhancement Asymmetry)",
+                "score_justification": "Relying on fragmented national regulations ('sadd') without global composite enforcement ('radm'), allowing commercial transhumanist divides to widen"
+            },
+            {
+                "id": "S3",
+                "title": "Breakdown Scenario (Ya'juj-Ma'juj Bio-Digital Breach: Unchecked Germline Alteration & Autonomous Swarm Chaos)",
+                "score_justification": "Breach of bioethical and cybernetic containment barriers leading to irreversible genomic inequality, cognitive manipulation, and autonomous conflict escalation (ifsad fi al-ard)"
+            },
+            {
+                "id": "S4",
+                "title": "Revival Scenario (Global Al-Kahf 18:95-98 Bioethical & Cybernetic Stewardship Pact)",
+                "score_justification": "Uniting scientific mastery of causal means (itba' al-asbab), spiritual self-regulation (Ibn al-'Arabi's Futuhat), and global public-good technology sharing"
+            }
+        ]
     }
 }
 

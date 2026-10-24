@@ -177,7 +177,7 @@ peer_review:
   academic_advisor_orcid: "0000-0002-1025-5643"
   academic_advisor_institution: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
   review_date: "2026-10-20"
-  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (gem_lint.py V1–V17, 0 BLOCK) ve V16.2 iç örneklem kontrolü (51/176 kaynak — Mehmet Yarıcı) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür."
+  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (gem_lint.py V1–V17, 0 BLOCK) ve V16.2 iç örneklem kontrolü (60/190 kaynak — Mehmet Yarıcı) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür."
 ---
 
 # Rûm Sûresi 30:22 Tahlili — Ontolojik Çoğulculuk, Dilsel ve Etnik Çeşitlilik, Asimilasyon Karşıtlığı ve Bir Arada Yaşama Mimarisi
@@ -190,7 +190,7 @@ peer_review:
 - **Konu Başlığı:** Ontolojik Çoğulculuk, Dilsel ve Etnik Çeşitlilik, Asimilasyon Karşıtlığı ve Çok Kültürlü Bir Arada Yaşama Mimarisi
 - **Proje Yürütücüsü & Baş Araştırmacı:** Mehmet Yarıcı (Uludağ Üniversitesi İlahiyat Fakültesi, 1989 • T.C. MEB, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi — ORCID: `0009-0003-0356-8582`)
 - **Akademik Danışman:** Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü — ORCID: `0000-0002-1025-5643`)
-- **Kalite Güvencesi ve Kaynak Doğrulama:** `gem_lint.py` (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı)
+- **Kalite Güvencesi ve Kaynak Doğrulama:** `gem_lint.py` (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (60/190 Kaynak — Mehmet Yarıcı)
 - **Kalıcı CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23410818` (v6.2.2 Sürüm DOI)
 - **Tarih:** 2026-10-15
 - **Sürüm:** v6.2.2 (Akademik Doğrulama Standartlı)
@@ -685,18 +685,34 @@ Bu raporda serdedilen tüm tespit, modelleme ve politika tasarımları birer be�
 
 ---
 
-### Z-5 · BAĞIMSIZ DIŞ AKADEMİK HAKEM İNCELEME FORMU [V11 ZORUNLU]
-- **Yayın / Tahkik Statüsü:** `PRE-RELEASE (Ön Sürüm — Algoritmik İç Denetim Tamamlandı / Bağımsız Dış Hakem Sürecinde)`
-- **Proje Yürütücüsü & Baş Araştırmacı:** Mehmet Yarıcı (`ORCID: 0009-0003-0356-8582`)
-- **Akademik Danışman:** Mehmet Emin Koç (`Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü` — `ORCID: 0000-0002-1025-5643`)
-- **Kalite Güvencesi ve Kaynak Doğrulama:** `gem_lint.py` (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı)
-- **Metodolojik Rol Ayrımı Notu (İlke 4):** Proje yürütücülüğü (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), akademik danışmanlık (`Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643`) ve algoritmik kalite güvencesi (`gem_lint.py V1–V17, 0 BLOCK`) rolleri `data/people_registry.yaml` ve `L-2507` kilidiyle kesin olarak ayrılmıştır.
+### Z-5 · BAĞIMSIZ DIŞ HAKEM DEĞERLENDİRME FORMU [ZORUNLU V11]
+
+| Alan / Kriter | Değerlendirme ve Doğrulama Kaydı |
+| :--- | :--- |
+| **Belge Statüsü** | `PRE-RELEASE (Ön Sürüm — Algoritmik İç Tutarlılık ve İç Örneklem Doğrulaması Tamamlandı)` |
+| **Proje Yürütücüsü & Baş Araştırmacı** | **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — Uludağ Üniversitesi İlahiyat Fakültesi, 1989 • T.C. MEB, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi) |
+| **Akademik Danışman** | **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü) |
+| **Kalite Güvencesi ve Kaynak Doğrulama** | `gem_lint.py` (V1–V17 Algoritmik Denetim — `0 BLOCK`) & V16.2 İç Örneklem Kontrolü (`60/190 Kaynak — Mehmet Yarıcı`) |
+| **Metodolojik Rol Ayrımı (İlke 4 / V17)** | Proje yürütücüsü (`Mehmet Yarıcı`) ile akademik danışman (`Mehmet Emin Koç`) rolleri `data/people_registry.yaml` ve `L-2507` kuralları uyarınca kesin olarak ayrılmıştır; iç algoritmik/örneklem denetimi bağımsız dış hakem onayı olarak sunulamaz. |
+| **Bağımsız Dış Hakem Görüşü (Kör Hakemlik)** | `[DIŞ HAKEM DEĞERLENDİRMESİ BEKLENİYOR — PRE-RELEASE]` |
+| **Tarih ve Doğrulama İmzası** | `2026-10-15` • Kriptografik SHA-256 Manifest: `15-rapor-rum-3022-v6.1.1.md.sha256` |
+
+| Akademik Hakem Değerlendirme Boyutu | Kapsam ve Denetim Ölçütü | Rubrik Puanı |
+| :--- | :--- | :--- |
+| **Rapor Künyesi, Danışmanlık ve Kalite Güvencesi** | Rapor: **QV-2026-010 (Rûm 30:22)** • Uzmanlık Alanı: *Ontolojik Çoğulculuk, Dilsel ve Etnik Çeşitlilik, Asimilasyon Karşıtlığı ve Çok Kültürlü Bir Arada Yaşama Mimarisi* • Proje Yürütücüsü: **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582`) • Akademik Danışman: **Mehmet Emin Koç** (AMEA, `ORCID: 0000-0002-1025-5643`) • Kalite Güvencesi: **gem_lint.py (V1–V17) & V16.2 İç Örneklem Kontrolü (60/190 — Mehmet Yarıcı)** • Tarih: `2026-10-15` | **ÖN SÜRÜM (Açık Hakemlik)** |
+| **1. Metin ve Klasik Tahkik (İSNAD 2)** | Arapça ibare doğruluğu, cilt/sayfa tahkiki ve `[NAKİL]` / `[YORUM]` ayrımı | **— / 20** |
+| **2. Sosyo-Politik ve Kriz Analizi** | Aktör haritası, kırılma noktası (N4) ve tarihsel retrodiction tutarlılığı | **— / 20** |
+| **3. Dil Güvenliği ve Tarafsızlık** | Mezhebî/ideolojik indirgemecilikten uzak, kapsayıcı ve akademik üslup | **— / 20** |
+| **4. Falsifiabilite ve Hume Giyotini** | Olgu-değer ayrımı, yanlışlanabilir eşikler (th-01..03) ve DOI veri uyumu | **— / 20** |
+| **5. Kurumsal Tasarım ve Özgünlük** | Uygulanabilir politika kolları, TYMM pedagojik uyumu ve Z-1 Aporia derinliği | **— / 20** |
+| **TOPLAM AKADEMİK SKOR** | **Dış Hakem Kararı:** Bağımsız Akademik Hakem Değerlendirmesine Açık | **— / 100** |
+| **Editoryal Derkenar Notu** | İlke 4 (Rol Ayrımı) ve `L-2507` uyarınca proje yürütücülüğü (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), akademik danışmanlık (`Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643`) ve kalite güvencesi/kaynak doğrulama (`gem_lint.py` V1–V17 & V16.2 60/190 iç örneklem kontrolü) rolleri birbirinden kesin olarak ayrılmıştır. | `INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)` |
 
 ```yaml
 hakem_degerlendirme_protokolu:
   rapor_id: "QV-2026-010"
   sure_ayet: "Rûm 30:22"
-  tarih: "2026-10-20"
+  tarih: "2026-10-15"
   status: "PRE-RELEASE"
   proje_yurutucusu:
     ad_soyad: "Mehmet Yarıcı"
@@ -706,7 +722,7 @@ hakem_degerlendirme_protokolu:
     orcid: "0000-0002-1025-5643"
     kurum: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
   kalite_guvencesi_ve_kaynak_dogrulama:
-    motor: "gem_lint.py (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı)"
+    motor: "gem_lint.py (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (60/190 Kaynak — Mehmet Yarıcı)"
     uzmanlik_alani: "Ontolojik Çoğulculuk, Dilsel ve Etnik Çeşitlilik, Asimilasyon Karşıtlığı ve Çok Kültürlü Bir Arada Yaşama Mimarisi"
   rubrik_puanlamasi:
     boyut_1_metin_ve_tahkik: "— / 20"
@@ -716,5 +732,5 @@ hakem_degerlendirme_protokolu:
     boyut_5_kurumsal_tasarim_ve_ozgunluk: "— / 20"
     toplam_skor: "— / 100"
   kalite_guvence_statu: "INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)"
-  derkenar_notu: "İlke 4 (Rol Ayrımı) ve L-2507 uyarınca proje yürütücülüğü (Mehmet Yarıcı — ORCID: 0009-0003-0356-8582), akademik danışmanlık (Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643) ve kalite güvencesi/kaynak doğrulama (gem_lint.py V1–V17 & V16.2 51/176 iç örneklem kontrolü) rolleri birbirinden kesin olarak ayrılmıştır."
+  derkenar_notu: "İlke 4 (Rol Ayrımı) ve L-2507 uyarınca proje yürütücülüğü (Mehmet Yarıcı — ORCID: 0009-0003-0356-8582), akademik danışmanlık (Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643) ve kalite güvencesi/kaynak doğrulama (gem_lint.py V1–V17 & V16.2 60/190 iç örneklem kontrolü) rolleri birbirinden kesin olarak ayrılmıştır."
 ```

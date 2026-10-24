@@ -177,7 +177,7 @@ peer_review:
   academic_advisor_orcid: "0000-0002-1025-5643"
   academic_advisor_institution: "Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology"
   review_date: "2026-10-20"
-  review_notes: "Methodological Note (Principle 4 — Role Separation): Algorithmic internal consistency verification (gem_lint.py V1–V17, 0 BLOCK) and V16.2 internal sample verification (51/176 sources — Mehmet Yarıcı) have been completed, and academic advisory was provided by Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)."
+  review_notes: "Methodological Note (Principle 4 — Role Separation): Algorithmic internal consistency verification (gem_lint.py V1–V17, 0 BLOCK) and V16.2 internal sample verification (60/190 sources — Mehmet Yarıcı) have been completed, and academic advisory was provided by Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643)."
 ---
 
 # QV-2026-010 — Surah Ar-Rum 30:22: Ontological Pluralism (Ikhtilaf al-Alsinah wa'l-Alwan), Linguistic Rights & Anti-Racism
@@ -194,7 +194,7 @@ peer_review:
 - **Verified Empirical Datasets (*APA 7 / DOI*):** UNESCO Institute for Statistics (2024); World Bank Group (2024); Türkiye İstatistik Kurumu (TÜİK) (2024).
 - **Project Lead & Principal Investigator:** **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — Uludağ University Faculty of Theology (1989) • Republic of Türkiye Ministry of National Education, Bahçelievler Dede Korkut Anatolian High School)
 - **Academic Advisor:** **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology)
-- **Quality Assurance & Source Verification:** `gem_lint.py` (V1–V17 Algorithmic Audit) & V16.2 Internal Sample Verification (51/176 Sources — Mehmet Yarıcı)
+- **Quality Assurance & Source Verification:** `gem_lint.py` (V1–V17 Algorithmic Audit) & V16.2 Internal Sample Verification (60/190 Sources — Mehmet Yarıcı)
 - **Permanent CERN / Zenodo DOI:** `10.5281/zenodo.23391192` (Concept DOI) | `10.5281/zenodo.23410818` (v6.2.2 Version DOI)
 
 ---
@@ -706,24 +706,52 @@ This institutional instructional design translates the **"Virtue–Value–Actio
 
 ---
 
-### Z-5 · INDEPENDENT EXTERNAL PEER REVIEW EVALUATION FORM [MANDATORY V11]
+### Z-5 · INDEPENDENT EXTERNAL PEER-REVIEW EVALUATION FORM [MANDATORY V11]
 
-| Field | Reviewer Metadata & Audit Record |
+| Field / Criterion | Evaluation & Verification Record |
 | :--- | :--- |
-| **Release Status** | `PRE-RELEASE (Algorithmic Internal Audit Complete — Pending External Peer Review)` |
-| **Algorithmic Internal Linter (`GemLinterV6`)** | `VERIFIED (0 BLOCK, 0 WARN)` |
-| **Project Lead & Principal Investigator** | **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582`) |
-| **Academic Advisor** | **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — *Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology*) |
-| **Quality Assurance & Source Verification** | `gem_lint.py` (V1–V17 Algorithmic Audit) & V16.2 Internal Sample Verification (51/176 Sources — Mehmet Yarıcı) |
-| **Methodological Note (Principle 4)** | In accordance with Principle 4 (Role Separation) and `L-2507`, project leadership (`Mehmet Yarıcı`), academic advisory (`Mehmet Emin Koç — AMEA`), and algorithmic quality assurance (`gem_lint.py V1–V17, 0 BLOCK`) are strictly separated via `data/people_registry.yaml`. |
-| **Evaluation Rubric (5 Dimensions)** | **1.** Classical Tafsir Accuracy (`ISNAD 2`) • **2.** Empirical Data Rigor (`APA 7 / DOI`) • **3.** Citation vs. Interpretation Boundary • **4.** Bayesian Calibration & Sensitivity • **5.** Epistemic Humility & Non-Takfiri Language |
+| **Document Status** | `PRE-RELEASE (Algorithmic Internal Consistency & Internal Sample Verification Completed)` |
+| **Project Lead & Principal Investigator** | **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — Uludağ University Faculty of Theology, 1989 • Republic of Türkiye Ministry of National Education, Bahçelievler Dede Korkut Anatolian High School) |
+| **Academic Advisor** | **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — Azerbaijan National Academy of Sciences [AMEA], Institute of Philosophy and Sociology) |
+| **Quality Assurance & Source Verification** | `gem_lint.py` (V1–V17 Algorithmic Audit — `0 BLOCK`) & V16.2 Internal Sample Verification (`60/190 Sources — Mehmet Yarıcı`) |
+| **Methodological Role Separation (Principle 4 / V17)** | The roles of Project Lead (`Mehmet Yarıcı`) and Academic Advisor (`Mehmet Emin Koç`) are strictly separated in compliance with `data/people_registry.yaml` and Rule `L-2507`; internal algorithmic and sample audits do not substitute for independent external peer review. |
+| **Independent External Peer-Review Verdict (Blind Review)** | `[AWAITING INDEPENDENT EXTERNAL PEER REVIEW — PRE-RELEASE]` |
+| **Date & Verification Signature** | `2026-10-15` • Cryptographic SHA-256 Manifest: `15-rapor-rum-3022-en-v6.1.1.md.sha256` |
 
-#### Methodological Audit Checklist (V1–V13)
-- [x] **1. Lexical & Primary Source Authenticity (V1 / V12):** All 5 classical Arabic sources (*ISNAD 2nd Edition*) and word-by-word morphological analyses in `STEP 01` and `STEP 02` have been verified against critical editions (`[CITATION / NAKİL]`).
-- [x] **2. Epistemic Boundary & Hume's Guillotine (V2 / V8):** Revealed normative text (`[CITATION]`) and human analytical inference (`[ANALYSIS]`) are strictly segregated across all 26 steps; the *Is-Ought* bridge is explicitly documented in `STEP 03`.
-- [x] **3. Intra-Surah Context & Cross-Verse Network (S1–S7):** Context-stripping risks (`S7`) and counter-principles have been audited in `STEP 02`, `STEP 05`, and `STEP 06`.
-- [x] **4. System Dynamics & Causal Loop Diagram (V13):** Stock-flow variables, Reinforcing Loop (`R1`), Balancing Loop (`B1`), Systemic Delay, Leverage Point, and Tipping Point (`N4`) are verified in `STEP 07`.
-- [x] **5. Empirical Traceability & Bayesian Calibration (V5 / V6 / V7):** All 3 institutional datasets (`[^6]..[^8]`), numerical thresholds (`th-01..th-03`), and Bayesian probability updates (`STEP 14`) are falsifiable and limited strictly to worldly policy outcomes.
-- [x] **6. Dialectical Pluralism & Dispute Matrix (V3):** Classical and contemporary jurisprudential divergences are fairly represented in `Z-2` without sectarian bias.
-- [x] **7. Pedagogical Applicability (TYMM Alignment):** The 40-minute competency- and virtue-based lesson plan in `STEP 20` is aligned with secondary and higher-education curricula.
-- [x] **8. Language Safety & Epistemic Humility (V10 / L-1801):** Free from absolutist claims, theological monopoly, or pseudo-authority (`Z-4`).
+| Academic Peer-Review Evaluation Dimension | Scope & Verification Criterion | Rubric Score |
+| :--- | :--- | :--- |
+| **Report Metadata, Advisory & Quality Assurance** | Report: **QV-2026-010 (Ar-Rum 30:22)** • Domain: *Ontological Pluralism, Linguistic & Ethnic Diversity, Anti-Assimilation & Multicultural Coexistence Architecture* • Project Lead: **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582`) • Academic Advisor: **Mehmet Emin Koç** (AMEA, `ORCID: 0000-0002-1025-5643`) • Quality Assurance: **gem_lint.py (V1–V17) & V16.2 Internal Sample Verification (60/190 — Mehmet Yarıcı)** • Date: `2026-10-15` | **PRE-RELEASE (Open Peer Review)** |
+| **1. Textual & Classical Verification (ISNAD 2)** | Primary Arabic quote accuracy, vol./page verification & `[CITATION]` / `[ANALYSIS]` separation | **— / 20** |
+| **2. Socio-Political & Crisis Analysis** | Actor mapping, tipping point (N4) & historical retrodiction coherence | **— / 20** |
+| **3. Language Safety & Impartiality** | Inclusive academic register free from sectarian or ideological reductionism | **— / 20** |
+| **4. Falsifiability & Hume's Guillotine** | Is-ought distinction, falsifiable thresholds (th-01..03) & DOI dataset alignment | **— / 20** |
+| **5. Institutional Design & Originality** | Actionable policy branches, TYMM pedagogical integration & Z-1 Aporia depth | **— / 20** |
+| **TOTAL ACADEMIC SCORE** | **External Referee Decision:** Open for Independent External Academic Peer Evaluation | **— / 100** |
+| **Editorial Note** | In accordance with Principle 4 (Role Separation) and Rule `L-2507`, project leadership (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), academic advisory (`Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643`), and quality assurance/source verification (`gem_lint.py` V1–V17 & V16.2 60/190 internal sample verification) are strictly separated. | `INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)` |
+
+```yaml
+hakem_degerlendirme_protokolu:
+  rapor_id: "QV-2026-010"
+  sure_ayet: "Ar-Rum 30:22"
+  tarih: "2026-10-15"
+  status: "PRE-RELEASE"
+  proje_yurutucusu:
+    ad_soyad: "Mehmet Yarıcı"
+    orcid: "0009-0003-0356-8582"
+  akademik_danisman:
+    ad_soyad: "Mehmet Emin Koç"
+    orcid: "0000-0002-1025-5643"
+    kurum: "Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology"
+  kalite_guvencesi_ve_kaynak_dogrulama:
+    motor: "gem_lint.py (V1–V17 Algorithmic Audit) & V16.2 Internal Sample Verification (60/190 Sources — Mehmet Yarıcı)"
+    uzmanlik_alani: "Ontological Pluralism, Linguistic & Ethnic Diversity, Anti-Assimilation & Multicultural Coexistence Architecture"
+  rubrik_puanlamasi:
+    boyut_1_metin_ve_tahkik: "— / 20"
+    boyut_2_sosyo_politik_ve_kriz_analizi: "— / 20"
+    boyut_3_dil_guvenligi_ve_tarafsizlik: "— / 20"
+    boyut_4_falsifiabilite_ve_hume_giyotini: "— / 20"
+    boyut_5_kurumsal_tasarim_ve_ozgunluk: "— / 20"
+    toplam_skor: "— / 100"
+  kalite_guvence_statu: "INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)"
+  derkenar_notu: "In accordance with Principle 4 (Role Separation) and Rule L-2507, project leadership (Mehmet Yarıcı — ORCID: 0009-0003-0356-8582), academic advisory (Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643), and quality assurance/source verification (gem_lint.py V1–V17 & V16.2 60/190 internal sample verification) are strictly separated."
+```

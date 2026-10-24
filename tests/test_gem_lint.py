@@ -363,11 +363,11 @@ Bağlantı: https://shamela.ws/book/7798/11532
         assert "L-2506" in blocks, "%10 altı manuel örneklem oranı L-2506 BLOCK üretmeli!"
 
     def test_all_30_founding_monographs_pass_v16_zero_block(self):
-        """Külliyattaki 30 kurucu monografinin (15 TR + 15 EN) tamamı V1..V16 (L-0100..L-2506) kapılarından 0 BLOCK ile geçmeli."""
-        tr_reps = [f for f in sorted((ROOT_DIR / "docs" / "tr").glob("[0-9][0-9]-*-v6.1.1.md")) if not f.name.startswith("05-")]
-        en_reps = [f for f in sorted((ROOT_DIR / "docs" / "en").glob("[0-9][0-9]-*-en-v6.1.1.md")) if not f.name.startswith("05-")]
+        """Külliyattaki 32 kurucu monografinin (16 TR + 16 EN) tamamı V1..V17 (L-0100..L-2507) kapılarından 0 BLOCK ile geçmeli."""
+        tr_reps = [f for f in sorted((ROOT_DIR / "docs" / "tr").glob("[0-9][0-9]-*-v6.*.md")) if not f.name.startswith("05-")]
+        en_reps = [f for f in sorted((ROOT_DIR / "docs" / "en").glob("[0-9][0-9]-*-en-v6.*.md")) if not f.name.startswith("05-")]
         all_reps = tr_reps + en_reps
-        assert len(all_reps) == 30
+        assert len(all_reps) == 32
 
         for rep in all_reps:
             linter = GemLinterV6(rep, katman=3, h6=True)

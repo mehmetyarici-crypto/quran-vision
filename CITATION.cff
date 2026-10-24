@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-title: "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı): 26-Step Evidence-Based Strategic Tafsir, Maqasid & Civilization Foresight Corpus (v6.2.3)"
-message: "If you use this corpus, methodology, or any of its 15 foundational verse reports in your academic research or curriculum, please cite it using the official metadata below."
+title: "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı): 26-Step Evidence-Based Strategic Tafsir, Maqasid & Civilization Foresight Corpus (v6.3.0)"
+message: "If you use this corpus, methodology, or any of its 16 foundational verse reports (32 TR/EN monographs) in your academic research or curriculum, please cite it using the official metadata below."
 type: dataset
-version: "6.2.3"
-date-released: "2026-10-20"
+version: "6.3.0"
+date-released: "2026-10-24"
 url: "https://mehmetyarici-crypto.github.io/quran-vision/"
 repository-code: "https://github.com/mehmetyarici-crypto/quran-vision"
 license: CC-BY-NC-SA-4.0
@@ -14,7 +14,7 @@ identifiers:
     description: "Concept DOI (All versions of Quran Vision Corpus)"
   - type: doi
     value: "10.5281/zenodo.23410818"
-    description: "Version DOI (v6.2.3 Canonical Release — supersedes v6.2.2)"
+    description: "Version DOI (v6.3.0 Canonical Release — supersedes v6.2.3)"
 authors:
   - family-names: "Yarıcı"
     given-names: "Mehmet"
@@ -31,4 +31,4 @@ keywords:
   - "Civilization Foresight"
   - "TYMM Religious Education Pedagogy"
 abstract: >-
-  The Quran Vision Corpus (v6.2.3; supersedes v6.2.2), led and authored by Project Lead & Principal Investigator Mehmet Yarıcı (ORCID: 0009-0003-0356-8582; Uludağ University Faculty of Theology / Republic of Türkiye Ministry of National Education), with Academic Advisor Mehmet Emin Koç (ORCID: 0000-0002-1025-5643; Azerbaijan National Academy of Sciences / AMEA, Institute of Philosophy and Sociology), is a bilingual (Turkish/English) academic research corpus and interactive digital cockpit comprising 15 foundational Quranic verse monographs (QV-2026-001 through QV-2026-015). Quality Assurance & Source Verification: gem_lint.py (V1–V17 Algorithmic Audit) & V16.2 Internal Sample Verification (51/176 Sources — Mehmet Yarıcı). PDF Inventory: 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF.
+  The Quran Vision Corpus (v6.3.0; supersedes v6.2.3), led and authored by Project Lead & Principal Investigator Mehmet Yarıcı (ORCID: 0009-0003-0356-8582; Uludağ University Faculty of Theology / Republic of Türkiye Ministry of National Education), with Academic Advisor Mehmet Emin Koç (ORCID: 0000-0002-1025-5643; Azerbaijan National Academy of Sciences / AMEA, Institute of Philosophy and Sociology), is a bilingual (Turkish/English) academic research corpus and interactive digital cockpit comprising 16 foundational Quranic verse monographs (32 TR/EN monographs: QV-2026-001 through QV-2026-016, including Kahf 18:83-98 and the Unified Dual-Table Z-5 Standard). Quality Assurance & Source Verification: gem_lint.py (V1–V17 Algorithmic Audit) & V16.2 Multi-Server Source Registry (190/190 Verified Sources: 138 Shamela + 18 Altafsir + 34 Institutional; Internal Sample Verification: 60/190 [31.6%] — Mehmet Yarıcı). PDF Inventory: 36 Külliyat PDF'i (32 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 38 PDF.

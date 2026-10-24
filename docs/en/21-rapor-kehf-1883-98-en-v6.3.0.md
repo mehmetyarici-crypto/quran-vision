@@ -824,3 +824,41 @@ Classical and contemporary exegetical approaches to Dhul-Qarnayn, `Sabab`, `Radm
 | **Methodological Role Separation (Principle 4 / V17)** | The roles of Project Lead (`Mehmet Yarıcı`) and Academic Advisor (`Mehmet Emin Koç`) are strictly separated in compliance with `data/people_registry.yaml` and Rule `L-2507`; internal algorithmic and sample audits do not substitute for independent external peer review. |
 | **Independent External Peer-Review Verdict (Blind Review)** | `[AWAITING INDEPENDENT EXTERNAL PEER REVIEW — PRE-RELEASE]` |
 | **Date & Verification Signature** | `2026-10-23` • Cryptographic SHA-256 Manifest: `21-rapor-kehf-1883-98-en-v6.3.0.md.sha256` |
+
+| Academic Peer-Review Evaluation Dimension | Scope & Verification Criterion | Rubric Score |
+| :--- | :--- | :--- |
+| **Report Metadata, Advisory & Quality Assurance** | Report: **QV-2026-016 (Al-Kahf 18:83-98)** • Domain: *Dhul-Qarnayn, Iron-Copper Composite Barrier (Radm), Al-Futuhat al-Makkiyya, and Human 2.0 Bioethical Governance* • Project Lead: **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582`) • Academic Advisor: **Mehmet Emin Koç** (AMEA, `ORCID: 0000-0002-1025-5643`) • Quality Assurance: **gem_lint.py (V1–V17) & V16.2 Internal Sample Verification (60/190 — Mehmet Yarıcı)** • Date: `2026-10-23` | **PRE-RELEASE (Open Peer Review)** |
+| **1. Textual & Classical Verification (ISNAD 2)** | Primary Arabic quote accuracy, vol./page verification & `[CITATION]` / `[ANALYSIS]` separation | **— / 20** |
+| **2. Socio-Political & Crisis Analysis** | Actor mapping, tipping point (N4) & historical retrodiction coherence | **— / 20** |
+| **3. Language Safety & Impartiality** | Inclusive academic register free from sectarian or ideological reductionism | **— / 20** |
+| **4. Falsifiability & Hume's Guillotine** | Is-ought distinction, falsifiable thresholds (th-01..03) & DOI dataset alignment | **— / 20** |
+| **5. Institutional Design & Originality** | Actionable policy branches, TYMM pedagogical integration & Z-1 Aporia depth | **— / 20** |
+| **TOTAL ACADEMIC SCORE** | **External Referee Decision:** Open for Independent External Academic Peer Evaluation | **— / 100** |
+| **Editorial Note** | In accordance with Principle 4 (Role Separation) and Rule `L-2507`, project leadership (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), academic advisory (`Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643`), and quality assurance/source verification (`gem_lint.py` V1–V17 & V16.2 60/190 internal sample verification) are strictly separated. | `INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)` |
+
+```yaml
+hakem_degerlendirme_protokolu:
+  rapor_id: "QV-2026-016"
+  sure_ayet: "Al-Kahf 18:83-98"
+  tarih: "2026-10-23"
+  status: "PRE-RELEASE"
+  proje_yurutucusu:
+    ad_soyad: "Mehmet Yarıcı"
+    orcid: "0009-0003-0356-8582"
+  akademik_danisman:
+    ad_soyad: "Mehmet Emin Koç"
+    orcid: "0000-0002-1025-5643"
+    kurum: "Azerbaijan National Academy of Sciences (AMEA), Institute of Philosophy and Sociology"
+  kalite_guvencesi_ve_kaynak_dogrulama:
+    motor: "gem_lint.py (V1–V17 Algorithmic Audit) & V16.2 Internal Sample Verification (60/190 Sources — Mehmet Yarıcı)"
+    uzmanlik_alani: "Dhul-Qarnayn, Iron-Copper Composite Barrier (Radm), Al-Futuhat al-Makkiyya, and Human 2.0 Bioethical Governance"
+  rubrik_puanlamasi:
+    boyut_1_metin_ve_tahkik: "— / 20"
+    boyut_2_sosyo_politik_ve_kriz_analizi: "— / 20"
+    boyut_3_dil_guvenligi_ve_tarafsizlik: "— / 20"
+    boyut_4_falsifiabilite_ve_hume_giyotini: "— / 20"
+    boyut_5_kurumsal_tasarim_ve_ozgunluk: "— / 20"
+    toplam_skor: "— / 100"
+  kalite_guvence_statu: "INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)"
+  derkenar_notu: "In accordance with Principle 4 (Role Separation) and Rule L-2507, project leadership (Mehmet Yarıcı — ORCID: 0009-0003-0356-8582), academic advisory (Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643), and quality assurance/source verification (gem_lint.py V1–V17 & V16.2 60/190 internal sample verification) are strictly separated."
+```

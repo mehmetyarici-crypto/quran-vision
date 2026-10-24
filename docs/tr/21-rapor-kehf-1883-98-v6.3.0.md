@@ -831,3 +831,41 @@ Bu monografi, Kur'an-ı Kerim'in Kehf Sûresi 18:83–98 âyetlerinin klasik tef
 | **Metodolojik Rol Ayrımı (İlke 4 / V17)** | Proje yürütücüsü (`Mehmet Yarıcı`) ile akademik danışman (`Mehmet Emin Koç`) rolleri `data/people_registry.yaml` ve `L-2507` kuralları uyarınca kesin olarak ayrılmıştır; iç algoritmik/örneklem denetimi bağımsız dış hakem onayı olarak sunulamaz. |
 | **Bağımsız Dış Hakem Görüşü (Kör Hakemlik)** | `[DIŞ HAKEM DEĞERLENDİRMESİ BEKLENİYOR — PRE-RELEASE]` |
 | **Tarih ve Doğrulama İmzası** | `2026-10-23` • Kriptografik SHA-256 Manifest: `21-rapor-kehf-1883-98-v6.3.0.md.sha256` |
+
+| Akademik Hakem Değerlendirme Boyutu | Kapsam ve Denetim Ölçütü | Rubrik Puanı |
+| :--- | :--- | :--- |
+| **Rapor Künyesi, Danışmanlık ve Kalite Güvencesi** | Rapor: **QV-2026-016 (Kehf 18:83-98)** • Uzmanlık Alanı: *Zülkarneyn Kıssası, Demir-Bakır Kompozit Seddi (Radm), Fütûhât-ı Mekkiyye ve İnsan 2.0 Biyoetik Yönetişim Mimarisi* • Proje Yürütücüsü: **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582`) • Akademik Danışman: **Mehmet Emin Koç** (AMEA, `ORCID: 0000-0002-1025-5643`) • Kalite Güvencesi: **gem_lint.py (V1–V17) & V16.2 İç Örneklem Kontrolü (60/190 — Mehmet Yarıcı)** • Tarih: `2026-10-23` | **ÖN SÜRÜM (Açık Hakemlik)** |
+| **1. Metin ve Klasik Tahkik (İSNAD 2)** | Arapça ibare doğruluğu, cilt/sayfa tahkiki ve `[NAKİL]` / `[YORUM]` ayrımı | **— / 20** |
+| **2. Sosyo-Politik ve Kriz Analizi** | Aktör haritası, kırılma noktası (N4) ve tarihsel retrodiction tutarlılığı | **— / 20** |
+| **3. Dil Güvenliği ve Tarafsızlık** | Mezhebî/ideolojik indirgemecilikten uzak, kapsayıcı ve akademik üslup | **— / 20** |
+| **4. Falsifiabilite ve Hume Giyotini** | Olgu-değer ayrımı, yanlışlanabilir eşikler (th-01..03) ve DOI veri uyumu | **— / 20** |
+| **5. Kurumsal Tasarım ve Özgünlük** | Uygulanabilir politika kolları, TYMM pedagojik uyumu ve Z-1 Aporia derinliği | **— / 20** |
+| **TOPLAM AKADEMİK SKOR** | **Dış Hakem Kararı:** Bağımsız Akademik Hakem Değerlendirmesine Açık | **— / 100** |
+| **Editoryal Derkenar Notu** | İlke 4 (Rol Ayrımı) ve `L-2507` uyarınca proje yürütücülüğü (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), akademik danışmanlık (`Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643`) ve kalite güvencesi/kaynak doğrulama (`gem_lint.py` V1–V17 & V16.2 60/190 iç örneklem kontrolü) rolleri birbirinden kesin olarak ayrılmıştır. | `INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)` |
+
+```yaml
+hakem_degerlendirme_protokolu:
+  rapor_id: "QV-2026-016"
+  sure_ayet: "Kehf 18:83-98"
+  tarih: "2026-10-23"
+  status: "PRE-RELEASE"
+  proje_yurutucusu:
+    ad_soyad: "Mehmet Yarıcı"
+    orcid: "0009-0003-0356-8582"
+  akademik_danisman:
+    ad_soyad: "Mehmet Emin Koç"
+    orcid: "0000-0002-1025-5643"
+    kurum: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
+  kalite_guvencesi_ve_kaynak_dogrulama:
+    motor: "gem_lint.py (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (60/190 Kaynak — Mehmet Yarıcı)"
+    uzmanlik_alani: "Zülkarneyn Kıssası, Demir-Bakır Kompozit Seddi (Radm), Fütûhât-ı Mekkiyye ve İnsan 2.0 Biyoetik Yönetişim Mimarisi"
+  rubrik_puanlamasi:
+    boyut_1_metin_ve_tahkik: "— / 20"
+    boyut_2_sosyo_politik_ve_kriz_analizi: "— / 20"
+    boyut_3_dil_guvenligi_ve_tarafsizlik: "— / 20"
+    boyut_4_falsifiabilite_ve_hume_giyotini: "— / 20"
+    boyut_5_kurumsal_tasarim_ve_ozgunluk: "— / 20"
+    toplam_skor: "— / 100"
+  kalite_guvence_statu: "INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)"
+  derkenar_notu: "İlke 4 (Rol Ayrımı) ve L-2507 uyarınca proje yürütücülüğü (Mehmet Yarıcı — ORCID: 0009-0003-0356-8582), akademik danışmanlık (Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643) ve kalite güvencesi/kaynak doğrulama (gem_lint.py V1–V17 & V16.2 60/190 iç örneklem kontrolü) rolleri birbirinden kesin olarak ayrılmıştır."
+```

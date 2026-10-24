@@ -4,6 +4,24 @@ Bu belgede GEM (Kur'an Temelli Gelecek Vizyonu / Quran Vision) çerçevesinin s�
 
 ---
 
+## [v6.3.0] — 2026-10-24 (16. Kurucu Monografi Kehf 18:83–98, Birleşik Çift Tablolu Z-5 Standardı ve 190/190 Doğrulanmış Kaynak Sicili)
+
+> **Official Release Note:** `v6.3.0: Add 16th foundational monograph QV-2026-016 (Al-Kahf 18:83-98 — Dhul-Qarnayn, Iron-Copper Composite Barrier [Radm], Al-Futuhat al-Makkiyya, and Human 2.0 Bioethical Governance) in Turkish and English (32 TR/EN monographs total), unify Dual-Table Z-5 Academic Governance & 100-Point Peer-Review Rubric across all 32 monographs, expand V16.2 Multi-Server Source Registry to 190/190 verified sources (138 Shamela + 18 Altafsir + 34 Institutional DOI/URL; 60/190 [31.6%] internal sample audit), and compile 38 A4 PDFs.`
+
+### Eklenen ve Güncellenen Hususlar
+- **16. Kurucu Monografi (`QV-2026-016` — Kehf 18:83–98, TR & EN):** *Zülkarneyn Kıssası, Demir-Bakır Kompozit Seddi (Radm), Fütûhât-ı Mekkiyye ve İnsan 2.0 Biyoetik Yönetişim Mimarisi* başlıklı 26 adımlı Türkçe (`docs/tr/21-rapor-kehf-1883-98-v6.3.0.md`) ve İngilizce (`docs/en/21-rapor-kehf-1883-98-en-v6.3.0.md`) monografiler ile A4 PDF'leri (`QV-2026-016.pdf`, `QV-2026-016_EN.pdf`) külliyata eklendi; külliyat **16 Kurucu Rapor (32 TR/EN Monografi)** ve **36 Külliyat PDF'i + 2 Kongre PDF'i = 38 PDF** kapasitesine ulaştı.
+- **Birleşik Çift Tablolu `Z-5` Standardı (32/32 Monografi):** Külliyattaki 16 Türkçe ve 16 İngilizce monografinin tamamında `Z-5` bölümü; (1) *Akademik Yönetişim, Rol Ayrımı (`L-2507`) ve İç Kalite Güvence Künyesi Tablosu* ve (2) *5 Boyutlu 100 Tam Puanlık Açık Akademik Hakemlik Değerlendirme Rubriği Tablosu* ile tek tip standartta birleştirildi.
+- **`V16.2` Çoklu Sunucu Kaynak Sicili (`190/190 VERIFIED`):** [`data/sources_registry.yaml`](data/sources_registry.yaml) sicili **190 doğrulanmış kaynağa** (`138 Şâmile + 18 Altafsir + 34 Kurumsal DOI/URL`) ve **`60/190 (%31.6 >= %10)`** manuel iç örneklem denetimine yükseltildi.
+- **Otomatik Sandbox İzolasyonu ve Canlı Portal (`v6.3.0`):** `src/build_portal.py` içine `IS_SANDBOX` ortam kontrolü eklendi; tüm 32 monografi `gem_lint.py --all` (`32/32 GEÇTİ, 0 BLOCK, 0 WARN`) ve `pytest` (`16/16 PASSED`) kalite kapılarından geçirildi.
+
+---
+
+## [v6.2.3] — 2026-10-20 (Kimlik/Rol Sicili `L-2507` Kilidi ve `v6.2.2` Künye Düzeltmesi)
+
+- **Kişi, Kurum, ORCID ve Rol Ayrımı Sicili (`data/people_registry.yaml` & `V17 / L-2507`):** Proje Yürütücüsü (**Mehmet Yarıcı**, `ORCID: 0009-0003-0356-8582`), Akademik Danışman (**Mehmet Emin Koç** — *AMEA*, `ORCID: 0000-0002-1025-5643`) ve Kalite Güvencesi rolleri algoritmik olarak kilitlendi.
+
+---
+
 ## [v6.2.2] — 2026-10-20 (İrfânî/İşârî Hermenötik Reformu, Lafzî Şâmile `page_id` Mimarisi ve 33. Rehber Belgesi)
 
 > **Official Release Note:** `v6.2.2: Complete Irfani/Sufi Hermeneutics Reform across 15 monographs (Step 13), 100% verbatim classical Arabic quotes with exact page_id Shamela links, comprehensive Hadith/Ayat/Ulama tahrij in body text, addition of 33rd document (ISNAD-2 Classical Arabic Databases Guide authored by Mehmet Yarıcı), and compiled master corpus books.`

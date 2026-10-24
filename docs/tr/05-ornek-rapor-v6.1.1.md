@@ -1,5 +1,5 @@
 ---
-gem_version: "6.2.1"
+gem_version: "6.3.0"
 case_id: "QV-2026-0XX"
 surah: "{{SURE_ADI}}"
 verse: "{{SURE_NO}}:{{AYET_NO}}"
@@ -112,8 +112,8 @@ peer_review:
   academic_advisor: "Mehmet Emin Koç"
   academic_advisor_orcid: "0000-0002-1025-5643"
   academic_advisor_institution: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
-  review_date: "2026-10-20"
-  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (gem_lint.py V1–V17, 0 BLOCK) ve V16.2 iç örneklem kontrolü (51/176 kaynak — Mehmet Yarıcı) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür."
+  review_date: "2026-10-24"
+  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (gem_lint.py V1–V17, 0 BLOCK) ve V16.2 iç örneklem kontrolü (60/190 kaynak — Mehmet Yarıcı) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür."
 ---
 
 # {{SURE_ADI}} Sûresi {{SURE_NO}}:{{AYET_NO}} Tahlili — {{KONU_BASLIGI}}
@@ -125,7 +125,7 @@ peer_review:
 - **Âyet:** {{SURE_ADI}} {{SURE_NO}}:{{AYET_NO}}
 - **Konu Başlığı:** {{KONU_BASLIGI}}
 - **Tarih:** {{TARIH}}
-- **Sürüm:** v6.2.1
+- **Sürüm:** v6.3.0
 - **Katman:** 3 (26 Adım + 5 Makro Faz + Z-1..Z-5)
 - **H6 Durumu:** Evet
 - **Dil:** Türkçe (TR)
@@ -371,7 +371,7 @@ Bu âyetin analitik şablonun sınırlarını aşan özgün aporiası, teolojik 
 
 ### Z-4 · STANDART VE DÜRÜST SINIR İFADESİ [V10 ZORUNLU]
 > **METODOLOJİK VE EPİSTEMİK SINIR BEYANI:**
-> Bu rapor; Kur'an Temelli Gelecek Vizyonu (Quran Vision v6.2.1) mimarisi çerçevesinde üretilmiş analitik ve hermenötik bir modellemedir. Dini bir fetva, kesin kazi bir hüküm veya ilahi muradın eksiksiz ve yegâne tefsiri niteliği taşımaz. Raporda yer alan simülasyonlar, göstergeler ve politika kolları; analistin benimsediği usûl ekolünün ve ampirik varsayımların bir türevidir. Bu metin, kod tabanlı biçimsel iç tutarlılık denetiminden (gem_lint.py) geçmiş olup, bağımsız dış akademik hakem heyeti (peer-review) tarafından tescil edilmedikçe bilimsel kesinlik iddiası barındırmaz.
+> Bu rapor; Kur'an Temelli Gelecek Vizyonu (Quran Vision v6.3.0) mimarisi çerçevesinde üretilmiş analitik ve hermenötik bir modellemedir. Dini bir fetva, kesin kazi bir hüküm veya ilahi muradın eksiksiz ve yegâne tefsiri niteliği taşımaz. Raporda yer alan simülasyonlar, göstergeler ve politika kolları; analistin benimsediği usûl ekolünün ve ampirik varsayımların bir türevidir. Bu metin, kod tabanlı biçimsel iç tutarlılık denetiminden (gem_lint.py) geçmiş olup, bağımsız dış akademik hakem heyeti (peer-review) tarafından tescil edilmedikçe bilimsel kesinlik iddiası barındırmaz.
 
 ---
 
@@ -395,10 +395,52 @@ Bu âyetin analitik şablonun sınırlarını aşan özgün aporiası, teolojik 
 
 ---
 
-### Z-5 · AKRAN DEĞERLENDİRME VE KALİTE GÜVENCE KAYDI [V11 ZORUNLU]
-- **Proje Yürütücüsü & Baş Araştırmacı:** Mehmet Yarıcı (`ORCID: 0009-0003-0356-8582`)
-- **Akademik Danışman:** Mehmet Emin Koç (`ORCID: 0000-0002-1025-5643`) — Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü
-- **Kalite Güvencesi ve Kaynak Doğrulama:** `gem_lint.py` (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı)
-- **İç Denetim Tarihi:** 2026-04-20
-- **Kalite Güvence Statüsü:** `INTERNAL_AUDIT_PASSED (0 BLOCK, 0 WARN) — EXTERNAL_PEER_REVIEW_PENDING`
-- **Metodolojik Not (İlke 4 — Rol Ayrımı):** Proje yürütücülüğü (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), akademik danışmanlık (`Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643`) ve kalite güvence/kaynak doğrulama (`gem_lint.py V1–V17` & V16.2 51/176 iç örneklem kontrolü) mekanizmaları `data/people_registry.yaml` ve `L-2507` kilidiyle kesin olarak ayrılmıştır.
+### Z-5 · BAĞIMSIZ DIŞ HAKEM DEĞERLENDİRME FORMU [ZORUNLU V11]
+
+| Alan / Kriter | Değerlendirme ve Doğrulama Kaydı |
+| :--- | :--- |
+| **Belge Statüsü** | `PRE-RELEASE (Ön Sürüm — Algoritmik İç Tutarlılık ve İç Örneklem Doğrulaması Tamamlandı)` |
+| **Proje Yürütücüsü & Baş Araştırmacı** | **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — Uludağ Üniversitesi İlahiyat Fakültesi, 1989 • T.C. MEB, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi) |
+| **Akademik Danışman** | **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü) |
+| **Kalite Güvencesi ve Kaynak Doğrulama** | `gem_lint.py` (V1–V17 Algoritmik Denetim — `0 BLOCK`) & V16.2 İç Örneklem Kontrolü (`60/190 Kaynak — Mehmet Yarıcı`) |
+| **Metodolojik Rol Ayrımı (İlke 4 / V17)** | Proje yürütücüsü (`Mehmet Yarıcı`) ile akademik danışman (`Mehmet Emin Koç`) rolleri `data/people_registry.yaml` ve `L-2507` kuralları uyarınca kesin olarak ayrılmıştır; iç algoritmik/örneklem denetimi bağımsız dış hakem onayı olarak sunulamaz. |
+| **Bağımsız Dış Hakem Görüşü (Kör Hakemlik)** | `[DIŞ HAKEM DEĞERLENDİRMESİ BEKLENİYOR — PRE-RELEASE]` |
+| **Tarih ve Doğrulama İmzası** | `{{TARIH}}` • Kriptografik SHA-256 Manifest: `checksums.sha256` |
+
+| Akademik Hakem Değerlendirme Boyutu | Kapsam ve Denetim Ölçütü | Rubrik Puanı |
+| :--- | :--- | :--- |
+| **Rapor Künyesi, Danışmanlık ve Kalite Güvencesi** | Rapor: **QV-2026-0XX ({{SURE_ADI}} {{SURE_NO}}:{{AYET_NO}})** • Uzmanlık Alanı: *{{KONU_BASLIGI}}* • Proje Yürütücüsü: **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582`) • Akademik Danışman: **Mehmet Emin Koç** (AMEA, `ORCID: 0000-0002-1025-5643`) • Kalite Güvencesi: **gem_lint.py (V1–V17) & V16.2 İç Örneklem Kontrolü (60/190 — Mehmet Yarıcı)** • Tarih: `{{TARIH}}` | **ÖN SÜRÜM (Açık Hakemlik)** |
+| **1. Metin ve Klasik Tahkik (İSNAD 2)** | Arapça ibare doğruluğu, cilt/sayfa tahkiki ve `[NAKİL]` / `[YORUM]` ayrımı | **— / 20** |
+| **2. Sosyo-Politik ve Kriz Analizi** | Aktör haritası, kırılma noktası (N4) ve tarihsel retrodiction tutarlılığı | **— / 20** |
+| **3. Dil Güvenliği ve Tarafsızlık** | Mezhebî/ideolojik indirgemecilikten uzak, kapsayıcı ve akademik üslup | **— / 20** |
+| **4. Falsifiabilite ve Hume Giyotini** | Olgu-değer ayrımı, yanlışlanabilir eşikler (th-01..03) ve DOI veri uyumu | **— / 20** |
+| **5. Kurumsal Tasarım ve Özgünlük** | Uygulanabilir politika kolları, TYMM pedagojik uyumu ve Z-1 Aporia derinliği | **— / 20** |
+| **TOPLAM AKADEMİK SKOR** | **Dış Hakem Kararı:** Bağımsız Akademik Hakem Değerlendirmesine Açık | **— / 100** |
+| **Editoryal Derkenar Notu** | İlke 4 (Rol Ayrımı) ve `L-2507` uyarınca proje yürütücülüğü (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), akademik danışmanlık (`Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643`) ve kalite güvencesi/kaynak doğrulama (`gem_lint.py` V1–V17 & V16.2 60/190 iç örneklem kontrolü) rolleri birbirinden kesin olarak ayrılmıştır. | `INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)` |
+
+```yaml
+hakem_degerlendirme_protokolu:
+  rapor_id: "QV-2026-0XX"
+  sure_ayet: "{{SURE_ADI}} {{SURE_NO}}:{{AYET_NO}}"
+  tarih: "{{TARIH}}"
+  status: "PRE-RELEASE"
+  proje_yurutucusu:
+    ad_soyad: "Mehmet Yarıcı"
+    orcid: "0009-0003-0356-8582"
+  akademik_danisman:
+    ad_soyad: "Mehmet Emin Koç"
+    orcid: "0000-0002-1025-5643"
+    kurum: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
+  kalite_guvencesi_ve_kaynak_dogrulama:
+    motor: "gem_lint.py (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (60/190 Kaynak — Mehmet Yarıcı)"
+    uzmanlik_alani: "{{KONU_BASLIGI}}"
+  rubrik_puanlamasi:
+    boyut_1_metin_ve_tahkik: "— / 20"
+    boyut_2_sosyo_politik_ve_kriz_analizi: "— / 20"
+    boyut_3_dil_guvenligi_ve_tarafsizlik: "— / 20"
+    boyut_4_falsifiabilite_ve_hume_giyotini: "— / 20"
+    boyut_5_kurumsal_tasarim_ve_ozgunluk: "— / 20"
+    toplam_skor: "— / 100"
+  kalite_guvence_statu: "INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)"
+  derkenar_notu: "İlke 4 (Rol Ayrımı) ve L-2507 uyarınca proje yürütücülüğü (Mehmet Yarıcı — ORCID: 0009-0003-0356-8582), akademik danışmanlık (Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643) ve kalite güvencesi/kaynak doğrulama (gem_lint.py V1–V17 & V16.2 60/190 iç örneklem kontrolü) rolleri birbirinden kesin olarak ayrılmıştır."
+```

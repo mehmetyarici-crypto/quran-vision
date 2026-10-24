@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Quran Vision v6.2.3 — İnteraktif Dijital Külliyat, Akademik Portal ve A4 PDF Üreticisi
+Quran Vision v6.3.0 — İnteraktif Dijital Külliyat, Akademik Portal ve A4 PDF Üreticisi
 Tüm doğrulanmış Quran Vision raporlarını (YAML Frontmatter + 26 Adım Markdown + .sha256 Manifest)
 okuyarak:
 1. İnteraktif HTML5 Akademik Portal (docs/index.html) üretir,
-2. Her bir rapor için bağımsız A4 Akademik PDF (docs/pdf/QV-2026-001.pdf .. 013.pdf) ve
-   13 raporluk Tek Cilt Tam Külliyat PDF'i (docs/pdf/Quran_Vision_Kulliyat_v6.2.3.pdf) üretir.
+2. Her bir rapor için bağımsız A4 Akademik PDF (docs/pdf/QV-2026-001.pdf .. 016.pdf) ve
+   16 raporluk Tek Cilt Tam Külliyat PDF'i (docs/pdf/Quran_Vision_Kulliyat_v6.2.3.pdf) üretir.
 """
 
 import html as html_lib
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -28,10 +29,10 @@ if sys.stdout and hasattr(sys.stdout, "reconfigure"):
         pass
 
 ROOT = Path(__file__).resolve().parent.parent
+IS_SANDBOX = ROOT.name.endswith("-test") or os.environ.get("QV_SANDBOX") == "1"
 DOCS_TR = ROOT / "docs" / "tr"
 DOCS_EN = ROOT / "docs" / "en"
 PDF_DIR = ROOT / "docs" / "pdf"
-DESKTOP_PDF_DIR = ROOT.parent / "QURAN_VISION_PDF_KULLIYAT"
 
 
 def parse_report(md_path: Path):
@@ -361,7 +362,7 @@ def format_z5_yaml_py(yaml_text: str) -> str:
       <tbody>
         <tr>
           <td><strong>Künye, Danışman &amp; Dış Hakem Süreci</strong></td>
-          <td>Rapor: <strong>{rapor_id} ({sure_ayet})</strong> • Proje Yürütücüsü: <strong>Mehmet Yarıcı</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">ORCID: 0009-0003-0356-8582</a>) • Akademik Danışman: <strong>Mehmet Emin Koç</strong> (AMEA, <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">ORCID: 0000-0002-1025-5643</a>) • Kalite Güvencesi: <strong>gem_lint.py (V1–V17) &amp; V16.2 İç Örneklem Kontrolü (51/176 — Mehmet Yarıcı)</strong> • Tarih: {tarih}</td>
+          <td>Rapor: <strong>{rapor_id} ({sure_ayet})</strong> • Proje Yürütücüsü: <strong>Mehmet Yarıcı</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">ORCID: 0009-0003-0356-8582</a>) • Akademik Danışman: <strong>Mehmet Emin Koç</strong> (AMEA, <a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">ORCID: 0000-0002-1025-5643</a>) • Kalite Güvencesi: <strong>gem_lint.py (V1–V17) &amp; V16.2 İç Örneklem Kontrolü (60/190 — Mehmet Yarıcı)</strong> • Tarih: {tarih}</td>
           <td><strong>ÖN SÜRÜM (Açık Hakemlik)</strong></td>
         </tr>
         <tr>
@@ -420,7 +421,8 @@ def render_markdown_py(md: str, fn_prefix: str = "") -> str:
                 in_code = False
                 raw_code = "\n".join(code_buf)
                 if "hakem_degerlendirme_protokolu:" in raw_code:
-                    out.append(format_z5_yaml_py(raw_code))
+                    if "Akademik Hakem Değerlendirme Boyutu" not in md and "Academic Peer-Review Evaluation Dimension" not in md:
+                        out.append(format_z5_yaml_py(raw_code))
                 else:
                     out.append("<pre><code>" + html_lib.escape(raw_code) + "</code></pre>")
             continue
@@ -948,9 +950,6 @@ def stamp_pdf_metadata(pdf_path: Path, title: str, subject: str):
 def build_isnad2_guide_pdf(browser: str, rebuild_all: bool = False):
     """33. Belge: docs/pdf/ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf dosyasını A4 formatında derler."""
     out_pdf = PDF_DIR / "ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf"
-    DESKTOP_PDF_DIR.mkdir(parents=True, exist_ok=True)
-    parent_pdf_dir = ROOT.parent / "pdf"
-    parent_pdf_dir.mkdir(parents=True, exist_ok=True)
 
     guide_title = "İSNAD-2 Klasik Arapça Dijital Veri Tabanları ve Tahkik Rehberi | Mehmet Yarıcı (2026) — Quran Vision v6.2.3"
     guide_subj = (
@@ -1133,7 +1132,7 @@ def build_isnad2_guide_pdf(browser: str, rebuild_all: bool = False):
               <li><strong>Madde 2 — Nokta Atışı Sayfa ID (<code>page_id</code>) ve Fihrist/Cilt Eşleşme Kilidi (<code>L-0107</code> &amp; <code>L-2501..L-2502 BLOCK</code>):</strong> Genel kitap kapağı linkleri yasaktır; <code>shamela.ws/book/&lt;book_id&gt;/&lt;page_id&gt;</code> bağlantıları kümülatif cilt ofsetini (örn. Gazzâlî <em>İhyâ</em> C.3 s.186 için C.1 Cuma namazı sayfası olan <code>9472/186</code> yerine <em>Rub'u'l-Mühlikât</em> sayfası olan <code>9472/932</code>) ve <code>altafsir.com</code> bağlantıları doğru müfessir parametresini (Kuşeyrî için <code>tMadhNo=3&amp;tTafsirNo=31</code>) göstermek zorundadır.</li>
               <li><strong>Madde 3 — Gövde Metni Tahrîc ve Parantez Standardı:</strong> Metin içindeki tüm hadisler <em>Kütüb-i Sitte</em> tahrîciyle (Buhârî, Müslim vb.), âyetler standart <code>(Sûre Adı No/Âyet No)</code> paranteziyle, ulemâ/sahâbe kavilleri ise İSNAD 2 matbu cilt/sayfa ve dijital bağlantısıyla belgelenmelidir.</li>
               <li><strong>Madde 4 — Adım 13 Üçlü İrfânî Bütünlük (<code>L-2301..L-2303 BLOCK</code>):</strong> <code>### ADIM 13</code> (veya <code>### STEP 13</code>) mutlaka <code>13.1 (Enfüsî-Âfâkî Diyalektik)</code>, <code>13.2 (Kalp Fıkhı / Bâtınî İlletler)</code> ve <code>13.3 (Klasik İşârî Tahrîc — Kuşeyrî, Gazzâlî, Muhâsibî, Tüsterî, İbn Acîbe metni)</code> alt başlıklarıyla birleşik olarak yazılmalıdır.</li>
-              <li><strong>Madde 5 — Tek Doğruluk Sicili, Rol Ayrımı (<code>&gt;= 0.10</code> Manuel Örneklem) ve 90 Gün Tazelik Denetimi (<code>L-2504..L-2506</code>):</strong> Tek doğruluk kaynağı <code>data/sources_registry.yaml</code> dosyasıdır (<code>docs/source_verification_manifest.json</code> ise salt-okunur arayüz türevidir). <code>[2026-10-20] itibarıyla incelenen [176/176] kayıt (127 Şâmile + 15 Altafsir + 34 Kurumsal DOI/URL), [Fihrist + Lafzî Eşleşme + &gt;=0.10 Manuel Örneklem (51/176 = 0.29)] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün.</code></li>
+              <li><strong>Madde 5 — Tek Doğruluk Sicili, Rol Ayrımı (<code>&gt;= 0.10</code> Manuel Örneklem) ve 90 Gün Tazelik Denetimi (<code>L-2504..L-2506</code>):</strong> Tek doğruluk kaynağı <code>data/sources_registry.yaml</code> dosyasıdır (<code>docs/source_verification_manifest.json</code> ise salt-okunur arayüz türevidir). <code>[2026-10-20] itibarıyla incelenen [190/190] kayıt (138 Şâmile + 18 Altafsir + 34 Kurumsal DOI/URL), [Fihrist + Lafzî Eşleşme + &gt;=0.10 Manuel Örneklem (60/190 = 0.32)] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün.</code></li>
             </ol>
           </section>
         </article>
@@ -1159,7 +1158,6 @@ def build_tymm_pedagogy_guide_pdf(browser: str, reports: list, rebuild_all: bool
     ve Öğrenci Çıkış Kartlarını içeren bağımsız EBA/Zümre Öğretmen Kılavuzu PDF'ini üretir.
     """
     out_pdf = PDF_DIR / "TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf"
-    parent_pdf_dir = ROOT.parent / "pdf"
     guide_title = "Türkiye Yüzyılı Maarif Modeli (TYMM) DKAB ve İHL Meslek Dersleri 15 Kurucu Âyet Ders Tasarımı Rehberi (Mehmet Yarıcı, 2026)"
     guide_subj = (
         "TYMM DKAB & İHL Meslek Dersleri 15 Kurucu Âyet 40 Dakikalık Ders Tasarımı Rehberi (TTKB 2026 Karar No: 4 & 5 Uyumlu) • "
@@ -1286,7 +1284,7 @@ def generate_all_pdfs(reports: list):
                 stamp_pdf_metadata(out_pdf, tr_title, tr_subj)
                 print(f"  📄 Yeni TR PDF üretildi: {out_pdf.name} ({out_pdf.stat().st_size // 1024} KB)")
         legacy_tr_pdf = PDF_DIR / f"{r['case_id']}.pdf"
-        if out_pdf.exists() and legacy_tr_pdf != out_pdf and not legacy_tr_pdf.exists():
+        if out_pdf.exists() and legacy_tr_pdf != out_pdf:
             shutil.copy2(out_pdf, legacy_tr_pdf)
 
         # 2. English Report HTML (fn_prefix="" for standalone PDF, fn_prefix=f"r{idx}-" for combined book)
@@ -1315,7 +1313,7 @@ def generate_all_pdfs(reports: list):
                 stamp_pdf_metadata(out_pdf_en, en_title, en_subj)
                 print(f"  🇬🇧 Yeni EN PDF üretildi: {out_pdf_en.name} ({out_pdf_en.stat().st_size // 1024} KB)")
         legacy_en_pdf = PDF_DIR / f"{r['case_id']}_EN.pdf"
-        if out_pdf_en.exists() and legacy_en_pdf != out_pdf_en and not legacy_en_pdf.exists():
+        if out_pdf_en.exists() and legacy_en_pdf != out_pdf_en:
             shutil.copy2(out_pdf_en, legacy_en_pdf)
 
     last_code = reports[-1]["case_id"] if reports else "QV-2026-015"
@@ -1536,7 +1534,7 @@ def build_source_verification_manifest() -> dict:
         "manual_sample_ratio": ratio,
         "methodological_note_principle_4": str(
             raw_reg.get("methodological_note_principle_4")
-            or "Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiş, akademik danışmanlık süreci Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü; ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür."
+            or "Metodolojik Not (İlke 4 — Rol Ayrımı): 60/190 (%31.6) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiş, akademik danışmanlık süreci Mehmet Emin Koç (Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü; ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür."
         ),
         "epistemic_statement_tr": epistemic_tr,
         "epistemic_statement_en": epistemic_en,
@@ -1554,13 +1552,30 @@ def build_html(reports, source_manifest=None):
     source_manifest_json = json.dumps(source_manifest, ensure_ascii=False)
     total_classical = sum(len(r["classical_sources"]) for r in reports)
     total_modern = sum(len(r["modern_sources"]) for r in reports)
+    title_prefix = "[SANDBOX] " if IS_SANDBOX else ""
+    sandbox_badge_html = (
+        '        <span id="sandboxEnvBadge" style="display:inline-flex; align-items:center; gap:6px; background:#D97706; color:#FFFFFF; font-weight:700; font-size:12px; padding:6px 12px; border-radius:8px; white-space:nowrap; letter-spacing:0.3px;">🧪 SANDBOX TEST ORTAMI (v6.3.0-beta.1 | localhost:8080)</span>\n'
+        if IS_SANDBOX
+        else ""
+    )
+    sandbox_lang_js = (
+        """  const sandboxBadge = document.getElementById('sandboxEnvBadge');
+  if (sandboxBadge) {
+    sandboxBadge.textContent = isEn
+      ? '🧪 SANDBOX TEST ENV (v6.3.0-beta.1 | localhost:8080)'
+      : '🧪 SANDBOX TEST ORTAMI (v6.3.0-beta.1 | localhost:8080)';
+  }
+"""
+        if IS_SANDBOX
+        else ""
+    )
 
     html = f"""<!DOCTYPE html>
 <html lang="tr" data-theme="dark">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>[SANDBOX] KUR’ÂN VİZYONU • QURAN VISION CORPUS (v6.2.3) — 26-Step Strategic Tafsir & Foresight</title>
+<title>{title_prefix}KUR’ÂN VİZYONU • QURAN VISION CORPUS (v6.3.0) — 26-Step Strategic Tafsir & Foresight</title>
 <meta name="description" content="Bilingual (TR/EN) 26-Step Evidence-Based Strategic Tafsir, Maqasid & Civilization Foresight Corpus. {len(reports)} Foundational Verse Reports, {total_classical} Primary Arabic ISNAD 2 Citations, {total_modern} Empirical DOI Datasets & 40-Min TYMM Lesson Plans.">
 <meta name="keywords" content="Quran Vision, Kur'an Vizyonu, Strategic Tafsir, Stratejik Tefsir, Maqasid al-Shariah, ISNAD 2, Bayesian Policy Modeling, TYMM Ders Planı, Islamic Studies, Mehmet Yarıcı">
 <meta name="author" content="Mehmet Yarıcı — Quran Vision Institute">
@@ -1569,7 +1584,7 @@ def build_html(reports, source_manifest=None):
 <!-- OpenGraph / LinkedIn / WhatsApp / Facebook Rich Preview -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="QURAN VISION INSTITUTE • KUR’ÂN VİZYONU KÜLLİYATI">
-<meta property="og:title" content="🏛️ QURAN VISION CORPUS (v6.2.3) — Bilingual Strategic Tafsir & Foresight ({len(reports)} Reports)">
+<meta property="og:title" content="🏛️ QURAN VISION CORPUS (v6.3.0) — Bilingual Strategic Tafsir & Foresight ({len(reports)} Reports)">
 <meta property="og:description" content="{len(reports)} Foundational Quranic Verse Monographs (TR & EN) • {total_classical} Verified Classical Arabic Citations (ISNAD 2) • {total_modern} Empirical Institutional Datasets (DOI) • 2026–2036 Bayesian Scenarios & A4 PDF Books.">
 <meta property="og:url" content="https://mehmetyarici-crypto.github.io/quran-vision/">
 <meta property="og:locale" content="tr_TR">
@@ -1577,15 +1592,15 @@ def build_html(reports, source_manifest=None):
 
 <!-- Twitter / X Rich Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="🏛️ QURAN VISION CORPUS (v6.2.3) — Strategic Tafsir & Civilization Foresight (TR/EN)">
+<meta name="twitter:title" content="🏛️ QURAN VISION CORPUS (v6.3.0) — Strategic Tafsir & Civilization Foresight (TR/EN)">
 <meta name="twitter:description" content="{len(reports)} Bilingual 26-Step Verse Reports • {total_classical} ISNAD 2 Classical Citations • {total_modern} Empirical DOI Datasets • Standalone TR/EN A4 PDFs.">
 
 <!-- Google Scholar / Highwire Press Academic Indexing Meta Tags -->
-<meta name="citation_title" content="Quran Vision Corpus (Kur'ân Vizyonu Külliyatı): 26-Step Evidence-Based Strategic Tafsir, Maqasid and Civilization Foresight Corpus (v6.2.3)">
+<meta name="citation_title" content="Quran Vision Corpus (Kur'ân Vizyonu Külliyatı): 26-Step Evidence-Based Strategic Tafsir, Maqasid and Civilization Foresight Corpus (v6.3.0)">
 <meta name="citation_author" content="Yarıcı, Mehmet">
 <meta name="citation_author_institution" content="Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi">
 <meta name="citation_author_orcid" content="0009-0003-0356-8582">
-<meta name="citation_publication_date" content="2026/10/15">
+<meta name="citation_publication_date" content="2026/10/24">
 <meta name="citation_publisher" content="Zenodo / Quran Vision Institute">
 <meta name="citation_doi" content="10.5281/zenodo.23410818">
 <meta name="citation_pdf_url" content="https://mehmetyarici-crypto.github.io/quran-vision/pdf/Quran_Vision_Corpus_EN_v6.2.3.pdf">
@@ -1596,11 +1611,11 @@ def build_html(reports, source_manifest=None):
 {{
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "name": "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı) v6.2.3",
+  "name": "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı) v6.3.0",
   "alternateName": "26-Step Evidence-Based Strategic Tafsir, Maqasid & Civilization Foresight Corpus",
   "identifier": "https://doi.org/10.5281/zenodo.23410818",
   "description": "Bilingual (Turkish/English) academic corpus of {len(reports)} foundational Quranic verse monographs integrating {total_classical} primary Arabic classical tafsir citations (ISNAD 2) with {total_modern} contemporary empirical datasets (APA 7 / DOI) and 2026-2036 Bayesian policy simulations.",
-  "version": "6.2.3",
+  "version": "6.3.0",
   "url": "https://mehmetyarici-crypto.github.io/quran-vision/",
   "sameAs": [
     "https://doi.org/10.5281/zenodo.23391192",
@@ -2561,7 +2576,7 @@ a.fn-backref:hover {{
 <aside id="sidebar" class="sidebar">
   <div class="brand">
     <div class="brand-top-row">
-      <div class="brand-badge" id="brandBadge">🏛️ QURAN VISION ENSTİTÜSÜ • v6.2.3</div>
+      <div class="brand-badge" id="brandBadge">🏛️ QURAN VISION ENSTİTÜSÜ • v6.3.0</div>
     </div>
     <div class="brand-identity">
       <div class="brand-crest">
@@ -2600,8 +2615,7 @@ a.fn-backref:hover {{
         </svg>
       </button>
       <div class="stats-bar" id="statsBar">
-        <span id="sandboxEnvBadge" style="display:inline-flex; align-items:center; gap:6px; background:#D97706; color:#FFFFFF; font-weight:700; font-size:12px; padding:6px 12px; border-radius:8px; white-space:nowrap; letter-spacing:0.3px;">🧪 SANDBOX TEST ORTAMI (v6.3.0-beta.1 | localhost:8080)</span>
-        <a id="liveStatsPill" class="stat-pill" href="https://zenodo.org/records/23410818" target="_blank" rel="noopener" style="text-decoration:none; border-color:var(--accent-emerald);">
+{sandbox_badge_html}        <a id="liveStatsPill" class="stat-pill" href="https://zenodo.org/records/23410818" target="_blank" rel="noopener" style="text-decoration:none; border-color:var(--accent-emerald);">
           👁️ <strong id="liveViewsVal">117</strong> <span id="liveViewsLbl">Görüntülenme</span> &nbsp;•&nbsp; 📥 <strong id="liveDownloadsVal">14</strong> <span id="liveDownloadsLbl">İndirme</span>
         </a>
         <a class="stat-pill" href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" style="text-decoration:none; border-color:var(--accent-gold-border);">
@@ -2966,15 +2980,9 @@ function setLanguage(lang) {{
   document.documentElement.setAttribute('lang', currentLang);
 
   const isEn = currentLang === 'en';
-  const sandboxBadge = document.getElementById('sandboxEnvBadge');
-  if (sandboxBadge) {{
-    sandboxBadge.textContent = isEn
-      ? '🧪 SANDBOX TEST ENV (v6.3.0-beta.1 | localhost:8080)'
-      : '🧪 SANDBOX TEST ORTAMI (v6.3.0-beta.1 | localhost:8080)';
-  }}
-  document.getElementById('brandBadge').textContent = isEn
-    ? '🏛️ QURAN VISION INSTITUTE • v6.2.3'
-    : '🏛️ QURAN VISION ENSTİTÜSÜ • v6.2.3';
+{sandbox_lang_js}  document.getElementById('brandBadge').textContent = isEn
+    ? '🏛️ QURAN VISION INSTITUTE • v6.3.0'
+    : '🏛️ QURAN VISION ENSTİTÜSÜ • v6.3.0';
   document.getElementById('brandTitle').textContent = isEn
     ? 'QURAN VISION CORPUS'
     : 'KUR’ÂN VİZYONU';
@@ -3059,7 +3067,7 @@ function selectReport(idx) {{
   const activePdfFile = isEn ? (r.pdf_filename_en || r.pdf_filename) : r.pdf_filename;
   const activeMdPath = isEn ? `docs/en/${{r.filename_en || r.filename}}` : `docs/tr/${{r.filename}}`;
 
-  document.title = `[SANDBOX] ${{r.case_id}} - ${{surahDisp}} ${{r.verse}} - Quran Vision v6.2.3`;
+  document.title = `{title_prefix}${{r.case_id}} - ${{surahDisp}} ${{r.verse}} - Quran Vision v6.3.0`;
   const dlBtn = document.getElementById('downloadPdfBtn');
   if (dlBtn) {{
     dlBtn.href = `pdf/${{activePdfFile}}`;
@@ -3087,15 +3095,15 @@ function selectReport(idx) {{
         <div style="font-size:11.5px; color:var(--text-secondary); line-height:1.55; padding:6px 10px; border-left:2px solid var(--accent-emerald); background:var(--bg-card); border-radius:4px; margin:4px 0;">
           ⚖️ <strong>${{isEn ? 'Quality Assurance, Source Verification & Role Separation (Principle 4 / L-2507):' : 'Kalite Güvencesi, Kaynak Doğrulama ve Rol Ayrımı (İlke 4 / L-2507):'}}</strong>
           ${{isEn
-            ? 'Quality Assurance & Source Verification: <strong><code>gem_lint.py</code> (V1–V17 Algorithmic Audit) &amp; V16.2 Internal Sample Audit (51/176 Sources — Mehmet Yarıcı)</strong>. Project leadership (Mehmet Yarıcı), academic advisory (Mehmet Emin Koç — AMEA), and algorithmic quality assurance are strictly separated via <code>data/people_registry.yaml</code> and <code>L-2507</code>.'
-            : 'Kalite Güvencesi ve Kaynak Doğrulama: <strong><code>gem_lint.py</code> (V1–V17 Algoritmik Denetim) &amp; V16.2 İç Örneklem Kontrolü (51/176 Kaynak — Mehmet Yarıcı)</strong>. Proje yürütücülüğü (Mehmet Yarıcı), akademik danışmanlık (Mehmet Emin Koç — AMEA) ve algoritmik kalite güvencesi rolleri <code>data/people_registry.yaml</code> ve <code>L-2507</code> kilidiyle kesin olarak ayrılmıştır.'}}
+            ? 'Quality Assurance & Source Verification: <strong><code>gem_lint.py</code> (V1–V17 Algorithmic Audit) &amp; V16.2 Internal Sample Audit (60/190 Sources — Mehmet Yarıcı)</strong>. Project leadership (Mehmet Yarıcı), academic advisory (Mehmet Emin Koç — AMEA), and algorithmic quality assurance are strictly separated via <code>data/people_registry.yaml</code> and <code>L-2507</code>.'
+            : 'Kalite Güvencesi ve Kaynak Doğrulama: <strong><code>gem_lint.py</code> (V1–V17 Algoritmik Denetim) &amp; V16.2 İç Örneklem Kontrolü (60/190 Kaynak — Mehmet Yarıcı)</strong>. Proje yürütücülüğü (Mehmet Yarıcı), akademik danışmanlık (Mehmet Emin Koç — AMEA) ve algoritmik kalite güvencesi rolleri <code>data/people_registry.yaml</code> ve <code>L-2507</code> kilidiyle kesin olarak ayrılmıştır.'}}
         </div>
         <div class="sha-bar">
           🔒 <strong>${{isEn ? 'External SHA-256 Digest (V4):' : 'Harici SHA-256 Özeti (V4):'}}</strong> <code>${{isEn ? (r.sha256_en || r.sha256) : r.sha256}}</code>
           &nbsp;|&nbsp; 📄 <code>${{activeMdPath}}.sha256</code>
           &nbsp;|&nbsp; 📋 <a href="https://github.com/mehmetyarici-crypto/quran-vision/blob/main/SHA256SUMS.txt" target="_blank" rel="noopener" style="color:var(--accent-emerald); font-weight:600;">SHA256SUMS.txt</a>
           &nbsp;|&nbsp; 💻 <code>sha256sum -c SHA256SUMS.txt</code>
-          &nbsp;|&nbsp; 🏛️ <strong>DOI (v6.2.3):</strong> <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" style="color:var(--accent-gold);">10.5281/zenodo.23410818</a> <span style="opacity:0.8;">(Concept: <a href="https://doi.org/10.5281/zenodo.23391192" target="_blank" rel="noopener" style="color:var(--accent-emerald);">10.5281/zenodo.23391192</a>)</span>
+          &nbsp;|&nbsp; 🏛️ <strong>DOI (v6.3.0):</strong> <a href="https://doi.org/10.5281/zenodo.23410818" target="_blank" rel="noopener" style="color:var(--accent-gold);">10.5281/zenodo.23410818</a> <span style="opacity:0.8;">(Concept: <a href="https://doi.org/10.5281/zenodo.23391192" target="_blank" rel="noopener" style="color:var(--accent-emerald);">10.5281/zenodo.23391192</a>)</span>
           <div style="font-size:11px; color:var(--text-muted); margin-top:3px;">
             ${{isEn
               ? 'ℹ️ V4 Cryptographic Discipline: To prevent a self-referential hash paradox, cryptographic digests are never embedded inside the report body; they are stored in external .sha256 manifests and the root SHA256SUMS.txt ledger.'
@@ -3548,7 +3556,7 @@ function renderSynthesisTab() {{
       </div>
 
       <div class="panel">
-        <h3><span>🏛️ ${{isEn ? 'Methodological Architecture Summary' : 'Metodolojik Mimari Özeti'}}</span><span>v6.2.3</span></h3>
+        <h3><span>🏛️ ${{isEn ? 'Methodological Architecture Summary' : 'Metodolojik Mimari Özeti'}}</span><span>v6.3.0</span></h3>
         <div class="source-card">
           <div class="source-author">${{isEn ? `1. ISNAD 2 Classical Tafsir Verification (${{TOTAL_CLASSICAL}} Primary Citations)` : `1. İSNAD 2 Klasik Tefsir Tahkiki (${{TOTAL_CLASSICAL}} Arapça Nakil)`}}</div>
           <div class="source-meta">${{isEn
@@ -3597,8 +3605,8 @@ function renderSynthesisTab() {{
       </h3>
       <div style="font-size:13px; color:var(--text-secondary); line-height:1.65; margin-bottom:10px;">
         ${{isEn
-          ? `All <strong>${{REPORTS.length}} foundational monographs (${{REPORTS.length}} TR + ${{REPORTS.length}} EN = ${{REPORTS.length * 2}} reports)</strong> have been verified by <code>src/gem_lint.py</code> (V1–V16, <code>L-0100..L-2506</code>) with <strong>0 Block Errors (KESİCİ HATA: 0)</strong>. <strong>Epistemic Verification Statement (Zero Principle 3):</strong> <em>${{(activeSourceManifest && activeSourceManifest.epistemic_statement_en) || 'As of [2026-10-20], [176/176] inspected records have been verified via [Breadcrumb Index + Verbatim Quote Match + >=0.10 Manual Sample] and [SHA-256 Snapshot] digest; re-verification period: 90 days.'}}</em>`
-          : `Külliyattaki <strong>${{REPORTS.length}} kurucu monografinin tamamı (${{REPORTS.length}} TR + ${{REPORTS.length}} EN = ${{REPORTS.length * 2}} rapor)</strong>, <code>src/gem_lint.py</code> (V1–V16, <code>L-0100..L-2506</code>) doğrulama motoru tarafından denetlenmiş ve <strong>0 Kesici Hata (BLOCK: 0)</strong> ile tescil edilmiştir. <strong>Epistemik Doğrulama Beyanı (Sıfır İlke 3):</strong> <em>${{(activeSourceManifest && activeSourceManifest.epistemic_statement_tr) || '[2026-10-20] itibarıyla incelenen [176/176] kayıt, [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün.'}}</em>`}}
+          ? `All <strong>${{REPORTS.length}} foundational monographs (${{REPORTS.length}} TR + ${{REPORTS.length}} EN = ${{REPORTS.length * 2}} reports)</strong> have been verified by <code>src/gem_lint.py</code> (V1–V16, <code>L-0100..L-2506</code>) with <strong>0 Block Errors (KESİCİ HATA: 0)</strong>. <strong>Epistemic Verification Statement (Zero Principle 3):</strong> <em>${{(activeSourceManifest && activeSourceManifest.epistemic_statement_en) || 'As of [2026-10-20], [190/190] inspected records have been verified via [Breadcrumb Index + Verbatim Quote Match + >=0.10 Manual Sample] and [SHA-256 Snapshot] digest; re-verification period: 90 days.'}}</em>`
+          : `Külliyattaki <strong>${{REPORTS.length}} kurucu monografinin tamamı (${{REPORTS.length}} TR + ${{REPORTS.length}} EN = ${{REPORTS.length * 2}} rapor)</strong>, <code>src/gem_lint.py</code> (V1–V16, <code>L-0100..L-2506</code>) doğrulama motoru tarafından denetlenmiş ve <strong>0 Kesici Hata (BLOCK: 0)</strong> ile tescil edilmiştir. <strong>Epistemik Doğrulama Beyanı (Sıfır İlke 3):</strong> <em>${{(activeSourceManifest && activeSourceManifest.epistemic_statement_tr) || '[2026-10-20] itibarıyla incelenen [190/190] kayıt, [Fihrist + Lafzî Eşleşme + >=0.10 Manuel Örneklem] yöntemi ve [SHA-256 Snapshot] özetiyle doğrulanmıştır; yeniden doğrulama periyodu: 90 gün.'}}</em>`}}
       </div>
       <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center; font-size:12px;">
         <a class="btn btn-primary" href="https://github.com/mehmetyarici-crypto/quran-vision/blob/main/LINTER_AUDIT_REPORT.md" target="_blank" rel="noopener">📋 ${{isEn ? 'View Official LINTER_AUDIT_REPORT.md' : 'Resmi LINTER_AUDIT_REPORT.md Tutanağını Aç'}}</a>
@@ -4052,7 +4060,7 @@ function formatInlineMd(str, seenFnRefs = null) {{
   return s;
 }}
 
-function formatZ5YamlJs(rawYaml) {{
+function formatZ5YamlJs(rawYaml, onlyActionBanner = false) {{
   const isEn = currentLang === 'en';
   const data = {{}};
   rawYaml.split('\\n').forEach(line => {{
@@ -4071,6 +4079,19 @@ function formatZ5YamlJs(rawYaml) {{
     ? 'Produced in full compliance with Quran Vision v6.2.3 ISNAD 2 and APA 7 / DOI standards; open for independent external academic peer review.'
     : 'Rapor Quran Vision v6.2.3 İSNAD 2 akademik atıf standartlarına tam uyumlu teknik ön sürüm olarak üretilmiş olup, bağımsız dış akademik hakem incelemesine hazır durumdadır.');
   notu = formatInlineMd(notu.replace(/v6\\.1\\.1 ve v6\\.2\\.1/g, 'v6.2.3').replace(/v6\\.1\\.1/g, 'v6.2.3'));
+  if (onlyActionBanner) {{
+    return `
+      <div id="z5-peer-review-card" style="border:1px solid var(--accent-gold-border); background:var(--bg-surface); border-radius:12px; padding:14px 18px; margin:14px 0; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px;">
+        <div>
+          <span class="badge badge-gold">${{isEn ? '🏛️ ACADEMIC INTEGRITY & OPEN PEER-REVIEW PROTOCOL (Z-5)' : '🏛️ AKADEMİK DÜRÜSTLÜK & AÇIK HAKEMLİK PROTOKOLÜ (Z-5)'}}</span>
+          <span class="badge badge-emerald" style="margin-left:6px;">${{raporId}} • ${{sureAyet}}</span>
+        </div>
+        <button class="btn btn-gold" style="padding:7px 14px; font-size:12.5px;" onclick="openFeedbackTab()">
+          ✍️ ${{isEn ? 'Submit Peer Review / Commentary for This Report' : 'Bu Rapor İçin Hakem Şerhi / Değerlendirme Gönder'}}
+        </button>
+      </div>
+    `;
+  }}
   return `
     <div id="z5-peer-review-card" style="border:1px solid var(--accent-gold-border); background:var(--bg-surface); border-radius:12px; padding:18px 20px; margin:18px 0;">
       <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:14px;">
@@ -4093,7 +4114,7 @@ function formatZ5YamlJs(rawYaml) {{
         <tbody>
           <tr>
             <td><strong>${{isEn ? 'Project Lead, Advisor & Quality Assurance' : 'Yürütücü, Danışman & Kalite Güvencesi'}}</strong></td>
-            <td><strong>Mehmet Yarıcı</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>) • ${{isEn ? 'Academic Advisor' : 'Akademik Danışman'}}: <strong>Mehmet Emin Koç — AMEA</strong> (<a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) • ${{isEn ? 'Algorithmic & Sample Audit' : 'Algoritmik & Örneklem Denetimi'}}: <strong>gem_lint.py (V1–V17) &amp; V16.2 (51/176)</strong> • ${{isEn ? 'Date' : 'Tarih'}}: <strong>${{tarih}}</strong></td>
+            <td><strong>Mehmet Yarıcı</strong> (<a href="https://orcid.org/0009-0003-0356-8582" target="_blank" rel="noopener" class="orcid-link">0009-0003-0356-8582</a>) • ${{isEn ? 'Academic Advisor' : 'Akademik Danışman'}}: <strong>Mehmet Emin Koç — AMEA</strong> (<a href="https://orcid.org/0000-0002-1025-5643" target="_blank" rel="noopener" class="orcid-link">0000-0002-1025-5643</a>) • ${{isEn ? 'Algorithmic & Sample Audit' : 'Algoritmik & Örneklem Denetimi'}}: <strong>gem_lint.py (V1–V17) &amp; V16.2 (60/190)</strong> • ${{isEn ? 'Date' : 'Tarih'}}: <strong>${{tarih}}</strong></td>
             <td><span class="badge badge-gold">${{isEn ? 'OPEN PEER REVIEW' : 'AÇIK HAKEMLİK'}}</span></td>
           </tr>
           <tr>
@@ -4156,7 +4177,8 @@ function renderMarkdown(md) {{
         inCode = false;
         const rawCode = codeBuf.join('\\n');
         if (rawCode.includes('hakem_degerlendirme_protokolu:')) {{
-          html += formatZ5YamlJs(rawCode);
+          const hasInlineRubricTable = md.includes('Akademik Hakem Değerlendirme Boyutu') || md.includes('Academic Peer-Review Evaluation Dimension');
+          html += formatZ5YamlJs(rawCode, hasInlineRubricTable);
         }} else {{
           const escaped = rawCode.replace(/</g, '&lt;').replace(/>/g, '&gt;');
           html += `<pre><code>${{escaped}}</code></pre>`;
@@ -4483,7 +4505,7 @@ function renderStartupAuditUI() {{
         <em>${{epStatement}}</em>
       </div>
       <div style="font-size:11.5px; color:var(--text-muted); line-height:1.5; margin-bottom:10px; padding:6px 10px; background:var(--bg-card); border-left:3px solid var(--accent-gold); border-radius:4px;">
-        📦 <strong>PDF Envanteri:</strong> 34 Külliyat PDF'i (30 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 36 PDF<br>⚖️ ${{m.methodological_note_principle_4 || 'Metodolojik Not (İlke 4 — Rol Ayrımı): 51/176 (%29.0) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiş, akademik danışmanlık süreci Mehmet Emin Koç (AMEA; ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür.'}}
+        📦 <strong>PDF Envanteri:</strong> 36 Külliyat PDF'i (32 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.2.3] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 2 III. Maarif Kongresi (MOIJUB) Bildiri PDF'i (Özet + Tam Metin) — Toplam 38 PDF<br>⚖️ ${{m.methodological_note_principle_4 || 'Metodolojik Not (İlke 4 — Rol Ayrımı): 60/190 (%31.6) kaynaklık manuel örneklem kontrolü (Gazzâlî C.3 s.186 -> 9472/932 cilt ofseti düzeltmesi dahil) proje yürütücüsü Mehmet Yarıcı (ORCID: 0009-0003-0356-8582) tarafından iç denetim (Internal Sample Audit) olarak gerçekleştirilmiş, akademik danışmanlık süreci Mehmet Emin Koç (AMEA; ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür.'}}
       </div>
       <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center; font-size:12px;">
         <span class="badge badge-mono">🕌 shamela.ws: ${{shamelaCnt}}/${{shamelaCnt}} VERIFIED</span>
@@ -4565,6 +4587,12 @@ def main():
     out1 = ROOT / "docs" / "index.html"
     out1.write_text(html, encoding="utf-8")
     print(f"✅ Portal üretildi: {out1} ({len(reports)} rapor)")
+    if not IS_SANDBOX:
+        out2 = ROOT.parent / "GEM_DIJITAL_KULLIYAT_PORTALI.html"
+        out3 = ROOT.parent / "QURAN_VISION_KULLIYAT_PORTALI.html"
+        out2.write_text(html, encoding="utf-8")
+        out3.write_text(html, encoding="utf-8")
+        print(f"✅ Masaüstü hızlı erişim kopyaları: {out2.name}, {out3.name}")
 
     if "--html-only" in sys.argv:
         print("ℹ️ --html-only modu: A4 PDF basımı atlandı.")

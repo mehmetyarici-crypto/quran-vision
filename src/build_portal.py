@@ -1734,12 +1734,12 @@ body {{
   height: 100vh;
   overflow: hidden;
   line-height: 1.65;
-  --sidebar-width: 360px;
+  --sidebar-width: 380px;
 }}
 /* Sidebar & Collapsible / Resizable Reader Mode */
 #sidebar, .sidebar {{
-  width: var(--sidebar-width, 360px);
-  min-width: var(--sidebar-width, 360px);
+  width: var(--sidebar-width, 380px);
+  min-width: var(--sidebar-width, 380px);
   max-width: 550px;
   background: var(--bg-sidebar);
   border-right: 1px solid var(--border);
@@ -1792,7 +1792,7 @@ body.sidebar-collapsed .sidebar {{
   width: 0 !important;
   min-width: 0 !important;
   max-width: 0 !important;
-  margin-left: -360px !important;
+  margin-left: -380px !important;
   opacity: 0 !important;
   pointer-events: none !important;
   visibility: hidden !important;
@@ -1864,7 +1864,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
   display: inline-flex;
   align-items: center;
   gap: 5px;
-  font-size: 10px;
+  font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.6px;
   text-transform: uppercase;
@@ -1897,7 +1897,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
   flex-direction: column;
 }}
 .brand h1 {{
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 800;
   color: var(--text-heading);
   letter-spacing: 0.3px;
@@ -1905,17 +1905,17 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
   text-transform: uppercase;
 }}
 .brand-sub-en {{
-  font-size: 10px;
+  font-size: 11px;
   font-weight: 700;
   color: var(--text-secondary);
   letter-spacing: 0.5px;
   margin-top: 1px;
 }}
 .brand p {{
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 500;
   color: var(--text-secondary);
-  line-height: 1.35;
+  line-height: 1.45;
   margin-top: 3px;
 }}
 .brand-meta-bar {{
@@ -1923,7 +1923,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
   padding-top: 5px;
   border-top: 1px solid var(--border);
   font-family: 'JetBrains Mono', monospace;
-  font-size: 11px;
+  font-size: 12px;
   color: var(--text-secondary);
   display: flex;
   flex-wrap: nowrap;
@@ -1940,12 +1940,12 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
 }}
 .search-input {{
   width: 100%;
-  padding: 7px 11px;
+  padding: 8px 12px;
   border-radius: 8px;
   border: 1px solid var(--border);
   background: var(--bg-surface);
   color: var(--text-primary);
-  font-size: 13px;
+  font-size: 14px;
   outline: none;
   transition: border-color 0.15s;
 }}
@@ -1958,7 +1958,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
   padding: 6px 10px;
 }}
 .report-item {{
-  padding: 8px 11px;
+  padding: 10px 12px;
   border-radius: 8px;
   border: 1px solid transparent;
   margin-bottom: 4px;
@@ -1981,23 +1981,23 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
 }}
 .report-surah {{
   font-weight: 700;
-  font-size: 13px;
+  font-size: calc(14.5px * var(--font-scale, 1));
   color: var(--text-heading);
 }}
 .report-code {{
   font-family: 'JetBrains Mono', monospace;
-  font-size: 11px;
+  font-size: calc(12px * var(--font-scale, 1));
   color: var(--text-muted);
 }}
 .report-topic {{
-  font-size: 12px;
+  font-size: calc(13px * var(--font-scale, 1));
   color: var(--text-secondary);
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
-  line-height: 1.4;
+  line-height: 1.45;
 }}
 .report-item:hover .report-topic,
 .nav-item:hover .report-topic {{
@@ -2036,7 +2036,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  font-size: 12px;
+  font-size: 12.5px;
   color: var(--text-secondary);
   background: var(--bg-surface);
   padding: 6px 11px;
@@ -2046,7 +2046,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
 }}
 .stat-pill strong {{
   color: var(--text-heading);
-  font-size: 12px;
+  font-size: 12.5px;
 }}
 .top-actions {{
   display: flex;
@@ -2063,7 +2063,7 @@ body.sidebar-collapsed #sidebar-toggle .sidebar-pane-fill {{
   border: 1px solid var(--border);
   background: var(--bg-card);
   color: var(--text-primary);
-  font-size: 12px;
+  font-size: 12.5px;
   font-weight: 600;
   cursor: pointer;
   text-decoration: none;
@@ -2203,7 +2203,7 @@ summary.meta-summary:hover {{
   border: 1px solid var(--border);
   background: var(--bg-surface);
   color: var(--text-secondary);
-  font-size: 13px;
+  font-size: 13.5px;
   font-weight: 600;
   cursor: pointer;
   transition: background 0.15s, color 0.15s, border-color 0.15s;
@@ -4336,7 +4336,7 @@ function setSidebarWidth(px, persist = true) {{
   document.documentElement.style.setProperty('--sidebar-width', `${{clamped}}px`);
   document.body.style.setProperty('--sidebar-width', `${{clamped}}px`);
   if (persist) {{
-    try {{ localStorage.setItem('qv_sidebar_width', String(clamped)); }} catch (e) {{}}
+    try {{ localStorage.setItem('qv_sidebar_width_v63', String(clamped)); }} catch (e) {{}}
   }}
   return clamped;
 }}
@@ -4347,12 +4347,12 @@ function setSidebarWidth(px, persist = true) {{
   if (!resizer || !sidebar) return;
 
   let startX = 0;
-  let startWidth = 360;
+  let startWidth = 380;
 
   resizer.addEventListener('pointerdown', (e) => {{
     if (e.button !== 0 || document.body.classList.contains('sidebar-collapsed')) return;
     startX = e.clientX;
-    startWidth = sidebar.getBoundingClientRect().width || 360;
+    startWidth = sidebar.getBoundingClientRect().width || 380;
     resizer.setPointerCapture(e.pointerId);
     resizer.classList.add('dragging');
     document.body.classList.add('sidebar-resizing');
@@ -4371,7 +4371,7 @@ function setSidebarWidth(px, persist = true) {{
     if (resizer.classList.contains('dragging')) {{
       resizer.classList.remove('dragging');
       document.body.classList.remove('sidebar-resizing');
-      const finalWidth = sidebar.getBoundingClientRect().width || 360;
+      const finalWidth = sidebar.getBoundingClientRect().width || 380;
       setSidebarWidth(finalWidth, true);
     }}
   }};
@@ -4380,13 +4380,13 @@ function setSidebarWidth(px, persist = true) {{
   resizer.addEventListener('lostpointercapture', finishResize);
 
   resizer.addEventListener('dblclick', () => {{
-    setSidebarWidth(360, true);
+    setSidebarWidth(380, true);
   }});
 
   resizer.addEventListener('keydown', (e) => {{
     if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') {{
       e.preventDefault();
-      const curWidth = sidebar.getBoundingClientRect().width || 360;
+      const curWidth = sidebar.getBoundingClientRect().width || 380;
       const step = e.key === 'ArrowRight' ? 15 : -15;
       setSidebarWidth(curWidth + step, true);
     }}
@@ -4400,7 +4400,7 @@ function setSidebarWidth(px, persist = true) {{
     if (savedTheme === 'dark' || savedTheme === 'light') {{
       document.documentElement.setAttribute('data-theme', savedTheme);
     }}
-    const savedWidth = parseInt(localStorage.getItem('qv_sidebar_width') || '360', 10);
+    const savedWidth = parseInt(localStorage.getItem('qv_sidebar_width_v63') || '380', 10);
     if (!isNaN(savedWidth) && savedWidth >= 280 && savedWidth <= 550) {{
       setSidebarWidth(savedWidth, false);
     }}

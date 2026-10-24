@@ -5,7 +5,7 @@
 - **Tarih:** 24 Ekim 2026
 - **Önceki Sürümler:** `v5.1.3` $\rightarrow$ `v5.2.0` $\rightarrow$ `v6.0.0` $\rightarrow$ `v6.1.0` $\rightarrow$ `v6.1.1` $\rightarrow$ `v6.2.0` $\rightarrow$ `v6.2.1` $\rightarrow$ `v6.2.3` $\rightarrow$ `v6.3.0`
 - **Kapsam:** Katman 3 (Akademik-Derin); 5 Makro Faz, 26 Analiz Adımı, `Z-1..Z-5` Zorunlu/Koşullu Ekler (`Z-4.5` Çift Katmanlı Bibliyografya ve Birleşik Çift Tablolu `Z-5` dahil), 40 Dakikalık TYMM Pedagojik Ders Planı ve Çift Dilli (TR/EN) Yayın Hattı (36 Külliyat PDF'i + 2 Kongre PDF'i = 38 A4 PDF)
-- **Kalıcı CERN/Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23410818` (Sürüm DOI)
+- **Kalıcı CERN/Zenodo DOI:** `10.5281/zenodo.23391192` (Kavram DOI) | `10.5281/zenodo.23614712` (Sürüm DOI)
 - **Canlı Külliyat Portalı:** https://mehmetyarici-crypto.github.io/quran-vision/
 - **Açık Bilim Lisansı:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (`CC BY-NC-SA 4.0`)
 - **Tam Metin Eşleniği (`.txt`):** [`docs/QURAN_VISION_v6.2.3_TAM_TALIMAT.txt`](docs/QURAN_VISION_v6.2.3_TAM_TALIMAT.txt) | [`docs/tr/QURAN_VISION_v6.2.3_TAM_TALIMAT.txt`](docs/tr/QURAN_VISION_v6.2.3_TAM_TALIMAT.txt)

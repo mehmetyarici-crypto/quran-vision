@@ -2,6 +2,10 @@
 
 # Quran Vision — Kur'an Temelli Gelecek Vizyonu ve Stratejik Tefsir Çerçevesi (v6.3.0)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23614712.svg)](https://doi.org/10.5281/zenodo.23614712)
+
+> **Resmi CERN / Zenodo DOI:** [`https://doi.org/10.5281/zenodo.23614712`](https://doi.org/10.5281/zenodo.23614712) *(Kavram DOI: [`10.5281/zenodo.23391192`](https://doi.org/10.5281/zenodo.23391192))*
+
 > **Bu proje dini otorite iddia etmez.** Çıktılar yorumdur, hüküm değildir.
 > Kehanet, fetva veya kesin tarih iddiası taşımaz.
 

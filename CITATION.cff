@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "Quran Vision Corpus (Kur'ân Vizyonu Külliyatı): 26-Step Evidence-Based Strategic Tafsir, Maqasid & Civilization Foresight Corpus (v6.3.0)"
+message: "If you use this corpus, methodology, or any of its 17 foundational verse reports (34 TR/EN monographs) in your academic research or curriculum, please cite it using the official metadata below."
+type: dataset
+version: "6.3.0"
+date-released: "2026-10-31"
+url: "https://mehmetyarici-crypto.github.io/quran-vision/"
+repository-code: "https://github.com/mehmetyarici-crypto/quran-vision"
+license: CC-BY-NC-SA-4.0
+doi: "10.5281/zenodo.23614712"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23391192"
+    description: "Concept DOI (All versions of Quran Vision Corpus)"
+  - type: doi
+    value: "10.5281/zenodo.23614712"
+    description: "Version DOI (v6.3.0 Canonical Release — supersedes v6.2.3)"
+authors:
+  - family-names: "Yarıcı"
+    given-names: "Mehmet"
+    orcid: "https://orcid.org/0009-0003-0356-8582"
+    affiliation: "Proje Yürütücüsü & Baş Araştırmacı (Project Lead & Principal Investigator) | Uludağ Üniversitesi İlahiyat Fakültesi (1989) • T.C. Millî Eğitim Bakanlığı, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi"
+keywords:
+  - "Quranic Studies"
+  - "Strategic Tafsir"
+  - "Maqasid al-Shariah"
+  - "ISNAD 2"
+  - "Sufi Hermeneutics"
+  - "Bayesian Policy Simulation"
+  - "Islamic Law and Ethics"
+  - "Civilization Foresight"
+  - "TYMM Religious Education Pedagogy"
+abstract: >-
+  The Quran Vision Corpus (v6.3.0; supersedes v6.2.3), led and authored by Project Lead & Principal Investigator Mehmet Yarıcı (ORCID: 0009-0003-0356-8582; Uludağ University Faculty of Theology / Republic of Türkiye Ministry of National Education), with Academic Advisor Mehmet Emin Koç (ORCID: 0000-0002-1025-5643; Azerbaijan National Academy of Sciences / AMEA, Institute of Philosophy and Sociology), is a bilingual (Turkish/English) academic research corpus and interactive digital cockpit comprising 17 foundational Quranic verse monographs (34 TR/EN monographs: QV-2026-001 through QV-2026-017, including Kahf 18:83-98 and Muhammad 47:4 / An-Nur 24:33 / Al-Balad 90:13). Quality Assurance & Source Verification: gem_lint.py (V1–V17 Algorithmic Audit, L-2501..L-2508) & V16.2 Multi-Server Source Registry (371/371 Verified Sources: 241 Shamela + 18 Altafsir + 17 Ganjoor/Persian + 95 Institutional/Academic DOI & TDV; Internal Sample Verification: 86/371 [23.2%] — Mehmet Yarıcı). PDF Inventory: 38 Külliyat PDF'i (34 Tekil Monografi + 2 TR/EN Tam Külliyat [v6.3.0] + 1 İSNAD-2 Klasik Arapça Veritabanları Rehberi [ISNAD_2_Klasik_Arapca_Veritabanlari_Rehberi.pdf] + 1 TYMM DKAB 15 Âyet Ders Tasarımı Rehberi [TYMM_DKAB_15_Ayet_Ders_Tasarimi_Rehberi.pdf]) + 3 T.C. Millî Eğitim Bakanlığı (MEB) III. Maarif Kongresi (MOIJUB) PDF'i (Özet + Tam Metin + Sözlü Sunum) — Toplam 41 PDF.

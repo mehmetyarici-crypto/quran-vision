@@ -1,0 +1,493 @@
+---
+schema_version: "6.3.0"
+gem_version: "6.3.0"
+lint_version: "6.3.0"
+report_id: "QV-2026-0XX"
+case_id: "QV-2026-0XX"
+vaka_kodu: "QV-2026-0XX"
+surah: "{{SURE_ADI}}"
+sure: "{{SURE_ADI}}"
+verse: "{{SURE_NO}}:{{AYET_NO}}"
+ayet_no: "{{SURE_NO}}:{{AYET_NO}}"
+topic: "{{KONU_BASLIGI}}"
+konu: "{{KONU_BASLIGI}}"
+date: "{{TARIH}}"
+tarih: "{{TARIH}}"
+layer: 3
+katman: 3
+h6: true
+h6_durumu: true
+confidence_grade: "B"
+guven_duzeyi: "B"
+status: "PRE-RELEASE"
+integrity:
+  hash_mode: "external_sha256"
+  manifest_file: "05-ornek-rapor-v6.1.1.md.sha256"
+integrity_verification:
+  hash_algorithm: "SHA-256"
+  manifest_file: "docs/tr/05-ornek-rapor-v6.1.1.md.sha256"
+  verification_command: "shasum -a 256 -c docs/tr/05-ornek-rapor-v6.1.1.md.sha256"
+
+classical_sources:
+  - id: "src-zemahseri"
+    author: "Zemahşerî, Mahmûd b. Ömer"
+    death_year: "ö. 538/1144"
+    work: "el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl"
+    editor: "Âdil Ahmed Abdülmevcûd, Ali Muhammed Muavvaz"
+    publisher: "Mektebetü'l-Ubeykân"
+    publication_place: "Riyad"
+    publication_year: 1998
+    volume: "2"
+    pages: "247"
+    arabic_quote: "انسلخ الشهر، كقولك انجرد الشهر، وسنة جرداء. والْأَشْهُرُ الْحُرُمُ التي أبيح فيها للناكثين أن يسيحوا فَاقْتُلُوا الْمُشْرِكِينَ يعنى الذين نقضوكم وظاهروا عليكم حَيْثُ"
+    verification_link: "https://shamela.ws/book/23627/946"
+    doi_or_urn: "urn:shamela:23617"
+
+  - id: "src-ibn-faris"
+    author: "İbn Fâris, Ahmed b. Fâris"
+    death_year: "ö. 395/1004"
+    work: "Mu'cemü Makâyîsi'l-Lüğa"
+    editor: "Abdüsselâm Muhammed Hârûn"
+    publisher: "Dârü'l-Fikr"
+    publication_place: "Beyrut"
+    publication_year: 1979
+    volume: "3"
+    pages: "94"
+    arabic_quote: "السين واللام والخاء أصلٌ واحد، وهو إخراج الشئ عن جلده. ثم يُحْمَل عليه. والأصل سلختُ"
+    verification_link: "https://shamela.ws/book/21710/1163"
+    doi_or_urn: "urn:shamela:23721"
+
+  - id: "src-ibn-manzur"
+    author: "İbn Manzûr, Muhammed b. Mükerrem"
+    death_year: "ö. 711/1311"
+    work: "Lisânü'l-Arab"
+    editor: "Dârü Sâdır"
+    publisher: "Dârü Sâdır"
+    publication_place: "Beyrut"
+    publication_year: 1993
+    volume: "3"
+    pages: "179"
+    arabic_quote: "الرصَد، بِالتَّحْرِيكِ، الْقَلِيلُ مِنَ الكلإِ وَالْمَطَرِ. ابْنُ سِيدَهْ: الرَّصَدُ"
+    verification_link: "https://shamela.ws/book/1687/1621"
+    doi_or_urn: "urn:shamela:21605"
+
+  - id: "src-cessas"
+    author: "Cessâs, Ahmed b. Ali er-Râzî"
+    death_year: "ö. 370/981"
+    work: "Ahkâmü'l-Kur'ân"
+    editor: "Muhammed Sadık Kamhâvî"
+    publisher: "Dâru İhyâi't-Türâsi'l-Arabî"
+    publication_place: "Beyrut"
+    publication_year: 1992
+    volume: "4"
+    pages: "269"
+    arabic_quote: "اللَّه تَعَالَى فَإِذَا انْسَلَخَ الأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حيث وجدتموهم رَوَى مُعَاوِيَةُ بْنِ صَالِحٍ عَنْ عَلِيِّ بْنِ أَبِي طَلْحَةَ عَنْ ابْنِ عَبَّاسٍ في"
+    verification_link: "https://shamela.ws/book/23579/1415"
+    doi_or_urn: "urn:shamela:21571"
+
+  - id: "src-shamela-23629-647"
+    author: "Abdülkerîm b. Hevâzin el-Kuşeyrî"
+    death_year: "ö. 465/1072"
+    work: "Letâ'ifü'l-İşârât"
+    editor: "İbrâhîm Besyûnî"
+    publisher: "el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb"
+    publication_place: "Kahire"
+    publication_year: 1981
+    volume: "2"
+    pages: "8"
+    arabic_quote: "فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ كُلَّ مَرْصَدٍ... أَمَرَهُمْ بِمُعَالَجَةِ جَمِيعِ أَنْوَاعِ الْقِتَالِ مَعَ الْأَعْدَاءِ. وَأَعْدَى عَدُوِّكَ نَفْسُكَ الَّتِي بَيْنَ جَنْبَيْكَ... بِالتَّضْيِيقِ عَلَيْهَا بِالْمُبَالَغَةِ فِي جَمِيعِ أَنْوَاعِ الرِّيَاضَاتِ، وَاسْتِفْرَاغِ الْوُسْعِ فِي الْقِيَامِ بِصِدْقِ الْمُعَامَلَاتِ"
+    verification_link: "https://shamela.ws/book/23629/647"
+    doi_or_urn: "urn:shamela:23629"
+    mirrors:
+      - "https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=9&tAyahNo=5&tDisplay=yes"
+
+modern_sources:
+  - id: "mod-wjp"
+    institution: "World Justice Project (WJP)"
+    title: "WJP Rule of Law Index"
+    publication_year: 2025
+    publication_place: "Washington, D.C."
+    publisher: "World Justice Project"
+    url: "https://worldjusticeproject.org"
+    doi: "doi:10.34648/wjp.2025.01"
+
+  - id: "mod-worldbank"
+    institution: "World Bank Group"
+    title: "Worldwide Governance Indicators (WGI)"
+    publication_year: 2025
+    publication_place: "Washington, D.C."
+    publisher: "The World Bank"
+    url: "https://databank.worldbank.org"
+
+thresholds:
+  - id: "th-01"
+    name: "Örnek Politika Eşik Göstergesi"
+    value: "<= %15"
+    derivation_basis: "[TAHMİNÎ EŞİK] Modern mukayeseli ceza ve kamu politikası göstergelerine dayalı çalışma hipotezi"
+    is_empirical: false
+
+scenarios:
+  - id: "S1"
+    title: "Baz Senaryo"
+    scores:
+      olasilik: 3
+      tesir: 4
+      firsat: 3
+      kirilganlik: 3
+      stratejik_oncelik: 4
+    score_justification: "Metodolojik simülasyon ve tarihsel içtihat dengesi analizi."
+
+peer_review:
+  status: "PRE-RELEASE"
+  internal_linter_verified: true
+  project_lead: "Mehmet Yarıcı"
+  project_lead_orcid: "0009-0003-0356-8582"
+  academic_advisor: "Mehmet Emin Koç"
+  academic_advisor_orcid: "0000-0002-1025-5643"
+  academic_advisor_institution: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
+  review_date: "2026-10-24"
+  review_notes: "Metodolojik Not (İlke 4 — Rol Ayrımı): Algoritmik iç tutarlılık denetimi (gem_lint.py V1–V17, 0 BLOCK) ve V16.2 iç örneklem kontrolü (60/190 kaynak — Mehmet Yarıcı) tamamlanmış, akademik danışmanlık süreci Mehmet Emin Koç (AMEA, ORCID: 0000-0002-1025-5643) tarafından yürütülmüştür."
+---
+
+# {{SURE_ADI}} Sûresi {{SURE_NO}}:{{AYET_NO}} Tahlili — {{KONU_BASLIGI}}
+
+## FAZ I — KİMLİK, METİN VE BAĞLAM
+
+### ADIM 00 — KÜNYE VE GİRİŞ BİLGİLERİ
+- **Vaka Kodu:** QV-2026-0XX
+- **Âyet:** {{SURE_ADI}} {{SURE_NO}}:{{AYET_NO}}
+- **Konu Başlığı:** {{KONU_BASLIGI}}
+- **Tarih:** {{TARIH}}
+- **Sürüm:** v6.3.0
+- **Katman:** 3 (26 Adım + 5 Makro Faz + Z-1..Z-5)
+- **H6 Durumu:** Evet
+- **Dil:** Türkçe (TR)
+- **Güven Düzeyi:** B
+- **Rapor Durumu:** Ön Sürüm (`PRE-RELEASE`)
+- **Kriptografik Bütünlük Hash'i (SHA256):** Harici manifest ile doğrulanır (`05-ornek-rapor-v6.1.1.md.sha256`)
+
+---
+
+### ADIM 00-5 — DİL VE SEMANTİK MATRİSİ (H6 ZORUNLU)
+1. **Kök Anlam ve İştikak (İbn Fâris — Makâyîsü'l-Lüğa):**
+   - `[NAKİL]`: «السين واللام والخاء أصلٌ واحد، وهو إخراج الشئ عن جلده» **[TERCÜME]** (*"Sîn, lâm ve hâ harfleri tek bir asıldır ki o da bir şeyi derisinden sıyırıp çıkarmaktır"* — [İbn Fâris, Mu'cemü Makâyîsi'l-Lüğa, C. 3, s. 94](https://shamela.ws/book/21710/1163)).[^1]
+   - `[YORUM]`: (Kavramsal kök çıkarımı)
+2. **Kur'anî Semantik (Râgıb el-İsfahânî — el-Müfredât):**
+   - `[NAKİL]`: (Kur'an içi kavramsal kullanım tespiti, Arapça iktibas ve `**[TERCÜME]**` karşılığı).[^2]
+   - `[YORUM]`: (Nass bağlamında kazandığı özgün anlam)
+3. **Nahiv, İ'câz ve Belâğat (Zemahşerî — el-Keşşâf):**
+   - `[NAKİL]`: «انسلخ الشهر، كقولك انجرد الشهر، وسنة جرداء» **[TERCÜME]** (*"'İnselaha'ş-şehru' [ay sıyrılıp çıktı] ifadesi, tıpkı 'incerede'ş-şehru' [ay soyundu/tamamlandı] sözün gibidir"* — [Zemahşerî, el-Keşşâf, C. 2, s. 247](https://shamela.ws/book/23627/946)).[^4]
+   - `[YORUM]`: (Belâğî nükte ve anlamsal açılım)
+4. **Klasik Lisan ve Örf (İbn Manzûr — Lisânü'l-Arab):**
+   - `[NAKİL]`: «الرصَد، بِالتَّحْرِيكِ، الْقَلِيلُ مِنَ الكلإِ وَالْمَطَرِ» **[TERCÜME]** (*"Fethalı harekeyle 'er-rasad', az miktardaki ot ve yağmur demektir; gözetleme yeri anlamındaki 'mersad' da aynı kökten türemiştir"* — [İbn Manzûr, Lisânü'l-Arab, C. 3, s. 179](https://shamela.ws/book/1687/1621)).[^3]
+   - `[YORUM]`: (Tarihsel lisan tahlili)
+- **Çapraz Kontrol ve Dil Güvenliği:** Dörtlü lisan matrisinin iç tutarlılığı ve mutabakat tespiti.
+
+---
+
+### ADIM 01 — LAFZÎ TAHLİL
+- **Arapça Metin:** {{ARAPCA_METIN}}
+- **Kelime Mealleri:**
+- **Klasik Tefsir ve Zemahşerî Tahlili:**
+  - `[NAKİL]`: «اللَّه تَعَالَى فَإِذَا انْسَلَخَ الأَشْهُرُ الْحُرُمُ فَاقْتُلُوا الْمُشْرِكِينَ حيث وجدتموهم» **[TERCÜME]** (*"Yüce Allah'ın 'Haram aylar sıyrılıp çıktığında, ahdi bozan müşrikleri bulduğunuz yerde etkisiz hâle getirin' buyruğu..."* — [Cessâs, Ahkâmü'l-Kur'ân, C. 4, s. 269](https://shamela.ws/book/23579/1415)).
+  - `[YORUM]`: ...
+
+---
+
+### ADIM 02 — MANTIKSAL SEMANTİK VE KARŞIT İLKE TESTİ
+- **Önerme Yapısı:**
+- **Karşıt İlke Testi:** Nassın koruduğu asıl makasıd ile çatışan alternatif maslahatların tartılması ve sınır tayini.
+
+---
+
+### ADIM 03 — ÜÇLÜ ÇERÇEVE (ETHOS / LOGOS / PATHOS) VE İS-OUGHT KÖPRÜSÜ
+- **Ethos (Ahlaki Yük):**
+- **Logos (Mantıksal Tutarlılık):**
+- **Pathos (Vicdani ve Duygusal Tesir):**
+- **İs-Ought Köprüsü ve Hume Giyotini:** Olgudan (olan) değere (olması gereken) geçerken mantıksal sıçramaların engellenmesi; olgu-değer ayrımının korunması.
+
+---
+
+### ADIM 04 — MAKASID ANALİZİ
+- **Küllî Makasıd:** Can, mal, akıl, nesil, din emniyeti.
+- **Şâtıbî ve İbn Âşûr Çerçevesi:**
+  - `[NAKİL]`: ...
+  - `[YORUM]`: ...
+
+---
+
+### ADIM 04b — YORUMCU KONUMU (GADAMER HERMENÖTİĞİ)
+1. **Usûl Ekolü:** (Örn. Çoğulcu-Makāsıdî Hanefî yaklaşımı)
+2. **Felsefi Perspektif:** (Örn. Eleştirel realizm ve sistem kuramı)
+3. **Alternatif Yorumcu Konumu:** (Örn. Zâhirî veya lafızcı bir usûlün üreteceği farklı netice)
+
+---
+
+### ADIM 05 — SİYAK-SİBAK ANALİZİ (S1–S7)
+- **S1 (Önceki Âyet):**
+- **S2 (Sonraki Âyet):**
+- **S3 (Pasajın Konumu):**
+- **S4 (Sûre İçi Bütünlük):**
+- **S5 (Nüzûl Sebepleri ve Hitap):**
+- **S6 (Tarihsel Bağlam):**
+- **S7 (Kırpma Riski):** Âyetin bağlamından koparılması riski ve metin içi emniyet kilidi.
+
+---
+
+### ADIM 06 — ÇAPRAZ ÂYET ANALİZİ
+- Nassı tahsis veya takyid eden çapraz âyetler zinciri. Hitap kapsam ilişkisi (`N4`).
+
+---
+
+## FAZ II — SİSTEM VE GELECEK MODELLEMESİ
+
+### ADIM 07 — SİSTEM HARİTASI (CAUSAL LOOP DİAGRAMI)
+- Geri besleme döngüleri, pekiştirici (R) ve dengeleyici (B) mekanizmalar, gecikmeler ve tipping point kırılma noktaları.
+
+---
+
+### ADIM 08 — DÖRT SENARYO VE STRATEJİK DEĞERLENDİRME
+- **Senaryo 1 (Koruyucu / İdeal Uygulama):**
+- **Senaryo 2 (Yozlaşma ve Şekilcilik):**
+- **Senaryo 3 (Sosyal Çözülme / Denge Kaybı):**
+- **Senaryo 4 (İhya ve Dönüştürücü Reform):**
+*(Tüm puanlar YAML frontmatter altındaki gerekçelere dayanır; V5 kuralı).*
+
+---
+
+### ADIM 09 — ZAMAN UFKU BANDI (H1–H4)
+- **H1 (0–3 Yıl):** Yakın dönem yıllık pencere.
+- **H2 (3–10 Yıl):** Orta vadeli zaman aralığı.
+- **H3 (10–30 Yıl):** Yapısal kurumsal dönem.
+- **H4 (30+ Yıl Medeniyet Ufku):** Uzun erimli stratejik ufuk.
+
+---
+
+### ADIM 10 — MORFOLOJİK GÖZLEM
+- Bilgisayarlı morfolojik frekans ve vezin özellikleri (Ebced ve sayısal batıl teviller yasaktır).
+
+---
+
+### ADIM 10b — BELİRSİZLİK VE KARAR STRATEJİSİ
+- Knightian belirsizlik parametreleri, robust ve minimax stratejileri.
+
+---
+
+## FAZ III — SINAMA, KARŞI OKUMA VE AHLAKÎ DEĞERLENDİRME
+
+### ADIM 11 — 8 İÇ DENETİM TESTİ (ALGORİTMİK İÇ TUTARLILIK)
+- **Test 1:** Lafız ve semantik uyumu.
+- **Test 2:** Siyak-sibak tutarlılığı.
+- **Test 3:** Makasıd dengesi.
+- **Test 4:** Karşıt ilke tutarlılığı.
+- **Test 5:** S7 kırpma riski denetimi.
+- **Test 6:** Dil güvenliği ve mutlakiyet yasağı.
+- **Test 7:** Taban oran (Base-rate) ve veri uyumu.
+- **Test 8:** Öz-denetim ve rol ayrımı.
+*(ÖNEMLİ: Bu testler algoritmik iç tutarlılık denetimidir; bağımsız dış akademik hakem onayı değildir).*
+
+---
+
+### ADIM 12 — RED TEAM (KARŞIT OKUMA) VE FALSIFIABILITE PROTOKOLÜ
+- **Red Team İtirazları:**
+- **Falsifiabilite Protokolü (Yalnızca Ampirik ve Dünyevi Politika Hipotezlerine):**
+  - **Uygulanan Alan:** Karar kollarındaki ampirik uygulama modeli.
+  - **Zaman Aralığı:** 5 Yıllık İzleme Penceresi (2026–2031).
+  - **Bağımsız Endeks / Veri Kaynağı:** Dünya Bankası Hukukun Üstünlüğü Endeksi veritabanı / BM İnsani Gelişme Raporu.
+  - **Sayısal Eşik ve Tipping Point:** Eğer belirlenen sayısal eşik aşılırsa politika hipotezi yanlışlanmış kabul edilir.
+
+---
+
+### ADIM 13 — ENFÜSÎ-ÂFÂKÎ DİYALEKTİK VE KALP FIKHI (İRFÂNÎ / İŞÂRÎ KATMAN)
+
+#### 13.1. Enfüsî-Âfâkî Diyalektik (Varlık ve Algı Düzeyi)
+- **[YORUM]** Âyetin dışsal ve kurumsal boyutu (âfâk) ile bireyin içsel vicdan ve niyet muhasebesi (enfüs) arasındaki ontolojik ayna ilişkisi (Fussilet 41:53) ve Adım 15 karar kollarına kurduğu ahlâkî köprü.
+
+#### 13.2. Kalp Fıkhı ve Bâtınî İlletler (*Fıkhü'l-Bâtın*)
+- **[YORUM]** Hâris el-Muhâsibî (*er-Ri'âye li-Hukûkillâh*) ve Ebû Hâmid el-Gazzâlî (*İhyâ'u 'Ulûmi'd-Dîn*) metodolojisiyle bâtınî illetlerin (kibir, riyâ, ucb, tamah, gazap, kasvet) teşhisi ve tezkiyesi.
+
+#### 13.3. Klasik İşârî ve İrfânî Tahrîc
+- **[NAKİL]** Abdülkerîm el-Kuşeyrî (*Letâ'ifü'l-İşârât*, C. 2, s. 8, [shamela.ws/book/23629/647](https://shamela.ws/book/23629/647) | [altafsir.com](https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=9&tAyahNo=5&tDisplay=yes)): «فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ وَخُذُوهُمْ وَاحْصُرُوهُمْ وَاقْعُدُوا لَهُمْ كُلَّ مَرْصَدٍ... أَمَرَهُمْ بِمُعَالَجَةِ جَمِيعِ أَنْوَاعِ الْقِتَالِ مَعَ الْأَعْدَاءِ. وَأَعْدَى عَدُوِّكَ نَفْسُكَ الَّتِي بَيْنَ جَنْبَيْكَ... بِالتَّضْيِيقِ عَلَيْهَا بِالْمُبَالَغَةِ فِي جَمِيعِ أَنْوَاعِ الرِّيَاضَاتِ، وَاسْتِفْرَاغِ الْوُسْعِ فِي الْقِيَامِ بِصِدْقِ الْمُعَامَلَاتِ» **[TERCÜME]** (*"Allah onlara düşmanlarla her türlü mücadeleyi emretmiştir; senin en azılı düşmanın ise iki yanının arasındaki nefsindir; ona karşı mücadele, her türlü riyâzetle onu daraltmak ve muamelelerde sıdk ile olanca gücü sarf etmektir."*).[^5]
+- **[YORUM]** İşârî ibarenin zâhirî fıkıh hükmünü iptal etmeksizin kurduğu kalbî derinlik sentezi.
+---
+
+## FAZ IV — BAYES, KARAR VE ETİK DENETİM
+
+### ADIM 14 — ERKEN UYARI SİNYALLERİ VE BAYES GÜNCELLEMESİ
+- **Erken Uyarı Sinyalleri (EU-01..EU-04):**
+- **Bayes Güncelleme Alanı:**
+  - **Önsel Olasılık (Prior P(H)):** 0.35 (Ampirik gerekçeli veya öznel çalışma hipotezi).
+  - **Veri / Kanıt P(E|H):**
+  - **Sonsal Olasılık (Posterior P(H|E)):** Güncellenmiş olasılık.
+
+---
+
+### ADIM 15 — KARAR VE POLİTİKA KOLLARI (K1–Kn)
+- **Karar Kolu 1 (K1):**
+  - **Aktör:** ...
+  - **Hedef Değişken:** ...
+  - **Araç:** ...
+  - **CLD Kaldıraç Noktası:** Adım 07'deki döngüye müdahale.
+  - **Eşik:** [TAHMİNÎ EŞİK] ...
+- **Karar Kolu 2 (K2):**
+  - **Aktör:** ...
+  - **Eşik:** [TAHMİNÎ EŞİK] ...
+- **Karar Kolu 3 (K3):**
+  - **Aktör:** ...
+  - **Eşik:** [TAHMİNÎ EŞİK] ...
+
+---
+
+### ADIM 16 — ÖNYARGI VE TARAFLILIK DENETİMİ
+- Modernist, mezhepçi veya apologetik anakronizm filtreleri.
+- Dil güvenliği ve öz-denetim: Yasaklı kelime kullanılmamıştır.
+
+---
+
+## FAZ V — GÜVEN, SORUMLULUK VE İZLEME KAYDI
+
+### ADIM 17 — GÜVEN DÜZEYİ
+- **Nitel Derece:** B (Orta-Yüksek Analitik Güven). Sayısal bir olasılık veya kesinlik değildir.
+
+---
+
+### ADIM 17b — AKTÖR VE GÜÇ HARİTASI
+- Karar vericiler, uygulayıcılar, etkilenen gruplar ve gelecek nesiller.
+
+---
+
+### ADIM 18 — BİLGİ TABANI VE ZAYIFLIK LİSTESİ
+- İddia bilgi statüleri (kaynaklı nakil, analitik yorum, çalışma hipotezi).
+- Yöntemin temel sınırlılıkları ve zayıflıkları.
+
+---
+
+### ADIM 18.1 — DİL GÜVENLİĞİ
+- Rapor metninde kesinlik, tekelcilik veya sahte-onay iddialarından arındırma denetimi.
+
+---
+
+### ADIM 19 — İZLEME VE GERİYE DÖNÜK SINAMA (RETRODICTION)
+- **İzleme KPI:**
+- **Retrodiction:** Tarihsel örnek olay üzerinde modelin geriye dönük sınanması.
+
+---
+
+### ADIM 20 — AÇIK ARAŞTIRMA SORULARI, VARSAYIMLAR VE 40 DAKİKALIK TYMM PEDAGOJİK DERS PLANI
+
+#### 20.1. Genel Bilgiler, TTKB 2026 Program Hizalaması ve Beceri Matrisi
+- Çözümlenmemiş açık araştırma soruları ve analizin dayandığı temel varsayımlar.
+- **Öğrenme Çıktısı:** `DKAB.10.1.3` • **Alan Becerileri:** `DAB1`, `DAB2`, `DAB3` • **Sosyal-Duygusal Beceriler:** `SDB1.2`, `SDB3.3`.
+
+#### 20.2. Beş Aşamalı 40 Dakikalık Ders Akış Raporu ve Doldurulmuş Uygulama Araçları
+- **Anlam Çözümleme Tablosu**, **Yapılandırılmış Grid**, **Zıt Panel**, **Konuşma Halkası** ve **Çıkış Kartı** uygulamaları.
+
+#### 20.3. Farklılaştırma Protokolü (Zenginleştirme ve Destekleme)
+- **Zenginleştirme (Enrichment)** ve **Destekleme (Support / Scaffolding)** basamakları.
+
+#### 20.4. Metodolojik Denetim ve 3'lü Doğrulama Filtresi
+- Lafzî iktibas, pedagojik süreç ve din istismarını önleme (`Quran Vision v6.3.0`) filtreleri.
+
+---
+
+## KOŞULLU EKLER (Z-1 — Z-5)
+
+### Z-1 · ŞABLONA SIĞMAYAN ÖZGÜN PROBLEMATİK [V9 ZORUNLU]
+Bu âyetin analitik şablonun sınırlarını aşan özgün aporiası, teolojik gerilimi veya felsefi açmazı burada açıkça tartışılır. Sistemin nerede durduğu ve cevapsız kalan hususlar dürüstçe ortaya konur.
+
+---
+
+### Z-2 · GÖRÜŞ İHTİLAFI CETVELİ [V3 ZORUNLU]
+| Görüş Sahibi / Ekol | Lafzî Yorumu | Hukuki / İtikadi Neticesi | Dayandığı Delil |
+| :--- | :--- | :--- | :--- |
+| **Görüş 1 (Cumhur / Klasik)** | ... | ... | ... |
+| **Görüş 2 (Alternatif Mezhep)** | ... | ... | ... |
+| **Görüş 3 (Tasavvufi / İrfanî)** | ... | ... | ... |
+| **Görüş 4 (Çağdaş / Tarihselci)** | ... | ... | ... |
+
+---
+
+### Z-3 · ZAYIFLIK, VARSAYIM VE GELİŞTİRME ÖNERİLERİ LİSTESİ
+- **Temel Varsayımlar:**
+- **Metodolojik Zayıflıklar ve Geliştirme Önerisi:**
+- **Açık / Cevaplanmamış Sorular:**
+
+---
+
+### Z-4 · STANDART VE DÜRÜST SINIR İFADESİ [V10 ZORUNLU]
+> **METODOLOJİK VE EPİSTEMİK SINIR BEYANI:**
+> Bu rapor; Kur'an Temelli Gelecek Vizyonu (Quran Vision v6.3.0) mimarisi çerçevesinde üretilmiş analitik ve hermenötik bir modellemedir. Dini bir fetva, kesin kazi bir hüküm veya ilahi muradın eksiksiz ve yegâne tefsiri niteliği taşımaz. Raporda yer alan simülasyonlar, göstergeler ve politika kolları; analistin benimsediği usûl ekolünün ve ampirik varsayımların bir türevidir. Bu metin, kod tabanlı biçimsel iç tutarlılık denetiminden (gem_lint.py) geçmiş olup, bağımsız dış akademik hakem heyeti (peer-review) tarafından tescil edilmedikçe bilimsel kesinlik iddiası barındırmaz.
+
+---
+
+### Z-4.5 · AKADEMİK KAYNAKÇA (İSNAD 2 VE APA / DOI BİBLİYOGRAFYASI)
+
+#### A) Klasik Kaynaklar (İSNAD 2 Standardı — Birincil Arapça Metinler)
+- **İbn Fâris, Ebü'l-Hüseyn Ahmed b. Fâris b. Zekeriyyâ (ö. 395/1004).** *Mu'cemü Makâyîsi'l-Lüğa*. Tahkik: Abdüsselâm Muhammed Hârûn. 6 Cilt. Beyrut: Dârü'l-Fikr, 1399/1979.
+- **İbn Manzûr, Muhammed b. Mükerrem (ö. 711/1311).** *Lisânü'l-Arab*. 15 Cilt. Beyrut: Dârü Sâdır, 1410/1990.
+- **Râgıb el-İsfahânî, Ebü'l-Kâsım Hüseyn b. Muhammed (ö. 502/1108 [?]).** *el-Müfredât fî Garîbi'l-Kur'ân*. Tahkik: Safvân Adnân Dâvûdî. Dımaşk: Dârü'l-Kalem, 1412/1992.
+- **Zemahşerî, Cârullah Ebü'l-Kâsım Mahmûd b. Ömer (ö. 538/1144).** *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl*. Tahkik: Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavvaz. 6 Cilt. Riyad: Mektebetü'l-Ubeykân, 1418/1998.
+- **Kuşeyrî, Abdülkerîm b. Hevâzin (ö. 465/1072).** *Letâ'ifü'l-İşârât*. Tahkik: İbrâhîm Besyûnî. Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981, Cilt: 2, s. 8. (Dijital Tahkik: https://shamela.ws/book/23629/647 | Ayna: https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=9&tAyahNo=5&tDisplay=yes)
+
+#### B) Çağdaş Kurumsal ve Akademik Kaynaklar (APA 7 / DOI Standardı)
+- **World Bank Group (2025).** *Worldwide Governance Indicators (WGI)*. Washington, D.C.: The World Bank. Erişim adresi: https://databank.worldbank.org
+- **World Justice Project [WJP] (2025).** *WJP Rule of Law Index*. Washington, D.C.: World Justice Project. https://worldjusticeproject.org
+
+#### C) Metin İçi Atıf ve Dipnotlar
+[^1]: İbn Fâris, *Mu'cemü Makâyîsi'l-Lüğa*, thk. Abdüsselâm Muhammed Hârûn (Beyrut: Dârü'l-Fikr, 1979), 1: 1-5.
+[^2]: Râgıb el-İsfahânî, *el-Müfredât fî Garîbi'l-Kur'ân*, thk. Safvân Adnân Dâvûdî (Dımaşk: Dârü'l-Kalem, 1992), 1-10.
+[^3]: İbn Manzûr, *Lisânü'l-Arab* (Beyrut: Dârü Sâdır, 1990), 1: 1-10.
+[^4]: Zemahşerî, *el-Keşşâf 'an Hakâ'ikı Gavâmizi't-Tenzîl* (Riyad: Mektebetü'l-Ubeykân, 1998), 1: 1-10.
+[^5]: Abdülkerîm b. Hevâzin el-Kuşeyrî, *Letâ'ifü'l-İşârât*, thk. İbrâhîm Besyûnî (Kahire: el-Hey'etü'l-Mısriyyetü'l-Âmme li'l-Kitâb, 1981), 2: 8 (https://shamela.ws/book/23629/647 | https://www.altafsir.com/Tafasir.asp?tMadhNo=3&tTafsirNo=31&tSoraNo=9&tAyahNo=5&tDisplay=yes).
+
+---
+
+### Z-5 · BAĞIMSIZ DIŞ HAKEM DEĞERLENDİRME FORMU [ZORUNLU V11]
+
+| Alan / Kriter | Değerlendirme ve Doğrulama Kaydı |
+| :--- | :--- |
+| **Belge Statüsü** | `PRE-RELEASE (Ön Sürüm — Algoritmik İç Tutarlılık ve İç Örneklem Doğrulaması Tamamlandı)` |
+| **Proje Yürütücüsü & Baş Araştırmacı** | **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582` — Uludağ Üniversitesi İlahiyat Fakültesi, 1989 • T.C. MEB, İstanbul Bahçelievler Dede Korkut Anadolu Lisesi) |
+| **Akademik Danışman** | **Mehmet Emin Koç** (`ORCID: 0000-0002-1025-5643` — Azerbaycan Milli İlimler Akademisi [AMEA], Felsefe ve Sosyoloji Enstitüsü) |
+| **Kalite Güvencesi ve Kaynak Doğrulama** | `gem_lint.py` (V1–V17 Algoritmik Denetim — `0 BLOCK`) & V16.2 İç Örneklem Kontrolü (`60/190 Kaynak — Mehmet Yarıcı`) |
+| **Metodolojik Rol Ayrımı (İlke 4 / V17)** | Proje yürütücüsü (`Mehmet Yarıcı`) ile akademik danışman (`Mehmet Emin Koç`) rolleri `data/people_registry.yaml` ve `L-2507` kuralları uyarınca kesin olarak ayrılmıştır; iç algoritmik/örneklem denetimi bağımsız dış hakem onayı olarak sunulamaz. |
+| **Bağımsız Dış Hakem Görüşü (Kör Hakemlik)** | `[DIŞ HAKEM DEĞERLENDİRMESİ BEKLENİYOR — PRE-RELEASE]` |
+| **Tarih ve Doğrulama İmzası** | `{{TARIH}}` • Kriptografik SHA-256 Manifest: `checksums.sha256` |
+
+| Akademik Hakem Değerlendirme Boyutu | Kapsam ve Denetim Ölçütü | Rubrik Puanı |
+| :--- | :--- | :--- |
+| **Rapor Künyesi, Danışmanlık ve Kalite Güvencesi** | Rapor: **QV-2026-0XX ({{SURE_ADI}} {{SURE_NO}}:{{AYET_NO}})** • Uzmanlık Alanı: *{{KONU_BASLIGI}}* • Proje Yürütücüsü: **Mehmet Yarıcı** (`ORCID: 0009-0003-0356-8582`) • Akademik Danışman: **Mehmet Emin Koç** (AMEA, `ORCID: 0000-0002-1025-5643`) • Kalite Güvencesi: **gem_lint.py (V1–V17) & V16.2 İç Örneklem Kontrolü (60/190 — Mehmet Yarıcı)** • Tarih: `{{TARIH}}` | **ÖN SÜRÜM (Açık Hakemlik)** |
+| **1. Metin ve Klasik Tahkik (İSNAD 2)** | Arapça ibare doğruluğu, cilt/sayfa tahkiki ve `[NAKİL]` / `[YORUM]` ayrımı | **— / 20** |
+| **2. Sosyo-Politik ve Kriz Analizi** | Aktör haritası, kırılma noktası (N4) ve tarihsel retrodiction tutarlılığı | **— / 20** |
+| **3. Dil Güvenliği ve Tarafsızlık** | Mezhebî/ideolojik indirgemecilikten uzak, kapsayıcı ve akademik üslup | **— / 20** |
+| **4. Falsifiabilite ve Hume Giyotini** | Olgu-değer ayrımı, yanlışlanabilir eşikler (th-01..03) ve DOI veri uyumu | **— / 20** |
+| **5. Kurumsal Tasarım ve Özgünlük** | Uygulanabilir politika kolları, TYMM pedagojik uyumu ve Z-1 Aporia derinliği | **— / 20** |
+| **TOPLAM AKADEMİK SKOR** | **Dış Hakem Kararı:** Bağımsız Akademik Hakem Değerlendirmesine Açık | **— / 100** |
+| **Editoryal Derkenar Notu** | İlke 4 (Rol Ayrımı) ve `L-2507` uyarınca proje yürütücülüğü (`Mehmet Yarıcı — ORCID: 0009-0003-0356-8582`), akademik danışmanlık (`Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643`) ve kalite güvencesi/kaynak doğrulama (`gem_lint.py` V1–V17 & V16.2 60/190 iç örneklem kontrolü) rolleri birbirinden kesin olarak ayrılmıştır. | `INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)` |
+
+```yaml
+hakem_degerlendirme_protokolu:
+  rapor_id: "QV-2026-0XX"
+  sure_ayet: "{{SURE_ADI}} {{SURE_NO}}:{{AYET_NO}}"
+  tarih: "{{TARIH}}"
+  status: "PRE-RELEASE"
+  proje_yurutucusu:
+    ad_soyad: "Mehmet Yarıcı"
+    orcid: "0009-0003-0356-8582"
+  akademik_danisman:
+    ad_soyad: "Mehmet Emin Koç"
+    orcid: "0000-0002-1025-5643"
+    kurum: "Azerbaycan Milli İlimler Akademisi (AMEA), Felsefe ve Sosyoloji Enstitüsü"
+  kalite_guvencesi_ve_kaynak_dogrulama:
+    motor: "gem_lint.py (V1–V17 Algoritmik Denetim) & V16.2 İç Örneklem Kontrolü (60/190 Kaynak — Mehmet Yarıcı)"
+    uzmanlik_alani: "{{KONU_BASLIGI}}"
+  rubrik_puanlamasi:
+    boyut_1_metin_ve_tahkik: "— / 20"
+    boyut_2_sosyo_politik_ve_kriz_analizi: "— / 20"
+    boyut_3_dil_guvenligi_ve_tarafsizlik: "— / 20"
+    boyut_4_falsifiabilite_ve_hume_giyotini: "— / 20"
+    boyut_5_kurumsal_tasarim_ve_ozgunluk: "— / 20"
+    toplam_skor: "— / 100"
+  kalite_guvence_statu: "INTERNAL_AUDIT_VERIFIED (0 BLOCK, 0 WARN)"
+  derkenar_notu: "İlke 4 (Rol Ayrımı) ve L-2507 uyarınca proje yürütücülüğü (Mehmet Yarıcı — ORCID: 0009-0003-0356-8582), akademik danışmanlık (Mehmet Emin Koç — AMEA — ORCID: 0000-0002-1025-5643) ve kalite güvencesi/kaynak doğrulama (gem_lint.py V1–V17 & V16.2 60/190 iç örneklem kontrolü) rolleri birbirinden kesin olarak ayrılmıştır."
+```

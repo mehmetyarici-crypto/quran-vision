@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mehmetyarici-crypto.github.io/quran-vision/sitemap.xml
